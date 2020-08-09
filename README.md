@@ -40,6 +40,16 @@ Example of how to call it:
 python3.5 alignmentCore.py FolderPath(CompanyCode_YearMonthDay) TextPath(WorkDirectory/CompanyCode_YearMonthDay) AudioPath(WorkDirectory/CompanyCode_YearMonthDay/CompanyCode_YearMonthDay) AudioFormat(Eg."mp3") WorkDirectory LogFileName(Eg."log1.txt")
 ```
 
+# Reference
+
+\copyrightyear{2020}
+\acmYear{2020}
+\setcopyright{acmcopyright}\acmConference[CIKM '20]{Proceedings of the 29th ACM International Conference on Information and Knowledge Management}{October 19--23, 2020}{Virtual Event, Ireland}
+\acmBooktitle{Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM '20), October 19--23, 2020, Virtual Event, Ireland}
+\acmPrice{15.00}
+\acmDOI{10.1145/3340531.3412879}
+\acmISBN{978-1-4503-6859-9/20/10}
+
 # Terms Of Use
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
