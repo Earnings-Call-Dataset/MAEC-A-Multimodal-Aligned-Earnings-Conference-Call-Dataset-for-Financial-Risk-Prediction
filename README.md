@@ -21,7 +21,7 @@ In the **Iterative Forced Alignment** folder, we released our code for text-audi
 
 ### Prerequisites
 
-Python version and packages you need to install for execute the code.
+Python version and packages required to install for execute the code.
 
 ```
 Python 3.5
