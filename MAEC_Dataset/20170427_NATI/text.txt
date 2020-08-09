@@ -1,0 +1,153 @@
+Good afternoon.
+During the course of this conference call, we shall make forward-looking statements, including statements regarding the impact of currency exchange rates, restructuring charges and our guidance for revenue and earnings per share for the second quarter of 2017.
+We wish to caution you that such statements are just predictions and that actual events or results may differ materially.
+We refer you to the documents the company files regularly with the Securities and Exchange Commission, including the company's annual report on Form 10-K filed on February 16, 2017.
+These document's contain and identify important factors that could cause our actual results to differ materially from those contained in our forward-looking statements.
+With that, I will now turn it over to the Chief Executive Officer of National Instruments Corporation, Alec <UNK>.
+Good afternoon and thank you for joining us today.
+My key messages today are: Record revenue for the first quarter, 9% year-over-year order growth; and strong operating leverage.
+In Q1, I was encouraged by the solid execution and focus on growth by our entire global team, which contributed to the achievement of our Q1 revenue record.
+Core revenue was up 7% year-over-year in Q1 and non-GAAP operating income was up 37% year-over-year as we made progress towards achieving our operating model.
+Our ability to capitalize on the improved economic conditions has come from sharp focus on key growth areas within our space.
+Investments in RF and wireless, modular instrumentation, sensor measurements and software are enabling our customers to use our platform to solve new challenges within the markets for 5G, semiconductor tests, connected vehicles and the industrial Internet of Things.
+And as open software-based platform delivers significant value by helping these customers get to market faster than the traditional approach.
+As I looked at the rest of the year, we will be disciplined in our focus on execution as we pursue our growth and our profitability goals.
+Turning to revenue performance, I was encouraged to see improved growth across the business.
+We saw revenue growth in all 3 regions and across most product lines.
+From an industry perspective, we saw strong revenue growth in wireless, semiconductor and transportation, which aligns well with our product and channel investments.
+Additionally, we saw revenue growth in our broad-based portfolio, PC data acquisition and instrument control products, correlating with the strengthening PMI.
+For software, we saw a record revenue for a first quarter driven by a high renewal rates of our customers and excitement around the upcoming release of our next-generation LabVIEW platform at NIWeek.
+We believe that this growth underscores the continued value our software platform provides for our broad portfolio of customers.
+For more than 30 years, LabVIEW has provided our customers a more productive approach to building test, measurement and control systems.
+The combination of powerful graphical programming and intuitive user interface development with [power] integration is proven to be an accelerator in the development of systems, spanning an incredibly diverse set of industries and applications.
+Helping our customers get to market sooner than those using a traditional approach.
+As we look NIWeek '17, we will build on the software technology preview program from 2016 and we will be announcing the next generation of software that we believe will once again revolutionize how engineers and scientists develop systems.
+PXI and RF products had strong year-over-year revenue growth in Q1, demonstrating the differentiation and value of modular instrumentation in design, validation and automated test.
+The rest of our modular instrumentation portfolio, combined with our differentiated approach for programming FPGA's directly with LabVIEW has resulted in a unique value to our customers by enabling development of highly complexed custom instrumentation at the software level.
+For example, NI engineers recently demonstrated the world's first over-the-air transmission of Verizon's 28 gigahertz 5G specification at the IEEE wireless communications and networking conference.
+Because the system uses LabVIEW FPGA-enabled instrumentation, engineers can quickly prototype and optimize their system, giving them a significant time to market advantage.
+Another example related to 5G research is the collaboration of NI and AT&T to develop a channel of sounder that will speed up the development of advanced models for AT&T's network.
+Within data acquisition, I was pleased to see the expected correlation of our broad-based products with the improved PMI.
+Data acquisition products provides the link between the physical world and the digital world, which is becoming increasingly important as the machines and devices that we interact with become smarter.
+For example, automotive sensing and intelligence has improved the safety and convenience of new vehicles by incorporating advanced driver assistance systems and intelligent infotainment.
+These advancements require a significantly greater investment in component and in system-level test.
+To keep up with a growing test requirements, engineers at Valeo have developed a system based on NI platform to record or playback data from multiple sensors to develop test scenarios for validation and control algorithms.
+This test methodology will help them validate their customers' components faster and get safer systems to market sooner.
+With measurements and processing at the edge of advanced networking capabilities, we expect CompactRIO to be a key component of the industrial IoT.
+Led by an increasing pressure to drive operational efficiency, Industrial IoT has brought together companies from across the technology spectrum.
+And at NIWeek, our customers and partners will demonstrate areas with this collaboration, has given them insight into their business enabling data-driven decisions that drive operational improvement.
+This tremendous excitement building for NIWeek and the upcoming LabVIEW launch were currently on track to welcome our record number of attendees.
+Each year, NIWeek brings together users, decision-makers and NI engineers to discuss technical challenges, gain insight into new technology trends and leave with new approaches to solving many of the world's most impactful problems.
+I am excited to celebrate the impact our customers are having on the world and to see our teams unveil the latest products that will further differentiate our platform for our existing customers and which will expand the number of users we can serve.
+Now I'll turn it over to <UNK> <UNK>, Executive Vice President of Sales and Marketing to tell you more about what you expect at this year's NIWeek.
+<UNK>.
+Thank you, Alec, and good afternoon.
+With our attendance tracking to be up more than 50% year-over-year, we are expecting to see an all-time record for NIWeek attendance.
+I want to take a couple of minutes to give you a preview of the products, customers and topics we are going to be showing in Austin on May 22 through the May 25.
+We will start with our global sales conference where we'll welcome over 700 NI sellers from around the world to train on our latest products and technologies and collaborate on how we can create more value for our customers.
+Our partners will then join us for a Alliance day, where we expect another all-time record with nearly 800 partners in attendance.
+Following Alliance day, thousands of our customers will arrive in Austin to attend the largest event of its kind in our industry.
+These people come to NIWeek each year because they see our platform as a solution to the challenges they face in bringing new technologies to market at an ever-increasing pace.
+This exponential increase in technology has been a huge challenge for engineers across industries to keep up with, and by building on those same exponentially improving technologies to our software-centric platform, we can offer a solution that is unique and of tremendous value.
+At this year's NIWeek, you'll hear from companies who are driving these trends and leveraging our platform to change space travel, improve transportation safety, create next-generation communications networks and increase the efficiency of our power grid by building smarter systems, integrating [spacing], intelligence and communications, these companies have shifted from traditional business models to new models based on software and data.
+They have recognized the opportunities that has emerged from the convergence of physical and digital systems to shift entire industries and disrupt incumbent market leaders.
+By providing a platform of modular hardware and powerful design software, we have created a catalyst for these companies to change how they bring products to market, from research to production to deployment.
+Our customers can focus on the outcomes that will drive growth by innovating within an ecosystem of powerful measurement and control hardware, software intellectual property and over 1,000 partners.
+For those of you that have not been to NIWeek, it's the most tangible incarnation of our ecosystem and we'll give you additional insight into the value we bring to our customers and the opportunity we have to grow our business.
+In addition to interacting with our customers, we're excited to address you, our investors on Tuesday at our investor conference.
+Our leadership team, along with a new CFO, Karen Rapp, will discuss our growth strategies in 5G research, test and validation of the connected vehicle, semiconductor test and the industrial Internet of Things.
+We will also provide you with updates to our leverage model.
+Finally, you will have an opportunity to meet representatives from NI customers like Analog Devices, DARPA, Blue Origin, Hyperloop One and Valeo to learn how leveraging the NI platform has enabled them to outpace their competition.
+I hope to see you there.
+With that, I will turn it over to our interim CFO, <UNK> <UNK>, for the financial update.
+Thanks, <UNK>.
+Today, we recorded revenue of $300 million, a new record for our first quarter.
+Revenue was up 5% year-over-year and was at the midpoint of our revenue guidance.
+For revenue, which we define as GAAP revenue, excluding the impact of our largest customer and the impact of foreign currency exchange, was up 7% year-over-year.
+The total value of orders for the quarter was up 9% year-over-year in U.S. dollars, while our order growth, excluding the impact of foreign exchange in our largest customer, was up 10% year-over-year.
+In Q1, order growth exceeded revenue growth as backlog increased $2.5 million and deferred revenue increased $6 million as a result of strong software orders in the quarter.
+Non-GAAP gross margin in Q1 was 75.3%, up 55 basis points year-over-year.
+Total non-GAAP operating expenses were $192 million, up 1% year-over-year.
+Our non-GAAP operating margin was up 37% year-over-year at 11.5% of revenue versus 8.8% of revenue in Q1 2016.
+Q1 net income was $18 million with fully diluted earnings per share of $0.14.
+Non-GAAP net income for Q1 was $27 million, up 33% year-over-year with non-GAAP fully diluted earnings per share of $0.21.
+Included in our GAAP net income is $2 million of restructuring charges.
+A reconciliation of our GAAP and non-GAAP results is included in our earnings press release.
+Now taking a look at our order trends in more detail.
+For Q1, the value of our total orders were up 9% year-over-year in U.S. dollars.
+Included in that total is $5 million in orders received from our largest customer compared to $6 million in Q1 2016.
+Revenue from our largest customer was $4 million in Q1 compared to $9 million in Q1 2016.
+Now breaking down our Q1 orders, excluding our largest customer.
+We saw 4% year-over-year increase in our orders with the value below $20,000.
+On the systems side, orders with a value between $20,000 and $100,000 were up 9% year-over-year and orders with a value over $100,000 were up 22%.
+Now turning to cash management.
+During the quarter, we paid $27 million in dividends.
+We ended the quarter with cash and short-term investments of $365 million at March 31, 2017, and the NI Board of Directors have approved a quarterly dividend of $0.21 per share.
+Now I would like to make some forward-looking statements.
+We are encouraged by the improvements in the Global Purchasing Managers Index during Q1 and our year-over-year core revenue growth of 7%.
+Included in our guidance for Q2 of 2017 is approximately $8 million in revenue from our largest customer compared to $14 million, which we recognized in Q2 2016.
+As a result, we currently expect total revenue in Q2 to be in the range of $305 million to $335 million.
+The midpoint of this range represents a 5% year-over-year revenue growth and 8% year-over-year core revenue growth.
+We currently expect GAAP fully diluted earnings per share to be in the range of $0.12 to $0.26 for Q2, and non-GAAP fully diluted earnings per share expected to be in the range of $0.19 to $0.33.
+As we continue to focus on improving our operating margins in 2017, we are budgeting for a 2% year-over-year reduction in headcount.
+Included in our Q2 2017 GAAP earnings per share guidance is approximately $3 million of restructuring charges.
+For the full year, we estimate the impact of restructuring charges on net income will be approximately $6 million to $7 million.
+Another housekeeping items, we estimate that, given the current exchange rate, this rag on a revenue from currency headwinds will be approximately 1% year-over-year in Q2.
+In addition, as our global sales conference and NIWeek moved from August to May, there'll be a shift in our historical distribution of operating expenses of approximately $3 million from Q3 to Q2.
+We currently expect total non-GAAP operating expenses to be up approximately 1% year-over-year for the second half of the year.
+In summary, we are encouraged by the strong order growth in Q1 and by the improving trends in the industrial economy.
+We continue to be focused on growing revenue, leveraging our previous investment and improving our operating margin.
+As these are forward-looking statements, I must caution you that actual revenues and earnings could be negatively affected by numerous factors such as weakness in the global economy, fluctuations in revenues from our largest customer, foreign exchange fluctuation, expense overruns, manufacturing inefficiencies, adverse effect of price changes and effective tax rate.
+We look forward to seeing you at NIWeek's Investor Conference on May 23.
+With that, I'll turn it back over to Alec for a few closing comments.
+Thanks, <UNK>.
+I'll close today by thanking our employees for embracing our mindset of growth and driving operating leverage.
+As we look to the rest of the year and beyond, disciplined management of our investments is the key to the growth and profitability that fuels opportunity for our customers, our company and our careers.
+We're on pace for record NIWeek attendance and we will share some incredible examples of innovation fueled by the NI platform.
+This year, our new CFO Karen Rapp will be at our investor conference to meet you and to discuss our plans to accelerate our operating leverage in 2017 and 2018.
+Thank you and we will now open up for your questions.
+Sure, Rob.
+Well, first off, thanks to your question.
+And we're glad to see that part of that business grow in Q1.
+We certainly, definitely -- as you are well aware -- have seen a strong correlation with that business with the broad macroindicators like the PMI because it's a very broad-based business that creates a huge amounts of strength for NI, opening up new customer base and giving us a lot of diversity, which has been crucial to our long-term success.
+Now a couple of things that have happened in the last couple of years that have been a challenge for that business, one obviously, we had some significant weakness in the broad PMI and then we were also hit by currency rates in 2015 and 2016.
+So as the currency have started to stabilize and the economy starting to recover, from an industrial point of view, it's good for us to see this recovery and certainly have to get points to optimism ahead.
+I'd also add that in that business and one thing that gives me a reasonable degree of confidence as I look into the next couple of quarters, we also saw our instrument control business, which I know you're familiar with, which for many years, has been highly correlated with both the PMI and the overall test and measurement industry, show solid and a high single-digit growth in Q1 for the first time in quite a while.
+So that's another positive indicator as we look forward and I'm really glad to see that broad-based business move into recovery mode.
+So we obviously talked about in the call last quarter, we are anticipating an overall 2% reduction in our total headcount this quarter, which is coming from a variety of different angles, one being attrition, performance management also, rebalancing resources to drive optimization as we look to hit our operating profit goal in the near term.
+Looking forward, we did take a $2 million net income impact in Q1 for our GAAP reports, our GAAP earnings per share.
+That will be about $3 million in Q2 and will be essentially complete by the end of the second quarter.
+There will be about $1 million to $2 million that will come in the whole second half.
+Now of that 2% decline in headcount we're planning for this year, headcount is down about 1.2% in Q1.
+So we made substantial progress towards that goal.
+We expect the savings to come mainly in the second half and into 2018.
+Now we will be discussing, as we said, in the call, our revision to our leverage plan for 2017 and '18 and Karen will be covering that at the Investor Conference at NIWeek on the Tuesday.
+That's a sequential figure, <UNK>, and the actual number is 7,463, as our ending headcount, at the end of the quarter is down, as Alec mentioned, 1.2% sequentially from the end of the year.
+The average order size is 5,486, it's actually up 9% on a year-over-year basis.
+Yes, fairly similar to the first quarter and we are holding to our 21% for the full year.
+And then if we go back and take a look at it historically, Q3 is where it comes down a little bit.
+So obviously, we have a tremendous relationship with this customer, as you know, and have a very broad set of applications that we serve for them.
+And 2016 was a very strong growth year for us in revenue with our largest customer, so we were up quite strongly, especially in the first half of the year, last year, we did about $23 million with that customer in the first half of the year.
+As we look into the second half of the year, our compare on that front will be much easier, it's a much lower revenue.
+The contribution that customer made in the second half was only about $11 million last year.
+So we expect to see our core revenue growth and our dollar reported revenue growth come much more in alignment in the second half.
+Well, we like to take the long-term view at NI.
+We believe that actions were taken in this time frame are good.
+Structural actions that will support and strengthen the company for the long-term.
+So at this point, our intent is to execute against that plan.
+Sure, Rob, this is <UNK>, and I'll take that one.
+As we mentioned on the call, we definitely saw strength in semiconductor and in transportation and include wireless as sort of related to that semiconductor industry.
+So those as you mentioned, were significantly above the average.
+We were also pleased to see that the energy area, which has been weak for a couple of years, that, that return to growth.
+So that was a good sign.
+And then broadly speaking, as Alec mentioned, we were really pleased that the business in a broad sense -- the broad base of our business really was growing and we saw our order growth at 9%, was a very good sign with a broad base of our business.
+Obviously, to your point, there are other industries that were slightly below that average, but generally speaking, there was a broad growth across the different industries that we serve, the end markets that we serve.
+The real impact we took on the emerging markets and academic was really in 2015.
+Once the commodity prices collapsed in many of these geographies.
+At the end of '14, we saw a really big negative there into '15.
+And as we come out and into '16, it's an easier compare on that front and as the commodities are stabilizing, we expect to see our return to growth in that segment of our business going forward.
+In terms of our overall long-term model for gross margin, Rob, I wouldn't encourage you to make any changes there.
+The amortization impact has kind of already heavily rolled into the numbers at this point.
+And I don't expect any material impact from that as we go through the rest of 2017.
+Thank you for your time today.
+We look forward to seeing you at our Investor Conference on May 23.

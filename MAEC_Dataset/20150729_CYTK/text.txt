@@ -1,0 +1,71 @@
+Good afternoon, <UNK>.
+Sure.
+I'm going to paraphrase, obviously, but in our meetings with FDA, and I'd say also with EMA, there was a consensus view that SVC is indeed an important prognostic and predictive factor.
+It's a good measure.
+It's quantitative.
+But, it is a measure that should be correlative, presumably therefore also with other effects and endpoints that track with respiratory function, as well.
+As we've stated I think in meetings with you and others, SVC happens to be -- vital capacity happens to be that measure that, in the published literature, is demonstrated to be both prognostic of disease progression, the rate of progression, also survival.
+Also, the published guidelines underscore how vital capacity should be an important measure to inform other interventions, for instance non-invasive ventilation.
+I don't think there's any questioning of that.
+In our conversations with the regulatory authorities, both FDA and EMA understand that.
+And their point back to us, and it's a very valid one, is if, in fact, this drug is having an effect to slow the decline in vital capacity, so too should it correspond with these other endpoints in terms of increasing the time to a fall in respiratory domains of ALS-FRS, or time to interventions, time to respiratory failure.
+And we agree, so that's why we have designed this study, both with the primary endpoint of vital capacity, something that we know well from BENEFIT-ALS.
+And we can understand best how to use that information in the conduct of VITALITY-ALS, but also to extend the study to later time points where hopefully we'll see these effects on secondary endpoints, as well.
+And I think that was what FDA and EMA asked of us when they said confirm and extend these findings.
+I think your point is a good one.
+That's the crux of the issue.
+And to the earlier question and my response, it is always -- [to always thus] with FDA and EMA.
+It's the totality of the data, and that's where we've designed VITALITY-ALS with the objective of demonstrating an effect we hope that favors Tirasemtiv, both with respect to the primary efficacy endpoint, but also one or more secondary endpoints.
+So, maybe to answer that question, I'll ask <UNK> first to comment on the ordering of the secondary endpoints, and then maybe ask <UNK> to comment on why we might hypothesize that Tirasemtiv could have effects downstream, and even cumulative, on some of those secondary endpoints.
+Well, first of all, I think what I thought we meant when we were talking about cumulative effects was just the fact that, in BENEFIT-ALS, as you may recall, the difference between the Tirasemtiv group and the placebo group continued to increase over time.
+The curves were divergent throughout the 12 weeks of the study so that, at four weeks, the difference between the two groups was on the order of around three percentage points, and by 12 it was close to six percentage points.
+And so, in VITALITY-ALS, where we study patients for much longer, there's no reason to suspect that the curves may not continue to diverge that way.
+And so, we might have a much larger treatment effect later on in the trial.
+If that is true, therefore then, one would imagine if vital capacity is declining more slowly in patients on Tirasemtiv, and because it is such a reliable predictor of disease, one would imagine that in a study much longer than BENEFIT-ALS, as we have now, you would begin to see patients on placebo having declines in the three questions related to respiratory function in the ALS-FRSR, and not so many happening in the patients being treated with Tirasemtiv.
+So, that's the first secondary endpoint, is time to a decline of one point in any of the three respiratory questions in the ALS-FRSR, or death.
+You always have to have death.
+And then, the next one is time to a decline of at least 20 percentage points in the SVC.
+And you can -- in the interest of time, I'll just remind you, you can go onto clinicaltrials.
+gov, and they are there, and they are in the order in which they would be analyzed in the so-called closed testing procedure that we use to account for multiple testing, and keeping the error and the P value appropriate.
+Yes.
+We do believe that, after the study has completed -- or not even after the study has completed, but more accurately, as patients complete the study, they would be offered the opportunity to go onto open label Tirasemtiv.
+It's conceivable.
+But, as <UNK> has already mentioned, it's going to depend on the totality and the strength of the data.
+If we see a just whopping effect on vital capacity and clear effects on some of these secondary endpoints, it might not even be an accelerated approval.
+It might just be an outright approval.
+But, that would be the home-run scenario.
+And I think you can imagine things in between that and a negative trial.
+We don't expect a negative trial.
+So, it really will depend on how robust and how large the treatment effect is that we observe.
+So, a couple of points just to add.
+One is, to your point, that is an option that is on the table at that point in time, but it would not necessarily require data from the open label extension in order to be able to have a conversation about either accelerated or conventional approval, either with FDA or EMA.
+Those are things that I think are all fair game.
+Secondly is just to underscore, in <UNK>'s comments he referred to percentage points, and I want to make certain that you and others understand, that's absolute percentage points on a background of a decline of roughly three percentage points per month in the placebo patients in their slow vital capacity.
+That magnitude of difference, approximately five to six percentage points at the end of 12 weeks, represents a relative reduction of over 60 percentage points -- 60%, I should say.
+So, I just want to make sure that that was also clear.
+That's relative to -- well, in both cases it's change from baseline, both with respect to placebo and also in the treated group.
+Right.
+To elaborate, we're just testing the hypothesis that a change from baseline, which will almost surely be a decline, as it was in BENEFIT, the decline from baseline in patients on placebo will be significantly greater than the decline from baseline in patients on Tirasemtiv.
+Thank you.
+Hi, <UNK>.
+Good afternoon.
+So, I'll take a first stab at that, and <UNK>, you can add to it as you wish.
+The powering is certainly a function of a lot of different assumptions, including not only the number of patients and the magnitude of effect, but also the early termination rate as we experienced in BENEFIT-ALS.
+So, we designed VITALITY-ALS to detect at 24 weeks a magnitude of effect that was observed in BENEFIT-ALS at 12 weeks.
+And in using the same assumptions with respect to early termination, at 24 weeks we have over 80% power to detect that difference using those much more conservative assumptions.
+As we may see, early termination rates decline with more longer, slower dose titration and other measures that we've implemented in VITALITY-ALS compared to BENEFIT-ALS.
+That number approaches 90%, and can exceed 90% depending on what numbers you use in those assumptions.
+So, it's difficult to say how is the study powered.
+In effect, it depends on which assumptions you use on early termination and magnitude of effect.
+As <UNK> pointed out, the magnitude of difference favoring Tirasemtiv versus placebo was increasing from week four to week eight, and week eight to week 12 in BENEFIT-ALS, and may continue to increase as we now take patients out to 24 weeks.
+But, to be conservative, we built VITALITY-ALS around the magnitude of effect observed at 12 weeks in BENEFIT-ALS.
+I think we've leaned to the conservative in the design of this study.
+I think in that case, we have at least 80%, and possibly over 90% power to detect that, depending on what assumptions you use with regard to early terminations.
+Well, here's where we are exploring a new pharmacology inasmuch as Tirasemtiv we believe is the first investigational medicine to demonstrate effects on respiratory function.
+As such, the choice of secondary endpoints, the rank ordering and hierarchy of them and how you proceed through them in a statistical way all has to be pre-specified in a statistical analysis plan.
+But, to your point, you're going to want to see the totality of that data in order to understand where the cumulative effect may lie, and that's where this has to be a dynamic process.
+Thank you, <UNK>.
+Thank you, Operator, and thank you to all the participants on our teleconference today.
+I hope you'll agree that we had a productive quarter in the second quarter, and we have some exciting prospects as we look forward to the second half of this year.
+We appreciate your continued support and interest in Cytokinetics.
+And Operator, with that, we can now conclude the call.

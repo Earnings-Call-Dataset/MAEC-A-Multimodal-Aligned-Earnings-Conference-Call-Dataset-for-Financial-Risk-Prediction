@@ -1,0 +1,244 @@
+Thank you, Vanessa.
+Good morning, and thank you for joining us.
+I'm Jeff <UNK>, Eversource Energy's Vice President for Investor Relations.
+As you can see on Slide 1, some of the statements made during this investor call may be forward-looking as defined within the meaning of the safe harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995.
+These forward-looking statements are based on management's current expectations, and are subject to risk and uncertainty, which may cause the actual results to differ materially from forecasts and projections.
+Some of these factors are set forth in the news release issued yesterday.
+Additional information about the various factors that may cause actual results to differ can be found in our annual report on Form 10-K for the year ended December 31, 2016.
+Additionally, our explanation of how and why we use certain non-GAAP measures is contained within our news release and the slides we posted last night on our website under Presentations and Webcasts and in our most recent 10-K.
+Turning to Slide 2.
+Speaking today will be Phil <UNK>, our Executive Vice President and CFO; and Lee <UNK>, our Executive Vice President for Enterprise Energy Strategy and Business Development.
+Also joining us today are Werner Schweiger, our Executive Vice President and Chief Operating Officer; Jay Buth, our Vice President and Controller; and John Moreira, our Vice President of Financial Planning and Analysis.
+Now I will turn to Slide 3 and turn over the call to Phil.
+Thank you, Jeff.
+Today, I'll cover four items: first quarter financial results; an update on several transmission projects; the status of key regulatory dockets; and the status of our 2017 financing plan.
+Let's start with the quarter and Slide 3.
+Earnings were up $0.05 in the quarter.
+We earned $259.5 million or $0.82 per share in the first quarter 2017 compared with earnings of $244.2 million or $0.77 in the first quarter of 2016.
+Our transmission segment earned $0.30 per share in the first quarter of 2017 compared to $0.27 in 2016.
+The primary driver for this earnings growth was our higher transmission rate base as well -- as we continue to invest in transmission projects that enhance the reliability of the New England power grid.
+I'll provide an update on our key transmission projects in a minute.
+On the electric distribution and generation side, we earned $0.36 per share in the first quarter of 2017, and that compares with $0.34 per share in the first quarter of 2016.
+This increase was primarily due to higher distribution revenues.
+A portion of the increase was a result of the infrastructure investment programs we have in Connecticut and New Hampshire.
+In addition, as a result of our highly effective, number one in the nation, energy efficiency programs, we recorded higher lost base revenues in the quarter.
+These positive impacts were partially offset by higher storm restoration costs and higher depreciation.
+On the natural gas distribution side, we earned $0.16 per share in the first quarter of '17, matching earnings in the first quarter of last year.
+Temperatures in the first quarter of '17 were colder than during the same period of '16.
+And these colder temperatures in 2017, and those were primarily in March, resulted in a 4.6% increase in firm natural gas sales in the first quarter of '17 as compared to the previous year.
+However, the higher sales were offset by higher depreciation and property taxes.
+So I should also say that the first quarter temperatures in both '17 and in '16 were warmer than normal.
+At the Eversource Parent and Other segment, results were relatively flat year-over-year.
+For the full year, we continue to expect to earn between $3.05 and $3.20 per share.
+And for the long term, we continue to project 5% to 7% EPS growth.
+Turning from our financial results to our operations.
+Transmission investments totaled approximately $170 million in the first quarter of '17 compared to approximately $140 million in the first quarter of 2016.
+We continue to target nearly $1 billion in transmission investments for the year.
+As you can see on Slide 4, we continue to make progress on a number of the major transmission reliability projects.
+Through March, we've invested just over $146 million in 28 projects that comprise the Greater Boston Reliability Solution and we expect to complete the Greater Boston work in 2019.
+We have invested just over $141 million in the Greater Hartford projects, which are comprised of 27 smaller projects that we expect to complete next year.
+From operations, I'll turn to the regulatory activity, and I'll start in Massachusetts on Slide 5.
+Hearings will begin in June on the electric rate reviews we filed in January with the Massachusetts Department of Public Utilities for NSTAR Electric and Western Mass Electric.
+Across the company, I believe we've done an excellent job in responding to the many data requests that come out during any rate case and in this rate case in particular.
+Intervenor testimony was filed last Friday, and we expect to get a decision on the case around the end of November, with new rates effective in January of '18.
+In terms of the intervenor testimony, overall, I'd say there were no surprises from what we've seen in that testimony.
+One of the items included in our case is to legally combine NSTAR Electric and Western Mass Electric.
+FERC approved that combination earlier this year.
+And we hope to receive DPU approval later this year in our rate case.
+Overall, yes, we're pleased with how the case has progressed thus far.
+In Connecticut, on April 18, we joined the Office of Consumer Counsel and the Attorney General in filing a motion to modify the merger agreement that was approved by PURA in 2012.
+And that agreement required us to file rate reviews for new distribution rates to be effective December 1, 2014, and December 1, 2017.
+So the motion jointly requested that PURA extend the deadline for implementing new rates to July 1, 2018.
+And PURA approved that motion on April 20.
+So as background, there's really no particular significance.
+There was none to the December 1, 2017 date in the 2012 merger agreement.
+At the time, the OCC and the AG wanted to be sure that the savings from the merger that we identified really benefited customers.
+And in our 2014 case, about $30 million in annual O&M savings were flowed back to CL&P distribution company customers at that time.
+Also, improved reliability at CL&P was a focus in 2012, and it has improved greatly since that time.
+Recently, CL&P has been having its best years ever in terms of reliability and is now in the top tier versus its peers.
+So additionally, the 2014 rate review had a backdrop of CL&P significantly under-earning on its ROE and needing to recover about $300 million of deferred storm costs.
+So none of these issues are pressing at this time.
+So from our rate state reviews, I'll turn now to FERC and the various New England transmission ROE dockets.
+As you can see on Slide 6, on April 14 of this year, the D.
+C.
+Circuit Court of Appeals vacated FERC's 2014 order that lowered the base New England transmission ROE from 11.14% to 10.57%.
+The 2014 decision also capped ROEs on incentives on individual projects at 11.74%, even if higher incentives have been previously approved on those projects.
+So the appeals court agreed with the New England Transmission Owners that FERC is required to go through 2 steps in a complaint proceeding.
+First, FERC needs to demonstrate why the existing ROE is unreasonable.
+Only then can FERC set a new reasonable ROE.
+The fact that FERC found that 10.57% to be the new reasonable ROE wasn't enough to prove that our 11.14% was unreasonable.
+The court added that FERC bears the burden of making an explicit finding that the existing ROE is unlawful before setting a new lawful ROE.
+The court sent this issue back to FERC for further explanation on why the original ROE at the time of the complaint was not reasonable.
+The court also found that FERC did not establish a reasoned basis for its conclusion that the ROE should be set at the midpoint of the upper half of the zone of reasonableness.
+The court sent this back to FERC for further justification.
+The court did not address the issue of incentive caps because this issue may depend on the outcome of FERC's decision resolving the first 2 issues that I mentioned.
+We continue to review the implementation of this decision with the other New England transmission owners.
+Also, FERC must still address the ALJ recommendations received in 2016 in the second and third ROE complaints.
+On the fourth complaint, FERC's chief administrative law judge had scheduled arguments for May 18 on why FERC should not just dismiss the complaints in light of the Circuit Court of Appeals decision.
+Ultimately, all those complaints may be affected by the recent Circuit Court decision and likely that FERC won't be able to address any of them until after the commission has a quorum.
+The transmission earnings we provided today were based on the commission's original decision in the first complaint.
+We'll continue to evaluate whether this is the appropriate assumption as we move through the second quarter.
+To put it in perspective, our shareholders have invested equity of about $3 billion in our transmission segment, so each 10 basis point change in the earned ROE moves earnings by about $3 million or about $0.01 per share per year.
+Turning to our financing programs.
+Both Eversource parent and CL&P issued $300 million of debt in March.
+The parent's 5-year issue carries a coupon of 2.75% and CL&P's 10-year issue had a coupon of 3.2%.
+We thank our fixed income investors for supporting our financings.
+A portion of the CL&P issuance was used to fund a $150 million, 5.375% bond maturity.
+We anticipate additional debt financings later in the year to support our capital program and to refinance a $400 million, 5.625% maturity at NSTAR Electric.
+Lastly, I just want to note the election yesterday of Christine Vaughan as Treasurer.
+Christine has been with the company for many years, recently as Vice President of Rates and Regulatory for all three states that we serve, and also has been with the company in similar capacity since 2004.
+She'll continue to oversee the regulatory filings while assuming new treasury responsibilities, working closely with Emilie O'Neil and Bob DeAngelo, our newly elected Assistant Treasurers.
+I look forward to introducing Christine to our investors later this year.
+And that concludes my comments.
+And I'll turn it over to Lee.
+Okay.
+Thanks, Phil.
+I'll provide you with a brief update on our major investment initiatives and then turn the call back to Jeff for Q&A.
+So let's start with Northern Pass in Slide 7.
+The New Hampshire Site Evaluation Committee commenced final evidentiary hearings for the project on April 13 after rejecting several motions from the project opponents for a delay.
+Hearings are now scheduled to run through early August.
+And we have been quite pleased with how they have proceeded thus far.
+We consider the New Hampshire SEC's schedule to be supportive of the committee's stated objective of issuing a final written order no later than September 30, 2017.
+Hearings in April focused on 2 of the key criteria that must be considered.
+These criteria include whether Northern Pass and Eversource have the technical, financial and managerial capability to construct, operate and maintain the project and whether approval of the project serves the public interest.
+These are foundational issues in the SEC review process.
+Our witnesses were very well prepared and credible in responding to intervenor questions.
+And those panels were completed on schedule.
+Earlier this week, hearings continued on the more technical aspects of the project and have continued to proceed quite well.
+Prior to the start of the hearings, the two key permitting agencies, the Department of Environmental Services and Transportation recommended approval of the project by the SEC.
+Both departments approved their respective permits for the project.
+We received the Department of Environmental Services recommendations and permits in early March and the report from the Department of Transportation in early April.
+The recommended conditions from these agencies were reasonable and consistent with our design.
+In addition, the State Division of Historical Resources, which is not one of the permitting agencies, also continues to review the project and in its recent status report concurred that their review of the process is on track.
+Nothing more is needed from the DHR before the SEC decision is reached.
+Once the New Hampshire SEC process is complete and assuming the project is approved with reasonable conditions, we expect a U.S. Department of Energy presidential permit to be issued by the end of this year.
+Before that point, probably late in the third quarter, we expect the DOE to release its final Environmental Impact Statement on Northern Pass.
+The preliminary EIS supporting the issuance of the Presidential Permit was issued nearly two years ago, and the DOE held a number of public meetings on the draft EIS in late 2015 and early 2016.
+While we have been advancing the project on the U.S. side of the border, Hydro-Quebec has been pursuing siting on the Canadian side.
+The three-year Canadian process should be completed this summer.
+So by the end of this year, we expect Northern Pass to be fully permitted in both the United States and Canada.
+This supports our plan to move into the construction phase in the first quarter of 2018.
+In addition to the New Hampshire SEC, the New Hampshire Public Utilities Commission has been reviewing several items related to Northern Pass.
+You may recall that last year, Northern Pass was granted utility status by the PUC, conditional upon receiving approval of the project from the SEC.
+In early April, following a preliminary review, the PUC ruled that it could move ahead with their review of the terms of the NPT-proposed lease of Public Service of New Hampshire transmission rights of way.
+That decision was also over the objection of project opponents.
+We expect a PUC decision on the proposed lease terms later this year.
+In March, the PUC also ruled on a 100-megawatt power purchase agreement signed last year by PSNH and Hydro-Quebec.
+The PUC said that under the current state restructuring law, it did not have authority to approve such a PPA with PSNH.
+Such a contract is not required for siting or to move ahead with the project.
+In late March, the New Hampshire Senate overwhelmingly approved and sent to the House of Representatives Senate Bill 128, which would expand the PUC's authority to consider long-term contracts that would lower customer costs and improve grid reliability and fuel diversity.
+The current legislative session is due to end in late June, so we'll be watching the progress of this bill closely.
+We and Hydro-Quebec will bid the Northern Pass project into the Clean Energy RFP that Massachusetts commenced March 31 for up to 9.45 terawatt hours annually for a period of up to 20 years.
+Bids are due on July 27 and the schedule indicates that the projects will be selected for negotiations by January 25.
+Separately, a draft RFP, exclusively for offshore wind, was filed by Massachusetts utilities with the DPU last week.
+The schedule calls for the RFP to be final and issued to the market by June 30, 2017.
+The RFP calls for interested bidders to submit at least one proposal for at least 400 megawatts.
+The draft also stated that alternative bids for up to 800 megawatts would be considered if bidders can show that a larger project would provide significant net economic benefits to customers.
+Bidders can also submit an alternative bid for as little as 200 megawatts.
+The time line of the draft RFP calls for the selection of the winning bids by the spring of 2018 and the submission of contracts to the DPU by late 2018.
+Bay State Wind, a 50-50 partnership between Eversource and DONG Energy, will bid into the RFP.
+Finally, turning to Slide 8.
+Access Northeast will continue to discuss the gravity of New England's wintertime energy supply situation with policy makers in Massachusetts and New Hampshire, the two states that do not have recent legislation clarifying electric utilities' ability to sign natural gas supply contracts.
+Brayton Point, the region's largest coal and oil-fired station, will shut down permanently at the end of this month.
+And the Pilgrim nuclear plant will shut down two years later.
+ISO New England continues to express deep concern over the region's ability to meet both gas heating and electrical requirements when temperatures drop.
+Later this year, ISO is due to issue a report on the challenges New England will face in future winters if no significant natural gas transmission capacity is built into the region.
+So now I'd like to turn the call back over to Jeff for Q&A.
+Thank you, Lee.
+And I'm going to turn the call back to Vanessa, just to remind you how to enter the Q&A queue.
+All right.
+Thank you, Vanessa.
+Our first question this morning is from Julien Dumoulin-Smith from UBS.
+Yes, <UNK>, this is Lee.
+We don't really look at that as a viable project for the April RFP.
+And obviously, they would have to go through the entire presidential permitting processwhich can take many years, as you know.
+They would have to go through siting in Vermont and New Hampshire, and they don't have a supplier of energy.
+They don't have an interconnection into Canada, or the Canadian process of 3 years.
+So when you look at the April RFP and you look at the preference in the Massachusetts RFP for projects that are in service by the end of December 2020, we do not believe that is a viable alternative, which is not to say it couldn't be a project for a future RFP.
+I just think the general commentary there is we just continue to have those conversations with legislators.
+We continue to educate them on the alternatives to not building a pipeline from the standpoint of threats to reliability and extreme volatility during the wintertime.
+And of course, as I mentioned, ISO is working on their no gas pipeline solution, which, we believe, will cause them to require certain actions to be taken that will not be in the best interest of the region's goals to reduce carbon and will not be in the best interest of maintaining price stability for our customers.
+Thanks, <UNK>.
+Next question is from Mike <UNK> from Credit Suisse.
+Yes, Mike, this is Lee.
+I would just say that the New Hampshire SEC has been very precise, very comprehensive at how they have run the proceedings to date.
+They are right on schedule.
+I think the more testimony that is given and provided by the project, the clearer the project becomes.
+And we don't see, at this point, any probability or possibility that this date will be extended.
+And the meetings have been very crisp.
+The witnesses are very well prepared and with the ability to answer all of the questions to date.
+Well, clearly, it is important from the standpoint that you have Hydro-Quebec that wants to sell their energy into the New England marketplace.
+And if there is the ability to participate inside of an RFP and get a long-term contract at a fixed price, that's an advantage to HQ.
+So clearly, there's an advantage there.
+But in any case, the RFP, in and of itself, does not determine the longevity of the project and the success of the project because, in fact, there will be many RFPs, there will be many retirements.
+As we've said before, we see about 10,000 megawatts of retirements in New England, and Northern Pass will be viable in any of those as a source of clean energy for the region.
+Yes, Mike.
+So in the requests, we're looking for a 10.5% ROE in the case and the total rate increase is about $60 million at NSTAR Electric and about $36 million at Western Mass Electric, so not -- certainly, they're increases, but not double-digit types of increases.
+So we are earning close to those numbers.
+NSTAR Electric at the end of 2016 was probably a little shy of that number of 10.5%.
+When you do all the calculations for Massachusetts, Western Mass was closer to 9%.
+So not at the levels that we were looking for in this case.
+Thanks, Mike.
+Next question is from <UNK> <UNK> from Citi.
+Yes, so this is Phil, <UNK>.
+What we said in our long-term forecast, the 5% to 7%, that Access Northeast is really a small part of the far end of that forecast.
+So it's not as if it would be a significant amount of capital that we're expecting in our plan over the next 2 to 3 near-term years.
+So there really wouldn't be a significant amount of capital to think about redeploying.
+In terms of share repurchases, we're primarily interested, as we've said, in infrastructure that meet the needs of our customers and the region's energy needs.
+And really, we're looking for projects that are clean, that improve reliability and that manage to keep customer cost in line.
+So we don't have a share repurchase program authorized.
+And our focus would be on the infrastructure development.
+Sure.
+I guess, in the basic part of your elements of your question, really, I think, get to the point, which is the situation is very fluid.
+The court decision is still recent.
+And really, the New England Transmission Owners as a group need to decide what the next steps will be.
+So that probably is a near-term determination, because in June, the transmission owners need to file a proposed regional network service rate.
+So it's certainly an active topic for discussion right now with the New England Transmission Owners.
+So one could say that the last approved ROE by FERC is the 11.14%, so that's the last actual number that's out there.
+So any other number is as good as any other number that's not 11.14%.
+So we're on top of this right now.
+We're working with the other transmission owners, but I think you should see more from all of us in the near term.
+Thanks, <UNK>.
+Next question is from <UNK> <UNK> from Morningstar.
+Well, as I said, versus normal, it's below.
+We've had 2, the comparison of this year to last year was better, because it was a bit colder this year.
+But as I said, both 2017 and 2016 were quite a bit below normal, in the neighborhood of 6% to 7% heating degree days being below normal there.
+So we generally plan to normal.
+So I would expect that, that number would have been higher had we had hit normal weather.
+Correct, yes.
+It was below-normal weather in the first quarter.
+Well, <UNK>, I think I've always said, when you're in a business where 100% of your revenues are determined in a regulatory arena, certainly, positive regulatory outcomes are important across the board.
+And if there's one company that you can point to as the poster child for getting to positive regulatory outcomes and having constructive relationships, whether they be at the state level or other, it's Eversource.
+So we feel very good about our abilities there and our ability to work with constructive regulation in the state.
+So I think they're all important, because we are highly regulated, obviously, but we do an effective job there.
+Thanks, <UNK>.
+Next question is from <UNK> <UNK> from Deutsche Bank.
+Yes, <UNK>.
+This is Lee.
+The schedule that we have right now with the SEC in New Hampshire is really -- May is really all about a couple things.
+It's all about construction and it's all about the environmental impact, and that ends probably in the beginning of June.
+And then at that point in time, we'll have a better sense of the construction practices.
+We'll have a better sense of any other environmental impact that may cause us to change the equipment orders from our current design.
+So I think we'll be in a better position then to look at making those orders around that period of time.
+We continue to have conversations with the vendor, such as ABB, to understand more about what will be required to do the design and construction or manufacturing.
+But it really, we need to get to the beginning of June to have a better sense of that.
+I would conclude that, that's really a separate issue.
+We really, it's all about -- it's really all about understanding what the final design is because we don't want to go forward, order equipment, kick off engineering in and around it, only to find out the design is different and that becomes a redo and is an expense that we don't want to incur.
+No, not necessarily.
+The Presidential Permit will come after the SEC decision.
+So you'll have the final EIS, you'll have the SEC outcome and then you get the Presidential Permit.
+So no, they don't need to see that.
+Thanks, <UNK>.
+Next question is from <UNK> <UNK> from Citadel.
+I'm sorry.
+Is the question.
+.
+Are you talking about the Mass RFP identifying winners by January 25, 2018.
+And will the schedule -- construction schedule in the first quarter of '18 depend on what happens on January 25.
+Is that your question, <UNK>.
+No, I think, currently, where we are is, assuming we have a successful outcome of the SEC process, we will start construction in the first quarter of 2018.
+Thank you, <UNK>.
+That's the last question that we have for this morning.
+So we want to thank you very much for joining us.
+And we look forward to seeing you at the upcoming conferences over the course of May.
+Take care.

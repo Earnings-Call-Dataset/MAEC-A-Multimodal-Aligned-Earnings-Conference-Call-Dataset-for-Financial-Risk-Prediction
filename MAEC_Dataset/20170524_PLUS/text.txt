@@ -1,0 +1,207 @@
+Thank you for joining us today.
+On the call is <UNK> <UNK>, CEO and President; <UNK> <UNK>, Chief Financial Officer; and Erica Stoecker, General Counsel.
+I want to take a moment to remind you that the statements we make this afternoon that are not historical facts may be deemed to be forward-looking statements and are based on management's current plans, estimates and projections.
+Actual and anticipated future results may vary materially due to certain risks and uncertainties detailed in the earnings release we issued this afternoon and our periodic filings with the Securities and Exchange Commission, including our Form 10-K for the year ended March 31, 2016, and our 10-K for the year ended March 31, 2017, when filed.
+The company undertakes no responsibility to update any of these forward-looking statements in light of new information or future events.
+In addition, during the call, we may make reference to non-GAAP financial measures, and we have posted a GAAP financial reconciliation on the shareholder information section of our website at www.eplus.com.
+Please note, reclassifications of prior period amounts related to numbers of shares and per share amounts have been made to conform to the current period presentation due to the March 31, 2017, stock split.
+The effect of the stock split was recognized retroactively in the shareholders' equity and in all share data.
+The financial statements include the effect of the stock split on per share amounts and weighted average common shares outstanding for each of the 3-month periods and fiscal years ended March 31, 2017 and 2016.
+I'd now like to turn the call over to <UNK> <UNK>.
+<UNK>.
+Thanks, Kley, and thank you, everyone, for participating in today's call to go over our fourth quarter and full fiscal year 2017 results.
+As we noted in today's earnings release, the fourth quarter represented a solid finish to the year for ePlus.
+We achieved double-digit growth in sales and EPS in both periods, with operating income increasing faster than revenue.
+<UNK> will review our financial results in depth later during this call, so I will direct my remarks to what we consider the key takeaways from our fourth quarter and full year performance and the trends we are seeing in the -- on the horizon.
+First, sales growth in both the fourth quarter and full year of 11.1% and 10.4%, respectively, demonstrate that ePlus is well-positioned in the higher growth areas of IT spending like security, cloud, digital infrastructure and managed and professional services.
+Our investments in security paid off again in fiscal 2017, with sales of security products and services accounting for 16.1% of the company's adjusted gross product and services billings.
+Second, organic growth accounted for most of the year-on-year sales increases, reflecting our ability to provide complex solutions to mid-market and enterprise clients as well as the success of our land and expand program designed to gain a foothold with larger enterprise clients.
+Third, we have a large and diversified client base of over 3,200 mid-market enterprise, SLED and healthcare clients, which gives us the ability to increase sales of products and services to our existing client base as well as to leverage our presence in new geographies.
+ePlus' complex technology solution offerings are well-positioned for mid-market clients and also scaled to the largest of enterprise clients.
+We believe that this balance, along with our vendor and geographic diversification, provides us with growth opportunities.
+And fourth, we have a solid track record of acquisitions, thanks to proven identification, due diligence and integration processes, with the capital resources to execute on developing acquisition opportunities.
+We also find that our culture appeals to those companies that have a client-first approach and empower their sales and engineering personnel to develop the best business outcomes for their clients.
+One point specific to the fourth quarter was that our financing segment was a significant contributor to our strong margins of 23%, thanks to an increase in sales of financing transactions originated during the quarter.
+As you know, results from this segment tend to be lumpy, but this is an illustration of the benefits of our diversified revenue sources.
+Full year diluted EPS growth of 18% exceeded revenue growth, which is noteworthy when you factor in that at the end of the fiscal year, our headcount was up 9%.
+This increase in headcount was in part a result of our December acquisition of CCI's IT services business and in part due to our continued investment in highly technical engineering and sales personnel.
+ePlus investments in recruiting and retaining people who can understand our clients' needs and implement the best outcomes have given us the deep technical expertise required to provide customized end-to-end solutions and services.
+One example of this is the work we have done on a global data center redesign for a mid-market educational services client.
+There were basically 3 phases to this project: there was the discovery phase, which included network, compute, storage, security and cloud readiness assessments, which allowed ePlus to gain detailed information about their existing environment; the second phase was the design phase involved in the analysis of the top 3 network, compute and storage OEMs in which we map business processes and operational requirements to the ideal solution for this client; and then the third phase was the implementation phase, which included project and program management, professional services, staging facility services and enhanced maintenance support.
+This multi-phased approach that leverages our full life cycle of services allowed us to provide the best solution, enabling the client to significantly increase efficiency and accommodate future growth.
+As you know, our strategic acquisition program is designed to complement ePlus organic growth by bringing in companies that can strengthen our technical knowledge, expand our client base and geographical footprint and increase our ability to provide meaningful cross-selling opportunities.
+The December acquisition of the IT services business of Minneapolis-based Consolidated Communication opened the upper Midwest to ePlus.
+The OneCloud acquisition, which we completed last week, has expanded our hybrid IT capabilities.
+OneCloud brings a stellar team of IT professionals who can address the diverse needs of our clients from a well-rounded portfolio of consulting, professional services, software development and technical education.
+They provide a specialized focus in key areas such as public, private and hybrid cloud, open source technologies, software-defined networking, DevOps, infrastructure automation and orchestration, converged and hyperconverged infrastructure and container technologies and micro services.
+These capabilities will further enable us to help our clients with cloud adoption, IT modernization, DevOps enablement and cloud automation, design and deployment, migration, management and support.
+OneCloud strengthens our ability to become a trusted leader in the enablement of our clients' cloud plans and navigation toward IT monetization, giving ePlus the ability to provide a complete end-to-end solution for IT organizations looking to modernize from the ground up or transform their legacy infrastructure into our private, public or hybrid platform.
+OneCloud has been a partner of ours for many years, and we have worked together on many successful joint client projects, so we know firsthand how we can effectively cross-sell together.
+We believe that having the financial flexibility to make these opportunistic acquisitions is an important competitive advantage for ePlus and one that will continue to serve us well in the future.
+Another noteworthy development is the addition of <UNK> Kelly to our management team as Chief Strategy Officer.
+In this newly created position, <UNK> will be responsible for directing ePlus go-to-market and execution strategies around our integrated offerings in the cloud, security and digital infrastructure.
+<UNK> comes to ePlus with over 20 years of experience, and we are very pleased to have him on board.
+And then finally, on March 31, 2017, we effected the first stock split in the company's history, a 2 for 1 split that has increased the liquidity of our shares.
+With that, I would like to ask our CFO, <UNK> <UNK>, to review our fourth quarter and full year fiscal 2017 results.
+<UNK>.
+Thank you, <UNK>, and thank you, everyone, for joining our call.
+The fourth quarter marked another solid period and year for ePlus due to strong revenue and earnings growth.
+In addition, our consolidated gross margin improved for the quarter and full year as well.
+The full year results illustrate successful execution of our plan to grow revenue ahead of the market and do it profitably.
+The forecast for the overall IT spending growth remains in the low single digits, but we continue to outpace the general market, given our emphasis on higher growth segments and services such as cloud and security.
+We also continue to look for acquisitions as a way to boost our growth further by expanding our footprint and customer base and enhancing our solutions and technical capabilities.
+Shifting to our results.
+In the fourth quarter of fiscal 2017, our net sales grew 11.1% to $332.8 million year-over-year.
+Our gross profit increased at a faster pace of 14.1% to $76.4 million.
+Our gross margin of 23% was up 60 basis points.
+The upside was primarily the result of an increase in sales of financing transactions in our financing segment and stable margin trends in our technology segment.
+Operating expenses increased 14% to $57.6 million.
+The increase was due to higher salaries and benefits relating to the increased headcount as well as the increased variable compensation due to the improved gross profit showing in both business segments.
+Our headcount was up 9% to 1,173 from 1,074 at fiscal 2016 year-end.
+As a reminder, the acquisition of the IT equipment and services business of Consolidated Communications in December 2016 added 48 employees, accounting for nearly half of the headcount growth.
+In addition, the fourth quarter produced the first full quarter of SG&A from this acquisition.
+The bulk of the total headcount additions were sales and engineering professionals.
+Operating income of $18.7 million increased 14.4% year-to-year as compared to $16.4 million.
+The higher gross profit from both the technology and financing segment contributed to the upside.
+Fully diluted earnings per share were $0.75, up 10.3% from last year's $0.68 showing.
+Our estimated tax rate for the quarter increased 44%.
+This increase was due to an adjustment for foreign income earned and passive income, taxed at the statutory U.S. federal rate, which equated to a decrease in EPS of $0.03 per share.
+Non-GAAP diluted EPS were $0.79, up 8.2% year-to-year.
+This metric excludes acquisition-related amortization expense and other income on a tax adjusted basis.
+Our weighted average diluted share count was $14 million for the quarter ended March 31, 2017, down 4% from the prior year's fourth quarter share count of $14.6 million.
+All per share amounts and shares were retroactively restated for the effect of the 2 for 1 stock split in the form of a dividend on March 31, 2017.
+Adjusted EBITDA of $20.6 million was up 13.2% year-to-year, and our adjusted EBITDA margin of 6.2% increased 10 basis points.
+I will now move on to the quarterly results from our technology segment, which is our largest segment, accounting for 97% of revenue.
+Technology net sales of $322.5 million were up 10.4% over last year.
+The net sales increase was the result of customer demand as well as acquisition contribution from consolidated IT equipment and services business.
+Adjusted gross billings of products and services of $458.5 million were up 14.9%.
+Adjusted gross billings are sales and products and services adjusted to exclude costs incurred for applicable third-party software assurance, maintenance and services.
+The gross margin on sales of products and services of 20.5% held relatively stable year-to-year, down 10 basis points from last year.
+This was due to some low margin sales to several of our larger customers.
+Technology segment operating expenses of $54.1 million increased 13.9% from $47.5 million in the prior year.
+This was due primarily to higher salaries and benefits, which were up $5.6 million or 14.6%.
+Embedded in this increase was incremental variable compensation due to higher gross profit.
+The result of the step-up in cost was due in large part to increased headcount year-over-year, including a full quarter of expenses from the acquisition of Consolidated's IT equipment and services business.
+Technology segment adjusted EBITDA was $14.8 million, down 2.6% in the fourth quarter, due largely to the increase in compensation expense, with variable compensation playing a large role, as I mentioned before as well as an increase in healthcare expenses.
+As for the end markets, technology and SLED continue to be our largest on a year-over-year basis, accounting for 23% and 21% of the technology segment net sales, respectively.
+Telecom, media and entertainment made up 15% of the net sales and financial services, 13%.
+The remainder was comprised of healthcare at 11% and the final 17% from a few smaller client types we categorized as other.
+Shifting to financing.
+We had a strong fourth quarter with net sales of $10.3 million, up 43.4% year-to-year.
+Gross profit improved $3.2 million or 53% to $9.3 million year-to-year.
+The increase was the result of higher revenue and an increase in sales of financing transactions originated in the quarter.
+In the past, we've discussed the variability of the results from the financing segment, stemming primarily from transactional gains from the sale of financing assets and post-contract earnings.
+While we sell financing assets in the normal course of our business, primarily to mitigate risk in our portfolio and generate capital, an increase in the sale of financing transactions can result in an inconsistent result.
+Operating expenses of $3.5 million were up $400,000 due to higher variable compensation as a result of increased gross profit.
+Adjusted EBITDA of $5.8 million was up 92%, primarily due to an increase in sales of financing transactions I mentioned earlier.
+For the full year, net sales of $1.33 billion increased 10.4% year-to-year from $1.2 billion for fiscal 2016.
+Technology net sales increased 10.8% to $1.29 billion, while financing net sales declined 2% to $34.5 million from $35.1 million.
+The modest decline was due to lower portfolio earnings.
+However, gross profit in the financing segment increased 21.1% to $30 million due to lower direct lease costs related to lower depreciation of operating leases.
+Adjusted gross billings of products and services increased 14.1% year-to-year to $1.78 billion, and consolidated gross profit increased 14.4% to $299.8 million.
+Our consolidated gross margin widened 70 basis points to 22.5%, and our gross margin on product and services expanded 60 basis points to 20.5%.
+Our net earnings grew 13% to $50.6 million, and our adjusted EBITDA increased 14.4% to $93 million.
+For fiscal year 2017, earnings per diluted share of $3.60 and non-GAAP earnings per diluted share of $3.74 both increased 18%.
+Our effective tax rate was 41.3%, an increase over the prior year of 40.9%, primarily due to changes in state apportionment factors.
+Shifting to the balance sheet.
+We ended the year with cash and cash equivalents of $109.8 million compared to $94.8 million at the end of fiscal 2016, primarily due to cash from operations.
+Inventory increased $60.2 million to $93.6 million, and deferred revenue increased $47 million to $65.3 million.
+Both the increase in inventory and deferred revenue was related to large projects for high credit quality customer, where we are holding equipment that has been paid for in advance of final delivery.
+We expect the majority of this inventory to ship in the first half of fiscal 2018.
+During the year, we paid $26.8 million to repurchase shares and also used $9.1 million for the purchase of consolidated IT equipment and services business.
+Our cash conversion cycle increased to 38 days at the end of fiscal 2017, up from 18 days at the end of fiscal 2016 and up 11 days sequentially.
+The increase was due to a large step-up in inventory that I previously mentioned.
+For fiscal 2018, we anticipate growth ahead of the overall IT market.
+We will achieve this by focusing on high-growth areas such as security, the cloud and digital infrastructure.
+And with additional hiring and acquisition, we will continue to develop IT solutions for our diversified client base and grow our services offering.
+Our strategy is to grow our relationships with our existing customers and win new ones in an effort to boost our market share and capture additional IT spending.
+We also look to identify emerging trends and offer creative solutions to our clients.
+Our balance sheet offers financial flexibilities for strategic capital allocation, with acquisitions front of mind.
+Thank you for your time today.
+I will now turn the call back to <UNK>.
+Thanks, <UNK>.
+Looking ahead into our fiscal 2018, we are confident that ePlus is positioned to continue to achieve revenue growth that outpaces overall IT spending, thanks to our focus on the higher growth markets of security, cloud and digital infrastructure and building out our services offerings and capabilities to support our clients.
+The favorable gross margin associated with our business model and our ongoing focus on cost discipline should enable us to continue to achieve operating leverage while maintaining our strategy of investing in technology and people that will support future growth.
+Operator, I would now like to open the call to questions.
+<UNK>, so as you know, part of our strategy -- overall strategy is expanding our footprint, both nationally and on an international perspective.
+For Q4, our organic growth was approximately 70% of adjusted gross billings.
+And for the year, it was approximately 90% of adjusted gross billings.
+<UNK>, it's a little tougher on that only because we're talking about the future.
+So as we discussed on previous calls, one of the things we look at is both the organic as well as acquisitions that can kind of complement what we're doing as a company in our go-to-market, both from a coverage as well as from a technical expertise, a little tough to kind of predict what will happen next year.
+The intent, as we always talked about, is we're going to continue to evolve our solution portfolio to provide what our customers are looking for, both now and in the future, and would hope to continue to see organic growth, but it's hard to give you a percentage without knowing what M&A may or may not pop in during the year.
+Thanks, <UNK>.
+So yes, in terms of -- we'll continue to look at opportunities.
+One thing that's nice is, as I know you know, we're financially stable.
+We've got an unlevered balance sheet, if you will.
+So we'll continue to look at M&A that can build out, whether it be a territory coverage, whether it gives us some technical expertise like we gained with the OneCloud expert -- acquisition that's going to expand what we're doing in that space.
+The market is still ripe for acquisitions, I think.
+As the market continues to evolve, you're seeing some of the smaller potential resellers that are out there looking to be acquired or they're going to have to make investments to kind of grow their business.
+So the pipeline is still the same as it's always been, and we'll continue to look at what's right for ePlus, both from a coverage technical expertise and from a people perspective.
+Well, Matt, a couple different things there.
+One, it was relatively flat for the quarter, but for the year, our gross margins are actually up.
+So we -- at least for myself, is I never look at a quarter as a trend.
+It takes multiple quarters before you get to a trend.
+The other thing that we've seen is, at least from what we can see from other public companies out there, is our gross margins are at the higher levels, if you will.
+We're going to continue to build out our service offerings.
+As we discussed on previous calls, they tend to have higher margins, and a lot of customers are looking for those types of services, optimized services that we're providing.
+And over time, we hope that will help as it relates to gross margins.
+As it relates to the quarter, there's always a couple maybe large deals or 2 that maybe are at lower margins that could affect that.
+We've talked about our land and expand program, which is basically we'll go into the some of the bigger enterprise accounts, we'll let them know about our capabilities.
+And based on what they're looking for, we'll -- maybe that we take the first deal at a lower margin, and then over time, we'll hopefully look to expand those margins up.
+Yes.
+So in terms of whether down or not, Matt, it's always tough because our finance business tends to be lumpy.
+We had a nice -- a few transactions that contributed to that this quarter.
+We are seeing some things in the government financing space and some other areas.
+We do see that as the market shifts somewhat to a software versus a hardware market, that there's opportunities there for our financing team.
+So we feel good about what they did for the year and what they did for the quarter, but it tends to be lumpy.
+Yes.
+Matt, this one's more a little outside of what we normally do.
+This is more of a transformational acquisition for us.
+So this was a pure, what I'd call, almost a consulting/technology play for us.
+What it does is it kind of enhances and expands what we're doing in the cloud.
+So they bring consulting, professional services, software development.
+They've also got a training curriculum that seems very well received by a lot of our -- both partners as well as customers.
+We -- the purchase price was approximately $13.3 million, $13.5 million.
+Which includes an earn-out, yes.
+Which includes an earn-out.
+And then what that really brings to us is it's going to help -- continue to help us help our customers on their journey, both to and from the cloud.
+It's going to help with DevOps enablement.
+It's going to help with infrastructure automation and orchestration.
+If you think about the software-defined, like, for example, SDN, software-defined networking, it's going to help us expand our capabilities in that space and then the training that I mentioned.
+So this one is more of a transformational play and leveraging what they have on top of what we've already had at ePlus to provide more to customers.
+What we've seen with it, which has been nice since we've worked with them over the years now, is, for example, we've done a deal, I think we talked a little bit about it last quarter, where we went in and did an envisioning session, a cloud envisioning session that then led to about 90k worth of services, almost kind of a proof of concept that then led to a $2 million opportunity at very good margins.
+And it looks like there's more opportunities to go as it relates to that customer.
+So we're very much aware of their capabilities.
+We've worked with them over the years and feel pretty good about what they add to our capabilities going forward.
+Yes, well, Matt, what I look at it is it's an add-on to stuff that we're already doing.
+Their software development capabilities really add to what we're offering to our customers.
+So we think we have the ability to go back to our existing base as well as bring on net new customers, both with their training capabilities.
+In fact, some of their training curriculum, we think we can go back to our 3,200-plus customers with what they do there as a foot in the door to potentially do more.
+They are mainly a services play, as I mentioned, upfront right now.
+So we bring the -- I guess, the product knowledge side of it, and they're adding some consultative services and software development on top of some of the services we bring to the table.
+For the fiscal year, we ended at 47% of net sales for Cisco.
+I don't have the quarter handy with me, unfortunately.
+Yes, it's -- may have been a percent more for the quarter.
+Well, in this scenario, it wasn't hotly contested.
+I'd love to tell you it was a 2-day sale, Matt, but unfortunately, that's not the case.
+The big thing we're trying to highlight with that deal was it involved the full life cycle of all of our services that we bring to the table.
+So it started off with assessments across -- from a compute, storage, security, networking and cloud readiness.
+So we did the assessments for the customers and got a real detailed information on their environment.
+The next step to that was we have what we call an executive services portfolio, and this is basically where we have CIO-like capabilities that will go in and work with the customer to kind of build out a road map of the things that they have to think through.
+The second thing we did for them was being vendor-agnostic, if you will.
+We did a detailed analysis of all the compute, storage and networking vendors, just the top ones, if you will, and kind of mapped what they were looking for to the ideal solution.
+And then the last piece, that was nice.
+It included our staging facility services, our project management, our professional services, our enhanced maintenance services support that we provide for customers.
+And we think there's more add-on sales as we go forward with managed services and other things.
+So it was a real nice, what I'd call, consultative sale, where we understood what the customer was looking for, we understood their environment, we sent in the consultants that could actually help them build a solution that addressed what they were looking for and then helped them across, one, reducing their number of vendors, we standardized their IT footprint, I think there was operational cost savings.
+So there were multiple things that went into it that made it a win-win for both us as well as that customer.
+That's a hard one, Matt.
+Here's a couple different factors that may answer your question: One, a lot of people are doing what I call data center redesign, just trying to figure out how to automate and orchestrate their existing legacy systems or potentially move to the cloud.
+As we've talked about in previous calls, we've really gone to an assessment-led selling model as much as possible.
+What was nice about this was this was 5 assessments that were done upfront, where once you get that information and you put the right people in front of the customer, you should be able to figure out what the solution is.
+So I think the big takeaways here is: One, these sales take some time; two, I do believe there's more than a few out there where customers are looking for this type of help from an ePlus-like company; and then three, there's real upside in savings for those customers as we go forward.
+Okay.
+Thank you, operator, and thank you, everyone, for joining us today.
+We look forward to speaking with you on future calls and road shows.
+Have a good day, and thanks for your time.
+Take care.

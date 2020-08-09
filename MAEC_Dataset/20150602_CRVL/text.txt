@@ -1,0 +1,138 @@
+Thank you for joining us to review CorVel's FY15 and the March quarter.
+Revenues for FY15 were $493 million.
+Earnings-per-share were $1.37.
+The March quarter revenues were $122.2 million, 2% over the revenue for the March 2014 quarter.
+Earnings-per-share for the quarter ended March 31, 2015 were $0.27.
+In the same quarter of the prior-year earnings-per-share were $0.39.
+These results were below our budget for the fiscal year.
+Although we knew we were going through a transition period in our business, we had some internal expense issues we could have better controlled.
+The March quarter was quite similar in strength to the December quarter.
+Although seasonal taxes and some adjustments to our accounts receivable reduced net income from the preceding quarter.
+The June quarter will benefit from the absence of the seasonal March quarter factors.
+Our strategic initiatives and service effectiveness are healthy.
+So while we're not happy with the short team results we have had, our strategies and the strength of our overall enterprise are well-positioned.
+I'll now discuss the internal and external aspects of the current environment.
+Cost control and process efficiency are issues within our control.
+When we have softer periods in the market, it has been CorVel's strategy to maintain our investments in new services and new service capabilities.
+We do, though, seek to more tightly manage other expenses during such periods.
+In this instance, we were expecting more growth in the services carriers can employ in response to the Affordable Care Act than occurred.
+And we acted too slowly reducing discretionary expenses.
+We are working on adjustments in each of those areas.
+The market environment includes several important factors.
+One key variable to which we have to respond is the ongoing implementation of the Affordable Care Act, particularly in the health markets.
+The Act is raising our own costs for healthcare, and more importantly, creating more change in our customers environment than they can address in a short period of time.
+Dealing with the Act has diluted their ability to implement other changes in their approach to cost containment.
+The major health insurance carriers are involved in a number of adjustments.
+And that has made it difficult for them to deploy new services such as ours.
+This ha caused a slow down in CorVel's CERiS business, just as we were adding capacity in that service.
+CERiS has had increasing annual results, but lumpy results within any given year.
+We maintain internal forecasts of business activity, and plans for adjusting as the market evolves.
+But thus far, developments in the healthcare marketplace and the rollout of the Act have made the market less predictable than in the past.
+The longer-term forecast for this business remains promising.
+And we're continuing to evolve our service offerings, as well as to begin expanding service in the Medicare and Medicaid sectors.
+Vendors in the cost containment and managed care service sectors of the healthcare markets are having a difficult year as well.
+The RAC vendors, that is the recovery audit contractors for Medicare, have seen their revenues fall in some instances by as much as 75%.
+The major healthcare providers have pushed back regarding changes in medical cost containment, and we now expect an extended period during which time new initiatives will have to shake out in the marketplace.
+Our own internal healthcare costs are also impacted by the Act.
+Our response is to seek adjustments which offset some of the increasing costs of healthcare benefits.
+Benefit design changes can be made annually.
+By itself though, design changes may not be enough.
+Restructuring our employment and related workflow processes can help offset the increased cost of healthcare plans under the Act.
+The changing workflows and staffing will require more time.
+The automation of some processes is another natural outgrowth of the cost increases created by the Act.
+In the workers compensation markets, perspective claims administration customers continue to gradually become more aware of our services.
+As a new entrant in the market for TPA services, we sold initially to public entities where our lower profile with brokers was not an impediment.
+However, this market segment is also required to re-bid contracts regularly.
+The rebidding process opens opportunities.
+But it also places contracted business at more risk than exists in the private sector of the same market.
+For these reasons, new TPAs tend to win more public entity business initially.
+And then if they succeed in establishing themselves, they move on to the private sector, typically represented by brokers.
+The brokerage community has become more familiar with our offerings and increasingly includes us in a growing number of their requests for proposal.
+At the same time, competition for market share growth has been strong and price pressures are the natural byproduct.
+In the intermediate term, our product development will, we believe, separate our service from those of firms providing more commoditized offerings.
+I'll talk later about the status of our current R&D.
+CorVel's mix of private sector business is increasing, and we expect our profile in that segment of the market to continue improving.
+During the quarter, we added two mid sized wholesale managed care programs.
+Selling our managed care programs to carriers is an important initiative for us.
+The moving blocks of business in this market is challenging though, as carriers do not like to disrupt their established processes.
+Carrier service volumes are important building blocks in the growth of our service breadth and depth.
+Integrated programs for workers compensation claims is a general trend in an industry whose history has been one of unbundled collections of boutique vendors.
+Integration has been a cornerstone of CorVel's strategy, as we own all of the key component services.
+The phase I versions of our integration have demonstrated superior results.
+We are well along in the development of ensuing extensions of this strategy.
+I will discuss this further in the product development portion of this call.
+As we expand our presence in the health market, we're planning to enter additional segments of that market.
+Long-term care insurance is one such segment.
+The pilot we began in calendar 2014, and long-term care insurance is proceeding on schedule.
+This program employs our case management staff to support claims management in that market.
+These services leverages our existing staff and the investment we have made in mobile computing for them.
+In the September quarter, we expect to expand the volume in the pilot.
+The long-term care insurance market faces growing volumes of claims as it matures, and could be a market suited to CorVel's growing presence in group health.
+Now moving to product development.
+Product development includes a lot of exciting individual projects.
+But it's a bit challenging to communicate this effectively, and yet maintain appropriate confidentiality.
+In broad terms, we are number one steadily increasing the deployment of hubbed activities and related technologies.
+Number two, converting insurance claims processing from a largely administrative activity to one more of care managed through a workflow process.
+And number three, building the next generation of electronic payment processing as we continue our emphasis on the management of networks with healthcare providers.
+While that can sound like a lot of mumbo-jumbo, during FY15, we made important progress in those broadly defined aspects of our product development.
+As retailing in general is now deploying tools to consumer's smartphones, we expect similar changes to come to healthcare.
+Our monthly software releases move us step by step toward more productive integrations of patients, providers and employers.
+I spoke last quarter to some of the individual initiatives involved, and refer you to that transcript for more detail on those projects.
+We believe improvements in healthcare outcomes are likely to be achieved in somewhat subtle ways.
+That is, straightforward cost reductions for existing activities, while seeming to be more intuitively clear goals are not in reality the most likely opportunities for improvement.
+Instead, shortening time delays in an episode of care and changes in the mix of serious versus limited losses are the more likely sources of savings in a book of business at an employer.
+Our integrated service model shortens delays in the healthcare workflow.
+And permits some claims to be addressed without meaningful loss or productive time on the job.
+We have found that we have to combine a fairly large number of workflow improvements to create meaningful movement in the overall results for any given employer.
+Our long-term strategy remains to differentiate our services through constant implementations of information management technology.
+Toward that end, we seek to invest more than do our competitors, and to structure our enterprise to involve our operations teams in the funnel of ideas that feed our developing projects.
+This last quarter, we moved our Portland, Oregon data center to new facilities, co-located with our Scan One business services enterprise.
+CorVel's Scan One operations provide payables automation and management services to major enterprises, as well as supporting CorVel's managed care and claims administration operations.
+The new location offers state-of-the-art facilities for the combined technology group.
+This year, CorVel will be converting to ICD-10 along with the entire healthcare industry.
+Having already met the previous federal deadline last fall.
+The new co-location facility in Nevada continues to expand operations.
+We're moving to 64-bit processing, implementing Internet Explorer 11 and deploying web services as customers are able to accept these rolling upgrades.
+Continuously upgrading our technology keeps the Company on the front of the wave of new capabilities possible in computing.
+During the current quarter, we will be extending our care management workflows to include telemedicine.
+As well as concierge services in support of patients during their episode of care.
+Telemedicine and the increasing automation of supporting pharmacy management services create a continuum of care.
+Which we believe will eliminate some of the delays incumbent to current diagnosis and treatment processes, and improve outcomes.
+Our ability to integrate the activities of patients, providers, employers and the managed care activities is a natural byproduct of the long-term investment we have been making in CareMC, our web-based platform for smart processing tools.
+Ongoing progress has been made in the automation of our interface to healthcare providers.
+The Company's provider portal is popular with healthcare organizations, and the usage has expanded nicely.
+CorVel's proprietary network of healthcare professionals is a key to the strength of our network solutions product line.
+And further improvements to that network is an important initiative this year.
+I'd now like to discuss our product line results.
+Patient management, increasingly becoming patient engagement, includes third-party administration, that is TPA services, and traditional case management.
+Revenue for the quarter was $67.6 million, an increase of 6.5%.
+Gross profit decreased 15.5% from the March quarter of 2014.
+TPA services continued to grow at double-digit annual rates, despite the loss of some public sector accounts.
+Margins were pressured by some expense items we expect to balance out in future quarters.
+Also, we had a period of years a couple of years ago, actually we had just a short period a couple of years ago, where we didn't adjust to a change in pricing tactics in the industry, and had as a result, slower sales wins.
+We have since adjusted, but the lagged effect of that slow patch has impacted current quarters.
+Case management revenues in total were down slightly.
+We're piloting an application in the group health market, and continued to also see increasing value in our own TPA accounts.
+We have continued the work to more tightly integrate our case management services with other components of both managed care and claims management.
+This can potentially enhance the value for customers using various forms of our case management.
+Network solutions revenue sold in the wholesale market for the quarter was $55 million.
+Down 3.8% from the same quarter of the prior year, but up 2% sequentially.
+Gross profit in the wholesale business was down 14% year over year.
+Network solutions sold through our TPA services was up year-over-year by a double-digit percentage.
+Total network solutions revenue, including volumes sold as a part of our enterprise comm PPA service line was up slightly year over year.
+CERiS specialty hospital review services were down in the quarter, but are expected to rebound in the current quarter and for the remainder of the calendar year.
+As we have discussed, carrier adjustments to the Affordable Care Act have created lumpy results in this service.
+We're adding service for Medicare and Medicaid programs managed by private carriers.
+Now I'd like to cover a couple of additional statistics.
+The quarter ending cash balance was $26 million, and our DSO, that is our days sales outstanding, in receivables was 43 days just as it was a year ago.
+260,500 shares were repurchased in the quarter for $9.1 million.
+We have returned $360 million to shareholders in the last 18 years, repurchasing approximately 33 million shares.
+Shares outstanding at the end of the quarter were 20.251 million and diluted EPS shares were 20.515 million for the quarter.
+Shares outstanding were reduced 3.5% this last year.
+I'd now like to turn the call back over to the operator to open the question and answer session.
+Thank you.
+All right.
+Thank you very much.
+We appreciate everyone's being on the call today.
+And we'll look forward to talking to you again at the end of the June quarter, which is only a couple months away.
+Thank you.

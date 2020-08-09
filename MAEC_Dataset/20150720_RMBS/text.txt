@@ -1,0 +1,244 @@
+Thank you, Amanda, and welcome to the Rambus second-quarter 2015 results conference call.
+I'm <UNK> <UNK>, CFO.
+On the call today with me is Dr.
+<UNK> <UNK>, our President and CEO.
+The press release with the results that will be discussed here today have been filed with the SEC on Form 8-K.
+A replay of this call will be available for the next week at 855-859-2056.
+You can hear the replay by dialing the toll-free number, and then entering ID number 77962571 when you hear the prompt.
+In addition, we are simultaneously webcasting this call; and along with the audio, we are webcasting slides.
+So, even if you're joining us via conference call, you may want to access the website for the slide presentation.
+A replay of this call can be accessed on our website beginning today at 5PM Pacific time.
+In an effort to provide greater clarity in our financials, we are using both GAAP and non-GAAP pro forma format in our press release and also on this call.
+I need to advise you that the discussion today will contain forward-looking statements regarding our financial prospects and demand for our technologies, among other things.
+These statements are subject to risks and uncertainties that are discussed during this call, and may be more fully described in the documents we file with the SEC, including our 8-Ks 10-Qs and 10-Ks.
+These forward-looking statements may differ materially from our actual results, and we are under no obligation to update these statements.
+Further, as mentioned, we will discuss non-GAAP financial results today, and have posted on our website reconciliations of these non-GAAP financials to the most directly comparable GAAP measures.
+You can find a copy of our earnings release and the recon on our website at rambus.com on the investor relations page under financial releases.
+Now I'll turn the call over to Ron to provide an overview of the quarter.
+Ron.
+Thank you, <UNK>, and good afternoon, everyone.
+We ended Q2 at $72.8 million in revenue, which is close to the midpoint of our revenue guidance.
+Expenses came in at the low end of what we expected, so profitability was at the high end of guidance.
+I continue to be pleased with the team's performance and careful management of costs and expenses while still investing heavily in key strategic areas for growth.
+<UNK> will review all the financials in a moment.
+But from a guidance perspective, it is important to note that we are keeping our projections for the year unchanged in the range of $300 million to $315 million.
+So, we remain optimistic about sequential growth because we have so many deals in the pipeline.
+One of the biggest events to occur in the second quarter was the renewal of the SK Hynix agreement.
+Some have wondered why renew this agreement now, particularly since it was not slated to term until 2018.
+Recall that as we began our initiative to really engage and collaborate with the industry a few years ago, Hynix was the first partner to sign; and at that time, chose to take the standard five-year agreement.
+As our strategy dictated being more open to more flexible terms, other customers chose to sign longer-term agreements.
+For instance, Micron signed a seven-year deal, and Samsung resigned to a 10-year deal.
+So, looking at this structure, it was natural for us to offer an extended license to Hynix.
+And it's a great deal for us from a financial standpoint, providing a steady revenue stream over a more extended period of time, totaling $432 million over the extended term, with an average rate of $12 million per quarter until 2024.
+As a reminder to our investors, our licensing contracts with the DRAM industry are fixed, so we're not subject to fluctuations and volatility in the DRAM market, which we think is a great position to be in.
+Last quarter, we also announced that we renewed the license agreement with Renesas, which was set to come due this year, and is now renewed into 2020.
+This agreement includes not only our memory and interface technologies, but also some of our security offerings, which, again, formulates a basis to begin potential engagements beyond pure patent licensing.
+Having these patent license agreements in place really helps as we look to build deeper collaboration with the industry.
+In fact, we've talked about working to solve some of the industry's tough challenges and, to that end, we're gearing up for a new product announcement just ahead of the Intel Developer Forum next month.
+This product pertains to two of the strategic memory programs we discussed previously.
+We can't tell you everything right now, but what we can say is that we have been working for the past few years to make our IP consumable, taking our [innovative] technologies and expertise in the memory space, and packaging it into a product that will help improve server-based memory performance.
+As our customers and their customers all know, the era of big data is placing tremendous demands on the data center to optimize performance, power, CapEx and OpEx for vast amounts of data.
+Our product, while not related to storage class memory architectures, as some have speculated, will improve both bandwidth and capacity requirements to meet the growing needs of the data center.
+Unfortunately, that's all we can say about the program now, but look forward to sharing the official news in the coming weeks.
+The other memory-related program that we've discussed is born out of our emerging solutions group, which is where our next generation initiatives in Rambus labs organization reside.
+This program is focused on improving memory architectures in the data center, but more at the rack level, and focuses on software.
+We also plan to discuss this strategic program in more detail at our Analyst Day in mid-September, so we'll be revealing more later in the year.
+On the security side, we continue to make good progress with Qualcomm as our lead customer for our CryptoManager platform.
+At this stage of the program, we are laser focused on delivering the various elements and expanding functionality.
+To remind everyone, there are several parts of the overall CryptoManager platform that are being developed and deployed: a security engine, which is a type of small secure element that sits within the customer's SOC; infrastructure, which is basically a secure server that injects keys during the SOC manufacturing process; and enterprise class software for controlling the infrastructure.
+We get paid for the security engine, infrastructure and software, and eventually also royalties for programming third-party keys for configuring new features downstream or applications that can benefit from a hardware root of trust such as DRM, EPN and payment.
+At the upcoming investor day, we'll take a deeper look at the downstream royalty opportunity for third-party keys, but suffice it to say that it dwarfs Rambus's current revenue.
+Interestingly, from a new business model standpoint, CryptoManager opens up an entirely new customer base for us that the companies most interested in downstream configuration and security application are handset manufacturers, mobile operators, mobile application providers, and [software] mobile service providers.
+Few, if any, semiconductor companies, let alone semiconductor IP companies, have truly found a path to monetize this downstream part of the value chain, so we really believe we are doing something unique and possibly even disruptive here.
+The last here I want to touch on is the work we've been doing out of our emerging solutions division.
+I spoke earlier about the second strategic memory program, so I won't cover that again.
+But this is also the group that is developing our computational sense and imaging programs, such as our binary pixel and lensless smart sensor technologies.
+We shared last quarter that our lensless smart sensor received another Best-of Mobile World Congress award, and that this technology has now also been named a finalist for an EE Times ACE Award.
+We also discussed the Partners-in-Development program, or POD program, we kicked off with our partners, frog design and IXDS.
+We're pleased to share that our partners have been working with the developer kits, which include the lensless smart sensor and the algorithms, and they are working through scenarios in vertical applications.
+So, we look forward to sharing some exciting results soon.
+In summary, Q2 was another good quarter.
+We are executing and cautiously optimistic that we're on track to meet the financial goals we set forth at the beginning of this year.
+We are making good progress across all of our strategic programs, and are excited to share more news with you next month, right before IDF, and then even more again in September at our Analyst Day.
+With that, I'll turn the call over to <UNK> to give a readout on the financial results.
+<UNK>.
+Thanks, Ron.
+I'd like to remind everyone that, for this call and for internal assessment, we use non-GAAP or pro forma numbers to discuss our operating results, as well as forward-looking projections, which we believe are indicative of complete performance as they include certain cash events, and exclude certain non-cash and discrete events, such as stock-based comp, amortization, impairment and restructuring charges, as we believe these are not indicators of long-term performance.
+As noted earlier, we will provide reconciliations to the most comparable GAAP measures on our website.
+In the case of any forward-looking projections or estimates containing non-GAAP information discussed on this call, a reconciliation may not be available due to the unreasonable effort to make such a determination or provide such information as more fully described on our website.
+Let me first review some of the financial highlights for the second quarter.
+As Ron mentioned, revenue for the second quarter was $72.8 million, within our guidance of $70 million to $74 million, flat to the first quarter, and a decrease of 4.8% year over year.
+For the current quarter, our memory and interface revenue was $54.6 million, cryptography research was $11.8 million, and our lighting and display technology revenue was $6.4 million.
+Quarter over quarter, these numbers represent flat revenue for MID, a decrease of 7.8% for cryptography research, and an increase of 18.5% for lighting industry technology.
+CRD, or cryptography research, has a couple of annual licenses which pay in Q1 of every year, hence the decrease in revenue for CRD.
+Year over year, revenue decreased by 6.8% and 7.8% for MID and cryptography research, respectively, and increased by 25.5% for lighting industry technology.
+In Q2 of last year, we had an extra initial payment from Qualcomm when we signed another license fee and a customer.
+In addition, year over year, we also had lower royalty payments from two customers, driving lower revenue for MID and for CRD.
+For LDT, shipments continue to increase, and we had high royalty, as well as high product revenue.
+Cost of revenue plus operating expenses, or what I'll refer to as total operating expenses, for the quarter came in at $46.5 million, at the low end of our guidance of $46 million to $49 million.
+This was an increase of $1.6 million from the previous quarter, and an increase of $2.7 million from the quarter a year ago.
+These increases were primarily driven by prototyping expenses, and additional resources and engineering.
+We ended the quarter with headcount of 513 as compared to 500 in the previous quarter and 484 in the quarter a year ago.
+Operating income for the quarter was $26.3 million, towards the high end of our guidance of $21 million to $28 million.
+On a sequential basis, this is a decrease of 6.1%, and a decrease of 19.6% year over year.
+The decrease year over year was driven primarily by lower patent revenue in Q2 of 2015 since we've kept our total OpEx relatively flat over the year.
+For the quarter, EBITDA margin was 40%, as compared to 43% in Q1 2015, and 47% in Q2 of 2014.
+Interest and other expenses for the second quarter were $1.3 million, as compared to $1.4 million in Q1 of 2015, and $3.2 million in Q2 of 2014.
+As a reminder, the 5% coupon convert matured in June of 2014, causing the reduction in interest expense year over year.
+Using a flat rate of 36% for pro forma pre-tax, net income for the quarter was $16 million or $0.13 a share, as compared to $17 million last quarter, and $18.9 million in the quarter a year ago.
+During the quarter, the fully diluted share count increased by approximately 3.7 million from 117.4 million to 120.9 million, primarily due to the dilutive effect of the convertible notes, since our average share price during the quarter was $14.29, which was higher than the $12.07 conversion price on the convertible notes.
+Overall cash, defined as cash, cash equivalents and marketable securities, was $348 million, an increase of $30 million from the previous quarter.
+Net cash at the end of the quarter was $210 million, as compared to $108 million a year ago.
+During the quarter, we generated approximately $24 million in cash from operations.
+Now I'll provide pro forma guidance for the third-quarter 2015, as well as for the full year.
+The guidance reflects a reasonable estimate, and our actual results could differ materially from what I'm about to review.
+For the third quarter, we expect revenue to be between $73 million and $78 million.
+We expect total operating expenses for the quarter to be between $46 million and $49 million.
+Pro forma operating income is expected to be between $24 million and $32 million.
+As Ron mentioned, for the full year we're keeping our guidance unchanged, both for revenue and for operating expenses.
+We are negotiating a couple of large deals, and it's hard to predict when exactly they will close.
+Currently, we have modeled them to close in the fourth quarter, which explains the expected increase from Q3 to Q4.
+As in any quarter, this forecast is not without risk; and if any of these deals get pushed on to next year, we could experience lower revenue.
+And we will update you accordingly at the next earnings call when we will have more visibility on the progress of these deals.
+We are now ready to open the lines for Q&A.
+Operator, please open the lines.
+Yes, <UNK>, thanks for the nice words.
+It's really just process going through it.
+We have a very nice pipeline, it's very rich.
+The team has been doing a great job.
+And just a question of when they close or not.
+<UNK> has always done a good a job of foundry conditioning those, you can tell.
+He's probably more pessimistic which is good and I'm more optimistic which is good.
+So, it's just the normal stuff.
+Yes, let me reiterate that, we said that, is the NASDAQ with Jefferies Conference.
+There was a lot of speculation that we heard that it was a storage class memory and so at the last webcast at the NASDAQ Conference we said explicitly that it is not a storage class memory.
+Now we do have a program, and this is where people were connecting dots that are very logical but not necessarily correct.
+We have a lot of work that we've done on resistive RAM that's incredibly excited.
+We've licensed that to Tezzaron.
+We are working with a variety of different companies in producing some larger production quality chips and really extending it.
+I've said one of the things that we were concerned about is the stability at higher temperature.
+We're making progress on that.
+So that's a great program, but it's a little further out.
+This is a product that we'd be essentially ramping this year and next year.
+The storage class memory I think is more like 2017 before we would see something.
+It's an exciting program.
+Could be great.
+But that's not what we're talking about either in the one that's coming in the business unit where it's more shorter term revenue or the strategic -- other strategic more software orientated memory program which we hope to demonstrate to you during the Analyst Day.
+That's in the emerging solutions division which is also where the RRAM is.
+So, no not storage class.
+Something different.
+It'll be rather obvious when you see it.
+It's kind of exciting.
+Straightforward, but there's a great road map with a lot of innovation there.
+We have been incurring prototyping costs for the memory we're talking about and I think those are included in some of the forecasts and the guidance we give.
+So nothing out of the ordinary.
+When we give guidance for next year, we'll see how much we need to do in terms of prototyping and we'll probably adjust our guidance accordingly.
+But right now we have already included the estimates in our full-year guidance.
+Yes, there could be an inflection but don't forget this is a program we just announced last year in June.
+And we have to have our customers start shipping their chips first and then there will be adoption in the marketplace.
+So as we mentioned in the past, yes we are getting revenue from Qualcomm.
+The downstream revenue won't happen until about late 2016 timeframe.
+Yes, what we'll be announcing we do not believe that it will have any delay effect on that.
+No, it was not.
+In the direct sense, that was simply an extension of the licenses, it was a rather straightforward one.
+As I mentioned from our perspective we both want to work collaboratively on things that could be the new memory project, but this was just an extension of the license.
+And for the $432 million extending into 2024 it was from our perspective for shareholders, it was a great deal and is just a great platform to introduce some of these new products.
+<UNK>, we stopped doing that because it really doesn't matter because if you talk about percentages depending on what the revenue is, the percentage will change every quarter.
+So I think what we try to guide people to is that when the D from the DRAM side, we have been getting consistently fixed dollar numbers.
+And from the DRAM industry we should expect to receive $158 million for the full year in 2015.
+And that's a fixed number no matter what volatility there is in the DRAM industry, whatever pricing may be up or down.
+It might be up or down.
+So I think that part you can say that at least around 50% of our revenue is fixed.
+On the others we have both fixed and variable.
+And some of them are unit-based, so they're variable.
+Others, they may pay us a fixed amount but the amount varies over time.
+So it's very difficult to quantify a percentage in terms of fixed and floating.
+So there's a sum of a lot of things, some of them are extension renewals.
+Some of them are new opportunities.
+Some of them are more technology based.
+Some of them are more straight then normal patent licensing based.
+So it's really a mixed bag.
+When you look at the pipeline, it's just really large which is what you would expect you would normally have.
+And the question is just simply how much gets achieved this quarter and next quarter.
+There are scenarios where we go significantly above the estimate, but they're just unlikely which is why we remain in between those two.
+So, I guess the best way to say it again, <UNK>, is cautiously optimistic.
+And as <UNK> said, we'll update you when we find out something new.
+You're right, we don't show in the balance sheet.
+It has gone up.
+I can check and let you know, but I think it's gone up by a couple million quarter over quarter.
+I think we might be around $6 million or $7 million as of the end of last quarter.
+It was like $4.5 million last quarter --
+Right.
+The previous quarter, so probably $6.5 million.
+It's up quarter over quarter, I'll try and have that number next time.
+Sure.
+And the answer is, of course.
+And I've said it just repeatedly, there's a pipeline of things that just take time to get through and the team is doing it.
+We're really excited about the new memory product.
+We're excited about the things that are even more strategically out there.
+We didn't talk about it formally in the prepared remarks, but we have customers that are really excited and working with us very proactively on things like the binary pixel which could provide a nice little bump.
+So, we have a lot of deals.
+We have a lot of people partners.
+It really comes down to CryptoManager.
+If you want to look at the biggest chunks, CryptoManager is one that we're really excited about, both in terms of new customers but also the downstream revenue opportunities that we alluded to and we'll talk about, where the total opportunity dwarfs the total revenue of Rambus.
+And we're not the only ones to see that.
+Other people are seeing that and wanting to partner with us.
+So I think it requires us to execute on CryptoManager, it requires us to execute on the new memory opportunity.
+And the combination of those with our customers, of course, to execute.
+As we look more like a typical product company, whether the product is IP or physical product like CryptoManager, of course both of those have to work.
+So as <UNK> had said, it's not without risk but I'm really pretty pumped about the Company and what it's doing now from a strategic opportunities standpoint.
+It was $6.6 million.
+Sure.
+Yes, so M&A still remains our number one priority.
+We have been seeing some good opportunities and it's been a pretty busy quarter looking at different opportunities.
+Maybe a little more so than last quarter but again I think the valuation side and possibly a little more on the culture side of the two things that are slowing us down or stopping us from moving ahead with that.
+We'll continue looking.
+We don't want to jump in prematurely or haphazardly.
+We want to make sure that we have the right return for our shareholders and our employees.
+On the buyback side we did not buy back any shares.
+We had said that the program is opportunistic and with stock being at about [$15] and decided that it's not a good time to be buying back shares.
+But secondly I want to make sure that my business units and my M&A team tells me that they have exhausted possibilities or I can use the cash for buyback at which time I can move in that direction.
+<UNK>, let me add a little bit onto that.
+We have a regular pipeline, we are spending time on it.
+I'm spending time with Senior Executives repeatedly almost each week.
+We just had a meeting today where we approved another process where we're going to engage more directly with a particular company that's very attractive in one of our strategic areas.
+So I think that's good.
+One of the things that I think is changing a little bit, albeit slowly, is the expectation on value.
+I think a lot of people are seeing some macro economic storm clouds that are out there.
+The stock market in China which has been contained but can spill over in different areas.
+The Greek exit and the Greek ordeal is challenging.
+Maybe not again it's going to go outside of Europe but it certainly adds some instability there.
+PC sales are declining.
+We saw big stocks like Intel that get hit a bit.
+Handset sales are declining.
+We saw companies like Qualcomm and even ARM suffer a little bit.
+We've seen ourselves trade almost sympathetically with the difficulties that Micron had and ARM and others even though we are really, as we've noted, detached from much of that because of our fixed contracts.
+Which is exactly what we chose that.
+So I'm getting a little more hopeful that as people look at some of these macroeconomic storm clouds that may make some transactions a little bit more complicated, but they'll be a little more realistic.
+And we're fortunate that we have the profitability that we do while still investing very heavily in the strategic programs that we have ongoing.
+And so we're going to take advantage of this -- these opportunities if they come forward.
+Sure.
+Well I think there were some global issues and not specifically Qualcomm, so I don't want to make that assertion.
+We're engaged with a lot of customers on this.
+The obvious place is mobile because of the starting point with Qualcomm and the very nature of having this hardware route of trust, there's many secure elements whatever you want to call it that could be in existence and be used from applications downstream.
+So that's a very natural place.
+However, we have interest in the networking side of various businesses where they want to also configure; again secure their supply chain.
+We have completely different industrial customers that are interested.
+So I think in some ways from a semiconductor standpoint it's a paradigm shift, it's a new way of thinking about it.
+It's a new way of managing inventory and managing cash and working capital.
+But it's also a new way to enter into monetizing in different applications.
+So I think at some customers are starting to sense that that's interesting.
+Some of our partners that we're talking to are also interested in that.
+As I mentioned in the prepared remarks, if you think about this, what a platform like CryptoManager allows you to do is offer a value proposition to an application provider that would be on a different platform to have an aspect to use something to secure a transaction or configure a device securely.
+And today most semiconductor companies monetize only through an OEM.
+They sell a chip to the system OEM, he puts it in, they give him some money and that's it.
+What we like about this is the disruptive nature that wow, maybe we can create relationships with other vendors.
+Oh, by the way, some of these application providers, what they're talking about is securing customer relationships that are worth now $6.99 a month in some type of DRM type of application, not in programming a $5 chip.
+So what we get for a $5 chip is pennies.
+What you can get for securing a highly valuable content with a customer who has an annuity stream forever is a very different value proposition.
+Of course, there's inherent risk in all this, as we say that we don't want to be delusional.
+We have to crawl, then walk, then run.
+But this is a fantastic upside opportunity.
+Thank you all for your continued interest and support.
+We look forward to sharing more details on our business and key programs at our Analyst Day which will be held on September 15 in New York.
+Thank you.

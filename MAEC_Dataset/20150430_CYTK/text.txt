@@ -1,0 +1,228 @@
+Good afternoon and thank you for joining us on this conference call today.
+Leading today's call is <UNK> <UNK>, our President and Chief Executive Officer.
+Following <UNK>'s initial comments, <UNK> <UNK>, our Senior Vice President and Chief Medical Officer, will provide an update regarding our planned Phase III clinical development program for tirasemtiv, our first-in-class fast skeletal muscle troponin activator, which we are developing for the potential treatment of ALS.
+Afterwards, <UNK> <UNK>, our Senior Vice President of Research and Development, will provide an update on our clinical development program for CK-2127107 or CK-107, our next-generation fast skeletal muscle troponin activator, and our plans for a Phase II clinical trial in spinal muscular atrophy or SMA.
+<UNK> will then provide an update on the clinical development program for omecamtiv mecarbil, our first-in-class cardiac myosin activator, which is being developed for the potential treatment of heart failure.
+I will then provide a financial overview for the quarter and <UNK> will conclude the call with additional perspective and comments regarding our future plans and key milestones for 2015.
+We will then open the call for questions.
+Please note that the following discussion, including our responses to questions, contain statements that constitute forward-looking statements for the purposes of the safe harbor provision of the Private Securities Litigation Reform Act of 1995, including, but not limited to, statements relating to our financial guidance and collaborations with Amgen and Astellas; to the initiation, enrollment, design, conduct, and results of clinical trials; and to other research and development activities.
+Our actual results may differ materially from those projected in these forward-looking statements.
+Additional information concerning factors that could cause our actual results to differ materially from those in these forward-looking statements is contained in our SEC filings, including our most recent annual report on Form 10-K, our quarterly reports on Form 10-Q, and our current reports on Form 8-K.
+Copies of these documents may be obtained from the SEC or by visiting the investor relations section of our website.
+These forward-looking statements speak only as of today.
+You should not rely on them as representing our views in the future.
+We undertake no obligation to update these statements after this call.
+Now I will turn the call over to <UNK>.
+Thank you, <UNK>, and thank you to everyone on the line for joining us for this Q1 earnings call today.
+As we review activities from the first quarter of 2015, we are very busily preparing for the initiation of Cytokinetics' first Phase III clinical trial.
+The initiation of a Phase III clinical trials program for tirasemtiv is a very important event for our Company and, importantly, for the ALS community as we believe this may be the only international Phase 3 clinical trial expected to enroll patients with ALS in 2015.
+Data from our Phase II BENEFIT-ALS clinical trial showed that tirasemtiv was the first investigational drug candidate to have a statistically significant and clinically meaningful effect on measures of respiratory function and muscle strength in an ALS patient population.
+During the first quarter, we had further interactions with each of FDA and EMA to review the results from BENEFIT-ALS and to further refine our plans to advance tirasemtiv into a Phase III development program.
+More and more, the urgent unmet need of patients with ALS is gaining media and other high visibility attention from the broader community.
+We are proud to stand together with patients and caregivers in our relentless pursuit of what we believe can be the very first new medicine for patients with ALS to address respiratory and other functional endpoints.
+With that said however, we are keenly aware of setting proper and realistic expectations and as such we continue to engage cooperatively and collaboratively with the scientific and clinical community as well as regulatory authorities to conduct rigorously designed, comprehensive, and properly conducted clinical trials of tirasemtiv and that importantly build on prior peer-reviewed studies.
+Only by working collaboratively with all stakeholders in the fight against ALS do we believe that the shared interests of all of the ALS community can be well served.
+In addition to our preparing to initiate a Phase III clinical trial for tirasemtiv, we are also readying for a Phase II trial with CK-107 later this year.
+This Phase II clinical trial will evaluate CK-107 in patients with SMA, a similarly devastating neuromuscular disease which can be fatal, especially in infants and children, or otherwise extremely disabling for those adolescents or adults living with the disease.
+After years of pioneering research, we know with exquisite detail how each of tirasemtiv and CK-107 work mechanistically.
+I mentioned that because therapeutic hypotheses underlying the development of investigational medicines in neuromuscular diseases are not always anchored in rigorous scientific research.
+We do not believe that is the case for either tirasemtiv or for CK-107.
+Both are proceeding in clinical trials that build on pharmacodynamic evaluations performed in prior preclinical and clinical studies.
+Similarly, we are proceeding forward with both compounds following thorough and careful evaluations of safety, tolerability, pharmacokinetics, and drug-drug interactions.
+Now turning to our heart failure program, COSMIC-HF, the last planned Phase II clinical trial of omecamtiv mecarbil, has completed patient enrollment.
+<UNK> will elaborate on design elements of COSMIC-HF in a moment.
+In anticipation of data from that study expected later this year, we have begun planning activities with our partners at Amgen for a potential Phase III program, which would evaluate omecamtiv mecarbil in heart failure patients and which could begin in 2016.
+Let me now turn the call over to <UNK> so that he can get us started today on elaborating on these development programs, starting first with tirasemtiv directed to the potential treatment of ALS.
+Thank you, <UNK>.
+As you may recall, BENEFIT-ALS is the Phase IIb, multinational, double-blind, randomized, placebo-controlled clinical trial designed to evaluate safety, tolerability, and potential efficacy of tirasemtiv in patients with ALS.
+The results of BENEFIT-ALS showed that treatment with tirasemtiv resulted in a statistically significant and potentially clinically meaningful reduction versus placebo in the decline of SVC, to slow vital capacity, at each assessment time point over 12 weeks of double-blind treatment.
+These effects also favored tirasemtiv versus placebo in all prespecified subgroups we examined and, thus, we believe these data to be robust.
+Vital capacity is a clinically meaningful measure of respiratory function that treatment guidelines specify should be used to determine important clinical decisions in the treatment of ALS and is also used to aid prognosis.
+Given these findings from BENEFIT-ALS and following discussions with neuromuscular and pulmonary specialists and regulatory authorities, we chose to advance tirasemtiv to Phase III.
+We believe BENEFIT-ALS provides a solid foundation on which to plan the next steps in the clinical development of tirasemtiv.
+The objectives for the Phase III development program are to confirm and extend the results observed in BENEFIT-ALS.
+The upcoming trial will be conducted in the same eight countries and most of the same treatment centers as BENEFIT-ALS.
+In this trial, double-blind treatment will continue for at least 48 weeks, thus substantially extending the treatment period relevant to BENEFIT-ALS.
+The endpoints will include measures of clinical benefit related to respiratory function in patients with ALS, including effects on SVC, but also including other functional assessments of respiratory and other skeletal muscles.
+We believe the information we received from neuromuscular and pulmonary experts, both in the United States and internationally, market research, and regulators provides an actionable trial design and underscores the importance of respiratory function for patients with ALS.
+We will describe the design of this Phase 3 clinical trial in more detail during our upcoming R&D day and at that time -- and at the time we open the trial to enrollment.
+For now, I will say that the objectives of the trial will be to assess measures of respiratory function, including SVC, following 24 weeks of treatment with secondary endpoints assessed at 48 weeks.
+We also plan to lengthen the duration, both of the open label lead-in phase prior to patient randomization as well as the duration of each dose titration step based on our experience with BENEFIT-ALS, in an attempt to improve the tolerability of tirasemtiv in patients with ALS.
+In the first quarter, we made important progress in preparing to begin our Phase III trial of tirasemtiv for the potential treatment of patients with ALS.
+Last quarter we reported that we met with the FDA and EMA and have now implemented refinements to the protocol based on their advice.
+Those interactions are continuing.
+Prior to and subsequent to those interactions, we have been busy performing other activities necessary to start the Phase III clinical trials including vetting and selecting CROs, designing and building randomization and data capture systems, drug product packaging, and of course, engaging clinical sites and clinical trial investigators.
+With that update on our plans for tirasemtiv, I will now turn the call over to <UNK> for an update on our SMA and heart failure programs.
+Thank you, <UNK>.
+Turning first to the development of CK-107, our next-generation skeletal muscle troponin activator partnered with Astellas.
+As <UNK> previously mentioned, I am happy to report that in the first quarter we began the planning of a Phase II clinical trial to evaluate CK-107 in patients with SMA, which Cytokinetics will conduct in accordance to an agreed plan with Astellas.
+As part of that planning process, we engaged leading neuromuscular physicians who are expert in SMA to discuss and inform the potential design of this Phase II clinical trial.
+In addition, we initiated formulation development and manufacturing activities in advance of the planned trial.
+Like ALS, SMA is also an orphan disease and is one of the most common fatal genetic neuromuscular disorders responsible for infant death.
+We believe that direct activation of skeletal muscle may address neuromuscular weakness that characterizes SMA and could demonstrate effects on key functional parameters, including breathing.
+Our Phase II trial will explore pharmacodynamic endpoints in patients with SMA.
+We expect to target for enrollment those patients with SMA who have survived adolescence with the disease, but who may have gradual and progressive weakness in the proximal muscles of the extremities, resulting in mobility problems and other functional limitations.
+Few treatment options exist for these patients, resulting in high unmet need for new therapeutic options to address functional limitations and modify disease progression.
+We believe that our approach to developing CK-107 in patients with SMA is complementary to the approach that is being pursued by other companies.
+Turning now to the development of omecamtiv mecarbil.
+In the first quarter patient enrollment was completed in COSMIC-HF and to date over 275 patients, or nearly two-thirds of those enrolled in the study, have already completed a 20-week duration of dosing in the expansion phase of the trial.
+Also in the quarter, the data monitoring committee met and reviewed the accumulated safety and pharmacokinetic data from COSMIC-HF.
+They recommended the study proceed without change.
+Substantial progress on this clinical trial conducted by Amgen in collaboration with Cytokinetics is exciting.
+We believe this trial, nearing its conclusion, is the last study in the Phase II program meant to inform the progression of omecamtiv mecarbil in Phase III.
+To remind you, COSMIC-HF is a Phase II, double-blind, randomized, placebo-controlled, multicenter clinical trial designed to assess the pharmacokinetics and tolerability of omecamtiv mecarbil in patients with stable chronic heart failure and left ventricular systolic dysfunction.
+Secondary objectives are to assess the changes from baseline in echocardiographic parameters and n-terminal pro-brain natriuretic peptide during 20 weeks of treatment.
+While COSMIC-HF was not designed with a prespecified primary clinical efficacy endpoint, it is meant to assess safety, tolerability, and pharmacokinetics and the pharmacodynamic effects of longer-term treatment with omecamtiv mecarbil.
+In particular, COSMIC-HF may afford us first glimpses into the effect of prolonged treatment of omecamtiv mecarbil in the enlarged heart found in heart failure as measured by end systolic and end diastolic diameters.
+All patients in COSMIC-HF have echocardiograms at baseline and again at 12 and 20 weeks following randomization.
+Echocardiograms in COSMIC-HF may provide quantification of changes in cardiac shape and function, which we hope may be predictive of long-term clinical outcomes.
+In anticipation of completing COSMIC-HF, Cytokinetics and Amgen are collaborating on clinical and nonclinical development activities, as well as regulatory and other planning activities.
+In addition, Cytokinetics recently convened a meeting with experts in matters of reimbursement and market access to discuss pharmacoeconomic considerations associated with novel heart failure therapeutics in order to potentially inform Phase III clinical trial design.
+Lastly, during the quarter Cytokinetics and Amgen agreed to extend the joint research program directed to next-generation cardiac sarcomere activator compounds.
+Terms of the amendment to the Company's collaboration provided for Amgen's continued sponsorship of Cytokinetics' scientists through 2015 and potential additional milestone payments payable by Amgen to Cytokinetics for compounds that may arise out of the collaborative research.
+And with that update on our cardiac and scalable sarcomere programs, I will turn the call over to <UNK> for an update on our financials.
+Thank you, <UNK>.
+As our press release contains detailed financial results for the first quarter 2015, I will refer you to that public statement for the details of our P&L and balance sheet.
+We ended the first quarter with $117 million -- sorry, $117.5 million in cash, cash equivalents, and investments, which represents over 20 months of going-forward net cash burn based on our 2015 guidance.
+Our guidance includes estimated cost of planned Phase III development activities for tirasemtiv in 2015 and 2016.
+Revenues for the first quarter of 2015 were $4.4 million compared to $8 million during the same period in 2014.
+Revenues for the first quarter of 2015 included $1.6 million of licensed revenues, $2.1 million of research and development revenues from our collaboration with Astellas, and $0.7 million in research and development revenues from our collaboration with Amgen.
+Revenues for the same period in 2014 included $2.1 million of licensed revenues and $5.2 million of research and development revenues from our collaboration with Astellas, which included a $2 million milestone for research activity and $0.7 million of research and development revenues from our collaboration with Amgen.
+Our first-quarter 2015 R&D expenditures totaled $9 million.
+From a program perspective, for the first quarter approximately 71% of our R&D expenses were attributable to our skeletal muscle contractility research and development activities, which included both expenses associated with tirasemtiv and CK-107; 16% to our cardiac muscle contractility activities; and 13% to our other research activities.
+We ended the first quarter in a strong financial position with sufficient cash resources to execute on all of our development plans, including our Phase III clinical trial for tirasemtiv.
+That concludes the financial portion of today's call.
+With that I will now turn the call back over to <UNK>.
+Thank you, <UNK>.
+So in summary, the first quarter of 2015 was a period of intensive planning for Cytokinetics.
+Preparing to conduct our first Phase III clinical trial at the Company requires us to critically evaluate CROs and to ensure all systems and standard operating procedures are compliant with applicable standards and best industry practices.
+We look to our upcoming Phase III trial of tirasemtiv as a key pivot point for the Company and we have upgraded capabilities throughout the Company.
+We foresee these changes potentially serving us well also as we prepare for potential Phase III activities alongside Amgen in 2016 for omecamtiv mecarbil.
+By the end of 2015 we look forward to having two clinical development programs advancing either in or to Phase III trials with another enrolling in Phase II.
+Achieving those objectives of 2015 with novel mechanism drug candidates would put Cytokinetics on the top step of the ladder amongst biopharmaceutical companies.
+Moreover, ongoing collaborative research programs with each of Amgen and Astellas are advancing towards designation of development compounds.
+We believe Cytokinetics continues to execute effectively and prudently; scientifically, operationally, and financially in building a robust diversified pipeline of muscle biology-directed drug candidates.
+Cytokinetics discovered compounds have now been the subject of over 50 clinical trials.
+We enter the next phase of our company's development much like we have approached the conduct of our R&D activities: with sound, careful, and rigorous planning and with the continuity, expertise, and experience of seasoned industry veterans leading the way.
+Nearly every member of our executive team has worked together on these programs for over 10 years.
+That matters when a company is pioneering a new pharmacology.
+It is important to Cytokinetics to also be good listeners and partners with the patient and disease advocacy groups for whom our drug candidates are intended.
+We always intend to support patient and disease education.
+We have meaningfully engaged on a local basis, as well as nationally and internationally, with the over 60 advocacy organizations that represent interests of the ALS community.
+In much the same way, we are engaging key stakeholders who represent patients and caregivers in the area of SMA.
+In addition to underwriting grants, sponsorships, and continuing education, we were very proud to participate in Rare Disease Day on February 28, 2015.
+We learned so much from these groups and will continue to seek their guidance in our drug discovery and development initiatives.
+With that said, let me now turn to our expected milestones for 2015.
+For tirasemtiv, Cytokinetics expects to initiate a Phase III clinical development program for tirasemtiv in patients with ALS in this second quarter of 2015.
+For CK-107, Cytokinetics expects to initiate a Phase II trial of CK-107 in patients with SMA in the second half of 2015.
+And for omecamtiv mecarbil, we expect results from COSMIC-HF to be available in the fourth quarter of 2015 and Cytokinetics expects to continue joint development activities in collaboration with Amgen directed to the potential advancement of omecamtiv mecarbil to Phase III clinical development.
+As I mentioned in our last quarterly earnings call, we look to 2015 with great anticipation.
+This year marks a major fulcrum for our company as we hope to leverage our past to catalyze a promising future.
+With that in mind, I will also mention that Cytokinetics is hosting our next R&D day on May 12 in New York and which will also be webcast.
+At that time we will have an opportunity to delve more deeply into these and also other programs, as well as engage key opinion leader clinical experts as faculty members to provide perspective and commentary on our results and also our plans.
+Operator, that concludes the formal portion of our call today.
+I would now like to open up the call to questions please.
+Sure, so I will start and then I will turn it over to <UNK>.
+With regard to enrollment timelines, based on what we know today -- and we're going back to nearly all of the centers that participated and enrolled patients in BENEFIT-ALS, so we think we have reasonably good calibration on their ability to recruit and enroll patients.
+But based on what we know from that study and the design of the trial that we'll elaborate on in the next few weeks, we're expecting that the study is going to enroll over the course of what amounts to about six to nine months, give or take, as we will see with the first initiations.
+But I think that is a reasonable assumption at this point.
+That would mean that the first patients would be completing their 24-week analyses to enable the possibility of data by the end of next year, we hope.
+Again, with the study design we will be able to speak more to that.
+As was pointed out, we are also looking to learnings from BENEFIT-ALS in modifying the open-label lead-in and also the dose titration steps.
+I will turn to <UNK> maybe to speak about the rationale for that.
+Great.
+You may recall that in BENEFIT-ALS all patients received a week of open-label treatment with tirasemtiv, a total daily dose of 250 milligrams per day given as a 125 milligrams twice daily.
+For two reasons.
+The first was we expected and, in fact, we demonstrated that about 40% to 50% of those patients would experience a dizziness that was usually mild.
+And then based on previous early Phase II studies, and again demonstrated in BENEFIT-ALS, tended to resolve even if the patient continued treatment on tirasemtiv.
+So generally goes away.
+This helped maintain the line so that if a patient experienced dizziness on tirasemtiv and it resolved after randomization, it really wasn't possible to determine whether or not that's because the patient was withdrawn on the double-blind placebo or they just continued on tirasemtiv and the dizziness went away, because it really almost always does.
+The other reason was to eliminate from randomization the minority of patients who can't tolerate even that starting dose.
+So I would say the lesson from BENEFIT-ALS is that the first purpose, maintaining the blind, worked pretty well.
+Second didn't work as well as we would've liked to.
+We lost 16% of the patients who began in open-label before randomization.
+So while we would have preferred to have lost fewer, that's the time to have them drop out if they are going to drop out, not after randomization.
+But as you know, we lost 3 times as many patients after randomization from tirasemtiv as from placebo.
+So we think lengthening that open-label period from one to two weeks might help investigators and patients make better decisions about whether they are really in a position to tolerate whatever adverse experiences they may be having.
+And this time it would be not just for 12 weeks but for 48 weeks.
+We had a lot of feedback actually from our investigators.
+They felt rushed and the patients felt rushed.
+They wanted to get into the trial and giving them another week to make that decision would probably yield better decisions.
+The other thing we found is that we increased the dose during BENEFIT weekly, and you could just see every week as we were titrating we would lose another --.
+I mean it wasn't even 10%, but it was a chunk of patients from the tirasemtiv treatment arm.
+Again, we think that escalating more slowly, so every two weeks, may reduce the number of post-randomization dropouts.
+Honestly, we won't know until we do it and see, but it seems like a rational approach to try to improve the tolerability of tirasemtiv in these patients.
+There are some other steps that we will elaborate on once the study design is announced that may also address some of the other issues relating to tolerability from BENEFIT-ALS.
+You might recall there was some nausea, there was some weight loss.
+There are some other ways that we think we can address some of those matters.
+With that said, ALS trials are notorious for a high dropout rate and we are not going to eliminate the early terminations.
+This is a terribly devastating disease; patients will drop out for a number of reasons.
+We just want to give the drug a fighting chance to be able to demonstrate what we know are its functional effects.
+So we do think that the steps we're taking will go a long way towards addressing some of the issues we saw in BENEFIT-ALS.
+What I did cover was we had $117.5 million in cash and that is well over 20 months of going forward cash.
+And that includes what we have as the estimated cost of the Phase III clinical trial for tirasemtiv.
+We haven't provided any other detail on that.
+The only thing I would clarify is that based on the revenue guidance that we had given before of the $40 million to $43 million in cash revenue, that does include $30 million of revenue that is deferred.
+That is the upfront payment.
+So that is deferred on a proportional basis over the achievement of the activities that are underlying that.
+In other words, the research activity for Astellas as well as the development activities.
+And those aren't evenly spread over the next two years; they are kind of chunky.
+It's probably also worth noting, <UNK>, that the guidance that <UNK> is referring to does not include expectations relating to potential milestone payments that could be payable in 2015 and 2016.
+We are focused just to those committed revenues from our existing collaboration agreements.
+I don't think there any remaining discussion points per se.
+We are proceeding to initiate the study in the second quarter based on what we already know.
+As we have laid out here on these calls in the past, interactions with regulatory authorities are a continuum and we have ongoing interactions, not only with respect to the protocol but also other matters that are nonclinical and other things that warrant discussion with the FDA in order to best be positioned for a registration.
+So if we implied that we are still awaiting any feedback prior to readying for this trial, that is incorrect.
+We are in fact proceeding to the study with expectation it will does its first patient in this second quarter.
+So we think about SPA; we think about breakthrough designation.
+We talk a lot about those things including with advisers and with regulatory authorities.
+We will let you know if that comes to be, but we are not going to, on a call like this, speculate about those matters.
+So with regard to the SMA study, that is a trial that is already agreed between Cytokinetics and Astellas.
+It's part of a development plan for which there is already a negotiated budget.
+We are performing that study and it will be at the expense of Astellas.
+We will start that study later this year.
+It will be enrolling with data expected afterwards, but there's no option or uncertainty about whether that is something that we intend to do.
+The codevelopment option that we have with Astellas, not unlike the one we have in our Amgen agreement, speaks to our auction downstream to co-fund certain development activities in order to buy up our royalty economics.
+But it's not an option with respect to whether we are conducting development activities.
+With Astellas this Phase II study is already agreed; we will conduct it and they will reimburse our costs.
+So the question is have we taken a more conventional route.
+I'm not sure I understood what the (multiple speakers).
+I don't want to get a he-said/she-said over what other companies are doing only to say what I think that Cytokinetics is doing well.
+So to answer your question, what I will underscore is I think we are approaching FDA very thoughtfully with regard to an honest understanding of what our BENEFIT-ALS trial teaches us, both the good and the bad, frankly.
+And, candidly, we recognize that there are some things we want to improve upon from BENEFIT-ALS as we approach Phase III.
+We went into our end-of-Phase-II meeting with FDA, much like with EMA, somewhat sober to the reality of what are those issues that we were contending.
+We had a study that was a very large eight-country international trial, we believe the largest Phase II study ever conducted in ALS, but however, it missed on its primary efficacy endpoint.
+And there's no denying that we have prospectively defined that ALSFRSr would be the primary endpoint.
+Unfortunately, the study we don't believe was of sufficient duration and for other reasons the drug did not move that endpoint.
+That will be an endpoint that we will assess as a secondary endpoint in Phase III, but we will go with what we learned from BENEFIT-ALS.
+And it seems that the most meaningful clinical effect was on respiratory function and slowing the decline of respiratory function we think, and I think FDA and EMA have echoed, could be very meaningful to these patients.
+Ultimately, they die of respiratory failure and pneumonia in most cases.
+So we have been approaching this series of regulatory interactions in a way that is very scientifically rigorous, that has the benefit of outside advisors and consultants who have accompanied us to the meetings with regulatory authorities.
+And I think in working with the largest network of clinical trial investigators in ALS we have credibility that hopefully will afford us more constructive interactions.
+I will turn that over to <UNK> to answer.
+I think SVC is a quantitative measure of breathing function, but there are sort of milestone metrics in terms of people's respiratory function that you can imagine as well, such as their use of assisted ventilation either at nighttime or full time.
+There are questions in the ALSFRS that are specific to respiratory function that one can focus on.
+And so some of these secondary endpoints are constructed from those clinical measures of respiratory function.
+This is where it is especially important to note that slow vital capacity, or vital capacity in general, is used very routinely by researchers but also by clinicians who are managing the treatment of ALS to guide prognostic and interventional decisions.
+And as such, the guidelines are very clear about the role vital capacity plays in the things that <UNK> was mentioning.
+So we think there is a congruence of interest with respect to our stated objective, which is that the Phase III study should confirm and extend the findings from BENEFIT-ALS.
+That really is exactly what we observed in BENEFIT-ALS.
+That once patients got past dose titration, and recall in BENEFIT they were allowed to down-titrate and you may recall that, although we attempted to get all the patients to 500 milligrams a day, in the end those who completed the study, about half of them were on 500 and about a quarter were on 375 a day and a quarter were on 250 a day.
+At those doses and with that distribution of doses, once we got past week four or five, the dropout rates between placebo and tirasemtiv were pretty parallel.
+Right, we didn't actually in BENEFIT-ALS and something you may have seen us present is there are two things that I think really, really contributed to that.
+First of all, our entry criteria resulted in a population of patients whose slow vital capacity at baseline was almost 90% predicted, so practically normal.
+Almost all of them were scored as 4, which as you know is no deficit on the respiratory insufficiency and orthopnea items in the ALSFRSr.
+And the great, great majority of them were 4 on the question number nine, dyspnea.
+So those are the three elements.
+Even with the big difference in the decline in vital capacity between drug and placebo, it still wasn't long enough that you might expect any of them to drop down a level.
+And in fact, that is what we saw.
+Most of the patients were scored as 4 coming in -- and this was on tirasemtiv and placebo -- and most of them were scored as 4 coming out.
+Now, as you suggest, in a trial of longer duration I think we may see a difference between tirasemtiv and placebo in the number of patients who drop a point or more on those respiratory domains of the ALSFRSr.
+So I want to thank everybody for their participation in our call today.
+Clearly, the first quarter was a very busy one for us, especially in light of planning for the initiation of the Phase III study of tirasemtiv to occur in this second quarter, but also across the Company and in connection with activities directed to omecamtiv and also CK-107.
+We're expecting it to be a big year and we look forward to updating you on progress throughout the year.
+We hope that you will be able to attend our R&D day on May 12.
+It will be in New York at the Hyatt Grand Central.
+Any questions, please direct them to us at investor relations here at the Company.
+With that, I will end the call.
+Thank you for your interest in Cytokinetics and we look forward to being in touch.

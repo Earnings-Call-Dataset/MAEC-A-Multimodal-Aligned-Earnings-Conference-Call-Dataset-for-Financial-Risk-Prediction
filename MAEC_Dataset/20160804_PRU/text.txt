@@ -1,0 +1,69 @@
+So the US rate, 10-year benchmark, <UNK>, was brought from 4.25% down to 4%.
+The JGB 10-year benchmark brought from 2% down to 1.9%.
+Okay, so a couple thoughts.
+First, <UNK>, with respect to the process that we go through, understand it is a well-established and well-controlled actuarial review process that we undertake and come up with these rates.
+We look at historical rates.
+We look at forward rates.
+We survey both internal and external experts to get their views of rates on a go-forward basis and we use a central estimate that's derived from looking at all those data points.
+So that's consistent with what we've done in the past and we've continue to apply on a go-forward basis.
+With respect to the interest rate sensitivity, if you look at our assumption updates what I would tell you is that they were not materially affected by the decline in that long-term reversion rate.
+We had some interest rate impact, not particularly material.
+Most of it was driven by the current level of interest rates as opposed to a change in that long-term assumption.
+And it takes about a 10-year period of time for that grade-up.
+We start at current levels and then follow a forward curve for a couple of years and then do a linear grade-up to that long-term reversion rate by year 10.
+So today's very low rates are in our balance sheet.
+Well, it's -- you could do the math.
+It's a linear extrapolation from third year on to year 10.
+So <UNK>, it's <UNK>.
+Let me try to take a crack at that.
+First, it's important to point out that we've had a significant reduction in our interest rate sensitivity post the completion of the VA captive initiative.
+You've seen that in both the first quarter and the second quarter, driven by the fact that, as I indicated earlier, we migrated over to a more stable statutory framework and it reflects the long-term nature of the risks.
+Importantly, we eliminated the internal corporate hedge, under hedge, excuse me, as I indicated in my opening comments and we're managing all of the VA risks within those same legal entities.
+I also note that we manage our balance sheet so that we can maintain our AA targets through cyclical stress scenarios.
+So that includes 100 basis point further decline in interest rates from where we are today.
+So from a balance sheet standpoint, we would not expect to have any degradation in our credit quality as a result of a sustained low rate of a significant quantum from where we are today.
+Well, in terms of the first 25 basis points down, it was not material.
+So I don't have numbers to put around it because it wasn't something that rises to a level where we thought it was important to provide in disclosure.
+With regard to an additional 25 basis points, we have not done the calculation in terms of what the -- if you run that through only the assumption updates for another 25 basis points down.
+I'd go back to the comment that I made about capital position which is that we've run stress scenarios significantly more severe than that and are comfortable that we're holding capital on a basis that would allow us to continue to maintain our AA rating and write business.
+I think maybe just to emphasize part of what you might be asking.
+Because we never used the captive to arbitrage either reserves or admitted assets or capital, we didn't go into the recapture in a hole.
+We actually, as you see, went into the recapture from a position of strength.
+So there are things out there that would have been an advantage in the captive structure that we're going to lose as a result of the recapture.
+The GAAP accounting has not changed, just to be clear on that.
+What has changed is we've taken business that resided in five different legal entities and consolidated down to two and substantially just one.
+We have a New York and non-New York that -- set of entities.
+All of the risks of the business are now being managed within that -- those two statutory entities and we're managing them through a combination of derivatives and on-balance sheet financial assets.
+So think about it this way.
+As I mentioned, before we hold to CTE97 and we do so, including under modeled stress scenarios.
+When you're doing that calculation in five different entities, now imagine doing that consolidated across a single entity, largely, or the two entities.
+You get efficiencies, as you might expect, both in the reduction in risks that result in the offsetting of risks that go in different directions from the rider than they do from the host contract and you get efficiencies associated with the capital management because you don't have the friction of having to have to move capital and hedges between the different legal entities.
+So both from a capital standpoint, in terms of how the calculation works and then from our ability to then manage the risk and then you lay on top of that the statutory constructs being one that is more stable, less volatile, all three of those combined to the reduced volatility that you're seeing and will see going forward and the free up of the capital.
+So this is the -- <UNK>, it's <UNK>.
+This is the -- I'm sorry, <UNK>.
+<UNK>.
+It was <UNK> on the last call -- question.
+The -- that is the long-term rate that's used in our actuarial assumptions as they affect the different liabilities that we have on our balance sheet.
+So that includes the account values and the rate at which they grow but it also includes the host of other liabilities that we have, for which we have to do actuarial computations.
+Okay, <UNK>.
+Let me take this in a -- and take a couple minutes on how we think about Asset Management.
+Because I think our view on this reflects both the uniqueness of our approach and our circumstances.
+So for us, Asset Management is a hybrid business model, one that we're very proud of, one that works well for our clients and ourselves.
+By that, what I mean is, it's not holding in which we have a passive ownership stake, as some do, and nor is it a department that's serving one client.
+What it is, is it's a business and it's a capability with critical interconnectivity to Prudential and its strategies.
+Its market-facing strength enables us to attract and retain top flight investment talent which, in turn, produces consistent investment results that are very favorable.
+At this point, it's got over $1 trillion in AUM.
+As we comment today, it's over $0.5 trillion of third-party unaffiliated assets.
+Actually, in terms of Asset Management fees, almost [80%] -- roughly 80% of them are derived from managing third-party assets.
+So it's a very significant third-party asset manager and business but it does exceedingly well.
+I think last year's flows were around $20 billion.
+Keep if mind, we have more fixed income assets than we have equities.
+So we benefit from that phase of the cycle.
+It's also a major contributor as well as beneficiary of its interrelationship with other parts of Pru.
+You see that manifested in a lot of ways, which, in turn, enables us to be more competitive and gives us an edge in various areas, whether it's PRT, in the role that Asset Management play there, or whether it's the role it plays in investing assets on behalf of our activities in Japan or the role that private placements and mortgages play to our various activities in our spread-related activities.
+So to us, it's very distinctive in relation to others.
+It's not a holding in which we have a passive stake.
+It's not a department.
+It's a hybrid and it's doing very, very well.
+It's doing very well, in part, because of the consistency of our investment performance and the consistency and the stability and the quality of our investment professionals as well.
+Don, we'll take one more question, please.

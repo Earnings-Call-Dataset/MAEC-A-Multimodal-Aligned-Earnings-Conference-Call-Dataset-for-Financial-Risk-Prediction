@@ -1,0 +1,61 @@
+So I think the first step to has made this more visible in the marketplace is CMS's efforts with the healthcare private public partnership on fraud.
+And the trusted third-party procurement they did last year, which where we are a subcontractor, really managing the enrollment of new plan and state members into that partnership, as well as bringing our Medicaid expertise to the table.
+That's heightened the awareness, that looking across the landscape that healthcare claims can both identify fraud, but may even help better understand the risk of a member.
+What I think keeps us today from doing, from actually executing on the promise of that, is really the data use agreements we have with our customers today.
+Though we're out talking to our customers and other stakeholders in the industry about the need to start to look at that, using a trusted third-party, a highly secure entity like HMS, to look across providers or members in a given geography, and identify the patterns that would -- where we could identify fraudulent providers.
+Or in the case of members, be able to identify the risk of a member who is moving in and out of the Medicaid program, through different health plans or fee-for-service.
+What it is unique about HMS today, is that no one else can replicate the 90% of the Medicaid population, and the activity that population has had over the vast number of years.
+That's what the unique asset we have that we would surely like to use, on behalf of benefiting the Medicaid program, and ultimately other programs across the nation.
+So we're in the process of implementing, meaning we are out talking to customers.
+We have the data warehouse and statistical analytics ready to go, and are looking for those what we call lighthouse accounts to start the process.
+Yes, so there's always work in the queue, when we doing a Medicare RAC revenue.
+So the timing of quarterly revenue recognition may not exactly coincide with any specific quarterly information.
+So we did have some additional work in the fourth quarter, based on prior work that was in the queue, that was actually completed in the fourth quarter.
+As we move into next year, starting on January 1, with the restriction in the number of medical records requests, that we can actually have ask for, and do work on, that's why we are seeing it trending down quite a bit, as we go into 2016.
+Well, we're not certain it would roll into a new contract.
+But I think as we said -- I mean, if you just start with the 2% request limit, going to 0.5%, I mean, that's a 75% reduction in the number of requests.
+There is some other intricacies in how they do the counts, based upon what's on a medical campus that actually increases the reduction to the 90%.
+So I would not speculate on the RFP, because it's still in process.
+They have asked for questions from the RAC providers.
+We have provided those questions, and certainly our input on our desire to do more audit work.
+But until we have clarity and answers to those questions, it's really difficult to predict what the long-term revenue impact would be.
+Yes.
+Thank you, <UNK>.
+So we still have our first account, which recently extended that contract.
+We have not expanded it yet to a fuller population, but it's moving along well, and we're having great returns.
+All the things that we said, minimized irritation with the providers, faster revenue for us.
+And then we have the two sales that we are in implementation with, one on Medicare Advantage and one in Medicaid Managed Care.
+I will say that our pipeline for PrePay Clinical is robust.
+We've not closed another account through the balance of 2015, but again, have a strong pipeline for it.
+It is a product that needs a lot of pre-sale activity and discussion with the customer, because we're talking about a very, very tight technology integration.
+We're not getting -- in our typical business we are getting a batch load of files, claims and eligibility and provider data typically weekly, sometimes monthly, depends on our clients.
+Here we are getting it nightly, and they're having to ingest our results nightly.
+So much tighter IT integration, usually takes our client longer to do that.
+So the planning and the sales cycle is longer.
+But we're very optimistic with the sales queue that we have, that we'll have more clients adopt this product.
+And it's usable, across really any organization that pays claims.
+So it could be a commercial health plan, on commercial risk, could be Medicare Advantage, Medicaid Managed Care, could be a third-party administrator, any of those organizations could use this to their benefit.
+And again, doing the work upfront eliminates a lot of the backend administrative processing burdens on actually recouping the money -- having to go after the money, recouping the money, and getting the money back from providers.
+Actually doing the work upfront is a much improved cash flow benefit, both for our customers and for us.
+Because then we'll be paid -- based on the current contract, based on our savings within a 30 or 45 day period, versus having to wait six or eight or nine months for providers to actually pay the money back.
+So as I said in my prepared remarks, <UNK> -- so if you -- if we look at it and say, basically we have a $55 million commercial run rate exiting the fourth quarter -- realizing we have some seasonality in the first quarter -- that gives you a $[220] million run rate.
+We are projecting 18% to 20% growth, roughly $40 million.
+So about half is based upon the existing run rate, work that's already being done.
+And certainly, the other half would come from new sales or implementations that have been sold -- clients have been sold, but not implemented yet throughout 2016.
+And again, we also continue to see opportunities for yield improvement as well, just getting better results for our client base, as we continue to refine and improve our analytics, which will also -- is also part of that 20%, 18% to 20% growth rate.
+Thanks.
+Yes, Matt, this is <UNK>.
+On balance, we're looking for deals to be accretive within the first year of operations, and so certainly we are looking at return thresholds.
+We have discussed those publicly.
+But our expectation is, given our liquidity profile and our ability to do acquisitions we believe quickly, and more importantly or equally importantly, the ability to ramp up acquisitions into our existing customer base, with 250 commercial health plans in over 45 states, that we can add value to acquisitions quickly, and that will help return thresholds as we do acquisitions.
+So we went into fourth quarter, highlighting that there was some risk to that, just because we weren't certain if everyone would be ready.
+We did have a few states that weren't fully prepared, but on balance there wasn't any material impact to revenue in the fourth quarter.
+We could have some impact in 2016, but we think it would only be on a quarterly basis.
+You could have some revenue potentially push to one quarter to the next.
+It's not any numbers that I would call out as material at this point, but you could see some movement of revenue from quarter to quarter.
+But we didn't see any significant or material disruption in our revenue.
+And ultimately, we believe it's a -- it becomes a tailwind, because the chance for errors are greater.
+And while the CMS has basically given the physicians a year of -- a year to continue to learn how to code correctly, we've already seen through our systems inaccurate coding, from an ICD-10 perspective.
+So we expect that we will be able to use that to our advantage, in identifying additional errors by the time we close 2016.
+Well, I want to thank all of our shareholders for your continued interest in HMS, and we look forward to speaking again on our first-quarter call.
+Thank you.

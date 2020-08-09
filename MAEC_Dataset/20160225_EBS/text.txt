@@ -1,0 +1,292 @@
+Good day, ladies and gentlemen, and welcome to the fourth-quarter 2015 Emergent BioSolutions Inc.
+earnings conference call.
+(Operator Instructions).
+As a reminder, today's program is being recorded.
+I would now like to introduce your host for today's program, Mr.
+<UNK> <UNK>.
+Please go ahead.
+Thank you, Jonathan, and good afternoon, everyone.
+Again, my name is <UNK> <UNK>, Vice President of Investor Relations for Emergent.
+Thank you for joining us today as we discuss our financial and operational results for the fourth quarter and 12 months of 2015, as well as our 2016 forecast.
+As is customary, our call today is open to all participants.
+In addition, the call is being recorded and is copyrighted by Emergent BioSolutions.
+Participating on the call with prepared comments will be <UNK> <UNK>, President and Chief Executive Officer; and <UNK> <UNK>, Executive Vice President and Chief Financial Officer.
+There will be a Q&A session at the conclusion of our prepared comments.
+Other members of senior management will be available to participate.
+Before we begin, I will remind everyone that during today's call, either on our prepared comments or the Q&A session, management may make projections and other forward-looking statements related to our business, future events, our prospects, or future performance.
+These forward-looking statements reflect Emergent's current perspective on existing trends and information.
+Any such forward-looking statements are not guarantees of future performance and involve substantial risks and uncertainties.
+Actual results may differ materially from those projected any forward-looking statements.
+Please review our filings with the SEC on Forms 10-K, 10-Q, and 8-K for more information on the risks and uncertainties that could cause actual results to differ.
+During our prepared comments, as well as during the Q&A session, we may also refer to certain non-GAAP financial measures that involve adjustments to GAAP figures in order to provide greater transparency regarding Emergent's operating performance.
+Please refer to the tables found in today's press release regarding our use of adjusted net income, EBITDA, and adjusted EBITDA, and the reconciliations between our GAAP financial measures and these non-GAAP financial measures.
+For the benefit of those who may be listening to the replay of the webcast, this call was held and recorded on February 25, 2016.
+Since then, Emergent may have made announcements related to topics discussed during today's call.
+So again, please reference our most recent press releases and SEC filings.
+Emergent BioSolutions assumes no obligation to update the information in today's press release, or as presented on this call, except as may be required by applicable laws or regulations.
+Today's press release may be found on the investor's home page of our website.
+And with that introduction, I would now like to turn the call over to <UNK> <UNK>, Emergent BioSolutions' President and CEO.
+<UNK>.
+Thank you, <UNK>, and good afternoon, everyone, and thank you for joining us.
+During the call today I will provide a brief business update, and <UNK> <UNK> will discuss our recent financial performance in greater detail.
+Let me start with a summary of our 2015 financial performance.
+Overall, 2015 was a very successful year, and we ended the year with a strong fourth quarter.
+During the quarter, total revenue was $168 million, up 14% from 2014.
+Our GAAP net income increased by 11%, and our adjusted net income increased by 8% compared to the same quarter in 2014.
+For the full year, total revenues exceeded $520 million, a 16% increase over 2014.
+Our 2015 GAAP net income increased 71%, and our adjusted net income increased 39% over the prior year.
+Finally, our EBITDA in 2015 was $130 million, growing 41% compared to the prior year.
+In 2016 we are forecasting continued growth in revenues, net income, and EBITDA.
+The financial forecast that we announced today reaffirms the guidance that we provided at the JPMorgan Health Care Conference in January.
+We plan to achieve our 2016 revenue target based on a number of factors.
+First, continued BioThrax sales under our existing procurement contract, as well as under the anticipated follow-on contract with the CDC.
+Second, through anticipated sales of our other portfolio products to the US government under existing procurement contracts.
+Third, through an expansion of our contract manufacturing services in both our Maryland and Winnipeg operations.
+Fourth, by securing additional funding for contracts and grants, both existing and new.
+And, finally, through increasing international sales.
+With an expanding product portfolio, we see real potential to meaningfully grow our international sales over time.
+As a reminder, in our recently announced five-year growth plan, we are targeting to achieve at least 10% of our revenues from ex-US sources by 2020.
+Turning now to Building 55, as we previously announced, the FDA requested that we perform a re-analysis on one of the more than 30 assays used for comparability before filing our sBLA.
+We are on track to complete their request during the first half of the year, after which we expect to submit the sBLA.
+As a reminder, we anticipate a PDUFA date of four months following acceptance by the FDA of the sBLA filing.
+Moving on to our follow-on BioThrax procurement contract with the CDC, we have had a preliminary meeting and exchanges of communication with the CDC on this topic.
+The CDC recognizes the importance of the anthrax preparedness.
+And with FY16 funding levels, we anticipate that a follow-on, multi-year contract will be put in place to ensure an uninterrupted supply of BioThrax to the SNS.
+As a reminder, we do not intend to disclose any specifics or details of our contract negotiations with the CDC until such time as the contract has been completed.
+Turning now to an update on Emergard, our military-grade auto-injector platform.
+Last week we announced that the US Department of Defense and Battelle has selected Emergard over several other commercially available auto-injector devices to be tested against, and developed to, US military specification for nerve agent antidote delivery.
+Emergard is designed to be transported, stored, and operated in a forward-deployed environment, and built to ensure successful injection through chemical protective equipment.
+The development and testing under this award is expected to be completed in 2016; and, if successful, could lead to the procurement of specific products within the Emergard platform to meet US military and first responder needs.
+Finally, I'd like to provide an update on our planned spinoff of Aptevo Therapeutics, our biosciences business.
+The spinoff is on track, with our receipt of a favorable private letter ruling from the IRS and our announcement of the anticipated Board of Directors and senior management team.
+The remaining steps include the filing of a Form 10 with the Securities and Exchange Commission, securing SEC clearance of that filing, and then final approval by our Board of Directors.
+We continue to expect a mid-2016 completion of this transaction.
+That concludes my prepared comments.
+And I will now turn the call over to <UNK> <UNK> for details on our financial performance.
+<UNK>.
+Thank you, <UNK>.
+Good afternoon, everyone, and thank you for joining our call.
+I'd first like to make some general comments about our financial results for the fourth quarter of 2015 compared to last year.
+I will then comment on our performance for the year compared to prior year, followed by comments on our balance sheet, focusing on our cash position, and then finishing up with some comments about our 2016 forecast.
+From an operational perspective, we had another exceptional quarter.
+Total revenues were the strongest in the Company's history, coming in at $168.1 million, or $20 million above Q4 of last year, a 14% improvement.
+The increase in revenue is primarily due to increased BioThrax sales during the period.
+Gross margin, on a consolidated product and CMO revenue basis for the quarter, was a 72%, which is above our normal range of 60% to 70% due to increased BioThrax revenues during the period.
+Gross research and development spend for the quarter was $32.5 million, a $6.5 million decline versus prior year.
+Taking into account the offsetting effect of our contracts, grants, and collaborations revenues, our net R&D spend for the quarter was $7.6 million, a significant reduction over 2014.
+SG&A for the quarter was higher year-over-year by $14 million.
+The two largest components of the increase were a one-time $3.5 million reserve for a potential accounts receivable write-off within the biosciences segment, and ongoing costs to support the spinoff of Aptevo Therapeutics.
+For the quarter, our GAAP net income was $33.3 million, or $0.71 per diluted share versus $30.1 million, or $0.66 per diluted share, in the same period for 2014.
+On an adjusted basis, we earned $37.5 million, or $0.78 per diluted share versus $34.6 million, or $0.75 per diluted share in 2014.
+EBITDA for the fourth quarter was $58.5 million, or $1.22 per diluted share.
+And adjusted EBITDA for the period was $61.7 million, or $1.28 per diluted share.
+Turning to the full-year period, and our financials for calendar year 2015 reflect the continued fundamental strength of the core business, augmented by our ongoing efforts to manage costs and drive extended profitability and cash flow generation.
+For the year, we achieved the following.
+Total revenues were $523 million, up 16% versus last year.
+Gross margin was 69%, in line with our expected range of between 60% and 70%.
+Net R&D was $31 million, which is 8% of our adjusted revenues, reflecting the subtraction of grants, contracts from total revenues.
+SG&A was $148 million, an increase of 21%, and represents 28% of our total revenues in 2015.
+GAAP net income was $63 million or $1.41 per diluted share.
+Adjusted net income was $76 million or $1.60 per diluted share.
+And finally, EBITDA was $130 million, or $2.75 per diluted share, while adjusted EBITDA was $137.4 million, or $2.91 per diluted share.
+Turning to our balance sheet, our year-end capital position remained very strong, highlighted by our cash balance of $313 million, along with an accounts receivable balance of $121 million.
+As we have communicated in the past, our capital deployment priorities remain focused on acquisitions that are synergistic to the core business, CapEx in support of that core business, along with targeted R&D projects, plus consideration of stock buybacks and dividends.
+Across the board, 2015 performance was substantially improved over the prior year, positioning us to achieve our 2016 financial goals, which include total revenues of between $600 million and $630 million; GAAP net income of between $75 million and $85 million; adjusted net income of between $90 million and $100 million; and, finally, EBITDA of between $150 million and $160 million.
+This forecast includes the impact of a successful spinoff of Aptevo Therapeutics in mid-2016, and continuous delivery of BioThrax to the CDC under an anticipated follow-on, multi-year procurement contract; but, importantly, does not include any estimates for BioThrax deliveries from Building 55, or any estimates for potential new corporate development or other M&A transactions.
+Finally, first-quarter 2016 revenues are projected to be between $105 million and $120 million, consistent with what we announced earlier in January.
+This concludes my prepared remarks, and I will now turn the call over to the operator to begin the question-and-answer session of the call.
+Operator.
+(Operator Instructions).
+<UNK> <UNK>, JPMorgan.
+The first one is just on Building 55, and where we stand with getting that online.
+I know you left it out of guidance, sounds like out of conservatism.
+But can you just help us get comfortable with that building coming online this year.
+And what are the remaining steps.
+Thanks.
+Yes, thank you, <UNK>.
+Thanks for joining the call today.
+So, the process really hasn't changed at all since the last time we presented publicly.
+I think that was at the JPMorgan Health Care Conference.
+And the FDA had requested, as I indicated, that we do re-analysis of one of the more than 30 comparability assays that are out there.
+So we're in the process of getting that done; a high degree of confidence that we will get it done in the first half of the year.
+And then, subsequently, we will file the sBLA.
+It is a four-month PDUFA clock.
+So in the course of that time period, whatever steps that need to be taken, we expect will be taken.
+So we see a high degree of confidence in getting that building online and approved this year.
+The process has been transparent.
+We have given you as much information as we got.
+There will be a pre-approval or prior approval inspection in that process, as is typical, and back and forth with the Agency in connection with our application, which is fairly typical.
+But there should be no surprises.
+The Agency is pretty well versed and up-to-date on where things stand in the facility.
+And it's a matter of [running the drops] and moving it forward.
+Okay, got it.
+And two follow-ups on that.
+I think you had described, in a short way and a long way of addressing this last assay question that the FDA had; and I think, as of JPMorgan, you hadn't finalized which route you were going to take.
+Have that conversation happened, and have you confirmed which approach you are going to go forward with.
+And then also can you just describe how, as you negotiate the next contract with the CDC, how do you contemplate -- assuming Building 55 comes online -- but what if it doesn't.
+Do you have to outline two scenarios when you negotiate that contract.
+How does that work.
+Yes, two excellent questions.
+So let me take your first one first, which is the short path versus the long path.
+You are absolutely right; we have prepared and submitted all the information that we believe the FDA needs in order to make a decision on the short path.
+We have not heard back from them as to their conclusion.
+So for the moment, we are continuing the work necessary in order to submit the data that supports the long path forward.
+If they come back to us and say, you know what.
+We're satisfied with what you have provided; it's good enough; let's stop here -- then the process gets accelerated.
+So that's where we are.
+We just have not heard back from the Agency on their assessment of the data that has been submitted.
+We've done everything that we can at this juncture, so we're in a waiting mode with respect to Agency evaluation.
+On the second question with respect to the contract negotiations, you put your finger on an interesting and dynamic point, which is: what do you do with respect to Building 12 versus Building 55.
+And we have some pretty concrete thoughts there in terms of how we will handle that.
+I prefer not to share that with you, because it does get into some of the details of the contract negotiation thinking that we have internally.
+And as you can appreciate, it's important that we keep that confidential as part of this entire process.
+But we have thought that through.
+And we have some -- I think some creative solutions to how that could work, going forward.
+Got it, thank you.
+If you don't mind, I'd love to ask just one more.
+I think there's a biosimilar company working on a Phase I anthrax vaccine.
+Can you talk about how you think about the longer-term competitive landscapes for anthrax vaccines, whether you see that as competition at all.
+Love to hear some comments there.
+Thanks.
+Yes, sure.
+Well, the exciting news with respect to the competitive landscape around anthrax vaccine is the closest competitor is NuThrax.
+And NuThrax, as you know, is BioThrax which is formulated with an adjuvant CPG.
+It is completing the work necessary in order to move to the next stage of clinical testing, which is Phase III.
+That's our product, and that product has been under development for quite a number of years.
+And we see that as the most exciting opportunity.
+And I think the government sees it in that vein, as well.
+Because it answers the mail on so many of the different touch points that the government is looking for: further reduction in the number of doses, down to two doses; very rapid immunogenicity, so it's got a nice potency profile, which is a very important for a PEP indication; a good stability profile.
+So, we see that as really the product that's going to raise the bar significantly with respect to follow-on products.
+We, too, as you know, have an rPA candidate that's in development.
+The rPAs have been around now since the early 2000s.
+So we are now approaching 15 years of development of rPAs, and they really are struggling to get beyond a Phase I.
+There are a lot of challenges associated with rPAs.
+We know them as well as anybody.
+Is that to say that ultimately, longer-term, something could be developed.
+Possibly, but we don't see that happening in the next five, maybe even five to 10 years -- certainly within the lifetime of the upcoming contract that we anticipate with the CDC.
+So, a long-winded way of saying, very excited about our competitive positioning in the anthrax vaccine space.
+We think we see NuThrax as really answering the mail there.
+And once the government has NuThrax where it needs to be, we think that they are going to be checking the box on anthrax vaccines, and moving on to some of the other threats, including emerging infectious diseases that need to be addressed.
+Got it.
+Thank you.
+<UNK> <UNK>, Cowen and Company.
+Congratulations on the quarter.
+So, with your performance this year in BioThrax sales and next year, there's been quite a step-up in revenue coming from Building 12.
+Is this you're just expecting two very good production years in a row.
+Or has something really changed at Building 12 in terms of the efficiency of the process.
+And then if it's the latter, is any of that going to translate to what you see as the capacity for Building 55.
+Okay, thanks.
+And then following up on Building 55, I think you have covered the bases on the US approval.
+But part of the opportunity is the ability to maybe sell outside the US.
+Where do things stand with approval in Europe.
+Yes, thanks for asking that question.
+I did not cover that in my prepared remarks.
+As we have previously indicated, we are expecting approval in Germany of Building 55 in the middle of this year, and that remains on track, so no change there.
+And with that, we can begin small sales.
+We expect small-scale sales to begin in Europe.
+But, importantly, that approval will allow us to then move into the mutual recognition process, and file for regulatory approval in other EU countries on the basis of that German approval, which then further opens the doors for some sales internationally of BioThrax out of 55.
+So, thanks for raising that question.
+Okay.
+And then one last one: with Emergard, I know you guys have mentioned that this year's supply is already sold out.
+So what's the capacity there from your suppliers to maybe increase supply in future years.
+And you, I think at one point, have mentioned the market for that type of product is maybe $100 million, $200 million worldwide.
+What is the path to get there.
+Yes, I am so excited about the Emergard opportunity, I can't tell you.
+It's really proving to be in excess of what we originally thought when we undertook this effort.
+So, the team has been aggressively looking at the supply chain because we have sold out the capacity for this year.
+And we're already making significant improvements in capacity, both capacity of manufacturing in the European site that currently produces it, and looking at bringing it into the US, with significantly increased capacity beginning next year.
+So, we're all over that because the demand is so significant across the globe.
+And you can see it right now with the announcement that we had last week with the US Department of Defense selecting Emergard as the platform of choice for further evaluation against their criteria and their specifications.
+And that could lead, I believe, to rather significant market opportunities here in the US, for the US military, as well as first responders.
+So, our efforts right now are expanding manufacturing capacity, identifying what are the required APIs, addressing the specification requirements for the US military, and trying to increase output towards the latter part of this year, into 2017 and beyond.
+And right now, I'm feeling very good about where we stand there.
+I don't want to get into specifics about the actual number of units that we can produce.
+I consider that to be competitive intelligence that I prefer to keep confidential for our Company and our shareholders.
+But we're doing everything that we can to address that market, and we see it as a real significant market; certainly the $100 million to $200 million, but it potentially could go beyond that.
+Okay.
+Thank you.
+<UNK> <UNK>, Laidlaw.
+I wanted to follow up on the ex-US sales part.
+That seems to be one of the bigger black boxes as we look at it.
+Can you talk a little bit about how you may characterize pricing, ex-US.
+In the past, you've said it should be substantially higher.
+Any kind of bracket around that.
+And then any thoughts on what realistically we could expect -- selling ton in the US.
+Could you double it in ex-US.
+Would it be half of that.
+Any sort of bracketing around that you could give us.
+Yes, sure.
+Thanks, <UNK>.
+Nice to hear your voice.
+Thanks for joining the call today.
+Yes, so I think, high-level, what I'd like you to think about ex-US is growing that business to about 10% of our revenues by 2020.
+That's really the size of the opportunity that we're targeting right now.
+And it is across the platform; it's not just BioThrax.
+We see some real opportunity, Emergard.
+Every conversation we have with foreign government agencies, they are very interested in the Emergard platform, and the various products that could be provided under that platform.
+So remember, this is a platform, and it sets the stage for unique product offerings under that platform.
+The BAT product, the botulism antitoxin, also is very high on the radar; RSDL, AIG.
+So it's across the board, which gives me a lot of confidence that we can successfully achieve that greater than 10% target.
+So that's how I'd like you to think about it.
+Certainly for BioThrax and for really all the products, they are not at the US market level.
+Otherwise, we would have targeted international sales at a higher percentage than where we ended up.
+So hopefully that gives you some guidance as you think about your model.
+It does.
+Thank you very much.
+And another question that often comes up, with Ebola, you got Zika -- often the calls come in from the clients, can EBS handle that.
+And I'm calling you guys.
+When sort of the next -- whatever the name of the next thing that comes up will be -- and rather than have us call in, when these sort of things come up, what sort of responsiveness does EBS have to turn on a dime, or to get active with the government to handle an Ebola, to handle the Zika virus, handle the next one comes down.
+Yes.
+Great question.
+And as you think about the focus area of Emergent with the spinoff of the biosciences business coming up, we're really going to be focusing in on the CBRN, but also the emerging infectious diseases space.
+So I'm glad you put a spotlight on that.
+So, you think back over the years, we had the pandemic flu.
+And as you know now, with our ADM facility, we have a product that's in the works that could produce -- and we're expected to produce about 50 million doses of a pan-flu product within four months of identification of the strain.
+Then we saw Ebola hit, and we were tapped by the US government at the ADM site to make the Ebola monoclonal being used in -- as a therapeutic.
+And interestingly, don't forget, we also had an Ebola vaccine that we produced in very short order based on our MVA technology.
+And that went into a clinic lightning-fast as a combination vaccination with the GSK product.
+So it was a boost to the GSK prime that was in development.
+And that went into two Phase I clinical trials very shortly after we completed production.
+So as you think about the next threats coming in the emerging infectious disease, whether it's Zika, or chikungunya, or dengue, or whatever it might be, we see Emergent very well positioned.
+We have platform technologies, including our hyperimmune.
+And you think about the hyperimmune platform, it's very exciting in that we have six approved products on that platform.
+So the [CMC] section is fully baked and fully developed.
+And it's simply a matter of identifying and collecting quality plasma with the right antibodies that we can run through that process.
+That process is fairly quick in terms of getting to the stage where we can have a product candidate available for clinical testing.
+So the hyperimmune is a very appropriate technology to be used in the emerging infectious disease arena.
+We also have broad-spectrum antimicrobial, the antiviral, and the antibacterial technologies that we have, both of which are supported by US government funding right now.
+So these are broad-spectrum.
+They can handle new bacterial infections or new viral infections, potentially, with some of the candidates that are in those platforms.
+And lastly, the ADM site, where we have very flexible manufacturing and an ability to bring a technology in and manufacture that product for clinical testing -- whatever the US government might decide is appropriate.
+So, very flexible, broad-based, and an area where we think we have tremendous strength and an ability to respond quickly and effectively as these emerging infectious disease appear on the landscape.
+Thank you.
+One last question, I guess two last questions.
+I know that for competitive reasons, you really can't say what you're looking at.
+You've been very vocal that you're looking for acquisitions in the CBRN space.
+But is it possible to narrow down what areas look most interesting among that broad swath of potential opportunities.
+And maybe a question for <UNK>, as well: if nothing can be met at your price, does a share buyback make sense.
+Great.
+Thank you very much for taking the questions.
+<UNK> <UNK>, Wells Fargo.
+Great quarter.
+So, first on the receivables: that seemed to take a pretty big uptick, and so just wanted to see what the timing is there.
+I think the people that owe the cash are probably good for it.
+But just want to hear what's going on behind the scenes.
+And then I have a follow-up.
+<UNK>, there's nothing unusual about the nature of the $120 million-plus receivable balance at year end.
+The majority of that is US government, so there has never been a problem collecting that.
+The timing is usually very quick, as well.
+So, nothing unusual other than the dollar value is a bit large, but nothing to be concerned about.
+(technical difficulty) <UNK>.
+We did cover that during the prepared remarks, and there were some questions about what the contours of that might look like.
+But we've had a preliminary meeting and a number of exchanges of communication with the CDC.
+And I think it's safe to say the CDC does continue to recognize the importance of being prepared for the anthrax threat.
+And with the fiscal-year 2016 funding levels, we do anticipate the follow-on, multi-year contract will be in place to ensure that there is no interruption in the supply of BioThrax to the SNS.
+We haven't given any specifics on timing.
+And we are not going to really be commenting on the specific details of any of the negotiations that we have ongoing with the CDC until such time as the contract is completed, at which point obviously we'll make an announcement.
+Thank you, Jonathan.
+And with that, ladies and gentlemen, we now conclude the call.
+Thank you for your participation.
+Please note an archived version of the webcast of today's call will be available later today and accessible through the Company website.
+Thank you again, and we look forward to speaking to all of you in the future.
+Goodbye.

@@ -1,0 +1,97 @@
+Thank you
+Well at this point, as we indicated I think pretty close to a year ago, that we were having to shelf the LED stuff in light of the fact that our opportunities in audio were so much bigger and so much nearer and, frankly, more valuable to the Company.
+So it was a difficult step we had to make.
+So at relative to what burner LED is on, I would say it is not on a burner at this point.
+We really can't come close to staffing all of the opportunities that we see in front of us, a big portion of which are software related.
+Tons of different algorithms, that we either need to work with third-parties to bring in house, we need to develop ourselves, customers require a lot of support.
+There's a broad road map of products where we are clearly staffing the very best opportunities that we see in front of us and not just the merely good ones, which is a great position to be in.
+But we would definitely like to figure out how to do even more than we are already doing in the core space of audio that we serve.
+So at this point, people should definitely think about us as a mobile audio Company.
+Well, yes.
+Sure.
+So again, on the two trends, one being to move from the flagships down to the mid-tier and then also from the accounts that we serve in a big way today -- try to broaden that out to be a little more systematic in the accounts kind of number 3 through 10 of the mobile space.
+We've sold to a number of those accounts in the past, as had the UK team.
+But I would say those opportunities in the past were fairly opportunistic.
+And so we'd really like to penetrate those accounts with something a lot more sticky like a Smart Codec and then start to broaden that out around the board with the amplifier products.
+So I'll decline to throughout a number of boards because I think it probably -- there's some of them that matter a lot more than others, obviously.
+But I think we do pretty well at accounts number 1 and 2 and so we prioritize 3 through 10 sort of in the order that you would imagine.
+And I think we're making real good progress there.
+Thanks, Chris
+Sure.
+There are -- as we say, they're out there.
+It's good to have opportunities in front of us for the technologies that we are shipping in high-volume and mobile and continuing to expect growth in mobile.
+In the near to midterm, we expect our growth opportunities to be driven and dominated by continued success in handsets.
+But we've got a good presence really across the board in audio elsewhere.
+We're in a lot of great applications from internet of things to other devices.
+We have had an automotive business for many years.
+But it is definitely something that we expect over the coming years to take that technology, target these other applications very specifically with more voice based.
+For example, voice wake we think is a -- or voice command is a great opportunity in really just about every avenue of audio you can imagine.
+So it's not in the near-term.
+We've got plenty of opportunity to drive growth in the near term.
+That something that is out there a little further out on the horizon
+Well, yes.
+No we're not breaking out.
+No, not at all.
+We really just started ramping in the latter half of the January quarter.
+So another just a great, great job those guys did, knocked the cover off the ball and delivered a great product and supported a really heavy ramp extremely well.
+I was very pleased.
+A lot of people worked very hard under tough conditions to make sure that we brought that one home.
+So no I wouldn't think that's a high watermark for them at all.
+As far as the leveling of the quarters, all I can say, other than that Q1 is off to a great, is that there's just a number of factors involved that are kind of a lot of moving parts beneath the surface that it's not appropriate for us to get into.
+And that it is in the context of a fiscal year that we expect to be driven by really great growth in the face of new product introductions as we've highlighted in the past.
+So hopefully that's at least helpful a little bit.
+No.
+I think the gross margins that we're seeing with the products that we're introducing are consistent with that mid-40s type of view in the long-term.
+Sure.
+I mean we're -- our overall revenue is at a pretty good run rate at this point and you got to sell a lot of microphones to move the needle at that revenue level.
+So the way I think I've indicated people should think about microphones for us today -- we're shipping them in high-volume.
+They are a relatively low ASP device.
+So if you look around there's plenty of microphone suppliers.
+Typically the margins in that industry are not what we would be interested in.
+So our goal is to, as the only supplier that sells everything in the whole audio signal chain from microphones, Smart Codecs, amplifiers, all the software that stitches it together.
+Our goal over the long run is to develop microphones in tandem with the Smart Codecs so that they work better together.
+They deliver better performance for our customers.
+They deliver a compelling bill of materials for them and also increase our share of it.
+So that's the goal that we've got over the long term with our participation in microphones.
+That goal is a ways out.
+But we think the business that we have today is a very valuable stepping stone to getting to that point.
+So we're shipping microphones in some great devices with some great companies.
+We think that the way we won those is by delivering a premium microphone, delivers great performance in a very small package.
+So we're off to a good start there.
+We got a lot of good work to do to develop the capabilities to really embed a lot more smarts in the microphone to do optimal system partitioning between the Smart Codec and the multiple microphones that will ultimately be in these systems.
+But we think our opportunities for doing that are very good over the coming years and we are certainly staffing it appropriately to go capitalize on that opportunity.
+Well, so they always -- so, again, what we sell is a Smart Codec.
+And at the end of the day, the price for one of our Smart Codecs is to -- well unless there is third-party software involved, for example, the price for our Smart Codec is essentially whatever we work out with the customer for the silicon.
+Whatever software and software services and system integration that we can provide along with that is something that simply makes us more sticky.
+It makes the Smart Codec more valuable.
+And so we think that's a significant competitive advantage versus other more software-oriented suppliers.
+Now the caveat to that, of course, is if one of our customers wants to run some third-party algorithm in concert with some of what we provide, then there is typically some sort of fee associated with that third-party IP.
+But obviously it's not my place to get into what different customers pay for what IP either.
+So nevertheless the real meat of it is that always-on voice is a very valuable function.
+Our role in that is to enable our customer to implement it with extremely low power.
+And also, in a lot of cases, to try to augment that with functions such as our automatic speech recognition enhanced software so that the thing works better in noisy environments -- things like that.
+So always-on voice is a great confluence of a bunch of things that Cirrus Logic does really, really well.
+So low-power signal processing, very low-power analog, potentially over time we can work in the microphones and make those work better with the Smart Codec in that environment, which we think will be a difficult strategy for anyone else to follow.
+So it's a really neat feature that's unfolding in the market.
+I think we've yet to see the real true potential of what can be done there.
+But I think it's something that consumers will really value and that even mid-tier devices are going to want to latch onto once it becomes mainstream.
+Well we're already pretty far out past what we, under normal course of things, like to guide.
+So we're not going to guide anything further other than I think if you do the math on the notion that we feel very good about year-over-year growth going forward through the year, that that kind of gets you where you need to be.
+You bet.
+Sure.
+Well certainly our opportunity to grow ASPs and cross sell components are closely related.
+So in some cases, we have the opportunity to -- for example, in the case of the Smart Codec, add memory, add more processors, add more analog IO, for example.
+That's a way to grow the ASP of that device.
+But to grow the share of our bill of materials, for example, if we have a Smart Codec, if we can couple that with a boosted amplifier, make the two work better together, that's another way to grow the value that we're selling to a particular customer.
+And then further on down the road as we are successful in the microphone space, that's, again, an opportunity to grow a -- to cross sell devices and grow ASPs.
+And it's interesting to note that a number of years down the road, many of these devices are talking about it's not one or two microphones, it's quite a array.
+So even though the devices themselves are, at the moment, fairly inexpensive, it can add up to a meaningful adder on the bill of materials going forward.
+So we see great opportunity in all those areas.
+We've really never, in my career, all career's been in audio, I've never had the opportunity to serve a market where what we do already today is in such great demand across the board from a great suite of customers.
+Thank you.
+In summary, FY15 was a great year for Cirrus Logic as we delivered strong revenue growth, achieved our long-term non-GAAP operating profit target at 20% and expanded our product portfolio.
+We are even more excited about our outlook for the future.
+With an arsenal of innovative audio and voice products that we expect to ramp over the next year and solid relationships with key market leaders, the Company is poised for meaningful growth in FY16 team.
+If you have any questions that were not addressed, you can submit them to us via the Ask the CEO section of our investor website.
+I'd like to thank everyone for participating today.
+Goodbye.

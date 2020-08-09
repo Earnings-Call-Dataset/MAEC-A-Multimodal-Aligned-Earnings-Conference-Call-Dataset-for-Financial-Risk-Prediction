@@ -1,0 +1,218 @@
+Thank you, and welcome, everyone.
+If you've not already seen our earnings press release and financial results presentation for the quarter, please go to the investors section of our website where they are posted.
+On our last earnings call, we said that we expected Q1 revenue to be below total revenue for Q4 2016, driven by seasonality in both gainshare and solutions revenue.
+While it turned out the solutions revenue actually increased over the previous quarter the declining gainshare revenue compared to Q4 2016 was more than we expected.
+The decreases in gainshare were almost -- across almost all node sites from 45-nanometer to 14-nanometer.
+The primary weakness was 28-nanometer, while 14-nanometer was down only slightly quarter-over-quarter.
+On their Q1 conference calls, foundries have discussed an inventory correction in 28-nanometer to continue through first half of this year.
+We expect our gainshare results will be -- to be consistent with those general market trends.
+To provide a little more detail on this, however, as we have talked with our customers, we believe that Q1 is the bottom of the gainshare decline and we expect improvements throughout the remainder of the year.
+The improvements will come from growth in 14-nanometer volumes and newer 28-nanometer contracts replacing revenue from older contracts, where the price per wafer has decreased.
+As a result, we are now cautiously modeling total gainshare for the year to be at or slightly below 2016 levels.
+As the strengthening gainshare in the coming quarters has to overcome the hole we created in Q1.
+As we get into 2018 and beyond, we expect gainshare to again grow above the 2016 and '17 levels.
+Turning to our solutions business in detail.
+We continued to broaden both our customer base in the markets we serve.
+As I said earlier, although we had anticipated solutions revenue to be down Q1 compared to Q4 of last year, it was up slightly.
+This speaks to the continued demand for our solutions from our customer base.
+Selected contracts signed in this quarter include: our foundry extended their 14-nanometer contract to include, manufacturability -- variability reduction; a mixed signal company that uses Exensio-Yield added Exensio-Test to their test operations; a mixed signal company that uses both Exensio-Yield and Exensio-Test renewed their licenses for a multiyear period; our foundry renewed their Exensio-Yield licenses for a multiyear usage period; and a new Fabbrix customer deployed Exensio-Yield and Exensio-Test As to our 4 key strategic initiatives, we continue to see strong interest for our integrated [year end] solutions at the 28-nanometer, 14-nanometer and 7-nanometer nodes.
+In China, business interest and activity remain high as we work with a number of new and existing customers.
+Exensio business continues to grow and diversify the customer base.
+Finally, and most significantly, our Design for Inspection solution continues to gain traction with both our foundry and fabless customers.
+Each quarter I provide an update about our Design for Inspection solutions, also referred to as DFI.
+As a reminder, Design for Inspection solves the ever-increasing challenge of inspecting production chips for electrical defects.
+Conventional inspection allows a semiconductor company to see visual differences in the patterns on the chip.
+However, many electrical faults are not visually detectable.
+PDF Solutions' DFI technology is designed to change the paradigm for inspection, by placing small, proprietary CV test structures on chip in a product design.
+In Q1, we shipped our third DFI tool, an eProbe 150 series, to an existing customer.
+The purpose of this deployment at that customer is a short-term project to accelerate the development of new DFI applications for reliability and parametric yield control.
+We anticipate shipping our fourth system to a new DFI customer this quarter.
+The fourth system is part of the 14-nanometer project that was signed in the fourth quarter of last year.
+Overall, we are encouraged by our customers continued interest in DFI.
+With the shipping of our third and fourth tools, and the applications of the first tools in the field, we are building a body of data that demonstrates we can build, ship, install and make tools function with fob automation systems in a variety of settings.
+For our first 2 customers, we have now taped-out multiple number of on-chip CV instruments that have been included on many process development vehicles and full products.
+These tape-outs have spanned multiple nodes at each fab.
+We received continued interest at the first two accounts.
+The R&D program we began with the third tool this last quarter, speaks to the growing interest in DFI applications.
+It also highlights the DFI concept, meaning that we can, with the addition of a new on-chip CV instrument, have the DFI system inspect different metrology and different defect types without developing a new machine.
+This is important because machine development is slow and costly, while CV test structure and software development can be done with minimal time and money.
+Our first two machines are running with high uptimes.
+One of the two systems is now being qualified to run on processes released to manufacturing and inspecting CV test structures on product radicals.
+Customers tells us that conventional e-beam tools do not have the ability to see low-yielding wafers as the process matures.
+As a result these tools are typically used more in R&D than production.
+Our DFI solution, however, because we designed it to include some on-chip CV instruments that are very weak, we see failures that correlate with product yields even when the yields of the product are good.
+This provides encouraging evidence that our DFI solution could be used in production control, and hence explains why this customer is working with us to put in the additional effort to have the tool qualify for mass production.
+In summary, due to the lower-than-expected gainshare performance and despite the better than expected solutions results, the first quarter was not a good quarter from a financial perspective.
+However, we are encouraged by 2 key factors.
+First, while gainshare will continue to fluctuate up and down quarter-to-quarter, recovery is starting and building for the rest of this year.
+Second, we're having continued success both building business and developing products for DFI, Exensio and yield ramps.
+The anticipated recovery in gainshare and the continued interest and activity in all aspects of our business should be instrumental in creating a long-term value for our stockholders, customers and employees.
+I will now turn the call over to Greg.
+Thank you, <UNK>.
+As you may have seen in our earnings release.
+We have posted in the Investor Relations section of our website a management report with detailed comments regarding the financial results of PDF for the quarter.
+Given that, and the detail available there, I'm going to focus my verbal comments for the quarter on a few key highlights and issues reflected in those results.
+Turning to revenue first.
+As projected, total revenues did decline for the quarter as compared to Q4 2016.
+With total revenue at $24.3 million this is a decline of $4.1 million.
+Contrary to our expectations, solutions revenue increased slightly during the quarter.
+Gainshare revenues, however, declined significantly as <UNK> stated.
+We saw declines in both gainshare revenues both volumes and revenues across nearly all major customers and process nodes.
+The 28-nanometer node, however, was particularly hard hit, in fact it dropped to 39% of total gainshare revenue this quarter.
+As we have stated previously, our ability to project gainshare revenues on a near-term basis is extremely limited.
+Looking at profits, however, given the high-margin nature of our gainshare revenue, our profitability for the quarter was negatively impacted by this decline.
+Non-GAAP net income for the quarter was $2.6 million as compared to $5.6 million in Q4.
+Looking at the rest of the year, however, we expect gainshare revenue to be flat to slightly down as compared to 2016.
+This outlook is based on projections of low 28-nanometer volumes during the first half of the year of 2017, which should be partially offset by a continued ramp up of 14-nanometer volumes and the early ramps in the second half of the year of 28-nanometer for some of our newer customers.
+As we stated at year-end, our gainshare results from several older customers 28-nanometer nodes will be winding down during the year.
+Timing of these customer transitions creates uncertainties in our full year outlook and the quarter-to-quarter trends.
+As <UNK> stated, as we get into 2018 and beyond, we expect gainshare to again grow above the 2016 and 2017 levels.
+Looking at expenses.
+On a non-GAAP basis, total expenses for the quarter were approximately $800,000 lower than the previous quarter.
+This reduction in expense was primarily due to onetime expenses incurred in Q4 for customer hardware and recognition of previously deferred project cost that did not reoccur in Q1.
+The majority of this cost reduction, therefore, was recognized in cost of sales.
+R&D expenses during the quarter increased slightly as expected.
+Sales and marketing expense decreased by $400,000 in Q1, related to fewer commissions expenses recognized during the quarter than in Q4.
+This reduction in expense was partially offset during Q1 by increased G&A expenses including legal expenses related in large part to our concentrated efforts around patenting inventions in our DFI solution.
+Looking at the balance sheet.
+Total cash at $114.9 million declined by $1.9 million during the quarter.
+This reduction was the result of cash used for property, plant and equipment purchases of $2.3 million, primarily related to development of our DFI solution, as well as some cash used in operations of about $400,000.
+This was offset by $800,000 of cash generated by stock transactions and exchange rate effects in the quarter.
+Accounts receivable for the quarter including long-term, unbilled, accounts receivable increased by $4 million during the quarter.
+This increase was primarily related to fixed fee revenues on an existing solutions engagement recognized during the quarter, which will be billed on a quarterly basis going forward.
+Of the total unbilled AR balance of $34.6 million, we expect approximately $22.7 million to be billed over the next 12 months, more than half of which will be billed during Q2.
+From a tax perspective, our GAAP tax benefit for the quarter was $1.2 million, driven by our Q1 pretax loss and one-time tax deductions.
+Cash taxes incurred for the quarter were about $200,000.
+For the year, we still expect our overall GAAP tax provision rate to be in the range of 37% to 39% of pretax GAAP income.
+Cash taxes incurred for the year are expected to be in the range of 27% to 29% of pretax GAAP income.
+In summary, while gainshare revenue for the quarter was below our expectations, our solutions business has remained strong, led by our DFI efforts and Exensio.
+Furthermore, business activity levels within Asia continue to accelerate.
+Overall, we still expect total revenue to grow year-over-year.
+However, we now expect the growth rate to be in the low to mid-single-digit range.
+With that, I'll turn the call over to the operator for Q&A.
+We've been tracking that <UNK>.
+For sure, some of the foundries reported lower percentages in 28-nanometer revenue over previous quarters than others.
+Even if you look at the largest foundry in the world, they've actually, at least for Q2, forecasted down quarter on 28-nanometer volumes.
+I do think, in Q1, they may have affected pricing, and hence, taken some share from some of the other foundries.
+Some who want to do less gainshare.
+We did notice that, as Greg said, both volumes were down and our revenue per wafer was down as well.
+So I think pricing is getting affected.
+Yes.
+So it's a great -- we do expect, particularly in China, as the factories come up there, there's incremental or specific tax incentives for our customers to produce in China because those who sell in China get a relatively substantial tax-advantage.
+So we see a lot of activity from our customers who have factories in China, building out capacity there.
+And I suspect that, over time, as we get through 2017, this is why we have some confidence about the second half of the year gainshare in 28-nanometer and into 2018, the volumes will recover greatly at the factories that have capability on 28-nanometer in China.
+And outside of China if you look in Taiwan, and the U.S. and Europe you've also seen a number of announcements about new nodes like 22-nanometer and some of the newer varieties of non-bulk CMOS.
+We are participating in some of those from a gainshare perspective, and we expect those to start taking off as folks outside of China differentiate with newer capability.
+Yes.
+So we have everything for the Gen 2 machine in our lab now, and have put the whole thing together, and now are in kind of system debug at this point.
+We still anticipate being able to scan customers wafers in Q3 and be able to do betas by the end of this year.
+So we remain on track with what we want to get done with the Generation 2 machine.
+I would point out, and that's part of the reason why I made the comments, about manufacturing, our anticipation on the Gen 1 machine was, it was an R&D-only tool.
+We thought there were good applications for R&D.
+Over the past couple of quarters, particularly this last quarter, with our first -- one of our first customers, we are now basically putting that machine online for manufacturing of -- inspection on manufacturing wafers for a real product.
+And this is because even though it only can measure test structures in the scribe line, those results are seemingly correlating with product.
+So even the Generation 1 machine, we think, actually has a manufacturing application more than just an R&D application.
+And that has been a bit of a surprise for us, of course if you talk to our engineers they'll tell me it was designed in from the beginning.
+But we are pleasantly surprised that, that actually has worked out as they had prepared for.
+Yes, as always we are always looking for incremental efficiencies and spending savings.
+I think with the risk in the gainshare, that just drives that desire even more.
+So we are going through exercises right now to see where it makes sense and where it doesn't make sense.
+We're always in that trade-off for key investments.
+Fighting against incentives to reduce cost.
+But overall, we are working on that.
+I don't think it will be huge impacts, but it will be material.
+Yes, I would say flat to down.
+If you look at what growth we are generating, it's principally going to be in the solutions business, while those margins are improving a little bit, they're still not the same as gainshare, which is nearly 100% margin.
+So as we make that mix shift, and a slowdown in top line growth, earnings are definitely impacted.
+We try to offset some of that with cost savings, but it won't be all of it.
+So I would say flat to down.
+Yes.
+Sure, <UNK>.
+28 have also come down, right, in terms of the wafer selling prices too.
+As the 14s have come down.
+Seems like, to us, there's been about a consistent factor of 2 in revenue per wafer 14 to 28, roughly, give or take a little bit.
+And that depends, just to a great extent, on the number of metal layers and some other factors, but if you say that 28-nanometer wafer is in the $3,000 range, the 14, 16-nanometer wafers are north of $6,000, but then, they are definitely lower than they were, let's say, 6 months ago.
+So just getting back to the 28-nanometer business.
+What did you say the percentage was of the 28-nanometer Gainshare versus where it's been in the past.
+It was 39% in this quarter.
+And for last year, it averaged 63%.
+Okay.
+And then, you said that business was a little weaker at some other nodes as well.
+It seems like we should be in a ramp phase for 14.
+So I was wondering if you can just give a little more color there.
+Yes.
+We believe that we are in a ramp phase.
+We've gone back and checked with our customers on 14 and we see multiple customers still expecting volumes to increase as they go through this year.
+Like I said it was down slightly on 14-nanometer, this we thought was mostly seasonality.
+There was kind of a buildup as you got through the end of 2016, and it tends to be a little bit of a slowdown in the first part of the year.
+So that part of it wasn't too big a surprise to us, but we did also see decreases on 45, 40, 32, I mean pretty much every node they went down.
+They don't contribute as much to gainshare as 28 and 14 do, so the total magnitude in dollars wasn't large.
+But I think there's something like 14 node sites that we collect gainshare on.
+And 13 of the 14 were down and one was flat.
+So how does that compare to all the data we hear about guys like (inaudible) that give capacity-driven technology to the marketplace.
+They've started to really ramp up business lately because units -- they're seeing a lot of unit growth in the industry.
+Is it just timing of when these units are being produced.
+It's a great question, Tom.
+And we've been trying to go back through and rationalize and understand what's going on ourselves.
+We do believe a lot of this was 28-nanometer-specific and so I think that, that was -- and I think if you just look at the press from GSMC and UMC it's very consistent that they have all seen that, and I suspect, you look at the foundries that don't report that are private or part of larger entities, they are seeing similar behavior as those guys are.
+Yet, when we speak with customers they remain relatively bullish for the year and that's -- hence the reason why we believe -- we've gone back and talked with them where they think volumes will be for the remainder of the year.
+They all do believe that volumes come back.
+So I think they believe it's mostly momentary.
+Okay.
+So does this feel like, essentially, what happened in the first quarter of a year-ago or the dynamic's a little bit different.
+Greatly.
+Very similar to what happened to the first quarter a year ago.
+A little bit larger in magnitude.
+Okay.
+I guess, moving on.
+When you look at the Gen 2 product you said that customer scans available in the third quarter, maybe a beta site in the fourth quarter.
+Is that a beta sight, meaning you're going to send a tool to a customer.
+Or is it done in your facility.
+We -- that will be driven by how we work with customers.
+We know that when we send a tool and set it up you lose the quarter when you do that.
+So that's going to be a little bit depending on what their specific relationship is with the customer.
+But we would want to be in a position that we could ship it out at the end of the year should we need to -- should there be demand for it.
+Okay.
+And based on what you've learned over the last few quarters as far as getting the parts, there's no long lead time marks that will be an issue ramping up, over the next year or so.
+That's a great question, Tom.
+Yes.
+We are looking at that relatively closely.
+There a lot of long lead time parts.
+There's no question about it.
+And so we have to start looking as we get to the end of the second quarter, what we do about ordering additional parts for the second-generation machines, beyond the first few.
+We've already basically ordered parts for, at least the first few machines, for it.
+From these, the longest lead time parts.
+Yes.
+All right.
+And then, <UNK>, when you look at all the moving parts in your business today, if you look out to 2018, has your view of the revenue opportunity changed at all.
+Was it different a quarter or 2 ago.
+No.
+It really hasn't.
+I mean, I think, for us, we still see, as I kind of highlight on the quarter, a couple of really super encouraging things.
+The first thing is what we've a seen with DFI and really continued to be impressed with what it's been able to achieve with the customers.
+And I think our customers see that as well.
+The second thing, and the reason why I said, I always select contracts to highlight.
+I highlighted a series of Exensio contracts.
+I think in half the cases at the contract site, I highlighted, the customer -- no, more than half.
+The customer purchasing Exensio was going -- either being acquired or recently announced being acquired and hadn't closed yet, or being spun off as part of an acquisition.
+And yet they were still all moving forward on all those contracts.
+And I speak -- I think it speaks to the value that the system is bringing the customers.
+So I was really encouraged by that business and what was -- could've easily been a situation where the customer said, well, we're going to get acquired, we're going go back and wait and see when this closes, what systems we put in place.
+But in part, I think, because we are, really, already in so many customers, at least one part of Exensio maybe Yield or Control or Test as folks merge and acquire with each other, they go and look at getting to standard systems, it puts us in a better and better position because by far the system that most people have experience with is Exensio.
+So it lets us just go through and structure a larger and bigger engagements with them.
+And then, finally, the activity in China remains quite high and I think we see more and more of the business moving to Asia.
+You've already seen that as we talked on our conference calls, about the percentage of our revenue coming out of Asia, primarily Taiwan and China.
+And we see that continuing to build.
+So we don't really see much difference in 2018 than what we saw in the past.
+We will be watching pricing on 28-nanometer wafers.
+I think as Greg raised the question about what do we think is going to happen in the future as capacity comes up in China, we do believe there will be pricing -- more pricing pressure on 28-nanometer wafers.
+Okay.
+But it should be somewhat offset by just higher volumes too, with the ramp.
+Exactly.
+That's correct.
+Okay.
+We want to thank everyone, again, for participating on the call.
+And as we said, while we had disappointing gainshare revenue, we're very encouraged by the activity we have with Design for Inspection, Exensio, and our Yield ramp business.
+We look forward to talking with you again in the next quarter.
+Thank you.
+Goodbye.

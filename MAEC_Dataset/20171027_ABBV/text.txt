@@ -1,0 +1,107 @@
+Thank you, Rick
+In order to allow time for our strategic update, I'll keep my prepared remarks brief, highlighting just a few of the noteworthy milestones from the quarter
+As Rick mentioned, we've continued to make significant progress across our pipeline
+In immunology, we reported results from several mid and late-stage trials
+Just yesterday, we announced positive top line results from three Phase III studies evaluating risankizumab in psoriasis
+Data from these trials demonstrated superior skin clearance with risankizumab treatment versus two leading biologics, Stelara and HUMIRA
+In the ultIMMa-1 and ultIMMa-2 trials, 75% of patients receiving risankizumab in both studies achieved PASI 90 compared to 42% and 48% of patients receiving Stelara, respectively
+We are particularly encouraged by the durable rates of skin clearance demonstrated in these two studies
+At one year, roughly twice as many patients treated with risankizumab achieved full skin clearance compared to Stelara, with 56% and 60% of the risankizumab patients achieving PASI 100 in ultIMMa-1 and ultIMMa-2 respectively
+We also saw very high rates of efficacy in the IMMvent study, with risankizumab demonstrating superior rates of skin clearance compared to HUMIRA
+Within this trial, we designed a portion of the study to evaluate risankizumab's efficacy in patients who had an inadequate response to HUMIRA
+In this portion of the study, patients with an inadequate response to HUMIRA after 16 weeks were re-randomized to risankizumab or HUMIRA
+And, of these patients, 66% treated with risankizumab achieved PASI 90, compared to 21% who continued with HUMIRA, demonstrating risankizumab's potential in the growing TNF inadequate responder population
+We look forward to seeing data next year from the remaining trial in the psoriasis pivotal program
+Our regulatory submission is on track for 2018, with commercialization expected in 2019. Moving now to upadacitinib, our oral selective JAK1 inhibitor, in development for six indications
+Last month we announced top line results from the second of our Phase III studies, the SELECT-BEYOND study
+In this trial, which evaluated patients who did not respond adequately or were intolerant to biologic DMARDs, both doses of upadacitinib met all primary and ranked secondary endpoints at week 12 and patient-sustained clinical response through week 24. Upadacitinib drove very high levels of response at ACR20. But more importantly, it drove strong levels of response on more stringent clinical endpoints, such as ACR50, ACR70, low disease activity, and DAS remission
+We saw levels of efficacy in this difficult-to-treat refractory population, similar to efficacy more typically observed in bio-naive patients
+We are aware that there continues to be significant investor interest regarding the topic of DVT and PE event rates
+As we stated on our last earnings call, we have a comprehensive monitoring program in place for upadacitinib and have not observed anything in our Phase III program that we consider a signal, and the rate of DVT and PE across the program is consistent with the expected background rate in an RA population
+While we can appreciate the desire to characterize event rates for upadacitinib, it is important to keep in mind that estimates based on individual events or a subset of trials have the potential to be inaccurate and misleading
+The upadacitinib program is designed to provide a comprehensive safety database with more than 3,000 upadacitinib-treated patients
+Evaluation of unblinded event rates and comparisons to rates in control groups and expected background rates must be done in the context of our overall program once the core studies have read out
+Given the fact that we have reported data from two of our six registrational trials and that the majority of our database remains blinded, we view any attempt to calculate event rates or compare rates across upadacitinib and control groups as premature at the present time
+Furthermore, providing unblinded data from ongoing studies could impact the integrity of these trials, which is something that we obviously cannot and will not do
+In addition to our internal safety monitoring program, we have an independent data monitoring committee, or DMC, in place for upadacitinib in order to ensure patient safety
+The DMC has access to all data from the program, including unblinded data, and monitors it for safety on an ongoing basis
+The DMC is also obviously aware of the heightened interest in DVTs and PEs in this setting and has consistently made the recommendation to proceed with the program without modification
+We remain very confident in upadacitinib and are investing in and advancing multiple indications in a manner that is consistent with our confidence
+We also recently reported positive top line results from the upadacitinib Phase II study in atopic dermatitis, demonstrating very strong efficacy across all doses compared to placebo
+In the trial, we saw very rapid response times, with upadacitinib demonstrating reduction in pruritus within the first week and improvement in skin lesions within the first two weeks for all doses
+Roughly half of patients achieved a 90% or greater improvement in skin lesions by week 16. Based on these data, we plan to advance upadacitinib into Phase III studies in atopic dermatitis in the first half of 2018. Moving now to oncology, in the third quarter, we reported that the DMC for the Phase III MURANO trial recommended we unblind the study for efficacy, indicating that VENCLEXTA in combination with RITUXAN met the primary endpoint of the study of demonstrating significantly prolonged progression-free survival in patients with relapsed/refractory CLL compared to a combination of bendamustine and RITUXAN, a standard regimen in this patient population
+We plan to present detailed findings from the trial at an upcoming medical meeting, and the data will support our regulatory application for broader use in the relapsed/refractory CLL population
+Also in the third quarter, we received regulatory approval for the use of IMBRUVICA in chronic graft-versus-host disease after failure of one or more lines of systemic therapy
+And before the end of the year we expect data from an interim analysis of the SHINE study in front-line mantle cell lymphoma, which if successful would support a label update for IMBRUVICA in this indication
+We continue to make good progress with our solid tumor efforts as well, where we currently have more than 20 solid tumor assets in the clinic, 17 of which are in Phase I studies
+We have started seeing early data from several of these programs, and we look forward to many more readouts as data mature over the next 12 to 18 months
+At ESMO last month, we presented early data from the Rova-T BASKET study in neuroendocrine tumors
+While the data are very early, we are encouraged by the findings, which showed reduction in tumor burden and confirmed responses in solid tumors beyond small cell lung cancer
+Our Phase III Rova-T studies in small-cell lung cancer continue to progress, with the TAHOE study in the second-line setting and the MERU study in the front-line setting both now well underway
+TRINITY, our registrational study in third-line or greater small-cell lung cancer, also continues to progress well
+As we prepare for our forthcoming regulatory submissions, we've been actively engaged in discussions with regulators
+We recently received feedback from the FDA that they would like to see six-month durability data as part of our regulatory submission data package
+This request is not unusual in development programs where single-arm studies are being used to support approval
+We anticipate that six-month data will be available in the second quarter of 2018. Therefore, we have moved the final analysis for the TRINITY study to the second quarter of next year in order to meet the FDA's request
+We continue to expect our regulatory submission to follow shortly thereafter
+In the area of virology, early in the third quarter, we received regulatory approvals in the U.S
+, Europe, and Japan for MAVYRET
+And in the area of women's health, we submitted our regulatory application for elagolix as a treatment for women suffering from endometriosis-associated pain
+And this morning, we announced that we received a Priority Review designation from the FDA
+While 2017 to date has already been a very eventful and productive year, we anticipate seeing several additional clinical development milestones in the coming months, and 2018 will also be a milestone-filled year
+With that, I'll turn the call over to Bill for additional comments on our third quarter performance
+So on upadacitinib, what we've said is that we monitor the program very carefully, and we look at the aggregate data
+And so when we monitor the data at this stage, we're looking in a blinded manner across our entire database
+And it's important to understand that because I can't give you a rate that is a upadacitinib rate today without talking about unblinded data and ongoing studies, and I can't do that
+So what I'll do is I'll talk about aggregate rates
+And what we said and what remains true is that those aggregate rates are consistent with the background
+And we've said that the background, there's variability in that background, but those estimates are around 0.8. And so that hasn't changed
+It also hasn't changed that we haven't seen anything that we consider a signal
+And the aggregate of our monitoring program tells us that all the statements that we've made are still holding
+Okay, and so this is Mike
+I'll take the question about Stemcentrx and our overall portfolio
+So as we mentioned on the call, we have a very robust portfolio overall in R&D
+And certainly within oncology, we are building considerable momentum
+As I mentioned, we have 20 programs in the clinic, 17 of those are in early development
+And that's a mix between Stemcentrx and other AbbVie programs
+And so that makes it difficult to give you a percentage that Stemcentrx will represent going forward because, of course, that's going to be based on the total number of programs that advance into later-stage development
+What I would say is we're seeing encouraging signs across that portfolio, on stem programs and other programs of activity, so we'd expect to advance a number of those programs
+And with respect to your question about targeting technologies, we certainly have a number of ADCs in our portfolio
+We feel that the talents we have as an organization fit that very well in terms of our skills in small molecule chemistry and protein engineering and antibody engineering, but we are in no way limited to ADCs
+We have very robust capabilities in small molecules, in novel biologics beyond monoclonal antibodies
+We have a presence now in oncolytic viruses and other novel means to modulate targets
+And so we're going to look at the targets that we have available, and we're going to pick the best modality that we can to address them, and that is in no way going to be limited to ADCs
+So small-cell lung cancer remains an area of very, very substantial unmet medical need
+The standard of care hasn't changed in many years
+And we view it in a positive way overall that there are now some therapies that look like they can make a real difference here, Rova-T included
+I'm not sure that the bar has changed substantially though
+So for example, if you look at third-line or greater small-cell lung cancer, there are no approved therapies
+Response rates based on expert opinion, because there really are no good clinical studies here, would probably be in the low single-digit range, if not zero
+And survival is dismal
+And as Rick mentioned, with recent I-O releases, objective response rates of 10% or 20% are meaningfully different from that
+And so there's a huge unmet medical need here, and there's an unmet medical need that relates not only to response rates but also to getting patients on a course that allows them to have good long-term outcomes
+And those longer-term outcomes have been a strength of Rova-T based on its stem cell-targeting approach, cancer stem cell-targeting approach
+So while there are encouraging signs, there's still a huge unmet medical need, and I don't think the bar has changed substantially
+Okay, so this is Mike
+With respect to the RA studies for upadacitinib and what will support an NDA next year, as you mentioned, we have six studies, and those cover a range of patients from methotrexate inadequate responders to biologic inadequate responders
+They include active comparator studies and studies aimed to look at structural endpoints
+And so we will file with at least five studies of the six
+We've always considered five studies our core
+There was a sixth study, which is a structural study, which was originally anticipated to take longer than the others, but it is moving forward ahead of schedule
+So it's possible that that could actually come in at a time that it can be included, but we're going to continue to evaluate that, but it would either be five or six studies that we would include
+Certainly
+So with respect to rates across the program, I think the best answer that I can give you is the answer that I gave you in my prepared remarks, which is that we monitor the program in aggregate across all of the studies
+And of course, we're still blinded on the majority of the studies and therefore the majority of our database
+And when we look at that and when we look at those rates, those rates are consistent with the background rate that we've stated on a number of occasions
+We're going to continue to monitor carefully, but we do not see that situation change
+I'll also refer to the remarks I made about our DMC
+We are firewalled from our DMC by design, but our DMC has access to all of the data, including the unblinded data, and they have consistently recommended that we continue the program without any modifications
+And if they had concerns, you certainly wouldn't expect that to have been their course of action
+With respect to platelet changes, we've looked at it
+We've not seen any changes with platelets
+Platelets remain stable on therapy
+And I think platelets don't seem to be playing any part of the picture for upadacitinib
+In terms of launches in UC and Crohn's, it's early on in those programs
+So we're always going to try to move as quickly as we can and advance programs rapidly, but we're not seeing any bottlenecks in sites
+We're not seeing any bottlenecks in patients
+In fact, recruitment across the program has gone very well, I think indicative of strong investigator and patient interest in the upadacitinib program broadly

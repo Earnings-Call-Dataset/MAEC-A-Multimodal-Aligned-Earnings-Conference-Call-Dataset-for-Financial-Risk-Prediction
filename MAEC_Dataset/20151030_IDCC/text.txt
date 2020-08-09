@@ -1,0 +1,263 @@
+Please stand by.
+Good day, everyone.
+And welcome to today's InterDigital Third Quarter 2015 Earnings conference call.
+Just a reminder that this call is being recorded.
+At this time, it's my pleasure to turn the conference over to Mr.
+<UNK> <UNK> de <UNK>.
+Please go ahead, sir.
+Thank you very much.
+Good morning, everyone.
+And welcome to InterDigital's Third Quarter 2015 Earnings conference call.
+With me this morning are <UNK> <UNK>, our President and CEO; and Rick <UNK>, our CFO.
+Consistent with last quarter's call, we will offer some highlights about the quarter and the Company and then open the call up for questions.
+Before we begin our remarks, I need to remind you that in this call, we will make forward-looking statements regarding our current beliefs, plans and expectations, which are not guarantees of future performance, that are subject to risks and uncertainties that could cause actual results and events to differ materially from results and events contemplated by such forward-looking statements.
+These risks and uncertainties include those set forth in our earnings release published yesterday.
+As well as those detailed actually this morning, as well as those detailed in our Annual Report on Form 10-K for the year ended December 31st, 2014, our quarterly reports on Form 10-Q for the quarters ending March 31st, 2015, June 30th, 2015, and September 30th, 2015 and from time to time in our other filings with the Securities and Exchange Commission.
+These forward-looking statements are made only as of the date hereof, and except as required by law, we undertake no obligation to update or revise any of them, whether as a result of new information, future events or otherwise.
+In addition, today's presentation may contain references to non-GAAP financial measures, such as free cash flow, pro forma operating expenses, and non-GAAP net income.
+Reconciliations of these non-GAAP financial measures to the most directly comparable GAAP financial measures are included in our third quarter 2015 Financial Metrics Tracker, which can accessed on our home page, www.InterDigital.com, by clicking the link on the left side of the page that says Financial Metrics Tracker for Q3 2015.
+With that, let me turn the call over to <UNK>.
+Thank you, <UNK> and, good morning, everyone.
+As you saw in this in morning's release, we delivered another very strong quarter, indeed our sixth quarter in the last two years with revenue of approximately $100 million or more.
+Which we will get into numbers in more detail, but the combination of a continued strong top line and dropping expenses, demonstrates the underlying strength of our business model and the skills with which we are executing against it.
+A couple points to note for the quarter.
+First, with recurring revenue at $78 million -- and that number does not include any contribution from Huawei -- we remain very comfortable that our wireless terminal unit business can reach an annual royalty platform of around $500 million to $600 million, based on existing agreements and the additional licensing opportunity ahead of us.
+When you match that up against the annual expenses of running that business, which is in the $150 million range if you don't include litigation expenses, you have a truly remarkable opportunity for shareholder value creation.
+I can assure you we are completely focused as an organization in driving that additional revenue.
+Well, we have more than just desire.
+We have incredible resources at our disposal, as demonstrated by the new transaction we entered into with Sony in the third quarter.
+As you know, the agreement we announced in 2013 with Sony included a joint venture to drive IoT research for the mutual benefit of both companies.
+We have now expanded that collaboration, which showcases a vast array of tools that we have used to create an even stronger relationship with an already important customer.
+Of course, the transaction included a new patent license agreement with them for their wireless products.
+But, it also included an extension of the existing IoT research we are conducting with them, the addition of 5G research we will conduct for them, and various other elements in InterDigital technologies that make this agreement a great reflection of the alignment between our two companies.
+It is the type of relationship that reflects one of the hallmarks of our licensing program -- flexibility and creativity.
+It also sets us apart from other licensing companies, the fact that we are a highly respected research organization with solutions and research capability that customers can find very valuable.
+We will continue to pursue these types of relationships with both the remaining unlicensed companies, as well as with our existing customers to build stronger ties.
+With success, we would expect to drive not just higher revenue levels, but more predictability and repeatability in our revenue streams as well, which should drive even higher value in the overall enterprise.
+Based on what we can bring to bear on license discussions, I remain very confident we can deliver on the revenue line.
+<UNK> and I are also very confident we can continue to maintain very strong investment discipline within the organization.
+That discipline is very important, as it is the massive operating leverage within this business model and our ability to increase revenues with stable costs, that drive shareholder value.
+Our investment discipline is very simple.
+Any investment we make has to meaningfully exceed the value of returning capital to shareholders.
+For the core licensing business, that means investing at appropriate levels to drive current value, which means working shoulder-to-shoulder with our licensees, and the standards to drive reputation and brand, and give us other tools to conclude deals like we just did with Sony.
+The investment must also drive the long-term value of the business in terms of fundamental innovation for the next-generation of wireless services, and we will begin licensing five to ten years from now -- and that will layer on to our existing technologies.
+We have a great deal of experience managing this type of investment with significant success.
+Based on our knowledge of the innovation opportunities and the value that can be delivered back to shareholders, we expect the R&D investment to continue to hold relatively steady.
+We also expect litigation expenses to continue to come down.
+This is all very good in terms of appropriately maximizing the operating leverage of that core business.
+We also have tightly-controlled investment in additional growth businesses, where we believe we have unique capability that gives us a competitive edge for creating substantial value for shareholders.
+For us, this opportunity is licensing IoT-driven markets.
+As we have discussed before, IoT is not a market, but a market driver, like the original Internet.
+It will substantially and disruptively change how every industry and all parts of society operate.
+In doing so, it is going to create massive new markets, create new companies, and make others obsolete.
+It will also drive substantial new revenue streams; and in doing so, create a tremendous profit opportunity for those that drive the innovations critical to those future IoT systems.
+InterDigital is very well-positioned to pursue this opportunity.
+Our understanding of current wireless networks enables to us innovate the new technologies that can lead into those networks to effectively connect the tens of billions of data-producing elements that will drive this future state.
+Our nearly decade-long pursuit of middleware innovations that will help manage, secure and distribute the massive amounts of data produced by these connections, gives us an additional strong competitive edge.
+Indeed, over the past six months, you have seen a steady stream of news from the Company about the advances we are making in driving the 1M band standard, including the significant demonstrations of the capability of our oneMPOWER platform in Korea this week.
+Over the coming quarters, we will continue to provide details on this investment, including what technologies we think will be central to this market, how we are organizing our approach, and the overall incremental value we see for shareholders from our successful pursuit of this tremendous opportunity.
+Our third area of investment is our small commercial start-up, and strategic external investments.
+From an expense standpoint, these investments are relatively small, with our 2016 expense activity target at less than $20 million.
+Despite the small investment, the impact of this activity can be significant in terms of helping to drive the ultimate success of our core licensing business, and driving new business opportunity in IOT.
+The reason is simple.
+The investments must pass two tests.
+First, they must withstand significant independent financial scrutiny.
+Second, they must be focused in the same spaces where the Company itself is conducting research and development activities.
+The result is financially attractive investments that also connect the Company up to the broader set of customers, as well as creative new companies driving new technologies.
+That provides significant value back to our main research engines, enhancing the efficiency of that research, and helping to guide its direction.
+So to summarize, I am very happy with the opportunities we have in the Company, how we are pursuing those opportunities, the results we are driving, and the future value we are creating.
+The wireless world continues to create -- crave and reward innovation.
+And that is where we live.
+Now let me turn the call over to <UNK>.
+Thanks, <UNK>.
+We are pleased to report another quarter of strong financial results, including our third consecutive quarter with revenue in excess of $100 million.
+As many of you know, when looking at our revenue, I focus on the contribution from recurring revenue.
+This past quarter, we reported about $79 million of recurring revenue, an increase of 7% compared to the third quarter of 2014.
+This increase was driven by a continuation of the strong results we have seen from our Taiwanese-based licensees all year, and does not include any revenue recognition related to our patent license agreement with Huawei.
+Our post-arbitration award proceedings with Huawei continue, and we will continue to defer any revenue recognition until all of the criteria for such revenue recognition have been met.
+The most recent quarter is also the latest demonstration of the operating leverage that exists within our business.
+Despite the 7% increase in recurring revenue, and a 29% increase in total revenue, we reduced our operating expenses by 12% compared to the third quarter of 2014, and 8% sequentially from second quarter 2015.
+The reduced operating expenses were primarily attributable to lower litigation expenses.
+Even on a pro forma basis, which excludes litigation expenses among other items, our pro forma operating expenses were down slightly compared to third quarter 2014, and approximately 7% sequentially.
+The combination of increased revenue and decreased expenses resulted in operating profit that was nearly three times as great as third quarter 2014.
+In fact, even on a year-to-date basis, our operating profit is up over 2014.
+This increase in year-to-date operating profit is driven by an increase in year-to-date recurring revenue of more than $75 million, paired with a decrease in year-to-date operating expense.
+The fact that we were able to drive an increase in year-to-date operating profit is all the more impressive when you consider that 2014 was a very tough comparative year, with nearly $125 million of past sales.
+As I previously discussed, our potential to maintain similar operating leverage in the future, combined with an opportunity to significantly expand our share of the 3G, 4G, market under license, serve as the greatest catalyst for near-term growth.
+Moving on to other areas, I would like to take a moment to discuss our capital allocation.
+We continue to maintain a strong balance sheet with substantial cash reserves.
+I do not expect that to change any time soon.
+A strong cash position is important to our Company's success, even as we continue to return value to shareholders, through our regular quarterly dividend and our existing stock repurchase authorization, which today has approximately $150 million remaining.
+During the most recent quarter, we repurchased over $18 million of our stock, $18 million that is.
+Taking a broader view, between the beginning of 2012 and September 30th, 2015, we have returned almost $565 million to our shareholders, including the repurchase of more than 11 million shares for approximately $425 million, plus $141 million of regular and special dividends.
+To put that in perspective, over the last three years and nine months, we have repurchased approximately one quarter of the Company's share count.
+Not only have we bought back shares, but we have done so intelligently.
+Our weighted average purchase price over that period is $38.53.
+Our careful execution of these programs has created significant value for our shareholders, and it is a record we are very proud of.
+With that I will turn the call back over to <UNK>.
+Thank you, <UNK>.
+Thank you, <UNK>.
+Laurie, if we could open the call for questions right now.
+Certainly.
+Thank you.
+(Operator Instructions).
+Our first question today is from <UNK> <UNK> at Dougherty and Company.
+Yes.
+Thanks for taking my questions, and congrats on the strong quarter and the Sony renewal.
+I wanted to start with the Sony renewal.
+You are recognizing some past sales from that and it sounded like in the language in the Q that you are expanding that to some new products.
+I wondered if you could add any color there.
+You know, their volumes have shrunk since the last deal, so the interplay between lower volumes -- but then, maybe more products covered.
+How should we think about sort of the size of Sony going forward for you guys.
+So, you know, you are right that Sony's market position is not the same as it was three years ago.
+And so that will be reflected going forward in the transaction.
+The other part of that, that is just a fact.
+The other parts of the transaction, though, are -- in fact, all parts of the transaction are very attractive to us in terms of, not only is it a patent license, but there is access to technology going on within the agreement that will be very, very valuable to us in terms of having a customer out there in the market for the things that we are doing, and to provide some validation for the things that we can.
+So we have a great relationship with them sort of top to bottom in that organization between myself and the senior leadership there and a bunch of other people.
+And as I said in my comments, it's certainly the type of relationship that we would love to have with many, many of our licensees, because all the things we talked about, with respect to Sony, you know, by building a strong relationship, it made the renewal so much easier to do.
+I mean, obviously we had some long nights with them.
+But we had a lot of tools at our disposal and there was a lot of trust between the parties and it worked really well.
+Okay.
+Great.
+And then, <UNK>, you mentioned, you know, a lot of confidence in that $500 million to $600 million royalty base.
+Obviously, I think maybe the biggest way to get there is more China.
+You have got the Huawei proceeding that is pushed out into next year.
+I wonder how much that will play into sort of the speed at which you are able to license other people in the market, or does everyone see the writing on the wall because you won the arbitration.
+Any color on that would be helpful.
+Yes, I think people understand arbitration and worth are very hard to undo.
+And so I think the writing is on the wall in terms of what the result of that is going to be, now that they became guaranteed success.
+You know, we have -- typical with most enforcement proceedings, you know, they're moving along.
+I think the French proceeding is scheduled for a -- hearing, sorry, I think March of next year, with a decision to quickly follow that.
+So I don't think we are on a long timetable for next year, which is good.
+And I also, you know, do not expect, only because it typically never happens, this thing to kind of consume all the litigation space.
+At some point the parties come to an agreement.
+That is certainly what we want to do.
+So I do think it is a good -- it is a some of what a gating item for the rest of China.
+But it may not be an absolute necessity, because for the reasons I gave.
+I think people see the writing on the wall.
+And there would be some motivation by people to actually get ahead of that decision, if they feel they can negotiate something that for them may be a little bit better.
+So, you know, the dialogue over there is better than it has been in China, which is good.
+It is never an easy discussion.
+But I think we have got pretty good game plan.
+Perfect.
+Thank you so much.
+Our next question today is from <UNK> <UNK> at Sidoti & Co.
+Hey, guys.
+Thanks for taking my question.
+Just a couple quick ones.
+One being I guess vis a vis your, you know, where we are in the Huawei proceedings.
+I am just curious, you know, sort of post-conclusion of that.
+Do you expect to continue the downtrend of litigation expenses, and is that a meaningful piece, you know, in the next couple quarters, or is this pretty low-cost process.
+Yes.
+So, Matt, we had litigation expense just over $6 million for the quarter in Q3.
+You know, I can remember on conference calls a year or two ago, as we were coming off higher periods of litigation, people would say, you know, where do you think that litigation spend could be.
+And I would cite $25 million as being a point in our history that I thought we might return to at one point.
+We are on that kind of run rate now.
+I would not expect it to go dramatically below, because in our history it is relatively low now.
+But, you know, there is certainly opportunities to keep it lower than it has been.
+And, you know, again litigation is a very important investment for us when we make it.
+But, you know, we would much prefer to have an agreement like Sony, where we bring other resources to bear and use that as a way to reach an agreement with our customers.
+Yew.
+There's couple components of IoT, right.
+We always talk about it in three layers.
+You have the connection layer, so that is actually the devices themselves that are producing the data and have communication capability associated with them.
+You then have this middleware layer, which is really -- consumes that data coming up from those devices, secures it, manages it, and then distributes up to the application layer, where the magic happens.
+I think the -- if you look at the revenue opportunities for us, it almost follows those three tracks.
+So we have revenue today coming in on the connection side.
+And one of the opportunities for us near term is to build on that is obviously volume, because volume is a major provider of modules, and things like that.
+So that nearer-term opportunity to really start to show some strength in the IoT market.
+The next layer is this middleware layer.
+I think that, you know, what you see in the market today is a lot of proprietary implementations at that middleware layer.
+You know, what we are doing is; we are in Korea this week demonstrating the oneMPOWER platform, which is our middleware platform.
+There is a lot of interest in Asia, in terms of deploying that standard, and we actually have the most mature solution for that standard.
+So in terms of timing and revenue on that, you know, my guess is we are still, you know, it is not a 2016 event.
+But I think it starts to build after that as people begin to deploy more standardized IoT solutions.
+You know, beyond that at the application and service levels, I think, back a little further down the path for us.
+It is not exactly where we play as a Company.
+But I think as we gain expertise in the first two layers, opportunities in that third layer will become more apparent to us.
+Great, that is all for me.
+Thank you.
+(Operator Instructions).
+And we will go next to <UNK> <UNK> at Barclays.
+Hi, guys.
+How are you doing.
+Congratulations on the quarter.
+Thanks.
+If you could just touch on the value that you are bringing to the table with regards to JV with Sony, and how you expanded on that relationship; and the opportunity for other deals and JVs like the one you have with Sony going forward.
+That would be great.
+So I think that is certainly possible.
+I think we are not updating our goal to increase it.
+I think the goal is the goal.
+But there is always the possibility that we can exceed it.
+As far as timing, I mean, maybe the next most obvious step is a resolution with Huawei, given the proceedings that we have in place for them.
+<UNK> talked about the timing just a couple moments ago with respect to that.
+And then, you know, whether or not that accelerates other agreements in China or we are able to use the writing on the wall as we talked about, as a way to get there sooner -- you know, they are the different levers that you are looking at.
+But we are confident that we can get there.
+We think that we have made great progress since we initially set out that goal.
+And look forward to taking the next steps.
+And just one other thing to note on that.
+If you guys -- you know, we have talked with you before on this.
+It is not like we have to sign 100 new people to get to this goal.
+We have a very short list of licensees that get us up to the goal, because you know the market is consolidated.
+And it is oh, you think about it is -- as <UNK> mentioned, Huawei, it's (inaudible), it is VTE, it is LG.
+And, you know, -- and Lenovo.
+And if we do those successfully, we are there.
+So it is a relatively short list.
+It allows to us focus as an organization on that short list.
+And drive them as hard as we can.
+Thanks, <UNK>.
+So, you know, generally on LTE, you know, we are very, very comfortable with the research that we have done.
+Our position in the standards.
+We have got, you know, really good coverage across the standard.
+You know, one of the things with the LTE standard is -- there is a number of optional features in there that gets deployed over time, and we have got really good coverage on a bunch of those as well.
+So I think while we cannot attest to the accuracy of any report that comes out on LTE positioning, they all are very consistent in terms of how they position the Company as one of the leaders of LTE technology.
+So we are very happy there.
+I think, you know, the 5G opportunity is a really good opportunity for us, because you know, it is going to be a little bit more crowded of a space.
+They had their kickoff meeting in Phoenix about a month ago.
+And there were 300 participants, which is much more than we have ever seen before, in terms of people wanting to get their intellectual property in and their designs in.
+But we have a -- you know, our leadership positions in the standard give us a leg up.
+I think our knowledge of the underlying systems give us a leg up, because you are not starting from green field, you have to weave these solutions into what is there.
+And our knowledge of what is out there, and that is a 40-year knowledge of what's out there; gives us a really good position.
+We are very -- we have the organization that is sort of laser-focused on 5G.
+Really good work at all parts of our organization, I'd say particularly strong work coming out of Europe.
+So I am happy with the way that part of the business is operating.
+So no issues.
+Yes.
+Not a lot of change in the last couple quarters.
+I mean, I think we continue to be in a market where -- I guess I can break the market down a couple of pieces, right.
+There is not a lot of quality portfolios that we use today we are seeing coming on to the market.
+I think part of that is pricing.
+The pricing is just down.
+The people with really good stuff are not necessarily bringing them on the market.
+You know, that said we still have opportunities in license discussions with folks.
+Because that is where they will bring patents to bear, because we will value a good patent in an appropriate way, and it allows us to close license transactions, it is good way for us to do it.
+You know, I think generally the IPR landscape, you know, you have a number of companies out there that were very, very, sort of focused on -- small portfolios and assertion-based entities, they are really struggling.
+My sense is those patent portfolios are probably worth more than maybe what those companies are trading for.
+So, you know, I think there is a buying opportunity for us.
+And so we keep our -- you know, we are focused on seeing if we can find good portfolios that maybe we can pull out of some organizations, do it at what will now be very reasonable prices.
+And I think our history has shown that, you know, if we get a portfolio at a good price, we have a very good track record of making money off that.
+So, though it is not the world's greatest environment for us to sell stuff in sum, but I think it is a good opportunity in the right situation for us to acquire.
+Yes.
+I mean, generally I would say, you know, the overall legal environment and regulatory environment is -- I'd say it has gotten better.
+I would still say it is certainly not the way it was a number of years ago.
+So better from a couple perspectives; I think certainly from the US perspective, I think we were very successful in discouraging Congress from pursuing what was really ill-advised changes to the patent laws.
+So that looks like it has been shelved, and with the presidential election next year, we would hope it has been -- and shelved appropriately.
+And I think it is going to continue to be that way.
+We hope.
+I think that generally we have been and others we are partnering with Qualcomm and others on this very successfully, and kind of making people understand that, you know, a lot of what is going on in the patent side is not fact-based.
+It was just based upon people who wanted -- had other business objectives in terms of undermining the patent system.
+There was an interesting article the other day and it actually talked about how China's respect for intellectual property is on a track to surpass the United States.
+And I think those types of articles when they come out, they sort of open people's eyes as to the quality of the reforms that have been done.
+You know, arbitration I think -- there is a number of parties that are in arbitration with companies.
+I think it is the best way for us to position the Company as a reasonable licensor.
+We are willing to arbitrate, you know, these disputes.
+We are willing to do it on a very simple basis, unbounded basis.
+I think that approach by the Company has served us really, really well.
+It says we are not afraid to have a third-party determine this for us, as long as that third party is qualified to do it and does it in an efficient way.
+We do not want every patent in every jurisdiction to be arbitrated by somebody different.
+That is a very inefficient process.
+But a single party to do it in a fair and unbiased way, we are happy to do.
+So, I think all of that sort of is why the Company is doing well.
+I think we are a very, very reasonable Company with really strong technology, and we are open to very reasonable approaches.
+So, you know, we are going to ride that horse.
+All right.

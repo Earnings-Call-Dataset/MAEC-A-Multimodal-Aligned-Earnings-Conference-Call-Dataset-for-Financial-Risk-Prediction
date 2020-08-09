@@ -1,0 +1,246 @@
+Thanks, Mike, and good morning, everyone.
+Well, the second quarter of fiscal '18 was remarkable for ADI.
+We posted non-GAAP diluted earnings per share above the high end of our guidance and set a new high-water mark in free cash flow generation, and I'm pleased to share some perspective on our results with you now.
+So revenue in the second quarter came in just above the high end of our guidance as strength across our B2B markets, especially in the industrial and communication sectors, offset the expected decline in Consumer.
+Our results were also supported by our Linear Tech franchise, which posted a record revenue quarter.
+Gross and operating margin expanded substantially compared to the year ago quarter, driving a more than 40% increase year-over-year in our non-GAAP diluted earnings per share.
+This execution resulted in record free cash flow in the quarter, and our combined company adjusted free cash flow margins over the trailing 12 months continue to place us in the highest tier of the S&P 500.
+Now before we go deeper into our financial performance, I'd like to take this opportunity to provide investors with a deeper perspective on some of our key technology and market trends and ADI's strategy relative to them.
+I've spoken before about the dawn of the third wave of information and communications technology or ICT, which is characterized by ubiquitous sensing, hyperscale and edge computing and pervasive connectivity.
+In this world, digital systems increasingly rely on real-world information to make mission-critical decisions, and the accuracy and the integrity of this information is becoming more and more important.
+Simultaneously, the actual challenge of identifying and extracting signals in the presence of increasing levels of noise is becoming harder.
+Now I believe that this is creating an inflection in the analog industry, and it's enabling ADI to play a critical role in generating and communicating high-quality information to leverage our cutting-edge innovation and solutions to tackle our customers' hardest problems from sensor to cloud, microwave to bits and nanowatts to kilowatts.
+It's our ability to sense, measure, interpret, power and connect these 2 worlds that is helping to enable autonomous machines, natural human to machine interaction and future important technologies, such as virtual and augmented reality and so on.
+Today, though, I'd like to talk more specifically about connectivity and 5G, which has been the subject of much news coverage lately and which represents the next big investment phase in wireless infrastructure and how we view its evolution and timing.
+In fact, an entirely new wireless and wireline network architecture will ultimately be needed to meet the demands for orders of magnitude increases in bandwidth-hungry areas such as high-definition video streaming.
+Although 5G will provide revolutionary capabilities, the transition to 5G will be evolutionary.
+We see the first phase of this evolution being the addition of massive MIMO, which will provide a significant increase to the capacity of the current 4G wireless network.
+The use case and benefits of massive MIMO to the carriers are real.
+A massive MIMO system can deliver a greater than 3x data capacity increase in the same spectrum as a current 4G base station.
+And this helps to solve 2 large challenges for carriers: capacity and cost.
+ADI is enabling these massive MIMO implementations today through our highly integrated software-defined transceiver platform.
+This solution reduces the radio card area by a factor of 10 and overall remote radio head footprint by 50% while simultaneously reducing power consumption.
+These are critical success factors with massive MIMO systems since they use, on average, 8x the number of radios compared to today's systems.
+Equally important, these transceivers have the flexibility to operate from 300 megahertz to 6 gigahertz as they are software programmable, giving our customers a single platform-based design that can quickly be modified to operate in any of the many different cellular bands that exist around the world.
+These radios can also scale from small cells to macro base stations to massive MIMO radios, and they offer a flexible architecture capable of rightsizing the analog and digital performance needed by a customer's product family.
+However, to realize the longer-term 5G ambition, further network change is needed.
+In order to further expand the network bandwidth, millimeter wave solutions will come into play in order to provide multi-gigabit per second wireless connectivity using phased-array solutions.
+In that arena, ADI is leveraging the capabilities from our Hittite acquisition.
+We have a very unique market position of having deep competency from antenna to bits up through millimeter waves, and our solutions and technologies are well positioned in the current millimeter wave trials around the world.
+This will expand ADI's sun as it emerges.
+In addition to adding massive MIMO and millimeter waves, 5G will require a complete re-architecting of the core wireless and wireline network, including a move toward network virtualization and more edge computing.
+This backbone network will be required to meet the 5G vision of greater than 1 gigabit per second download speeds, low latency and high reliability demanded by mission-critical applications such as digital health care, autonomous vehicles, fully autonomous factory floors and augmented reality systems.
+This network expansion will drive a significant upgrade of the backhaul system, opening a new stream of opportunity for ADI's optical and point-to-point microwave solutions.
+5G represents an enormous opportunity for ADI as we are uniquely positioned to provide the enabling technology through our comprehensive portfolio of high-performance mixed signal, RF and microwave and power management technologies.
+The combination and integration of these innovative capabilities will allow us to create even more comprehensive and compelling signal chain solutions for our customers and the opportunity to capture up to 3x the [baum] when compared to our 4G solutions.
+Now while we're obviously excited about the remarkable potential of 5G, the greater volume of our communications business in the next couple of years will still be 4G.
+And here, our business is strong and has been growing at a high single-digit rate over the trailing 12 months.
+Our growth has significantly outpaced industry CapEx spend as we have seen share gains in traditional 4G macro products, thanks to new RF offerings resulting from the combined strength of our ADI and Hittite engineering teams.
+Those results have been augmented by strong adoption of our integrated software-defined transceivers across macro, small cells and massive MIMO trials.
+So in summary, we feel very confident and energized by our communications market success, which is built upon close partnerships with our customers, our domain knowhow, our unwavering desire to solve the toughest engineering challenges and strategic investments in research and development, along, of course, with our acquisitions of Hittite and Linear Technology.
+So looking forward, we expect to continue to outperform in the communications market and accelerate our growth as we fully address our customers' needs well into the 5G future.
+Of course, 5G is just one of the many areas ADI is taking advantage of in the era of digitalization.
+In this ubiquitously sensed and connected world, there are many exciting new opportunities, areas such as industrial 4.0, autonomous and electric transportation and cloud computing.
+And in future earnings calls, I'll continue to speak to these opportunities with you and look forward to sharing how we are creating long-term value for our customers and for our shareholders.
+And so with that, I'd like to hand over to <UNK>.
+Thank you, Vince.
+Good morning, everyone, and let me add my welcome to our fiscal 2018 second quarter earnings call.
+With the exception of non-op expenses, my comments on the P&L line items will be on a non-GAAP or adjusted basis, which excludes special items outlined in today's press release.
+Revenue for the quarter was just over $1.51 billion, above the high end of our guidance and increasing 25% year-over-year and up 7% sequentially on a 13-week basis.
+Now before I move on to the rest of the P&L, let me give you some commentary around our market performance in the quarter.
+Looking at the combined company, our B2B revenue increased 14% year-over-year led by double-digit growth in the industrial and communications markets.
+The industrial end market represented 52% of sales in the quarter.
+Growth in this market was once again broad based, with nearly all applications and geographies increasing double digits compared to the year-ago quarter.
+Momentum continues as our targeted R&D investments aimed at the underlying sector trends of automation, instrumentation and health care continue to drive outperformance.
+Turning to the comms market, which represented 19% of sales in the second quarter.
+Sales into both wireless and wired applications increased compared to the same period last year.
+Furthermore, our wireless business has increased at a high single-digit rate over the trailing 12 months.
+Our growth is due to share gains related to our complete portfolio of high performance mixed signal RF and microwave as well as the strong demand for our integrated transceiver and our position on virtually all of the 5G and massive MIMO trials.
+As Vince mentioned, we expect to grow our comms revenue at a mid-single-digit rate in the backdrop of a flat CapEx environment ahead of 5G rollout, and 5G represents an enormous opportunity for ADI as we are positioned to provide the enabling technology with our comprehensive portfolio.
+Our auto business represented 16% of sales in the quarter.
+After a better than seasonal first quarter, second quarter sales increased at a low single-digit rate compared to the year-ago quarter, with growth led by the infotainment and powertrain applications.
+And finally, our Consumer business represented 13% of sales in the second quarter, and as previously communicated, decreased compared to our year ago quarter.
+Let me now move to the rest of the P&L.
+Gross margins of 71.3% came in around the midpoint of guidance and increased slightly compared to the first quarter on a more favorable mix.
+OpEx in the second quarter was $442 million or approximately 29% of revenue.
+Strong revenue growth combined with operational execution delivered operating margins above 42% and at the upper end of our guidance.
+Non-op expenses in the second quarter were $62.5 million.
+We expect our non-op expenses to be approximately $58 million in our third quarter and to decline by $2 million to $3 million in our fourth quarter of fiscal '18.
+Our second quarter non-GAAP tax rate was 5% as we adjusted the tax rate for the full year to 6%.
+Looking to the third and fourth quarters, we expect our non-GAAP tax rate will remain between 5% to 7%.
+There is no change to our expectation for fiscal 2019, and we continue to expect our long-term tax rate to be approximately 12%.
+Non-GAAP diluted earnings per share for the second quarter came in above the high end of guidance at $1.45, increasing over 40% year-over-year.
+Now I'll cover the balance sheet.
+As we planned, inventory decreased 2% sequentially and days were 116 in the quarter, down from 124 days in the first quarter.
+Distribution inventory was approximately 7.5 weeks, which is flat sequentially and up slightly compared to the year-ago quarter.
+We generated record free cash flow of approximately $665 million in the quarter, with associated free cash flow margins of 44%.
+And in the trailing 12 months, adjusted free cash flow for the combined enterprise was $1.9 billion.
+During the quarter, we paid down $450 million of debt, which helped reduce our net debt-to-EBITDA ratio to 2.2x, down from the 2.4x in the prior quarter.
+We expect to achieve our 2x leverage ratio within the next 2 quarters.
+Capital additions in the second quarter were $54 million, and we expect CapEx for fiscal '18 to run at our model of approximately 4% of sales.
+And during the quarter, we paid $178 million in dividends, with an associated quarterly cash dividend of $0.48, representing an annual dividend payment of $1.92 per outstanding share of common stock.
+So let's now turn to our outlook and expectations for the third quarter of fiscal '18, which with the exception of revenue are also on a non-GAAP basis and exclude items outlined in today's release.
+At a high level, we're expecting third quarter to look a lot like second quarter.
+We're planning for revenue in the third quarter to be in the range of $1.47 billion to $1.55 billion.
+At the midpoint of guidance, we expect our B2B markets of industrial, auto and comms in the aggregate to increase approximately 10% year-over-year.
+We're planning for gross margins to increase approximately 50 to 150 basis points compared to the year-ago quarter.
+And we expect our operating expenses to be flat to up $10 million year-over-year.
+At the midpoint of guidance, this implies OpEx as a percentage of sales of approximately 29%.
+Based on these inputs, we expect operating margins in the third quarter of 2018 to be in the range of 41% to 43% and for diluted earnings per share, excluding special items, to be in the range of $1.38 to $1.52.
+So to wrap it up, this was another terrific quarter for ADI, and we set a few records along the way.
+Our B2B business increased double digits year-over-year, and our strong operational execution drove gross and operating margins higher, which resulted in a record free cash flow in the quarter.
+And with that, I'll turn it over to Mike for our Q&A session.
+Yes, thanks, <UNK>.
+Well, as I said in the prepared remarks, there are really kind of 2 phases to 5G, at least from an ADI perspective.
+There is the pre-millimeter phase and the millimeter phase.
+And the pre-millimeter phase is really dominated by this massive MIMO expansion, which is really an overlay on 4G.
+So our software-defined transceivers are absolutely everywhere in the systems that are being brought to market this year and next year.
+In fact, it's one of the fastest-growing product sectors inside ADI.
+So that's been a very strong contributor to our communications business and, in fact, beyond.
+These transceiver technologies, because they're so flexible, are usable as well in places beyond communications.
+Also, the combination of Hittite and ADI from RF to bits and microwave to bits is enabling us to capture new content in kind of pre-5G systems.
+But it's the combination of our massive MIMO, our Hittite ADI microwave and millimeter wave to bits technology that is enabling us to be participating in virtually all these field trials across the globe.
+My sense, <UNK>, is that U.S. and China will be in the kind of '19, '20 time frame.
+We'll be at least trialing some particular applications.
+China will get faster to mass market, I think, with what they call 5G, which is really to me, 4.5G plus massive MIMO.
+So I hope that explains what it is we're doing.
+And in the run up to what will be pure 5G in the 2024, 2025 time frame where the core network gets changed with virtualization, edge computing and pure millimeter wave-type technologies, spanning multiple different frequency levels.
+Sure.
+Well, <UNK>, remember that we have now completed the implementation of all of our synergies related to the acquisition of Linear.
+So we now have built into our run rate the cost synergies that we committed to at the time of the acquisition.
+So that is contributing as well to the gross margin strength.
+And then I would also say that with volumes where they are, we're getting the benefit of strong utilization at our internal fabs.
+Yes, <UNK>.
+You're a little faint, but good morning.
+Yes, thanks, <UNK>.
+So look, our business right now, our long-term goal is to grow at the high end of kind of 2 to 3 SAAR.
+And our objective, obviously, is to get the combined company onto that trajectory.
+So obviously, we're performing below my expectations, and we're not happy as a management team right now as to where we are.
+But let me try and unpack this story a bit for you and bring you through where we are right now and what the pathway ahead is going to be.
+So we were clear in our last call that the profiles for ADI and LTC are quite different in the automotive sector today.
+ADI, we -- the ADI legacy business increased at the kind of level of 2 to 3 SAAR in '17.
+And it looks like we're on track again this year to achieve that kind of level.
+Whereas the LTC growth level has been in the low single digits or closer to kind of 1 SAAR.
+So -- but what I will tell you is that we're making a lot of progress in improving LTC's growth rates, and we've uncovered a lot of revenue synergy opportunities.
+And we've also changed the business logic within LTC and tilted more towards growth.
+Profitability has always been important, will always be important, but we're also tilting more aggressively towards growth.
+But as you know, in this market, it just takes time to materialize the design wins that we've got in place.
+And my sense is those design wins won't materially impact the revenue, will not materially impact the revenue for a couple of years.
+What I'd like to do is just turn my attention now to giving you a sense for what momentum we have in our business and what we're doing to get our revenue towards -- to get the growth levels to the higher end of the 2 to 3 SAAR.
+And as you know, we've talked before, we have 3 primary application areas in our business: infotainment, autonomous driving and electrification.
+I'm going to talk to those in a little bit of detail and try to unpack the story a bit for you.
+So in infotainment, we've won a lot of premium audio sockets.
+That's a great heritage for ADI across all geos, and that's really the foundation of the infotainment business.
+And the good news there is we're now beginning to attach LTC power to the clusters of ADI, DSP and mixed-signal technologies.
+We've talked before as well about our A2B technologies, and we're really getting a lot of momentum there.
+And what I can tell you is that about a dozen OEMs are planning to deploy that technology in the next few years across the globe in many, many geos.
+Now that is also -- everything I talk about here is an opportunity for LTC power attachment.
+If I turn to autonomous vehicles.
+We haven't really talked much before about our LIDAR solution, but we're gaining design ins today in long and short-range LIDAR systems, with both the ADI mixed-signal technologies and the LT portfolios and even getting some sockets for Hittite in the very, very high-frequency areas.
+These components complement the more advanced capability that we're working on now to produce a solid-state beam steering and photodetector technology.
+And that will dramatically drive the size, the cost, the power, and we believe enable, over the longer term, the kind of mid- to long-term 3, 4, 5 years, mass deployment of LIDAR.
+And we got that new technology in terms of that more integrated system capability through the acquisition of Vescent sometime last year.
+Also in autonomous vehicles, we have several design ins in place with our inertial management units, our IMUs, as we call them.
+And we're engaged today on almost every self driving platform that is in development today, both with what we would call traditional OEMs and some disruptors out there as well.
+So that technology, which we've been using, we've gained traction in mission-critical aerospace areas, for example.
+It's a really ideal fit to the emerging autonomous vehicle requirements and it's used as a failsafe function in the event of a radar system failure.
+And I will turn to the electrification side of things and our BMS business, which we got from our LTC acquisition.
+We've been winning back business that we might have lost or have lost and by changing, again, our business logic, as I talked a little earlier about, to tilting towards growth, defending our sockets aggressively and also leveraging the scale and flexibility of the ADI manufacturing system to change the kind of the cost profile of the products.
+And we're broadening LTC's customer base, bringing that technology into the strong relationships that legacy ADI has in North America and with European OEMs.
+Also, our next-generation BMS will improve on our already leading performance levels by delivering, again, more miles per charge and bringing all the robustness and safety features to play as well.
+And one other aspect of the electrification business is the momentum that we have, in our isolation we have a franchise of very unique isolation technologies that tend to get used anytime that there's a high-voltage and low-voltage connection.
+So these technologies are very important in electrical vehicles, so I think we're doing well there.
+And not to mention the broad-based revenue synergies that we've got on the power side of things.
+My sense is that in a reasonable period of time, we should be able to add a point or two of overall growth to the automotive business, given the design cycles that we've got and the strength of the power portfolio.
+So I think we're very focused on bending the growth curve.
+I believe we're focused on the right apps, the right customers.
+We have a terrific technology story.
+And with the complementary customer bases and geo footprint coverage, I feel very optimistic about the future and our ability to get that growth curve to where we have publicly said it should be and will be.
+So I know that's a long answer, <UNK>, but I thought it was important to give the story in terms of where we are today and talk a little bit about the future as well.
+Yes, thanks for the question.
+So the way we view it in the short term, there's a certain amount of fixed CapEx in place to upgrade the various networks across the globe and particularly in China.
+So my sense is that there are many other competitors in play who will fill the demand for building out the networks across the globe.
+We have factored into our numbers a potential continued embargo with regard to ZTE, so it's built into our numbers.
+It was a small amount of headwind for the company last quarter.
+So I think, overall, most geos are up in communications for ADI, we're gaining share.
+You know, my sense is as well, just we're obviously staying close to the situation as best we can tell, the negotiation outcomes that are taking place.
+But I will tell you, clearly, U.S. and China need each other.
+And I think trade between both is very, very critical.
+My sense is that sense will prevail and the need for free trade, unencumbered trade will prevail.
+And we're expecting political leaders to figure this out.
+So my sense is at the end of the day, there's demand there for more and more connectivity.
+Carriers are determined to keep building their networks out, to capture the opportunity to build their revenue and profit streams.
+And that demand is going to be fulfilled one way or the other.
+A question on Consumer.
+You appear to be navigating the falloff at your largest customer.
+So just from kind of a high level, if you can just talk about the puts and takes from some of the drop-off there versus other opportunities and areas where you're actually growing within Consumer.
+Yes, so as you know, <UNK>, our Consumer business is a tale of 2 -- we've got 2 different stories there.
+One is our prosumer, which looks a lot like our B2B market, with lots of customers, products and different applications globally.
+And that business has been strengthened as well with the addition of the LTC revenue and applications.
+And that's in the $300 million-plus area, so it's a significant portion of Consumer for ADI.
+We're expecting, looking into our -- somewhere in the back end of third quarter and fourth quarter, we're expecting what is normally a seasonally strong quarter to be so.
+We've stated previously that Consumer will be down 20% to 30% for the year, and this is how the year appears to be trending now.
+So our strategy remains the same, to focus -- or to leverage our technologies into areas of very, very high differentiation where we can get a higher return on investment.
+And we continue to execute against that strategy.
+I do.
+Just a question on free cash flow and kind of capital allocation for <UNK>.
+So encouraging to see the big step-up in free cash flow in the quarter.
+As you're on the doorstep of that 2 turns target for net leverage, can you remind us in terms of just priorities, be it acquisitions versus returning cash and how you think about that.
+Sure.
+Thanks for the question, <UNK>.
+So yes, it was a great quarter for us in free cash flow, but I do want to remind folks that our cash flow can be lumpy quarter-to-quarter.
+So the right way to measure us is on a trailing 12 month, and we finished this quarter with trailing 12 month of $1.9 billion.
+So we recognize that this franchise throws off a considerable amount of cash and, therefore, we want to be very thoughtful on how we deploy that excess cash once we achieve our 2x leverage ratio, which we would expect to do in the next 2 quarters.
+We're very mindful of the debt that we took on as a result of the Linear acquisition as well as the opportunities that we have in front of us with the share repurchase dividend and potentially some other uses as well.
+So it's something that we spend some quite a bit of time internally debating.
+And I think you'll hear from us in a coming earnings release that we're ready to talk more about our capital allocation strategy once we clear that important 2x threshold.
+Yes, great.
+Thanks for the questions, C.
+J.
+So the industrial business has been doing extraordinarily well, as you mentioned.
+We continued to be driving this with the technology investments that we've made.
+It is across the board, C.
+It is all geographies, it is all products.
+So this is really a combination of the strength of a global expanding environment, and you know the PMI continues to be in an expansionary phase.
+And that's compounded by the technology investments that have been made over the last several years, which have now come together at a time where you can really see the driver in automation, you can see the driver in our instrumentation business.
+So it's really across the board, and it's hard to point to any one particular segment because it is so broad based and it's a reflection of the investments that have been made over the last several years.
+From where we sit today, and you can see it reflected in our guidance for the coming quarter, we feel very strong about the coming quarter.
+The outlook is solid.
+Our book-to-bill is greater than 1.
+Information from the channels, the information Vince gets from his customer visits are all continuing to tell us that we're going to see this run for a bit longer.
+Yes, thanks for the question.
+So first, as a reminder, we have not moved to ASC 606, so remember that our revenue is recognized on sell-through from the channel.
+So we really do provide our investors a reflection of what is the actual activity happening at the customer level.
+The inventory that we're seeing in our channel now, roughly 7.5 weeks, that's relatively consistent with where we have been.
+And we would expect, just through the normal course of business and over the course of the rest of the fiscal year, we'd expect to see that come down a bit.
+The inventory that we have in-house is at 116 days.
+That's an improvement of about 8 days from where we were in the first quarter.
+We are comfortable kind of in that 115 to 120, so I think that's where you'll see us for the balance of the period.
+Our sales organization does work very closely with channel partners to monitor that order activity to ensure that we're being mindful of the order lead times and ensuring that, that behavior is appropriate.
+But again, the biggest metric for us is -- the revenue we're reporting is on sell-through, so it's really not impacted by any noise in the channel, whether they're building or subtracting from inventory.
+Yes, just another bit of color on that.
+All the macro dynamics that we talked about that I used in the -- I talked about at the start of my prepared remarks there benefit the industrial sector.
+So my sense is, from talking to customers globally, as has been the case at least for the last couple of years, they're pragmatically optimistic about the future that we're in a longer-term secular growth trend across the various applications in industrial.
+And I think the optimism is even across automation, instrumentation and the aerospace and defense areas.
+So I think our customers are feeling good.
+And I'm also feeling very, very good about where we are and where the market is.
+Good question, <UNK>.
+Thank you.
+Well, today, with the acquisition of LT, our business now is about 50-50 between wireless and wireline.
+The wireless business, my sense is that can grow in the high single digits for quite a while to come.
+That's my long-term growth objective in that business.
+Wired is somewhere in the kind of mid-single digits as it has been growing, and I think that's a reasonable way to balance the growth expectations across that business.
+Yes, I think the areas where we believe that we'll see the growth uptake in the shorter term, kind of over the next 2 years, that will be in the probably communications as well as automotive areas.
+We have sockets already in place now that we should see the uptake on.
+And it's going to take -- to get to what I would consider to be the objective to put a couple points more of total growth on the company's top line, it will take in the kind of 3 -- 2- to 4-year kind of area.
+And if Hittite is any indication, given that the technologies play in similar markets, we're virtually 4 years into the closure of the Hittite acquisition.
+And over that period of time, we have managed to double the growth rates of Hittite in that period of time.
+So given, <UNK>, that we expect for every dollar of ADI revenue, which is largely mixed-signal base, we expect $1 of power.
+That's the kind of opportunity spread we're looking at, but it's going to take us 2 to 4 years, I think, to see any meaningful change to the top line.
+Good question, <UNK>.
+And if you consider 5G to be the initial introduction of 5G to be adding massive MIMO to 4G core network, I think we'll see meaningful revenue in the 2020 time frame.
+And I still think that 4G, without massive MIMO, will be a significant portion of revenue into the kind of 2022 timeframe.
+So somewhere between 2022 and 2025, we'll start to see what we will consider to be 5G become a more dominant part of our wireless communications infrastructure revenue.
+So at this point, <UNK>, it's a bit of a guess based on trying to triangulate on all the various conversations we have with carriers and customers.
+But I think, clearly, we're starting to see the uptick in 4.5G, or as it's called in China, 5G, massive MIMO based on 4G infrastructure at this point.
+So hopefully, that helps to give a bit of clarity to you.

@@ -1,0 +1,103 @@
+Good morning, everyone
+I'm really pleased that we just finished another strong quarter
+Our non-GAAP earnings per share was $0.74, which is a 7% increase over last year
+And we grew our revenue by 6% with double-digit growth across our key growth drivers
+Now, before I go into more detail, we all know that a competitor announced data this morning that is clearly important to the market
+So let me make a few comments
+First, our CheckMate 227 is a first-line, non-small cell lung cancer program, not just one trial, investigating several important scientific questions
+In study 227 we have at least three discrete opportunities for success
+We will be able to evaluate the combination of Opdivo plus Yervoy, we will evaluate Opdivo plus chemo in PDL-1 negative patients and we will be available to evaluate Opdivo plus chemo in all comers
+Additionally, as you know, we are testing two cycles of chemo with the combination of Opdivo and Yervoy
+It's also important to recognize that MYSTIC trial and CheckMate 227 are very different trials
+First, the dose and schedules are different
+In 227, we believe we have optimized the dose and the schedule
+Second, the trial sizes are very different
+227 enrolled over 2,200 patients, with 1,200 patients in the PDL-1 positive portion alone
+In contrast, MYSTIC enrolled roughly 1,100 patients in all comers, and its primary endpoint was evaluated in a subset of that population
+While the MYSTIC results are important data and we look forward to seeing more, it's very difficult to read across trials
+So let me now get back to our results this quarter
+Globally, Opdivo sales were very strong
+In the U.S
+Opdivo delivered strong performance in an increasingly competitive market
+Shares in the second-line lung cancer market remained stable, and we saw continued strong performance in other tumor types, with oncology trends in head and neck cancer
+Internationally, we delivered very strong growth, as we leveraged broad reimbursement and strong commercial execution to drive continued adoption in our key markets
+We also saw important progress from a regulatory and from a clinical perspective
+Earlier this month, we announced results from CheckMate 238, which was stopped early as Opdivo demonstrated superior recurrence-free survival in the adjuvant setting of melanoma versus Yervoy, the current standard of care in this setting
+This is another successful registrational trial with Opdivo, and it's an important validation of our strategic approach to moving treatment earlier in the adjuvant setting, which we are exploring across tumors
+In Europe, Opdivo achieved two important approvals, one in head and neck cancer and one in advanced bladder cancer
+In the U.S
+, the FDA accepted for Priority Review our application for second-line hepatocellular carcinoma, the most common type of liver cancer, and we have a PDUFA date of September 24. You saw that we just filed the sBLA for four-week dosing for Opdivo monotherapy and we look forward to making that dosing available to patients and physicians
+ASCO is always an important Meeting for us
+From my perspective, there were two key themes at this year's Meeting
+First, we saw the emergence of the next wave of immune-oncology agents that have the potential to complement validated mechanisms, such as PD-1 and CTLA-4. Assets like LAG-3 and IDO underscore the potential of our R&D pipeline and our expertise in this area
+Second, it was clear that translational research in biomarkers are likely to play a critical role in identifying which patients will benefit most from different therapies or regimen
+This work is important because we know that the unmet need in cancer remains high and that there are many patients we are not reaching
+And we believe our pipeline of I-O assets positions us well to bring forward the right medicine or regimen for the right patient at the right time
+Looking forward over the next 12 months or so, we have important data readouts expected from our portfolio, including in renal cancer, HCC, small cell lung cancer and, of course, non-small cell lung cancer
+Outside of oncology, execution also continues to be strong
+Eliquis delivered 51% growth, continuing to expand its lead in the expanding NOAC class
+Our hepatitis C regimen was approved and recently launched in China, making it the first regimen of its kind in this important market
+Orencia product sales remains strong, having again delivered double-digit growth
+We also saw continued progress in our diversified portfolio from a regulatory and from a clinical perspective
+We've made good progress on FGF21, where we are in discussion with health authorities about our registrational program which we intend to start by the end of this year
+Orencia received approval for psoriatic arthritis in the U.S
+and in Europe, and we expect 2018 to be an important year for our immuno-science pipeline, with potential data readouts for the T2 and the BTK programs
+Finally, following our IP settlement with Merck earlier this year, together with our partner owner, we've just taken additional legal action against a number of companies with commercialized PD-L1 products
+As we've said before, we have established a strong IP position with respect to anti-PD-1 and anti-PD-L1 that we will vigorously defend
+Similar to the Merck action, we are seeking financial remedy, and not to reduce patient access to these medicines
+As the innovators in this field, we have made significant investments in developing the science of IO, and we are proud of the transformative benefits it is bringing to cancer
+As I look back at the first half of the year, I'm very pleased with the execution across the company
+We've reported strong sales performance and we have seen good progress from a regulatory perspective and from a clinical perspective
+Looking ahead, I see tremendous opportunity for us to continue our growth and I am confident that we are very well-positioned for the long term
+And with that, I'll turn it over to Charlie
+Thank you
+Chris, this is <UNK>
+Let me just start and then I'll ask Tom to give you any other comments
+I think many of the – of course, it's very difficult to speculate on any comparison of the two studies because we don't know really a lot about the data that was communicated today
+With respect to the design of the study, first of all, as you mentioned, size is really important
+Second, we should remember that the studies include two different medicines, both in terms of the PD-1 and PDL-1 and in terms of the CTLA-4. Dose and schedule are extremely important
+And also, as we've said already, you have to remember that 227 really is a program and gives us the ability and optionality to look at multiple combination strategies in different patient populations
+But let me ask Tom to give you more comments about that
+So this is <UNK>
+Thank you
+I'll try to cover some of your points at a high level, and then I'll ask Charlie to make some comments on guidance and the rest of the year, and Tom and <UNK> to give you some perspective on dosing
+So first of all, let me say, our performance in the second quarter and actually in the first half of the year is very strong
+Commercial execution continues to be very, very strong and trends are good across products and across geographies
+So we see good momentum
+Obviously there is a degree of uncertainty in lung cancer, but here the U.S
+, similarly we are at the beginning of our launch of hepatitis C in China
+So those are trends that are a little more difficult for us to comment
+But, overall, I would say we feel we are in a really good position from a commercial execution perspective
+With respect to dosing, I think that, as Tom was mentioning, we are working really as a priority to continue to optimize the schedule of our assets across indications, across lines of therapy, in combination
+And what you've seen with 227 is really a lot of work that went into the finding of that dose
+Similarly, we've been working on the four weekly dosing for Opdivo monotherapy
+And I'll have just Charlie first, and then Tom and <UNK>, give you more comments about that
+Tim, this is <UNK>
+First of all, I would say we've said all along that we have optionality with our statistical plan
+We don't really see a need to make any change there
+And with respect to the time lines for the study, the primary completion, as you said, is the first quarter of next year
+We do have an opportunity for an interim on OS by the end of this year
+<UNK>, maybe if I can add a couple of comments there
+I think these developments that Tom articulated for you are really important for us because we've discussed this before
+And when you think about our strategic priority, advancing that early pipeline, in oncology and outside of oncology is clearly a very important priority for us
+So I'm personally very pleased that we are working between now and the end of the year to start a number of registrational programs
+We mentioned FGF21 outside of oncology
+Tom mentioned LAG-3, the two IDO programs and nivolumab is another important program
+I'm very pleased we are seeing the beginning of a number of registrational programs that are going be really important for us as a company
+And even more broadly, I think what we've discussed today is how we are advancing a very broad program in lung cancer which continues to expand and advance
+The second pillar is how we are moving forward with a broad number of short-term opportunities for Opdivo and Yervoy within oncology beyond lung cancer
+And the third pillar is really the new pipeline
+And I think you are seeing that we're making very, very good progress across every one of those three areas
+Okay
+<UNK>, let me ask <UNK> to start and give you some data on Q2 U.S
+For the 214, by the end of this year that is an interim analysis
+You may be referring to the final analysis
+And let me ask Tom to give you an answer to your question, to your third question
+Geoff, why don't we start with <UNK> to give you some perspective on your more commercial questions
+And then Tom will address your CTLA-4 question
+Thank you, Tom
+Again, we just completed another strong quarter
+I am very pleased with execution across the company
+As you've seen, we've delivered strong sales performance and we are continuing to make good progress from a clinical perspective and from a regulatory perspective
+Looking ahead, as I said at beginning, I see tremendous opportunity for us to continue to grow and I am very confident that we're well-positioned for the long term
+So thanks, everyone, and have a good day

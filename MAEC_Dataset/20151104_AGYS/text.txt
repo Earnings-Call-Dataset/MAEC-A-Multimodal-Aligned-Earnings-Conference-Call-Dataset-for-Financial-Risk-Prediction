@@ -1,0 +1,123 @@
+Thank you, Andrea, and good morning, everyone.
+We appreciate you joining us on the call today to review our fiscal 2016 second-quarter results.
+Joining me today is our Chief Financial Officer, <UNK> <UNK>.
+Before we get started, just a quick reminder that on the call today we will be discussing some non-GAAP metrics, primarily adjusted cash from operations and adjusted EBITDA which eliminates the effect of restructuring and other items that are either noncash or nonrecurring.
+Reconciliation to GAAP metrics are provided in the financial section of the press release issued earlier today.
+Starting with a brief overview of our financial results, total net revenue for the second quarter increased 13% to $29.6 million compared to total net revenue of $26.3 million in the comparable prior year period.
+While we are pleased with the overall result, we are equally pleased with the 7% increase in recurring revenue, both on a quarterly as well as on a year-to-date basis to $14.7 million and $29.6 million respectively.
+Within recurring revenue, our subscription-based revenues continues to grow posting 35% growth in the second quarter of fiscal 2016 compared to the year-ago period and now represents 18% of total recurring revenue versus 14% in the second quarter of fiscal 2015.
+Taking a look at the rest of our key financial metrics, gross margin was 59% in our fiscal 2016 second quarter compared to 63% in the prior year period.
+Adjusted EBITDA for the quarter was $1.5 million compared to adjusted EBITDA of $1.6 million in the same period last year.
+And this led to a net loss in the fiscal 2016 second quarter of $400,000 or a loss of $0.02 per diluted share which compares to a net loss of $1.1 million or a loss of $0.05 per diluted share in the prior year period.
+Now <UNK> will provide a more extensive review of our financial results including the income statement and balance sheet as well as our expectations for the balance of fiscal 2016.
+Looking now at the business as a whole, we are making progress towards our goal of evolving our offerings and growing our customer base both through the evolution of our established traditional solution such as InfoGenesis and LMS as well as through the ongoing rollout of our next generation of solutions around the rGuest platform.
+This progress is evidenced in many ways and our dedication to delivering a more powerful and flexible solution to our customers continues.
+We recently made our industry-leading property management solution, LMS, available as a hosted solution in addition to traditional on-site deployment.
+With hosted delivery of LMS, LMS becomes even easier to deploy and further enables our customers to lower costs, reduce overhead, tighten security and focus attention on creating lasting and meaningful connections with guests.
+Another key point is that the hosted version of LMS provides a foundation for these customers to more seamlessly transition to the rGuest Stay platform in the future.
+Two such examples include Magnolia Bluffs Casino in Mississippi, a new client, selected LMS hosted solution to manage its recently renovated gaming, lodging and dining property, and Terrible's Roadhouse Casino in Nevada, also a new customer, selected LMS hosted solutions to help them manage their property.
+LMS is now also fully integrated with the rGuest Pay and rGuest Analyze and we have already completed a number of deployments including Grand Sierra Resort and Casino in Reno and the Westgate Las Vegas Resort & Casino, both selecting a suite of products including LMS, InfoGenesis and rGuest Pay.
+Also we recently introduced two new versions of InfoGenesis and InfoGenesis Flex that are fully integrated with rGuest Pay, rGuest Seat and rGuest Analyze to enable food and beverage operators to transform the dining experience through personalization at every stage of the guest visit.
+1 Hotel & Homes in South Beach selected the InfoGenesis and InfoGenesis Flex solutions to streamline food and beverage operations at their recently opened beachfront property.
+As we continue to develop the rGuest platform, rGuest Pay continues to grow at a robust pace with 117 deals closed in the second quarter of fiscal 2016 alone, this bringing the total to over 200 deals.
+We are also making significant gains in leveraging our entire portfolio of solutions by creating a tighter integration between InfoGenesis and LMS and the rGuest platform that not only positively impacts our business today but also paves the way for rGuest to establish itself as the platform standard in hospitality.
+With regard to our customer base, there is no better evidence than the number of new business wins totaling 30 for the second quarter of fiscal 2016 and 75 in the first half of fiscal 2016, more than doubling the new customer acquisition in the first half of last year.
+The markets and our customers recognize us for delivering peer-leading deployment and support service, performance stability with key innovations, and taking a leadership position in the effective use of cloud enabled solutions, specifically tailored toward the needs of the hospitality industry.
+I also want to point out that over the last several quarters we have secured a much higher rate of competitive displacements than historical levels creating a great pipeline of new business that while not focused on our new rGuest solutions exclusively, it is helping us establish new relationships, or in some cases, deepening already existing relationships.
+One such example is the Atlantis Casino in Reno, Nevada, who has been a long- time LMS user who this quarter selected InfoGenesis as its new point-of-sale solution along with rGuest Pay.
+With respect to our salesforce, we ended the second quarter of fiscal 2016 with 28 quota carrying salespeople of which 12 are focused on new customer acquisition and of those, seven have joined Agilysys within the past six months.
+With regard to our install base, we currently have more than 25,000 point-of-sale endpoints installed with a 10% growth in point-of-sale endpoint count in the past 12 months.
+Additionally, our property management solutions are currently helping to manage more than 200,000 hotel rooms.
+Our goal is to continue to grow both the total number of terminal endpoints and hotel rooms as well as the average yield these deployments generate.
+Taking a look at the health and state of each of our business verticals starting with commercial and travel gaming, this vertical represents over 50% of our total revenues and is a primary focus for growing our business.
+This is evidenced in the key customer wins discussed earlier including Atlantis Casino, Grand Sierra Resort and Casino and Magnolia Bluffs Casino.
+This vertical continues to show healthy growth for Agilysys.
+And the Hotels, Resorts and Cruise vertical represent almost 25% of our revenue, we are making good progress in getting our solution offerings in front of operators and showing them how we can help them improve guest recruitment, increase wallet share, improve operational efficiency all while strengthening guest connections with more personalized services.
+A recent example would include the Colonial Williamsburg Foundation in Williamsburg, Virginia, selecting Visual One and rGuest Pay to establish an integrated, scalable technology to help it build exceptional guest relationships, maximize revenue opportunities and grow their hospitality business.
+I also want to highlight the engagement we secured with Tropicana Casinos at their hotel property in Greenville, South Carolina.
+This customer and a large hotel chain customer previously announced during the quarter, are expected to adopt rGuest Stay, our next generation property management solution and both will serve as potential segues for future installs.
+We now expect general availability of rGuest Stay in April of 2016.
+These two deals offer a promising glimpse into the hospitality market, embraces innovation as the best in class solution to run and grow their business.
+In the Foodservice Management vertical, which represents approximately 13% of our total revenues, we see continued opportunity to increase our market share and deliver an array of best-of-breed solutions to the foodservice industry.
+Finally, moving to the Restaurants, Universities, Stadia and Healthcare, or RUSH, the industry continues to rapidly evolve and new openings continue to come into the market to meet the need for a more sophisticated dining experience.
+Just last week we announced that Middlebury College in Vermont selected a suite of Agilysys solutions including InfoGenesis Eatec and rGuest Pay to enhance efficiency and streamline food service operations across its campus including three dining halls, a snack bar, several retail dining operations and catering services for a wide range of campus and private functions.
+Our products continue to receive recognition from industry thought leaders.
+Most recently we were listed as a champion in Info-Tech Research Group's property management system vendor landscape report being recognized as an outstanding vendor in the technology marketplace.
+We were also listed as a champion in the Info-Tech Research Group's food and beverage point-of-sale solution vendor landscape report for InfoGenesis point-of-sale.
+I also want to mention that the success we had at this year's Integrated Resort Experience at the Global Gaming Expo in Las Vegas a few weeks ago.
+We demonstrated LMS, InfoGenesis Flex and the rGuest Buy self-service kiosk solution and received an overwhelmingly positive perception.
+In summary, the changes we've begun to implement just a few years ago are helping us to better align our business and strategic goals with the needs of the end markets we serve and to improve the value proposition to the customers in those markets.
+The changes we implemented are favorably impacting our results for fiscal 2016 as we experienced improved product revenue growth from our installed base, increased the number of new customers, more multiple solutions sales, growth in new rGuest platform based solutions, an increase in the percentage of subscription-based sales.
+With that I would now like to turn the call over to our Chief Financial Officer, <UNK> <UNK>, who will review our financial results before going and opening the lines for questions.
+<UNK>.
+Thanks, <UNK>, and good morning, everyone.
+Our second-quarter fiscal 2016 revenue was $29.6 million, a 13% increase compared to total net revenue of $26.3 million in the comparable prior year period and a 14% increase for the first half of fiscal 2016 compared to the first half of fiscal 2015.
+Looking at revenue in greater detail, product revenue increased 30% or $2.3 million to $9.9 million or 34% of total revenue.
+The increase was primarily related to our on-premise proprietary offerings and growth in remarketed products associated with our rGuest platform.
+Support, maintenance and subscription revenue increased 7% or $900,000 to $14.7 million compared to the second quarter of fiscal 2017 largely as a result of our continued focus on selling hosted, perpetual and subscription-based service.
+Subscription-based revenue grew by over 35% in the second quarter versus the prior year period and 29% on a year-to-date basis versus the first half of fiscal 2015.
+Professional services revenue remained flat increasing $100,000 to $5 million compared to the second quarter of fiscal 2015.
+We are pleased to see growth in total net revenue and are pleased -- and are particularly pleased to see continued growth in our recurring revenues which accounted for 50% of our total net revenue for the second quarter and 52% for the first half of fiscal 2016.
+Moving down the income statement, cost of goods sold totaled $12.1 million or a 26% increase versus the prior year period leading to an overall gross margin of 59% for the second quarter of fiscal 2016 compared to 63% in the prior year period.
+The decline in gross margin for the fiscal 2016 second quarter was the result of a higher portion of re-marketed product related sales.
+Going forward, we expect full-year fiscal 2016 overall gross margin will be consistent with full-year fiscal 2015 levels in the high 50% range.
+Operating expenses, which include product development, selling and marketing, general and administrative and depreciation expense, totaled $17.8 million, comparable to the prior-year period.
+However, as a percent of net revenue, operating expenses improved to 60% for the second quarter versus 63% in the prior-year period.
+This led to an overall operating loss of $400,000 for the second quarter of fiscal 2016 compared to an operating loss of $1.1 million in the prior-year period.
+As expected, product development expense remained at similar levels to fiscal 2016 increasing by 10% to $6.8 million in the second quarter of fiscal 2016 compared to $6.2 million in the second quarter of fiscal 2015 as we continue investing in engineering resources around both rGuest and non-rGuest product enhancements to expand the current customer experience across our installed base as well as our future offerings with existing and new customers.
+Going forward, we expect product development to be in the mid-20% range as a percentage of revenue through fiscal 2016, comparable to fiscal 2015 levels.
+Sales and marketing costs increased $1.5 million or 39% in the second quarter of fiscal 2016 compared with the second quarter of fiscal 2015 primarily reflecting an increase in headcount of quota carrying salespeople and commission expense in line with revenue achievements during the second quarter of fiscal 2016.
+During the past 12 months, we have hired 13 salespeople and filled a number of strategic positions to better support the growth of traditional products such as InfoGenesis and LMS as well as our rGuest suite of products across all verticals.
+General and administrative expense decreased 14% for the fiscal second quarter of 2016 versus the prior year as we saw a reduction in spend related to system upgrades that occurred during the second quarter of fiscal 2015.
+And regarding amortization of intangibles, we saw a $300 decrease in comparison with the second quarter of fiscal 2015 primarily due to a reduction in expenses related to assets becoming fully amortized and assets being replaced or impaired during fiscal 2015.
+This led to a $400,000 net loss for a $0.02 loss per diluted share, a significant improvement compared to a net loss of $1.1 million or a $0.05 loss per diluted share in the second quarter of fiscal 2015 and adjusted EBITDA was $1.5 million versus $1.6 million in adjusted EBITDA in the second quarter of fiscal 2015.
+Moving to the balance sheet and cash flow statement, cash and marketable securities as of September 30, 2015 totaled $62.1 million, compared to $75.1 million at March 31, 2015.
+The decrease in cash reflects approximately $10 million in spend for our ongoing product development investment.
+We now expect to end fiscal 2016 with more than $55 million in cash as a result of our favorable results and improvements in working capital management.
+Previously, we guided that we would end fiscal 2016 with more than $50 million in cash as we continued to invest in the transition to a subscription business and the rGuest platform this year.
+Cash used in operations was $200,000, an improvement compared to net cash used in operations of $9.5 million for the first half of fiscal 2015.
+Adjusted for nonrecurring items, net adjusted cash provided by operations for the first half of fiscal was $200,000 compared to net cash used by operations of $7 million in the prior year period.
+We are pleased that we generated adjusted cash from operations in the first half of the year as this has historically been a period where Agilysys has been a user of cash.
+As our accelerated next-generation product development cycle slows to more normal levels later this year, we expect to significantly decrease our capital cycle while further improving operational efficiencies.
+Together with topline growth, these initiatives will help us generate positive free cash flow for fiscal 2017.
+And in terms of our NOLs, we currently have $180 million on our books, for which we can attribute a full valuation allowance and will help us remain only liable for taxes paid in foreign jurisdictions along with minimal state taxes for the foreseeable future.
+With regards to our outlook for the balance of fiscal 2016, we are increasing our full-year revenue projection and now expect full-year revenue of $110 million to $112 million, up from prior guidance of $106 million to $108 million.
+We expect that our higher revenue forecast and success in managing costs will similarly translate to an increase in the outlook for year-over-year growth in adjusted EBITDA.
+Based on the results of the first six months of fiscal 2016 and the outlook for the second half of the year, we now expect adjusted EBITDA to more than double year-over-year compared to 2015 adjusted EBITDA of $1.2 million.
+And as mentioned earlier, we continue to expect that gross margin for fiscal 2016 will be consistent with full fiscal 2015 levels in the high 50% range.
+In closing, overall the Company performed quite well.
+The underlying drivers are improving and we're gaining share as we continue to invest in our business.
+We have successfully delivered against each of our operating, balance sheet and expense targets and are confident that we will deliver on our new financial targets for fiscal 2016.
+Before taking your questions, I wanted to thank everyone who attended our annual Analyst Day in New York City earlier this year.
+The feedback we received was overwhelmingly positive and reassuring that we are moving in the right direction in our business strategy, development of the rGuest platform, our product roadmap and our go-to-market strategy.
+With that, let's open the call for your questions.
+Andrea.
+So on a sequential basis, it's actually a little bit down with results just some of the remarketed that we have in our numbers, so it's nothing that impacts the total support.
+From a recurring support, we're at about a 2% growth year over year.
+It was just a couple of small items in last quarter that drove a little bit higher than normal number.
+<UNK>, when you say premium in pricing, the pricing is going to reflect for a hosted solution like it normally does, fees for the utilization and the infrastructure, the support services, the licenses itself.
+So as you think about, let's say, annual recurring maintenance that might come from an acquired license and then maintenance and support that's paid, the per room per month charge for hosted LMS is going to align to say an increase in recurring revenue that's going to be at least two times on a per month basis what we would ordinarily get from just a typical maintenance and subscription -- or I'm sorry, a maintenance and support recurring component.
+Does that make sense.
+Oh, it's going to --
+Yes, it is going to be similar, so it is going to be a subscription service.
+It's not an owned license so in that subscription service stack you're going to have a subscription license, not a permanent license to use the software, and then all of the other managed services around that infrastructure will be incorporated into the whole fee stack to come up with your subscription service fee on a monthly basis.
+So it's going to be pricewise similar to a SaaS or subscription offering.
+The only reason I don't want to say it's cloud as we want to be very particular, when we say cloud it's a technology definition, in my mind, and subscription is a business relationship versus a license.
+I just want to be clear on what's technical and what's business.
+It's about the same target.
+Same target.
+We've only got a couple remaining that are outstanding to hire.
+<UNK>, as I look ahead, I think it's going to be probably another 18 months before SaaS is a primary growth driver.
+I think one of the things I want the investors and really the entire team to focus on is that while the primary driver of the business is to push further into subscription service opportunities, as we go to the line and we're calling the plays, the market right now with respect to the competitive landscape is offering us an opportunity where, as we check down the line, we see an uncovered receiver and we're quickly calling an audible because the market opportunity is leaving that receiver open and we've been able to take a couple of flyers down the field and score.
+And we're going to continue to look for those opportunities as we're focused on our core business.
+It just so happens that as we mentioned in our prepared remarks, the competitive landscape is giving us opportunities to have a higher than historical level of competitive opportunities to win and we're not trying to force that solution to be a subscription.
+We're just doing all we can to secure that customer and then work with them over time to migrate them eventually to a subscription-based relationship.
+But right now we're taking what the market is giving us and it's been generous to us in the first half of this year.
+Thank you, Andrea.
+Thank you for your interest in our Company.
+I want to take this opportunity to thank the very talented and dedicated team at Agilysys.
+Their work drives our success.
+I also want to thank our many customers and partners who entrust us with their business.
+We believe Agilysys continues to make progress as we focus our resources on the highest value opportunities and our chosen end markets and manage the business for the longer-term to deliver sustainable value to our customers and shareholders.
+We look forward to updating you on our progress during our fiscal 2016 third-quarter call.
+Thank you.

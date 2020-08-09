@@ -1,0 +1,107 @@
+We're not really seeing anything that significant in the price increase area.
+I was concerned on the second part of your question about the demand impact, particularly on smaller customers.
+We have seen -- we had strong channel sales in this last quarter and we are forecasting strong channel sales again, including European, which I assume is the biggest source of your question, including on the European side.
+It's really not -- at this point, has been a big of a deal as I was fearful of, because while we had maybe a soft quarter a quarter or two ago, things have come back pretty nicely.
+The Zynq product offering was a breakthrough offering.
+It was the -- generally the last part of the roll-out.
+And as such there was a large number of design wins.
+Now those design wins which were targeted at somewhat slower-moving markets like industrial and automotive, those design wins are moving to production.
+It's a unique product.
+The number of design wins is phenomenal.
+We're learning because of its nature that in some cases it takes longer.
+It's also a more sophisticated product.
+Hence, it takes a little longer to do the design.
+It requires both software and hardware.
+It has a high performance embedded process, a system.
+The number of design wins is just huge.
+And the overall magnitude of the design win value on [think] is very encouraging.
+It's very significant.
+And now it is finally starting to grow a very healthy clip.
+Until last year it was relatively negligible in terms of the portion of revenue, but now it is growing at a fast rate as these applications in automotive, wireless and mill arrow and industrial control are starting to hit production.
+I think also, you asked specific about design kits and our design board environment.
+In terms of numbers of kits and boards, it just totally swamps in terms of numbers all previous FPGA boards because of the nature of the cost point and the price point that many of these applications are going after.
+More of the $700 versus the $800 or $900 kind of an ASP.
+Both our distributor and Xilinx have a number of inexpensive boards and kits.
+The numbers of those that have been shipped out over the last couple of years is just really phenomenal.
+We really think we are seeding the industry really well with these capabilities.
+Thank you.
+So, Joe, we really haven't had any, I would say, any appreciable lead time increase on a broad perspective.
+There is a class of products that we have had a little bit of -- we've had some lead time increase, but I wouldn't say it's going to be that material of an impact to anything, our logistics.
+I don't think that has been a particularly -- there's anything there to concern anybody with from a logistic supply perspective.
+What was the second part of your question again.
+The fab cycle time.
+No, we have seen no push-out or lengthening of any fab cycle time.
+We are getting all the wafers we order when we order them.
+There is nothing going on there either for us.
+No, not really.
+It was a rep network where we're -- and we've terminated a variety of reps.
+In Japan, we are transitioning.
+We have a number of reps in Japan.
+The nature of that business is a little different than the rest of the world.
+We are transitioning one of the reps into our other rep network.
+That's the only really transition that we have -- excuse me, distributor in China, not reps.
+Distributor in China.
+One distributor moving into our other distributors in terms of the business.
+But nothing other than those two things.
+Reps in the US and Europe, generally we're transitioning to direct sales.
+Then in Japan there is a distributor that we are terminating and moving that business to other distributors that we already have.
+There is a lot of questions there.
+We think there is an opportunity there.
+That's why we have the SDAccel product, which now we're releasing (technical difficulties) to our customers.
+And we strongly believe that that, together with a stronger focus on this market should enable us to reap the benefits of it.
+We think it's a significant market.
+Whether it is tens of millions or several hundreds of millions of dollars, we think it's going to take time to grow to those larger numbers, and it'll take quite a long time.
+We are committed to having the best solution with regards to acceleration which addresses those markets.
+And whether it's x86 based or Ohm-based or whatever approach, then we are going to pursue solutions for that market.
+I think we are well-positioned.
+And the key to our leadership is now in this software which enables achieving or getting at that acceleration in the most efficient way.
+That's how we view it.
+It's a big market, but maybe not quite as huge in the short term as maybe others have positioned it.
+Single die helps but comes with a cost and the cost that you get typically is flexibility.
+The nature of these applications is they're very, very fragmented.
+Every one of them tends to have a different payload.
+Actually that payload is dynamic.
+If you are using it to accelerate some sort of algorithm, the algorithm that you are accelerating changes all the time.
+And so if you do too much integration and you tend to have a very inflexible solution, you might end up losing.
+When we talk to the customers, and these tend to be a different class of companies.
+Their approach is they want to retain as much control over their acceleration path.
+And they would rather not give that to anyone else.
+If you look at the way their approach has been, typically they do not buy from the traditional server companies.
+They actually build their own and they try to come up with a very specific solution which is the most valuable for them.
+There is a case to be made for integration, but what you lose when you do the integration is a lot of the flexibility which is inherently important to this market.
+I would say it is gray.
+In some cases it might go towards integration.
+In others actually having a separate solution and being able to maintain the flexibility there is a huge benefit.
+We have not seen a pause as a result of whatever has been in the newspaper and their stated position on this.
+<UNK> was only, I think, talking in general about when two companies get together what can happen in terms of how their organizations meld together.
+At this point in time, as best as we can tell, this is not going to be consummated in, at the earliest, later this calendar year, maybe in next calendar year.
+We're not seeing any sort of pause with our business with either company at this point in time.
+Thank you.
+Next question.
+We have now restructured our sales force to be tiered with two direct elements and the third element which goes through DiSTI.
+We are managing that a lot more closely than we have before.
+With the largest accounts, primarily in Communications and data center, we believe that we would benefit from a more direct interaction because fundamentally level of engagement needs to be deeper than it was before.
+Are we doing this later than ideally we should have.
+We probably are.
+In retrospect, this would probably have benefited from making this transition a year or two ago.
+I think also, I mean, it's not just -- this is not only a focus at one end market.
+There's going to be some transitions going on even in our aerospace and defense market coverage to more direct sales.
+I know some of these don't -- some of these kind of wins don't turn into immediate revenue.
+They are slower, but it does have both Industrial, Aerospace and <UNK>fense, test and measurement, as well as the Communications segments impacted.
+I think it is a net positive for us.
+As best as we can tell, and this is more about a CapEx China macro, I don't [want to] say macro, but China macro-related CapEx spend and the pace that they're getting funded internally to do things.
+I don't know what else.
+Some of it, there is always the politics between the FD standard and the TD standard.
+It's hard to tell whether that is still causing delays in FD as a result of TD trying to be -- and China Mobile trying to be more dominant.
+I don't know that I'm qualified to comment on whether how much of that is true or not.
+<UNK>finitely the wireless business, because of the volume and concentration of customers, tends to have a drag on our gross margins.
+So we would expect, and we have modeled this, that the second half would be lower than the first half as a result of that.
+I'm not going to get into the real specifics, but the second half would be lower than the first half.
+We are still confident in delivering our -- in our stated goal from investor day.
+This is a topic which is very sensitive.
+We have the capacity; you can tell by our track record that we do this very, very cautiously.
+The nature of our business is such that it has a unique element to it.
+So doing acquisitions for acquisitions' sake is not trivial for us.
+The answer is, we can do it.
+We know how to do it.
+At this point, if you look at where we are and what we have done, it's primarily been technology acquisitions as opposed to acquiring other companies that have a totally different business model and modus operandi.

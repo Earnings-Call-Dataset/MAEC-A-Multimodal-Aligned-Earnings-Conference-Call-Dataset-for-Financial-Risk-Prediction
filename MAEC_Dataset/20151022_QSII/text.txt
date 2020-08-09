@@ -1,0 +1,68 @@
+I think also as I look at it we will continue to deliver capabilities in the cloud as we already have.
+And having on premise hosting versus being able to host the NextGen ambulatory footprint, that NextGen footprint in the hosted offering allows us to much more easily migrate piecewise certain capabilities that are in the NG regulatory footprint today, but might be for example better positioned in a multi-tenant cloud offering.
+I would say it creates a little more frictionless optionality for us as we continue to release some of these new cloud-based capabilities regardless of whether they are EHR/EPM or other population health orientated capabilities.
+Let me just chime in here.
+What I would say is the core value to us is the improvement and client satisfaction and the ability to continue to move clients towards a more consistent footprint.
+Which of course does have a lots of goodness both from a client satisfaction standpoint also it helps us better utilize our service resources to continue to provide that better customer experience.
+We are not really in a position to comment on what that might mean on a per customer basis from a revenue standpoint.
+This is <UNK> and furthermore I want to say we're in exploratory phase of this we have not baked those into that forward-looking information that I described for the second half of this year.
+<UNK>, thanks for your question.
+Certainly the areas you talked about are important, also things like messaging are included.
+The key way to think about this is these are auxiliary products that are part of our core set of products that we offer to our ambulatory clients.
+They're as a general basis included in the overall workflow of the client's operations with a lot of different touch points.
+One of the reasons that we continue to have good success in that line item is that we continued to enhance and increase the number of relatively small but important features and products that are all built within this EDI nomenclature.
+They all tend to roll up over time.
+Their strategic to our clients because they enhance workflow capabilities and increase the overall experience as well as increase the financial viability of a small practice a medium practice and a large practice.
+One of the reasons it keeps going is we do have a lot of greenfield opportunity within our client base and outside of our client base.
+We are beginning to have much more connections and involvements with payers in this environment.
+As payers have EDI kind of needs and request for data.
+If we expand EDI to talk about data monetization a little bit and the opportunities are there.
+So I think the key is, it's a bundle of services that are interrelated and an important part of the operations of almost all of our customers.
+And it's one that we have, with the exception over the last couple of years, not had a lot of conversations with them and as we have more conversations we find there's more opportunities.
+This is <UNK>.
+There was no individually large deals that skewed that number upward from Q1, Q1 was particularly low, relative to prior quarters.
+I think that was just timing; bad luck if you will, for Q1 this quarter's more normalized.
+I continue to look internally and externally and evaluate our path forward there.
+It's certainly something I'm focused on but that's the only update I have right now.
+Thanks <UNK>, appreciate the question.
+Certainly for those of you that have heard from me in the past you are aware of the fact that I have a good deal of experience in delivering, frankly, net new solutions from my experience at Pyxis.
+I really got in and examined where we were in the software development lifecycle, got a better understanding of where we are from a requirement standpoint and then really worked hard between <UNK> and myself and some external consultants to really help the team come to what we felt was a truly actionable project plan, program plan.
+That's where the date came out.
+My job is to be transparent with my clients and my investors and so that's where we set today is 2017.
+That being said, I am right now for example, aggressively looking for a CTO that has the ability to really drive this program forward.
+I am starting to bring in external resources to look at how we can accelerate that timeline and then I'm also looking across the marketplace to make sure we have a full exhaustive understanding of the capabilities that might be out there.
+And so I'd say there's a number of levers that I am looking to pull, more granularity as we move down the path here.
+But I'm a believer in transparent processes, rigorous discipline, and client focused execution.
+So I think you will see all of those things start to really come to the table as we move forward through the next couple of quarters together.
+This is <UNK>.
+With regard to the current quarter we had good deal flow.
+There was no single deal that skewed this quarter particularly high; again, Q1 was low.
+With regard to subdividing some of the commentary I made regarding the second half into the individual revenue streams, that's more granular than we are prepared to get on this call.
+Between EHR and EPM we never get that granular when we talk about revenue streams.
+With regard to Mirth products that is one of the components of our subscription revenues so you can see the trend in that number year over year and sequentially.
+That's going to be a little bit of an evolving discussion as we move forward.
+Certainly today we are delivering great value to our clients through our core flagship platform but as we bring a cloud-based capability to the table that's more of a multi-tenant capability, I would think we would be attempting to do both.
+We feel like first of all, there is a lot of greenfield in the smaller physician practice space and certainly a cloud-based product with a lower cost of operation is something that is attractive to that client base.
+And so that would certainly be an area of focus but we also feel like we can continue to provide more and more value and lower total cost of ownership not just through our hosting operations but in migrating some of our larger clients to this cloud based offering.
+So <UNK>, I would say it's probably a little of both.
+This is <UNK>.
+As I mentioned our bookings this quarter had greenfield, we had opportunities and assistance sales, RCM, we also had sales to existing clientele.
+Pretty broad-based.
+I think that the dramatic uptick in bookings again from Q1 was the anomaly.
+This quarter was more what you would expect.
+<UNK>, do you want to add anything to that.
+This is <UNK>.
+Look I look at interoperability as a great boost not just for us but for the industry and the provider base, and the patient base as a whole.
+There's a number of different standards out there.
+Different organizations go after it, honestly I think they work that we did with all the other EHR vendors as well as the provider in Utah, where we are really looking rather than looking at any individual body really stepping back and saying -- how do we as a community work to create interoperability, not just to exchange data, but interoperability that's actually used inpatient care.
+And how do we measure that as an industry and make sure that we are challenging each other and our provider partners to effectively bring that information frictionlessly across into a provider patient interaction.
+We will continue to look at different bodies and different standards as we sit there today.
+We are comfortable that through our vendor agnostic open source Mirth capabilities that we are already significantly contributing to the conversation and the realities of interoperability.
+Thank you and we really appreciate both the attendance and the questions today.
+As we look forward to continuing our journey on this path of further aligning our employees and our culture with the Company's future goals and objectives, we will continue to deliver increased value to our ambulatory clients.
+We will continue to bring solutions to the market that allows these clients to quickly and easily adapt to evolving healthcare models.
+With healthcare continually changing at such a rapid pace our employee culture is an incredibly important boost to our ability to remain flexible and to enable our clients to thrive.
+I am grateful to our employee base who has been very receptive of me as the CEO and really excited about some of the cohesive culture that I am seeing emerging in the organization.
+I look forward to continuing the conversation with you our investors, our clients, and our employees.
+So thank you for your participation today we look forward to keeping you apprised of our developments as we move forward in this exciting time.
+Bye now.

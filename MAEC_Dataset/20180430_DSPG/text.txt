@@ -1,0 +1,202 @@
+Good morning, ladies and gentlemen.
+I am <UNK> <UNK>, Corporate Vice President for Business Development at DSP Group.
+Welcome to our first quarter 2018 earnings conference call.
+On today's call, we also have with us Mr.
+<UNK> <UNK>, Chief Executive Officer; and Mr.
+<UNK> <UNK>, Chief Financial Officer.
+Before we begin, I would like to remind you that during this conference call, we will be making forward-looking statements about our financial projections for the second quarter of 2018, including by segment, our belief that new product revenues will be a majority of our 2018 revenues, anticipated gross margin improvement, opportunities relating to Voice User Interface, anticipated general annual secular decline of the cordless business, our engagement pipeline and ability to secure additional design wins, mass production timetables and resultant revenues and general market demand for products that incorporate our technologies in the market.
+We assume no obligation to update these forward-looking statements.
+For more information about the risk and factors that could affect the forward-looking statements made herein, please refer to the Risk Factors discussed in our 2017 Form 10-K and other SEC reports we have filed.
+Now I would like to turn the call over to <UNK> <UNK>, our Chief Executive Officer.
+<UNK>, the floor is yours.
+Thank you, <UNK>.
+Good morning, everyone, and thank you for joining us today.
+I hope that you had the opportunity to read our press release that we distributed earlier today.
+I would like to begin by reviewing our results for the first quarter, commenting on the progression of our business plan and providing context for our outlook.
+In a short while, <UNK> will provide you with detailed comments on our financial results and outlook for the second quarter of 2018.
+We've achieved first quarter financial results that were ahead of our guidance on most metrics.
+We ended the quarter with total revenues of $28.1 million, representing an increase of 1% versus the first quarter of 2017.
+More importantly, revenues from our growth initiatives were $14 million, which for the first time accounted for 50% of total sales.
+Our performance reflects solid execution on our growth initiative and demonstrates the success of these initiatives in driving revenue diversification as evidenced by the solid year-over-year revenue growth of 27% in the office VoIP segment and a significant year-over-year recovery in our SmartVoice products.
+Revenue from our growth initiatives increased by 26% year-over-year, while posted an expected sequential decline of 9% due to seasonality, which is largely related to our Office/VoIP segment.
+Our differentiated technologies and improved product mix, coupled with operational efficiencies drove non-GAAP gross margin improvement of 490 basis points to 49.1% and a return to non-GAAP profitability.
+Moreover, we have successfully built a healthy and diverse engagement pipeline with leading OEMs, which makes us excited about the solid growth prospects in each of the new product segments, namely Office/VoIP, SmartHome and SmartVoice, driving our growth beyond the inflection point, defining our future and more than offsetting the secular decline in the cordless telephony market.
+Now I'd like to provide specific updates about our progress in each segment.
+Started -- starting with an update on SmartVoice.
+During the quarter, sales of SmartVoice products totaled $1.6 million, which were in line with our guidance.
+We're happy to share with you that during the first quarter, we secured additional smartphones design wins with 2 Chinese manufacturers for products that are expected to be launched in the second half of this year.
+In addition, we continued to grow and diversify our SmartVoice engagement pipeline and build our presence in additional end-product segments.
+As evidenced by a number of noteworthy design wins in the first quarter, including a leading Japanese mobile OEM that designed our SmartVoice into its new series of tablet product that started shipping in the first quarter and a leading European consumer brand that selected our SmartVoice solution for its new smart speaker product.
+This quarter, we continued to invest our R&D efforts in addressing the next frontier in Voice User Interface and build an offering around deep neural network technologies with a focus on voice and audio.
+We believe that in coming years combining artificial intelligence and edge devices will change the way people interact with their devices.
+We expect such technologies to revolutionize human-device interaction, including intuitive dialogues, Voice Biometrics, environmental sensing and artificially or voice-activated chatbots and more.
+DSP Group is well positioned to address the AI frontier as it takes off in the coming years.
+Looking ahead to the second quarter, we anticipate a sequential increase in our SmartVoice revenues as we see gradual ramp up of our previously announced design wins.
+However, the ramp up is more tempered than what we previously anticipated due to industry saturation that has led to a broader weakness in the smartphone market and a supply chain correction.
+Consequently, this has negatively impacted the demand from some of our SmartVoice customers.
+Therefore, based on our assessment, we project second quarter SmartVoice revenues to be in the range of $2 million to $2.4 million, representing significant growth both year-over-year and sequentially, though a bit less than what we anticipated in the beginning of the year.
+Nonetheless, we are confident about the value proposition of our SmartVoice technology and the potential of our current engagement pipeline.
+Now to an update on the Voice, Office segment.
+We're excited about the emerging trends in the workforce collaboration and the need for higher business productivity through better quality of voice and video communication.
+DSP Group is at the forefront of this industry trend and is the leading vendor of SoC solutions for the unified communications market, as demonstrated by our growing design pipeline with Tier-1 OEMs as well as with other leading customers.
+In the first quarter, we achieved quarterly revenues of $8.4 million, which were in line with our guidance range, representing an increase of 27% year-over-year, while showing a sequential decline of 12% due to an anticipated seasonal trend.
+In addition, during the quarter, we had a number of noteworthy new product announcements by our Tier-1 customers.
+Avaya launched a new series of IP phone called the J100 series based on our DVF9919 and DVF9929 SoCs.
+These phones feature a rich platform and remote access management.
+Cisco launched a new family of multiplatform analog telephone adapter, the ATA 191 and the ATA 192, adding third party UCaaS and cloud provisioning based on our DVF9929 SoC.
+Polycom launched the Obi2182, a high-end 12-line gigabit IP phone with color display that is based on our DVF9919.
+We are confident that with our current pipeline of new engagements, we are well positioned to see gradual revenue growth during this year and beyond.
+For the second quarter, we expect VoIP revenues to grow on a sequential basis and to be in the range of $8.8 million to $9.6 million.
+And now to an update of the Home segment.
+Starting with SmartHome.
+Our SmartHome is comprised of DECT ULE product, shipping with IoT sensors, actuators and home gateway products.
+First quarter SmartHome revenues were $4.1 million, ahead of the high end of our quarterly guidance, increasing by 13% sequentially, while decreasing by 2% year-over-year.
+We're excited to share with you that second-leading Tier-1 European service provider selected our ULE technology for its next-generation SmartHome service, which is expected to launch in late 2018.
+This is yet another strong vote of confidence in the ULE technology and its unique fit for the next generation of smart IoT services.
+While SmartHome remains our main focus area, we're seeing a growing interest for DECT ULE solutions in adjacent market verticals, such as the industrial IoT and security segments.
+In order to address the market needs, during the quarter, we introduced the DHAN-J, a ULE module based on our ULE SoC for IoT industrial and security applications.
+We believe that the industrial security segments will leverage ULE's advantages as an ultrareliable and congestion-free solution, while utilizing the DHAN-J as a market-ready solution that offers fast time-to-market and an easy path for integration -- for integrating the ULE technology and thereby reducing effort, cost and development time.
+Moreover, we continue to see growing interest in adding Voice User Interface to ULE IoT sensors as voice is viewed as the preferred user interface for the smart home environment.
+During the quarter, SGW Global, a leading designer and manufacturer of cordless products launched a line of truly wireless Alexa integrated voice-activated devices based on our SmartVoice and ULE SoC.
+These products include ULE voice-enabled assistance based on our SmartVoice and ULE solutions.
+Looking to the second quarter, we expect SmartHome revenues to soften on a sequential basis and to be in the range of $2.7 million to $3.7 million, reflecting temporary weakness in demand for home gateways and ULE products, mainly attributed to delays in customer product launches.
+Nevertheless, we do expect a recovery in the second half of 2018, as a result of expected new home gateway product launches as well as the new SmartHome service launch in Europe.
+And now for an update on the cordless phone market.
+Our first quarter cordless revenues were in line with our guidance and accounted for 50% of first quarter revenues.
+Cordless revenues decreased by 11% on a sequential basis and by 16% year-over-year and in line with our expectations for cordless industry annual decline of 15% to 20%.
+And now to an update on our outlook.
+Based on our revenue expectations across the new product initiatives, we expect our second quarter 2018 revenues to be in the range of $29 million to $32 million, which at the mid-range of guidance suggests solid sequential growth.
+Looking ahead, we believe that we're in a strong position to capitalize on significant opportunities in new and emerging markets in areas of unified communication, Voice User Interface and IoT.
+We have successfully built a promising and diverse engagement pipeline with leading OEMs, which is paving a promising path for long-term growth.
+Now I'd like to turn the call over to <UNK>, our Chief Financial Officer.
+<UNK>, the floor is yours.
+Thank you, <UNK>.
+I will now review the income statement for the first quarter of 2018 from top to bottom.
+For each line item, I will provide the U.<UNK> GAAP results as well as the equity-based compensation expenses included in that line item and the expenses related to previous acquisitions.
+Our revenues for the first quarter of 2018 were $28.1 million.
+Gross margin for the quarter was 48.4%.
+Gross margin for the quarter included equity-based compensation expenses in the amount of $0.1 million.
+R&D expenses were $9 million, including equity-based compensation expenses in the amount of $0.7 million.
+Operating expenses for the quarter were $16.1 million, including equity-based compensation expenses in the amount of $1.6 million and amortization of acquired intangible assets in the amount of $0.4 million.
+Financial income for the quarter was $0.4 million.
+Income tax for the quarter included income tax benefit resulting from the amortization of deferred tax liability related to intangible assets and a tax benefit related to equity-based compensation expenses in the total amount of $0.2 million.
+We had no tax provision for the quarter excluding these items.
+The net loss was $1.8 million, including equity-based compensation expenses of $1.7 million, amortization of intangible assets of $0.4 million and tax benefit in the amount of $0.2 million.
+Non-GAAP net income excluding these items I've just described was $0.1 million.
+GAAP loss per share for the quarter was $0.08.
+The negative impact of the equity-based compensation expenses on the EPS was $0.08.
+The negative impact of amortization of acquired intangible assets was $0.02.
+The positive impact of the tax benefit on the EPS was $0.01.
+And the non-GAAP earnings per share, excluding these items I've just described, was $0.01.
+Please see the current report on Form 8-K that we filed with SEC this morning for a full reconciliation of the non-GAAP presentation to the GAAP presentation.
+Now turning to the balance sheet.
+Our accounts receivable at the end of the first quarter of 2018 increased to $15.9 million compared to $13.4 million at the end of the fourth quarter of 2017, representing a level of 51 days of sales.
+Inventory decreased from $9.4 million at the end of the fourth quarter to $8.4 million representing a level of 53 days.
+Our cash and marketable securities decreased by $5.6 million during the first quarter and were at the level of $123.6 million as of the end of March 2018.
+Our cash and marketable securities position during the quarter was affected by the following: $3.4 million of cash was used from operations, representing mostly working capital changes; $0.4 million of cash was used for investment activities, mostly the purchase of property and equipment; $1.2 million of cash was used for repurchase of approximately 100,000 shares of our common stock at an average price of $12 per share; $0.2 million of cash received from exercise of options by employees; and $0.8 million was amortization and changes in market value of marketable securities.
+Now I would like to provide you with our projections for the second quarter of 2018.
+Our second quarter projection on U.<UNK> GAAP basis, including the impact of equity-based compensation expenses and acquisition-related amortization expenses are as follows: revenues are expected to be in the range of $29 million to $32 million.
+We expect our gross margin to be in the range of 47% and 50%.
+R&D expenses are expected to be in the range of $8.5 million to $10.5 million.
+Operating expenses are expected to be in the range of $15.5 million to $17.5 million.
+Financial income is expected to be in the range of $0.35 million to $0.45 million.
+Provision for income taxes on a non-GAAP basis is expected to be approximately $0.1 million.
+And the shares outstanding are expected to be between 24 million shares to 24.5 million shares.
+Our second quarter projection include approximately $0.4 million of amortization of intangible assets.
+And our second quarter projections also include the following amounts forecasted for equity-based compensation expenses.
+Cost of goods sold includes approximately $0.1 million.
+R&D expenses include $0.6 million to $0.8 million and operating expenses include $1.5 million to $1.7 million.
+And now we'd like to open up the line for questions and answers.
+Operator, please.
+<UNK>, so thanks for the question.
+So with respect to the annual guidance that we provided in the Analyst Day, so just for everyone, it was between $11 million to $16 million for the year.
+We're kind of at the midpoint around this, $13.5 million.
+So as you correctly mentioned, so right now, we do see a little bit of underperformance both in Q1 and Q2, given kind of the correction that is happening in the market and also some of the product launches that are relatively new and not necessarily generating the volume that we've expected.
+But I think that with our current design pipeline and the new products that we expect to contribute to our second half results, we do believe that we will continue to see a gradual ramp at a much stronger pace than what we are -- what we have seen in Q1 and also the trendline to Q2.
+We're still standing behind kind of these guidelines of the range of $11 million to $16 million.
+However, we do believe that probably it will be right now, based on the best guess that we have and we need to see exactly kind of how the market recovers, probably like at the middle of that range.
+So if we said $11 million to $16 million, so probably I would say, like, right now, $11 million to $14 million.
+But this is kind of our best guess right now.
+And right now when we look at kind of the bigger picture, we also are not seeing any reason to change the annual guidance as a whole, so from that aspect.
+Sure.
+So with respect to the split between smartphones and non-smartphone, it will vary by quarter.
+So as you can understand, we have been diversifying and winning a lot of new designs outside of the smartphone space.
+But in addition, we've also kind of strengthened, again, the smartphone position both with the Samsung design wins and now we've announced 2 additional China ones and we -- in the pipeline we have some more.
+So I would want to say that it will probably kind of be towards kind of 60-40 or something like that when we look at it.
+We believe that we will have some other end product segments that will be kind of big contributors from kind of smart speakers, tablets, kind of IoT type of devices that will kind of -- will be able to generate kind of higher growth or skew that ratio between kind of smartphones and non-smartphone applications.
+But my best guess would be roughly this type of split.
+So I think that what we said in the previous call was a decline rate of kind of 15% and above.
+I think that kind of Q1 was kind of 16%.
+I would say, kind of, based on the Q2 guidance, you can kind of interpret that we expect actually Q2 to be a little bit kind of above that trend, so less than 15%.
+But kind of, overall, we still see the picture as kind of 15%, maybe 15% to 20% annual decline.
+Nothing that we can see that kind of changes that picture.
+Sure.
+Rajvi, thanks for the question.
+So with respect to gross margins, we do anticipate and we did anticipate over the last couple of years that we will see a gradual gross margin expansion that will result from the product mix.
+And as these growth initiatives become a more dominant part of our revenues, and they are generating a much higher gross margins in our corporate average, we will see this gradual increase in the overall corporate gross margin.
+Right now -- and based on what we're seeing is that we -- for the first time, we see that the growth initiatives are covering 50%, 5-0 percent of our total revenues.
+And we believe that this is kind of one of the biggest drivers in generating an upward type of a gross margin result.
+When we look at kind of the mix of product inside our new products, all of them are coming at -- on an average basis, of course, there are bits and pieces here and there, but for the most part, each and every part of this growth initiative is generating a much higher gross margin than our corporate average, and in a way kind of cordless is the lagger here with respect to margin.
+And we believe that, as we look into the second half and into next year and at the profile of the business, hopefully, will be more skewed towards these growth initiatives, as there is, we can view it in an optimistic way that we could get margins to expand gradually towards kind of 49% or 50% and perhaps next year even higher.
+Sure.
+So SmartHome Q2, so maybe if we start with Q1.
+So Q1 was actually kind of pretty strong mainly because of both ULE and home gateways.
+In Q2, we do see some weakness.
+It stems mainly from certain gateway products that are shifting from manufacturer A to manufacturer B.
+And there is like this time lag.
+So for the same operators, we're in a way exchanging between 2 manufacturers and this is kind of causing this kind of delta here of one quarter.
+But we do expect that to be recovered in the second half of the year.
+And on the SmartHome front, as we're today selling to only a few customers that also has an impact on the way our -- the revenues are based and in a way kind of certain weakness with one customer or big customer could definitely impact kind of the quarterly performance.
+But I would say that as we're acquiring today many more customers on the SmartHome frontier, so we will start having a much more diversified portfolio of customers that will help us in terms of kind of seeing perhaps seasonal trend in the future.
+But for now, I would say that beyond kind of the certain hiccups of last year having sold into a major operator in the first half of the year, this is, of course, kind of impacting the comps also in the first half of this year.
+And I would say that once we roll out this new service provider, we will have a lot more product shipping, and I think that, that will kind of help us with respect to seeing kind of a more kind of gradual increase also going into next year.
+So I hope that color's helpful.
+It was great to hear about the service provider win in Europe.
+So I wonder, <UNK>, maybe if you could just offer some comments around what you're seeing in terms of adoption of ULE.
+What seem to be the drivers.
+Where it is being adopted and what seems to be the gating factor where it's not being adopted right now.
+And then maybe just the overall addressable market as you see it.
+And then I've got a follow-up.
+Sure.
+Thanks, Charlie.
+Thanks for the question.
+And so with respect to what we seen in SmartHome services, so we say when we first built our DHX portfolio of DECT ULE product, the main consideration was just connectivity and the battle was around interference reband, better range, cost of the total solution, et cetera.
+And for that we thought that, ULE had some kind of fairly interesting characteristics, such as the best range in the industry.
+It is known kind of ISM.
+It is a licensed spectrum and in a way kind of offers a collision-free spectrum, which we believe is vital and of the utmost importance, especially when we're speaking about devices that are pretty much passive.
+This is not a device that you hold in the palm of your hand and control, but rather this is a device that is hooked to a ceiling or a wall and it's supposed to kind of generate sense and generate data.
+So this was the trend line that we saw about 5 years ago.
+When we entered the domain, I would say that for the first selection and maybe even for the second selection, these are still kind of the key criterias, and this is kind of the battle of the standards, if you will, between ULE and proprietary stand.
+There are Zigbee, Z-Wave, other kind of short-range wireless.
+But as we cross 2019 and when we see that SmartHome services is really not just about the connectivity and just about trafficking data, it's really about creating an infrastructure that will enable all kinds of modalities to pass over the air, guaranteeing kind of the range, the interference free, the ability to do in addition to data, voice sensing, voice control automation, visual sensing, video communication or streaming, audio streaming, et cetera, et cetera.
+And we believe that a lot of these devices that are today sold as like a door magnet or a smoke detector are actually going to integrate a lot more feature and functionality to make them much more powerful with respect to their detection and their ability to actually make decisions or actually open additional channels, not just a data channel.
+And all of that bodes very, very well for what we have to offer with ULE and in addition to that, as you also kind of heard from my prepared comments with SmartVoice.
+So that combination is today driving a lot of interest across Europe and also right now overseas.
+Great.
+And then, as I recall at CES, you guys demonstrated a module for SmartVoice that offered a very low cost potential end product.
+I wonder if you could give us an update on that product in terms of the level of interest and any adoption that you may be seeing.
+Yes, sure.
+So I think you're referring to a reference design that we showed that combined both SmartVoice and ULE.
+So ULE as the connectivity, but SmartVoice as voice sensing.
+And this product today is in a proof-of-concept stage to evaluation phase with a number of leading OEMs both in the U.<UNK> and also in Europe, mainly in the service provider market, but not just -- and we see a very good potential for that -- for these type of devices.
+We believe that they are creating a new market vertical for a smart assistant that are battery powered, that are fully portable, that give you full home coverage that are not today dependent on kind of the WiFi coverage or the WiFi spectrum that is available to add another device at home, but rather enjoy all the ingredients that we can provide by ULE, which is -- was created for this type of voice and audio transaction.
+So we do see a very strong potential and right now it is in POC and evaluation phases with a number of Tier-1, very large Tier-1 customers or service providers.
+Suji, thanks for the question.
+So with respect to the size of the telco, I would say it's of similar size to the one that we won last year.
+And we believe that here the same characteristics will apply.
+The ability to actually serve SmartHome services via a broadband gateways that basically incorporate today our technology and the ability to add a variety of different sensors and actuators and do all of that.
+It's fairly low cost of deployment and self-install without the ability of any installer.
+So all of that, we believe, in the future will reduce significantly the cost of deployment.
+And to that part, will make these services available for consumers at much lower cost and we believe that together with additional value-added services like I mentioned before, could really create kind of the killer app and have all the stimulus for much wider consumer adoption.
+This is correct.
+Yes.
+So sure -- so on the SmartVoice segment, we're talking about designs outside of the smartphone.
+So we're seeing like solid traction on the tablet front.
+We're seeing solid traction on the hearable front, smart speaker sound bars.
+These are the areas.
+And as I've said before, so on the kind of IoT, so the combination of connectivity and smart assistant.
+So on all of these front, we are seeing a good traction.
+And I would say that perhaps as we kind of go along into kind of next year, we're probably also going to see some interest coming from kind of the automotive market at the beginning, maybe mainly in the aftermarket product.
+Thank you.
+During the second quarter, DSP Group will participate in the Jefferies Technology Conference on May 9, in Beverly Hills and in the Cowen TMT Conference on May 30, in New York.
+Thank you for dialing into the call today.

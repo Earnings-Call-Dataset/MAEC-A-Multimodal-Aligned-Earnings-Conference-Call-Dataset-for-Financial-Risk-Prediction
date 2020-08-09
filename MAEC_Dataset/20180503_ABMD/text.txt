@@ -1,0 +1,123 @@
+Good day, ladies and gentleman, and welcome to the Fourth Quarter Fiscal Year 2018 Abiomed, Inc.
+Earnings Conference Call.
+(Operator Instructions) As a reminder, this call is being recorded.
+I would now like to introduce your host for today's conference, <UNK> <UNK>, Director of Investor Relations.
+Please go ahead, ma'am.
+Good morning, and welcome to Abiomed's Fourth Quarter of Fiscal 2018 Earnings Conference Call.
+This is <UNK> <UNK>, Director of Investor Relations for Abiomed.
+And I'm here with Mike <UNK>, Abiomed's Chairman, President and Chief Executive Officer; and <UNK> <UNK>, Vice President and Chief Financial Officer.
+The format for today's call will be as follows: first, Mike <UNK> will discuss strategic highlights from the fourth fiscal quarter and then turn to our key operational and strategic objectives; next, <UNK> Trap will provide details on financial results outlined in today's press release.
+We will then open the call for your questions.
+Before we begin, I would like to remind everyone that this presentation includes forward-looking statements about the company's progress relating to clinical, regulatory and commercial matters as well as government regulation, litigation matters, capital and other expenditures and financial performance.
+Each forward-looking statement contained in this presentation is subject to risks and uncertainties that could cause actual results to differ materially from those projected in such statements.
+Additional information regarding these risks and uncertainties appears under the heading Forward-Looking Statements in the press release we issued this morning, our annual report on Form 10-K in the year ended March 31, 2017, and our most recently filed quarterly report on Form 10-Q.
+The forward-looking statements in this presentation speak only as of the date of this presentation, and we undertake no obligation to update or revise any of these statements.
+Thank you for joining us.
+I am now pleased to introduce Abiomed's Chairman, President and Chief Executive Officer, Mike <UNK>.
+<UNK>, the information you're referring to is -- lead author is <UNK> Flaherty, it was published in the Journal of Circulation Research in 2017, it has 230 patients and what it shows is that the use of Impella for low EF patients significantly reduced the risk of AKI acute injury, for Impella, it was 5.2 and the for the control arm, it was 28%.
+Impella also significantly reduced the risk of dialysis, which is, increases mortality, length of stay and cost.
+So the answer is, yes.
+We do have more extensive research that will be coming out over the next 2 to 3 years.
+And what we believe is happening, is the forward flow driving more blood flow to the kidneys, has a hormonal benefit, it increases urine production and it allows the kidneys to remove impurities in the blood.
+One of the Achilles heels of all of PCI and now also TAVR is acute kidney injury, because of the contrast, because of the stress to the heart and what the kidneys can do is sometimes shut down.
+So you'll be seeing, over the next 3 years, a lot of publications around the research, the basic science, but also you'll be seeing this in patients and studies that are happening both in Europe and the U.S. in the future.
+Sure, Raj, there's 2 big questions.
+So first on new EF.
+The patient population, if there are already surgical turndown and they have everything I described about comorbidities or complex anatomy or severe coronary disease, they don't have the option to go to surgery if something goes wrong.
+And we do think it will have an impact, and I think it will have an impact also in identifying patients that just do better with hemodynamic support.
+So it allows them to do longer inflations, potentially atherectomy, potentially reduce acute kidney injury, so we do think it will have an impact, and we're watching it as it goes out and it takes time for this information to filter.
+The second question on the reimbursement.
+What's happened is, CMS has now created a dedicated code for percutaneous heart pumps, it is now cath lab only patients as well as the ICU emergency patients, are all in DRG 215.
+They maintained the focus on biventricular support and they also gave -- permanently created a DRG for biventricular Impella.
+So we think the simplicity of having everything together will be beneficial, but we'll watch it and make sure that we have appropriate use and appropriate reimbursement.
+When they do the analysis, that is being proposed and potentially can take effect next October.
+They are usually looking at a subset of data that's 2 years old, and that data may or may not have the most recent trends of more emergency patients than elective patients.
+But the nice thing about the process is one, if a hospital gets better outcomes (technical difficulty) ensure that the hospitals can do the right things for the patient, and have a win-win for both the system itself with heart recovery, but also for patients that they can avoid having to go down the cascade of more surgeries and potentially a transplant.
+As the way this system works is.
+As the costs or the patients get sicker and the cost goes up, reimbursement goes up, and what we try to do is bring those costs down by reducing length of stay and readmissions and additional resources.
+So as the balance goes, we work with it, but just to remind all our investors, 3 years ago, we were being paid at a lower rate for a mix between DRG 216 and 221, the coding was difficult, we did not have biventricular support with Impella.
+There essentially was no additional support, and many of the hospitals per transfer would not receive any reimbursement for patient management in explant of Impella.
+So we now have a dedicated system, we now have approval of essentially, an extensive array for elective urgent and emergent indications from the FDA, and now it's up to us to continue to execute and partner with our hospitals to get better outcomes.
+It is possible, I'll answer the last question first.
+It's possible for the DTU, it depends on how fast we can close out here, but we're potentially planning for that, it may be a little after, but that's the -- that's what we're looking to do and we're excited to look at the data.
+This is a epic study, because this is what we believe can impact the epidemic growth of heart failure.
+To remind our investors of today's standard of care for patients having heart attacks without shock, within 5 years 70% have heart failure and 40% die.
+So we think that helping to protect and do work with the heart muscle will have a profound impact on preventing future heart failure patients.
+So that -- we're very excited about that.
+We're looking forward to getting into the feasibility.
+Now we do have a lot of work ahead of us, we have to make sure that the feasibility is successful.
+We have to work with the FDA to design the pivotal study, and we have to do it the right way, and that's going to take time.
+So that's what we're working on, but we're very focused and excited about looking at that and analyzing that data.
+On the question on the 5.5, we are launching it under a controlled method in Germany this year.
+We have selected German hospitals that have established heart recovery protocols.
+And we'll give more details on the U.S. timeline in the future, but again it's not approved in the U.S. When we collect the data, we'll be working with the FDA to talk to them about how we'll enter the U.S. market, but we will definitely be studying it and collecting data initially at all our cVAD Registry sites, so that's the plan.
+On ECP, it'll also happen late midsummer timeframe as we've talked about.
+And we'll give more details on that as we move forward.
+Question on R&D spend as it relates to your 2019 guidance.
+You mentioned the STEMI program is well ahead of schedule there and wanted to maybe get some context, as to how we should think about the investment they're ramping into '19.
+Are there -- now that you've got, sort of, ahead-of-schedule timeline, should we assume follow-up works for us to get pulled forward.
+So I just want to make sure I get that properly dealt into the 2019 expense line items.
+Sure, <UNK>, we expect to finish here, as I said mid- to late summer.
+We'll have to collect the 30 days MRI images and analyze the data, which means we're going to be submitting that information to the FDA, probably around the end of our fiscal year.
+In the back half, we'll start designing the pivotal study, again, if the feasibility study is successful.
+Which means, we'll be getting into next year, the next fiscal year to line up our randomized larger pivotal study, and we'll be able to give you the details of that study moving forward.
+I -- you don't need to plan for anything more extensive than what is currently in closing out the feasibility study.
+Matt, this is our sustainable growth target and I think it probably is one of the highest in all the med tech, if not the highest.
+And so we want to make sure its sustainable growth and we're continuing to improve outcomes.
+We are replacing technology that's been around for 40 years, and we're going for the global standard of care.
+If you look at last year, we gave a range of 25% to 29%, and this year we're giving a range of 25% to 30%.
+So we're actually increasing the top line forecast, we're definitely increasing the net increase in revenue.
+And we're also maintaining this best in growth rate at a higher base and we're doing it while improving operating margin.
+So again, it's sustainable growth it's strategic, but we have to continue to improve outcomes and go at the right pace to have that -- the success we want, which is to achieve the best outcomes for patients.
+So Jason, on the first part, you mean Germany specific or overall.
+Germany.
+So the growth in Germany is a function of ausbildung, daten and zeit, which is training, data and time in German.
+And it's -- what's happening is, as you mentioned, we grew 95% in the quarter, you have a couple of factors.
+So that's been very beneficial to have physicians come in where we go through hemodynamic science best practices.
+We've also seen an increase in the mix of increase in high-risk PCI.
+Years ago, Germany was 95% shock patients and now we have high-risk PCI growing.
+The third is that it just continued reinforcement, that in Germany, the intra-aortic balloon pump is a Class III for cardiogenic shock, which means that it's harmful for patients.
+And then we're now active with over 200 hospitals and there are 600 to go in Germany, so we're making progress in opening new centers with our added distribution.
+And as we do that, we'll continue to grow both indications, but also -- we'll go deeper in new site and that drives strong growth itself.
+Your question on the 5.5, the answer is that it's a little bit of cannibalization, because it will replace completely the 5.0, but because it's longer term the CE mark is for 30 days, because its peak flow is above 6 liters, it will have an optical sensor because patients can get up and ambulate.
+There is a lot of interest in new science of unloading, we will match the Impella use, things with stem cells or immunosuppressant drugs, but there is no question that when you put the 5.5 in a patient, it completely unloads them, their kidneys make urine, patients feel better, and they can get up and move around because it's designed for the axillary implant and it avoids the sternotomy.
+So we're very excited.
+We're going to go slow and steady, we're going to collect data to publish, and we're going to work with the FDA early so they understand how this product will replace the Impella 5.0.
+Margaret, we've always believed and stated that cardiogenic shock adoption would take time, and we mentioned that on the first call, when we got approval.
+And it -- the reason is just because it requires a heart team, and it requires an approach and an implementation of best practices, so that takes a group of people.
+One of the things that's very rewarding for us is the Detroit CSI program, Cardiogenic Shock Initiative is now national.
+It's independent of Abiomed, and it's kind of a call-to-arms by physicians to enable not only the Impella, but better processes of putting the Impella in before the PCI, using a catheter to monitor the patient.
+And we just had a recent publication showing that the Impella CP has a even higher survival effect over the Impella 2.5.
+So there is lots of information in there, we love seeing the improvement in outcomes.
+And we really enjoy meeting these patients and seeing them having the ability to go home with their own hearts.
+So it's working well, it's growing.
+But again, the key to success and sustainable growth is getting these improving outcomes and native heart recovery.
+<UNK>, thanks for the question.
+The current DTU study are patients that are not having cardiogenic shock, so we do not treat any of them today.
+The thesis that we're testing is not just the unloading benefits of Impella, where it takes the work demand and reduces the oxygen demand for the heart, it's the -- and there is a publication on this thesis.
+It's that the unloading of Impella preconditions the myocardium, so when the patient is revascularized, where they open up the blockage, that, that preconditioning of Impella will reduce the reperfusion injury that happens in the normal process and standard of care today, where they try to open the clogged artery within 90 minutes.
+And reperfusion injury results from that solution, because what happens is there is a process called apoptosis, which is programmed cell death, and that's why patients today that survive heart attacks, again, the average is -- the statistics are that 70% of these patients that survive their first heart attack will suffer from heart failure in 5 years.
+So we think that this has really a huge impact in looking at the way STEMI patients are treated.
+If it is not successful, it does not change the fact that Impella is proven to reduce the oxygen demand, it doesn't -- it's been proven to help increase coronary -- cardiac power, it reduced acute kidney injury and multiple other benefits that we've already studied with the FD<UNK>
+What's unique about this again though is, it's new science on what unloading does in preconditioning and helping to reduce reperfusion injury.
+Thanks for the question, Chris.
+As we mentioned it's going to be around $10 million in revenue for this fiscal year, should be around $16 million in expenses.
+I believe we have about 40 employees currently in Japan.
+We have our office there, and we also have a training center set up in Tokyo.
+We're going to kick off a meeting in May, which will be basically hemodynamic training course for our current users as well as the next generation -- or the next group of hospitals that will be getting Impella.
+We're planning for another 30, this coming fiscal year, and again, as you mentioned, we're planning on going deeper to get -- again get great outcomes and show the benefits of native heart recovery in a country that really doesn't have transplants or do LVADs or prefer -- and prefers not to do sternotomies.
+One note that is important, that just happened in Japan, is the Japanese Society Guidelines just came out with a classification, and they have downgraded the intra-aortic balloon pump to Class III in cardiogenic shock, which again Class III means, it's potentially harmful to patients and is not recommended.
+So, we're glad to see that, that guideline has been updated and we're very excited again to bring our best practices to Japan to drive native heart recovery as a standard of care.
+And we'll give more updates as we go, but again, we think that the Japan is the second largest market opportunity in the world and is custom designed to our mission of recovering hearts.
+So the question is, just clarify is on, how many people use, I would say, you have to then look at which population you're talking about.
+If you're looking at interventional cardiologist, where that's our primary user, I would say, we have usually 3 to 5 champions at each center, 60% sounds a little high to me, relative to how many interventional cardiologists are there, and we're seeing that broadly increase, as we're doing training centers and programs on access and closure.
+There's a lot of physicians that are a little bit nervous to close a 12-French or 14-French hole.
+So, I would say, it's not 60% for interventional cardiologists yet.
+You also have multiple indications, so you may have an interventional cardiologist using it for high-risk PCI, but not for shock or vice versa.
+For surgeons, we have only penetrated about half the market with the 5.0, so the 5.0 has got a long way to go and again, we think the 5.5 will replace that and we'll be at all 1,000 heart hospitals in the U.S. alone.
+In the RP we're only 19% penetrated in the install base.
+So we have essentially, many years ahead of new doctors, new indications and new products into all the existing U.S. hospitals in our current install base.
+So we're very excited, but again as we train people, we train to get the best outcomes both for high-risk PCI and for cardiogenic shock.
+Thank you, everyone, for your time today, and we appreciate your support for last fiscal year.
+If you have any follow-up questions, please feel free to reach out directly.
+Have a great day.

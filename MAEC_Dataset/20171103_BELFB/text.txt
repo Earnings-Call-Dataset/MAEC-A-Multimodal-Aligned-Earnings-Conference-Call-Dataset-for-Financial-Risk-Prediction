@@ -1,0 +1,131 @@
+Thank you, [April].
+Joining me on the call today is <UNK> <UNK>, our Vice President of Finance; and <UNK> <UNK>, our Director of Financial Reporting.
+Before we begin the call I'd like <UNK> to go over the safe harbor statement.
+<UNK>.
+Thank you, <UNK>.
+Before going through the financials, I would like to provide a brief update on how the businesses did from an operation standpoint this quarter, and how we see things going forward.
+Overall, we are pleased with the year-over-year growth with our Connectivity Solutions and Magnetic Solution product groups this quarter, which allowed us to maintain a strong gross profit margin on slightly lower consolidated sales.
+On a consolidated basis, our backlog at the end of the third quarter was $144 million, which is up 20% compared to the same time last year.
+Revenue of Connectivity Solutions grew up almost 3% in the third quarter compared to last year, despite a $1.3 million decline in passive connectors sales.
+The growth was led by Cinch sales to the military and aerospace markets, as well as sales growth within our distribution channels.
+Our Connector products continue to find applications in the U.S. defense program, such as Joint Strike Fighter and the Patriot Missile.
+With anticipated increase in military spend in 2018, we see this segment as an area growth in future periods.
+On the commercial aerospace side, where the major customers has recently increased the aircraft build rates and we strengthened the revenue stream in this market for us.
+With our connectivity distribution channels increased order volumes through our catalog distribution in recent quarters has translated into growth with our broad line distributors in the third quarter.
+A healthy flow of orders booked during the quarter, at least this grew well positioned as we enter the fourth quarter.
+Sales in our Magnetic group increased by 6.2% from last year's third quarter reaching a new 2-year high quarterly sales.
+This was due in a large part to a new product introduction at one of our large OEM customers earlier this year.
+We continue to be a share leader for our integrated connector modules and are actively participating in opportunities with new ICM development and products with major customers.
+Within our Power Solutions and Protection Group, continue year-over-year declines in the acquired Power Solution business have overshadowed positive growth that we've seen in other areas.
+AC to DC converter sales at our Power group in Italy were up $1.7 million in the third quarter compared to last year, and also has been steady growth within our circuit protection group for 4 consecutive quarters, as they gain traction in our distribution channels.
+If you recall, we sold our Network Power Solutions business in 2015 for $9 million and has since been operating under a manufacturing service agreement, as this service agreement comes to an end, we continue to see year-over-year sales decline related to this product line as further detailed in our press release.
+However, this should have no -- however, this should have a positive effect on our gross margins.
+Our Power Solutions business had many recent design wins, but currently it remains challenging at the top line.
+It's difficult to predict the timing of when these products will move into production.
+In the meantime, we are faced with evaluating our core structure as low level revenues, while being mindful of the future anticipated sales growth.
+Today, we have implementing measures that result [analyze] core savings to approximately $1 million.
+We are confident that we are taking appropriate steps within the Power Solution business, which enable this group to improve its conditions to our bottom line, while remaining well position for future growth.
+As we approach 2018, we are encouraged by a healthy backlog and positive book-to-bill ratio for our major product lines and we'll continue our efforts to build up our pipeline on future sales.
+And with that, I'd like to turn the call over to <UNK> to go over the financials.
+<UNK>.
+Thanks, Dan.
+Starting with sales, our third quarter net sales were $126.4 million, down 1.9% from the third quarter of 2016.
+On product basis, sales of our Connectivity Solutions products were $42.8 million in the third quarter of 2017, an increase of 2.8% as compared to the third quarter of 2016.
+Sales of our Power Solutions and Protection products were $39.5 million in the third quarter of 2017, a decrease of 13.5% as compared with the third quarter of 2016.
+Sales of Magnetic Solutions products were $44 million in the third quarter of 2017, an increase of 6.2% as compared with the third quarter of 2016.
+On a regional basis, sales in Europe increased $2.6 million or 14.3% in the third quarter of 2017 as compared with the same quarter of last year.
+Sales in North America were down by $3.8 million or 6%, and sales in Asia were lower by $1.3 million or 2.7%.
+Gross profit margin increased to 21.9% in the third quarter of 2017 as compared with 20.6% in the third quarter of 2016, due to several factors.
+The shift in product mix towards higher margin connector and magnetic products had a favorable impact on our margins during the third quarter of 2017.
+We also recognized a $500,000 gain on the sale of our interest in a Chinese joint venture during the third quarter, which had a favorable impact on our gross margin.
+Our selling, general and administrative expenses were $20.9 million or 16.5% of sales as compared with $19.4 million or 15% of sales on the third quarter of 2016.
+The $1.5 million increase in SG&A costs from last year's third quarter resulted from several factors.
+We incurred $400,000 in consulting cost related to our ERP implementation in the third quarter of 2017, and legal and professional fees were $600,000 higher due to the timing of our annual audit work and consulting activities incurred later -- incurred related to the implementation of a new revenue recognition standard.
+Foreign exchange losses in the third quarter of 2017 were just under $600,000 up from $200,000 the same quarter last year.
+Lastly, the shift in product mix resulted in higher overall sales commissions, as commissions vary by product group.
+On a go-forward basis, we would expect SG&A to run between $20 million and $21 million per quarter in the near term [barring] any significant fluctuations in foreign currencies.
+As a result of these factors, we generated income from operations of $6.5 million in the third quarter of 2017 as compared to $9.3 million in the third quarter of 2016.
+Income from operations in the third quarter of 2016 included a $2.1 million gain on the sale of property in Hong Kong, which had a favorable effect on last year's operating income.
+Interest expense was $1.5 million in the third quarter of 2017, down slightly from the same period last year to a lower debt balance in 2017, partially offset by an increase in interest rates.
+Our effective tax rate for the third quarter of 2017 was a provision of 1.2% compared to a benefit of 21.2% during last year's third quarter.
+The change in effective tax rate was primarily attributable to higher foreign taxes compared to the prior year.
+In 2016, we were able to utilize NOL carryforwards that had valuation allowances on them.
+There was also an increase in accruals related to uncertain tax position in the third quarter of 2017 as compared to the same period of 2016.
+Earnings per share for Class A common shares was $0.40 per share in the third quarter of 2017 as compared with $0.78 per share in the third quarter of 2016.
+Earnings per share of a Class B common shares was $0.42 per share in the third quarter of 2017 as compared with $0.82 per share in the third quarter of 2016.
+On a non-GAAP basis, which excludes certain unusual or other non-recurring items, EPS for Class A shares was $0.42 per share in the third quarter of 2017 as compared with $0.63 per share in the third quarter of 2016.
+On a non-GAAP basis, EPS for Class B shares was $0.44 per share in the third quarter of 2017 as compared with $0.66 per share in the third quarter of 2016.
+And now, I'd like to go through some balance sheet and cash flow items.
+Our cash and cash equivalents balance at September 30, 2017 was $62.1 million, a decrease of $11.3 million from December 31, 2016.
+During the first 9 months of 2017, we've made net payments of $21.2 million towards our outstanding debt balance.
+We also used cash for capital expenditures of $3.8 million, dividend payments of $2.3 million and interest payments of $3.5 million.
+Accounts receivable was $83.6 million at September 30, 2017 as compared with $74.4 million at December 31, 2016.
+Days sales outstanding increased to 60 days at September 30, 2017.
+The increase in our cash receivable balance was largely due to higher sales volume in the third quarter of 2017 as compared to the fourth quarter of 2016.
+The increase in DSO was primarily a function of higher sales in our Asia segment in the third quarter of 2017 where payment terms are longer than our other regions.
+Inventories were $104.5 million at September 30, 2017, up $5.7 million from December 31, 2016.
+The increase was seen mostly work in progress and finished goods to accommodate the increase in bookings during 2017.
+Accounts payable was $45.5 million at September 30, 2017, down $1.7 million from December 31, 2016 due to timing of payments.
+Bel's total outstanding debt as of September 30, 2017 was $122.6 million excluding deferred financing costs.
+This represents a net decrease of $21.2 million from our year-end debt level.
+Book value per share, which is calculated as stockholders' equity divided by our combined A and B classes of stock, was $14.80 per share at September 30, 2017, up from $13.17 per share at December 31, 2016.
+And now, let's turn the call back to Dan and open the call for questions.
+Dan.
+Hey, [April], can you please open up the call for questions.
+Okay.
+I think about your point, we are extremely disappointed since the acquisition of the sales of the Power group.
+And historically, we thought we have this thing uptick 18 months ago, and we haven't been able to do it.
+And every time we think we've got a one step forward, we get two steps back either from a quality problem or a design push out, so at this point, we just are taking a very -- we will say pessimistic view than more of a latency view.
+Our focus has been in the data centers going forward, our focus has been on HEV and industrial, and we see some nice in-roads.
+Again, one of our major customers, which we thought we can have a run rate of $4 million a quarter, just incurred a quality problem.
+So now again [dinged] on that.
+We don't know when that's going to be back up and running.
+So at this point in time, we realized that we had to cut back, get the cost in line.
+We took out another [$1] million of cost this quarter.
+However, really not touching the R&D centers we have throughout the world.
+But I feel like when it comes to Power [the boy that cried wolf].
+So until we really get some positive signs from more than 3 or 4 customers, I think at this time, we're just going to be wait and see.
+The quality issue was tied to us and it was a software glitch.
+Hey, <UNK>, our sales are so low, it's not going to take too much to move the needle.
+You know what I'm saying.
+So again, we have projects now -- some of these projects could be -- it could be $8 million or $10 million in a year.
+But again, it will be nothing.
+Again, you look at -- people that building their own data centers, like in Amazon or Google or Facebook, they probably all spending about $40 million or $50 million on power supplies in a year.
+Now, if we can tap into that market, you're talking again $5 million or $10 million.
+So there is some big opportunities, we're working on.
+And the [Modular] group were working on an opportunity in the lighting that just got released -- [people used to run that].
+So yes, there is a lot of these products are not singles alone, it could be doubles and triples.
+Well.
+The problem was we had Stewart Connector, which is a passive connector group that really supports in housing market and there has been consolidation of 2 major customers, and we lost a good chunk of business there about $4 million, $5 million.
+However, when we look at Cinch to military aerospace side of it, that's very strong.
+And so, in this last quarter, we've done a great job with the military and we still haven't seen the upsurge and what Boeing is predicting out there.
+Boeing [slightly] go from 42 -- 737's up to 52, and we have a good portion of the connector business on the 737's.
+So that's why we are very optimistic and we see strong growth in that area.
+But on the Stewart side we get [dinged] on that.
+So maybe we should move Stewart over to the downside.
+Again, it's just that the Stewart [connector] sales affecting the positive sales in the military, aerospace and so forth.
+<UNK>, you would add something.
+And I think -- on the military side of things, military specifically I think we are seeing increases in the volumes of the releases of certain programs that we're involved in, so we are fairly optimistic that the military side of that business will grow a bit in the next few quarters.
+But <UNK>, what's the problem with the military, it's very -- the way they book orders, the way they ship orders really it's -- whether or not (inaudible) that might drive a reason, when these programs (inaudible) when they shipped.
+So for example we have one sales -- we had 300% growth for the quarter in sales, but a net of 300 bookings.
+So you just, it's very difficult to really get a hand on how these programs come and when they shipped and so forth.
+While most of our other product -- non military is a lot easier to come up with better projections about things move forward.
+I think again -- that I'm happy, because we are still very profitable in my eyes, we're still making good profits.
+Again, when I think this company is really going to take off is when we can get consistent sales growth out of the Power group.
+And once we can do that, if and when we can do that then I mean dancing in the streets until then there's a battle for us to get what we want to have to be.
+Judgment of the inventory for our major OEM customers, they kind of get inventory as low as possible during the fourth quarter.
+Over the next couple of quarters we project it to be about $2 million.
+And that's just really have one business that we're manufacturing for a company that we spun-off the group from.
+Okay.
+So the NPS on a year-on-year basis we know that, that's kind of working down and moving away, but on a quarter-on-quarter basis, marginally down shouldn't be necessarily all that disruptive at least coming off of where the September results were.
+Thanks, <UNK>.
+These sales level, <UNK>, I'm not sure it's going to move much.
+I mean, the mix element will be the driver, if we see our (inaudible) sales outpaced for Magnetic sales, then you might see a little uptick, but it's not going to move that much at these levels.
+I think it's true, because the material costs for power supply is substantially greater than anything else we're manufacturing.
+Yeah.
+I think that's true, <UNK>.
+You'll see the margin percentage probably go down a little bit, but obviously will be absorbing fixed costs on the increased volumes.
+So I think you've seen the overall percentage go, but the dollars will improve.
+I think that's fair.
+Yes.
+Thank you and appreciate everybody joining the call, and hope you have a nice weekend.

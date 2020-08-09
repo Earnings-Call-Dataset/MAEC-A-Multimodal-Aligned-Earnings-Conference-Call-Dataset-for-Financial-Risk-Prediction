@@ -1,0 +1,130 @@
+Thank you, <UNK>, and hello to everyone on the call
+I'll start on slide 12, where I'll take you through our first quarter results
+As you can see, we clearly continued the momentum we had coming out of 2016. While Q4 had strong revenue growth of 7%, 8% adjusting for FX, and adjusted EPS growth of 23% year-over-year, Q1 is even stronger
+Let me take you through the numbers
+In Q1 we delivered an 8% increase in revenue, driven primarily by a 6% increase in recurring subscription revenue and an 18% increase in asset-based fee revenue
+Excluding the impact of foreign currency exchange rate fluctuations, total operating revenues increased 9%
+As a reminder, we do not provide the impact of foreign currency fluctuations on our asset-based fees tied to average AUM
+This is substantially billed and booked in U.S
+dollars; however, approximately two-thirds of the underlying assets are invested in securities denominated in currencies other than the U.S
+On a reported basis, operating expenses and adjusted EBITDA expenses increased by 3% each
+Excluding the impact of foreign currency exchange rate fluctuations, first quarter operating expenses and adjusted EBITDA expenses increased 4.8% and 5.3%, respectively
+The primary currency move that drove this benefit was the British pound, which was substantially weaker year-over-year
+We delivered a 15% increase in operating income and a 13% increase in adjusted EBITDA, resulting in a 280 basis point increase in our operating margin and a 220 basis point increase in our adjusted EBITDA margin to 50%
+Our effective tax rate was 28.2%, below the 33.5% effective tax rate in the prior year Q1. Diluted EPS and adjusted EPS increased 33% and 29%, respectively
+Q1 free cash flow was $27.4 million, a decrease of $4 million
+This was driven by higher cash operating expenses, higher interest payments of $11.5 million associated with higher debt levels, and higher CapEx of $4.2 million, primarily related to our data centers
+These factors were partially offset by higher cash collections of $37 million
+As we mentioned in our Q4 earnings call, we saw very strong customer collections in Q4 2016, with some clients paying early, which resulted in the bringing forward (23:36) of about $20 million in collections into 2016, which would've normally been collected in Q1, thus dampening free cash flow in this quarter
+In summary, this was another very good quarter coming off 2016, which was a banner year for the company
+We're continuing to execute our strategy, which is resulting in strong top-line growth
+We have very high levels of client retention, 95% across the company, and we're focused on continuing to deliver productivity and efficiency gains to free up more capital to invest and we're exercising very strong discipline in the deployment of that capital
+On slide 13, you can see the different drivers of EPS growth in Q1. Adjusted EPS increased $0.20, or 29%, from $0.68 per share to $0.88 per share
+Strong revenue growth contributed $0.17 per share
+Investments, net of efficiencies in our product segments and operations, reduced earnings by $0.06. And capital optimization, specifically share repurchases, also benefited EPS
+We reduced our average weighted diluted share count by 8%, which benefited adjusted EPS by $0.07, partially offset by higher net interest expense resulting in a net $0.03 per share benefit
+The positive impact of share-based compensation excess tax benefits and the ongoing progress in better aligning our tax profile with our operating footprint, as well as additional discrete tax items resulted in a lower effective tax rate in the quarter, which benefited earnings by $0.06 per share
+The positive impact of stock-based compensation excess tax benefits totaled $3.1 million in the quarter at $0.03, and reflects the required accounting change effective Q1 2017 on a prospective basis
+Now let's turn to the segment results
+We'll begin with the Index segment on slides 14 through 16. Revenues for Index increased 13%, driven primarily by an 18% increase in asset-based fee revenue and a 9% increase in recurring subscriptions
+We saw growth in core products, as well as our newer products, including factor, thematic and custom index products and usage fees
+Quarterly sales of $19 million increased 11%, and were driven by recurring subscription sales of $14 million
+The increase reflects our ongoing success in capturing the waves of innovation in the market such as strong demand for factor modules, as well as increasing demand for ESG
+Aggregate retention rate remained high at approximately 97% in the quarter compared to 96% in the prior year
+Index run rate grew by $81 million or 14% compared to March 31, 2016. This was driven by a $42 million or 21% increase in asset-based fee run rate and a $39 million or a 10% increase in subscription run rate
+We're continuing our track record of growth
+This was the 13th consecutive quarter of year-over-year double-digit growth in our Index subscription run rate
+The adjusted EBITDA margin for Index was 70.8% this quarter versus 69.2% in Q1 2016. The impact of FX on Index results was not significant
+In summary, this was a very strong performance for the Index product line, driven by strength in core product areas as well as a strong contribution from our newer Index product areas reflecting the benefit of the investments that we have made and continue to make
+This is a great start to the year
+Turning to slide 15 you have detail on our asset-based fees
+Starting with the upper left chart, overall asset-based fees increased $9 million or 18% over Q1 2016, driven by a $7 million or 21% increase in revenue from ETF linked to MSCI indexes and a 28% increase in average AUM and a $2 million or 13% increase in revenue from non-ETF passive funds
+The decline in our non-ETF passive product compared to the fourth quarter was principally due to higher revenue accrual true-up in initial fund fees in Q4 of $1.1 million
+So it can be lumpy from quarter-to-quarter
+Also, unlike ETFs, where the latest AUM is available daily to public market data sources, non-ETF passive assets are not public and are reported by our clients to us generally on a one-quarter lag
+As a result, the first quarter market appreciation which we saw for ETFs is not yet reflected in the non-ETF path product results
+Turning to the upper right chart, we ended the first quarter with approximately $556 billion in period-end ETF AUM linked to MSCI indexes, driven by both cash inflows of $38.5 billion and market appreciation of $36 billion for the quarter
+Cash inflows of $38.5 billion into ETF linked to MSCI indexes represented 26% of the cash inflows into the equity ETF market for the quarter
+Since the end of the quarter and through May 2, ETF AUM linked to MSCI indexes has further increased to $581 billion, driven by $11 billion in inflows and $14 billion in market appreciation, another all-time high
+As shown in the lower left chart, quarter-end AUM by market exposure of ETFs linked to MSCI indexes reflected our strength in developed markets ex-U.S
+where we captured 30% of the equity ETF inflows and in emerging markets where ETFs linked to our indexes captured 84% of the equity ETF inflows, further solidifying our position as a leading provider of indexes to ETF providers
+Lastly, on the lower right chart, you can see the average run rate basis point fee at 3.08, which has basically leveled off over the last four quarters
+I'd explain the year-over-year decline in basis point fee in more detail on the next slide
+On slide 16, we provide you with the asset-based fee run rate related to ETFs, as well as the AUM of ETFs linked to our indexes classified in three distinct categories, illustrating a differentiated index licensing strategy
+In the upper half of the chart, we highlight the growth of our asset-based fee run rate, specifically related to ETFs linked to MSCI indexes
+Year-over-year, our run rate increased 21%, driven by strong inflows as well as market appreciation, which drove a 28% increase in average ETF AUM linked to our indexes
+The difference between the 21% growth in run rate compared to the 28% increase in average AUM was driven principally by the product mix, as shown in the lower half of the chart
+Turning now to the lower half of the chart, you can see how we think about our ETF licensing strategy
+This strategy is designed to further expand our index licensing franchise for the ETF market beyond our flagship indexes, increasing the adoption of new Index Families and U.S
+segment index families
+Year-over-year, the flagship Index Families' total AUM decreased to 71% of total AUM linked to MSCI indexes from 75% in the prior year first quarter
+The new Index Families continue to grow at a faster pace, specifically driven by flows into core and U.S
+factor products
+For new Index Families, AUM increased 14% of total AUM from 10% in the prior year first quarter
+The faster growth in the lower fee ETF linked to our indexes was a primary driver of the year-over-year decline in the average basis point fee from 3.24 to 3.08. While we expect to have periods where product mix will impact the average fee we earn, through our differentiated licensing strategy, we're seeking to maximize revenue and optimize the price volume trade-off over the long-term
+On slide 17, we highlight the financials for the Analytics segment
+Revenues for Analytics increased 2% to $112 million
+Excluding the impact of FX, Analytics revenue increased 3.3%
+The increase in revenue was primarily driven by higher equity model revenue
+Analytics run rate at March 31 grew by $10 million or 2% to $457 million, and increased 3% excluding the impact of FX
+The year-over-year revenue comparison reflects the negative impact of the challenging back half of 2016, specifically the elevated level of cancels in the last three quarters of the prior year, which impacted our run rate immediately
+We believe therefore that the lower level of revenue growth in the quarter is more of a lagging indicator
+Adjusted EBITDA margin was 26.3%, down from 27.5% in the prior year
+The lower adjusted EBITDA margin rate was driven by the investments in strategic products and services
+While quarterly margin rates can be somewhat lumpy, we continue to expect the full-year 2017 adjusted EBITDA margin rate in Analytics to be flat or slightly better than the Q4 2016 exit margin rate for the product line, which was 28.7%
+Slide 18 provides you with the sales and cancels for the Analytics product segment for the last five quarters
+Our Analytics offering continues to be viewed as mission-critical by our clients, as evidenced by our very strong client retention
+However, challenging market conditions continue to impact select client segments
+The market is evolving and changing and this is putting tremendous pressure on clients
+This changing market is driving clients to focus on becoming more efficient, better integrating technology and data and also to look for more services and solutions from their partners
+We're evolving our Analytics product area to meet these new demands
+Q1 2017 recurring sales of $12 million were down slightly compared to Q1 prior year
+We saw strength in some client segments and continued weakness in others
+Specifically, the year-over-year decline in sales was driven by lower sales to wealth managers due to the lumpy nature of sales into this segment, combined with continued weakness in multi-strategy and macro hedge funds
+This was partially offset by strong growth in the asset management segment and the banking segment
+As a reminder, we had very low cancels in Q1 last year, but saw an increased level of cancels in Q2 through Q4 last year, which was largely driven by four clients
+Q1 2017 cancels are at recent historic levels and aggregate retention rate has rebounded to over 93% in the quarter, up significantly from 87% in Q4. The year-over-year increase in cancels was driven by multi-strategy macro hedge funds and is the result of the challenging market conditions for this client segment
+While we're pleased that the level of cancels is more in line with recent historic levels and retention has improved relative to the last three quarters, we remain focused on increasing the level of sales in the Analytics product line
+Importantly, the Q1 level of sales and cancels are in line with the planning assumptions we made for 2017 and the pipeline for the remainder of 2017 is strong
+However, until we see less cost pressure on clients and see a decline in closures of hedge funds, we expect to continue to see challenging conditions, and this is in line with our planning for 2017. Turning to slide 19, we show results for the All Other segment
+Revenues for All Other increased 6% to $25 million on a reported basis and grew 12% after adjusting for the disposal of the occupiers benchmarking business and the impact of FX
+First, in terms of ESG, a $2 million or 17% increase in ESG revenue to $13 million was due to strong ESG ratings revenue
+Growth in ESG continues to be driven by the increasing integration of ESG into the mainstream of the investment process
+Real Estate revenues decreased slightly to $13 million on a reported basis
+Excluding the impact of foreign currency and the sale of the Real Estate occupiers business, Real Estate revenues increased 8%
+Aggregate retention rate for the All Other segment remains high at 92%
+The All Other adjusted EBITDA margin was 21.8%, up from 11.4% in the prior year
+The increase in the adjusted EBITDA margin rate was driven by continued strong growth in ESG revenue, as well as lower Real Estate costs, primarily due to a reduction in head count and strong cost management, as we made continued progress toward improving profitability in our Real Estate product line
+Turning to slide 20, you have an update on our capital return activity
+In Q1 and through April 28, we repurchased and settled a total of 1.1 million shares
+Since 2012, we've returned almost $2.4 billion through share repurchases and dividends and we've repurchased 36 million shares of the company
+There was $0.8 billion remaining on our outstanding share repurchase authorization as of April 28. On slide 21, we provide our key balance sheet indicators
+We ended the quarter with cash and cash equivalents of $697 million
+This includes $250 million of cash held outside the U.S
+and a domestic cash cushion of approximately $125 million to $150 million, which as a general policy, we maintain for operational purposes
+Our growth leverage was 3.6 times at the end of the quarter, down from 3.7 times at the end of the fourth quarter
+Over time, we expect that we will return to our stated range of 3 times to 3.5 times as our adjusted EBITDA grows
+Lastly, before we open the line for Q&A, on slide 22, we are reaffirming our full-year 2017 guidance
+Furthermore, we are also reaffirming our long-term targets
+In summary, we continued to execute against the MSCI algorithm this quarter, delivering strong upper single-digit revenue growth
+We're investing for growth and creating a more efficient infrastructure, while at the same time, achieving productivity and efficiency gains, driving a modest 3% growth in expenses
+The strong operating results drove double-digit growth in adjusted EBITDA, which when combined with a 530 basis point decline in our tax rate and an 8% decline in our share count drove a 29% increase in adjusted EPS
+We are well positioned given macro tailwinds, and we're executing well against our strategy, and we're optimistic about our prospects for continued growth
+With that, we'll open the line to take your questions
+Question-and-Answer Session
+Hi, Bill, it's <UNK>
+Let me just add a couple of more comments to what <UNK> said
+Just to give you a little more specificity around the retention rate
+Sure, we're up versus Q4, as you'd expect to see that seasonality impact, right?
+But important to note that we're up versus each of the last three quarters from a retention rate perspective
+Now obviously, not back up to where we were Q1 2016, so we've got more work to do there
+But the way we're doing that is focusing on where we see pockets of strength, right? In particular, sales for Analytics in the quarter we saw strength in multi-asset class asset managers
+In fact, net new sales were up over 40% for that client segment in Q1. So focusing there, as well as demand in the banking segment for risk solutions
+Yeah, you'll see it ramp up, maybe slightly, but nothing very substantial here
+And I think the commentary with regard to Q1 was more around it being a heavily tasked quarter if you're referring to the comments from last earnings release
+heavy cash usage
+Well, look, as we continue to invest, you'll see it ramp up slightly as we go through the year
+Mid-to-high single-digits
+Yes, <UNK>, we track the reasons for cancels very closely
+And as <UNK> said, we are seeing the reasons particularly attributed to cost pressure, reductions across our clients, hedge fund shutdowns
+So that's what we're seeing when we take a look at that

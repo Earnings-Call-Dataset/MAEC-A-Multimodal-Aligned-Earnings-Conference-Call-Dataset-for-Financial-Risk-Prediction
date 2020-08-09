@@ -1,0 +1,232 @@
+Good afternoon, everyone
+Thank you for joining us on the call
+Today I would like to cover a couple of things
+First, I’ll review the results for the quarter, then I’d like to talk about what we see ahead, how we are redesigning this company to be fit for purpose and how we are driving the innovation needed to win in the market
+So let’s dive right in
+Overall, I am very pleased with our Q3 performance
+We saw strong momentum across key segments of the portfolio
+Execution continued to improve and our profitability increased over last quarter as we reduced costs across the organization and we successfully closed the spin merge of our software business late last week
+With that milestone behind us, we are off and running
+In Q3, we delivered total revenue of $8.2 billion which includes a final full quarter of revenue contribution from software
+Future HPE, which now consists of Enterprise Group and Financial Services was $7.5 billion, up 6% year-over-year and if you remove tier-1 revenue was up 10%
+From a profitability perspective, we made good progress on improving our operating margins as we began executing the cost reduction plan we outlined last quarter
+Tim will provide more detail, but our EG margin improved sequentially to 9.3% as we work to mitigate increased commodity prices, stranded costs from divestitures and dilution from acquisitions
+We expect to see even greater improvement next quarter
+With the strong revenue performance and improved profitability we were able to deliver non-GAAP EPS of $0.30 above our previously provided outlook of $0.24 to $0.28 per share
+Free cash flow was also strong at over $400 million in the quarter putting us in a good position to achieve our full year outlook
+Turning to the business performance, while we have seen some improvement in the market overall, our strong Q3 performance was driven primarily by better execution and a compelling portfolio resulting in solid growth across key businesses
+For example, core server revenue was up 13% year-over-year and we expect to gain share in calendar Q2. Since its launch, late last year, Synergy is experiencing very strong momentum with over 600 customers to-date
+As a side benefit we are also seeing an uptick in blade sales as customers move on to the path to become Synergy ready
+We are also experiencing continued strength in High Performance Compute with our combined HPE and SGI portfolio
+And early this summer we launched the first fully integrated HPE SimpliVity hyper converged offering
+Hyper converged is core to our strategy of making hybrid IT simple for our customers and we saw over 200% growth in Q3 although off a small base
+All-Flash storage grew 30% year-over-year driven by Nimble, which exceeded both revenue and profit plans for the quarter
+With Nimble and our marketing-leading 3PAR portfolio, HPE delivers a full range of superior flash storage solutions for customers across every segment
+We are already seeing the benefits of the combination of Nimble and HPE and we couldn’t be more excited about the potential
+Aruba continues to perform exceptionally well
+Wireless LAN solutions grew over 30% in the quarter and Aruba won approximately 70 new logos
+Aruba continues to take share from competitors like CISCO by introducing truly breakthrough solutions for the intelligent edge
+For example, in June, Aruba announced a fundamentally new core aggregation switch called Aruba 8400. This differentiated solution has a completely redesigned operating system to support the new requirements of modern networks
+It enables simplified operations for the network operator, a more powerful and scalable core to support the influx of data, faster time to remediate issues and granular visibility into what’s in the network
+We estimate the market for this technology is nearly $4 billion and technology services which includes Pointnext continued to perform well with Q3 revenue up 2% over last year
+We’ve now seen five consecutive quarters of order and revenue growth in consulting as we put more emphasis on advisory and transformed services post the ES split
+To further strengthen our consulting capabilities, just this morning we announced our intent to acquire Cloud Technology Partners, a leading cloud consulting company that helps its Fortune 500 customers move to a cloud, build new cloud-based solutions and manage their cloud environment
+CTP’s consulting, design and operational advisory services for cloud environments will strengthen our hybrid IT consulting expertise in a fast-growing market
+As I mentioned earlier, while executing our business plan for the quarter, we also completed a major milestone
+On Friday, we officially closed the spin-off and merger of our software business with Micro Focus on time and below budget
+This deal delivered approximately $9 billion in value and I am confident that this was a great move for the new Micro Focus and for HPE
+With that transaction now behind us, we have the right strategy and the right portfolio to succeed in today’s environment
+Our strategy is clear, to make hybrid IT simple, to power the intelligent edge and to provide the services to make it all happen
+It is based on what customers are asking for today and where we see the market moving
+Now as a smaller organization with fewer lines of business and clear strategic priorities, we have the opportunity to create an internal structure and operating model that is simpler, nimbler and faster
+To that end, this quarter we announced a program we are calling HPE Next
+The goal of HPE Next is to produce an organization that is precisely built to compete and win in the marketplace
+To do so, we are clean sheeting the operating model and organization structure to simplify how we work
+We are improving core business processes to clarify accountabilities and make the company more efficient and effective
+We are rightsizing the end-to-end cost structure to ensure we deliver on our financial architecture
+All of this will be done with a continued commitment to operational excellence and to our customers
+These efforts will simplify everything from how we engage with customers to how we process orders and compensate sales
+For example we are reducing the layers in our customer-facing organizations and shifting resources to the geographic markets that will drive the vast majority of our business
+These changes will be better for HPE and for our customers
+We will have much more detail on this program and the associated financial impact at our Security Analyst Meeting in October
+But as discussed on previous calls, we do expect to accelerate most of the $200 million of cash payments originally planned for fiscal year 2018 into Q4 2017 to help quickly enable this program
+Looking forward, we aim to offset a portion of the funding requirements associated with HPE Next through lower than expected separation costs and real estate sales enabled by the spin merge transactions completed this year
+For example, we recently sold our Roseville site for approximately $100 million and are now leasing back smaller offices there
+Ultimately, HPE Next will produce the long-term operating and financial blueprint for our company with cost discipline built into the system
+While we work to create the strong internal structure, we cannot lose sight of innovation
+Innovation is our life blood and the investments we make now will drive HPE in the future
+Our innovation is at the core of some of the most significant technology trends in the market today like cyber security, internet of things and artificial intelligence
+And today, more than ever, we are able to make focused investments in the areas where we see the most opportunity for growth in the future
+For example, security has become a board level issue for customers across industries and market segments
+In June, we announced the world’s most secured industry standard server
+HPE is the only company that embeds proprietary silicon-based security into its industry standard servers
+This approach addresses firmware attacks, which are one of the biggest threats facing enterprises and governments today
+We are also integrating the behavioral analytics based security software from our recent acquisition Niara, across Aruba’s networking portfolio
+In the internet of things and in particularly the industrial internet of things, we see a tremendous opportunity as customers are looking to transform everything from retail environments to manufacturing floors
+Our solutions and services capabilities are allowing customers to connect, monitor and analyze these environments, enable new customer experiences, new revenue streams and reduced cost structures
+We are already seeing growth in our Aruba Wireless Connectivity business driven by IOT and we are seeing significant emerging interest in our highly differentiated edge compute business known as Edgeline driven by these same trends
+Another example is artificial intelligence, which is transforming industries from retail to manufacturing
+We help our customers use AI to simplify operations and drive business outcomes in a number of ways
+For example, we are incorporating Nimble’s predictive analytics technology that uses machine learning to predict and resolve performance issues across our storage portfolio
+Also our High Performance Compute systems provide the power that is required to crunch the massive amount of data used for AI applications
+As the amount of data grows, we have a strong roadmap to memory-driven computing based on our machine research project that will exponentially extend these capabilities in the future
+Finally, there is one commonality our customers have, it’s that they live in a hybrid IT world
+They run a mix of workloads in their datacenter as well as private, managed and public clouds
+Our top priority is to help them succeed in this environment and that requires a single data management plan across different environments
+At Discover we unveiled our vision for our new hybrid IT stack which brings together our industry-leading one view platform with a new multi-cloud management capability as well as key software assets like Cloud Cruiser to create a truly unique, software-defined approach to hybrid IT management
+This new platform will allow customers to simply manage assets across traditional IT, private cloud, managed and public clouds and optimize their right mix of hybrid IT
+We already have a number of beta customers and this platform will be widely available by the end of the year
+So, overall, I am very pleased with the quarter and we now have achieved most of our significant milestones for the year
+While we have more work to do, I continue to be excited about the future of HPE
+The markets where we play today offer tremendous opportunity and with laser focus and a world-class portfolio we are positioned to win
+We will have a lot more to tell you at our Security Analyst Meeting on October 18 in San Francisco
+Before I turn it over to Tim, I want to quickly touch on the devastation we are seeing in Texas caused by Hurricane Harvey
+HPE has been part of the Houston community for decades and our nearly 3400 employees are deeply rooted in that community
+The well-being of our employees and their families has been our top concern over the past week and we are providing support to many of them
+From a business perspective, we are continuing to assess the impact
+But Tim will provide a bit more color on that
+I want to thank our amazing team in Houston who has been working around the clock to get our office back up at running, answer customer enquiries and make sure their colleagues have the support they need
+So thank you to them
+And with that, I will turn it over to Tim
+And adding to that Toni, I think we can return to historic levels in 2018 but we are going to be probably a quarter or so delayed and we’ll see what happens in commodity pricing and those other things, but I also think HPE Next will certainly help
+Yes, sure
+There has been some press
+So, listen, I thought, I was called in very late in the Uber search and I thought it was a very interesting business model to me
+It’s actually quite similar to Ebay in many ways
+It’s very disruptive, that relies on a community of drivers just like Ebay relies on a community of sellers and the growth prospects reminded me of Ebay in its early days and as you know, I am also an investor in Uber and – but, in the end that wasn’t the right thing
+And but I would say, that has really nothing to do with HPE which is quite special in its own right and we have a very focused strategy and a path forward to build a very big business on what I think is a quite compelling strategy, hybrid IT, edge computing, IOT and much more
+And we also have a remarkable customer base and partner base
+So, the other thing is I have dedicated the last six years of my life to this company and there is more work to do and I am here to help make this company successful and I am excited about the new strategy
+So, lots more work to do and I actually am not going anywhere
+Yes, I’ll take that and Tim can follow on
+So, the results were quite a bit better in servers
+Flat overall, but grew 12% to 13% excluding tier-1. And I’d say there is a couple of things going on
+One is better execution, particularly in Americas, but actually across the board
+And I think that execution will continue and we expect as we said to gain a bit of share in the second quarter
+There was also some improvement frankly in the overall market and in all – or easy compares in Q3 than they were in Q1 and Q2. But I also have to say the portfolio that we have worked hard to create that we have pivoted over the last couple of years, that is in faster growing more profitable areas in the markets is starting to kick in and you can see that in High Performance Compute, you can see it in synergies momentum that is not only, the actual product of Synergy, but it’s actually accelerating the core blade business
+We are also seeing good traction in hyper converge that grew triple digits, albeit off a small base
+And then across Aruba continues to do very well
+And interestingly on Aruba in the U.S
+it reignited the wired networking business which was part of the thesis of the acquisition, but it’s actually playing out very nicely in the United States
+So, listen, I mean, I think the market is going to continue to be competitive
+We are going to continue to face some headwinds from Tier-1s that was down versus Q3. But we are feeling much better about that core business and you really need to think about this as stabilizing the core transactional rack and tower business while we pivot the portfolio to higher margin and higher growth segments in the marketplace and that’s working
+The only thing I will say is what I’ve learnt over the last six years in this business, there is always something that could happen here, whether it’s floods in Thailand, floods in Houston, I mean, this is a remarkable situation that we face in Houston I have to say
+And so, I feel good about our execution
+I feel good about what we can control
+So, listen a core part of our strategy is we make hybrid IT simple
+And what CTP does very well is very consistent with our strategy which is what customers think to do is they just with their applications and their workloads
+First, make sure that they’ve got, they’ve rationalized those workloads as fast as they – and as much as they can and then decide where each of those workloads should go based on a total cost of ownership and how they want to pay for it, whether it be on a consumption based pricing model or CapEx
+So, that’s what this team does and we will add our expertise on on-prem private cloud
+We’ll add our expertise in – because we do some of this today and it’s an opportunity to scale that practice
+But listen, there are some workloads that customers probably should move to a public cloud and you know Azure is our public cloud partner
+We are excited about Azure’s stack on-prem
+We aim to be the leader in infrastructure behind Azure stack on-prem
+And so we want to make sure that we help customers find their right mix of hybrid IT and this is a nice way to scale that business for us
+Yes, listen, we are excited now about our storage portfolio
+3PAR plus Nimble, we get incremental scale, we get InfoSight which is obviously AI for the datacenter in the context of Nimble and I think one plus one here is going to equal more than two and we are really pleased, we are going to combine the R&D
+We are combining the sales specialist teams
+We are leveraging, I think the strengths of both companies to give us more scale particularly in the All-Flash segment in the market which is growing
+And you will recall that only about 10% of datacenters have moved to All-Flash
+So there is a lot of running room there and we are a leader in that marketplace and we aim to continue that trend
+Let me give you a little context on that
+So listen, there is obviously some short-term cost reduction that we are doing
+But I have to say what we have done to the $200 million to $300 million in Q3 and Q4, I do not think it’s actually hurting the business
+I think we are executing better than we were before and you can see that in our results
+But as we move into HPE Next, it is a much broader initiative than sort of normal cost reduction
+We are essentially rearchitecting the company to be precisely built to compete and win in our markets and we are actually clean sheeting both the operating model and the organizational structure to simplify how we work and we want to take actions that optimize business processes and operations
+And let me just give you a couple of examples of that and this has all become very obvious as ES has moved out
+When ES went to DXE on March 31, a $28 billion business on 110,000 people left this organization and it was in some way is like the tide going out
+You could see where there were real opportunities to improve and I’ll give you a perfect example
+Think about platforms and SKUs and options
+So we have about 50,000 live configs, live configurations in our server business
+The old 80-20 rule applies
+And so, as we are to really focus on the configurations that make the most difference
+This will – think about it, inventory, nodes, purchasing, supply chain, everything gets simpler and easier
+Think about decreasing the layers in our customer-facing organization, so there is more accountability and decision-making closer to the customers
+Reducing the number of markets that we operate in to prioritize the customers and the countries that are driving the vast majority of the business today and we’ll drive almost all the growth
+So this is the kind of thing we are doing
+So, yes, I think the travel and the contractors are interesting and have not hurt the business, but the fundamental rearchitecture and reengineering of this business is I think very, very exciting
+I think it’s going to be good for customers and it’s going to be good for our speed and nimbleness and agility as a company
+Yes, so, listen, I think when Brexit was first announced, we did see a pause in the demand in the UK market
+No question about it because customers were trying to decide do they want to build their next datacenter in the UK or should they be building that datacenter someplace else in Europe
+I think we are still feeling some after-effects from Brexit, because it’s not clear exactly how this is all going to work
+So I would say, the UK market is a bit challenged for us
+It’s not only Brexit, it’s also the public sector that is cutting back spending quite dramatically
+So the UK is not one of our stronger markets
+It’s a very important market for us
+But I wouldn’t say it is doing as well as the rest of Western Europe and frankly the United States, Canada, Latin America and Asia are all outperforming the UK right now
+Yes, so, listen, I’d say we are cautiously optimistic about our server business
+Synergy has made a difference, High Performance Compute has made a difference, SimpliVity has made a difference and so there is – and we talk about Synergy is also really helping our blade business
+It’s interesting people are buying more C-7000s because there is a roadmap to a future state
+So we are excited about that
+I would also say Gen-10 is a real opportunity for us
+I mentioned in my opening remarks that Gen-10 is now the industry’s most secure server
+This is a big issue now for everybody and we are the only server company that has built security into the silicon in our servers
+So we are cautiously optimistic
+I think, I would add commodity pressure, currency, it’s a very competitive pricing environment still
+So, the only reason I am not even more enthusiastic is just there is challenges that remain in the market
+We are executing a lot better here
+Thanks to EMEA and APJ and Latin America
+We are executing a lot better here than we have in the past with the stronger portfolio
+Cloudline, you had a question about Cloudline
+So, listen, Tier-1 continues to be a headwind for us
+It’s a very lumpy business with not much profit attached to it
+And so, we need to figure out what the long-term answer is on Cloudline
+And so we are evaluating that right now
+We will, I think have an answer by the Security Analysts Meeting about what we want to do about Cloudline on a go forward basis
+And Tim you might talk a little bit about how much – I think he asked a question about…
+Okay, let’s see
+So, you’d like to know the number
+So, I can tell you, High Performance Compute with 40% with SGI and 10% organically
+Yes, so, I think actually, I think did a very good job of getting to All-Flash early with 3PAR and then of course Nimble and then the two competitors that you mentioned actually showed up with an All-Flash product quite recently and they’ve been able to mine their installed base which we understood would happen
+So our objective is we got to go mine our installed base and then when a customer is thinking about upgrading to All-Flash, we got to make sure that we are in a competitive position there
+I can’t give you an estimated growth rate of All-Flash
+What I can tell you is, it’s faster, better, cheaper
+And that is usually a winning formula for CIOs and we are seeing a huge amount of interest in All-Flash as CIOs continue to be under cost pressure and performance pressure, All-Flash is a natural opportunity for them
+So, I don’t know whether this will continue at a 30% growth rate, but it will be at least double-digits, I think for the foreseeable future, this is a fundamental trend in the datacenter
+So, the federal business is an important part of our business in the United States
+I think it’s roughly 10% to 15% of our revenue in the United States and we have an excellent position there
+We’ve got longstanding relationships with almost every agency and every part of the federal government
+So, a government shutdown would probably a blip honestly for us
+There would be a speed bump there
+What I will say is a lot of these purchases are long head, they buy and then the delivery is over a long period of time
+So probably that would not – if there was a government shutdown in October, that probably wouldn’t affect us until a little bit later in 2018. But listen, the government shutdown I don’t think is our friend or anyone else who sells to the government
+That’s not our friend and we certainly hope that will not happen
+Yes, let me talk a little bit about Aruba and why I think Aruba is seeing the traction that they are seeing
+First is, you hear about CIOs digitalizing their environment and their interactions with customers
+How many times have you heard a CIO saying I’ve got to digitize my environment
+In many ways, Aruba is the wedge of how that gets done
+Either they are transforming their employee environment in their campuses across the world
+So that it is a more modern work environment, mobile first and fundamentally changing their employee experience or it is a customer who is saying, I’ve got to change my interaction with my customers and whether that is a retail environment, fast food, hospitals, government interaction
+So, Aruba is on the cutting edge of this digital transformation that every organization is undergoing and that is fundamentally what’s driving demand
+There is two things that differentiate Aruba
+One is security
+Whether that is ClearPass or Niara, we win on security virtually all the time
+We have the most secure wireless network and that is an important decision criteria
+There is also interesting things built into Aruba
+They bought a company called Meridian which is way finding and GPS
+So whether that is way finding through a large big box retail environment, whether that is way finding through a hospital, this is a very important application that rides on top of Aruba
+The other thing is asset tagging
+If you think about a hospital environment, where are- most of their assets are mobile and at the end of everyday they are never where they are supposed to be and the ability to asset tag and work to the wireless network has been a big selling point for a number of different customers
+So, listen, we compete hard every day there
+But it is a very rapidly growing market and we are gaining share in the campus branch and edge
+So, listen, we expect that to continue
+I think that the Aruba team would also tell you they have benefited by part of being a part of Hewlett Packard, because when they were Aruba people loved the product, but some big companies were a little bit hesitant to sign on to a small independent start-up while part of HPE, they know we will stand behind Aruba and that has totally helped the revenue trajectory of Aruba
+So listen, we remain optimistic and they have a fantastic product, well priced with an excellent sales force with terrific white glove service and that’s another differentiator
+Yes, so listen, we think HPE Next will have positive revenue accelerators and it really goes to two major initiatives, one is how do we make decisions on accountability much closer to the customer
+So that frontline sales executives can make the decisions in the field faster
+And that by increasing the agility and the decision-making, I think actually, we will do more business
+Another case on revenue acceleration is our ability to quote configurations much faster
+We’ve made progress on this over the last several years, but we need to make more progress
+And how we change our pricing and our quoting to be much more customer-focused and customer-friendly, I think is an important element for us
+If you think about reducing the number of SKUs and options, this also makes it easier to sell, and faster to configure on offering and I think that will accelerate
+And then I mentioned, probably like most companies, a small number of countries account for the vast majority of revenue and profit and will account for the growth in our industry over the next five to ten years and we want to make sure we are allocating the resources correctly to the largest countries with the countries that have the most growth and profit potential for us
+And so, I think that actually will accelerate
+As you can imagine a 1% increase in the United States dwarf just about if you think of the long tail of countries that dwarfs the revenue in those long tail of countries
+So those are some of the initiatives that I think by extension will impact revenue to the positive
+So, we are very focused on, how do we be simpler to the business with, faster to the business with, which should result in revenue increases
+We do, actually we really do
+We aim to go into FY 2018 with a clean sheet operating model in a way that I hope customers will see a difference right away and frankly it would be easier for our employees to get things done
+If you think about what was required to hold this company together when it was a very large multi-business company, some of those ways of doing business, we need to let go off
+And I understand why it was here, it was necessary in terms of growing together such a large company, but now that we are more focused with a focused strategy and a smaller company, I think we can do better in terms of making it easier for our employees to get things done
+Thank you very much

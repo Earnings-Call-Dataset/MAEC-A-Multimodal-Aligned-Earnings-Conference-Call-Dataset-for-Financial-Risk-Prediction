@@ -1,0 +1,89 @@
+Hi, <UNK>.
+You're referring to 606, the new revenue recognition rules.
+We have been working on this for a number of years and working closely with our auditors as well as the regulators.
+First of all, let me remind you that this won't take effect for us until FY19, so there's a lot of time for us to implement it.
+Right now, based on the work that we've done, we feel very confident that most of our ratable models should stay in place.
+At a macro level, if you look at all of these products taken together, they're fundamentally anchored at least to a large portion, not entirely, in the semiconductor industry.
+Per an earlier question, notwithstanding the year-to-year differences, the semiconductor industry has had a fairly steady growth rate and with steady R&D expenditures, and therefore fairly steady EDA growth all in all.
+Within individual product groups, and especially when you connect them together in coherent platforms, there are actually very big changes in products in a matter of two to three years as it moves to the next generation.
+These changes invariably are around finding a way to dramatically improve one of three characters.
+Either characteristics of the quality of results, meaning the power of the chips or the performance of the chips, or the time to results, meaning make the product run much faster, or the cost of results which is reduce the area of chips.
+These evolutions are not linear because often you work for two or three years on a set of profound algorithms and then suddenly it makes a difference.
+If you look at a little bit higher level, and this is where it intersects with the strategy for our Company, the big inflection points from my perspective have been the addition of the IP business to EDA.
+And this, of course, now already quite a number of years ago but now it is a significant portion of our business.
+I've alluded the last couple of years to the inflection that is coming with the addition of the software side of hardware-software.
+It's not a surprise that so many of the verification expenditures are increasingly focusing on that.
+And then we have predicted that the software side itself would go through this by virtue of the complexity growth.
+And so that is how we are looking at our opportunity space.
+And to the earlier question of how does our financial profile evolve, be it in growth and profitability, while we're managing Synopsys as a portfolio of a number of specialty areas that are very related but somewhat independent in their growth spurts.
+And in large arrangements with customers, the allocation of the individual revenue streams can be somewhat fuzzy just by virtue of accommodating how the customer wants to look at it.
+I'm not sure I completely answered your question sharply, but I did give, what are the big things that actually bode well for us for a number of years to come.
+Listening to my predictions through your mouth, I almost feel clairvoyant because indeed the deals did get larger.
+And that's not surprising because this is the same history as EDA many years ago in many other fields where automation and verification gradually takes hold.
+And yes, it takes hold faster with people that look forward and so on.
+But really it happens very often when people have a catastrophe or an issue to deal with.
+On the services side, you're right, we mentioned that then.
+And to be honest, I don't recall if we were completely engaged with Cigital at that point in time already.
+But we have felt for a while that the issues around security are so large that when you get the opportunity to talk to, let's say, the CIO or CSO or CTO of a large company, and they tell about all the security issues, the next answer is, well, we have this one product, why don't you just buy some, feels pretty shallow.
+In that context, the Cigital acquisition was great because these are people that are accustomed and knowledgeable about reflecting the broader picture than advocating what is a good approach for the company to deal with it, while not necessarily pushing for individual products but, of course, now highlighting what we have.
+So in that sense, I think that we will first learn how to run that business well.
+And assuming that goes well, my guess is that this will broaden more and more on a world-wide basis.
+If you don't mind, we don't want to talk about individual legal situations, so let me more generalize.
+From time to time we obviously see glaring cases of misuse of software.
+We try to respond forcefully but gracefully to it.
+It is always better if we can guide a customer towards a healthy long-term solution, if I can call it that.
+[Everysoft] is more difficult and maybe legal situation is resulting from that.
+We've had a few of those in the past, they have been resolved, professionally and positively.
+Let's hope this yields the same.
+If you looked at our distribution of revenue over many, many years, you would see that Asia-Pac for decades has been growing substantially faster than other parts of the world.
+Asia-Pacific itself has multiple components and Taiwan and Korea have been big parts of that for many years.
+In the last number of years China has grown immensely, and of course has the potential to continue to do so.
+Simultaneously, we know by virtue of having been in China since really the early 1990s, how the competence of the engineering teams and the companies that have grown and some have merged and have grown again, have progressed quite superbly.
+And so in that sense, a number of companies that do state-of-the-art design in China just like anywhere else in the world.
+We have been very fortunate to be, I believe, the largest contributor to that from an EDA-space point of view.
+IC Compiler II has seen, actually, an enormously rapid adoption rate which continues.
+And which is solidified more and more by the fact that we are also getting increasingly excellent results, especially when used in conjunction with some of our other tools.
+So from that perspective, while I certainly don't want to be negative on any other competitive products, we have a high degree of confidence in this product line and we expect it to continue to grow.
+Your second question was on Custom Compiler.
+There too, this is a smaller product, less visibility and typically a slower adoption rate by virtue of the longer history that people have in the custom space.
+And our focus has been primarily in the more advanced node, the FinFET technology.
+And we are seeing some very good adoption, especially in the last few quarters.
+We will continue to watch this space.
+No, Jason.
+The maintenance and service line should reflect the strength in IP.
+In this quarter when we completed the Cigital acquisition, that business should flow through that line as well.
+As I said, we will look at what's necessary to bring the share count down to the guidance range.
+And we continue to evaluate whether or not it's expense to do an ASR or an open market.
+That remains to be determined.
+For starters we certainly don't underestimate what the change can do for Mentor.
+I certainly can not say that we've seen an increase in competitiveness.
+But let's see what the future brings.
+It's a very capable Company with very capable products.
+Maybe if I can toot our own horn, I think that we are -- we have very capable products too, and increasingly a lot of our top customers reflect on the strength of our platforms.
+That will certainly be a continued angle for competitiveness in this regard.
+Hey, <UNK>, this is <UNK>.
+It will vary quarter to quarter.
+We typically don't see it necessarily increasing through the year.
+And it will vary depending on the profile of revenues and that could flow depending on hardware or IP services.
+Then throughout the year, what we'll see is the change in variable comp as it ramps up or particularly on the commission side as it ramps up depending on shipments.
+So I would not interpret that as something -- a longer term trend.
+I'm not sure if we understood the question.
+You are saying that we will see the software business and the IP continue to grow well.
+And what was the question attached to that.
+If you're referring to the profitability part, obviously these businesses as we grow them, we also have in place a discipline to make them gradually more profitable.
+The question is always when you have something that grows very fast, is it better from a competitive position, growing the value of the Company over time, to push on growth or on profitability.
+That decision gets made on a continual basis.
+But fundamentally we will be following a belief system that says once a business starts to grow, it also has to increase it's profitability.
+And while the high-growth businesses are less profitable than the lower growth businesses, in aggregate I think we're ushering in a very good balanced portfolio situation.
+<UNK>, let me add to <UNK>'s comments.
+I would not take the second half of the year and annualize it in any way or extrapolate off of that.
+We are very comfortable with the overall business and the growth rates that we've identified from core EDA, IP and software integrity.
+Those trends, remain intact.
+The shift from the back half to the first half of the year is really the timing of the hardware and IP.
+But overall, I think when you look at the business over a multi-year trend, those growth rates that we previously communicated for each of the segments remain intact.
+Does that help.
+I guess we have reached the end of the hour.
+Again, thank you very much for attending the earnings call.
+We had a very strong quarter and we look forward to Q2 with a fairly high degree of confidence and a strong year as well.
+As usual, we will be available for the after-call phone calls.
+Thank you very much.

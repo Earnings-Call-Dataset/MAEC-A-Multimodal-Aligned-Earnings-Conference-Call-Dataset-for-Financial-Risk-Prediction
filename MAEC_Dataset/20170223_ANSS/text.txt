@@ -1,0 +1,67 @@
+<UNK>, I don't have that off the -- currently off the top of my head.
+I would suggest that this year, given the number of enterprise agreements it is probably slightly higher than it was a year ago, given that last year at this time we had only closed a handful of those.
+I would suggest the duration is slightly up from a year ago.
+Thank you.
+So, I see -- when I look at the market, I think there are probably three legs, is the way I'm thing about it, to the stool.
+One is the traditional use of simulation by engineers, by analysts and we see an enormous amount of opportunity there as we start to talk about things like ADAS.
+We look at our semiconductor business and so on and so forth, there is enormous opportunities there and we talked about some of that.
+We see as purely incremental to our current business, we see as opportunity of moving upstream, to address a new audience which is essentially the designer market.
+We see that as incremental upside.
+We have invested in the space.
+We are now with ANSYS 18, we have a third generation of a product in the space called AIM and it takes time to mature a product.
+I think at this point we have a product that meets the needs for a simulation market that is upstream of our existing installed base.
+Then, of course, as you look downstream, I see the opportunities around Digital Twin that we have already articulated.
+So, absolutely it is an opportunity and we have activities underway there.
+We see that as incremental.
+We see the downstream opportunities around Digital Twin as being incremental and we see our core business as being -- with all of the changes taking place in the industry, we see our core business as being stronger than ever.
+So, current bookings growth was around 12%, 13% in constant currency.
+Probably for full year 2016, bookings growth was 6%.
+I would anticipate for 2017 based on everything that we are modeling right now, it will be slightly higher than that.
+Yes, I can tell you that there actually were two of those customers who had previously signed deals who either decided to extend the initial deal or have added incremental technology to their deployment.
+So, it's still early in the game but we are very excited about the opportunity that engaging with our customers at this level provides us relative to insight and also I will call it knowledge relative to other customers that, as they work their way through tool consolidation and some of the challenges they have around their new growth initiatives relative to taking our story, our broad portfolio to help them through those transitions that they are going through.
+And to add to what <UNK> is saying, our strategy for enterprise agreement is not just simply a fire and forget where we consummate a deal, complete a deal and then move on.
+It's really building an ongoing relationship with the customer and this obviously, as <UNK> pointed to, with the couple of deals that we've talked about, this translates into a long-term relationship that they feel like we are a partner and we are able to work with them.
+I think that is very helpful.
+In some cases we have people on site and in some cases we have ongoing business reviews so there are a number of different mechanisms that we use to make sure that we have that ongoing relationship, both at the strategic level as well as the operational level, with the people who are using our technology.
+We've had tremendous feedback on the product and obviously we have customers who have been using it.
+It continues to be an area that I think is still developing and, you know, we will be in a position to share more strategy around our cloud and the cloud direction when we get together in the September time frame.
+So, what we have right now, this is not our multi-tenant product that is still under development and, that is an area frankly where I plan to spend more time with the development organizations to go through the cloud plans in some detail.
+As you know, I have a pretty strong background in that space.
+I think that the cloud is going to be very important for us in a number of different dimensions, both from a licensing perspective as well as from a business model perspective.
+I think that there is some usability and scalability challenges that we can address.
+So, I feel pretty good about the strategic direction.
+But, again, as I said, this is an area where as we make this transition to multi-tenant, this is an area where we are doing more work and I will be in a position to share more details with you guys when we talk about this at Investor Day in September.
+So, I would say it's early and we sat down with Rick and his team and reviewed the health of the pipeline.
+Currently I would say a good target would be somewhere in the similar to this year, $18 million, perhaps $20 million at the high-end range.
+And we believe that those will grow, at least on a bookings basis, overtime in double digits just given the extreme opportunity to not only increase the number of users but also to deploy increased applications of our technology across a broader base, across those enterprise customers.
+Obviously we are going to look at all opportunities that are available to us and your point about M&A, M&A is certainly one of the opportunities that is ahead of us.
+As you may know, I've had some experience in driving M&A and I have seen the transformative opportunities that can be created by doing the right M&A.
+But I want to be thoughtful and make sure that we do the right M&A.
+But obviously as you know, the wrong deal can have a very negative impact on an organization.
+Absolutely M&A is something that we continue to look at and we will continue to look at.
+We see some opportunities and we will keep you posted as we think this through.
+That would be our number one preference.
+However, to <UNK>'s point, as you highlighted earlier, we have been extremely successful in creating long-term shareholder value because we were selective relative to how the M&A targets that we added to our portfolio really aligned with the future needs and directions of our customers.
+So, we are continuing to solicit inputs from not only our field and our customers around which would be the appropriate assets that would continue to differentiate us and in the short term, in the absence of significant M&A, we will continue to redeploy capital back to the shareholders through our share repurchase activity.
+We are committed to continue to take a look at opportunities for M&A that we can -- we will continue to distinguish our portfolio from other offerings.
+So, <UNK>, one of our problems is not our operating profit margins relative to trying to expand them.
+We have taken a step back as part of our annual planning process, and with <UNK> coming in and having perhaps some different perspectives from his experience at other enterprise providers.
+And we made a conscious decision this year when we went out with the early outlook in November to at least reduce the margin by a point to 46% and then to also take on the realignment in recognition that we needed to make some improvements in our own business to allow us to fund areas that we believe are higher growth opportunities or have, unfortunately, been perhaps impediments to our growth.
+So, as I said, we are looking to maintain our industry-leading margins.
+For this year we are guiding for the full year to 46% and our ability to stay at 46% is going to be dependent on really the pace of hiring in the remaining quarters and some of the initiatives that we currently have underway that we've already redeployed some of those dollars to.
+Well, I think, right now we have no increases that are assumed in our plan for this year as far as maintenance is concerned.
+So, it's pretty much what we have been doing in the past is what we will continue to do.
+So there's no change in the business model assumed in this year's guidance.
+So, we are around 20% maintenance.
+We think that in the short term, that is what we have been finding for this year.
+Obviously as we start to think about different offerings and different capabilities that we are planning that might have an impact, but that is in the future as we think about the nature of our portfolio going forward.
+Again, I think we will be in a position to share some more insight into strategically where we are going and that might have some more context in the September timeframe.
+Thank you, Andrea.
+So, I believe that ANSYS has a huge opportunity ahead.
+With ANSYS 18, our next step in making pervasive engineering simulation a reality, we've brought to market a feature-rich release that continues a long track record of providing the best simulation solutions in the market.
+I'm excited by our performance in Q4.
+I'm excited by our momentum early in 2017 and I'm looking forward to seeing the impact of the operational changes that we have made and that we will continue to make.
+With that, I would like to close by saying thank you to our customers, my ANSYS colleagues and our long-standing partners and I want to thank you for listening in today.
+I look forward to our next call.
+Enjoy the rest of your day.
+Thank you.

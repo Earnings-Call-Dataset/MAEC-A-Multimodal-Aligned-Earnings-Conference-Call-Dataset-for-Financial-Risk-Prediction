@@ -1,0 +1,159 @@
+Yes, thanks, Brandon.
+Very good question.
+So these were a couple of very unique projects, one of which we'd been working on for some time is coming to its end now and getting very close to shipping to the customer.
+It was related to automotive testing to a large Korean OEM.
+It's truly a novel machine that is doing integration between testing and modeling that's never been done before.
+It's a very large project; very late in its phase before shipment.
+And we had to do some tunes and tweaks to meet the customer demand, which has evolved over the last couple of years, and to accommodate the facility that it's going into.
+So some fairly special requirements for that project near the end before it ships from the factory.
+It absorbed a significant amount of engineering and manufacturing effort very late in the quarter, this quarter.
+But it's very close to shipment and we're very excited about it being in the field and running.
+We have no more of those in our backlog.
+So it was a frustrating a quarter in that sense.
+But the machine's a marvelous machine that will do things to tie testing and simulation together that have never been done before.
+The other unique project we had in backlog -- or set of projects -- was related to hybrid electric vehicles.
+This was taking our electric motor technology, which is marvelous, and adapting it for what's called Formula E, which is the racing series that are entirely electric-driven cars -- taking that motor technology and adapting it to for those cars.
+This motor technology is special to us.
+It goes in both our testing equipment and increasingly on hybrid electric vehicles.
+We had extremely difficult performance challenges, which we well understood, but the schedule requirements were very tight.
+To accommodate the schedule the customer needed to beat the upcoming race season, we had to apply a lot more engineering resource than we had planned.
+While I'm very disappointed in our planning performance, if you will, I'm extremely excited about the technology.
+The hybrid electric system is simply fantastic, and it will allow testing machines that have never been fielded before and has applications broadly in hybrid electric vehicles that we're very excited about for the future.
+So we're excited about both of those.
+They raise the technology level in the industry to a level never seen before.
+But clearly it was very frustrating in terms of the final execution of those projects and the inability to plan appropriately in our factories to accommodate it.
+We've made adjustments for that, in terms of the leadership in that aspect of our business, and in use of our planning tools.
+I'm thrilled with the projects themselves and the technology level they bring and the broad application; I'm disappointed in the impact they had on the quarter.
+Go ahead, <UNK>.
+Yes, I covered it in the backlog.
+It's 77%; it's remained pretty consistent quarter after quarter.
+And then, in regards to when we look at the pipeline, which we referred to in the past, it's pretty consistent.
+There haven't been significant shifts there.
+I would tell you, Brandon, what we're very pleased with is the rise of our base order business.
+We quoted some numbers in the prepared remarks where we're up in excess of 20% in terms of base order performance.
+That's the kind of resurgence that we need to see in terms of smoothly flowing product through the factory and improving efficiencies for the future.
+I think the orders performance in the quarter bodes well for our future.
+And, as we quoted, we saw a decline in large project orders, but a strong resurgence in base orders within the quarter.
+Thanks, Brandon.
+Good morning, <UNK>.
+Well, it's interesting, I'll give you a bit color, <UNK>.
+The numbers -- if you look at the percentage of large versus small or custom versus standard products, it's pretty steady at a mid-70% kind of number.
+But encouragingly, the number of first-of-a-kind systems, which we love to do occasionally, because they do raise the technology level in the industry, but we don't like them to the magnitude that we've had them in the last 18 months.
+So I would tell you the risk profile is coming down.
+The number of first-of-a-kind projects within that custom mix is coming down.
+Frankly speaking, we're looking really hard at pre-sale risk analysis and shared risk with customers -- things of that nature on these very first-of-a-kind, highly complex custom projects, to the point where we've had to walk away from some because we believe the risk is too high.
+We're scrutinizing our opportunity pipeline to a level never seen before in our business.
+Even though the custom-to-standard mix is relatively constant in that pipeline, the amount of first-of-a-kind projects in that custom mix is declining.
+We're looking at it with a lot more scrutiny from applying engineering up front before we take the order.
+So those are all changes we're making or changes we're seeing in the demand.
+Since you follow us closely, you would understand that subtlety, but it is a big deal.
+Custom isn't bad historically; it's just first-of-a-kind custom is challenging.
+Thanks, <UNK>.
+Good morning, <UNK>.
+I think there are several embedded questions there.
+So every company faces positives and negatives.
+What I would tell you about our Company from a positive standpoint -- and I would always rather play this hand: from a positive standpoint, we have outstanding customers who are financially very strong -- the automotive OEMs, the aircraft OEMs, those guys.
+They are more technology-dependent then ever.
+They're driving for shorter lead times in their laboratory, and we're the technology leader in helping them.
+Okay.
+So our problem is not in demand.
+We have focused heavily on our technology development, our sales activity with these customers to try to address their needs globally, which are evolving especially in Asia.
+That has gone very well.
+We've got a strong orders profile -- continuing strong orders profile for the business.
+Our issues are internal now.
+Our issues are, first and foremost, having the engineering capacity and tools to do our job.
+Yes, exactly.
+That's what I'm getting to.
+Our issues now are within our own four walls.
+We faced an issue late last year with engineering capacity; we addressed that.
+We brought on new tools and methods.
+We're now focused on both using those tools well and on the raw talent and organizational structure and operations.
+It is our intense focus.
+That is the focus of our management team all the way through me.
+I love to spend time with our customers, and it's served me very well in the last few years.
+My focus right now, to me personally, to our test general manager and to the whole test organization, is executing our backlog.
+It's managing our risk in new orders, and making sure we scrub those well, so that we're taking orders that we can execute well on from both customer and shareholder perspective, and delivering on those.
+We did not do a good job of that in the second quarter and I in no way want to candy-coat that.
+We had some stressful projects, yes -- first-of-a-kind technology marvels -- and we own the IP for those, so that's great for the future.
+We did not deliver on our commitments for revenue and earnings, and that's what we're focused on doing for the rest of the year.
+With regard to the PCB acquisition -- it is very special, <UNK>.
+We would not have undertaken this size of an acquisition for anything less than something very special.
+I would tell you, there is tremendous synergy between the sensors that they manufacture and both our sensor and our test business.
+I was at a test customer -- a long-term test customer -- two weeks ago, and they walked me through the labs that use MTS testing machines.
+Directly into the lab they use PCB sensors, the same management structure, the same focus and the same very positive feedback on having all of this technology under one roof.
+So I believe it brings substantial and unique value to our Company.
+You can always say, well, gosh, I wish the timing were different, or something else, but the asset came on the market.
+It has tremendous management team that's been in place there for a long time at PCB.
+We are focused on them doing a reverse integration of our sensor business, which allows us to focus our current management team primarily on the test business.
+PCB has a very seasoned leader and a very seasoned management team.
+They're going to be integrating our sensor business into their company, and coming under the MTS roof.
+So all that's required from our management team at the current MTS, is to make sure we get the revenue synergies between their business and our test business, which is a natural.
+It's what customers want and what they'll look for from us and PCB combined.
+So the integration is very straightforward.
+The focus is on internal execution and test.
+I can absolutely assure you it occupies every minute of every day.
+I hear you, <UNK>.
+Thank you for bringing it up; it certainly is a challenge, no doubt about it.
+And some of that we don't control the timing of, but it's too good of an opportunity for our owners to miss.
+I could not have passed on the PCB deal; it's a fantastic long-term thing for the Company.
+Our intense focus, I assure you again, is on operational execution within our test business.
+Okay.
+I really can't comment any more on the financing activities that we've already done.
+I think it's well publicized what our plan is for financing the acquisition; I just am prohibited from talking about any more detail on that.
+In terms of our confidence in the synergies, the basic strategic rationale for the deal -- it has been nothing but gone up since we signed the merger agreement.
+I've had gross confirmation from our customer base that they like the deal; that they will really enjoy bringing these brands and technologies together.
+I feel very confident on obtaining the synergies that we've talked about publicly.
+I can't comment any more on the financing activity.
+The acquisition opportunity came on rapidly.
+And those stock purchases were done very early in the quarter, if I'm not correct -- so was it January/February time frame.
+Yes.
+Yes.
+After that we halted stock purchases.
+So yes, we haven't been in the market for some time now.
+Thanks.
+Hello, <UNK>.
+You mean our earnings estimates without PCB.
+Or the earnings estimates with them, <UNK>.
+Yes, without --
+Sure.
+At a high level it's very simple; and, <UNK>, I'll ask you to elaborate in a moment.
+At a high level, as I said, it's very simple.
+The revenue issue we had in Q2 is more of a timing issue.
+It was a shortage of direct labor at the end of the quarter that we get back as these projects move forward with the hiring plan that we have in place for direct labor.
+So that's a pretty easy one -- we get that back in the second half.
+The earnings drag that we talked about, the EPS drag, is from the cost experience in the second quarter.
+And then the efficiency projections we have in the second half -- we had assumed our engineering operations team would be gaining efficiencies faster than we're modeling now.
+Part of that is, obviously, we've brought on a lot of new folks.
+Part of it is the usage of the tools and making sure they're comfortable using the planning tools we put in place.
+And part of it's the complexity of the backlog.
+So we modified our projections from the second half of the year in terms of efficiency improvements.
+Other than that it was the cost impact from the second quarter.
+<UNK>, is there any more color.
+Yes, a couple things, <UNK>, I just want to highlight.
+First, I mentioned the project cost adjustments.
+I was very specific in speaking to the $4 million that would flow through from an EPS standpoint in Q2.
+So when we look at the second half of the year, we have projected project costs adjustments, just not to the level.
+<UNK> already mentioned the revenue timing.
+And the other things I want to bring in is the cost actions.
+When you're modeling in Q4, we'll get three months of benefit versus only one month of benefit in Q3.
+So it's those three items.
+At this point I would tell you we're assuming that we plateaued on those until we clear this backlog; that we've plateaued on those, and we're holding steady for the year.
+I hope there will be some further improvements made.
+We're certainly driving for that.
+We've already made changes in some of the leadership team in operations to drive that harder, if you will.
+It gets back to the earlier question on focus.
+We're intensely focused right now on our operational performance and that planning process between engineering and manufacturing and manufacturing efficiencies.
+We've made some people changes, some talent upgrades here in the last month.
+We're intensely focused on doing that.
+From modeling perspective we've assumed it's plateaued for the year, and we're not going to realize any benefit of that within FY16.
+No, there's nothing from a seasonality; the revenue is pretty evenly split.
+Is it fair to say, <UNK>, revenue is split and EPS is more fourth quarter than third quarter.
+Right.
+Because of the timing on the benefits <UNK> mentioned, <UNK>, so we get one month of benefit in Q3.
+We get three months in Q4, which will impact EPS.
+In terms of revenue, it's pretty evenly split between the quarters.
+Thanks, <UNK>.
+Thanks, Roxanne.
+Thank you all for participating in our call today.
+We look forward to updating you on our progress again next quarter.
+Thank you, and have a great day.

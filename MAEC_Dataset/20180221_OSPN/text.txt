@@ -1,0 +1,153 @@
+<UNK>, thanks very much, and hello to everyone on the call today.
+We're excited to give you an update on VASCO's progress in 2017 and our outlook for 2018.
+VASCO had a strong fourth quarter with revenue growing 15% to $54.5 million on positive contributions from software, services and hardware.
+Compared to the fourth quarter of 2016, hardware grew a robust 18%, while non-hardware growth of 10% was somewhat more subdued than in recent quarters, both of those things due to the timing of large orders.
+Gross margin declined to 66% for the quarter due to higher hardware revenue and shifts in our regional revenue composition.
+For 2018, we expect our gross margins to return to the 70% range, subject to normal variations.
+Our operating margin, excluding amortization of purchased intangible assets was 6.2% for the fourth quarter.
+<UNK> will provide additional details on the fourth quarter during his financial review.
+For the full year 2017, we delivered on our financial guidance.
+Revenue of $193 million was up slightly from 2016, with strong second half growth offsetting hardware declines during the first half of the year.
+E-signature product revenue grew more than 50% during the year, and DIGIPASS for Apps was up more than 20%.
+Overall, non-hardware grew 29% year-over-year and accounted for 46% of revenue in 2017 compared to 36% of revenue in 2016.
+While we will see quarterly variations in our hardware to non-hardware mix, we expect a long-term shift towards software and services will continue.
+Our growth in software and services increased our gross margin by approximately 170 basis points in 2017.
+Our operating margin for the full year was 7.8% with our recently -- consistent with our recently increased 2017 guidance range.
+Our cash balance at year-end was $158 million.
+We continue to pursue strategic acquisition opportunities and to invest in our trusted identity solutions, including adaptive authentication, digital channel on-boarding and e-signature.
+We are pleased by the progression of our business over the course of 2017.
+The operating disciplines implemented by our leadership team are improving the predictability and performance of our business, as we execute our strategic plan to grow our software and services revenue, while sustaining our profitable hardware business.
+During 2017, we continue to win large software and hardware deals, and our pipeline for 2018 gives us confidence in our outlook.
+For example, Germany's second largest retail banking cooperative recently began offering our Cronto hardware to its member banks that served 30 million customers.
+In Q4, software revenue included a 7-figure eSignLive contract from a top 5 North American bank, and hardware revenue included a 7-figure shipment from a long time -- or to a long time European customer.
+I'll now turn the call over to <UNK> <UNK>, our Chief Financial Officer.
+He'll provide details about the quarter and the full year results before I come back to discuss our guidance.
+<UNK>.
+Thank you, <UNK>.
+As <UNK> mentioned, we had strong performance in the fourth quarter of 2017 with revenue of $54.5 million, an increase of 15% from the fourth quarter of 2016.
+For the full year 2017, revenue increased slightly to $193 million exceeding the high end of our guidance range.
+For the fourth quarter of 2017, product and license revenue grew 15% to $42.8 million, and services and other revenue grew 13% to $11.7 million.
+Our Q4 and full year 2017 results are reported under ASC 605.
+We adopted ASC 606 on January 1 of this year, and our guidance for 2018 is under this new accounting standard.
+We will provide more details regarding the impact of 606 during our Q1 earnings call.
+We do not anticipate a meaningful difference in our full year 2018 results under 605 compared to -- under 606 compared to 605.
+Gross margin for the fourth quarter of 2017 was 66% as compared to 67% in the fourth quarter of 2016.
+The lower year-over-year gross margin was primarily due to product mix.
+Gross margin for the full year 2017 was 70% compared to 68% for the full year 2016.
+This reflects an increase in software and services as a percentage of our total revenue for the full year.
+Operating expenses for the fourth quarter and full year 2017 were $35 million and $128 million, respectively, an increase of 17% and 6% from $30 million and $121 million reported for the fourth quarter and full year 2016, respectively.
+The increase in operating expenses for both periods primarily reflects anticipated investments in information technology, operations, increased compensation and some one-time items.
+Operating income as a percentage of revenue, excluding the amortization of purchased intangible assets, was 6.2% in the fourth quarter of 2017 compared to 9.3% in the fourth quarter of 2016.
+And for the full year 2017, it was 7.8% compared to 9.6% for the full year of 2016.
+Our full year 2017 operating margin, as <UNK> noted, was within our guidance of 6% to 9%.
+Adjusted EBITDA or adjusted earnings before interest, taxes, depreciation, amortization and long-term incentive compensation was $6.4 million and $22.9 million for the fourth quarter and full year, respectively.
+This represents an increase of 36% from $4.7 million for the fourth quarter of last year and a decrease of 13% from $26.2 million for the full year 2016.
+Note, we use adjusted EBITDA to monitor our performance, and our 2018 guidance includes this metric.
+Note, the fourth quarter and full year 2017 results include an estimated one-time impact of $28 million from the Tax Cuts and Jobs Act.
+This equates to $0.70 per share for the fourth quarter.
+Net loss for the fourth quarter 2017 was $26 million or $0.65 per share.
+Net loss for the full year 2017 was $22 million or $0.56 per share.
+Excluding the impact from tax reform, net income per share for the fourth quarter and full year 2017 would have been $0.05 and $0.15, respectively.
+Non-GAAP earnings per share, which excludes long-term incentive compensation, amortization of purchased intangible assets and the impact of tax reform was $0.14 and $0.43 for the fourth quarter and the full year 2017, and $0.16 and $0.54 for the fourth quarter and full year 2016, respectively.
+Okay.
+Moving to the balance sheet.
+As of December 31, 2017, our net cash balance, including short-term investments in commercial paper, was $158 million, an increase of $14 million or 10% from $144 million at the end of 2016.
+VASCO has no outstanding debt.
+Deferred revenue, which includes short-term and long-term components was $40.3 million as of December 31, 2017, an increase of $3.9 million or 11% from $36.4 million at December 31, 2016 and an increase of $1.5 million or 4% as of September 30, 2017.
+Now moving to the geographic mix.
+For the fourth quarter of 2017, 55% of our revenue came from EMEA, 28% from the Americas and 17% from Asia Pacific, compared to 60%, 19% and 22%, respectively, in the fourth quarter of 2016.
+For 2017, 48% of our revenue came from EMEA, 27% from the Americas and 25% from Asia Pac compared to 50%, 17% and 33%, respectively, last year.
+The increase in the share of revenue from the Americas is largely a result of our rapidly growing eSignLive software sales in North America and our growing security product sales in Latin America.
+Even though a majority of VASCO's revenue is generated outside of the U.S., in 2017, approximately 66% of our revenue was denominated in U.S. dollars, 29% in euros and 5% in other currencies, similar to the split we saw in 2016.
+I will now turn the meeting back to <UNK>.
+Thanks, <UNK>.
+2017 was a year of significant progress for VASCO.
+We build out a strong and experienced management team, exited non-core product lines, built new capabilities in every function, began strengthening our IT systems, defined a new forward-looking growth strategy and returned to growth.
+In 2018, we're delivering the initial phases of our trusted identity strategy, strengthening our technology capabilities, continuing to build a performance-oriented culture and growing more rapidly.
+Our guidance for 2018 reflects a continued focus on top line growth through a disciplined investment program.
+Revenue for the full year 2018 is expected to be in the range of $197 million to $207 million.
+Note, that a portion of the Q4 2017 revenue outperformance resulted from several million in shipments that had been expected in the first quarter of 2018, and which will have some impact to first quarter revenue.
+Adjusted EBITDA for the full year 2018 is expected to be in the range of $21 million to $25 million.
+2018 profit guidance will be based upon adjusted EBITDA instead of our prior use of operating income as a percentage of revenue, excluding the amortization of intangible assets.
+We believe the adjusted EBITDA guidance will allow investors to better compare our performance to other companies in our industry.
+In closing, we're confident in our ability to drive value for our stakeholders.
+We're growing our software and services revenue, and we continue to see demand for our hardware offerings.
+We're investing in our future.
+And we believe our trusted identity strategy will enable our customers to reduce fraud and securely pursue new growth opportunities in today's digital world.
+VASCO returned to growth in the second half of 2017, and we expect that to continue in 2018 with further growth acceleration in 2019.
+I'd also like to thank our VASCO associates around the world for their strong contributions to our success in 2017 and the important contributions they will be making in 2018 and forward.
+With that, <UNK> and I will be happy to take your questions.
+Operator.
+Sure.
+<UNK>l, this is <UNK>.
+I'll take -- make a couple of comments here and certainly <UNK> can add to this.
+I think as far as eSignLive is concerned, this was not an unusual -- I wouldn't characterize this as any kind of an unusual deal for eSignLive.
+We do see significant opportunities for growth, as I noted in my comments.
+eSignLive grew more than 50% in 2017.
+We expect to see strong double-digit growth for our software businesses, including eSignLive in 2018.
+And we have a good pipeline of opportunities, I think, across the software portfolio.
+So I don't -- we continue to be really optimistic and feel very good about the growth of our software business.
+It will go up and down, of course, somewhat from quarter-to-quarter, but the outlook, I think, remains quite good.
+And as we get into the back half of 2018, we'll be launching some of our new trusted identity services, which we think will contribute perhaps a little bit in 2018, but certainly more in 2019.
+With regard to the hardware business, certainly, the strength in the fourth quarter could conceivably create some difficult comps in fourth quarter next year.
+But again, when we look at our pipeline of opportunities in 2018 for the hardware business, there are some sizable and significant opportunities, certainly, 7-figure-plus type deals that are in the pipeline.
+So I would not -- I certainly, over time, as we said, I think, many times, we expect the hardware business to be on a slow decline.
+I don't believe we're going to see the kind of declines we had in the first half of 2017, but over time, there will be a gradual decline in that business.
+Within that trend line, we will have off quarters like we had in the fourth quarter and like we had in the third quarter of 2017.
+So little hard to say right now exactly what the compare will look like in the fourth quarter.
+But I think, we have modeled our hardware business to be a little bit of a headwind in 2018 and much less of a headwind than it was in 2017.
+So I don't see anything in that movement from Q1 to Q4 that we're concerned about for the full year of 2018.
+Yes, that's a great question, Matt, and something we talk a lot about.
+I think we're very happy with overall with the results and the progress that we've made in 2017.
+I would say one of the things it was a little disappointing was that we didn't get an acquisition done in 2017.
+It wasn't because we weren't looking.
+In fact, we looked very hard at a number of properties, and in a couple of cases, ended up not proceeding because we didn't like the valuation equation.
+So we will be disciplined about in our acquisition strategy.
+We'll continue to be disciplined.
+But we also don't think -- we don't want to stand pat, and we don't want to necessarily forgo opportunities that we think can really create value to help accelerate the growth and are consistent with the business strategies that we have.
+So we do pay -- we have a set of filters that we go through to identify targets, starting with whether it's strategically aligned, whether the acquisition will be 1 plus 1 is greater than 2 to use the kind of common phrase about M&A.
+And -- but we do have a number of targets that are out there that we're actively looking at right now.
+I feel optimistic that we will get some -- maybe 1 or 2 important transactions done in the course of 2018.
+I would certainly would be happy if valuations were a little lower than they are right now.
+I think at some point they will be lower.
+But I think every look that we have taken at this it's probably not going to change, that environment is not going to change in the near term.
+So there's going to be some period of time before there is further adjustment in valuation.
+In the meantime, we're being very selective, and we're looking for the right targets that we can -- we think can really be value creating for the company and our shareholders.
+Yes.
+We are seeing a pick up in activity.
+I think I mentioned that maybe in the third quarter.
+We are seeing an increased level of interest.
+We are doing some things to increase our ability to capture some of those opportunities in Europe.
+In the course of 2018, we do expect there to be a meaningful contribution to the growth of eSignLive from projects that are outside of North America.
+That has been pretty limited, I would say, so far since we acquired eSignLive, but we do expect that to -- that situation can improve in 2018, both because of the regulatory environment has become more clear, second of all because we are doing some things to capture -- to identifying and capture more opportunities in Europe and Asia.
+And in fact in the fourth quarter, we did land a pretty significant project in Asia for eSignLive.
+So we expect more of that to come in 2018.
+Yes.
+That's a great question.
+And the answer to the 2 approaches you took are both yes.
+I think the trusted identity strategy is a vision that really does incorporate the breadth of our portfolio ultimately.
+But there are some components to it that are -- will be new and will be launched in the course of 2018.
+One of those elements is really already in the marketplace; it's pretty early.
+But our -- some of our fraud management capabilities and the movement of our fraud management platform into the cloud is already in proof-of-concept and pilot with some customers.
+You will see some announcements from us, somewhere in the middle of the year, about related to our new adaptive authentication capabilities.
+And then there will be further announcements about expansions of the solution portfolio going forward.
+But one of the elements of this is that we are really taking the full portfolio of our capabilities and beginning to nip them together into workflows that solves specific problems for our -- particularly for our financial services customers.
+So there are some discrete capabilities and solution components that we are releasing in 2018 and forward.
+But over a reasonably short period of time, in the next few quarters, we'll start to see even some of the legacy elements of the VASCO portfolio incorporated into that trusted identity strategy.
+So I hope that answered your question.
+Yes, as I noted in my -- I think, in my comments, the growth of the software portfolio in the fourth quarter was a little bit below trend line, little bit subdued.
+DIGIPASS for Apps included in that comment.
+When we think about the first 3 quarters of the year and then we look at pipeline of opportunities going into 2018, fourth quarter, we think is a little bit of an anomaly.
+A lot of our security software projects are still perpetual-type deals in some cases.
+So they do tend to be large and periodic as opposed to more of a SaaS recurring revenue model.
+So it's not unusual for us to have a quarter like the fourth quarter where it's a little bit soft, where we had a very strong results in the third quarter, not quite as strong in the fourth quarter and then looking better in the quarters after that.
+So I think, the pipeline for 2018 looks just fine.
+It was a little soft in Q4, but we don't think that's indicative of any particular set of issues other than timing.
+Yes, I think if there are no more questions, then we'll go ahead and wrap it up by.
+I want to thank all of you for joining on the call today and asking some questions.
+We're very pleased with our progress in 2017.
+We're excited about 2018.
+And we have a lot of great things going on in the company.
+And we've got a team that can execute.
+So thanks again.
+Hope you all have a good day.

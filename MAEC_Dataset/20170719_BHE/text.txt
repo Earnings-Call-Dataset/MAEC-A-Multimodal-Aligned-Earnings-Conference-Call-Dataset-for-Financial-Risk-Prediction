@@ -1,0 +1,232 @@
+Thank you, operator, and thanks, everyone, for joining us today for Benchmark's Second Quarter 2017 Earnings Call.
+With me this afternoon, I have <UNK> <UNK>, CEO and President; and Don <UNK>, CFO.
+<UNK> will provide introductory comments, and Don will provide a detailed review of our second quarter financial results and third quarter outlook.
+We will conclude our call with a Q&A session.
+After the market close today, we issued an earnings release highlighting our financial performance for the second quarter and we have prepared a presentation that we will reference on this call.
+The press release and presentation are available online under the Investor Relations section of our website at www.bench.com.
+This call is being webcast live, and a replay will be available online following the call.
+Please take a moment to review the forward-looking statements advice on Slide 2 in the presentation.
+During our call, we will discuss forward-looking information.
+As a reminder, any of today's remarks that are not statements of historical facts are forward-looking statements, which involve risks and uncertainties described in our press release and SEC filings.
+Actual results may differ materially from these statements, and Benchmark undertakes no obligation to update any forward-looking statements.
+The company has provided a reconciliation of our GAAP to non-GAAP measures in the earnings release as well as in the appendix of the presentation.
+With that, I will now turn the call over to our CEO, <UNK> <UNK>.
+Thank you, <UNK>, and thank you for joining our second quarter earnings call.
+I am very pleased with our performance for the second quarter, where once again, we met or exceeded all of our commitments.
+Revenue for the quarter was $617 million, up 6% year-on-year.
+This is the second consecutive quarter of year-on-year growth.
+And as we look at the drivers of that growth, it was really fueled by our Test & Instrumentation sector, where our broad engagements with semiconductor capital equipment manufacturers is delivering handsome year-on-year growth.
+We also saw a good in our Aerospace and Defense sector, where we had broad growth with a number of existing accounts.
+And we also saw computing once again grow on a year-on-year basis, primarily due to our engagements in the storage arena.
+Gross margins came in at 9.4%, a 30 basis point year-on-year improvement.
+Our GAAP margins were 4.1%, again quarter-on-quarter improvement.
+And we had EPS of $0.38, a $0.03 improvement year-over-year and 4% (sic) [$0.04] on a quarter-on-quarter basis.
+If you look to our capital -- working capital and, more importantly, our cash conversion cycle days, the company did very well this quarter, posting 65 days of cash cycle days.
+That's below our anticipated target of 70 days and both a quarter-on-quarter and year-on-year improvement.
+Result of that is that we generated $15 million of cash from operations.
+That brings us to $93 million year-to-date.
+If you remember correctly, we guided between $125 million and $150 million for the full year.
+So we are well on our way to meeting that objective.
+And finally, our ROIC was 9.5%.
+That's a 50 basis point quarter-over-quarter improvement, and we anticipate further improvements in our ROIC in the third quarter.
+If you turn to Slide 5.
+As we have said in the past, revenue growth is essential for us to achieve our objectives, and the key to revenue growth is obviously bookings growth.
+And we posted a goal of $150 million of bookings by the second half of this year.
+This quarter, we posted $142 million of bookings, which is slightly below that second half goal, and we're extremely pleased with the progress we're making.
+Probably what's more important is the types of bookings we're enjoying.
+And as you can see this quarter, almost 99% of all our bookings are in our higher value segments.
+And what is particularly encouraging to me is that the distribution is relatively even between our A&D segments, our Medical segments and our Industrial segments.
+And I'd like to give you a little color as to what some of these wins were.
+So in Industrial, we had 2 new customers award us businesses this quarter: one in the industrial robotics space; the other having to do with an optical recognition application used in industrial products.
+In Medical, we had 2 new customers as well: one for infant health monitoring; the other for medication dosage monitoring.
+In A&D, we saw a broad growth in bookings from a variety of existing customers in situational awareness platforms, munitions, communications and avionics systems.
+And finally, we saw in our Test & Instrumentation good growth again with our semi-cap customers.
+So I'm encouraged by this progress and what it means going forward.
+If we turn to the next slide.
+As we've said in the past, our goal is to drive revenue growth at the right level and mix of profitability.
+And to improve our level of execution and speed, we outlined 3 initiatives in previous calls to allow us to do that: the first was to optimize our network; the second was to implement our market segment sales organization; and the third was to expand our engineering solutions and capabilities.
+I'd like to give you a brief update on these 3 initiatives.
+First, if you remember in our last call, we announced the relocation of our headquarters to Arizona and the consolidation of the corporate staff.
+As you recall, prior to this, Benchmark was a virtual organization with the majority of the executive teams spread around the country and the corporate staffs dispersed as well.
+The objective of moving and consolidating them all to Arizona was to get better efficiency, better rigor of decision-making and speed.
+I am pleased to report that the relocation will be substantially complete by the end of the third quarter.
+Today, all my direct reports are in Arizona, and as we speak, the corporate staffs are being relocated.
+As part of this relocation, Jon King, who has been our EVP of Operations and has been with Benchmark for over 20 years, has decided not to relocate and will be transitioning to another position and brooding to retire.
+I want to thank Jon for all his many contributions to the company over the past 20 years.
+He will be sorely missed.
+On Monday, we announced that Mike Buseman, an industry veteran, will be joining us in early August replacing Jon as EVP of Operations.
+Mike will focus on accelerating our initiatives with regard to operational excellence and customer experience, and we're extremely excited to have Mike join Benchmark.
+With regards to our market-sector sales organization, we have been focused on hiring sector-knowledgeable, business-developed personnel specifically to accelerate our hunting activities.
+We are substantially complete in this area.
+Coupling this group with our existing account management, operations teams as well as engineering leads should position us for future bookings growth in the future.
+It has been our fundamental belief that a robust engineering set of solutions yields higher-value manufacturing opportunities.
+And I am pleased by the progress we are making in extending our offerings in the engineering area.
+And what I'd like to do today is give you a little color as to some of the activities we're embarking on that and the progress we're making.
+In the Medical arena, we are investing in a range of biomedical technologies, including biometric sensing, precise fluid metering and fluid management, the goal of which is to drive growth in specific target applications in the area of remote patient monitoring, infusion pumps and in vitro diagnostic applications.
+At our last earnings call, we announced as part of our relocation in Arizona that we would be creating 2 new design centers.
+One was a design center sole-focused on IoT applications.
+The objective of this design center is to develop an interactive IoT system.
+And our goal is to provide a full situational awareness platform from centers to gateways, which allows customers to customize their requirements to provide a competitive time-to-market advantage for IoT and machine-to-machine applications.
+We have the majority of these building blocks today, and the objective of this group in Phoenix to integrate them into a holistic platform, a reference platform if you will, for application and solution developers.
+We're making good progress in integrating this and staffing our design center in Phoenix, and I'm extremely excited about the potential.
+In addition to the IoT design center, we also announced we would have a rugged RF and high-speed design center as well.
+Here, we are expanding or leveraging the capabilities of our current large filter business, and we'll be expanding our RF component lines, developing modules and integrated microwave assemblies as well as leveraging high-speed circuit design in RF fabrication.
+All of these are targeted to provide more complete solutions to our telco and advanced aerospace and defense markets.
+Good progress has been made in the staffing and establishment of this design center.
+On future calls, we will provide you more color in some of the areas expressly that we believe will drive future revenue growth and, more importantly, higher value segment penetration.
+And as I close, I'd like to just turn you to the next slide, which is Slide 7.
+If you remember correctly, we previously stated our targeted business model, which was to get to non-GAAP operating margins of in excess of 5.5% and ROIC in excess of 12%.
+Earlier this year, we provided waypoints or milestones to track our progress, and I'd like to give you an update as to that progress as I stand here now.
+On bookings, as we said, our second half objective was to be at or above $150 million per quarter.
+As we said earlier, we are closing on that gap with -- based on our second quarter performance.
+Revenue mix, we expected that we'd be at greater than 65% of our revenue mix in the second quarter in high-value markets.
+We are hovering around that capability today and expect to be there just slightly above it in the second half.
+Our gross margins are 10 basis points away from our waypoint target, and our SG&A is 20 basis points above where we should be.
+Now obviously, SG&A is dependent on revenue growth, but we believe we have a shot to drive to both of those.
+On long-term profit per square foot, which I believe is a metric of what ROIC will be going forward, we originally had a waypoint of $32 a quarter.
+That was based on a point-in-time metric.
+And in full disclosure, we were previously tracking LTM.
+So in order to make it apples-to-apples, we have modified the waypoint to an LTM waypoint at now $29.
+And as you can see from the chart, we're within $2 per square foot striking range for the second half waypoint.
+So all in all, a good quarter, making progress across all fronts.
+I want to thank all the employees of Benchmark for all their hard work they've had.
+Now I'd like now -- like to now turn over to Don to give you more color on the financials.
+Thank you, <UNK>.
+Thanks for everybody for joining today's call.
+We're going to start on Slide 9, and I'll provide a quick recap of our second quarter income statement.
+Our revenues were $617 million, which exceeded the high end of our guidance, and we're up 6% year-over-year, again, which is the second straight year -- second straight quarter of year-over-year growth.
+In the second quarter, our GAAP -- our non-GAAP operating margin was 4.1%, which increased from the first quarter, driven by our higher revenues.
+Our non-GAAP EPS of $0.38 was above the high end of our guidance of $0.31 to $0.35 and again primarily really driven by better absorption and higher-than-expected revenues.
+We have a couple of items that are included on our GAAP EPS numbers of $0.34.
+We have $1.5 million of restructuring and other costs.
+We also had $700,000 of recovery from the sale of inventory that we had written down in the first quarter due to a customer insolvency.
+For the quarter, our ROIC was 9.5%, up 50 basis points from the last quarter, and again, our long-term target is 12%.
+Now let's turn to Slide 10, and I'll give you a quarterly -- review our quarterly results by market sector.
+Industrial revenues for the quarter were up 5% quarter-over-quarter due to increased demand from our customers.
+Industrial revenues were down 14% year-over-year, primarily due to softness across several of our top customers.
+On A&D, revenues were down 4% quarter-over-quarter due to demand mix and qualification issues.
+A&D revenues grew 16% year-over-year, driven by increased demand -- defense demand.
+Our Medical revenues were flat quarter-over-quarter and down 6% year-over-year from lower demand across several of our top customers.
+On Test & Instrumentation, our revenues grew 16% quarter-over-quarter and 47% year-over-year from strong demand in our precision machining business, serving the semi-cap market.
+In summary, our higher-value markets represented 65% of our quarterly revenues.
+Overall, the higher-value sectors grew 4% sequentially and year-over-year, which is still below our overall 10% target.
+Strength in Test & Instrumentation did not offset the headwinds we saw in Industrial and Medical sectors.
+Now turning to our traditional markets.
+Computing was up 29% year-over-year, driven by growth from our existing storage and new security customers.
+Telco was down 12% year-over-year, primarily due to declines in demand for optical and broadcast products.
+Our traditional markets, which represented 35% of our second quarter revenues, were up 11% from last year and 20% from the first quarter.
+Our top 10 customers for the quarter represented 45% of our sales.
+Let's turn to Slide 11 for a discussion of our quarterly business trends.
+Again, we had a very good quarter.
+Gross margins for the quarter were 9.4% and improved 30 basis points year-over-year based on higher revenues and better mix.
+Our non-GAAP operating margins were 30 basis points up from the last quarter due to better absorption and higher revenues and down 10% -- 10 basis points from last year due to additional SG&A cost.
+Beyond the $1.5 million in restructuring for Q2, we do expect to incur additional restructuring charges of approximately $1.5 million in the third quarter.
+Now please turn to Slide 13, where I will provide a few updates on cash flow and working capital.
+We generated $15 million in cash from operations for the quarter.
+Free cash flows were a use of $4 million for the second quarter.
+Our cash balance was $749 million at the end of the quarter, with $92 million available in the U.S. Our inventory at the end of the quarter was $416 million, an increase of $12 million from the previous quarter.
+Our accounts receivable was $392 million, an increase of $11 million from March 31.
+And our accounts payables were flat quarter-over-quarter.
+Now let's turn to Slide 14, where we'll look at our cash conversion cycle.
+We improved our cycle day targets by 2 days, ending the quarter at 65 days.
+Again, this is an 18-day overall improvement compared to the second quarter of last year.
+Just one other note I want to make: we are including our customer deposits, as we mentioned last quarter.
+Over the last year, we've been focusing on increasing these deposits to improve our working capital performance, and these deposits have become more meaningful.
+So we now report them in determining our cash conversion cycle performance.
+Let's turn to Slide 15 to review our third quarter guidance.
+We expect revenues to range from $575 million to $595 million, our non-GAAP diluted earnings per share expected to range from $0.32 to $0.36.
+Implied in this guidance is a 3.7% to 4.0% operating margin range.
+For modeling information for the third quarter, let's turn to Slide 16.
+Overall, we expect Industrial revenues to be up low single digits in Q3 based on modest strength from our robotics and automation customers.
+A&D is expected to be up mid-single digits in Q3 based on increased demand across multiple platforms and programs primarily in communication and munitions.
+We expect Medical revenues to be up about 10%, with the increase in demand across a number of existing and recently launched programs.
+For Test & Instrumentation, after an exceptionally strong demand we saw in the past 2 quarters, we expect that demand to moderate somewhat in Q3, and we expect that to be down about 10%.
+Turning to traditional markets.
+Computing revenues will be down about 20% after an exceptionally strong demand for storage and security-related products in the second quarter as well as memory component shortages constraining higher demand.
+And finally, telco revenue should be down greater than 15% due to continued weak demand from our optical and broad-based -- broadband customers.
+Interest expense is expected to be $2.3 million, and we expect the effective tax rate to range between 19% to 20%.
+Expected weighted average shares for the Q3 are expected to be 50.5 million.
+As <UNK> stated earlier, we had a very good quarter and a great first half of the year, and we look forward to providing you an update on our Q3 results in October.
+And with that, operator, please open the line for Q&A.
+Okay, Steve.
+This is <UNK>.
+Let's take Medical first.
+I mean, obviously, Medical revenue has not been growing as we had hoped it to be.
+But clearly, Medical is a function of -- kind of the programs you have and where they are with regard to FDA certification and, therefore, their ability to ramp.
+So we believe that we'll see growth then in the third quarter primarily because some of the programs which have been waiting FDA approval like we expect to begin to ramp, and as they do so, it will drive additional revenue growth.
+So the Medical space is an interesting one because you have to have a lot of bets on the table.
+It takes a long time from a booking to a revenue realization.
+And depending on the level of FDA certification required, it is elongated.
+So that's why we are so driven to get as many different types of technologies and capabilities out there to get higher bookings in the Medical space because you need to have a lot of chips on the table if you're going to get some wins.
+And that's how we view the Medical space.
+In Industrial -- look, Industrial, our products or our engagements are probably more limited, as we said before, in process control and energy.
+And one of the things we have to do is diversify our engagements in Industrial.
+We'd have more end-market diversification to allow us to continue to grow even when you have different market oscillations in end markets.
+So hopefully, that answers your question.
+So I'm not sure we've talked about it at length.
+We have a filter business that does high-end filters, right.
+And so as we look at future growth and demand in aerospace and telco markets, what is going to be really important going forward is high signal integrity as it relates to the move to 5G for telco and in the area of defense communications and EM.
+Now we believe we have capabilities at both Lark as well as other parts of the company that if we put them -- bring them together, we can serve these customers quite well and we'll grow with that.
+And so we are just concentrating our efforts to expand and start with more RF components, and we'll bridge into modules and the like.
+And I think this will be a natural extension of our RF capabilities, where we marry the spare capabilities previously in different parts of the company into one and we give a higher-value proposition to our customers.
+And the world of 5G will be upon us.
+And as that happens in 2020, we have to position to help our customers to realize it.
+Well, <UNK>, look I think that -- we always said '17 is a transition year.
+And I'm pleased that we've seen revenue growth in the first 2 quarters of the year.
+Now the third quarter is normally down sequentially from the second, and that's embedded in our guidance.
+Now even with that, I believe you will see, depending on where we are in that range, year-on-year growth.
+It may not be as much as our previous 2 quarters, but I know that in the mid to the high (inaudible) flat to positive year-on-year growth.
+Right.
+So look, when you put on additional go-to-market resources, right, depending on their level of understanding of the space and the Rolodex in the space, you can expect it's going to take them a couple of quarters before they even started getting their first booking.
+And from the time you get a booking to the time you realize the revenue, depending on the sector, it could be anywhere from 90 days, and probably the easiest ones, which would be compute and telco, to up to 180 to 240 days for Medical.
+So that's why it's so important to prime this pump first with people to drive bookings that will drive revenue.
+And I wish it was a more shorter cycle but it isn't in our industry.
+So <UNK>, look, I think the -- Don made the comment, and I think it really references NAND memory.
+And if you look at the market for NAND memory today, it is pretty tight.
+And in fact, unless you have reserve capacity, the lead times are really elongated.
+Now NAND memory is using a lot of computing products, and so whether or not you get enough allocation and the timing of that allocation to be put in the product and realized in terms of revenue is the real issue.
+So that was really the reference to component shortages.
+Well, look I mean, at the end of the day, it will impact certain areas in the storage arena, where we have a lot of exposure to storage.
+So could we have shipped more product in the second quarter if we had more supplies and components.
+The answer is yes.
+It's a watch item for us as we go through the second half of the year and specifically in the third quarter.
+And I think if you look at the entire supply chain in terms of a variety of different components, it's getting tighter across the board.
+And this is a watch item for us.
+And we're being very, very circumspect as to what it means to our customers and what it means to reserve and capacity (sic) [reserve capacity].
+It's a function of where it is.
+So obviously, the stuff that's in Medical and A&D, the time to realization is a little longer in terms of revenue.
+For the Medical products, because of where they stand with current FDA registration -- I kind of spoke about that earlier.
+In the A&D products, it is kind of where they are with regard to funding levels from the government, right, and the like.
+So those 2 sectors will probably have the longest booking-to-revenue realization time frame.
+In the -- in some of the other areas, especially in Industrial, we can probably get it sooner.
+And in the Test & Instrumentation area, we can get it sooner.
+So it's a mix.
+That's why as we look at how we have to hunt and how we have to put our -- get our bookings to achieve the target level, it's not so much the aggregate that's important.
+It's the composition that is because we have to have enough composition so that we're not rotating -- over-rotating the revenue 2 years away.
+And that is a big change in focus that we have in the company today: how to make sure we have balanced bookings that translates to revenue growth.
+So you have to understand the realizations for each booking sector.
+A long-winded answer, I apologize.
+Look, I -- we're just going to get -- our focus is on the third quarter.
+I'm hopeful that the fourth quarter follows seasonal pattern.
+No.
+Look, Mitch, not really.
+I mean, it's our job to give you our most balanced view what could happen, and that's what we do.
+Now I will tell you, right, as you expect any operational executive to do, we are driving our organization to always deliver at the high end or better.
+And this is where execution becomes important.
+As long as the market isn't -- was not blowing in your face, if you can execute, you should do better.
+And so we get a balanced view on guidance, but I look at how well the company performs or how well we execute.
+And that execution is how well we do on chasing parts to get to customer demand.
+It's how we can reduce inventory.
+It's how we can do those things that drive margin and asset velocity.
+And if we do our job well, we should do better than we think we can do.
+Not always the case, but if we do it well, we should do better than we think we can do.
+Well, first off, we have -- well, we enjoy a broad set of engagements with a variety of semi-cap customers.
+So that is, I think, a strength of the company.
+And as you know, semi-cap demand is a function of end market demands, right, both in a variety of traditional technologies and new technologies.
+And I think that if we were to step back and look at overall semi-cap demand based on the growth of data center requirements for content delivery and deep analytics, LCD television demand, memory demand and a whole variety of other things, the secular growth rate for that industry is probably better than it has been in the past.
+And so while you might get a little bit of oscillation quarter-on-quarter, on balance, I think that industry will continue to grow faster than traditional norms over the next years -- couple of years.
+And we are extremely pleased to be engaged with customers that are growing.
+Yes.
+Thank you all for joining us on our call today, and we will be available post this conference call for follow-up questions today and tomorrow.
+Please don't hesitate to reach out.
+Thank you, and have a great day.

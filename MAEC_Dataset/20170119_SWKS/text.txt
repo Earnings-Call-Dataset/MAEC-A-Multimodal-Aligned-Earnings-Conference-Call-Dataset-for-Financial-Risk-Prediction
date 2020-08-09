@@ -1,0 +1,284 @@
+Thanks, <UNK>, and welcome, everyone
+The Skyworks team delivered exceptional results in the December quarter
+Let me begin with a few highlights
+We achieved revenue of $914 million, up 9.4% sequentially and above our guidance range
+We expanded gross margins to 51.2% and operating margins to 38.8%, illustrating strong operational execution and prudent expense management
+We produced record earnings per share of $1.61, $0.03 better than our guidance and perhaps most importantly, we generated nearly $0.5 billion in cash flow from operations in the quarter, another record for Skyworks
+In addition to our strong P&L and balance sheet performance, I am especially pleased with our design win execution, particularly at marquee customers
+Of note, we secured SkyOne platform wins with multiple Tier 1 Sky OEMs, extended our leadership position in diversity received systems and secured a key win in our custom high band PAD portfolio
+We ramped fully integrated fully integrated low, mid and high band solutions integrating SkyBlue technology for Huawei's Mate9 platform, their flagship phone
+We launched multiple devices across Samsung's entire portfolio and gained momentum in China, with key wins at market leaders Oppo, Vivo, Meizu and Xiaomi
+All of these wins were captured by resulting the growing complexity and performance requirements inherent in today's advanced mobile architectures
+Specifically, we're seeing the continued shift to highly integrated transmit solutions, leveraging our core capabilities in gallium arsenide, temperature compensated SAW filtering and enhanced power management
+In addition, we are benefiting from the rapid move toward carrier aggregation, a major catalyst in driving higher data rates with expanding bandwidth in both uplink and downlink transmission
+In parallel, we continue to expand our opportunity by growing our content reach with new revolutionary diversity receive systems, specifically targeted at the most complex carrier aggregation challenges, as well as a growing suite of analog solutions from Wi-Fi, GPS, antenna tuning, signal conditioning and more
+Now moving on to our broad markets portfolio and IOT
+We expanded our design win pipeline to include wins with Netgear home security system, ARRIS cable modems as well as Comcast and Rogers with carrier-grade broadband gateways
+In addition, we secured design win supporting the latest voice assistant technology from Amazon, Google and Microsoft
+We also capitalized on the newest trend towards home Wi-Fi mesh networking, with key wins at Linksys, Ubiquiti Networks and other leading OEMs. And finally, we broadened our footprint across the automotive sector, leveraging the diverse array of wireless protocols supporting connected car applications, vehicle to vehicle communication and 4G telematics
+In this past quarter, we were pleased to have consummated a strategic design win at a leading U.S
+electric car OEM
+Our Q1 results, strong outlook and design win momentum reflect solid tracks in spanning out mobile, IOT and broad market portfolio
+The success we are demonstrating is part of a secular multiyear fee and we are still in the early innings
+At a higher level, Skyworks is at the epicenter of a sea change in mobility
+Our end markets are driving a substantial move from brick-and-mortar to a rapidly growing mobile economy
+This trend places an unprecedented burden on analog RF and mix signal performance, vastly increasing the value and utility of our solutions
+It's compelling to see how many different avenues mobile technology now supports, whether it's streaming 4K video, social media, mobile payment or rapidly evolving areas such as augmented reality, virtual assistance and the connected car
+Popular apps including Facebook, Uber, Netflix YouTube, Spotify, and Wave, all share key characteristics
+They require ultrafast, low latency highly secure and efficient connectivity, as well as location-based services
+These challenging needs are invariably facilitated by an integrated Skyworks engine
+Importantly, we uniquely support all the wireless protocols enabling these diverse applications including Wi-Fi, Bluetooth, ZigBee, GPS and LTE
+Further 5G represents a massive growth opportunity for our industry and certainly for Skyworks
+In fact, market projection suggest 5G data rates will approach 10X the speed of card 4G and LTE solutions
+To put this in perspective, downloading a full-length HD movie in 3G took one day
+In 4G, the same file took minutes
+On a 5G network, this content will be downloaded in mere seconds
+At the same time, the connected car is yet another catalyst that offers significant opportunity for Skyworks
+Looking out over the next years, the amount of data that will be delivered to and from the car is estimated to be 5 to 10 times more than the bandwidth used by today's smartphone
+For instance, by 2020, a single autonomous car is expected to consume 4,000 gigabits of data per day and real-time diagnostics, positioning, vehicle-to-vehicle communications and that's equivalent to the daily data consumed by more than 2,000 smartphone users in 2017. Skyworks is uniquely positioned to capitalize with solutions that solve all of these daunting connectivity challenges, setting the stage for outperformance across cars and new markets
+With that, I will turn the call over to <UNK> for review of our financial results and Q2 outlook
+Thank you, <UNK>
+As our first quarter results and outlook illustrate, we are off to a strong start in fiscal 2017. We delivered solid revenue and earnings, set a record for EPS and quarterly cash flow, while guiding about March quarter consensus estimates
+Our profitability and increasingly strong cash generation is allowing us to fund growth and deliver higher returns to our shareholders
+In fact, the new $500 million share buyback authorization announced today reflects the confidence of both the executive team and our Board with respect to our strategic outlook
+Skyworks' systems level expertise, operational scale and deep customer engagement are enabling us to capitalize on the rapidly expanding mobile and IOT ecosystems, while positioning us for 5G leadership
+That concludes our prepared remarks
+Operator, let's set the lines up for questions
+Question-and-Answer Session
+For us right now, the market backdrop looks quite good and we continue to see an increasing push in mobile for higher complexity, higher performance and that for us as you know translates into opportunity
+It's not all with one or two accounts
+We're starting to see some great penetration with leaders in China
+We mentioned Huawei, certainly large players in the U.S
+, large players in Korea are all exhibiting that
+And then in parallel and we talked about this for a while, but it's really coming together nicely that our broad business, our broad market portfolio continues to grow
+Looking at a year-over-year basis, we're reporting a 10% to 15% year-over-year growth rate with that opportunity and that providers just another boost for us in terms of topline
+It was slightly above 40%
+Thanks, <UNK>
+Sure <UNK>
+What we're seeing is very good success in keeping pace with our core architecture SkyOne architecture, switching architectures, but we're now augmenting this with new technology and kind of what I call an expanding product reach doing great work in carrier aggregation, both uplink and downlink
+We have some unique solutions that we really pioneered in the industry around downlink receipt side, addressing CA and the complexities
+We're taking that kind of an engine and pushing that forward to names like Huawei and names like Samsung and some of the other China players
+Our GPS technology is getting adopted now on a quite consistent basis
+Wi-Fi has been moving to MIMO architectures in mobile and also in some of the broader markets
+So, it's really quiet a mix and what I am really pleased about is our ability, our team's ability to look long at these challenges in mobile and then architect very unique solutions with customer’s hand-in-hand to finally deliver what makes Skyworks special
+So, we see that trend continuing
+Yeah absolutely
+So first of all, I'm pleased with our execution in Q1 with gross margin coming in at 51.2%
+Looking at Q2 obviously, this is a seasonality softer quarter with revenue down approximately $74 million, $75 million and so that you can see reflecting into the gross margin
+Having said that, we are feeling -- we're very well positioned for further margin expansion in the second half of 2017 as we expect the next three quarters to see sequential revenue growth going forward
+Yes, and let me add to that <UNK>
+We were very confident that as <UNK> articulated, as we stepped through the second half fiscal and second half calendar year, you're going to see revenue and margin step up
+So, we're committed to continuing that path
+Sure, our growth and success outside of our largest customers has been outstanding
+Huawei became the number two account for us this last quarter
+They're going to continue to be one of our leaders
+We have our customer in Korea, who will continue to grow significantly into 2017 and our largest customers will set up very well for us as well as we address some very complex architectures with compelling products
+So, we feel really good about that on the mobile side
+And then let me remind you that the broad market portfolio from the infrastructure to IOT to early stages of automotive, all look good and the staff there are double-digit year-over-year
+Sure <UNK>
+I think part of the driver there as you probably know is just really the upgrade cycle across the Board
+So, you have your most developed accounts that will be moving up with higher levels of complexity, bringing in more complex EA architectures, maybe even going MIMO on the radio potentially that's out there
+And then you have your value tier players that are moving up maybe at a higher rate percentagewise, but haven't quite hit the dollar value of the top tier
+So, we address all of that
+We're not a player that spends much time with the 2G or 3G market
+So, the segments that we address, we think it is a double-digit tam opportunity
+One of the things that we've been going at Skyworks is we continue to innovate and elevate our portfolio
+So, these products today that we're selling and enjoying share gains, that just didn't exist three or four years ago
+So, we're continuing to push the envelope
+There is also a lot of technology that flows between mobile and IOT
+Our very strong portfolio and Wi-Fi, we have a Bluetooth portable
+We have a GPS portfolio
+None of that is really part of the traditional RF TAM, but it matters
+Our SkyBlue technology for power management is becoming more and more pivotal for us in design wins
+So, it's really a broadening suite
+In overall TAM, probably 10% to 12%, but I think we have some unique opportunities to address it in our portfolio
+Yeah absolutely
+So 5G is really going to be a game changer for the space
+It could present up to 10 times the date rate that we see today in 4G
+There are these three big themes when you look at 5G, you try to create a faster data pipe, lower latency, more efficient
+It's about increasing bandwidth which is going to drive carrier aggregation of the click, higher modulation schemes that you're going from 256 QAM maybe to 1024 higher density as complexity
+There is MIMO architectures that will scratch that pipe
+All of these themes are very important and if you think about frequency for it <UNK>, if you move up to some of these higher frequencies in 5G, they are very often TDD modulation, so time division duplex and TDD requires band pass filtering
+It doesn’t require duplex or so
+We have a unique opportunity there to stretch our TC socket with only too higher frequencies in a TDD domain and gain additional share
+Sure, <UNK>
+Yes, the growth should span across our larger customers
+It should also span across kind of what I would consider a value Tier portfolio, the Oppo and Vivo and maybe to a lesser extent Meizu and Xiaomi moving up
+Huawei, we mentioned today is now a clear number two customer for us
+They have really stepped up in terms of the content, the richness of content and the reach of technology, providing opportunity for us to deliver mid-band, high-band, low-band solutions, power management, diversity receive, addressed CA uplink and downlink
+So, we see a great opportunity with the value tier moving up and then the high tier actually increasing their content
+Those are the important themes
+And then the additional in parallel opportunities in broad markets continue to span and we expect double-digit growth there for the foreseeable future
+Yes, sure
+Both sides of the equation there are critical for us
+Certainly, flagship phones and what we're seeing there is really a great opportunity -- actually we're really happy about it as we talked a lot about this technology and this ecosystem within mobile and that tremendous ecosystem, all these great applications that we enjoy driving change in hardware and it's happening
+And each year every customer has different cycles, but every success of generation of smartphone technology that we address has had increasing burden, increasing challenge and increasing opportunity for Skyworks
+That's what drives the content for us
+We've also been able to push our reach
+We're moving the areas within this technology, new areas to enjoy further gain
+So, we feel really good about that trend continuing
+Our teams are doing a phenomenal job right now with the most critical customers, with the smartest people on the customer end and in Skyworks to make sure that that happens
+So, that's going to be big part of the story
+But in parallel you hit on the other key point
+There's a tremendous volume of mid value tier players producing smartphones today that haven't yet enjoyed that big step up in performance
+And if you look at Huawei as a case study, we've worked with them for many, many years and had a great relationship and been involving just about every platform and the big swing for us is when finally, the technology and PAD technology in power management ad Wi-Fi and some of these complex system were adopted the revenue accelerated
+There's a value tier today that's significant that hasn’t yet made that movement
+We're going to work very closely to make that happen with them
+Sure
+Well, China all in for us is about 25% of revenue and it’s not just mobile
+We have a pretty strong infrastructure position in China across Huawei, across ZTE and others
+The mobile business is strong and then there is some other broad market portfolios there
+So, it’s about 20%, 25% of the revenues there and what was the second part of the question?
+Thank you
+With respect to the M&A element there, just to remind everyone, we are very focused on our core franchising connectivity
+It's a significant market
+There is a great deal of investment going forward there that has turned to be profitable for us and fruitful for us
+But at the same time, we do evaluate M&A opportunities
+We look at a lot of potential transactions
+We have a very high bar with our financial consideration on that end
+But we keep an open mind
+We announced the 500 million shares repurchase program here today and we certainly have the opportunity if the right deal comes about to exercise an M&A transaction
+Yes absolutely, it's really about our ability to outperform on design wins that were consummated kind of in the middle of the prior year and now flowing forward
+So, we were really excited about that the content reach again is expanding
+We’re engaging more and more with fully integrated SkyOne Solutions rather than power amplifiers and filter separated
+The carrier aggregation products that we put forward and diversity received are quite compelling in the market and then again, the roster of IOT accounts that we’re bringing forward continues to grow and the content within those applications where maybe we had -- we started with a single Wi-Fi device
+Now we have 3x3 devices
+We’re embedding GPS more and more
+We got Bluetooth opportunity
+So, the whole spectrum is expanded
+And as we look at March, we feel very good about our guidance there as <UNK> indicated
+Backlog coverage is solid
+We’re fully booked and it’s a very balanced quarter as well
+Yes, sure, sure, great question
+Well as know, when we go to market, our strategy is to sell a system solution
+So, it input to output performance
+So, it incorporates our highly customized and curated gallium arsenide technology, unique filtering technology, SOI packaging, testing
+The whole engine is really a Skyworks signature and within that engine, we select the best process and the in best technology to deliver what our customers want and outperform technically
+So, this is not the first high band win
+We have been clocking and clicking design wins here for a while
+This one was meaningful for us
+It did move us up to some higher frequencies above 3 gigahertz and let me also remind you and I answered the question earlier that in some of these domains, there is a need for a TDD Time Division Duplexing versus FDD, Frequency Division and that can change the technology curve and the selection as well
+So, it will continue to grow in that space
+We’ll continue to grow in mid band
+We’ll continue to move our TC technology up higher and continue to lead in low band as well
+Sure, well let me start with you mentioned carrier aggregation
+We have an incredible portfolio in carrier aggregation
+It nothing to do with BAW
+We can use TC-SAW
+We can use other capabilities, organic capabilities and we're a market leader there without question
+Looking now, there are opportunities where a higher frequency, high performance BAW filtering makes a lot of sense, but we don’t sell discrete devices
+So, our plan is to try to create the best engine, the best complete sub system that meets our customer's needs
+In many cases, we can do it with our organic technology
+We do have a path foundry partners to bring in BAW within our modules if needed
+Our TC-SAW capabilities continue to improve and if you look at spectrum, the most crowded spectrum is in the lower frequency bands
+700 meg up to 1.1 gig, very, very crowded
+TC-SAW capabilities are ideal
+Bulk acoustic wave can’t play at those lower frequencies and anywhere some frequencies that are very high with extremely high performance needs where BAW’s critical
+So, we’re not hindered by any of that
+I think we feel very comfortable with our outlook
+We have a lot of great technology choices
+And if you look across the peer group, there are some players in our space that don’t in-house gallium arsenide
+They go to foundry partners
+So, it's not uncommon to have a few points of technology where you outsource in partner and we do that on occasion, but invariably, we use our own organic products
+Sure, sure well let me start with the organic product line
+So, we have a really strong competitive left in with our TC-SAW facility, SAW Japan as you may remember, this came about through our joint venture with Panasonic, which is now wholly owned entity with Skyworks
+And we have capacity to do about 3 billion units of TC-SAW per year and we have room right now
+We're not a full utilization, but we have a really strong pipeline going forward that’s going to enjoy the benefit of those filters
+If you look at what we can do, it's just really again, it depends on the customers' need, it depends on whether you are in a frequency duplexing domain or a time division duplexing domain
+There is nuisances there and so we try to match the best complete system with the customer need
+We do have BAW, we're completely aware of BAW acoustic wave technology and what it can and can't do
+We have strong partners right now that we can bring it in on a foundry basis
+We continue to look within the walls of our company to do it organically or construct devices that are just as competitive organically
+Some of that is TDD
+What I'll tell you today we enjoy a robust opportunity with the filtering we have today augmented by our gallium arsenide or switching our packaging and our complete systems focus
+Sure, sure, well, China of course is a meaningful growth driver for Skyworks
+I mentioned earlier on the call it's about 25% of our revenue all in
+And it's a market that consumes and exports, right
+We have a lot of Tier 1 players that are moving up and inside Huawei and then it's an export market as well and we can enjoy both sides of that
+One of the things that has helped us in China is having a strong baseband partnerships, very tight coupling with Hisilicon captive to Huawei today
+Also, a lengthy relationship with MediaTek and MediaTek is really in route now to move towards higher levels of integration adopting SkyOne like structures from Skyworks that's a big pop and names like Oppo and Vivo continue to look strong for us
+We don't do much at all with the 3G and 2G white box markets
+So, our revenue is really driven around the market leaders
+And I'll tell you that right now Huawei is the one that's really stepping up in content and the others are moving along that curve
+So, I think there is going to be some upgrade opportunities within 4G with some of the mid and value tier players within China
+Right and that's China as well, so that's global in China specifically
+Yes, the facility has several innings of opportunity ahead
+It continues to be competitive weapon
+And we've got our growing list of customers and expanding set of new frequencies that we're going to be addressing
+So, it continues to be an important weapon
+I believe right now if we look at our outlook, we'll probably be okay for capacity for a bit, but just depends on how big our designs wins are here going into the second half
+But I think that the factory is running well, increasing number of customers enjoying that benefit and the demand signal for integration -- intergraded duplex's, integrated filtering for us has been tremendous
+Yes, no, I appreciate that and you're right
+I think we weathered a bit of storm here in '16 and most of the clouds there have abated and it's not just market shares
+We’re gaining share, we’re creating new content
+We’re expanding in IOT and in broad markets and its meaningful and its sustainable
+We’re confident that the second half for us should be a double-digit growth rate year-over-year
+We think we’ll have strength going into the next fiscal year as well just given our outlook and our design wins that we've secured recently
+So, we feel good about it
+Again, there is room to go on the margin line
+We’re going to work that
+The demand side let's say, looks very good and more diversified I should add
+Right
+Tony and also GPS, GPS has really been prolific here over the last two or three quarters and forward-looking outlook as more and more devices now location services matter, highly precise locations matter
+And we have some really unique things that we do in our Mexicali factory to shield and kind of manage the complexity of GPS and the size requirement
+So, that continues to roll out and it’s a big driver in IOT
+So, we have attachment across mobile, but the number of IOT nodes that we could lever with GPS I think is quite compelling and that's in other case where we're just starting to rack up the design wins
+We have really good technology
+It takes advantage of some of the core IP that we have in the amplifiers that we have today in cellular and trying to design and shape those for other applications
+Sure
+Yes, the broad markets in IOT space should be up about 10% to 12% roughly
+If mobile is not typically bullish here in the March quarter, we do have unique customer dynamic where some customers in fact are up even within mobile and that’s all about content
+So, it’s not a particularly unusual signal
+One of the reasons why we’re doing better than seasonal is just again a higher growth rate in the broad space and also with one of our larger customers in Korea content step up, which also provides a sequential gain in revenue
+Sure, sure
+We’ll take a shot at that
+Well, the broad market opportunity is more unbounded right
+There is really kind of an infinite set of customers that we're addressing and moving the dial across the Board whether it be just adding the new applications and new customers
+And then even within IoT, there's a content opportunity where the customers and consumers they get used to a low range technology want to augment it perhaps with higher-end solutions maybe they had MIMO and Wi-Fi or maybe they go from a wearable technology that is just Wi-Fi and then it stretches to LTE
+So, there is an action there that I think has tremendous upside and really the market continues to expand
+In mobile, mobile is more characterized
+I know there's a lot of detail on the unit count
+There is a lot of detail on customer innovation, interaction, but what is missed in mobile is again this tremendous economy that relies upon the hardware and relies upon the kind of technology that we offer and so what we see there and it’s been increasing, is a continued push for performance-oriented solutions and every year there is a different requirement, there is a different opportunity for us to expand upon may be its frequency bands, may be its bringing in new opportunity for us to expand upon maybe it's frequency bands, maybe it's brining in new technologies
+We talked about Wi-Fi and GPS there happening, they're happening in some cases
+Diversity we see as a new solution for Skyworks
+So, all that continues to move and then we have this major 5G upgrade cycle on the horizon
+It's a few years out, but Skyworks will be very well positioned there and when that does occur, you will have the backward compatibility for 4G and 3G
+So, you'll basically have some duplication of content or some enrichment in content without the legacy going away
+So, there is a lot of things on the horizon if you look out
+Again, the near term looks good
+We talked about it, but if you think long about where the markets are headed and the continuous demand for mobile technology and mobile data and the economy that we've been speaking out far, it looks promising
+They're contributing, but there's a long way to go in terms of the adoption
+While we've talked a lot about, they're embracing this technology now and it's been great for them, it's been great for us and I think it's going to propel their business with the performance driven product, a number of products and we're seeing that move up a bit
+MediaTek is a partner of ours
+We're working with them and their reference designs to continue to bring integration to the masses in China
+Some of the value Tier players Oppo and Vivo for example are moving along that curve, but they're still not to where we expect them to be
+So, that's a continuous process and that doesn’t mean units have to go up
+That's really the content and again there is a big, big opportunity for us value tier moving up to mid-level and high levels of performance and bringing the kind of technology that we have into their products
+Sure
+I think the highest growth categories are really around the connected home high-speed access points and routers
+You got these HD cameras
+We have design wins with the whole Google net suite
+We have design wins with the Netgear, Linksys, Ubiquiti, Wi-Fi mesh
+That continues to roll and the content in some of these access points and routers and gateways could be very high, can be double-digit content
+A lot of it is Wi-Fi and there are some other switching technology as well
+We're then taking that and spanning out into a variety of newer opportunities early innings with products like drones and we have designs there
+Automotive, we think could be a phenomenal catalyst for us for semiconductors in general and for Skyworks
+If you think about what really matters in an autonomous car, the connectivity piece right
+We have cars today
+We're all driving cars, but connectivity is going to really matter
+So, in order to make that market work, we're going to need very aggressive 5G solutions, massively expanded data pipe for both the transmit and downlink
+All of that's going to be incredible opportunity for us and broad markets are that's going to be out there a few years
+Cellular infrastructure has been a market we've enjoyed for a while
+It's not the fastest growing market
+It's solid from a market perspective and we have a number of players there that we're engaged with and that also will go through a 5G upgrade cycle
+We have within the portfolio
+It's not a significant piece, but it does play in some of the infrastructure markets
+It plays in some optical products
+We have a little bit of business there, but we monitor the right technology for the application and for the customer need
+The gallium arsenide technology that we have as you know we have two very significant fabs are really highly customized and curated gas solutions that proliferate our portfolio
+We do have some opportunities with foundry partners to bring in SOI and some other variance around the semiconductor space
+And we had access again as needed
+So, it's not a mission critical technology
+It may play a little further out here in 5G, but at this point it's on our radar screen and it's an opportunity
+Thank you, operator and thank you all for participating on today's call
+We look forward to seeing you at upcoming investor conferences and other events during the quarter

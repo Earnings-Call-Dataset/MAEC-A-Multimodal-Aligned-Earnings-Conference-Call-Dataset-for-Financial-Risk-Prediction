@@ -1,0 +1,276 @@
+Thanks, Mike
+Good morning to everyone on the call, and thank you for joining us today
+As outlined in our earnings call in January, our priorities for 2017 are to leverage our network leadership, retain and grow our high-quality customer base while balancing profitability, enhance ecosystems in Media and Telematics, and drive monetization of these networks and solutions
+We are executing against these priorities while positioning the business for the long-term as we progress through 2017. The first quarter of 2017 proved to be a very active quarter for us; first, we extended our network leadership, as recognized by third party testing results; second, we launched an introductory unlimited wireless data plan to address evolving customers’ demand in a highly competitive environment; third, we realigned our operating themes to enable business agility to deliver new products and next generation services
+Verizon's core strength and the foundation of our future success in a connected world starts with the network, and we have enhanced our track record of U.S
+industry leadership
+We are consistently investing in our network to extend our leadership in both 4G and 5G
+We also closed the acquisition of XO Communications fiber assets in the quarter
+Our uncompromising commitment to our customers led to the launch of an introductory unlimited offering in the quarter
+This measured approach in a competitive and highly penetrated wireless phone environment was positively received by both the consumer market and more importantly, our existing customer base
+Our competitive unlimited offer, coupled with networks strength and reliability, allows us to attract, retain and grow high-value customer relationships across our entire business
+At the end of the first quarter, we announced the realignments of our operating teams to facilitate organizational agility in wireless and fiber markets to scale and expand our Media and Telematics businesses and to maintain leadership in network reliability and new technology
+These changes do not affect our segment reporting
+We are confident in our strategy and priorities to provide the best network experience in the U.S
+, create long lasting customer relationships and identify growth opportunities in new businesses
+Executing these strategies will enable us to continues to deliver returns on our investments and drive long-term value for our shareholders
+Let's review the first quarter operating performance at the consolidated level, followed by Wireless and Wireline results, Media and Telematics progress and a network technology update
+Now on to slide six
+On a comparable basis, excluding divestitures and acquisitions in the period, consolidated revenue declined approximately 4.5%
+The primary driver was a decrease in wireless service revenue resulting from the migration to the new pricing structures introduced over the past nine months, and the ongoing transition of the base to unsubsidize pricing
+These pricing moves have been positively received in the marketplace
+On a consolidated basis, excluding non-operational items, first quarter adjusted EBITDA margin was 37.3%, which was slightly higher year-over-year due to steady improvement in operating efficiencies and cost management
+Let’s turn now to cash flows and the balance sheet on slide seven
+We are generating substantial cash flows from our operating segments
+Cash flow from operations is $1.7 billion, which included discretionary pension contributions of $3.4 billion
+Additionally, our ongoing asset-back securitization program provided $1.3 billion in the quarter, which flows through the financing section of the cash flow statement
+The discretionary pension contributions are net present value positive on an asset tax basis given the reduction in our variable rate PBGC premiums and the expected net return on planned assets
+As a result of these contributions, our mandatory pension funding through 2020 is expected to be minimal, which will benefit future cash flows and improve the funded status at our qualified pension plan
+Also, the rating agencies view debt funded pension contributions as neutral to credit rating metrics
+Consistent with our capital allocation priorities, we are investing in our networks
+Our capital expenditures were $3.1 billion in the quarter, and we expect capital spending for the year to be within our 2017 guided range
+Our balance sheet is strong and provides us with financial flexibility to grow the business
+We ended the quarter with $116.5 billion of total debt, which was comprised of $110.2 billion of unsecured debt and $6.3 billion of on balance sheet securitizations
+During the quarter, we completed multiple capital market transactions, including new debt issuances to fund the discretionary pension contributions, the acquisition of XO and to pre-fund the acquisition of Yahoo
+These transactions included a $3.1 billion tender offer and $9 billion debt exchange, which reduced future cash interest costs and extended maturities
+We remain on track to return to our pre-Vodafone credit rating profile by the 2018 to 2019 timeframe
+Now, let's move into review to the operating segments, starting with Wireless and the impacts of Unlimited on slide eight
+In our Wireless business, we have extended our network leadership position, while balancing operational performance in a competitive environment
+Verizon is the U.S
+market leader across high-value postpaid phone customers, and we have consistently stated that our top priority is protecting our base to build on our customer relationships into the future
+During the first quarter, we made a disciplined decision to launch an unlimited offering, so let's spend a few minutes on the factors leading to our decision
+As discussed on the last earnings call, we launched wireless plans in mid-2016 that offered safety mode and carry over data, reducing overage charges
+Since the launch, the U.S
+wireless phone market experienced greater competition with unlimited plans from other carriers
+We chose to compete using equipment promotions during that time, while we evaluated different service pricing options, including Unlimited
+At the start of 2017, competitive intensity escalated, resulted in loss of gross add share and an uptick in churn pressure
+So we determine that the timing was right for the introduction of an unlimited option at the high-end of our existing plans
+We are confident in our network capability to efficiently manage the expected usage growth from unlimited, because we have invested in technology, architecture and densification
+Our early network performance is consistent with our high-quality of service expectations and within the current network plan
+The customer response to the launch was favorable as evidenced by an immediate improvement in subscribe activity in the second half of the quarter
+In the quarter, in which we added 49,000 smartphones, our phone net-adds had two distinct trajectories
+Prior to our Unlimited launch, we had retail postpaid phone net losses of 398,000 customers
+After the launch, we added 109,000 retail postpaid phone customers, which gives us momentum entering the second quarter
+Overall in the first quarter, we lost 307,000 postpaid customers, consisting of phone losses of 289,000 and tablet losses of 255,000 offset by other connected devices
+We introduced the Unlimited offering, primarily to protect our high quality base, and we achieved the desired impact as retail phone churn improved after the launch and was less than 0.9% for the eighth consecutive quarter despite heights and competition in the marketplace
+Total retail postpaid churn of 1.15% increased year-over-year due to higher tablet churn, which is expected to remain elevated throughout the year as customers roll-off for free capital promotions from prior years
+Total postpaid device activations were down almost 9% over the year prior, of which about 82% were phones
+In a seasonally soft quarter, we had 5.2% of our retail postpaid base upgrade to a new device, down from 5.8% last year
+During the quarter, 5.7 million phones were activated on device payment plans
+While we may progress in the prepaid market, this remains an area of opportunity for us, as prepaid devices declined by 17,000 in the quarter as compared to a decline of 177,000 in the prior year
+Let's turn to slide nine and take a closer look at Wireless revenue and profitability
+Total Wireless operating revenue declined 5.1% in the first quarter
+We experienced the change in the service revenue trend, which had been improving sequentially
+Service revenue declined 6.1% year-over-year compared to the 4.9% decrease in the previous quarter
+The service revenue pressure was a result of decreased overage revenue, lower postpaid customers in the quarter and promotional activity
+Overage pressure was primarily related to the ongoing migration to the pricing plans implemented last year and the introduction of Unlimited offerings
+As expected, optimize as we benefit the most from stepping down in price, primarily single line users, were the early adopters of these plans
+We believe this revenue trend will persist through the first half of the year, but remain confident that these plans will be up and neutral over-time as more users step-up in price, which has already taken place
+New customer accounts added after the unlimited launch on average had higher account access fees
+While we absorb overages in the near-term, we expect that the increase in account access fees will replace overages overtime
+Equipment revenue decreased 4.8% in the first quarter
+Sequentially, the percentage of phone activations on device payment plans remain steady at approximately 76% in the first quarter compared with about 77% in the fourth quarter
+We expect the second quarter device payment plan take rate to remain consistent
+At the end of the quarter, approximately 48% of our postpaid phone customers had a device payment plan, while about 71% were in unsubsidized pricing
+Our Wireless EBITDA margin, as a percent of total revenue, was 45.1% which was down due to the service revenue trend and the increased advertising activity associated with the unlimited plan launch
+Let's move next to our Wireline segment on slide 10. At the beginning of February, we completed the acquisition of XO Communications which contributed revenue to enterprise solutions, partner solutions and business markets for about half of the quarter
+Excluding XO, Wireline segment revenues maintained recent trends, declining 3.2%
+Consumer markets revenue increased 0.7%, which was driven by favorable pricing, partially offset by lower customer demand
+In Fios Internet, we added 35,000 customers for the quarter, over 22% of our broadband customers are in plans with speeds of 100 megabits per second or more
+Fios video losses of 13,000 in the quarter were indicative of softer demand from linear video due to the increase in over-the-top offerings, mobile video consumption and competitive promotional offers, particularly in the New York market
+On an organic basis, Enterprise Solutions revenue declined 4.3% in the quarter as a result of pricing pressure in the market
+On a constant currency basis, this decline was 3.7%
+The customer migration from legacy services, such as voice, to advanced communications product is generating a revenue headwind in the near term, while increasing customer satisfaction and decreasing serving cost over the long term
+Wireline segment EBITDA margin increased to 22.7% for the quarter, up from 19% last year
+Tight cost controls plus impact of last year's renegotiated labor contracts improved profitability
+We expect full year improvements in margins with seasonal fluctuations throughout the year
+Let's move next to slide 11 to discuss their progress in new businesses
+In our Media business, AOL continues to deliver solid seasonal performance with growth in gross revenue
+Revenue, net of traffic acquisition costs, decreased about 4% driven by a higher percentage of programmatic advertising
+Along with our content assets, AOL’s ADTECH capabilities have enabled us to provide unique content across multiple platforms
+We have assembled video platforms to leverage the growing customer demand for digital media
+Our targeted content pillars, focusing on news, sports, finance and lifestyle, are already increasing the viewership
+To provide the necessary scale to effectively leverage these assets, we are looking forward to combining AOL and Yahoo and operate in the combined businesses under the Oath brand
+We are actively working on integration streams with Yahoo to ensure a smooth consolidation when the transaction closes, which is expected during the second quarter
+Consistent with past quarters, digital video consumption on the go90 app maintained in average data usage of about 30 minutes per viewer with less than 20% to the up-traffic served on the Verizon wireless network
+During the quarter, the app was updated to improve the user interface, increase content discovery and enhance the programming and advertising capabilities
+In the Telematics business, we are quickly integrating the Fleetmatics and Telogis acquisitions
+With these assets, we are the global market share leader and are looking to expand our offerings in this space
+Total Telematics revenue was $214 million in the first quarter
+Organically, IoT revenue, including Telematics, was up approximately 17% in the first quarter
+Let's move next to slide 12 to discuss network and technology
+We consistently invest in our networks to ensure that overall quality and capacity remains ahead of demand
+Capital spending of $3.1 billion in the quarter was largely network related to maintain leadership in our markets
+Fiber is a critical component of our network strategy and next generation deployments, as demonstrated by the success of our densification initiative
+Earlier this week, we announced the strategic agreement with Corning with whom we have a long-relationship to supply optical fiber and hardware solutions of at least $1.05 billion from 2018 to 2020. This investment ensures that we have adequate supply of fiber
+In the first quarter, LTE data traffic increased 57% over the prior-year
+While still early in the cycle, the increased data traffic resulting from Unlimited is in line with our expectations, and network management tools have been effective
+We are committed to remain in the largest and most reliable 4G network through technological developments in LTE, deploying small cells and refarming mid-band spectrum
+As part of the densification, we are deepening our fiber assets, enhanced by the XO transaction
+As previously announced, we are launching 11 pre-commercial 5G fixed wireless pilots during the second quarter and we look forward to sharing the results later in the year
+Let's move next to slide 13 to review our strategy for future growth
+Our long-term growth model is to lead in network, expand our customer relationships and develop new businesses in Media and Telematics
+While executing on our strategy and positioning for future growth, in the quarter, we listen to our customers evaluated the marketplace and launched an unlimited offering in order to retain and grow our high quality customer relationships
+We realigned our operating teams to increase business agility to deliver new products and next generation services and develop new ecosystems in Media and Telematics in order to monetize the rising data traffic on our network
+Overall, we are confident in our strategy and ability to execute and deliver long-term value to our customers, partners and shareholders
+With that, I will turn the call back to Mike, so we can get to your questions
+So I think if you look at what Lowell said earlier in the week, as we look at the network and is consistent with all being saying for over a year ago, since we announced the fiber initiative in Boston, that as we look at the networks of the future, they are going to be built with a lot of fiber deep into the network and that network is going to be built for multiuse cases, not for a single use case; so it's going to deliver consumer to the home applications; it's going to deliver small business applications; it's going to light up enterprise buildings; and it's also going to deliver smart cities and IoT solutions too
+So as we think about how you build that network out, you’re going to need fiber that’s not out there today, which is one of the reasons we had the announcement earlier this week to make sure that we have access to the physical fiber as we start to deploy it more in places like Boston around the country
+Now as you say, the architecture doesn’t exist today in terms of what we could acquire
+So there is options here, we can go out we could build that fiber as we’re doing in Boston
+And we also look at every way that we get access to that fiber
+That’s what it’s critically about, is getting access to the fiber we need to deliver the solutions that we’re looking to do
+And there’s multiple ways we can get that
+So depending on the location that may mean us building the fiber network
+If there is great assets already in place and as the opportunity to acquire them at a good price then we would certainly look to do that
+And then there is also other ways to work with partners thhrough leasing and other arrangements where we don’t have to build or outright buy
+So we will look at all those opportunities as how we get access to that fiber, do we need to build the network of the future and provide the solutions that our customers are going to want as we go forward
+So as you say, we could do that organically and inorganically
+We’re very comfortable and confident in the assets we have and adding on to them ourselves
+But if the right opportunity came along, we would look at that
+And I think we’ve been fairly consistent about dealing that and we’ve also been consistent about the impact on the balance sheet
+We believe in a strong balance sheet
+But if the right acquisition comes along that allows us to add shareholder values in the long run and it’s the right thing for shareholders and all stakeholders in our business, we would look doing that
+But we’d do it in a way that certainly reflected the need to have a strong balance sheet
+Yes, there is a number of different assets, aspects to it that would make it attractive; speed to market; the quality of the assets, that’s there; and we look at all those things
+But ultimately, if we have to build it ourselves, we’re comfortable doing so
+And we think we can do that relatively within our investment plans
+So I'll start with your first one
+We really don’t breakout the quarter typically in terms of the net add numbers, and so
+But when you look at year-over-year, what you’re really looking at here is the impact of going to the unlimited
+And really given our customers, the functionality that they are looking for and that was a decision we made, and you saw an immediate impact in our business
+And we certainly do look at that the month-by-month
+And I can tell you that this isn’t a seasonality in the first quarter, the change we saw in the first quarter
+But really the 398,000 negative number through the first half and in the positive 109 in the second half, was all about the response to Unlimited as opposed to any significant seasonality in the quarter
+And then in terms of your second question on small cells, so the fiber deal isn’t just about building small cells
+Obviously, we will build small cells with this, but there would be other use cases as we go out
+So we’re not in a position today that to say the number of small cells that we will light up with this fiber agreement with Corning
+I can tell you, we will continue to build the best performing wireless network across the country; and we use small cells, we use the new technologies in LTE; and moving into 5G to do that and this fiber will help us to do that
+So I’ll start with your first one around wireless revenues and the ARPA decline
+So as I look through the quarter, and let's see what happened in the wireless revenues
+We have the continuation of the migration of the base to unsubsidized pricing
+But in addition to that, what we also saw was a reduction in overage revenues
+And this really was as much about the continuation of people migrating to the plans we launched last summer with safety mode and roll over data as it was about Unlimited
+We've seen a good amounts of our base already roll-over to those plans where the overage starts to decline
+And as we go forward, we should expect to see that continue in the second quarter and then we expect we’ll see the trend in wireless service revenue starts to improve in the second half of the year
+So we do think you'll see another quarter of some pressure in wireless ARPA before we see it head-up again
+And look the other piece that’s in the wireless number is when we were down close to 400,000 net adds in the first part of the quarter that's -- those were revenues that we didn’t bare on the second half of the quarter but we saw the reverse in those trends and look forward to that piece continuing
+So on the guide, if I go back to the guide real quickie here, what we said is on organic basis we’ll be fairly consistent
+So when you look at the first quarter, a year ago was $1.06 and that included about $0.10 from the assets we sold to Frontier
+This year, we had $0.95 and as Mike mentioned, there was about $0.02 of pressure in there from the acquisition
+So I think we’re in line there
+From a revenue standpoint, they’re down 4.5% from an organic basis year-over-year
+As I said, the service revenue we expect to improve and the trajectory in the second half of the year
+The big thing around the revenue for the year is going to be equipment revenue
+And as we’ve gone through the unsubsidized pricing, we recognized that equipment revenue at the time of the activation of handset; we’ll see what happens in the back half of the year; we’ll see the new devices that come to market; we’ll see how the holiday season goes, and that will be a key driver of getting to that revenue target
+So on the last question, the Corning deal
+And as you say $1 billion over three years, it’s certainly not a small number
+But when you look within the overall context of our capital spend, it certainly fits in there
+So as we go and build out fiber assets, I think you’ll see us do that within our total capital spend
+Yes, you will see us spend more on fiber as we go forward
+But historically, you’ve seen moves within our capital spend between different components
+So this increase in the fiber spend will be offset by reductions in other areas, and that’s the trend you’re seeing consistently for us
+In terms of capital spend for the year, the first quarter was certainly a lower quarter and we sometime see
+But the first quarter is often a low capital spend quarter for us
+So that’s about where we expected it to come in
+In terms of the guide for the year, it's too early in the year to say exactly we will be in that range, I am confident we’ll be in that range
+And as we go through the year, we’ll provide more insights into where we think we’ll end up
+So on XO Communication, I wouuld say, you'd see nominal impact at the earnings level from the transaction in the course of the quarter
+Your question around cash taxes, what you’re seeing there is that you say, first quarter is typically live from a cash taxes standpoint, just because of the timing of when payments are due
+As you go through the year, previously we had said the cash taxes would converge closely with the ETR rate
+Because of some of the activity we had in the quarter with the discretionary pension contribution and the liability management activity, with cash taxes we’re now actually come-in in a lower rate than the ETR for the year
+So that's an improvement to the cash expectation for the year
+From an exit rate of the first quarter, it’s too soon to say just purely extrapolate that number out
+But certainly, we’re very confident that the offering is resonated very strongly with the base; both in terms of improvements in churn and also an uptick in growth that, we continue to see that; the rest of the quarter will play out based off of new devices that hit the market; and then also the competitive response, especially as we head into Mother's Day and the Dads and Grads period in June
+But we do look forward to a better trajectory from the business with an offer out there that’s certainly resonating with customers
+So on the churn question, I think it's, as you say, the first half of the quarter we did see an uptick in churn and then we saw it come back down in the second half with the response to Unlimited
+Look, we had a lot of customers in the base who love being on the Verizon network and the performance they get
+But certainly managing their data was a pain point, it was another thing to do within their lives
+And so they was some interest from the Unlimited functionality and as other people are offering that, we saw some people choose to make that trade off between quality of network, but not having to manage their data
+And so as soon as we went to the Unlimited offering and we gave people the option of not having to make a trade-off, they could have unlimited data and beyond the best network we saw an immediate improvement in the churn number where our base saying this is where we want to be
+And we’re certainly seeing that continue as we head into the second quarter
+Now your second question, so okay, there is obviously been a lot over the past 24-hours around this, so let's break this down
+Lowell was asked a question in an interview about if a certain company called and wanted to talk, would he take that meeting
+And he responded, sure we’d take that meeting
+And if emphasis he added on just like if a couple of other companies called, we’d take the same meeting
+What this really comes down to and is consistent with what he said on CNBC interview was, we’re looking to how we execute our strategy; we’re confident in executing our strategy organically
+But if there is the right opportunity out there to accelerate the strategy inorganically in a way that adds shareholder value, we’re always looking at those opportunities
+But I think the story was a little taken out in context, he was answering a question about, if somebody called would we take a call and would we have a conversation with them
+Of course, we would
+But we’re also very confident with the assets we have and the plans we have of developing the business in an organic fashion as well and generating shareholder value
+So I'll take your first question then
+But you mentioned, made a comment there <UNK> about re-lead in networks superiority, that would imply that at some point we didn’t -- we have given up the lead in network superiority, and that clearly hasn’t happened
+You can look at any of the third party results of the testing they do over the past year, and you can see if anything we’ve widen the lead
+So network superiority will continue to be at the forefront of what we do
+We’re very confident that the customers value that
+And we’re very confident that we will lead as we move into 5G; we’ll have that network out there first; have customer offering around that technology out there first; and that will give us an opportunity to work to continue to expand the business, just like we have with previous generations of technology
+In terms of your dynamics in the second quarter in the marketplace, look we will have to wait and see
+Right now, we’re very happy with how the customer base is responding to the offers that we have out there
+We’ll have to see what the competition does
+And we will continue to be competitive in the marketplace, but we will do that in a disciplined fashion
+And we’ll see other quarter plays out
+So for the 5G trials that we’re doing, we're using the 28 gigahertz spectrum that we have the right to use as part of the arrangement we have with XO
+In terms of your broader question about our spectrum position, we’re very confident in it
+Approximately 50% of our current spectrum holdings are delivering our 5G network today, so we have significant opportunity to -- about 4G usages there
+We have significant opportunities to continue to grow within the spectrum holdings that we currently have; we’re refarming spectrum as we've talked about for a while; we still have the AWS-3 spectrum; and then on license, we’ll come into the portfolio we go forward to
+In addition to using spectrum though, the way the spectrum is used continues to get more efficient based off of the network architecture and advancements in the technology; LTE advance we've talked a lot about, they continues to be additions to that
+And so as we look forward, we’re very confident that we have the spectrum we need to continue to deliver the best-in-class 4G experience
+Yes, we obviously saw an uptick in usage, but it was expected
+One of the reasons we waited until February to launch Unlimited was we said to oursevels if we're ever going to do Unlimited, we are not going to do it at the expense of the core brand promise, which is the network performance
+And so we spend a lot of time in the back half of last year, asking ourselves is the network ready for Unlimited
+We did a lot of testing around the network
+And so we concluded that the network was ready for that
+What we've seen since we launched from a usage standpoint and it's been in line with our expectations
+The other important thing of course is when we launched it, we gave ourselves the opportunity to network manage when a user goes pass 22 gigs, and so that's an important point in managing the network in an unlimited world
+And so we’re very comfortable with the experience we've seen so far
+So on your last comment around network quality resonating, I would say that completely disagree with that statement
+We know from talking with our customers that network quality matters that they value the quality of our network
+The fact that they have the reliability to get on the network and stay on the network work, no matter what they’re doing or where they are, is tremendously important to them
+And that shows up in the churn rate that we have coming in below 0.9% three quarters in a row and certainly, the improvement we saw there post launch
+So this narrative that network no longer matters, I think we completely disagree with and I think that shows up in the numbers and the results that we show
+In terms of the margin trade-off I think, look, when you’re looking then to the ARPA decline this is a continuation of decline, because we're breaking apart the service revenue and the handset revenue
+When you look at the ARPA number, which is really the billings we give to customer every month that includes the handset billing, that still up year-over-year
+So we continue to feel good about that trajectory
+And as you think about our move to Unlimited, we did it in a way where we will added the functionality but it wasn’t a price reduction
+We think that this ARPA will be ARPA neutral overtime
+We’ll initially seize the impact of optimizes and we’ll also see the impact of reduced overage
+But we also have the ability for customers to come on the network on a metered plan and then step up overtime, and even our base is stepping up from some of the lower data buckets to get on Unlimited
+So there is some offsets there that we think means that Unlimited is not going to be a reduction in ARPA
+And this is why we say when we introduced it, we did show in a disciplined fashion, which is something you should expect to see from us as we go forward and respond to the marketplace
+So on the trajectory, we still feel confident that we’ll see an improvement in the wireless trajectory as we go through the year, and a stronger overall result from year-over-year number versus last year
+Now, what we will see is in the second quarter we’ll see a continuation of the impact of the optimizations, both through the customers that came onto the Verizon plan last summer and also on Unlimited
+But then the back half of the year, we’ll see the trend start to improve and we continue to be confident that we’ll see wireless service revenue get back to positive on a year-over-year basis during 2018. So I think the big thing as you look there is we continue to keep pricing at the right levels
+We have the opportunity to step customers up
+And as we more successful in adding customers in the marketplace, as we showed in the back half of the quarter, that gives us the opportunity to move those trends in the right direction
+So I think there has been a little surprise by some comments we’ve made over the past few months around this
+And really internally, there was no change in how we view this
+We certainly have the target to get back to that leverage ratios and credit metrics as we discussed
+But we’ve always believed and maybe it's just because we’ve said it more explicitly over the past few months
+But look, if you give me two options; option A is, an opportunity comes up and I say no I can't do it because it mean I couldn’t hit that leverage target; or option B is, I do a transaction that allows me to accelerate the strategy of the Company, improve my competitiveness in the marketplace and do it in a fashion that allows me to improve shareholder value versus the first option
+But it means I have to push out when I get back to those leverage targets, is the right thing to do to do the second option
+If it means we push that when we get to those targets because we have a great opportunity, we’re going to do that
+There is no change there
+But I will say that we continue to be committed to a strong balance sheet, whether or not we have any inorganic activity
+So I would say they have been talking about these reductions in OpEx over the past year or two
+I think you’ve heard us talk about it for more years in that now
+We continue to look at and manage the cost of the business down, and I think you see that in results
+You certainly can see it clearly in the results in the Wireline segment, for example
+So we look at managing OpEx and reducing it, not as a program for a year or two but something we do every year
+Every year we have cost reduction targets for each of the business units and they diligently work on those and have a great track record of delivering them
+As I think about CapEx, one of the great things about our business is we produce a significant amount of cash flow that allows us to continue to invest in the business
+And we do that so that we position the business to be able to deliver products and offer our customers just for today but as we head into the future, because the nature of the business we’re in, we're always looking at least one to two years out in terms of what we need
+So we continue to do that and make sure that we're providing the connectivity solutions that our customers need as we go forward
+However, saying that, we look at how we get -- continue to get more efficient in there
+And you will see us continually do that, the cost to add capacity in the network continues to come down and it comes down because of the things our network team has done for many years and how we work with the vendors in the space
+So we don’t make as much of a big deal about what we do to manage OpEx and CapEx efficiencies
+But I can absolutely guarantee you it's a key focus within the business and we have a great track record of doing that
+In terms of the reorganization, I think look, this is just an opportunity to make sure we stay focused on the key things to us, which is the network and continuing to build the network; not just the network of today but the networks we need going forward; the focus on managing the customer base and growing the base, retaining the base and generating loyalty; and then generating those new businesses, whether that be in the Media Co, Telematics or the broad IoT space
+So it was really to make sure the organization is aligned with those strategic goals of the Company
+Thanks, Mike
+I'd like to close the call with a few key points
+The first quarter showed our ability to compete effectively in a financially disciplined manner
+We remain confident in our strategy and priorities, led by investing in our networks, creating platforms to further monetize data usage, maintaining a disciplined capital allocation model and creating value for our customers and shareholders
+We are positioning the Company for long term growth; a key foundational element of our vision of the future is our strong network assets
+Our strong networks will enable us to be at the center of this new connected world of people and things, and give us the opportunity to participate globally in the advancing digital ecosystems
+We look forward to the tremendous opportunity to leverage all of our assets, and are confident in our ability to execute our strategy
+Thank you for your time today

@@ -1,0 +1,119 @@
+Thanks, <UNK>, and good morning, everyone
+As announced earlier today, Garmin recorded first quarter consolidated revenue of $639 million, up 2% over the prior year
+Marine, outdoor, aviation and fitness collectively increased 12% year-over-year and contributed 75% of total revenues
+Gross margin improved to 58.3% as both segment and product mix were favorable
+As a result of our increased revenues and gross margins, our operating margin improved to 18.2%, while operating income increased 12%
+This resulted in GAAP EPS of $1.26, which includes a significant income tax benefit recognized during the quarter
+Pro forma EPS which excludes this benefit grew 7% to $0.52 in the quarter
+We are pleased with our first quarter results, which delivered growth in revenue, profits and earnings
+However, since Q1 represents the lowest seasonal quarter of our financial year, we are maintaining the guidance issued in February
+Doug will discuss our financial results in greater detail in a few minutes
+But first, I'd like to provide a few brief remarks on the performance of each business segment
+Starting with marine, revenue grew 26%, ahead of the overall market resulting in market share gains
+All major product categories performed well
+Gross margin improved to 57% while operating margin improved to 17%, resulting in operating income growth of 76% over the prior year
+Marine season is in full swing and we have seen strong demand for our latest product offerings
+We started shipping our new GPSMAP chartplotters early in the season and the feedback from customers has been very positive
+Looking forward, we remain focused on gaining market share through innovations that will clearly differentiate us in the market
+Looking next at outdoor, revenue increased 20% on strong demand for outdoor wearables
+The segment continue to generate strong gross margin and operating margin of 63% and 30%, respectively, while operating income grew 24% over the prior year
+We began shipping the highly anticipated fēnix 5 adventure watch series late in the quarter
+Orders have been very strong and we expect that it will take several weeks to catch up with demand
+We also recently hosted our first Connect IQ Developer Summit, bringing together application developers and business partners to participate in hands-on workshops and breakout sessions with our product managers and engineers
+At the event, we announced new capabilities for Connect IQ, including the ability for app developers to implement a revenue model
+We also announced new integration partners including SmartThings, which gives us a strong presence in the emerging home automation market
+Turning next to aviation, we reported solid revenue growth of 16%, driven by growth in aftermarket products and led by strong growth related to our ADS-B offerings
+Gross and operating margins remained strong at 74% and 31%, respectively, resulting in operating income growth of 27% over the prior year
+During the quarter, we started shipments of the G1000 NXi, the next generation integrated flight deck featuring wireless connectivity and enhanced safety features
+We received European certification for the GTX 345, expanding the addressable market for this popular ADS-B transponder
+In addition, we continue to support our OEM partners in the development and certification of new aircraft and helicopter platforms
+Much has been said about the challenging market conditions, which remain a factor
+However, we continue to believe that market share gains and new platforms provide opportunities for long-term growth
+Looking next at fitness, revenue declined 3% driven by the rapidly maturing market for basic activity trackers, especially those which lack GPS capability
+Despite this challenge, we are very pleased with the performance of advanced wearables with GPS capability, which experience robust growth during the quarter and nearly offset the steep decline of basic activity trackers
+Gross margin increased to 56% as product mix shifted to the higher-margin devices
+Operating margin increased to 13%, resulting in operating income growth of 11%
+During the quarter, we launched the Forerunner 935, which is our most advanced multisport watch with new running dynamics features and enhanced performance and recovery monitoring
+We also introduced our latest vívosmart 3, an ultra-slim smart activity tracker with wrist based heart rate and an innovative stress tracking feature
+While we continue to see the market for basic activity trackers mature, we also see growth opportunities in advanced wearables with GPS, and we are confident in our product roadmap going forward
+Looking finally at the auto segment, revenues were down 19% in the quarter due to the ongoing decline of the PND market and partially offset by growth in our Auto OEM product lines
+Gross margin was 44%, which is consistent year-over-year while operating margin declined to 4%
+During the quarter, we began shipping our next generation Drive family of PND devices, which has wireless connectivity and enhanced driver alerts
+We also introduced the Dash Cam 45 and 55 offering high-quality recording in an ultra-compact form factor
+We remain focused on disciplined execution to bring desired innovation to the market and to maximize profitability in the segment
+Okay, finally, before turning the call over to Doug, I wanted to mention the recognition we recently received from Forbes Magazine ranking us among the Top 100 Most Reputable Companies In America
+I'm pleased to work very hard to make Garmin the best at everything we do and to operate the business with integrity
+It's a special honor for all of us to be recognized in this way
+So, that concludes my remarks
+Next, Doug will walk you through additional details of our financial results
+Yeah, I think, for outdoor and marine, the first quarter tends to be the lowest quarter particularly in outdoor and marine it's a little higher
+Aviation is more sequential
+In aviation, we did see some benefit from increased mandate activity, some of which are expiring
+So, just looking forward, we felt like it's best to maintain where we're at until we have more clarity around second quarter
+Yeah, definitely the demographics are changing, particularly around the fēnix 5S model, which was designed specifically around the female adventure audience
+And the data we're getting back through our online registrations and of course our cloud platform, Garmin Connect, suggests that we're being very successful with that
+Thanks, Charlie
+It's about even
+No, I wouldn't say it's due to shortness at all
+We are preparing for what has become – Q2 has become nearly as big as Q4 in terms of its overall contribution
+And we do have some new product ramps such as the fēnix 5, which are driving additional inventory
+I think our goal is to have in-stock situation, so that we can ship to any customer that wants our products during high season
+And we'll continue to manage it pragmatically then throughout the rest of the year
+Thanks, <UNK>
+I think it's a revenue split
+So, on the memory prices, definitely, there's a tighter market and prices have been going up
+We have some longer term buying arrangements that have allowed us to continue at more favorable pricing during the first part of the year
+We do expect to see some impact towards the later half of the year, but we think the impact will be minimal
+In terms of ad spending, Q1, we basically have reserved a lot of our activity until Q2. So, I would expect that to increase sequentially and possibly a little year-over-year as well
+But since Q2 is one of the higher quarters, we're going to be promoting our more popular wearables particularly during the quarter
+Yeah, we were pleased
+We outperformed our expectations for sure and, as I mentioned, there is some mandates particularly around EMS helicopters that drove some sales, plus we did have very popular aftermarket products that also performed well along with ADS-B
+Thanks so much
+Well, just to clarify, fitness consists of both the wearable fitness trackers as well as the running watches and then bike
+But in terms of overall, its contribution, we saw sharply lower revenues in the quarter and offset by very strong growth in the running products
+I think – we don't break it out by segment for sure but as we expected when we came into Q1 based on what we saw in the latter half of 2016, activity trackers were down sharply
+I think there's probably lots of different reasons for that and I think there'll be obviously more color around that even as we move through the day
+But it seems like there's a lot of inventory in the channel particularly with market leaders that's being worked through
+And as that clears and as new products get in such as our vívosmart 3, we believe that it will moderate as the year goes forward
+Yeah, we have a strong roadmap on the basic trackers, as we've evidenced by the release of our initial products this year
+We have additional products coming but obviously, we're taking a pragmatic approach to the investment and applying it where we see the most opportunity
+I think definitely we're pleased with the initial response, and it's not just a matter of low supply, we've been delivering in very nice quantities, for sure
+But the orders and the reorders have been very strong
+So, it's going to take some time to work through all of the orders that we have
+Well, it'll definitely mix up because the higher-end devices tend to have the higher gross margin
+So, we would expect it will have an overall positive impact on gross margin percentage and operating margin percentage
+Well, I think our product lines particularly in marine and also I mentioned some strength in aviation too, but our product lines are very strong
+We've been keeping them fresh and, as a result, we believe that customers are seeing the value and the differentiation that Garmin brings to the market
+Keep in mind, these are both very niche segments, without a lot of dynamics in terms of the overall channel and the consumer
+So, consequently, I think obviously there's some limit to what the potential growth trajectory looks like over the long term
+But our goal is to be the market share leader and to continue to be able to grow with the market
+Thanks, <UNK>
+I think a lot of it's going to depend again on product and segment mix
+In Q1, we had the benefit of higher than expected growth in marine and aviation, which mixed to be overall consolidated up more
+As we move into Q2, which is seasonally higher and sequentially higher, we'll see how that mix develops both in terms of segments and products
+So, we really didn't pre-announce any of the products in Q1. We were basically ready to ship when we announce the products
+So, we didn't see any market impact from announcements that impacted order
+That said with the new products, we've seen excitement around those and we're encouraged by the follow-through in the market on these new products
+So, on the OEM side of aviation, I would say, it's business as usual from what we've been reporting for a while now
+The overall OEM side of the business as has been widely reported by many players has been kind of lethargic in terms of the market
+We're doing, I would say, okay
+But, we kind of move along with the ups and downs of our OEM partners
+We do have the benefit of some newer platforms that we're still comp-ing against from last year
+So, that's an incremental benefit but in general OEM continues to be somewhat sluggish
+Yeah, Ben, in terms of impact from the Apple Watch, we are also seeing steep growth in our advanced wearable category
+It doesn't seem to us that there is an impact from the Apple Watch
+We have said before that we believe the customer-base for the Apple Watch versus our devices are slightly different
+So consequently, I think we're seeing a strong performance and even some pull through from their success as people see the opportunity for improved health and for pursuing active lifestyles
+And they probably recognize then that Garmin offers strong products for those pursuits
+Thank you
+We don't break it out by product categories
+But we were pleased with what we're able to deliver in Q1.
+Yeah, let's say, it's still a very large market
+It's still a market that is adjacent to our interest in the overall active lifestyles
+And so, it's an area that we still have a lot of interest in
+That's correct
+Yes
+No
+We don't break it down more than that
+So, DeLorme is actually recognized in the outdoor segment and the majority of our growth in outdoor was driven by wearables with less than half of that really coming from DeLorme
+Thank you

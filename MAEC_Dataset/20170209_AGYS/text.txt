@@ -1,0 +1,170 @@
+Thank you, Jonathan.
+Good afternoon and thank you for joining us to review our fiscal 2017 third-quarter results ending December 31, 2016.
+Joining me on the call today are <UNK> <UNK>, our interim CFO, and <UNK> <UNK>, our CTO.
+I'm happy to be with Agilysys and with all of you here today.
+We are at a good stage now in the history of Agilysys.
+A tremendous amount of investment, hard and smart work during the past few years have created significant competitive advantages for us, which we can now leverage to improve financial performance and enable significant value creation in the near- and long-term.
+I'm grateful to our Board of Directors, management and other teams in Agilysys for this opportunity, to use the experience gained during my past successful stints at similar situations in enterprise software companies and to leverage the previous investments already made here to lead Agilysys to greatness.
+I've been here for about 1.5 months now and, while I am still in the process of learning and getting my arms around all the details, the opportunities for disciplined revenue and profitability growth are quite clear to me.
+I don't expect a turnaround to happen overnight, but I'm confident that it will happen in the near-term.
+There will be a transition period both for myself and our team members as we look at approaching and handling many parts of our business differently.
+During the recently concluded December quarter, revenues increased 7% to $33.4 million with recurring revenues posting a quarterly record of $16.2 million or 49% of total net revenue.
+Subscription-based SaaS revenues, which is one of the significant parts of our recurring revenue base, increased by 48% year over year.
+Gross margin during the quarter was 48.6%, reflecting the impact of amortization of software development costs, for rGuest platform and a product suite.
+This led to a net loss during the quarter of $1.7 million or $0.08 per diluted share, compared to a net loss of $1.7 million and $0.07 per diluted share during the prior year period.
+Adjusted EBITDA was $3 million compared to $0.6 million during the same period last year.
+We continue to make good progress in growing our subscription-based SaaS revenue.
+The total contract value of subscription-based SaaS bookings for rGuest and other previously well-established products have nearly doubled during the first nine months of fiscal 2017.
+With respect to our installed base, we ended the third quarter with more than 38,000 point-of-sale endpoints, up 15%, 1-5% from the same period last year.
+Nearly 248,000 hotel rooms are now being managed by our lodging solutions, up 6% from the third quarter of fiscal 2016 and representing 5% of approximately 5 million hotel rooms across the United States.
+During the December quarter we secured 29 contracts with new customers.
+The total contract value for subscription-based SaaS bookings for new customers increased 16%, 1-6% compared to new deals in the third quarter of last year and represented nearly 59% of new customers for the quarter.
+Before I turn the call over to <UNK> for additional commentary regarding our financial results, let me take a couple more minutes to share with you some of my initial thoughts, observations and expectations based on my first five weeks here.
+Agilysys is in a great position to grow as an industry leader in hospitality solutions and deliver significant added shareholder value.
+I had the opportunity to meet and speak to our customers during our recent user conference Inspire, and many of them are keen on increasing their business levels with us if we could show some improvements in our product and solutions delivery velocity.
+The revenue growth opportunities are clearly there before us.
+It was also clear that many of the customers [are] open to replacing competitive products with Agilysys solutions.
+The combination of our strong and well-established product solutions like LMS and InfoGenesis, along with our newer rGuest product suite which will redefine the future of hospitality solutions and set the technology standard in many different ways, that combination gives us the ability to meet both the short-term and long-term needs of our customers and their guests.
+Some of our customers are also encouraging us to get our international expansion plans into high gear.
+As you know, international growth is a revenue stream we have barely scratched the surface of so far.
+We are fortunate to be serving markets which are healthy, growing and in need of improved solutions to keep up with the fast-paced technology changes that our guests expect and have become accustomed to.
+Our customers are in markets which are growing and becoming increasingly competitive, creating a growing need for hospitality solutions.
+In lodging there are now over 53,000 properties in the US alone.
+And the restaurant industry, which we can do a much better job of serving in the future, has over 1 million locations across the United States.
+I expect that we will significantly improve our internal productivity levels across the entire range of product development and delivery, customer services and support, sales and marketing and all other departments to take advantage of the opportunities in front of us.
+We believe we are currently at the peak of our cost basis as a percentage of revenue in virtually every category of spend.
+Going forward, it is more a matter of managing productivity of output per unit of spend and getting more done in better cost effective ways.
+Going forward, I expect our revenue growth curve to be steeper than the cost growth curve.
+We will be equally effective with execution and innovation and will not sacrifice one for the other.
+Our customers expect both solid execution and great innovation from us.
+And I know from experience that there is no better way to create great shareholder value than exceeding our customer expectations in both execution and innovation.
+We will be coming to today's innovation leaders in this industry and drive the rGuest product suite forward at an accelerated pace.
+Based on customer demand, we will also increase our product enhancement and delivery velocity on our well-established products as well.
+We are currently in the process of opening a wholly-owned captive development and technical support center in Chennai, Madras, India.
+We expect the center to be operational and adding significant strength to our current R&D, services and support teams by June/July this calendar year.
+I've had very successful previous experiences leading the establishment of and running of such development centers for Manhattan Associates and [Value Technologies] in my prior lives.
+We are confident that, apart from helping us with our immediate productivity, time to market and customer service objectives, the Chennai center will also greatly help us establish a significant market presence in Asia where we have great opportunities for top-line revenue growth.
+We are continuing to make good progress with new business opportunities with a couple of large global hotel operators.
+On the new business front we recently announced that the Mark Hotel in New York City has selected InfoGenesis point-of-sale and InfoGenesis Flex to streamline food and beverage operations at their world renowned 150 room luxury property, further solidifying our leadership position in the upscale hotel and resort market.
+Other notable new business wins include: Cypress Bayou Casino Hotel in Louisiana selecting a comprehensive suite including InfoGenesis POS and Flex as well as rGuest Analyze and rGuest Pay; the Horseshoe Bay Resort in Horseshoe Bay, Texas incorporating VisualOne traditional; (inaudible) Casino and Hotel in Iowa choosing Stratton Warren SaaS; Rosewood Sand Hill in Menlo Park choosing InfoGenesis SaaS; Spirit Lake Casino and Resort in North Dakota incorporating VisualOne SaaS and rGuest Pay; Wallowa Lake Lodge in Oregon choosing rGuest Stay and Pay along with InfoGenesis SaaS; and the (inaudible) Resort and Golf Club choosing InfoGenesis SaaS and rGuest Pay.
+With that, let me turn the call over to <UNK> who will review our financial results for the quarter.
+<UNK>.
+Thanks, <UNK>, and good afternoon, everyone.
+Beginning with a review of our income statement, third-quarter fiscal 2017 total revenue was $33.4 million, representing a 7% increase from total net revenues of $31.3 million in the comparable prior year period.
+Breaking down our revenue mix, product net revenues, which is comprised of both third-party remarketed products, including hardware and software, and on-premise proprietary software license sales, decreased 16% to $10 million and represented 30% of total revenue during the quarter compared to $11.9 million and 38% of total revenue during the prior year period.
+The decrease compared to the third quarter of fiscal 2016 is related to a reduction in third-party remarketed products.
+Q3 of last fiscal year included a couple of outsized third-party product deliveries which we were able to benefit from.
+On a sequential basis product revenue was flat.
+Support, maintenance and subscription revenue or recurring revenues grew by 9% to $16.2 million and represented 49% of total revenues compared to 48% in the third quarter of fiscal 2016.
+Driven by a 48% increase in our subscription-based SaaS revenue which itself accounted for 24% of support, maintenance and subscription revenue or approximately $3.9 million compared to $2.6 million, or 18% of support, maintenance and subscription revenue in the fiscal 2016 third quarter.
+Going forward, we expect support, maintenance and subscription revenue will show similar growth trends and that we will end fiscal 2017 with a 4% to 6% year-over-year growth rate.
+The ongoing growth in our subscription revenues is creating a larger base of recurring revenue that we will be able to recognize in coming quarters.
+Professional services revenue grew 61% to $7.2 million compared to $4.5 million in the third quarter of fiscal 2016, reflecting a greater utilization of our services resources and increased capacity in support of new installations along with a $1.1 million services revenue related to revenue previously deferred for services provided in the past where contractual commitments precluded revenue recognition until this quarter.
+Year to date overall revenue has increased by 10% with product revenue almost flat, support, maintenance and subscription revenue up 6% and professional services revenue up 48%.
+As it relates to the rGuest products, these revenues comprised 6% of total fiscal 2017 third-quarter revenue.
+We did today revise our full-year revenue guidance as we now expect fiscal 2017 revenue will be in a range of $128 million to $131 million, modestly below the previously anticipated range of $132 million to $136 million.
+This decline in the Company's revenue outlook is attributable to a reduction in realized and anticipated upfront product sales in the last half of the year, while support, maintenance and subscription services revenue, including SaaS revenue as well as professional services revenue, remain strong.
+Moving down the income statement, cost of goods sold increased approximately 16% to $17.2 million.
+This increase contributed to a 2% decline in total gross profit from $16.5 million to $16.2 million for the third quarter of fiscal 2017 and gross profit margin fell by 410 basis points to 48.6%.
+This decrease in gross profit and gross profit margin was primarily driven by the impact of an incremental $2.1 million of developed technology amortization costs as a result of certain rGuest products being placed into service in the first half of 2017.
+We now expect gross margins will be just below the 50% range due to the lower full-year revenue outlook related to the continued shift in revenue towards more subscription-based sales from traditional software sales that is occurring faster than we anticipated.
+Operating expenses inclusive of product development, selling and marketing and general and administrative expense was $15.5 million in the third quarter of 2017.
+This compared to $17.1 million in the third quarter of fiscal 2016 and represented 46% of total net revenues versus 55% in the prior year period.
+Product development expense in the third quarter of fiscal 2017 decreased 2% year over year to $6.8 million and represented 20% of total revenue, slightly below the 22% in the third quarter of fiscal 2016.
+Sales and marketing increased $0.4 million, or 8%, in the third quarter of fiscal 2017 compared with the third quarter of fiscal 2016.
+The change is primarily the result of an increase of $0.2 million in employee wage-related expenses as well as increased spend in advertising and promotion of $0.2 million related to new lead generation investments in content, search engine marketing and target prospect databases in order to accelerate the growth in lead acquisition and pipeline velocity in support of future revenue growth.
+This was partially offset by a decrease in general and administrative of $1.8 million, or 33%, in the third quarter of fiscal 2017 compared with the third quarter of fiscal 2016.
+During the third quarter of fiscal 2017, we recorded $1 million in forfeiture credits related to unvested share-based compensation expense and a $0.2 million reversal of accrued incentive awards for the Chief Executive Officer and Chief Financial Officer whose departures from the Company were announced during the third quarter of fiscal 2017.
+An additional reduction of $0.2 million was related to reduced incentive expense for other employees for the full-year fiscal 2017 as compared to the full-year fiscal 2016.
+This led to an operating loss of $1.6 million for the third quarter of fiscal 2017 compared to an operating loss of $1.7 million in the prior year period.
+Net loss for the third quarter was $1.7 million or $0.08 per diluted share compared to a net loss of $1.7 million or $0.07 per diluted share in the third quarter of fiscal 2016.
+Adjusted EBITDA increased by approximately $2.4 million in the third quarter to $3 million versus $0.6 million in the third quarter of fiscal 2016.
+Moving to the balance sheet and cash flow statement, cash and marketable securities as of December 31, 2016 was $52.7 million compared to $60.6 million at March 31, 2016.
+The decrease in cash reflects approximately $10.3 million of spending related to ongoing product development investments.
+Net cash provided by operations was $5.4 million compared to the prior year period of $8.3 million of net cash provided by operations.
+Adjusted for nonrecurring items, net adjusted cash provided by operations for the first nine months of fiscal 2017 was $6.2 million compared to $8.9 million in the prior year period.
+In terms of NOLs, we have $190 million on our books for which we can attribute a full valuation allowance and which will help us remain liable for just taxes paid in foreign jurisdictions along with minimal state taxes for the foreseeable future.
+Looking ahead to the balance of fiscal 2017, we continue to expect full-year revenue growth in the 6% to 9% range with continued growth around subscription-based contracts, which result in both professional service revenue and remarketed product revenue upfront and software license revenue over the term of a contract.
+To wrap up, as we get ready to close fiscal 2017 we remain well-positioned to take advantage of many revenue growth opportunities in front of us.
+With that, Jonathan, we can take some questions.
+Hey <UNK>, nice to talk to you again.
+Thank you very much, I appreciate it.
+Yes, there are lot of parallels, not only with Bally systems, but before that about seven years with Manhattan Associates when that Company group its revenue like seven times in seven years or so.
+So there's a lot of parallels here.
+Both are in the B to limited B, it's not B2B like big companies like Microsoft or Oracle, but B to limited B enterprise software.
+There's a lot of similarities among Manhattan, Bally systems and this.
+And when I look at the current situation where we are, both positives and negatives, and how much improvement is possible, both from the top line and in profitability, there are a lot of parallels.
+And I hope I've learned my lessons well and I hope I carry a few lessons well with me that I can bring to bear in this situation.
+Yes, hey <UNK>, thanks for the question.
+Like you said, we are not providing specific EBITDA guidance for this year.
+What I can tell you is that we will be a few million dollars off of our original estimates due mainly to two things.
+There's a couple million dollars related to the reduction in revenue that you mentioned and that we guided to in the press release.
+That's mainly due to lower product sales.
+The other thing that will drop our EBITDA down a little bit is a couple million dollars of extra expense that we didn't originally plan.
+That's necessary in order to help expand the business and that's related to the investment we talked about on the last call.
+Yes, you kind of broke up a little bit, <UNK>, in between your question.
+You are talking about extra spending on what, please.
+Okay, got it.
+So as far as the large-scale hotel operators, the larger deals that you are talking about, those opportunities continue to grow for us.
+And InfoGenesis product line is our top focus area there.
+And implementations on the initial properties of those large-scale operators are already underway and that will be an important component of our top-line growth going forward.
+Now with respect to the extra spend, and I will also kind of connect this with <UNK>'s question before about lessons that I've learned before, a lot of what we are facing now is being more cost-effective with what we do, focusing on our productivity levels, generating revenue from our previous well-established products as well.
+So there are a number of areas that this Company can improve a lot without any big extra spending.
+So, when you think about cost structure in all areas, whether it is in product development or any other area of the business, in every category of spend I expect cost as a percentage of revenue to start going down.
+So you look at our overall cost part of which is in cost of goods sold and part of which is in operating expenses, our overall cost as a percentage of revenue will start declining now.
+So from a revenue percentage standpoint, there is no more major extra spend that we need to do to bring home a lot of the new opportunities that we have.
+As revenues grow I expect costs to grow but at a much lower rate.
+So the cost growth will be at a much lower rate than the revenue growth rate.
+So, relative to revenue level, there is no extra spending contemplated going forward.
+But as our top line continues to grow we will make the prudent investments in the appropriate areas.
+But more and more at Agilysys you will see the gap between revenue and cost [increasing].
+Does that make sense, <UNK>.
+We expect to get to free cash flow positive within the next -- we can't guide to an exact time period on that.
+But we are putting in place various changes and various initiatives to improve productivity and cost effectiveness.
+That will get us to a free cash flow positive stage in the not too distant future.
+I will leave it at that.
+<UNK>, this is <UNK>.
+We don't -- <UNK> has only been here call it six weeks.
+We are in the early stages of our fiscal year 2018 planning process.
+And at this point we just don't want to give guidance for next year or the future.
+But to <UNK>'s point, our goal is cash flow positive and we expect that cost as a percentage of revenue will continue down from this point; that's a big focus for us.
+Yes, we've still got right around 30, a little bit over 30 quota carrying reps which hasn't changed much in the last couple quarters.
+And there is no current term plan to change the structure of our sales force.
+We feel like we have got a pretty good base of quota carrying reps.
+But as we enter into the new fiscal year anything is possible, so we are going to look at that as part of our planning process.
+So, when we talked about reducing spend as a percentage of revenue, CapEx is part of that conversation as well.
+So we are looking at total -- all cost of the business, OpEx, cost of goods sold, CapEx.
+So, that's a big part of our business.
+We spend a lot of money on CapEx and we are going to be laser focused on that particular area and do what we can to make that follow the same trend as the rest of our cost.
+And, <UNK>, please don't interpret that as any reduced focused or any reduced, quote/unquote, reducing the investment.
+We just want to be more cost-effective with the investments we have made and the investments we will continue to make.
+And relative to revenue, we will continue to get to a better place as far as our overall spend is concerned.
+But all the focus areas that have been mentioned before remain and we just get better at doing more with the amount of money we spend.
+Yes, so number one, we need to be a lot more cost-effective with what we do in terms of being more productive, because in terms of all the investment, everything we need to do to grow our kind of business, we've made all the right decisions so far.
+So they are all there.
+It is a matter of doing more with what we spend.
+We also need to increase our product delivery velocity.
+We need to -- we have significant investments in R&D obviously and we just need to deliver products at a quicker pace.
+Now in terms of lessons learned from my previous lives, like <UNK> was asking me about, there are more revenue levels to be made from our currently established products as well.
+So our top-line revenue growth can come from are currently established products and from our new rGuest product line.
+And I think we have room for improvement in customer centricity, remaining accessible to customers, taking both their short-term and long-term needs more seriously.
+So, in terms of customer centricity, product delivery velocity, increasing the cost effectiveness of what we do, those are all areas in which we can get much better as an organization which will result in much better profitability.
+This is <UNK> <UNK>.
+Just to add a couple things there from specifics, when we talk about moving to these large-scale estates and where you are managing thousands of outlets from a single site versus hundreds, there is a number of configuration management items that need to happen so that you can actually manage an enterprise from a single location.
+That's one of the core things that we are working on as well as necessary international expansion.
+Those are the two big areas from I would say feature bucket perspective.
+Sure.
+So part of that -- the slight reduction, it's about 3% or so delta that we are talking about here, part of that decreased product sale has to do with the fact that certain hardware pieces that we used to sell before, as we move more and more to subscription-based SaaS revenues, that hardware sales will reduce.
+And I think part of it also had a little bit to do with the leadership change uncertainty and there were some customers who we thought delayed their buying decision just to see how smoothly the leadership transformation happened.
+And that went very well in the user conference so that confidence should come back.
+And also the fact we are switching to SaaS-based subscription revenue also had a little bit to do with it.
+Yes and, <UNK>, the majority of the component of product revenues that's going to come in lighter than we expected is hardware.
+There is also a component that is proprietary software.
+And as we switch to SaaS, and that switch is happening faster than we planned for this year, we are seeing less proprietary software and more SaaS bookings.
+Thank you, Jonathan.
+Thank you all for your continued interest in Agilysys.
+Please rest assured that we will continue to work hard and smart to improve our sales in all the various business areas.
+We are well-positioned to drive home the various advantages we worked diligently to build.
+Also a special thanks to our talented and dedicated Agilysys teams, to all our customers, partners and shareholders.
+Thank you all for your support and we look forward to reporting on the next stage of our progress soon.
+Thank you.

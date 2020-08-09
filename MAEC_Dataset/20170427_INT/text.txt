@@ -1,0 +1,310 @@
+Thank you, Colin.
+Good evening, everyone, and welcome to the World Fuel Services First Quarter 2017 Earnings Conference Call.
+I'm <UNK> <UNK>, World Fuel's Assistant Treasurer, and I'll be doing the introduction on this evening's call alongside our live slide presentation.
+This call is also available via webcast.
+To access the webcast or feature webcast, please visit our website, www.wfscorp.com, and click on the webcast icon.
+With us on the call today are: <UNK> <UNK>, Chairman and Chief Executive Officer; and <UNK> <UNK>, Execute Vice President and Chief Financial Officer.
+By now, you should all have received a copy of our earnings release.
+If not, you can access the release on our website.
+Before we get started, I would like to review World Fuel's Safe Harbor statement.
+Certain statements made today, including comments about World Fuel's expectations regarding future plans and performance, are forward-looking statements that are subject to a range of uncertainties and risks that could cause World Fuel's actual results to materially differ from the forward-looking information.
+A description of the risk factors that could cause results to materially differ from these projections can be found in World Fuel's most recent Form 10-K and other reports filed with the Securities and Exchange Commission.
+World Fuel assumes no obligation to revise or publicly release the results of any revisions to these forward-looking statements in light of new information or future events.
+This presentation also includes certain non-GAAP financial measures as defined in Regulation G.
+A reconciliation of these non-GAAP financial measures to their most directly comparable GAAP financial measures is included in World Fuel's press release and can be found in on its website.
+We will begin with several minutes of prepared remarks, which will then be followed by a question-and-answer period.
+At this time, I would like to introduce our Chairman and Chief Executive Officer, <UNK> <UNK>.
+Thank you, <UNK>, and thank you to everyone on the line for taking the time to join us.
+Today we announced first quarter adjusted earnings of $35 million or $0.50 adjusted diluted earnings per share.
+Our Aviation segment posted solid results carrying the strong year-end momentum into the beginning of 2017.
+Gains in our core resale activities in North America, Europe and Asia with the principal drivers of the year-over-year increase along with government fueling operations.
+Also during the first quarter, we completed the last phase of the previously announced acquisition of ExxonMobil fueling operations of more than 80 airports.
+As noted in prior communications, this transaction represents a significant strategic expansion of our global Aviation platform, further establishing us in the supply chain at numerous key international markets.
+In our Marine segment, results were again impacted by an industry which continues to bounce along the bottom of what remains a very challenging operating environment.
+Slightly positive indicators in the container in dry bulk markets including increased trade flow to China, are small signs that the industry could be moving towards improvement.
+But we will need to see a sustainable positive trajectory before acknowledging that the industry is coming out of what has been a multiyear stagnation.
+Although prices have increased significantly from a year ago, continued lack of material price volatility continues to pressure profit margins and demand for embedded derivative products.
+In the meantime, the cost savings initiatives that were recently completed have allowed us to consolidate even streamline operations in order to adapt to the current market dynamics.
+In our Land segment, profit rebound -- profits rebounded sequentially, but were lower than year-ago period due to a decline in consumption of both natural gas in the U.S. and heating oil in the U.K. due to a warmer winter.
+Results were further impacted by poor market dynamics, mostly in oversupplied market around our legacy spot wholesale supply and trading activities on the East Coast.
+Our commercial and industrial end user growth strategy is taking hold as the PAPCO, APP and connect businesses are discovering many commercial synergies that we'll begin to realize in the second half of this year.
+The multi-service payments platform continues to perform well, yielding double-digit growth and given the abundance of organic growth opportunities that are available in the marketplace, we expect this activity to become a significant contributor to profitability in the future.
+Finally, we remain focused on integrating and streamlining overall operations across all of our segments and functions by utilizing standardized processes and technology, that create efficiency internally and greater value for our supply and demand partners as we build out our global energy management, fulfillment and payments business.
+We appreciate the continued support from our long-term shareholders, our customers and suppliers, and the tremendous engagement of our global teams.
+Now I'll turn the call over to <UNK> for financial review of our results.
+Thank you, <UNK>, and good evening everyone.
+Consolidated revenue for the first quarter was $8.2 billion, up 58% compared to the first quarter of 2016.
+The increase was due to the 55% increase in oil prices as well as increased overall volume principally from the APP and PAPCO acquisitions that were not included in the last year's first quarter results.
+Our Aviation segment volume was 1.8 billion gallons in the first quarter, up 200 million gallons or 13% year-over-year.
+Volume growth in our Aviation segment was derived principally from gains in our core resale operations in North America, Europe and Asia.
+Volume in our Marine segment for the first quarter was 6.8 million metric tons, down approximately 800,000 metric tons or 11% year-over-year.
+The largest driver of the volume decline came from a reduction in low margin, lower turn activity in Asia.
+Our Land segment volume was 1.5 billion gallons during the first quarter, that's up approximately 300 million gallons or 23% from the first quarter of 2016, again principally driven by the acquisitions of PAPCO and APP.
+Lastly, total consolidated volume for the first quarter was 5.1 billion gallons, an increase of approximately 300 million gallons or 6% year-over-year.
+Consolidated gross profit in the first quarter was $231 million, an increase of $10 million or 5% compared to the first quarter of 2016.
+Our Aviation segment contributed $100 million of gross profit in the first quarter, that's an increase of $11 million or 13% compared to the first quarter of last year.
+The principal drivers of the gross profit increase came from our core resale business as well as our government-related business activities.
+In terms of the ExxonMobil transaction, while the transaction is now effectively complete, the integration process is continuing.
+While we expect this transaction to begin making profit contributions during the second quarter, we believe these opportunities will strengthen as we enter 2018, once again a few quarters of running these operations under our belt.
+The Marine segment generated gross profit of $34 million, that's down $6 million or 14% year-over-year.
+The gross profit decline in Marine was principally driven by reduced volume in margins in our core business, impacted by market conditions and lower profits from the sale of price risk management products to our Marine customers.
+In the meantime, the actions that we took over the past few months to streamline operations in our marine model by taking cost out of the business have been effectively completed, which has improved the operation efficiency of Marine business going forward.
+Our Land segment delivered gross profit of $98 million in the first quarter, that's an increase of $4 million or 5% year-over-year.
+The increase in Land segment gross profit is principally attributed to recent acquisitions offset by a decline in our European Land segment profitability driven by warmer weather, and also a 14% decline in currency rates compared to the prior year, as well as lower profitability related to the supply and trading activities in the United States.
+As a follow-up to the last quarter's call, the Colonial pipeline generally returned to normal in the first quarter, reducing the glutted supply in the Midwest, which returned to profitability.
+However, conditions in the Northeast didn't improve materially as this market remained oversupplied for much of the quarter.
+Nonfuel related gross profit associated with our multi-service payment solutions business was $14.1 million in the first quarter, that's an increase of 13% compared to the first quarter of last year.
+We continue to expect gross profit from this business activity to grow 20% year-over-year as we continue to find new opportunities by leveraging our growing payments platform.
+As I continue with the remainder of the financial review, please note that the following figures exclude the impact of $4.8 million of pretax nonrecurring expenses in the first quarter as well as nonrecurring items increased previously reported as highlighted in our earnings release.
+This amount is principally comprised of acquisition-related expenses and severance costs.
+To assist all of you in reconciling results published in our earnings release in 10-Q, the breakout of the $4.8 million is as follows: $2.7 million impacted the Aviation segment; $600,000 impacted the Land segment; $500,000 impacted the Marine segment; $400,000 impacted unallocated corporate expenses; and $600,000 impacted nonoperating expenses.
+Of the $4.2 million, which impacted compensation and G&A, $1.4 million impacted compensation and $2.8 million impacted general and administrative expenses.
+The reconciliation of these amounts can be found on our website and in the last slides of the webcast presentation.
+Operating expenses in the first quarter, excluding our provision for bad debt and one-time expenses, were $174 million, up $17 million or 11% year-over-year, but a decrease of $7 million or 4% sequentially, reflecting the impact of our continuing cost-cutting initiatives.
+The year-over-year increase in operating expenses was principally related to expenses of acquired businesses.
+Total operating expenses, excluding bad debt expense and any one-time costs should be in the range of approximately $174 million to $179 million in the second quarter, which is effectively flat with the first quarter adjusted for incremental expenses associated with the recently completed ExxonMobil transactions in Australia, New Zealand, Germany and Italy.
+Our bad debt provision for the first quarter was $2.5 million, up $1 million compared to the first quarter of 2016.
+Consolidated income from operations for the first quarter was $55 million, down $8 million year-over-year, but an increase of $21 million sequentially.
+Nonoperating expenses principally comprised of interest expense in the first quarter was $13.7 million, an increase of $7.4 million compared to the first quarter of 2016, principally related to increased borrowing associated with our increased volume, higher fuel prices, the funding of acquisitions and higher average interest rates compared to last year.
+I would assume nonoperating expenses to be approximately $13 million to $16 million in the second quarter.
+Our effective tax rate in the first quarter was 16%, compared to 13.2%, which excluded the discrete tax item in the first quarter of last year.
+At this time, we still estimate that our effective tax rate for the full year of 2017 should be between 15% and 18%.
+Adjusted net income was $34.6 million this quarter, down $18.3 million year-over-year.
+Non-GAAP net income, which excludes one-time expenses and also excludes intangible amortization and stock-based comp, was $44.5 million in the first quarter, a decrease of $18 million in the first quarter of last year.
+Adjusted diluted earnings per share was $0.50 in the first quarter, down from $0.76 in the first quarter of 2016.
+And non-GAAP diluted earnings per share was $0.64 in the first quarter, down from $0.90 from the first quarter of 2016.
+Our total accounts receivable balance was $2.2 billion at quarter end, down $135 million compared to year end 2016.
+And net working capital was approximately $940 million, down approximately $90 million compared to December of 2016.
+Both down despite an increase in average fuel prices during the first quarter.
+After using the modest amount of cash in the fourth quarter, we generated $137 million of cash flow from operations in the first quarter.
+That is the 18th out of the last 19 quarters where we generated positive operating cash flow.
+Additionally, we repurchased $11 million of shares or common stock in the first quarter, and we expect to repurchase additional shares over the course of the year delivering incremental value to our shareholders.
+In closing, we generally performed as expected in the first quarter, rebounding from our refinish to 2016.
+And after using cash from our fourth quarter for the first time in 4 years, we not only generated cash again this quarter, we generated a significant cash, all the quarter where we saw fuel prices increasing.
+We remain confident in our ability to deliver results for 2017 consistent with the guidance we provided when we started the year.
+As previously stated last quarter, such expectations remain dependent on continued strong contributions from our government-related activities, anticipated contributions from our 3 recent acquisitions, historically normal winter weather patterns in the U.K. and U.S. and our ability to fully realize our previously announced cost saving initiatives.
+I would now like to turn the call over to Colin, our operator, to begin the Q&A session.
+Yes, I will start off and Mike can talk about a bit about the ongoing integration activity.
+So first of all, you have to consider that foreign exchange rates have moved significantly since we announced the deal and in the wrong direction in this case.
+So that's certainly impacted the shorter-term accretive opportunity from this deal.
+And it's also taking a bit longer to begin achieving the efficiencies we initially forecast, for some of the reasons that Mike might get into in terms of having to take this over and really kind of start again from scratch.
+But as we enter the second half of the year or even in this quarter that we're in right now, we expect to start generating profitability, and as I said in my prepared remarks for that to accelerate more in 2018.
+So I think we originally stated that we would achieve that level of accretion in the first 12 months following the full completion of the deal.
+If it wasn't for the FX impact, that would probably still be principally correct, but we're likely going to be bit shy of that because of FX.
+So we'll be run rate of somewhere in the low 20s as opposed to low 30s, but we expect that to pick up as we enter 2018 and beyond.
+Just a little bit more color, <UNK>.
+Listen, it's a source of pride for the company in terms of how the team performed.
+It was certainly one of the more complicated acquisitions that we've done just from the standpoint of a number of locations and the requirement of taking immediate ownership, assistance needed to be in day 1.
+There was a number of moving parts.
+Obviously, the physical logistics and taking that over in 7 countries.
+So we are pretty proud of the team, but as <UNK> just commented on as he indicated in his prepared remarks, it's going to pick up later on in the year, but it really is a good strategic move for us to gives us a great foothold in those countries in getting into the fiscal distribution space.
+We are seeing more synergies coming across our Land, Marine, Aviation, our connect business and multiservice.
+So there's a lot of convergence going on, and being able to get involved in these different countries and getting a deeper into the distribution chain is exactly what our strategy is in terms of that omni-channel approach, to be able to fulfill our customers' requirements in any number of different ways on inventory distribution, third party value-added reselling or using technology.
+So there's a lot of convergence going on, and we are pretty proud of our ability to do that.
+Thanks for the question, <UNK>.
+So -- look as we indicated in the past we are always considering how to best allocate our capital between funding organic growth, making acquisitions or buying back shares.
+So as we said in the past, we remain committed to buy back enough shares to timely to offset the diluted impact of our employee stock awards.
+And we'll always consider additional repurchases, especially when we feel our shares are undervalued.
+But again, it's a balance in terms of identifying how much of capital we have available to us.
+We're still focused on looking for strategic acquisitions very carefully.
+I need to make sure we always have our powder dry for that.
+So should we generate significant amount of incremental cash flow that we had in forecast, that gives us some extra capital to allocate order to buybacks or organic opportunities or M&A.
+So I think -- I think what we are signaling formally is that we expect to make good on that commitment to buy back enough shares in 2017 to at least cover the diluted impact of awards and keep our share count constant.
+Whether we do more than that is dependent on a lot of things.
+I really can't give you a clear answer on that at this point in time.
+Well it's interesting.
+You've got a lot of things going on in the world today.
+You've got a world in transition, you got industries in transition, we're in transition.
+The energy market is a wash.
+There is a heck of a lot of oil around, technology has just changed everything.
+But without getting long winded.
+If you look at -- it's really interesting as you see how our different businesses have led in different ways over a period of time.
+So our Aviation business is doing extremely well.
+You can see that we've got scalability there.
+We are growing our top line, and you're getting scalability there.
+And that is a diversified business model, that has proven to be successful and that's been built over a long period of time.
+If you look at Marine, and now John Rau leading Marine coming out of the Aviation industry, there is a lot of similarities.
+They are both moving target so to speak between a ship, a plane, an airport to seaport.
+And he is doing I think a tremendous job in terms of really looking at that business with a fresh pair of eyes.
+So our traditional value props has a value-added -- third party value-added reseller.
+A lot of those have been challenged, to be honest with you.
+Certainly, the market is kind of shallow now.
+There's not a lot of movement, and there's not a lot of price volatility, derivatives activity, I mean just saw something come out with it, take a price may go to $40.
+So credit price is low.
+So they're not getting challenged that much.
+There's cheap money out there.
+And there is a lot of oil.
+So offshore is not looking so good.
+So it's a whole different ballgame, and it's really about becoming a very tight operating company.
+I mean ironically, we're probably -- if you look at the level of professionalism in our operation, we are healthier than we ever had been.
+Okay, doesn't necessarily show that in the numbers.
+But just in terms of where our organization is at.
+So the Marine industry is challenged, it's critical, 90% of the World's goods transit, it's not going to go away and they're going to continue to use energy.
+You've got 20, 20 coming onboard.
+And so that's going to change a number of other things.
+We are in the LNG of the natural gas space.
+We're in the [digital] space by our Land business, which will end up going global.
+So I think we are in a good position to deal with this emerging new Marine industry, and it's just going to be different, and it will be getting involved in every part of it.
+So regardless where the industry goes, we're going to be a player in it.
+It is perhaps going to be different sources of revenue, where it's not going to be frothy in terms of -- we got volatility, we made killings.
+And I think if you look at our Land business, we acquired Western, there was a significant amount of wholesale spot business.
+We rode that.
+In Q4 '14 and in Q1 '15, the music stopped because the market dropped and it then dropped again.
+OW went bust, but the prices dropped, and it really just changed everything.
+So it's really about being a responsible player in the marine space, and being that energy management and procurement company where we are that reliable counterparty in providing a suite of services.
+So I know it's a long-winded answer, <UNK>, I'm sorry for that.
+But regardless of where the industry goes we want to be a player in it.
+We've got I think a phenomenal platform.
+And we've got a lot of products and services, and it's really becoming -- making it easier for us to do business with the market and the market to do business with us, and providing that multi-sided platform so that energy can be delivered and consumed to the Marine industry.
+So it's just going to be different.
+And to think that we're going to have the rock 'n roll days.
+I'm not sure that that's going to happen.
+Technology has just changed everything.
+We've got really an environment of post-scarcity anarchy.
+There is just a supply of everything, and you look at technology, you've got shale oil that is reducing -- everybody is reducing their cost, we are reducing our cost.
+I had lunch today and our risk manager was commenting that offshore rigs used to be $800 million, now they are $100 million.
+So there is just the supply of everything, and the world is changing, and we're positioning ourselves really to be a technology company that just so happens to know a lot about fuel logistics and that's really where we are going.
+So anyway, sorry for long answer.
+So container, we've been historically very strong on the container side.
+So back in the day this came out of some of our government contracting because some of the government requirements are little bit out there, but it was sort of tested us and they would ask for pricing of that, they had a very little to do with the price of oil in that particular port.
+So the index was some place remote.
+So we have to do a lot of regression analysis and understand the correlation, and that forced us to understand price movements, and whatever.
+Maybe that was the early stage of Big Data, but we're doing that on the 10-Q.
+But in any case, that brought us to the container liner business.
+We came with general contractor and started to offer contracts that were more competitive than any single supplier was willing to offer because we're working the entire market.
+And then we started to embed derivatives contracts there.
+So historically, we've been very strong with the container liner market.
+It's a mixed network.
+We still have a depth there.
+Obviously, there -- the sizable parts of the market, the dry cargo side, I think is after that tanker has not historically been a strong part of that major oil companies and some of the oil crowd.
+So any case and then on the specialty side, if it floats and it uses marine fuel, we know they are customers.
+But the container has been the predominant part of our portfolio.
+We -- look, we are very focused on managing working capital on a day-to-day basis, and we're increasing our focus on that.
+Just focusing on our operating activities day-to-day and part of that is managing our collections, managing our inventory to maintain optimal levels of inventory.
+And we just did a really good job of that in the first quarter and we remain focused on that as the year goes on.
+Our debt level was a bit higher than it would be at the end of the year, and we are looking to try to bring that number down a bit and when we do that is by generating cash.
+So we just simply basic of blocking and tackling over the course of the quarter that got us good solid result.
+At the end of the day, Greg, should oil prices remain in a fairly tight zip code till the course of prices goes up significantly or down significantly.
+It impacts our working capital position, which impacts cash flow.
+But assuming oil prices remain in a fairly tight range, we should be generating cash over the course of the year pretty consistent with our EBITDA generation.
+So that may not happen ratably quarter after -- quarter-by-quarter, but if you look at the results of a whole year that should be the case.
+I think in our earnings release, I stated, we generated $1.3 billion of operating cash flow over the last 5 years, that's about $260 million a year.
+Our EBITDA level is a bit above that now.
+So it seems to be a reasonable expectation for us again borrowing significant changes in the market, which would impact our balance sheet.
+No, we still have a long way to go.
+I mean, that probably is 1 thing that we may not be most proud at the start, I mean in terms of our ability to integrate effectively and efficiently from a cost standpoint as quickly as we like to.
+So we are getting better at that.
+We are more focused.
+We have a growing team of people that focus on those types of activities day in and day out.
+We are doing chunkier deals.
+We historically have been doing a lot of small- to medium-sized deals where there weren't necessarily significant efficiencies to be achieved when integrating those businesses, and now that's changing a bit with PAPCO, APP, the Exxon deal is a little different because of the nature of the transaction, which Mike talked about a little bit while ago.
+So we still -- if you look at our Land business, our land business is really an amalgamation of a lot of acquisitions over the past decade and whether it's a cool thing to say or not, we've got some deals that we did a few years back and still aren't fully integrated on a kind of common platform.
+So there are a lot of efficiencies yet to be achieved, especially in Land.
+If you look at the cost ratios in land, they are not where they should be and that's one of the principal reasons.
+So we're very focused on that.
+It's an opportunity for us, which is positive, and over the course of this year, there's a lot of focus on driving that land business to a singular platform, which will allow us to gain efficiencies in that business that we haven't been able to over the last few years.
+And I will just add on to that.
+And I've been saying this for a while that while we do have these reportable segments and plane is different from a ship and a truck and rail.
+They -- if you stand back they tend to look a bit similar.
+So genericizing some of these, looking at these processes, I think that there is a good amount of value that we can bring to the table.
+So we've been focusing on that.
+So I'm optimistic that there is more that we could get in terms of efficiencies.
+<UNK> listen, I think that we did something that at least I'm not embarrassed to say it.
+We've always managed to figure out how to make money and the world did stop in terms of what our traditional value props have been.
+They all came under attack and we could only be accused of not moving a little bit more quickly, but there's certainly more efficiencies.
+And as I said earlier, we are a better company today than we were 1 year or 2 ago, but we are still working on that.
+There are more efficiencies without a question.
+So I wouldn't say they're going to be as dramatic, but I guess I could surprise myself.
+So -- but we're certainly going to be a whole lot more thoughtful about that just like every other company.
+I mean every other company is picking up nickels and dimes, right.
+We are indirect procurement for everybody practically, and on the same way that we found money -- people are finding money on us.
+It's just a whole different world.
+It is just a more lean environment and it's all about doing more with less.
+We get it, then we are on it, but it is something that you got to build up that muscle.
+In terms of becoming a very sharp operating company, we traditionally came from price discovery and underwriting and looking at the optimization.
+Everyone's carrying a supercomputer in their hand now, so it's just a whole different world.
+And I think that we are extremely well placed in terms of global energy management.
+We've got the tremendous amount of diversification.
+We started out as a third-party value-added reseller.
+We have inventory in 22 locations, we have got physical distribution, we have got payment business, payment solutions.
+So I'm very encouraged about what the long-term future proposition is for the company, but it's not going to be built in a day.
+So I could start with the first part of your question.
+We are all done now.
+There's a couple of straggler locations, 1 or 2 airports that have some technical issues that involve little more time, basically we are 99% complete on that deal and there's no additional cash outflows of any significance related to that transaction.
+So what we have to do, I think, Mike mentioned earlier, we based the, unlike most integrations, day 1 as we closed on each piece of this transaction we had to turn light switch on, on our system for the first time and understand how that all transpired on the day you put the switch.
+So we are learning a lot about the supply side of that business, we are learning about the customer contracts that we've inherited, some of them better than others.
+So there is just a lot of learning going on and it's one of the cases where you bought a house from someone and they weren't necessarily taking care of it as well as they should have before they sold it because they lost interest, and now we got to kind of bring that house to a level that makes a lot of sense for us going forward.
+And that's really what we're going through.
+So we are learning.
+The good news is we've been able to close locations on every couple of months.
+So it didn't all happen at once.
+It's given us plenty of time to really get up to speed and so it just a time-consuming process, but we're getting there.
+We've got a lot of smart people.
+They're focused on all the key aspects of making that transaction as profitable for us as possible.
+Well, we announced $15 million to $20 million on our last quarter's call of savings principally outside of Marine.
+So we've talked about Marine in 2016, that was effectively complete as we entered the first quarter.
+What we talked about last quarter was with a lot of different things, I got into some of the details into the call-in February.
+We really have nothing to share beyond that at this point, not that we are not trying to identify more savings, opportunities every moment, every day.
+We might have something to talk about next quarter, but for now we are busy executing on the $15 million to $20 million that we made reference to back in February.
+And just to reiterate that was a hodgepodge of things including some redundancy, some IT-related cost savings, some savings on the indirect procurement side.
+A lot of different things that we've been focusing on to try to gain efficiencies across every line item from compensation through G&A.
+So that's all we have for now.
+It's not to say that we are not going to find more opportunities, but we're just not prepared formally talk about anything incremental at this point in time.
+I think the only thing I will add to that Ben is, you always set a solving for the sweet spot.
+And our land business is still relatively young.
+So we didn't start Nordic until 2008 with branded wholesale and really with C&I we just started less than a year ago.
+So we don't -- for what we're trying to do in terms of this diversified energy management and fulfillment business, there are no platforms out there.
+There are no industry solutions because nobody is doing what we're doing.
+So we're a little bit challenged, I'll be honest with you in terms of putting it all together and getting this highly scalable machinery going.
+So that is definitely impacting our cost in an adverse way, but I'm confident with the superior team that we have in place that we will crack the code on that and that will give us more operational efficiency.
+So we are on it, but it is going to take a little while.
+But it's critically important because it's a very competitive market.
+So, we know that we have that in front of us and we certainly have a lot of manpower and a lot of man hours\u2019 debt to it.
+We are earnest and wanting to get there.
+That will certainly produce better-operating company and a better operating result, but we still have that in front of us.
+It's not beneficial at all.
+I mean, it's quite extraordinary, right.
+So right now, world stocks are something like 300 million barrels above the 5-year average.
+So the market is very sloppy.
+I don't want to say, we are drowning in oil, but there is a whole lot of oil around, demand is not huge.
+The economy is less energy intensive, and it's more diverse, right.
+So the diversity is good for us because we are very much into diversity in every way, including sourcing energy.
+We handle about 180 different products in our company.
+So we are very much in energy supermarket, and it's really about providing what the market needs.
+So I have started out long time ago in the marine side.
+Obviously, we are fairly sizable in aviation side.
+We have 2 truly global businesses where we are going with fulfillment in over 200 countries.
+Our land business is now getting density in the United States and certainly has density in the U.K. and in Brazil.
+So -- but having a significant amount of oil means that there's enormous choice in the marketplace and it's just supply and demand and that typically is going to put pressure on margins.
+So it's no different than any other marketplace, and we just really have to focus on being the most efficient provider and being that omni-channel provider and doing it globally and adding more products and services and providing those solutions.
+So that's really what we're about.
+Marine is certainly a part of it.
+I think it has a long-term role within the portfolio.
+It's not going to go away.
+But we are really diversifying our business to be broad-based in terms of commercial and industrial and adding the payments to it, makes sense.
+So we are distributing a tremendous amount of energy products.
+It used to be just Marine and Aviation now by virtue of Kinect Energy Group.
+There really isn't any consumer of energy, including power and natural gas, that we can't provide some level of service to.
+So that I think is the exciting story about the World Fuel.
+It's certainly beyond fuel and so some companies started selling books.
+So I started selling bunker fuel long time ago, and now it's a bit more than that.
+So that's the exciting part.
+And having marketplace that is oversupplied, I think we're in a good position because we understand the end consumer.
+We understand the demand and that is something that will never go away.
+Satisfying that customer is definitely a challenge, but it's what we've been doing our entire life.
+So really we're trying to make the company sort of bulletproof from the perspective of pricing or what supply is and just becoming a flow business that is extremely efficient from an operational perspective and has a broad base of products and services.
+That's the name of the game.
+One of our board members was using the analogy of how you scale a mountain and you sort of regroup at base camp.
+So we've certainly done more in recent periods than we've done a little while.
+The belly is full to a certain extent and we are extremely focused on driving organic.
+At the end of the day it's all about organic.
+The minute you buy a company what you have to do, you have to drive organic.
+So the retail therapy is good, but it fades pretty quickly and all you're going to do is just be that you'll acquire.
+That's fine.
+But we'll continue to explore every opportunity that comes across our desk that fits both strategically and financially that will accelerate, extend or complement our long-term strategic journey.
+So we are zeroing in pretty much on where we think we need to be.
+Right now, it really is about consolidating, getting the operations down, getting the technology working for us, the whole name of the game is technology without question both to improve our internal efficiencies and to provide value to the marketplace in terms of our buyers and sellers, but we continually evaluate.
+<UNK> runs our Corporate Development Council, one of our 7 councils, that essentially govern what we do in this company, and that ability to process that is pretty impressive.
+So we'll continue to acquire, but we want to make sure that it's the right business at the right price and really fits the strategy.
+I just want to thank everybody for the time and the support.
+So thanks very much and we'll look forward to talking to you next quarter.

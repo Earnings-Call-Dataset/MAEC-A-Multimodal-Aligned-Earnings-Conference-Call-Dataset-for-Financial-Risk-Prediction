@@ -1,0 +1,217 @@
+Okay.
+So hi, this is <UNK>.
+So obviously we don't get into the term and length of these contracts, but you can imagine that if you're going to make a significant investment of nine-figures, it's probably a long-term relationship that you're talking about.
+And so, that again has been a focus area I had mentioned earlier.
+These are CEO level conversations.
+We're in the Boardroom presenting to their Boards.
+And we're talking about transformation, which I think is something top of mind for all of these customers.
+As far as IT is concerned, you always have to talk about, and with IT.
+But these are transformational sales.
+These are conversations around growth, which is the top of mind for all senior executives and CEOs for sure.
+But listen, in these large enterprises, the CIO is important.
+And by the way, we are a great platform, and CIOs and technologists are always interested in great platforms.
+And again, that message certainly resonates.
+And I'll tell you that, there's definitely a transformation going on at Salesforce, and <UNK> and I have had a lot of conversations about this.
+We've talked about it on previous calls.
+I would say this transformation has accelerated -- and <UNK>, how many sales calls -- you were at Oracle for how long.
+20.
+26 years.
+I was at Oracle 13 years.
+I never made a sales call on a CEO, while I was at Oracle.
+I mean, there was some business development things, but never CEO buying product, and being that chief digital officer himself or herself, I mean, isn't that -- was that your experience as well.
+Yes, absolutely.
+I mean, the world has turned.
+And, as we talked about earlier, the CEOs are all about transformation.
+And in many ways, they have become the chief transformation officers for these companies.
+And so, they are personally involved, they are personally engaged.
+And they want to talk to us.
+And they are very interested again in us playing the role of the trusted advisor; they are interested our thought leadership, as you know.
+And listen in the last three weeks, I've had more conversations with [you and CEOs] around transformation than in my entire career, over 30-plus years.
+Yes.
+And I look at the large transactions we did with the largest banks in the world, the largest insurance companies in the world, the largest media companies in the world, the largest technology companies in the world, which was marked throughout this whole quarter, every single transaction was done with the chief executive officer.
+And those happened at the World Economic Forum, those happened in their offices, those happened in our offices, those happened at trade shows.
+But I'll tell you that <UNK> and I can just probably rattle off dozens of CEOs that we are having to constantly interact with, and collaborate with, in creating these transactions.
+And I think that it's really unusual, and I think that's why we are really selling more enterprise software than Oracle or SAP in the applications area.
+Wouldn't you say <UNK> at this point.
+There's no question that we are outpacing the competition, in terms of enterprise application sales.
+There's no question, we continue to take share, and that's both market share and mind share.
+And you and I were having a conversation, just the other day about one of the world's largest financial services institutions.
+And kind of in the old world, what level we would be able to call on.
+And in this new world, because we were with them at the World Economic Forum, we're talking to the CIO -- and excuse me, the CEO and their CIO, and head of operations -- that person would never have met with us before.
+And all of a sudden, they are with us all the time.
+In fact, we have a quote from our kickoff -- we just finished our kickoff, from the CEO of this particular institution saying, that they view Salesforce as one of their most critical strategic partners.
+And <UNK>, wouldn't you say that's really about kind of our Company being able to transform our role to becoming a trusted advisor, especially in regards to these customer relationships with these companies.
+Isn't that what's going on.
+<UNK>, there seems like there's another level of it, which a lot of them really grill us on our own business, because they are moving to subscription-based services themselves.
+They want to be a cloud company.
+They want to have Internet-of-Things capabilities.
+They want to be more connected to their customers.
+They want to understand how we're achieving this growth, because many of these companies want to see these same growth levels.
+How does it impact conversations.
+Well it's interesting you brought it up.
+There are two types of conversations that we typically find ourselves involved with, and again, this is at the C-level and in the Boardroom.
+Number one is, you can always ask these companies, why aren't you thinking about yourself as a cloud company.
+Why aren't you thinking about changing your business model.
+And you should see the expression on their faces, because they are embracing that notion of transformation.
+So that is certainly one.
+Well nobody wants to the Uber-ized out of the world.
+That's on the mind of every person out there who is a CEO.
+And that's all about customer experience.
+Absolutely.
+Which is where we're at.
+Okay.
+Anyway, next question.
+I'm sorry, but for some reason there was a garbled communication.
+So I'm going to have to ask you to repeat the second part of that one, okay.
+Can you repeat the question, again.
+We'll come back to that.
+Okay, go ahead, <UNK>.
+Sure, I think number one is, customers are looking to build applications faster than ever before, and customers want to build -- and build applications once, and deploy them on every modern platform, which includes a watch, a phone, a tablet, a PC, and many different types of tablets, and many different types of PCs, and many different types of phones.
+And we have delivered the most modern, most incredible application development and deployment platform, I believe in the enterprise today, which is Lightning.
+And you heard Accenture talk about on our February 2 launch, how it's accelerating their own ability to build applications, not only internally, but for their customers using our Lightning platform, because there's nothing else like it.
+Companies in the software industry have kind of doubled-down, and gone back and focused on building apps, and kind of getting their apps to be kind of sexier, and looking better on all these new devices.
+And that's a huge mistake, because what these software companies should be focused on is building platforms that can deliver these apps, and that's what Salesforce has done.
+We delivered this incredible Lightning platform.
+I mean, it is amazing what it can do.
+I mean, you even saw on the February 2 launch, we delivered our Lightning platform running on Microsoft Continuum, before Microsoft has been able to deliver their own applications running on Microsoft Continuum, because of the kind of flexibility and capabilities of Lightning.
+And also, I would point out that's our strategy, as to my comment with <UNK> on Wave.
+That is, we have this incredible platform with Wave to build these analytics apps.
+And I think you know you know that we have, the most -- the number one platform on Amazon Web Services for building applications there, called Heroku.
+And between Heroku, between Wave, between Lightning, and other capabilities that we have, this really gives developers a fast, easy and very low cost way to build and deploy enterprise apps.
+And I will probably give you this great example of this company called, SteelBrick, who came with a lot of momentum out of our Dreamforce conference, with this incredible application that they had built using Lightning.
+And they ended up in my office in November, and it was awesome.
+And I'm like, how did you build this.
+And they are like well, we just built all of this on Lightning.
+I mean, I saw this App was running.
+It's my dream, it's this incredible App running on the watch and phone and tablet and everything, and making salespeople more productive, and more successful, and customer service professionals more successful and productive.
+And I'm saying, how did you build that.
+Lightning Lightning, Lightning, and I'm like wow.
+And, of course, I liked it so much, I bought the company.
+And I think that, and I hope that I get to buy more Lightning companies.
+Because within 30 days, I've already fully integrated that into my product, launched a new product, Sales Cloud Lightning, which includes the SteelBrick CPQ capability.
+And in addition to that, I've got a fully expanded and extended capabilities across my whole product line.
+So I hope there's more Lightning ISVs that are teeing up, to come know our family.
+Because I mean, this is like auto integration, once they get on to our Lightning platform, and then our ability to distribute that through this multi-thousand person distribution organization, with all of this momentum is really an awesome thing.
+So it is all about the platform.
+It's the key differentiator for us.
+Of course, we've got a great Company, that's the key differentiator for us.
+Of course, we have our ecosystem, that's a key differentiator for us.
+And it's also about this robust platform.
+That's a key differentiator for us, and that's how we're winning all these deals.
+I think you've kind of figured out our secret sauce.
+Let me talk to both.
+So this time, we can hear you loud and clear, so thanks for the question.
+So first of all, just on EMEA, I mean, one of our growth strategies has been international expansion.
+And that has certainly proven out, in terms of the numbers, and that takes many forms.
+It's customer-facing, it's support resources, it's our data centers.
+It's all those sort of things that have really expanded our footprint internationally, and certainly in EMEA that paid out very, very well for us.
+Let me just give you an example, two customers with incredible unsolicited CEO-level remarks at the World Economic Forum.
+We have entered into a relationship that we talked about on this call before with [ADB].
+And at the World Economic Forum, often there are many sessions where the CEOs of these companies will host a transformational meeting, that talk a little bit with other CEOs about what they are doing, and what they see in the industry.
+And certainly ADB was doing that.
+And at the end of the meeting, the CEO of ADB stood up unsolicited and said, I am completely transforming the way I sell and service to my customers and engage with them, because I've chosen Salesforce as my trusted partner.
+And that of course is a very significant company in Europe.
+Schneider Electric is another.
+The CEO of Schneider Electric was on a panel with <UNK> talking about digital transformation, unsolicited comment about how Schneider Electric is transforming its service model because of the capabilities of Salesforce.
+So we have some of the most incredible global companies in the world who happen to be headquartered in EMEA, who are actually evangelizing our message in the marketplace, around transformation and connecting to customers in entirely new ways.
+So when you see market leaders coming out there, at the CEO level, and evangelizing our story, that certainly sends a great message to other companies, whether they're in that industry or not.
+So again, those are two proof points on EMEA.
+On the line of business question, in terms of budget, look, IT organizations always have budgets.
+They typically range between 1% and 2% of the company revenues, but what we've been able to tap into beyond those budgets are the line of business executive budgets, and also as we've discussed on this call, the CEO agenda.
+It's an amazing phenomenon, when you see the CEO who has a growth priority, realign the budgets in the corporation to take on these growth initiatives.
+And that's what we're seeing.
+So it goes well beyond IT.
+Certainly IT budgets are a particular component, but when the priority of a company is all about growth, you find the money to make that happen.
+You find the money to make those investments, and that's what we are seeing in the marketplace.
+Sure, <UNK>.
+First thanks for the question, and I am happy to address that question.
+We're really pleased coming off of a great year, and a great finish, but we beat our operating margin guidance.
+We delivered 177 basis points this last year.
+And on top of that, [to that end], are consistent with our revenue margin framework, I'll go ahead and do that 125 to150 basis points for FY17.
+We feel that's really appropriate in light of our framework.
+It's very consistent with it.
+We think that it's appropriate and good guide.
+And it also allows us to propel this growth, to really help our customers solve the needs that they have, and invest in the future to perpetuate this performance over the long-term.
+So that's what I would say, <UNK>.
+Yes.
+I think that's a great question, and I'll tell you I believe that's a huge growth driver for us going forward.
+Because still only -- I think the number is 72% of customers still use us for only one cloud.
+So that is 72% of customers still use only use either the Sales Cloud, or the Service Cloud, or the <UNK>eting Cloud, or the platform or analytics, or whatever.
+And the opportunity is to do exactly what you said, which is to deliver a customer success platform.
+And we do want to go wall-to-wall with these companies.
+They do see that opportunity more and more.
+With some premium customers, we have had that opportunity, and I believe that is a huge opportunity for this Company as it continues to grow and expand, that we have a rich portfolio of products to offer these customers, even though the vast majority of the customers have only chosen one of those products so far.
+Absolutely, <UNK>.
+Thank you for the question.
+I think you're hitting it right on, which is -- and you described it exactly right.
+The compounding effect that we described, Dreamforce is a reality.
+More and more of our DR is showing up in Q4.
+It impacts all of the sequential growth rates more and more, as we showed in that amplified set of data we referenced.
+But to kind of build on your point, there is one other thing that we're trying to make sure that everyone sees and to call out.
+So I appreciate your question there, and that's regarding leap year.
+And it seems like a simple enough point, that when you take a look at our revenue, and you divide it up by day, and when there's one extra day that has the effect of having $20 million of extra revenue recognition in Q1, even though it all washes out in the year, right.
+But when you have one extra day of revenue, it means you have one less day of deferred revenue effectively.
+And so, that's the other thing that you take a look at.
+So if you take a look at the compounding effect, and you adjust for the leap year which washes all out in the year, but not in the quarter, I think you'll see just kind of an appropriate pattern there for our guide.
+Okay.
+Well I think there hasn't been a conversation this quarter that has not evolved around the incredible success that we've had with Accenture.
+We are not the only Accenture's fastest growing business unit, but also they've now deployed already 25,000 users of Salesforce inside Accenture.
+You've heard their CIO, and their CEO come to our launch on February 2, and give personal testimonial to the success that they've had, that their only regret is that they didn't go faster with Salesforce, that they are transforming their customer relationships at unheard of rates.
+And this is having a broad ripple effect through the SI community, where I think that honestly they are all asking themselves, why are they not all using Salesforce, building Apps on Salesforce, and selling Salesforce and having the same great success that Accenture has had.
+Some of these SIs are kind of prima donnas who have held on to the past too long, and it's affected their growth rates, and their ability to work with customers.
+And in some cases, dislodged them from strategic customer situations because they were not able to move fast enough to understand these customers' needs, and got displaced by Accenture.
+And we're seeing that en masse, and it's a for sure, it's a shot across the bow of the SI community, that they better go faster, or there's going to be a broad shake-up in regards to the transformations that are happening, under way in regards to these next-generation implementations, specifically those regarding Salesforce and our product line.
+<UNK>.
+Yes, a great question.
+So first and foremost, I think we all recognize that these SIs, many of them certainly the upper tier of the SIs are very strategic influencers, and in the Boardroom, and at the CEO level, and speaking transformation to the line of business executives.
+Part of our strategy has been to really strengthen these relationships over time, because we know that they bring expertise and access, and they can also drive most importantly, the customer success.
+The observation I would give you, is that the most successful SIs are the ones who are very focused on Salesforce, and the ones who actually run their business on Salesforce.
+<UNK> has just given that as an example.
+And we are establishing what I'd call a 360-degree relationship with these SIs.
+So we go to market with these SIs, they run their business on Salesforce.
+And in the case of Accenture, they are actually building product, they have become an ISV.
+And those are the strategic relationships that we're trying to build here, and we've been very, very successful, and the ones who get it are growing.
+I had a conversation last week with a CEO of a pretty major consulting organization who was lamenting about their lack of growth generally speaking.
+And my comment to this person was quite candidly, you are not focused enough on Salesforce, because if you were focused on Salesforce, your business would be growing.
+And I got this look of acknowledgment, and it's absolutely true.
+The success stories in these consulting practices is about their Salesforce practice.
+So they've been a big part of our growth strategy.
+They are starting to -- virtually all the large ones are running business on Salesforce.
+They have made their commitments, and they're a big part of our future and our ecosystem strategy.
+Well, I think that's a great question, and something that we think about every day at Salesforce, and something that we talk about every day at Salesforce, which is what kind of a Company is this.
+And what is our culture, who are we, and what is it that we do.
+And we've talked a lot about that on the call already, that is we have a radically different technology model, than the technology model that has been in place at Oracle, or SAP or even Microsoft.
+We have a -- which is our multi-tenancy system built on our metadata model.
+We have a radically different customer model, which is a model built on customer success, and we have a radically different philanthropic model that we've talked about, which is our focus on 1% of our equity, our profit, and our employees time go into our Salesforce.
+org.
+So we've of course, done about 1.3 million hours of community service.
+I believe we'll do even more community service this year than Microsoft, which is a company 10 times our size, because we're just very committed to volunteerism.
+We run over 25,000 non-profits and NGOs for free, which has been a gift of over $250 million in services to the non-profit community, and we've given away over $100 million in grants as well.
+I think also, you know we're out there fighting for equality where we can.
+You saw that with our focus on equal pay for women.
+We were just at the White House speaking about that, adjustments that we've made to our own financials so that we can pay women the same that we pay men here at Salesforce.
+You saw us fight in Indiana against discrimination of our employees.
+And we're looking squarely at what's going on in Georgia with House Bill 757, which means that we may have to reduce our investments in the state of Georgia, based on what we're seeing with the state government there as well.
+And I hope that they see the light the way that the state of Indiana did.
+And in addition, I think that you see Salesforce trying to create a culture and an environment, where we reflect what we think the future of the world is, a world where there needs to be more equality, a world where there needs to be more focus on sustainability, and where there needs to be a world focused on companies that are becoming platform for change, and that the business is the business of improving the state of the world.
+Those are the things that are really important to us.
+I think also you probably noticed, that we opened up this call saying thank you.
+It's really important to us that we have a sense of gratitude when we address our employees, and our customers, and our partners.
+That's a huge part of our culture.
+And at the end of the day, it's deeply a part of customer success as well, that is because of our business model, we're only successful, if our customers are successful.
+So these are the things that I think are actually somewhat different than when we were at Oracle.
+The narrative there, and the actions, the behavior was rewarded differently.
+The things that we were encouraged to do and compensated for, and what we told our employees to do, and what we were directed to do is different than what we do at Salesforce.
+And I hope that we can be an example of a benevolent company that does well, and does good.
+Well, thanks so much, <UNK>.
+And I'd like to thank everyone again for joining us on the call today.
+You can catch up with us next week.
+We'll be at several technology conferences, including --.
+And also I'm about to go on Mad Money, with Jim Cramer in a few minutes.
+I'm about to go next door to the studio, so you'll see me at Mad Money on CNBC in -- I think Jim's show, which I think actually just started.
+Yes, we'll see you there <UNK>.
+And then as I said, we'll be at several tech conferences next week, Morgan Stanley, Pacific Crest, JMP Securities.
+As <UNK> mentioned earlier, catch us at one of our world tours.
+If not, we'll update you on our next quarter call in May.
+Thanks so much.
+Thanks.

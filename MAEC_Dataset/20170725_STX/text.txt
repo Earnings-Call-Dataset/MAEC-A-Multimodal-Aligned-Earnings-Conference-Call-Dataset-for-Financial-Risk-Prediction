@@ -1,0 +1,191 @@
+Thank you.
+Good morning, everyone, and welcome to today's call we are hosting from Dublin, Ireland.
+Joining me today from Seagate's executive team are Steve <UNK>, Chairman and CEO; Dave <UNK>, Executive Vice President and CFO; and Dave <UNK>, President and Chief Operating Officer.
+We've posted our earnings press release and detailed supplemental information for our June quarter and year-end fiscal 2017 on our Investor Relations site at seagate.com.
+During today's call, we will review the highlights for the June quarter and fiscal year '17 and provide the company's outlook for the September quarter and then open the call for questions.
+We are planning for the call today to go approximately half an hour, and we will do our best to accommodate your questions following our prepared remarks as time permits.
+We will refer to GAAP and non-GAAP measures on this call.
+Non-GAAP figures are reconciled to GAAP figures on our supplemental information available on the Investors section of our website.
+We have not reconciled our non-GAAP financial measure guidance to the most directly comparable GAAP measures because material items that impact these measures are out of our control and/or cannot be reasonably predicted.
+Accordingly, a reconciliation of the non-GAAP financial measure guidance to the corresponding GAAP measures is not available without unreasonable effort.
+As a reminder, this conference call contains forward-looking statements about the company's anticipated future operating and financial performance, customer demand, technology and product development advancements and general market conditions.
+These forward-looking statements are based on management's current views and assumptions and should not be relied upon as of any subsequent date.
+Actual results may vary materially from today's statements.
+Information concerning our risks, uncertainties and other factors that could cause results to differ from these forward-looking statements are contained in the company's SEC filings and supplemental information posted on the Investors section of the company's website.
+I would now like to turn the call over to Steve <UNK>.
+Please go ahead, Steve.
+Thanks, <UNK>.
+Good morning, everyone, and thanks for joining us today.
+For today's earnings call, I will cover the high-level trends we are seeing in the business, and Dave <UNK> will then discuss certain financial highlights, and I will close the call with our outlook for the September quarter.
+Before I begin my operational comments, I would like to discuss our announcement today of Seagate's CEO succession plan.
+Today, Seagate's Board of Directors voted unanimously in favor of my transition to Executive Chairman of Seagate and appointed Dave <UNK> as Chief Executive Officer.
+Dave and I will assume our new roles effective October 1, at which time I will shift my focus primarily to strategic growth initiatives and other opportunities designed to enhance shareholder value for the company.
+Dave has also been appointed to the Seagate's Board of Directors effective immediately.
+Over the last 2 years, the board and I have been focused on executive management succession.
+In addition to Dave's appointment, Dave <UNK> transitioned to CFO 18 months ago.
+And recently, we have appointed Jim Murphy, Executive Vice President, Worldwide Sales and Marketing; <UNK> Schuelke as Senior Vice President, Chief Legal Officer and Corporate Secretary; and Ravi Naik as our Senior Vice President and Chief Information Officer.
+In addition, as part of the restructuring actions taken over the last 12 months to optimize our global manufacturing and development center investments, we have also aligned all of our manufacturing operations under Senior Vice President of Operations, Jeff Nygaard, and we have reorganized our R&D functions to meet the evolving storage marketplace requirements.
+The board and I believe we have the right management team and organizational structure in place to execute Seagate's business strategy, capitalize on opportunities in the storage marketplace and continue to create long-term shareholder value.
+It's been an honor and a privilege for me to serve as Seagate's CEO in 16 of the last 20 years.
+I'm grateful to our amazing employees, customers, suppliers and shareholders, and I look forward to working closely with the management team on our future opportunities in my new role as Executive Chairman at Seagate.
+Turning to our operational results.
+The overall macro environment continues to exhibit stability, and we believe this will continue through the rest of the calendar year and well into 2018.
+We remain cautiously optimistic that this should translate to moderate IT spending growth.
+In the context of the storage marketplace, the major transformative shifts from a client server to mobile cloud, high-capacity mass storage deployments continue to represent significant opportunity for Seagate.
+The long-term trajectory of growth and infrastructure spending for the large cloud service providers and hyperscale companies remains intact as they continue to increase their service offerings and demonstrate significant business momentum.
+At the same time, the more mature enterprise storage technologies remain a large percentage of the overall IT storage market and can exhibit variance beyond seasonal patterns as the structural shift to a wide variety of IT and cloud service providers accelerates.
+In addition, the end-to-end storage supply chain is continuing to experience price increases by as much as 2x to 3x in the memory markets.
+The effect of this significant price increase is evidenced by some near-time enterprise customer demand softness, which we believe will be resolved over the next several quarters.
+For the June quarter, Seagate achieved revenues of approximately $2.4 billion, GAAP gross margins of 27.7%, net income of $114 million and diluted earnings per share of $0.38.
+On a non-GAAP basis, Seagate achieved gross margins of 28.9%, up 310 basis points year-over-year; net income of $192 million and diluted earnings per share of $0.65.
+HDD exabyte shipments for the June quarter were 62 exabytes.
+Average capacity per drive across the HDD portfolio was approximately 1.8 terabytes per drive, and ASPs per unit were $64.
+We saw strength in the quarter from our largest nearline U.S.-based CSP customers and relative seasonal demand in the compute and branded markets.
+Offsetting this was weakness in our enterprise storage customers, including traditional OEM nearline and mission-critical demand; China CSP nearline demand and our own cloud storage systems business.
+In addition, there was weakness in the surveillance and NAS markets due to some inter-quarter channel inventory management.
+As a result, our overall revenue results were approximately 5% below plan with approximately half of that shortfall from our cloud storage systems and half from HDD enterprise weakness and channel inventory management.
+We believe some of these factors, particularly China CSP demand and NAS and surveillance market demand, are temporal and supply chain-related while some of the OEM revenue declines are more structural.
+Our non-GAAP margin results of 28.9% were approximately 210 basis points below our guidance.
+Within this, approximately 2/3 of the impact was due to operational [trans] issues in our CSSG business, and approximately 1/3 was due to lower-than-expected enterprise and surveillance HDD portfolio mix.
+GAAP operating expenses were $470 million, down 16% year-over-year; and non-GAAP operating expenses were $422 million, down 5% year-over-year.
+Cash flow from operations for the quarter was $243 million, and free cash flow was $139 million, up 13% year-over-year.
+While we were disappointed to not meet our top line targets in the June quarter, Seagate effectively achieved our operating margin and gross margin profitability targets for fiscal year '17.
+For the year, diluted earnings per share grew 215% on a GAAP basis and 82% on a non-GAAP basis.
+In addition, for fiscal year '17, we generated $1.9 billion in cash flow from operations and returned 53% of that to shareholders in dividends and share repurchases.
+In summary, I'm pleased with the operational improvements we made in fiscal year '17.
+And we're well positioned for the markets that are being served by our products and systems.
+I'll now turn the call over to Dave <UNK> now to go into more details on our operational activities.
+Thanks, Steve.
+For the June quarter, we achieved $2.4 billion in revenue and shipped 62 exabytes of storage with an average capacity per drive of 1.8 terabytes.
+For the enterprise market, we shipped 23.5 exabytes with the average capacity per drive of 3.4 terabytes.
+Our average capacity per drive for our nearline products has reached over 4.8 terabytes per drive, up 8% over last year's strong 8 terabyte sales quarter and up 60% from the June quarter 2 years ago.
+We continue to ramp our 10TB nearline product and shipped approximately 300,000 units in the June quarter.
+Our sales for this capacity point have almost doubled over the last 2 quarters, and we expect to ship approximately 1 million 10TB units in the September quarter.
+In addition, our 12TB product shipped with revenue in the June quarter with excellent customer feedback, and we are confident our qualification process is competitive.
+We expect to achieve approximately 50% of the exabyte share within the 10TB and 12TB markets by the end of the calendar year.
+The growth in hyperscale and cloud storage deployments continue to represent a significant opportunity for Seagate, and we are confident in our nearline HDD portfolio designed to serve these storage environments.
+Over the next 12 to 18 months, we expect the nearline market to be diversified in capacity points for different application workloads with use cases from 2 to 4TB products for certain applications and up to 16 terabyte for other use cases.
+In the client and retail markets, our 1TB per platter, 2.5-inch platform continues to perform well.
+And to date, we have shipped over 45 million drives, substantially ahead of the competition.
+Using similar technology, our 2TB per platter, 3.5-inch platform began ramping last quarter for desktop markets, providing great value for customers needing 2, 4 and 8TB client capacity points.
+Customer feedback indicates we are well ahead of the competition.
+Operating expenses for the June quarter were (inaudible) (sic) [$470 million] GAAP basis and $422 million on a non-GAAP basis, down 5% year-over-year.
+Total consolidated expenses were slightly lower than forecast, primarily due to lower variable compensation.
+We continue to identify areas for cost improvements and this morning, we filed a restructuring plan that will provide savings of approximately $90 million annually.
+These cost actions provide support of our objective to exit the calendar year with non-GAAP operating expenses of approximately $400 million per quarter.
+In addition to these actions, we will continue to manage our operating expenses tightly, targeting approximately $375 million per quarter by the end of FY '18.
+Capital expenditures were $104 million for the June quarter for maintenance capital and manufacturing footprint redeployment supporting the continued ramp of new HDD products in our portfolio that utilize new tooling and equipment.
+Cash flow from operations in the June quarter was $243 million, and free cash flow was $139 million.
+These results include approximately $50 million in cash payments related to previously announced restructuring charges.
+Our balance sheet remains healthy, and we ended the June quarter with $2.5 billion in cash and cash equivalents and 292 million ordinary shares outstanding.
+Our board has approved our quarterly dividend payment of $0.63 for the June quarter, which will be payable on October 4.
+Interest expense for the June quarter was $62 million and will be lower in the September quarter due to the lower debt balance.
+Our debt structure and level of interest expense continues to be well within our financial capabilities, given our staggered maturities and low interest rates.
+In FY '17, we successfully completed a debt offering of $1.25 billion of investment-grade financing with weighted average interest rate of less than 5% and paid $316 million to repurchase and redeem outstanding debt, including our 2021 7% senior notes.
+Overall, our operational and financial performance in FY '17 reflect execution of our business model profitability improvement objectives and our ability to generate cash flow from our storage portfolio.
+Looking ahead, we will continue to optimize our business model and focus on our go-to-market and product portfolio advancements towards the future growth opportunity markets.
+I would now like to turn the call back to Steve.
+Thanks, Dave.
+Turning to the market outlook, we remain cautiously optimistic about the current macroeconomic environment and IT and enterprise spending trends.
+We believe the end-to-end supply chain issues we identified last quarter will persist at least through the end of the year and, therefore, we want to exercise more caution than seasonally normal for traditional enterprise spending and other markets affected by higher-than-normal supply-chain pricing.
+At the same time, we are continuing to anticipate a stronger back half of the calendar year for exabyte growth with the CSP ecosystem and seasonal demand for our other major markets, including PCs and the branded market.
+For the September quarter, we are expecting to achieve revenues of between $2.5 billion and $2.6 billion.
+Our gross margin expectations for the September quarter are relatively flat and within our 29% to 33% targeted range.
+Cash flow from operations will be up sequentially.
+As Dave indicated, non-GAAP operating expenses will trend sequentially down to approximately $415 million in the September quarter, and we expect to exit the December quarter at or below $400 million.
+While we are not on a trajectory to meet our previous guide of non-GAAP EPS of $4.50 for calendar year '17, we do anticipate revenue and profit growth sequentially for the December quarter.
+Thank you for joining us on the call today, and we'll now open the call up for questions and answers.
+Yes, Steve, this is Dave <UNK>.
+Let me try the first one there.
+They're somewhat interrelated, I think, your 2 questions.
+So on the nearline side, some customers, you're heavy with; and other customers, you're not as heavy with.
+So there are some fundamental shifts going on depending on -- upon capacity points.
+I think at the highest capacity points, there's some things about our ramp that we're not happy with.
+The product is really good, and we're ramping it hard right now.
+At the lower capacity points, the 4s and 8s and things like that, quite happy with our products.
+That's where the -- some of the China CSP behavior and the smaller customers and their issues that they had across their supply chain were affected.
+So there's slight share shifts going on, but really only the highest capacity point is super relevant.
+We think that's temporal.
+Like I said, the 2 questions that you asked are interrelated somewhat.
+The systems business that we have is -- there's a few different kinds of business in there.
+There's some specialty products' buildout that we do, and then there's some things where we were really acting more like an ODM, I'll say.
+And that stuff is not very good business.
+And obviously a lot of ODMs get themselves into situations with the supply chain issues, where either they were underwater, they couldn't procure parts at the right point.
+They had supply that was older supply, so to speak.
+So it was -- it was a really tough road for the last 2 quarters in that, and we're going to have to really take a look at how much of that business we continue to support going forward.
+So Katy, let me first say, while I appreciate your congratulations on retirement, much to my children's chagrin, I have not retired.
+In fact, this is probably the best way for me to stay engaged with the company for a few more years.
+But I did, I suppose, retire from the CEO job.
+But -- so I'm super happy about where I'm headed, and what my engagement will be with the company.
+Also super happy that <UNK> is CEO.
+As I said to someone the other day, that running a disk drive company is a little bit like driving in stop-and-go traffic.
+Sometimes you're going 15 miles an hour, and sometimes you're going 85 miles an hour.
+But you usually get to your destination on time, and no one's hurt.
+But it's stressful as (expletive) for the driver and, oftentimes, for the passengers, too.
+So I think we have a younger driver with better reaction times now.
+The -- I think your point is right on where we're headed on margins.
+The way we see the math, to your point, clearly, ramps are always challenging whether or not it's a 2.5-inch notebook product or a 3.5-inch surveillance product or a high-end nearline product.
+And whenever you're ramping, the products, the yields come up the ramp.
+You get better and you also do redesigns and bring costs down.
+And you also start to understand customer needs, which allow you to optimize the firmware, et cetera, et cetera.
+So we would expect that with the ramp on those products and the overall mix of that occurs as customers move from 10s to 12s, to 14s to 16s, that we have opportunity to move up in that margin range.
+I think the good news on the quarter, frankly, is even with the weakness that we had on nearline and mission-critical and certain customer bases -- and even within the services group, the margins that they did contribute were not what they should've been.
+Even with that, the overall margin structure was pretty solid, which I think should give you a good sense of the underlying core HDD businesses is operating pretty nicely right now.
+And yes, it should improve as we execute here in second half of the year, yes.
+Yes, let me answer that, and then I'll turn the other thing back to <UNK>.
+We've never talked about where our gross margins are by products, and it's a really dangerous game to get in because we're so leveraged in our manufacturing and our R&D systems that to try and actually splice margins by segments, while it may be a fun accounting practice, it's really deceiving from an overall business practice.
+I will tell you, though, that our client portfolio has definitely greened up in terms of the technologies we're deploying.
+And again, we have an areal-density lead there that's now going on almost 2 years.
+So that means fewer heads and disks.
+So to reach the same capacity points, those clearly have better margins than they did historically for us competitively.
+So -- but I think the real message here is that it's -- you have to view it as the manufacturing company as a whole.
+And we strive to get as much leverage as we can across the components into the products as possible.
+And then on the enterprise commentary, there\
+This is Dave.
+No, this has been in constant dialogue and under plan as we continued to drive to a glide path of exiting calendar year, this calendar year under 14 -- $400 million.
+And so this has long been in process as we go out and continued to drive further synergies amongst the organizations and how we continue to repivot the higher-yielding, higher-portfolioed product set that we bring to market.
+So to your point, this is something that we definitely had under long consideration and have taken the necessary actions.
+Yes, if you go back a year ago, we kind of -- I think we did at the June call of last year indicate that we're going to take a variety of actions on the manufacturing side to address the capacity issues, and where that would have a significant COGS impact, which is obviously reflected.
+And secondly, that we were going to work OpEx on 2 different vectors: One was absolute OpEx dollars, and the other was to maintain our margin model that we've committed to and we're staying committed to.
+That one, as you may remember, wasn't kind of on the steady ramp down because the first -- the last 6 months of last year were quite strong, and we needed to keep a fair amount of people in place to actually meet the upside demand.
+And there was also some critical product transitioning going on that we felt it made sense to keep the resources in place to make sure those transitions went well.
+And that benefited us extremely through fiscal year '17, where we obviously overachieved fairly dramatically relative to where we were a year ago.
+So I think we're back on how do we get to $400 million.
+I would probably say, though, as we think about going from $400 million to $375 million that, that is not a reflection so much of something going on in the market, as much as a reflection of what happens when you start making adjustments to your OpEx.
+You obviously, then, see other opportunities where you can take some additional actions.
+And some of it is also related to things that Dave <UNK> mentioned about, what's the quality of business that we're doing in the systems side.
+And what's the underlying OpEx support for that.
+And does that math really make sense.
+So a little bit of that, I'd say, in terms of how we're going to get from $400 million to $375 million, but not like market related to the sale of disk drives.
+It's more, I think, related to what we think we can do within the context we've always described as one that's positive.
+I think it's probably a little lower going to the cloud service provider, if by the cloud services providers, you mean the top, the biggest ones of them, right.
+It's probably a little bit lower than that historically.
+We did get into this discussion about structural versus temporal and noted some of the weakness among OEM nearline worldwide, and that -- some of that may be structural as well.
+<UNK>, I'd say, as people are looking to buy, they may be buying from ODMs or other third parties.
+They're nontraditional customers, and that model is accelerating.
+It's not going back to the old ways.
+So some of that -- that's been soft, but some of it may be structural as well.
+I just wanted to better understand where we are from a technical perspective.
+You talked about some changes in R&D in terms of getting to the next node and hammer type of technology.
+And then also, if we could just review what you think about in terms of your policy around keeping folks updated around quarters with respect to mid-quarter updates, pre-announcements and those types of activity, that would be great.
+I'll do the hammer first.
+So this is a technology for everyone's benefit that we've been working on for quite some time in the hard drive industry.
+It's the next S-curve.
+The top of the areal density curve that we're on right now, it's getting harder and harder to squeeze that much more out of.
+The progress -- and we haven't talked about hammer very much in the last 2 years, but the progress has actually been pretty substantial in the labs, both on the reliability front, which was really the issue, and then on the demonstration of areal density front as well.
+So historically, we had talked about 20 terabyte drives in 2020, and we still are on path for those kind of demonstrations.
+We're going to shoot as high as we can, and we may even get above that based on what we're seeing in the labs right now.
+But productization's looking more and more favorable all the time, and we're going to be driving hard from inside of Seagate.
+So what that means is there's been a lot of discussions about 12 and 14.
+And then, ultimately, we'll get to 16 terabytes, but we will get to 20 and 24 terabytes some day.
+And we're seeing that -- those kind of components in the labs right now that, with the right amount of coaxing, we'll get them into products and get them out to the markets.
+Then on.
+.
+Yes.
+<UNK>, this is Dave <UNK>.
+In regards to definitive process per se on a pre or not a pre, I think the approach that the management team took this go around was, given the fact that there was so much information coming together and lack of visibility of what was really extending out, not only between this quarter but to the back half of the year's results, we opted to have a further context of full disclosure and earnings call at around the full year versus just the current situation at hand to be able to provide the full context to our investors and shareholders.
+So that was our thought process that went into it.
+Okay, I'd like to thank everyone for taking the time to be on the call today.
+And thanks to our employees and our customers and suppliers and investors.
+Look forward to talking to you next call.
+Thanks very much.

@@ -1,0 +1,83 @@
+Yes.
+Yes.
+We already moved, well, we moved 100 mid-market and enterprise, in that number of 100 there's the enterprise is in there and then we have all the Greenfield enterprises went live.
+One of the biggest growers right now is a Greenfield enterprise, it's a big (inaudible) over the UK that's been on it for about, almost a year, a little less than a year.
+So they're dual really well.
+So we feel good about the whole thing.
+Obviously the biggest challenge is the platform does it work and how is it working and how are they using it and that's going very well.
+Now we just need to sort of bite the bullet, move forward, get them over because, as I said, it's not about, we're just trying to go apples-to-apples with the platform.
+It isn't replacing a chat platform, it does have those capabilities.
+but what it's focused on is really disrupting the contact center.
+I mean, we literally can go after, you know, and we'll start showing more of this as we go forward, but we can start taking away voice calls and even though chat does that on a certain level, we can really accelerate that and that's where the big spend is.
+And so our sales team is very excited about the consideration they're having but it allows us to go after a much opportunity.
+I have said this before, even in our best customer, and we are the best at what we do, about 10% of interactions will be chat and 90% are voice and the vision, from when I started the Company, was I want to move as much of that to digital.
+But 90% sits in analog and I think we have got away now to actually move that 90% and I know we have to prove it and we're just starting, but we have our first enterprise to kind of fire up on the vision and many beyond that so it's exciting.
+You know, it's actually similar.
+They're all similar.
+It's just that there's a complexity in the enterprise there's more people it touches are momentum traffic, so we want to take our time with it and we want to make sure we get it, but we can move them very quickly.
+We can move customers within days, weeks, months.
+It's really what they want to do.
+The thing that we did, though, is we secured the dates for everyone to move and so we now have all the information that we need to execute on our plan.
+We're not just out there figuring it out and we actually have our dates.
+That's why we're able to sort of get a handle on the business and where it is, but you know.
+I know for everyone on the call, for you guys, it's about the migration.
+It's very important for us, but that's the foundation for us to build our vision and that's what we are focused on, too.
+So we got to move the migration, but we're also not just trying to move them to chat.
+We want to move them to the vision.
+We want to get them on mobile.
+We want to impact the contact center.
+We want to go after the IDR and so we're not just trying to move them apples to apples and we're moving them but we want to move them to the vision because that's the opportunity.
+That's right.
+So what we want to do is just kind of get it behind us, in many ways, and be able to talk to you guys about where we think the business will be so that we're not, every quarter, coming up with a different hey, now we just focus on this customer, we really spent the time to map and go through it and understand what the risks are.
+Now we understand them and now we can move forward and like I said the interesting thing is that we can actually generate more operating margin even as we move forward because of what this platform will do.
+So our future is in a place that we're really excited about.
+We just got to move it ahead and we're ready now.
+First I, it's going to be a much more, we have a very focused list of customers that we're after because the opportunity is in a very focused set of verticals that we already in play.
+So you're going to see larger deals, which you have been seeing, not as many deals, but larger size because we're very focused on how to disrupt the contact center that has 20,000 agents, 40,000 agents, a hundred thousand agents, and so that's really where our focus is.
+On the mid-market small business we're, obviously, partnered with Facebook to do some stuff down there, but our focus on the enterprise is a very discrete group that we are after.
+And we already have a handful of them, they are already customers that are migrating so that's what you should see.
+Larger deals, fewer deals but much larger deals.
+Thanks, <UNK>.
+It's full production, full contract.
+No.
+Not right now.
+Not until we get live and we'll put it out there when we get live.
+I don't think the timing exactly works out that way, <UNK>, but obviously with our pricing model the more customers use, we'll have the opportunity to go back and talk to them about pricing.
+But right now our focus is really towards getting them on to the Live Engage platform and aligning our customers to our vision and driving value.
+Well, the displacement is really with the Genesis, Avaya, Cisco and the traditional call center companies.
+You know, the way we're approach, which is focused on mobile and not this concept of the Omni channel, I don't believe Omni channel work, and we have a lot of funny videos that we put out on the marketing side around it.
+It doesn't work and the concept around that, you're bringing in social and mobile and web and calls, the reality is we played it out and the majority is still calls.
+So I feel like it's like, it's something that the call center guys put out there, but the only channel that seems to succeed with the call center guys is phone, they don't promote any other channel.
+They don't want any other channel to make it so we have a different strategy.
+I'm not going to go into detail on what makes our platform work, specifically for competitive reasons, but I think which have a good strategy.
+And it's of proven by I think signing a very large enterprise around it.
+We are going to look to impact voice tremendously at that enterprise and it's not and Omni channel strategy.
+So today our real focus and the enemies that we see, it's not the low end chat guys.
+And that's what people have to understand, like yourself.
+We are not looking at the low end chat guys as our competitors.
+Yes, they have always nipped away at non-strategic accounts.
+They have always done that thing but we're looking at the guys that are providing, you know, calls and they are 264 billion phone calls out there and those companies don't grow, their technology is very old, it's never really been disrupted and so we're very focused on disrupting that and that's really what our key is right the now.
+They are, you know, we're doing a lot now so we're trying to get as much as we can now, but they're kind of evenly distributed, so because we obviously have some constraints on bandwidth and they have theirs so we match with those two, but we're not trying to back end load it or anything.
+We're all focused on just getting it done and move on and getting people to the vision.
+No.
+I mean we've got the features we need in the platform.
+(Inaudible) innovate around, especially around some of the data pieces.
+We have a new scoring algorithm to score the health of a customer, called a Meaningful Connection Score, which is very interesting, and it's a different way to do CSAT and MPS, so we can score in real-time what the relationship is with consumers.
+So we keep adding pieces like that, but those are just additions to the platform, but we have what we need right now.
+<UNK>, since we started focusing on these small business customers and we've got about a hundred mid-market it's less than the 45% that we have over there, but as we move to mid-market enterprise customers you will start to see that revenue pick up quite a bit.
+Yes.
+What we did with the platform, so the platform does both sales and service, but the platform is actually built around this idea of a campaign.
+So you can set a service campaign and you can set a sales campaign and so basically we made it really easy to actually blend both in the system and you can easily set it up yourself and set the goals, if you wanted to you can easily, you can also just use our predictive intelligence on both side, sales and service.
+So it's and integrated system now, but it's all goal based.
+It feels kind of like, that's why people like it this is why they're using more of it.
+It's sort of like setting up Google keywords.
+You set a goal and you see how it operates and you keep setting goals around that and it's all campaign-based so we see service campaigns, we see sales campaign, marketing campaigns, it's made for different users.
+Well, there's a greater opportunity in service when we come to impacting the contact center because there's a lot more calls happening on the service side.
+So I would say that you're right.
+About, we have over, I think, about 60% of our revenues in the sales side and we will continue to expand that but we're also focused on the service side.
+Where I used to think that the service side was sort of a commodity and there's always pricing pressure and there's always cutting of budgets.
+We see service now as a very important thing because companies are looking at the overall experience with the consumer and if you're a bank you're selling similar products, if you're a teleco you're selling similar products but service can change the difference and how you're connecting with the consumer can change the difference and so we're seeing a renewed investment in service and sales continues to grow but there's definitely renewed focus on that where it was kind of like a secondary thing, but it's definitely a new focus.
+Thanks, <UNK>.
+Thank you, everyone for joining our call.
+We will see you next quarter.
+Thanks, everyone.

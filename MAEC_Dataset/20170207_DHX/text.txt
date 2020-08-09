@@ -1,0 +1,228 @@
+Thank you, Keith.
+Good morning everyone.
+With me on the call today is Mike <UNK>, President and Chief Executive Officer of DHI Group Inc.
+and <UNK> <UNK>, Chief Financial Officer.
+This morning we issued a press release describing the company's results for the fourth quarter of 2016.
+A copy of that release can be reviewed on the company's website at dhigroupinc.com.
+Before I hand the call over to Mike, I would like to note that today's call includes certain forward-looking statements.
+Particularly statements regarding future financial and operating results of the Company and its businesses.
+These statements are based on Management's current expectations or beliefs, and are subject to uncertainty and changes in circumstances.
+Actual results may vary differ materially from those expressed or implied in the statements here, due to changes in economics, business, competitive, technological and/or regulatory factors.
+The principal risks that could cause our results to differ materially from our current expectations are detailed in the Company's SEC filings, including our annual report on Form 10-K and quarterly report on Form 10-Q in the sections entitled Risk Factors, Forward-Looking Statements and Management's Discussion and Analysis of Conditions and Operations.
+The Company is under no obligation to update any forward-looking statements except where it is required by federal security laws.
+Today's call also includes certain non-GAAP financial measures, including adjusted EBITDA, adjusted revenues, net income excluding impairment of good will, diluted earnings or loss per share excluding impairment of goodwill, adjusted EBITDA margin, free cash flow and net debt.
+For details on these measures, including why we use them and reconciliations to the most comparable GAAP measures, please refer to our earnings release and our form 8-K that has been furnished to the SEC, both of which are available on our website.
+Now I will turn the call over to Mike.
+Great, thanks <UNK>, and good morning everyone.
+And welcome to DHI Group's fourth-quarter earnings call.
+Today, I will start off with an overview of our performance in the fourth quarter, and update on our tech-first strategy.
+Then I will turn it over to <UNK>, who you may recall joined our company as CFO in November.
+We will provide a financial update and discuss key operational metrics and our outlook for the business.
+First, a brief update on the strategic alternatives process we announced with our third-quarter results.
+In November, we engaged Evercore to explore strategic alternatives for our Company.
+The process is progressing as we had originally planned and we're right in the middle of it now.
+Of course, there is no assurance that will result in a transaction but with that said we remain committed to the interest of our shareholders and believe the tech-first strategy we are embarking on will benefit our shareholders regardless of ownership structure.
+Turning to our business, 2016 was certainly a challenging year for us as the continued evolution of talent acquisition services, competitive industry dynamics and a few unfavorable macro trends pressured our financial results.
+At the same time there were many positive developments going on behind the scenes that made it a critically important and beneficial year for us from a long-term strategic perspective.
+We took a deep assessment of our company and industry and devised our tech-focused strategy that we began implementing in the fourth quarter.
+So as we enter 2017, we're in a better position than where we stood a year ago.
+Let me take a few minutes to elaborate on our tech-focused strategy.
+Last quarter, we talked about why a tech-focus makes sense.
+In summary, it is a big, growing, global, cross-industry professional function and happens to be where we are strongest.
+Almost all companies have tech needs at some levels, so the market opportunity is substantial.
+The degree to which skills evolve and morph, and the need for companies to identify and source those professionals with the specific skill sets, continues to be incredibly important and to grow.
+We've identified four tech-focused initiatives with growth opportunities: social sourcing, mobile solutions, assessments and curated search in addition to our next-generation solutions with candidate pipelining, CRM and recruitment marketing.
+We've already driven many of these initiatives forward and we're executing excellent strategy in full force, renewing our focus on the tech-talent market.
+At Dice, we made significant progress in both of the key pillars of our business, engaging with professionals and enhancing the efficiency and effectiveness of our services with recruiting customers.
+I will touch of professional engagement first.
+While it sounds obvious, our expensive, strategic review highlighted how in the evolving, social media ecosystem, having an ongoing interaction and engagement with professionals is more critical than ever to be successful.
+The value of specific information about the skills and online behavior professionals continues to rise.
+To gain new and consistent information about professionals, we need to offer evaluated services that will encourage professionals to engage with us on an ongoing basis.
+And that is precisely what our Dice Careers mobile app does.
+The Dice Careers app continues to push forward our professional-engagement strategy.
+Monthly active users on the app are up nearly 80% in the fourth quarter year over year.
+We rolled out new elements of the service in Q4 and will be adding more new features in 2017.
+All of which leverage our specialized data to provide tailored career insights to professionals.
+The focus on the professional be an increasingly important initiative as we build our tech-first strategy.
+As professionals learn which skills to focus on to propel careers forward and better understand salary opportunities in the market, Dice will be there as the trusted partner for tech professionals everywhere.
+Dice has long been rooted in helping employers find the most highly skilled, and the most qualified tech professionals.
+Our continued focus on being the best-in-search is one way to create efficiency for employers and candidates looking for ideal positions.
+In November, we announced a new working relationship between Google and Dice.
+We are excited to be selected as the specialized launch participant for Google's new Cloud Jobs API.
+The API response to queries to provide relevant job search results for candidates.
+Combining the depth of our tech-specific knowledge with the breath of Google's user data could bolster our already robust search technology with machine learning.
+The relationship with Google further positions Dice as a tech leader in the recruitment industry and validates our best-in-class search capabilities.
+As part of our strategy to place a stronger focus on helping employers find qualified candidates, we have partnered with HackerEarth, a skills-assessment service provider to offer Dice customers customized talent assessments and hackathon services.
+There's long been a gap in the market for employers to find an efficient way to assess the skills of tech professionals.
+While there are a variety of sources across the web, a recruiter can search to gain insight into a tech pro's proficiency.
+Dice Careers partnership with HackerEarth will have this in one place as a value aid for customers.
+We view offering these towered reports of a key differentiator for Dice in the future.
+When employers make a good hire, everybody wins.
+With respect to engaging with customers, becoming part of the daily habits of recruiters is essential to the success of our services.
+We're launching a number of initiatives within the recruiter workflow to accelerate a search API integrations and an upgraded Chrome extension to improve performance attribution, engagement and client retention.
+Our go-to-market strategy has recently been refocused towards a bundling of pricing model that is accelerating adoption.
+As we bring additional products together to offer a suite of solutions, we're implementing pricing that better satisfies our clients' needs.
+We have made solid traction with our bucket view model which bundles proprietary database access together with Open Web, increasing our value to our customers as well as renewals.
+The bundled approach has proven successful with staffing agencies early on we expect to see similar traction with direct-hire clients.
+Driven by this new sales approach of putting Open Web first, nearly a quarter of our Dice Recruitment Package customers have Open Web today.
+Open Web added about 600 net new customers during the year up nearly 60%.
+Renewals increased 46% year over year.
+In the market broadly, it has been a long road of adoption for customers spending time on social sourcing.
+From my perspective, working with this industry for over a decade it was a concept that had fits and starts, but was long recognized as a necessity for recruitment services to meet employers' needs.
+We have now seen it come to fruition with Open Web usage, as well as through excitement from potential customers around getTalent.
+GetTalent is our staff-based candidate pipeline tool designed to be utilized in any industry.
+There are so many companies who have applicant tracking systems that are either out of date, difficult to manage, or not robust enough to create efficiency for recruiters and hiring managers.
+GetTalent is a tech solution to cultivate and nurture candidate leads working together with, or in addition to, clients' ATS systems.
+We are discovering new and meaningful ways customers in every industry can leverage the product to build, organize and engage with candidates.
+Lingo, our targeted recruitment-marketing service, has experienced continued momentum and seen some early wins, particularly with customers outside the US.
+We're working on ways to bring this to market-at-scale.
+Our eFinancialCareers and Dice teams in Europe have both launched employment branding campaigns for international and UK-based customers.
+Customers often ask us whether we use our services ourselves, and we do.
+We recently used Lingo to source a development role in our London operation and filled that role at a relatively nominal cost.
+The financial services industry is a leader in tech innovation.
+Wall Street's firms are always looking for products and services which gain a competitive edge, and technology is at the core of how they get there.
+Even in a challenging year, including the impact of Brexit, revenue increased for the full year on a constant currency basis at eFinancial careers.
+We see a clear path of this business as demand for fin tech talent grows globally.
+Our brands have traditionally been siloed; however, as our tech-first strategy evolves we're discovering ways for our brands to more seamlessly collaborate.
+So we have long specialized in a number of verticals, technology works across all of them and therefore we feel we are ready -- already ahead of the game with the rich products and services that we have.
+ClearanceJobs, which is already heavily tech-centered with about 75% of jobs on the site technology-related, continues to perform well and is benefiting nicely from a combination of external market conditions, like high demand for security-cleared professionals, the government slowing of granting and renewing security clearances, and our own initiatives around pricing models.
+ClearanceJobs grew over 20% last year, and we expect it to continue on this growth trajectory into the year and in the near future.
+We made good progress in 2016, yet it became even clearer in the past year that we're better positioned for success by focusing on our strengths.
+Which is providing value to hiring managers with technology needs and engaging technology professionals.
+Moving on to Health eCareers, its core business of traditional job postings have struggled a little, but new projects are gaining traction and stronger partnerships with key healthcare channels are widening our addressable market.
+The demand for healthcare professionals continues to be strong and employers are looking for avenues to stand apart from competitors, like to our Spotlight service.
+Custom-designed employment landing pages from Health eCareers account for the bulk of Spotlight sales; however, we are expanding and intend to have new offerings in 2017.
+The SHIFT product, which connects leading healthcare providers with temporary talent, has great potential and is a clear interest among professionals.
+There is a concerted effort to improve here, including partnering with established players in the market who are focused on credentialing.
+The pay-per-qualified application model at Health eCareers remains an opportunity area and there is a place where we will continue to prioritize in the year ahead.
+As we transition DHI for future focused on tech, our long history and solid foundation together with new services in the pipeline reinforce that we are the trusted partner for employers with tech needs.
+Optimizing resource allocation is a primary objective of our strategy both from a financial- and human-capital perspective.
+To this end, will be allocating most of our growth investments on initiatives that focus on tech.
+As our next-generation products evolve, and our core business improves, we're well-positioned to return our business to growth over the long term.
+So before I turn it over to <UNK>, I just want to address the issue of providing short-term specific financial guidance.
+I know investors in our Company have become accustomed to us providing a short-term business outlook with very specific financial estimates across all of our businesses.
+While I am not underestimating the value of very specific guidance, at this time we don't believe it to be the best approach.
+We're in the middle of our strategical service process.
+In the outcome of that process we'll have an impact on how we choose to execute our tech-first strategy.
+There are a range of potential outcomes, and some outcomes could have different organizational and operational implications for the company in terms of level of investment and business-focus across the portfolio.
+Therefore, we don't believe specific numerical guidance would be meaningful at this time.
+However, <UNK> will discuss the broader trends and insight into the business for color and for context.
+So with that, let me turn it over to <UNK>.
+Thank you Mike.
+Hi everyone.
+I am thrilled to be here and I'm looking forward to working with many of you over time.
+Today, I'll review the key points of our fourth-quarter financial performance, and then provide some directional insight into how we view our tech-focused strategic initiatives impacting 2017.
+Note that all of my comments today exclude the results of Slashdot Media which we sold in early 2016.
+So starting with the fourth quarter, we saw progress for the organization, in spite of continued headwinds and energy in foreign-exchange.
+And in the midst of carrying out our tech-first strategy and our strategic alternatives process, financial results did meet our expectations.
+Our tech-first initiatives continue to show positive results and we believe will help us to grow -- return to growth.
+Some of the key drivers of the fourth quarter include the measurable influence of Open Web in our consumption-based finals at Dice and double-digit growth at ClearanceJobs highlighting our strong value proposition in a tight labor supply environment.
+Fourth-quarter total Company revenue declined 11% year over year and 8%, excluding the impact of foreign-exchange, which has hit eFinancialCareers hardest since the Brexit vote.
+Overall revenue declined 5% on a constant currency basis excluding energy, which continues to suffer from low oil prices.
+Fourth quarter Company billings declined 8% against last year, 6% on a comparable currency basis.
+Looking at our tech-focus brands, Dice US revenue declined 9% year over year due to a 7% decline in Recruiting Package customers, which ended the quarter at 7,050 which was down 3% from the end of the third quarter, 2016.
+At the end of Q4, 95% of our Recruitment Package customers were under annual contract compared to 93% last year.
+Our monthly average revenue-per-Recruitment Package customer was 1,117 for the fourth quarter, which was in line with the prior year and the third quarter, 2016.
+On a constant currency basis Dice Europe's revenue declined 9% year over year in Q4, primarily due to our exit from (Ben LX).
+ClearanceJobs' revenue in Q4 increased 22% year over year driven by the strong adoption of our pay-for-performance products and ongoing favorable market dynamics for that business.
+Tech & Clearance billings declined 7%, or 6% on a constant currency basis with Dice billings down 8%, but ClearanceJobs up 29%.
+For eFinancialCareers, Q4 revenues declined 1% against last year in constant currency, but was down 13% on a nominal basis.
+In a post-Brexit environment eFinancialCareers showed resiliency with fourth-quarter billings up 2% versus last year on a constant currency basis, but down 10% on a reported basis.
+Moving on to healthcare, fourth-quarter revenue in billings were flat year over year as the uptake of our new application-based model was offset by a reduction in job postings.
+Our energy revenues declined 52% year over year and we're not yet seeing changes in recruiting patterns in the global oil market.
+Revenue for Hcareers was down 8% year over year due to increasing competition.
+Deferred revenue increased $84.6 million at the end of the fourth quarter compared to $83.3 million last year, mainly due to an increase of $3.2 million in Tech & Clearance, which was driven by ClearanceJobs' growth and slightly longer Dice contracts.
+Partly offset by a reduction of $1.7 million at (inaudible) due to Rigzone.
+Now turning to fourth-quarter spending, excluding last year's impairments, operating expenses declined 9% against last year, driven by lower amortizations, sales-related expenses and marketing costs.
+The fourth-quarter adjusted EBITDA for the Company was $13.9 million for a margin of 25%.
+While this slightly topped our expectations it does represent a 4-point margin reduction against last year, due primarily to the impact of energy and exchange rates on revenue in our GIG brands which saw a 10 point margin decline.
+Fourth-quarter net income was $5.5 million or $0.11 of diluted earnings per share, which topped our expectations but was relatively in line with last year's numbers, excluding impairments.
+Our fourth-quarter effective tax rate of approximately 26.5% came in the low expectations of 36% to 37%.
+This was primarily the result of implementing tax-planning strategies and the resolution of some unrecognized tax benefits in the quarter.
+In the fourth quarter, we generated $8 million in operating cash flow and $4.7 million of free cash flow compared to $11.4 million and $9.1 million respectively in the prior year.
+That was $86 million at quarter end.
+Now turning to 2017, I will give some direction for our main business drivers which can provide some context regarding potential financial performance.
+We expect revenue will continue to decline in 2017, but at less than half the rate of our 2016 decline.
+Which should slow gradually throughout the year and flatten near year end.
+This is due to the expected gradual improvements in Dice from our go-to-market initiatives which have been consistently showing positive results since launch and the continued growth of ClearanceJobs.
+Albeit at a more modest pace than the 21% growth we achieved in the full year of 2016.
+Healthcare should see a slight acceleration in growth as our new products continue to scale.
+We expect the trends at gate to continue in view of the weaker pound, and the uncertainty around Brexit affecting eFinancialCareers, as well as the adverse impact of continuing low oil prices at Rigzone.
+Moving on to 2017 expenses, we plan to increase our spending in order to support our tech-first strategies, with a view to return the tech-focused business to top line growth next year.
+Quarterly spending will grow gradually against a corresponding period in 2016 as we increase our tech-focused product development and sales headcount.
+Ongoing cost controls and GIG brands will help partially offset these increases.
+Other costs should remain relatively in line compared to 2016 after adjusting for last year's one-time cost.
+In summary, giving a slowing decline in revenue, and modest increases and expenses we expect some margin compression in 2017 compared to 2016.
+Finally, we expect our tax rate to be about 39% and a share count of about 50 million shares.
+Thank you for listening.
+I will now turn the call back over to Mike.
+Great, thanks <UNK> and welcome aboard.
+It's good to have you as part of the Team.
+Before we turn it over to questions, I just want to recognize and thank our 800 employees around the world.
+We are a company going through a fair amount of change and we have such a great group working with us.
+And I want to acknowledge the contributions of the entire DHI workforce as we move the Company forward.
+I think we are all excited about our opportunity and the focus and we are ready to get going.
+With that, we will turn it over to questions.
+Sure.
+<UNK>, this is Mike.
+On the ARPU, the addition of Open Web, which people have to pay separate for with the bundled pricing products, we are testing some lower-priced entry-level products.
+So that has a slight impact on the overall revenue per customer.
+We have said for years, actually, we thought it would flatten, and it started to flatten last year.
+Now, it actually has flattened.
+It took a lot longer for it to flatten, over time, but I think we're finally there.
+And it is really about mix of products.
+he entry-level, which historically has been 6,500 for one user and five job slots, we're playing with that pricing at the bottom level.
+$1,100 a month gets you in excess of $12,000 a year on an average, so we finally got there from a flattening standpoint.
+From a Dice Careers engagement standpoint, right now, we do not have plans to monetize directly the engagement on Dice Careers.
+But it certainly will improve the interaction with the site.
+Some of the elements that we have in the Dice Careers app, we plan to bring on to the site itself.
+It is all about improving the interaction and ongoing relationship with professionals that will improve our service over time from a customer retention standpoint and from a new customer acquisition standpoint.
+Having said that, we do have an incredible amount of proprietary data based on skills and usage and employment and information we get from Open Web, which we believe, over time, we can monetize.
+It is not the primary focus today.
+I don't think pricing goes down.
+I think as we attempt to get newer customers and new types of customers, there may be entry-level pricing for new customers.
+But the pricing level itself, we do not believe will change.
+Hi, Randy, <UNK> <UNK>.
+The currency really impacted most at eFinancialCareers at about 1 point of exchange impact on Dice Europe, so very little impact from that exchange standpoint.
+One of the things that <UNK> pointed out earlier is that we did make a decision toward the end of the third quarter to exit Belgium and the Netherlands from a Dice Europe standpoint.
+The revenue impact was relatively small on a broad basis, since Dice Europe, itself, is only about 10% -- less than 10% of Dice in total.
+That did have an impact year over year because we exited in the fourth quarter, beginning of the fourth quarter.
+No, there has not been any change to that trend.
+Sure.
+I think if you boil it down, we have a tremendous amount of information, proprietary information, about skills and skill specificity.
+If you think about the tech market, in general, so much of it is based on skills and the evolution of skills, which nobody else has.
+There is generalist players who certainly have tech pieces of their business, but they don't have the skill specificity that we have.
+When you think about recruitment for highly-skilled professionals, whether they are tech or anything else, efficiency and effectiveness and speed and accuracy and specificity are certainly the elements that they look for and that is how we compete.
+W use examples all the time about somebody looking for a person, a professional with Python what that means if you use a generalist versus a specialist like us, or Pig or Chef.
+For laymen in the world they have no idea what those terms mean, but if you're a tech professional, you know exactly what Python and Pig and Chef are.
+The efficiency with which we help companies find those individuals, both through the proprietary database and by sourcing others through Open Web, is unique in the business.
+One of the reasons why we're so focused on tech first is because we think that's the place with skill specificity and the ever-growing need where we really shine.
+If you look at the US specifically, today, there is roughly half a million or so unfilled tech positions.
+The BLS estimates by 2020 it will be a million.
+Now part of that is because there just are not enough people and part of it is the ever-evolving skill specificity that companies and recruiters need.
+That really is where we compete and where we can be effective.
+Then we can leverage that into other services like a recruitment marketing service, an employer-branding service, where you are reaching people.
+As we do through our Lingo service, which is built on Open Web, where you can reach specifically targeted people with specific skill sets or specific employers and former employers or specific interests.
+Our ability to combine all of those things is unique in the market.
+Sure.
+The app has existed for a couple of years, first in iOS and then Android.
+Originally, it was purely a job search app as most employment-related apps are.
+What we have done is started to evolve it -- and its early days.
+We just launched the new version in the spring of last year, and we added certain elements to it, all designed around ongoing engagement: career path, salary information, skills information.
+We take the proprietary database we have in terms of relationship of skills and we can show an individual: Here are the skills you have.
+This should be your compensation, and here are the next set of skills that people like you have.
+And here is what the compensation would be for you to help you chart how you get it.
+Then eventually we'll start to add other elements to how you can develop those skills and refer you to places where you can get the skills or learn those skills.
+That is in its early stages, so yes, I think from a feedback standpoint, that feedback, some of which is quite dated, reflects the original app.
+We are really just in the early stages of developing these new sets of services.
+Having said that, the number of downloads has increased dramatically.
+The level of engagement, as I mentioned earlier, has increased almost 80% year over year.
+We're just getting going, but so far we have seen tremendous increase in usage.
+Sure.
+Overall employment in the tech market has hovered between 2% and 3% for years now, which economists would say is full employment or greater than full employment.
+Which, by the way, is not ideal for us, so full employment from a marketplace standpoint is not the most ideal set of circumstances.
+And slightly greater unemployment, which creates many more openings, which creates more velocity of change, which is what benefits our business, would be more ideal for us.
+There are a number of openings, even if they are not posted, and helping companies identify sources of talent over a period of time is how we think we win, not purely when the job is open.
+So one of the things that we focus on quite a bit is employer branding and pipelining, which is why we created the getTalent product to help companies identify people so that they have a roster of candidate prospects that they can engage with over time to serve the needs and not purely wait for having a job opening at a specific point of time.
+Thank you all for your interest in DHI Group Inc.
+If you have follow-up questions you can call 212-448-4181 or email IR@DHIgroupinc.com.

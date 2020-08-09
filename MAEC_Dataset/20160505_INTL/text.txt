@@ -1,0 +1,320 @@
+Good morning.
+My name is <UNK> <UNK>, CFO of INTL FCStone.
+Welcome to our earnings conference call for our fiscal second quarter ended March 31, 2016.
+After the market closed yesterday, we issued a press release reporting our results for the fiscal second quarter.
+This release is available on our website at www.intlfcstone.com, as well as a slide presentation, which we will refer to on this call in our discussions of the quarterly results.
+You will need to sign on to the live webcast in order to view the presentation.
+Both the presentation and an archive of the webcast will also be available on our website after the call's conclusion.
+Before getting underway, we are required to advise you, and all participants should note, that the following discussion should be taken in conjunction with the most recent financial statements and notes thereto as well as the Form 10-Q filed with the SEC.
+This discussion may contain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934.
+These forward-looking statements involve known and unknown risks and uncertainties which are detailed in our filings with the SEC.
+Although the Company believes that its forward-looking statements are based upon reasonable assumptions regarding its business and future market conditions, there can be no assurances that the Company's actual results will not differ materially from any results expressed or implied by the Company's forward-looking statements.
+The Company undertakes no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise.
+Readers are cautioned that any forward-looking statements are not guarantees of future performance.
+With that, I'll now turn the call over to Sean O'Connor, the Company's CEO.
+Thanks, <UNK>.
+Good morning, everyone and welcome to our fiscal 2016 second quarter earnings call.
+We continue to post solid results during the quarter in spite of the very negative earnings backdrop for our industry, with most entities reporting sharply lower trading revenues.
+We maintain our position as a strong and positive outlier in the industry.
+The macro environment was challenging with major declines in most markets driven by oil in fear of a recession.
+Our revenue diversity and the fact that our business model is not dependent on taking directional views served us well in this environment.
+We recorded net income of $14.5 million or $0.77 per share, up 12% from a year ago and up 65% on a sequential basis.
+This resulted in a return of equity for the quarter of 14%, close to our long-term target.
+Our core operating results for the second quarter, as represented by aggregate segment income, were down 5% versus the prior year, while the year-to-date results were up 9% over the prior year.
+In addition to the core operating results, overall net income was positively impacted for the quarter by mark-to-market gains on our portfolio of interest rate instruments held to enhance the return of our exchange traded client deposits.
+This is a reversal of prior mark-to-market losses recorded in the immediately prior quarter.
+On a year-to-date basis, our earnings were $23 million or $1.22 per share, up 4% from a year ago.
+Our ROE for the six-month period was 12%.
+On a segment basis, the quarter and year-to-date performance is summarized as lower revenues in OTC and our structured products areas, which is part of our commercial hedging segment, offset by strong gains in our securities segment.
+OTC revenues were down 42% for the quarter and a similar percentage for year-to-date.
+This was driven by a decline in both volumes and rate per contract as low volatility made our OTC products less attractive to our hedging clients, especially in Brazil, which faced additional market and political challenges.
+On the futures side of our commercial hedging business, we saw a good 7% increase in segment revenue driven by an 18% volume increase, but offset by a 10% rate per contract decline.
+Offsetting this was another very strong performance from our securities segment with net income up 49% for the quarter and up 188% for the six-month period to-date.
+This was off the back of strong revenue gains from all product lines, equity market-making, debt trading and asset management.
+More on this later.
+Global Payments continue to show good transaction volume growth of 14% for the quarter and 25% year-to-date.
+This was largely offset by a reduction in revenue per trade as the exceptional market conditions in certain currencies abated and spreads narrowed.
+A couple of other notable items.
+We renewed our three-year holding company revolver, which was oversubscribed, and we increased from $140 million to $205 million and we are likely to increase it further to $220 million.
+We now have good headroom on our liquidity for our next growth phase.
+We appreciate the support of all our banking partners.
+This was an active quarter for us in terms of share buybacks where we repurchased 400,000 shares at an average price of $25.89.
+We have a disciplined approach and only buy shares when we believe the intrinsic value of the stock is not represented in the market.
+Life-to-date, we have repurchased 1,772,059 shares at an average price of $20.97.
+On this basis, we have now become one of the biggest shareholders in our own Company.
+Starting a couple of years ago, we began focusing significant time, effort and resources into creating a more streamlined and data-centric approach to marketing and sales.
+We now track and monitor various aspects of customer engagement that better enable us to serve our existing customers, identify new revenue opportunities both with existing customers and driving new customers to us.
+Changing how people work is not easy, but we are now seeing tangible signs of increased customer engagement evidenced by our strongest quarter-to-date in terms of new account openings.
+By way of example, we're rolling out our market intelligence platform to better showcase our unique market insight being from our dealings with midmarket commercial customers globally.
+This platform now sends out approximately 40,000 automated emails to our customers every day.
+This allows all our customers to see the breadth of our knowledge and drives cross-selling opportunities.
+We're also using our website and webinars to drive qualified leads to our sales and relationship people and we now roughly see five qualified leads per day, many of which we've already turned into revenue producing customers.
+This is still early days and a big project, but over time, it should allow us to more efficiently and effectively grow and service our customer base.
+Last item to point out to our investors that every filing we include a histogram showing our mark-to-market revenues per day.
+We think this is the clearest empirical demonstration of our approach to provide execution to our customers, but not to run excessive inventory directional risk positions.
+Despite the extremely volatile three months, in many, but not all of our segments, this product table shows that we had zero losing days.
+This pattern is repeated even if you look over a much longer timeframe.
+I would urge you to look at this histogram.
+I will now hand you over to <UNK> <UNK> for a more detailed discussion of our financial results.
+<UNK>.
+Thank you Sean.
+I'd like to start my discussion with a review of the quarterly results.
+I'll be referring to slides and the information we have made available as part of the webcast, specifically starting with slide number 3, which represents a bridge between operating revenues for the second quarter of last year to the current year fiscal second quarter.
+As noted on the slide, second quarter revenues were $166.1 million, which represents a 6% increase as compared to the $156.5 million in the prior year.
+Looking at the performance in our operating segments, the most notable change was the $9.5 million or 26% increase in Securities segment operating revenues.
+The largest drivers of this increase was within our equity market-making and debt trading businesses.
+Equity market-making increased operating revenues $4.2 million or 27% despite relatively flat volumes as spreads widened.
+We completed the acquisition of G.
+X.
+Clarke & Company at the beginning of the second quarter last year, so this is the first quarter where the operating revenues are included in both the current and comparative quarter in our debt trading business.
+Operating revenues in the debt trading business increased $3.6 million or 22% versus the prior year, driven by both improved performance in the domestic institutional fixed income business acquired from G.
+Clarke & Company as well as in our Argentina operations.
+In addition, we experienced 23% growth in operating revenues or $1.5 million in our Physical Commodities segment versus the prior year, primarily as a result of the widening of spreads in the precious metals market.
+Clearing and Execution segment operating revenues also increased $1.8 million or 6% as revenues in both our exchange traded and FX Prime Brokerage businesses improved versus the prior year.
+As Sean mentioned, these gains in operating revenues were offset by a decline in operating revenues in the commercial hedging segment, which decreased $10 million to $54.7 million in the current quarter.
+Leading to this decline was lower customer volumes in Latin and South America as well as lower energy prices, which combined to drive a 33% decline in OTC volumes and a $12 million or 42% decline in OTC revenues versus the prior year.
+This was partially offset by growth in exchange traded revenues, which increased $2 million or 7% versus the prior year, particularly in the domestic grain markets as well as in our London operations.
+Finally, Global Payments segment operating revenues declined $1 million to $17.4 million despite a 14% increase in the number of payments made as spreads narrowed in this business.
+Moving on to slide number 4, which represents a bridge from second quarter pre-tax income in 2015 to the current period, overall pre-tax income increased 10% to $20 million in the second quarter of 2016.
+Similar to the discussion of operating revenues, the largest contributor to the increase in pre-tax income was the performance of the Securities segment, which increased $6 million versus the prior year.
+In addition, as Sean mentioned, and disclosed in our earnings release and 10-Q filings, the next largest contributor to the growth in pre-tax net income was the mark-to-market unrealized gain on investments held in our interest rate management program.
+In our corporate unallocated overhead segment, we recorded a pre-tax unrealized gain of $6.9 million on US Treasury notes and interest rate swaps held in this program.
+This was a complete reversal of the $6.7 million unrealized loss that we had recognized in the immediately preceding first quarter of 2016.
+The bottom of slide number 12 of the presentation shows the after tax effect of these unrealized gains and losses by quarter.
+Finally, all of the other segments recognized incremental changes in pre-tax income in line with the change in operating revenues versus the prior year, with the exception of the physical commodity segment, which declined $500,000 despite the growth in operating revenues.
+This resulted from a $1.3 million increase in bad debt expense related to customers in the renewable fuels industry.
+Slide number 5 shows the interest income on our investments and our exchange traded futures and options businesses which hold our investable customer balances and encompasses our interest rate management program.
+The continued implementation of this program and an increase in short-term interest rates led to an underlying increase in interest income shown here of approximately $970,000 versus the prior-year period.
+Overall customer segregated deposits declined 4% versus the prior year, primarily as a result of lower margin requirements due to lower commodity prices.
+Overall, our portfolio of treasury and money market fund investments averaged $1.5 billion for the second quarter which combined with $375 million in interest rate swaps earned $2.7 million in interest income for an average yield of 71 basis points.
+The overall portfolio, including both the US Treasuries and the swaps, had a weighted average duration of approximately 22 months at the end of the period.
+Moving on to slide number 6, our quarterly financial dashboard.
+I'll just highlight a couple of items of note.
+Variable expenses represented 57.4% of our total expenses for the quarter, exceeding our target of keeping more than 50% of our total expenses variable in nature.
+Non-variable expenses, which are made up of both fixed expenses and bad debt expense, increased $2.6 million or 5% driven primarily as a result of increased competition and benefits related to our expansion of our information technology department and an increase in meeting and hosted conferences expenses.
+Net income from continuing ops for the second quarter was $14.5 million versus $13 million in the prior-year period, which resulted in a 14.3% return on equity, which was relatively consistent with the 14.4% in the prior year.
+Finally, in closing out the review of the quarterly results, our book value per share increased 12% to $21.84 per share, driven by both the trailing 12 months results and our share repurchase program.
+During the second quarter, we repurchased 400,000 shares at an average price of $25.89 a share.
+Next, I'll move on to slide number 4 (sic .
+see slide 7), for a discussion of the year-to-date results.
+This slide demonstrates revenue growth across all of our business segments with the exception of the Commercial Hedging segment.
+The largest increase was in the Securities segment, which added $41.1 million in operating revenue as a result of both a $29.9 million increase in debt trading revenues and a $6.5 million increase in equity market making revenues.
+The increase in debt trading was a result of the acquisition of G.
+Clarke, which was effective on January 1, 2015 and this only contributed operating revenues beginning in the second quarter of the prior year, as well as strong performance in Argentina as a result of the effect of the devaluation of the Argentine peso.
+Global Payment revenues continue to grow, adding $2.1 million in the year-to-date results.
+However, similar to the quarterly performance, weaker performance in our Commercial Hedging segment, which declined $23 million, offset some of these revenue gains.
+Moving on to slide number 8, which represents a bridge from pre-tax net income in the prior year-to-date period to the current year.
+Similar to the growth in operating revenues, the largest driver of growth was the Securities segment, which was partially offset by weaker performance in the Commercial Hedging.
+Physical Commodity segment declined $2 million, primarily as a result of the increase in bad debt and interest expenses.
+These gains were partially offset by a $7.7 million increase in unallocated overhead, which was primarily incremental cost from the acquisition of G.
+Clarke, higher management incentives earned in Argentina, the expansion of our information technology department and an increase in meetings and hosted conferences.
+These increases were partially offset by lower professional fees, primarily legal fees.
+Finally, moving on to slide number 9, the year-to-date dashboard, I will highlight just a couple of metrics.
+Net income from continuing operations has increased 4% over the prior year-to-date period to $23.3 million which represented an 11.6% ROE for the current year-to-date results.
+In addition, we have exceeded our internal target for the year-to-date period in average revenue per employee, which grew $508,000 per employee in the current year.
+With that, I would like to turn it back to Sean to wrap up.
+Thanks, <UNK>.
+In prior earnings calls, we have focused some of our time on both the Payments and the Commodity segments and I thought I would take a few minutes in this call to focus on our Securities business, which has really been transformed over the last three years.
+If you turn to slide 10 in the presentation, you can see the composition of segment net income by quarter for the last three years.
+The green section of the bar graph represents Securities, and as you can see, it has grown significantly over this period and been responsible for a large portion of the overall growth in segment net income.
+The next slide shows the same information, but is scaled to 100%, so the relative contribution is easier to see.
+As you can see in the last quarter, Securities is now the biggest percentage contributor from being a pretty small percentage two years ago.
+Obviously, this is a snapshot and can change over time.
+We have a number of businesses within our Securities segment, so a quick overview.
+We are a full-service market maker, specializing in providing institutional customers with access to blue chip international securities and ADRs.
+We use our strong capital base, our expertise in these markets and our technology to offer best-in-class execution as well as block-sized liquidity, both during and after local market hours.
+Our customers include most large broker dealers and investment banks in the US and we specialize in access to blue chip international securities, ADRs and ETFs.
+We are the number one ranked market maker by dollar volume in the over-the-counter market in foreign securities.
+We are ranked number one market maker in over 2,500 specific securities.
+In addition, we added about 45% of all new foreign securities and ADRs to the OTC markets, providing these issuers with greater access to capital.
+Companies we added to the OTC alternative trading system include names such as Nissan, Bayer and [Alliance].
+A year ago we acquired the G.
+X.
+Clarke business, which now forms our Rates business.
+Here we use our capital and expertise to meet the demands of our broad base of over 700 institutional customers in over 5,000 CUSIPs, including treasuries, agencies, mortgage and asset-backed securities.
+We provide inside analytics to assist our clients with security selection and portfolio allocation decisions.
+Our Rates Group has thrived while many others in this sector, including the big banks, have struggled and indeed many have started to retreat, providing us with great opportunities to leverage our capabilities in the Rates market.
+Included in the overall debt trading sub segments is the municipals business.
+Approximately two years ago we started a greenfields capability offering institutional customers execution in the municipals market.
+This business has now got traction and is making a good contribution to the bottom line.
+Our capabilities are now being recognized by the institutional market and we are now focusing on monetizing the synergies with our Rates customers, many of whom are also active in municipals as well.
+We have a large local investment banking and trading capability in Argentina.
+We provide liquidity and execution to many local institutional investors in a broad array of local fixed income instruments.
+We are the largest player in the local asset-backed market, where we specialize in arranging and structuring asset-backed securities for local issuance.
+We have done many hundreds of issues over last 10 years and have never had a default.
+And many of the local companies rely on us to meet their ongoing capital needs.
+In addition, this expertise was leveraged into an asset management capability, largely driven by the need to provide access to these asset-backed products for the retail market.
+This asset management capability has now grown dramatically over the years and we are now the largest non-bank fixed income asset manager in Argentina with a broad array of fixed income products.
+We currently manage over $500 million in assets in a variety of fund offerings.
+The opening up of the Argentine economy provides us with great opportunity to leverage our local expertise and capabilities into the international institutional market now looking for access into Argentina.
+With the addition of Tradewire some four years ago, we added a high-touch execution capability for large institutions in Latin America, looking to access US markets.
+Our ability is to match unparalleled service as well as best execution in multiple asset classes and has allowed us to become the execution counterparty of choice to these institutions.
+We are starting to expand this capability beyond Latin America and are looking to offer the same capability to European and US based institutions.
+We have always striven to diversify our business by product, market and customer segment to protect our bottom line from the inevitable cyclicality in each of our individual segments.
+We have been a bit of a contrarian in this regard as others in our peer group have sought to be focused mono-line businesses.
+We believe that we have definitely outperformed this mono-line peer group which is now challenged by higher regulatory and infrastructure costs, the need for greater capital and declining margins.
+Our ability to leverage our infrastructure and our capital across different and complementary capabilities is a key differentiator driving our returns.
+More importantly, perhaps we are able to provide execution and clearing services for our institutional customers now across asset classes and markets in an environment where customers are looking to reduce the number of counterparties and better manage their collateral and exposure.
+So with that, I'd like to hand back to the operator to open the question-and-answer session.
+Operator, do we have any questions.
+Well, we don't like to give forward guidance, specifically, but let me address your comment in general.
+So I do think we are generally at a cyclical low point in our specific commodities business.
+A lot of that has been driven by two factors, I guess, which are sort of related.
+Firstly, the biggest part of our commodities business is grain followed by metals.
+The grains part of our business has been adversely affected in two ways.
+One, we've had very low prices in grains and very low volatility.
+The result of that has been a lot of the grain harvest from last year has not yet been sold to the elevators.
+We get the hedging revenue when the elevators get the crops.
+So there are leads and lags and we discussed this a number of times previously, as there are leads and lags in terms of when that product gets to the elevator network and then when it generates revenue for us.
+And a lot of end producers were sitting on such low prices, they didn't really see any incentives to sell at that point.
+So that certainly has been one factor and that's driven more just the general hedging revenues on the futures side.
+And then the low volatility makes it quite difficult for us to offer structured products, because again no incentives to really hedge, a lot of times we're using volatility to price products with an attractive profile for our customers, that also makes it difficult.
+So a combination of those two environments is not ideal for that segment, combined with the fact that we have a big business down in Brazil and Brazil had both of those factors weighing on it, but also additional political and lots of volatility in the local market.
+So all of those factors, I think probably argue that that was not a good environment for us.
+What we have seen, and I think this has been reported in the Wall Street Journal, the grains prices bumped up recently and a lot of that product is now coming to market.
+And of course when prices bump up, volatility goes up a little bit as well.
+So at some point that product has to come back into the system, it has to come to market, I anticipate that will probably happen over the next two or three quarters.
+I don't know what's going to happen with volatility, obviously hard to predict, but if volatility does pick up, and it was almost at historical lows, that will probably bode well for us on the OTC side, but we'll have to see how it plays out.
+So that's really what's been driving that and it's largely in the grain business.
+Our metals business has performed very well, it hasn't been impacted by any of those factors, but grain is still kind of a big piece of what we do.
+Does that answer your question, <UNK>.
+Okay.
+Well, bear in mind, just based on my background I gave you, our Argentina business really has two components and both are included in the Securities segment.
+One is a transactional execution business and a ranging and underwriting, almost an investment banking component and then you've got asset management, right.
+We certainly were beneficiaries of a one-off, I guess, or a non-recurring gain due to the devaluation of the peso.
+And the reason for that is we had invested a lot of the capital we had in Argentina and we couldn't repatriate that capital and that business has been very profitable for us over the last three years.
+We had invested a lot of that surplus capital in dollar-linked products down there and obviously they went up a lot, that comes through the income statement and that was sort of a one-off gain.
+But you're right, now that that's settled down, that is probably not repeatable.
+The core business there has honestly been one of our steadier performers over the last three years, and I think what we see is both potentially a bit of a risk and probably a much bigger opportunity now.
+And the risk is we had -- I guess we had reconfigured our business over time down there to adjust to the market conditions and we had adapted very well to the bizarre situation that was in Argentina, which was money couldn't leave, so our funds became a very attractive source for people looking to protect value, we were able to create dollar-linked type products.
+So if people were concerned about the peso, our funds in the domestic markets looked very attractive.
+There wasn't a lot of access to capital, so a lot of people were using us in the asset-backed securities market.
+So we adapted in a very difficult environment, and we are very large participants in the market down there, I mean a much large participant than people think.
+Obviously now it's a whole new world for us and the opportunity is we can leverage our very significant footprint in Argentina into a more international component by helping investors access the market, helping our companies access international capital, so we already for the last six or nine months have been thinking and planning for that and we see that as an opportunity.
+The offset for that is it's a bit of a different market down there.
+We haven't seen any impact from that on a negative basis, but customers will have different alternatives available to them that they didn't have previously.
+So we're trying to be adapt, I think we've been very adept at doing that.
+We sit with a tremendous platform down there, a great franchise and I think we're way ahead of everyone else.
+So we're overall pretty excited about Argentina.
+But you're right, there was a bit of a bump we got with the FX distortions there, which I think are probably not repeatable.
+<UNK>, we don't like to give guidance in that form.
+I think we can discuss this at our next call.
+But, we don't -- our business is not -- we don't take directional positions, we're not a direct beneficiary nor do we have any issues when markets go up or down, we're really focused on our customer activity.
+Volatility is good for us, I think we've said that repeatedly.
+In some of our markets, higher prices like the grains markets is better than lower prices just because customers lock in and do more hedging.
+And markets are very volatile at the moment, but prices are moving up and down a lot.
+It's very hard for us to, at this point, give you any clarity and therefore we choose not to so, apologies.
+<UNK>, do you have those figures for <UNK> yet.
+Yes, I'm just pulling in here real quick.
+While <UNK> is looking for that, let me just touch on our buyback program and to answer the second part of your question, <UNK>.
+So we originally had a 1 million share authorization, I believe.
+Our buyback program, we've chosen to be -- and this is a repeat of what I've said before, but just to put it on the table -- we like to be very disciplined about buybacks.
+I think a lot of corporate buybacks empirically, if you look at them, destroy value and that's because CEOs are trying to get the share price up to put their options in the money or they're trying to change market perception.
+We think both of those are pointless exercises.
+So our only driver is to buy the shares when we believe they are intrinsically cheap and this should be accretive for our shareholders.
+So our intrinsic value determination is largely based around book value, that's not necessarily book, but we come back to that as being sort of the whole guideline for intrinsic value.
+And then in terms of how much money we prepared to allocate, if that first decision is yes, they're intrinsically cheap, the next question becomes how much of our liquidity do we focus on this opportunity.
+And that has to be weighed against the much more important opportunity of growing our business, keeping liquidity headroom available and positioning ourselves for cap decisions and so on.
+Because the last thing we want to do is go do a whole bunch of buybacks and then five, six months later an amazing opportunity comes and we are unable to take advantage of it because we do not have sufficient liquidity or access to capital.
+So we have to weigh those things carefully and I think out of those three decisions, liquidity headroom to make sure we can survive market events, capital for growth and acquisition, share buybacks ranked third on that priority list.
+So just so everyone's aware, but when we decide that we have sufficient headroom to do that and when we're buying our stock, we are taking advantage of the market in our view.
+I want to be very clear about that.
+When we buy, we are taking absolute advantage of the seller.
+Before we get down to that, <UNK>, do you have those two numbers for <UNK> there.
+Yes, I mean the remaining shares in the buyback program is roughly 600,000, so we have 1 million authorized share to buyback.
+And was your other question the total outstanding at the end of the quarter.
+Outstanding shares were 18,812,000.
+No, I'm sorry, that is the end of September.
+It is 18,688,729 at the end of March.
+So just under 18,700,000 outstanding.
+Sorry, <UNK>, (inaudible) your question on acquisitions is.
+Yes, well, you always get influenced by what's happened in the last two months, I guess at some level.
+So stepping away from that a little bit, I think the environment we've seen developing over the last two, three years is one where there are a number of small and mid-sized mono-line companies.
+So by mono-line, I mean, they only offer equity execution or they're a fixed income execution shop or they do futures or they're just an FCM, right, they just do one of the things we do.
+And that's been very popular with analysts, that's been very popular with bankers, because it's easy to understand.
+We've been exactly on the other side of that spectrum, right.
+We've heard from our investors and our bankers, you guys do so much stuff and it's very hard to understand.
+And we've done that really to protect our bottom line, right.
+But the environment we're now finding is those mono-line firms are really starting to struggle for a whole bunch of reasons.
+The first is the cost to be in business now due to regulations have gone up significantly.
+The infrastructure and the procedures you have to implement and the people you have to hire and the compliance requirements and oversight requirements have gone up multiples.
+So that's just a straight cost on all of these businesses.
+The additional factor is, I think since the crisis, and it's strange how long it's taken for this to all unwind, but customers are requiring lots more capital, so the counterparty credit worthiness.
+Even in execution businesses where there is no real direct risk, I mean, it may be delivery versus payments or a clearinghouse, but all our counterparties are just saying, I can't deal with a small company; unless you have $100 million of equity, I can't get my guys to deal with you.
+And then of course the regulator sometimes almost (inaudible) capital, it depends what the higher of those are.
+And then you've got sort of technology and transparency forcing spreads down, so that's sort of on Holy Trinity is really impacting those mono-line businesses and it's fine for the guys who may be number one or number two in any defined mono-line, they probably have the scale to survive that.
+And of course they also have to deal with cyclicality.
+But the guys further down the chain, I think those are flawed and failing business models across the spectrum.
+I mean in every one of our asset classes.
+And we are seeing a lot of those businesses starting to figure out that they need to do something and a lot of them are calling us or are getting shown to us.
+So I think in a bizarre way, I mean we always thought after the crisis that there was going to be some impact and we saw Dodd-Frank happen, we really thought the whole wash up would almost have been over by now and maybe two years ago even would have sort of been over.
+But it seems that people have hung on for way longer than we thought, and it almost seems like there's an accelerating pace of consolidation right now, and we're in the thick of that.
+So the answer to your question, long story short is, we are seeing lots of opportunities and they continue to come at us on a regular basis.
+But we like to be very picky.
+We are very patient, we're very persistent and we like to be very disciplined.
+And our fundamentals of the starting screen is this has to be a customer-orientated business.
+If you are not and can't demonstrate that you've got real customers, then we're not interested.
+So that immediately disqualifies a lot of businesses.
+The next thing is even if you have customers, we want to know that what you do for customers is value.
+Are you solving real problems for real customers, or are you just picking up the phone faster than the next guy or undercutting the next guy by a penny to get the trade.
+If that's your business model, we have no interest in that business model, right.
+Then the third thing is, what is the capital the business uses.
+And can the business make a return.
+A lot of these businesses are run for the employees.
+The employees do great, but the investors do badly.
+Not interested in that.
+And then the fourth thing is, all of those things being satisfied, is this going to be accretive to our shareholders and what does one pay for that kind of business.
+And we're very cheap.
+The way I think about businesses, and it's a little bit different in other industries, but if you pay a 5 PE for a business, which sounds really, really cheap in our business, that means that business doesn't grow.
+We work and support that business for five years, before our shareholders see a dime.
+And I don't know how a lot of these businesses are going to look five years out.
+So we've got to make sure that these businesses are accretive, our shareholders see some benefit from owning these businesses in a relatively short period of time, because we're in a very dynamic industry.
+We can't take, when we're buying a business, a view that we'll pay 15 times earnings because this business is going to carry on exactly as it exists now for the next 15 years and support that business and handle additional capital requirements, or additional compliance requirements.
+And so, that's sort of our initial screen, those four things.
+Customers, what do you do for your customers, what are the financial economics and what's the price for the business.
+And honestly once we've run through those four screens, there are very few businesses that get through those four screens.
+All right, last chance, I don't see any other questions out there, but anyone wants -- like to ask the question, we have a couple of seconds.
+Okay.
+So we still strongly believe that we are in the early part of the game in terms of volumes.
+We have a tremendous pipeline developing, in fact, we just had another couple banks that have made another milestone in signing up with us and getting on-boarded, each of these are very large customers, but because I don't recognize your name, so I'm not sure if you've been on some of our other calls.
+But our on-boarding process with the payments business, particularly when we're dealing with large banks, is a long process, right.
+It's probably from the time of the first call until the time where we are seeing a lot of their flow come through our pipe, that could be anywhere from two to four years, it just takes a long time, right.
+So we're sort of still we think in the early innings of leveraging all of those flows that we're already embedded into.
+So we feel pretty good about how volumes are going to track out for us.
+I mean, clearly you can never be certain and we may be undershooting or we may be over shooting a bit, but this is probably one of the areas that we feel more confident about rather than less confident about.
+So that's the volume part of the conversation, right.
+What we are going to see are two things that are going to impact the value per transaction.
+The first is we started off with a very large -- well, not large but an institutional business in the NGOs and charities where the average ticket was very large.
+That was kind of the start of our business.
+As we're starting to layer on the bank volume, we are getting much larger flows coming in in terms of transactions, but the average size of the transactions from the banks tends to be smaller.
+So our average ticket size is going down, okay, which means that naturally, we're going to make less per ticket.
+So if our growth rate is X, our growth in sort of operating revenues is going to be some factor of X, right, because the ticket sizes are getting smaller.
+So that's probably the best way I can think about the long-term growth rate, if you assume the long-term -- and I'm not saying these are the numbers you should assume.
+But if you assume that we have an embedded growth rate in transactions of 20%, I would say that might translate into more like 10% to 15% in growth in gross revenues, right, because the tickets are getting smaller.
+Against that that we've got a scalable kind of infrastructure, so that may drive a little bit higher growth to the bottom line, so you can list all those variables.
+The other factor, which is much less predictable for me to give you any guidance on is market conditions.
+So we act as a principal in this business.
+Someone comes to us wanting to get local currency into the local bank account that they hold in Kenya or wherever it is.
+We go into the market and we buy that currency from the local market participants.
+We actively seek the lowest price and we execute on behalf of our customers.
+But we are making in that business a bid offer spread, and those bid offer spreads move depending on market environments.
+And what happened this quarter when you compare this quarter against last quarter, last quarter in certain of our key markets, we had a huge blow out in the spreads.
+To the extent that we were starting and continue to offer price improvements to our customers, because the spread is so wide that we thought it was inappropriate for us to actually take all of that spread for ourselves.
+And we've gone back to some of our customers, because these are long-term relationships for us and we've got to be ethical and prudent.
+We've actually gone back to some of these customers and said, you know what, we're going to actually price you inside the market because the spread is just way too wide.
+And we started -- we thought this sort of phenomenon was temporary.
+In some market it was temporary, in other markets it persisted and we've actually changed our pricing policy.
+So we're trying to be responsible, we're trying to build a long-term business, these banks are partners of ours.
+All of our institutional players are partners, it's how we think about our business.
+We always think about ourselves as partners with our customers.
+And so what you're really seeing was an (inaudible) of sort of temporary market conditions which blew our spreads out.
+So I think you should -- and if you look at all the data points we give you and graph them out, I think you will see very clearly how the value per transaction spiked up a couple quarters ago for a couple quarters and that is not sustainable.
+So if you're trying to model out our business, I think you've got to look at a sort of sustainable or predicted growth rate in revenues, you've got to assume some decline in the average size of the trades and I think you've got to assume a sort of normalized average rate which -- and that can move around and I think was exceptional in some of our prior-year quarters.
+Does that help you.
+All right.
+I don't see any other questions.
+So I think we'll wrap it up.
+Thanks, everyone.
+Appreciate it.
+And we will see you in three months' time.
+Thank you.

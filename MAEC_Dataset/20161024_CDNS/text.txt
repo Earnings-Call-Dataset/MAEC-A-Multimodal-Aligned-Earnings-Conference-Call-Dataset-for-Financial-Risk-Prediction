@@ -1,0 +1,91 @@
+Yes, we're sorry.
+We understand that we have had audio problems today so we wanted to remind you that our prepared remarks will be posted on our website after the call.
+Thanks for mentioning it.
+Yes.
+As you would expect, and as I think we said in our Q2 call, we expected Q3 to be actually have lower revenue than Q2.
+Certainly functional verification and emulation was a large piece of that.
+Yes, it is the fact that we are taking our business as it naturally occurs.
+We don't want to change our dynamics or our value calculations in any way, so we want to take it when our customers want the product.
+By the way, that came after two record quarters in both Q1 and Q2.
+So I think we expect a little bit of a downturn and that's what happened in Q3.
+Yes, leasing is recognized, the revenue is recognized up front because it's a lease, but we collect the cash over a period of time.
+I think that's key for us.
+It remains a small portion.
+We don't break out the details, but it remains a small portion of it.
+We do want to point out that we've had a very good year and we expect that to continue in Q4.
+The guidance at this point for Q4 includes everything we know.
+Product mix has certainly been a factor this year.
+Hardware has been better than expected for us, offset by IP revenue that was a little bit below our expectations.
+We do also expect in Q3 we saw some and in Q4 we will see some of the cost at the end of the life of Palladium XP.
+Yes, I think, <UNK>, first of all, and we have a lot of respect for our friend, Mentor and then the management team.
+They are a very important industry player and clearly, as you know, we don't comment on some of these topics.
+We have a lot of respect for them.
+Their product is, Calibre is well known in the industry.
+So I think we just stop there and we are not going to comment on any of the specifics.
+Sure, thank you.
+Yes.
+I think as you know, IP is a new business a few years ago.
+And we embarked on that and we grew nicely to 10%, 12% of the revenue for our Company.
+This is very strategic for us in our whole key component to our SDE strategy.
+We reviewed recently IP business strategy and as I mentioned earlier, we are going to be focused on standard off-the-shelf IP, pursuing the vertical market that we want to pursue and then the most advanced process nodes.
+And we're deemphasizing the customized IP, that more once off and it's not many of the IP reuse and that is where you are going to make money.
+I think long-term we like that.
+It's very important this outsourcing trend continues because a lot of companies, our customers we talk to just catch up and then follow these various protocol that keeps coming up.
+And if they have Tensilica-proven IP and then they would love to outsource that, so we see that as an opportunity.
+We are going to be really disciplined, just like when we do the M&A.
+Again, this is a refined strategy.
+We are focused on scalability, sustainable, and are more focused on the profits and more focused on the quality of the customer and more focused effort into this whole vertical market we're going to go after and the most advanced nodes and deemphasizing some of this customized IP.
+<UNK>, we don't break out that.
+We don't break out the segments of our IP business.
+All we can say is clearly this is a refocus.
+As you know, when you grow to 10%, 12% and then you are starting to look at okay, now you grow to 10%, 12%, is this scalable.
+Is it sustainable.
+And is it profitable.
+And then we can refine the strategy for the next phase of growth.
+And then are more focused and more IP reuse and more repeatable, scalable business model going forward.
+Again, we expect sequential growth from -- modest sequential growth from Q3 to Q4.
+We don't break down the segments by geographic, but obviously Asia continues to be a strong market for us and a strong driver for us and we anticipate that going forward.
+Just to add on to it, this is <UNK> here.
+The China semiconductor sector actually this year growing at 26% compared with the overall global market is kind of not growing.
+And so the government have put a lot of effort into it and Cadence is very well-positioned for the two designs in IP.
+So we are excited about the opportunity and you see that over time, that region is growing.
+A very good question.
+In terms of the growth in the semiconductor and systems company area, the thing that I like a lot is the cloud data center.
+That's a sea change in terms of the workload requirement and then how to optimize some of the hardware and then the container software.
+I think that is going to be a sea change.
+And then the IoT and all this data is going to be in the cloud.
+So the cloud infrastructure is going to be a very great opportunity for us.
+And then the other part is clearly the machine deep learning.
+And that is a very broad application to the ADAS and automotive, to sequencing genomics, single-cell sequencing, to the search engine from the eye to the brain function, that whole neuroscience is intriguing to me.
+And then I think those are going to be driving some of these growth opportunity going forward.
+And then of course the security-related to across all this vertical will be very interesting to me.
+And all too is try to optimize to address some of these design challenges and order different applications of different challenges.
+And also our IP and that the refinement that we make will be focused on some of this vertical market.
+And then also some of this application opportunity for Tensilica to explore and then with the DSP programmability and low-power, it will be really [shy] on the Microsoft HoloLens, as an example.
+In fact, one of the indicators I always look at is how much new design engagement we have.
+And our hard-working, capable employees, they are working really hard.
+I have not seen any time in the last eight years they work harder than today.
+That tells you a good indication that we're so heavily engaged with some of this new product development.
+Thank you.
+Yes, we don't break out auto.
+We just say with system companies as about 40% but we do believe it's growing is a portion of our business.
+On the revenue recognition, my favorite topic, we are still working through the details with our advisors to determine how we'll implement it and what will be the impact, if any.
+There's still a lot of work to be done, not just by us but my most companies.
+And we expect to retain recurring revenue treatment.
+I think that's the take-away I want you to have.
+Yes, <UNK>, to take the geographic question first, I wouldn't read too much into the Americas or Japan or Asia or whatever else.
+I think the long-term trends remained intact.
+Asia will continue to grow.
+Japan, I think, has probably bottomed out.
+North America will fluctuate sometimes from quarter to quarter.
+And clearly hardware always place a portion in that because that is the part of our revenue that's up front.
+So don't read too much into it.
+As far as emulation, I think the key thing is the math isn't simple here because we are going through a big change in product mix.
+We are moving from the Palladium XP, the old generation product, to the Z1.
+And we have said the Z1 will have higher margins than the XP.
+I think it is complex to do the accounting from within; it's is probably even more complex from you.
+Please don't read too much into that either.
+In closing, we are continuing to innovate and deliver system design enablement solutions to our customers.
+And we're looking forward to continue to execute our strategies and creating value for our shareholders.
+I want to take this opportunity to thank all our hard-working employees, shareholders, customers, and partners for their continued support that makes this possible.
+Thank you all for joining us this afternoon.

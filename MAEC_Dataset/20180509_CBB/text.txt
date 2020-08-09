@@ -1,0 +1,211 @@
+Thank you, and good morning.
+I'd like to welcome everyone to Cincinnati Bell's First Quarter 2018 Earnings Call.
+Today's call is being recorded if you would like to listen to it at a future time.
+Before we start, let me remind you that our press release and presentation slides for today's call are posted on our Investor Relations website.
+As previously announced and stated in the press release issued this morning, Cincinnati Bell changed its segment reporting to more closely align with our long-term strategy of building 2 distinct complementary lines of business.
+Beginning this quarter, revenue in the Entertainment and Communications segment will be reported in the following 3 categories to highlight the success of our fiber investment: Fioptics, enterprise fiber and legacy.
+To better reflect the strength in our recurring strategic IT services within the IT Services and Hardware segment, revenue will now be reported in the following practices: communications, cloud, consulting and Infrastructure Solutions, which was previously referred to as telecom and IT hardware sales.
+Also as a reminder, the new revenue accounting standard was effective this quarter and, as a result, Infrastructure Solutions sales are now reported net of cost of goods sold with prior periods also being restated for comparability.
+Now I would like to draw your attention to the Safe Harbor statement presented on Slide 2.
+In our remarks this morning, we will be discussing forward-looking information.
+Due to various risks and uncertainties, actual results or outcomes may differ materially from those indicated or suggested by any such forward-looking statements.
+More information on potential risks and uncertainties is available in the company's recent filings with the SEC, including Cincinnati Bell's Annual Form 10-K report, Quarterly Form 10-Q reports and Form 8-K reports.
+This presentation also contains certain non-GAAP financial measures.
+Reconciliations of these non-GAAP measures to the most directly comparable GAAP measures are also available on our website.
+With me on the call today is our President and Chief Executive Officer, <UNK> <UNK>; and our Chief Financial Officer, Andy <UNK>.
+<UNK>'s comments today will recap highlights and the company performance for the first quarter of 2018.
+Andy will then provide an update on our financial performance by segment.
+Following the prepared remarks, Tom <UNK>, our Chief Operating Officer, will join <UNK> and Andy for a question-and-answer session.
+With that, I am pleased to introduce Cincinnati Bell's President and Chief Executive Officer, <UNK> <UNK>.
+Thank you, Josh, and good morning, everyone.
+Thanks for joining us today.
+We delivered solid performance this quarter as we continue to execute on our strategy of expanding our fiber network, while advancing our next-generation service-based IT products within our 2 distinct complementary lines of business.
+Consolidated revenue was up 18% year-over-year and adjusted EBITDA increased $6 million, due to the increase in revenue and cost-out initiatives.
+For the IT Services and Hardware segment, strong demand for UCaaS drove an 11% increase in communications revenue, and cloud services were up 8% compared to the prior year.
+Also highlighted on the slide, we continue to win where we have fiber; more specifically, fiber-to-the-premise.
+Fioptics revenue grew an impressive 13% year-over-year, adding another 6,200 Fioptics Internet subscribers during the quarter.
+Moving on to Slide 6, I'd like to take a moment to highlight the progress we have made towards our strategic transformation.
+In our Entertainment and Communications segment, we have built one of the densest and most competitively advantaged fiber networks in the country, spanning more than 11,000 fiber route miles and reaching more than 70% of the residential and commercial addresses in Greater Cincinnati.
+As you can see on the slide, our fiber-to-the-premise penetration and churn metrics are far superior to the other Internet products we offer.
+The reason is simple.
+In neighborhoods where we have deployed fiber directly to the home, our Internet speeds and product performance are unmatched by the competition.
+As previously discussed, the pending merger with Hawaiian Telcom is an extension of our fiber strategy and represents an opportunity to replicate our success in Cincinnati and another attractive market that is already big on progress on a fiber-to-the-premise strategy in Oahu.
+We recently received approval from the Hawaiian Public Utilities Commission and continue to make progress with the FCC, as we expect the merger to close in the early second half 2018.
+Moving to our IT Services and Hardware segment.
+I am pleased to report the integration of OnX is progressing as planned, and we are now reporting revenue by our 4 product practices to highlight the strength and growth in our recurring contractual IT services.
+Before moving to the quarterly segment results, I'd like to spend a moment describing each practice.
+Historically, our initial point of entry with the customer has been our Infrastructure Solutions practice.
+This group offers a complete portfolio of equipment and software tailored to our customers' organizational goals, creating a platform for buyer engagement and a bridge towards recurring revenue streams through the migration towards other services beyond the simple hardware sale.
+The consulting practice provides hands-on IT expertise by sourcing more than 850 IT professionals to address businesses' technology needs, including IT staffing.
+These talented individuals become the on-site representation of our company and have the opportunity to become the trusted advisors to our clients.
+Moving further up the value chain, our cloud services include the design, application transformation, implementation and ongoing management of the customers' infrastructure, which includes on-premise, public cloud and private cloud solutions.
+Our team's build and design solutions, using either the customers' existing infrastructure or new cloud-based options that change the way that our customers do business.
+Similar to our cloud offering, the communications practice is transforming the way businesses connect with their employees, vendors and customers.
+Our 140-year history as a provider of voice solutions combined with our understanding of network configuration has proved to be an invaluable resource as businesses upgrade from legacy voice and data applications to customized UCaaS, SD-WAN and NaaS solutions.
+The reporting changes we made this quarter highlight the opportunity for increased valuation multiples for our 2 distinct complementary lines of business, by demonstrating the density of our fiber network and the breadth and scale of our IT services offering.
+Let me now turn it over to Andy, who will provide additional detail for our quarterly financial performance.
+Thanks, <UNK>.
+Starting with our Entertainment and Communications quarterly segment performance on Slide 7, Fioptics and enterprise fiber now represent 60% of E&C revenue as we continue the expansion of our fiber network.
+Adjusted EBITDA was up $1 million over the prior year, due primarily to cost-optimization initiatives associated with our legacy network.
+As <UNK> mentioned earlier, one of the significant changes in our reporting was to consolidate all VoIP and UCaaS revenue into our communications practice within the IT Services and Hardware segment, which has had a flattening effect on E&C revenue.
+Slide 8 further demonstrates the strength of our fiber network as these assets produce higher bandwidth and faster Internet speeds than our competition.
+As of the end of the quarter, Fioptics was available to nearly 581,000 addresses or more than 70% of Greater Cincinnati.
+During the quarter, we added 2,200 Internet subscribers as the growth in Fioptics more than offset DSL subscriber losses, despite increased direct target marketing and advertising activities from our primary competitor.
+Fioptics Internet penetration rates reached 40% compared to 38% a year ago, and ARPU was up 3% to $50.
+As expected, video churn increased slightly due to price increases implemented during the quarter, resulting in video subscribers being flat compared to the previous quarter.
+A summary of our IT Services and Hardware segment results is presented on Slide 9.
+This quarter, we generated $128 million in revenue and adjusted EBITDA of $12 million, including contributions from the OnX acquisition.
+Each of our practices generated year-over-year revenue growth, and we are especially encouraged by the growth opportunities coming from our communications suite of products and services.
+Slide 10 illustrates the recent success of our communications practice.
+This quarter, we were awarded a UCaaS contract, hosting 32,000 profiles across 96 separate locations.
+We also were awarded an SD-WAN project to provide service to 18 sites that went live last month.
+This quarter, we increased our number of hosted UCaaS profiles by 6%.
+We also added approximately 200 NaaS locations and 50 SD-WAN locations during the quarter.
+Moving on to our financial position and cash flow performance on Slide 11, I'm happy to report that we successfully reduced the interest rate spread on our credit agreement by 50 basis points, saving $3 million per year and partially mitigating the impact of rising LIBOR rates.
+We ended the quarter with net debt of $1.3 billion, resulting in a current net leverage of 4.1x, which is consistent with the prior quarter.
+Turning to cash flow.
+Cash from operations increased $5 million compared to a year ago.
+Free cash flow totaled $33 million in the first quarter and was positively impacted by the timing of interest payments and lower-than-planned capital expenditures in the quarter, further outlined on Slide 12.
+Capital spending for our Fioptics suite of products totaled $17 million in the quarter, with construction costs totaling $6 million.
+During the quarter, we passed 8,600 new addresses and remain on track to pass 35,000 homes and businesses during 2018.
+We also invested $5 million in enterprise fiber builds and an additional $5 million in new IT services projects.
+Our capital spending for 2018 supports our strategy of continuing to invest where we see opportunities to gain or maintain market share and expands our fiber footprint as we need fiber to compete effectively across our markets.
+Although capital spending was lighter than expected during the quarter, we are still planning on capital expenditures between $190 million and $210 million for the full year.
+As noted on Slide 13, we remain on track to generate positive free cash flow for the year.
+We are also reaffirming our 2018 annual revenue and adjusted EBITDA targets, previously communicated on February 15.
+Please note that this guidance does not include any contribution from the pending merger with Hawaiian Telcom.
+With that, I'll now turn the call back to <UNK> for some closing remarks.
+Thanks, Andy.
+We are very excited about the growth opportunities in our fiber and IT Services businesses.
+We now have 2 distinct businesses with separate reporting and organizational structures, which allows us to execute the appropriate growth and investment strategies for each business to deliver superior operating results and drive respective brands forward.
+In our Entertainment and Communications segment, our goal is to continue to differentiate Cincinnati Bell from traditional carriers with our fiber-to-the-premise investments.
+Our results demonstrate the growing demand for our fiber offerings and illustrate the critical need for dense fiber networks with the increasing adoption of IoT devices in the home and rapidly approaching expectations for wireless 5G networks.
+These dynamics are not confined to Cincinnati, and the dense fiber network already constructed in Oahu provides the opportunity to replicate our fiber success in Hawaii.
+Fiber is the future, and our goal is to continue to build fiber-to-the-premise within our footprints.
+At the same time, we will increase the pace of our copper decommissioning and ultimately migrate to managing one superior next-generation network.
+In our IT services segment, we remain focused on transitioning from a hardware-centric business to growing our suite of services across our North American platform and diversified customer base.
+Our new focus allows us to capitalize on the opportunities created by our customers and changes within the IT landscape to transition towards recurring contractual IT Services.
+We remain confident in our path forward with growing 2 distinct businesses and creating platforms for sustainable free cash flow as we drive towards increasing valuation multiples associated with our growing fiber-rich network and IT Services business.
+Our strategic transformation combined with our disciplined capital allocation and sharp focus on execution has positioned Cincinnati Bell to capitalize on industry trends and deliver long-term shareholder value.
+Over the past several weeks, I've had the opportunity to speak with many of you directly regarding the strategic transformation we are pursuing for Cincinnati Bell.
+I want to thank each of you for your valuable feedback and input.
+Also, before closing out the official remarks, I wanted to let those individuals being impacted by the volcanic activity on the Big Island of Hawaii know that our thoughts and prayers are with them.
+I will now turn the call over to the operator and open up for Q&A.
+Yes.
+Thanks, <UNK>.
+On Hawaii, yes -- what I'll say about that is, the teams have been working together.
+They have a fairly detailed plan to begin executing once we've closed on everything.
+We're excited about it.
+I think their team is excited about it.
+We're looking forward to, as you mentioned, hopefully closing on the sooner end of what we had expected.
+So everything is going as well as can be expected on our end.
+I'm excited.
+As you can imagine, we're just excited to get going and just get the teams moving forward.
+On the volcano front, I do want to send, again, our best wishes and thoughts and prayers to folks out there being impacted by that.
+As per -- our infrastructure out there is not being impacted as of now.
+And honestly, the teams out there, I got an update just the other day, are doing fantastic work to help that community get connected and stay connected.
+And they're putting together some pretty, I think, original technology to help the folks out there.
+So I'm really proud of what's going on out there.
+On the fiber question, we've had a lot of conversations about what fiber looks like in the future, obviously for the company.
+I think you're seeing it through the metrics.
+I think you're seeing more and more of this out in the news.
+Fiber is just the future, period.
+And as I said in the script, it's a superior asset, it's where I think technology needs to go.
+You look at everything, all the overlying technologies that are going to ride over that (inaudible) network.
+We need a deep fiber network as a nation, personally.
+But for what we control, we need to continue to build.
+As per our footprint, I think you've heard us say this in the past that, if we have 800,000-plus homes here in Cincinnati, my goal would be to be -- let's build 100% of 800,000 homes.
+That is unrealistic.
+But I think what we have is the opportunity to say, look, if we started with a footprint of 800,000 homes, can we expand even slightly beyond Cincinnati to match 800,000 homes.
+So ideally, look over the next few years, I want to see a footprint of 800,000 fiber homes.
+They don't necessarily have to all be in the traditional legacy CBT network as we've defined it.
+We've got a lot of opportunity expanding slightly out into Dayton or Columbus, where we can use our data analytics and almost do a Google-esque fiber build to neighborhoods that are -- we know have a high customer lifetime value.
+And so that's what we're looking at.
+I think for our investors, what's important is, we replace one footprint with a footprint of a similar size with a better network.
+And then, for those houses remaining in the old -- in the legacy network, we are currently looking at technology that allows us to maximize speeds, do the best we can for those customers, while also getting as far through network transformation over the years as we can.
+So I think that's what you can expect from us.
+As I said in the script, I think it is important that at some point in the future, we run one fiber network.
+And that's where the value is going to be.
+And I think that's where the future is.
+And <UNK>, I would add to that.
+I'm sure you noticed in our earnings release as well as in our Q, we have started to focus on fiber-to-the-prem and Fiber-to-the-Node by way of what we report.
+So when you talk about covering our footprint with fiber, we think it's very important that we cover the footprint as much as possible with fiber-to-the-prem.
+So we will continue to report those metrics, so the folks understand and can differentiate between making it to a point terminating prior to the home or making it all the way into the home.
+Ultimately, they do not need to be together.
+And the CBTS entity can be separated, if need be.
+As I mentioned in the past, our job is to do the best we can to articulate the value that the teams are creating.
+They're doing great work.
+I think this quarter is the first quarter that the -- I think the world sees what we have seen in that company in its distinct practices, its growth trajectory in revenues.
+There's a ton of opportunity there.
+But no, they don't have to be together, and there is a possibility of spins.
+Thanks, <UNK>.
+I'll answer them in reverse.
+I'll answer the second question and then I'll put that over to Tom to talk about 5G.
+I think, what you're seeing trend-wise is going to be all about pace and pace of build.
+Right now, we feel like we have a good steady pace, which helps offset the legacy declines.
+We see some positives in the legacy area also.
+There are pieces of it that are slowing down a bit.
+But as you are well aware, there are pieces that are just in steady decline and will be.
+So it's going to be about pace.
+I do see the potential of matching pace and keeping things relatively stable and then even slightly growing.
+And that's really going to be our focus.
+And when we look at builds, it's really going to be, how do we build efficiently and effectively from a cost standpoint.
+And then, how does that match the pace of decline.
+As I mentioned in the comments to <UNK>, it's ultimately about replacing the legacy footprint that we have today with a next-generation footprint.
+And that's what we're really going to focus on.
+Pace is really going to dictate how you see top line move.
+But we've also got some cost areas that we still can attack too.
+So I think overall, this quarter was probably indicative of (technical difficulty) as we increase in pace.
+And then, Andy, you want to add to that.
+Yes, let me add to that briefly, <UNK>.
+So from a video perspective, to just get a little more granular, I would anticipate video will likely be flat, similar to what you saw this quarter.
+And that being driven by the shift and even really intentional shift from Cincinnati Bell toward Internet and Internet subs.
+So I would anticipate growth from an Internet perspective -- continued growth, and likely flat from a video perspective.
+Yes.
+And that's a good point.
+We have -- from a video strategy standpoint, I think the one benefit that we have versus our competition is that we have less exposure on the video side from a profitability standpoint.
+Obviously, getting into the game a little late and with some of the content cost pressures that we see as an independent carrier, we're fully moving down the strategy of deemphasizing video.
+We're going to be releasing over-the-top products.
+For us, it is all about the Internet.
+And we feel like we are setting ourselves up and this company up to have a superior network and the superior pipe in our footprint.
+And that's probably a good segue into the 5G question for Tom.
+And on timing, it's already begun.
+We have dedicated leadership here in Cincinnati that's focused on the migration, the decommissioning.
+Once we close with Hawaii, the teams will combine and we'll have a dedicated group and dedicated leadership focused on just this area.
+Yes.
+On the M&A front, I think there's potential out there on the IT Services side.
+I think, on the network side, we are -- we haven't closed Hawaii yet, so I don't think you're going to see much on the network side from us for a while.
+We've got to focus on integration and execution with those 2 teams, and so we'll be heads down in that area.
+And as I mentioned many times on the call that we're going to be focused on the fiber build and creating value that way.
+So we've got some things to prove there and we -- so we're going to work through that.
+On the IT side, you're probably -- if you see anything, I think there is an opportunity for product augmentation for the practices.
+So one of the things that we see, the IT landscape is -- remains very fragmented.
+I think what we've done in really separating these practices and cleaning up the reporting structure, we now have pretty tight focus on different areas of growth.
+I do see the potential of maybe adding a small tuck-in company for, as an example, the cloud practice or the communications practice.
+So there are those potential opportunities out there.
+I would say, there's probably nothing large that we're seeing.
+So if we were to see anything, it would be small and really focused on accelerating the growth in those practices, especially the practices that we believe are the future.
+I said this in the past, and I want to reiterate it that we're trying to deemphasize product sales and point product sales, I think.
+We have the right assets to make the transition from being what is traditionally called a VAR to a service-oriented company.
+I think you're seeing that in the reporting now in the business.
+And so what we would be focused on is really the services side of that.
+Is that helpful.
+Yes, it's great question.
+I think, we've got -- as I mentioned earlier, a multi-pointed plan to address on the operations side.
+I think working with the teams on the build and assessing where they are at with the build and seeing what we can do, if anything, to accelerate the build in the short or the midterm.
+It will more than likely be in the midterm, not in the short term.
+They've got a plan that they're executing.
+On the sales momentum side, we've been working pretty tightly with the team on organizational structure.
+The thing that you would think would make sense to make sure that once the deal is closed that you really hit the ground in a sprint together and not see a gap in momentum.
+So that's really what we're focused on.
+In the short term, just seamless transition, and then in the midterm, how do we begin implementing with that team some of the things we've learned here in Cincinnati; and vice versa, implementing some of the things that they've learned in Hawaii here in Cincinnati, so that we can take the best of both worlds.
+Thank you.
+Just want to finish with some short comments.
+We entered 2018 with really strong momentum.
+I want to take the opportunity to personally thank our team for their hard work and commitment to our strategic transformation.
+As always, we anticipate -- or appreciate your continued support and interest in Cincinnati Bell.
+I just want to reiterate the thank you to our teams with all the work done in the Q1.
+It's been exceptional.
+Things have not been easy, but they've done a tremendous job.
+And I just want to say how much I really appreciate it, and look forward to speaking to everyone soon.
+Thank you for joining us, and have a great day.

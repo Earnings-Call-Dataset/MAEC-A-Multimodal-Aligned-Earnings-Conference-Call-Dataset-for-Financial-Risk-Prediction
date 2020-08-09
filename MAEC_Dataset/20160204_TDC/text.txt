@@ -1,0 +1,73 @@
+<UNK>, the only potential answer might be around, as you look at it from the customer's perspective, in that there has been such pressure in the US on large CapEx transactions, that I think customers put off as long as they can -- adding in big increments.
+And it might be centered around, as customers get to the end of the year, there might be budget to do something.
+But that's speculation on my part.
+There's nothing as it relates to what we're doing, or Teradata is doing, or the sales force or anything else, that's incenting or causing the fourth quarters to relatively speaking, do better than the other quarters we're in.
+That's a good question.
+Yes, <UNK>, we are going to be reporting it on a -- we will show it on a non-GAAP basis.
+So it will be excluded, and you will see the impacts of it, in Q1 on our non-GAAP -- on our GAAP to non-GAAP schedules.
+So, yes, it will be captured separate for the part that we are selling, and not that we're keeping.
+Oh no, the part that we are keeping will not.
+It will be combined in Teradata.
+So we'll go back to the original segments.
+It's -- very, very small, <UNK>, very small.
+We will go back to the original segments of the Americas and international.
+Yes, our -- as we look at that, it is transitioning through the year.
+So you will see more of that impact of that $70 million at the later end, latter part of the year on a run rate.
+But at $70 million is our target, to get out, to benefit the 2016 operating income by $70 million.
+Again, the cost take-out target that would transition into 2017 is that $80 million to $100 million.
+Now you have also the incentive comp, as I mentioned and the merits.
+So the net $30 million positive from a cost take-out initiatives will come, as we progress through the year.
+For example, we had some of those initiatives put into place here in Q1.
+So again, those will flow through the year.
+So it's just really on the timing of latter part of the year for that benefit.
+Well, the guidance we were giving, is we are not anticipating in 2016 anything abnormal from a floor sweep perspective.
+So we are keeping that consistent.
+For what we're -- as we are looking at that guidance, it reflects what we anticipate, from a conservative perspective, from cloud and subscription on there, <UNK>.
+And if we are seeing more accelerated or aggressive actions, with respect to cloud and subscription, we will update it accordingly.
+So nothing really unusual, conservative on cloud and subscription, really no major changes from the transformation in 2016.
+If I could characterized 2016, 2016 is where we're focused on our cost optimization, our cost structure, to better realign our costs with our strategic initiatives that <UNK> laid out.
+And then, 2016, I would characterize it as operating margin expansion, trying to get that 300 to 400 basis points operating margin expansion in 2016, to lay the foundation, and to really fund the transformation.
+That is how I would characterize 2016.
+<UNK>, regarding new customer wins, so if you look back over the last two or three years, they have been very strong as we have reported on them.
+And it's not just for data warehousing, it gets into the analytic ecosystem or big data solutions and everything else, which all drive revenue.
+And I think that common theme on the product revenue that's happened in the last couple years, is the customer wins keep going up.
+And they are at a very high rate, but most of the customers tend to buy in smaller increments, and start in smaller increments.
+And that's been the most recent trend that impacts product revenue.
+So if you look at the average dollar size for new customer wins, it's gone down.
+The customers are starting in smaller increments.
+And then, in the user base, all the customers continue to buy Teradata, but in smaller increments and less floor sweeps.
+So absent of change, which we're trying to drive change, in how do we do business as it relates to our core data warehouse and product revenue, absent of change, it would take some of those dynamics to change.
+And we are not counting on the way customers are buying, and what the customers prefer, we are not counting on that to change.
+We are changing, in how we make it easier for customers to consume and buy Teradata.
+And that is what we are counting on to transform ourselves, to get the product revenue growing meaningfully again.
+Yes, <UNK>, let me follow up what <UNK> said, and lead into that gross margin, product gross margin, services gross margin.
+As <UNK> said, we are making it easier through this transformation, of through our strategic initiatives to have our customers, particularly our larger customers buy and consume Teradata.
+Through there, you can have [VPAs], you can have [DLAs], again, all these items make it easier for the customer to consume.
+We saw that impact, positive and constructively through in Q4.
+But it did have an impact on our product gross margin in Q4.
+With that being said, let me lay -- let me just kind of reset.
+We finished the year at 59.9[%], but there was about 200 basis points for FX and FAS 86 impact.
+So it's really 62% versus 65% for the year in 2015 over 2014.
+We expect 2016, with these programs, 2016 probably closer to approximate 2015, and going from there.
+So we are expecting these programs to be in place in 2016, and having overall product gross margin in that range of [2015].
+So that's giving me -- a little bit conservative on it -- that we have another 200 basis points of maybe movement in that product side.
+On the services side, yes, 2015 we continued to invest, particularly in our Think Big big data, and building out the bench strength, and building out the team to take advantage of that.
+And that, those costs as you are building out become expense through services.
+So we expect services gross margin to improve slightly, possibly improve slightly in 2016.
+Okay.
+We have time for one more question.
+So <UNK>, basically all we are doing is optimizing sales coverage.
+So we -- the good news is we added a lot of territories over the last three or four years, and we've grew the number of territories from somewhere 300 and something to 600.
+Right.
+And we have the opportunity to look at, now the time is past, and we have been optimizing them the last couple years, but we have an opportunity to go deeper.
+And it's not like you're reducing sales coverage.
+You have the opportunity for customer coverage.
+You have the opportunity to combine territories, and provide coverage to the same customer base, and I can argue to more customers with less territories.
+So just think of it that way.
+Our sales specialists and our go-to-market and compensation, no meaningful change there.
+We will continue to evolve our go-to-market, where we are in early stages, but that's basically, the net-net as we look at Q1.
+So you do get into some changes of account assignments and things like that, and it can have an impact when you do it.
+So there's a little bit there in the first quarter.
+So listen, in closing, we remain the undisputed leader for on-premise analytics, and we are well on the path to becoming a leading large-scale production analytic engine in the cloud, a leading analytic services company, and a leader in repeatable, analytical solutions across the entire analytical ecosystem.
+We look forward to sharing more with you in the future, and I hope you all have a good day.
+Thank you very much.

@@ -1,0 +1,135 @@
+Thank you, Debbie
+Good morning and thank you for joining us today
+Before I begin today, I would like to acknowledge the passing of our friend and colleague, Magnus Böcker
+Several of us at CBOE had the pleasure to come to know Magnus while laying the groundwork for an educational partnership with SGX
+We are personally saddened and, on behalf of CBOE, I wish to extend our condolences to his family, to our friends at SGX, and others throughout the industry who mourn his loss
+Moving on now to our quarterly results; I am pleased to report on a strong quarter 2017 at CBOE Holdings, with adjusted earnings per share of $0.87, a net revenue of $267 million, led by continued growth in our proprietary index products
+Our overall options volume during the second quarter was up 15% over the previous year, and our proprietary products continue to outperform the industry
+We established an all-time record quarter in VIX trading, which increased 19% over the second quarter last year
+Our index options volume increased 9%, reflecting the third highest quarter for VIX options trading and continued growth in SPX options volume
+We continue to see strong trading in our proprietary products in July, led by VIX options, which had their busiest month this year
+We have grown accustomed to increased VIX trading amidst spikes and volatility
+We were obviously seeing that low volatility environments create trading opportunities as well
+While VIX-linked ETPs remain key to the VIX ecosystem, we believe the most recent increases in volume can be attributed to a growing group of users trading VIX futures directly, rather than using VIX ETPs
+We are also seeing VIX options trade in greater size and users continuing to find utility trading VIX futures and options, regardless of the VIX index level
+In other business lines, global FX volume was up 8% in the second quarter, and our market share stood at 12.9% at the end of June, compared to 11.5% a year ago
+We saw second quarter market share in both U.S
+and European equities decrease against the prior year's second quarter, due to this year's continued low volatility
+Our Bats ETF marketplace however, continues to thrive and grow
+Our growing market share in ETF listings demonstrates our ability to offer meaningful benefits for issuing firms and deep liquidity to market participants
+We are now home to over 221 ETFs, 89 of which were added this year
+Of those, 30 are BlackRock iShares funds, which transferred from a competing marketplace earlier this week
+Year-to-date, we have won 39% of all new ETF listings, our highest-ever percentage, including some of the largest ETF launches this year
+Five of this year's top 10 new ETFs in terms of assets under management are listed on Bats
+We also listed -- we also listed our first exchange-traded notes this past quarter
+With the addition of new funds from some of the industry's most influential firms, including Franklin Templeton, Janus, UBS and Principal, and new opportunities to leverage our global presence and CBOE brand, we expect our listings business to gain even more momentum
+We took an exciting step toward further expanding our growing product line this week by entering into an agreement with Gemini Trust Company that provides CBOE with a multiyear exclusive global license to use Gemini's market data, including Gemini bitcoin auction values, to create bitcoin derivatives products
+We are working closely with the CFTC and, subject to regulatory review, we intend to offer trading and cash-settled bitcoin futures on CFE in the fourth quarter of 2017 or early 2018. CBOE will also retain exclusive rights to use Gemini market data for the creation of new indexes, as well as the rights to distribute Gemini market data over CBOE's market data feed
+As you know, Gemini previously selected Bats Global Markets to list their proposed bitcoin exchange traded fund
+We cannot be more pleased to build on that partnership by leveraging CBOE's experience in product innovation and cutting-edge asset classes to develop and trade bitcoin futures
+The collaboration with Gemini is an example of the strong potential for innovation we see in marrying ETP issuer relationships, ideas and capabilities with CBOE's deep product development expertise
+We look forward to responding to the growing interest in crypto currencies through potential bitcoin futures traded on the regulated derivatives exchange, with the many expected benefits this brings, including transparency, price discovery, liquidity and centralized clearing
+Moving on now to our integration with Bats
+As mentioned in our last call, the combination of the two companies provides the opportunity to cross-sell additional products and services to an expanded customer base
+We continue to focus on our core index business and target the OTC space with quality listed products, while extending our global reach to promote an expanded product line
+I'm pleased to announce we will be opening a satellite Hong Kong APAC office in the third quarter while continuing to leverage our presence in London and Singapore
+Our coordinated efforts across multiple locations in the U.S
+and abroad enable our equities, derivatives and FX sales teams to interact more frequently and efficiency, with a greater expanded base of buy-side and sell-side clients
+Our extended reach enables us to build closer, more collaborative relationships with local brokerage firms and indexers and accelerates our ability to cross-promote our products to a much broader audience
+We are preparing for our sixth Annual CBOE Risk Management Conference Europe which, runs from September 11 through 13. This will be our first RMC Europe held near London and the first to feature team members who now represent new lines of CBOE business, including FX products and European equities
+RMC typically attracts sophisticated traders who are early adopters of our new products
+We very much look forward to sharing our expanded offering with many of our most influential customers
+As you know, the migration of our trading technology onto Bats' proven platform underpins the scale and efficiency we expect to gain from the CBOE-Bats combination
+We remain laser-focused on working with customers to help ensure a seamless technical and operational integration
+Last quarter, we held the second in a series of customer conference calls on the migration of CBOE's exchanges onto the Bats technology platform
+On that call, we announced that we expect to complete the C2 options exchange on May 14, 2018, which follows the previously announced migration of CBOE's futures exchange to the Bats platform planned for February 25, 2018. We expect to announce the date for CBOE's migration in the coming quarters as we continue to work on requirements for the hybrid floor and electronic system
+We are also implementing a new index technology platform that will serve as the foundation for our growing index business and enables us to better calculate and disseminate data for new and existing indices
+Completion of the new index platform is expected in the first half of 2018, and we will announce a full rollout schedule in upcoming technology integration customer calls
+Turning to our European equities business and the progress we've made toward addressing the challenges and opportunities inherent in MiFID II
+Bats Europe is nearing completion of its technical and operational readiness, having successfully implemented a strategic plan that allows ample time for customers to test our systems and prepare for MiFID II
+Last month, we successfully completed our third and most significant software release of the year, which included all of the real-time exchange functionality needed for MiFID II compliance
+Our final software release is scheduled for October
+Importantly, we also see MiFID II as an opportunity to provide value-added products and services to help customers navigate the changing regulatory environment
+These include our Large In Scale, periodic auctions and expanded buy-side trade reporting services
+The new volume caps coming under MiFID II will limit trading in dark venues, causing investors to seek new places to trade with minimal market impact
+Our Large In Scale and periodic auctions offerings are designed to enable investors to find liquidity and trace large quantities of stock without the associated market impact
+We continue to see rapid uptake in trading on our Large In Scale service, a block trading platform launched last December with BIDs, a block trading leader in the U.S
+More than 86% buy-side customers are now connected, and we continue to see increased trading on the new platform
+The trading experience on the periodic auctions offerings, lit book operating auctions throughout the day, allows market participants to trade in increased size without significant reactive market movements
+We believe we will see strong traction in our periodic auctions offering as we near MiFID II commencement
+Last quarter, we expanded our Europe trade reporting, BXTR, the largest equity trade reporting facility in Europe to enable buy-side firms to meet their trade reporting obligations under MiFID II by allowing their brokers to submit trade reports using their existing connectivity to Bats Europe
+Turning now to our U.S
+equities and our Bats market close proposal
+We continue to receive questions on this initiative, so I'll take a moment here for an update
+Bats market close is a near end-of-day match process for non-Bats listed securities that we created in response to customer demand
+It would provide a means to secure primary market closing print prices without disrupting the primary market closing auctions that take place at the end of the U.S
+equities trading day
+On July 6, the SEC extended the Bats market close review period another 45 days, making August 20 its next action date
+At that time, the SEC may either approve or institute a proceeding disapproval, which would give them another 180 days to act
+We remain strongly committed to the customer benefits of this initiative, which are highlighted in our response letter to the SEC earlier this week, and we will continue to advocate for its approval
+In closing, I would like to thank the CBOE team for a great second quarter, our first full quarter as a combined company with Bats
+It is a credit to the talent and professionalism of the entire team that we continue to systematically hit our internal integration milestones while delivering strong results in our core business lines and positioning the company for future success through the consistent execution of our strategic growth initiatives
+I am excited about the opportunity that lies ahead for this team to leverage our expanded product line and extended global reach to continue to grow CBOE and reward our shareholders for years to come
+With that, I thank you for your time
+I will now turn it over to <UNK>
+<UNK>, great question
+It's one that we focus on, probably the first question our board asks us at every quarterly meeting
+They too see the opportunities to execute on the revenue synergies that we laid out, gosh, almost a year ago
+But really the opportunity we continue to focus on here, is growing the index complex, really leading with this incredible uptake in volatility trading, even in a low environment
+So VIX futures and options, and then the growing appeal and the flexibility that our retail customers are seeing in a Monday, Wednesday, Friday SPX complex
+So the opportunities are to take those core index products and use the broadened and expanded business development lines, that is really leveraging the U.S
+team here and really looking to Mark Hemsley, who runs the European operation, getting his team up to speed on education
+I think I mentioned last quarter, that we were sending our own options institute instructors over to Mark's team in order to really get them up to speed, inform -- a much, much more informed lead generation, so that we can grow this product not just domestically, but globally
+So that remains the focus
+This will continue to be an index story, I think, proved out in both high and historically -- incredibly historically low volatility
+So that's the core
+But you did bring up a good mention of our interesting release yesterday
+I want to turn it over to Chris and maybe <UNK> <UNK>
+Just a little bit of overview, while we're sticking to the core, we're still looking to the future to build new opportunities that we'll be able to tell you stories in the coming quarters
+So <UNK> and Chris, if you could maybe kind of give an overview of the relationship with Gemini, and then, Chris, maybe how we see the opportunity to roll out products after the initial relationship begins
+I think if we look at all of the opportunities and how people are employing this, I think you're right
+I think in the last six to nine months, we've seen our users change the way that they view and are able to harvest premium, and our products are almost directly benefiting that change in opinion
+And again, if I remind you what volatility our VIX contract is actually measuring, it's the market's perception of risk
+And the spot VIX is a 30-day measure of that perception of risk
+So the contract itself is just a direct reflection of where people view their risk over the next 30 days
+And, of course, the term structure is look at their perception risk over time
+And to your point, that has been flat in the past
+That has been in contango and, on occasion, goes in to backwardation
+Now the opportunities as soft [land], I'm not quite sure where you're going with that
+Our existing customers are, in fact, finding the utility in a low volatility environment, employing different strategies
+The fact that everyone piling into a short model strategy was probably more the norm in the first quarter
+We see people now getting out of spreads that allow them to leverage those positions and taking outright positions, whether it's all-in short, as the trend has been
+But we see now the interest in long ETP exposure in a more binary effect like -- I've given up on this short model, can't get lower
+I'm flipping my -- use the analogy of my old floor days, I'm flipping my trading card over, and I'm taking an outright-long position on volatility
+There are too many things uncertain in the world
+You can pick up the paper, debt ceiling looming, North Korean missile tests in the future
+And what that impact and my perception of risk over time is reflected, I think, in the activity we see going from all-in short, to now taking outright long positions
+So not atypical to what we've seen in the past
+There are changing perceptions of risk, and that's been reflected in our marketplace
+Let me just punch the point, <UNK>, and what we've observed, and it was a big one for us, we saw a million contract VIX options trade, which is really taking a position, using the leverage of an options contract, taking in premium, I should add, that really takes a position mark that I don't think we're going to stay in this low volatility environment
+And on a way back to a normalized volatility, all the way up to a 35 level, this is an incredible payout for someone who's completely taken a different position on vol and expected risk in the future
+So we're seeing much bigger positions from existing and much more activity from new customers
+So I'll leave you with those thoughts
+Hold on
+Debbie, can you get ready for the mute button? If Chris starts giving anecdotes, we've got to be careful
+<UNK>, why don't you give a little background on the philosophy? And I can get into maybe the broader view on M&A and just how we've accomplished this over the last couple quarters
+So with that as the background, the way we view M&A and you've referenced some properties that perhaps could be out there
+Wouldn't expect us or this board to have any targets that are very, very large scale acquisitions
+But we're typical to the activity that we were employing pre-Bats
+We're looking to grow this core business, period
+And if that means we can build tools that make that easier for our customers to either find and interact with our proprietary complex, if there are tools that Bryan Harkins needs on the equity side or Mark Hemsley sees an opportunity in Europe, we will chase them down
+We'll look either to build or buy
+And if it makes more sense for us to go out and make smaller bolt-on acquisitions that further this strategy, we'll do it
+But right now, we are deep in integration and migration of this platform to deliver what we set out to deliver to our shareholders last September
+So again, think smaller bolt-on
+If we think it's quicker to market for us and more effective, we'll build otherwise, but nothing planned large scale at the moment
+And then the -- Chris, the October EDGX Complex Order Book
+Why did <UNK> get two questions, Debbie?
+Well, let me be specific [ph] that we heard you right, <UNK>
+It was pricing on CFE?
+And then the second part of that question really in mix
+So if you saw the increase in the first quarter this year in RPC and VIX futures over the previous that was the price adjustments we made in January
+And then the difference between Q1 and Q2 in RPC, really is due to the active day trader discount
+So you're right, as we see the day trader pick up their volume, we'll see a slight decrease in RPC, but we'll see that bounce quarter-to-quarter just depending on the mix
+So right to your point, you're right
+You did see that and quarter-over-quarter, it just is the blend between pure customer or day trader -- people taking advantage of the day trader discount

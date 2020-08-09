@@ -1,0 +1,93 @@
+Thank you, and thank you for joining us to review CorVel's fiscal year 2018 and the March quarter.
+Revenues for fiscal 2018 were $558 million.
+Earnings per share were $1.87.
+Fiscal year earnings per share increased 24% year-over-year.
+The March quarter revenues were $143.6 million, 7.5% over the revenue for the March 2017 quarter.
+Earnings per share for the quarter ended March 31, 2018, were $0.47, an increase of 12% over the same quarter of the prior year.
+The tax law change helped us in the last 2 quarters of our fiscal year and will continue to improve earnings going forward.
+We've had an unusual increase in the health care costs of our own employee benefits plan but expect that to settle down.
+Additionally, our case management business has experienced lower margins, primarily due to some internal operations issues with which we are dealing.
+From a strategic and market perspective, we feel good about our position.
+Our Enterprise Comp claims administration service is increasingly well received, and our payment integrity service suite continues to produce results that lead the industry.
+For these reasons, we are optimistic about the development of new business and expect to improve the internal operation's issues that have hampered recent quarter's result.
+The workers compensation markets for Managed Care as well as for claims management remain active and attractive.
+Our Enterprise Comp line of full-service claims management solutions has benefited from increasing market recognition of our performance advantage and the technologies that support it.
+Although disruption in health care and health care insurance is a complex and slow process, it is occurring.
+In the last decade, the leading player positions in workers' compensation, for example, have changed for the first time in perhaps half a century.
+Changing the embedded processes and the profitability of disability insurance poses a threat to a number of the participants in the industry, that is, providers, insurers as well as brokers.
+As with all industry disruptions, the embedded market leaders from prior eras can be in denial during the early stages of a market change.
+CorVel's strategy, from our inception 30 years ago, has been that information management technology would ultimately disrupt the traditional service model.
+That change has begun to occur.
+Insurance prices in the industry have been soft, and self-insurance and even self-administration service models have become increasingly popular.
+Recently, Amazon, BERKSHIRE HATHAWAY and J.
+P.
+Morgan jointly announced they would begin working on new solutions to the management of health care costs.
+While this is a daunting task, we believe it is most appropriate to presume they will have some success, and it is prudent for all of us to visualize the segments they would see most likely to pursue.
+Toward that end, CorVel has devoted resources the last 3 years to the task of creating new service workflow in our disability management model.
+This effort has been broken down into new patient-intake processes, a new workflow tool for the management of claims and the new Return-to-Work process employed at the backend of an episode of care.
+A large number of component processes have had to be reimagined to create the new model we have now begun implementing.
+Further, we expect that additional advances in the interface with consumers at the point of service will continue to develop over the next few years.
+For the last few years, we have produced our claims management administration service using our new service model, and the management of workflow and the gathering of information by the adjuster has been manual.
+Now we're introducing supporting technology.
+The initial introduction of the new claims service workstation has been successful.
+This application is intended to place a software-based workflow management tool on the desktop of claims professionals.
+This tool could be thought of as a wrapper on the legacy claim systems of our insurer customers.
+The focus is the real-time integration of all episode of care data consolidated at the professional's fingertips.
+These inputs are included in the workflow recommendations the applicant presents for the claims management professional.
+The model has, when fully implemented, produced meaningful reductions in the total cost of disability claims.
+The change emerging in the delivery of disability management programs will, we believe, become pervasive.
+To compete in the emerging market requires that we reengineer some of the traditional components of our own prior service models.
+At times, this adjustment has stressed our operations, which, in turn, has resulted in reductions in the margins in specific subsets of our services.
+These are internal issues though and within our control to address.
+The reduced margins impacted our results in both the December and March quarters, which <UNK> <UNK> will discuss later.
+The Network Solutions segment of our service continuum remains an industry leader in outcomes achieved and is a high value-added service.
+Our new claims professional workstation further increases the value of these services to the carrier claims operations.
+I feel we're well positioned in this market, but it is also true that moving market shares around in this sector is not an easy task.
+As has occurred multiple times in the last couple of decades, new approaches to service are evolving.
+CorVel is actively updating its software, we are increasing our use of cloud services, and we are evolving new interfaces to the constituents in health care.
+All of this development combines, at times, to hamper our margins, but it is also opening new areas of opportunity in our target markets.
+I will now turn the call over to <UNK> <UNK> to discuss our operating results and product development.
+Thank you, <UNK>.
+I'll first discuss our operating results.
+Patient management includes third-party administration services and traditional case management.
+Revenue for the quarter was $82.4 million, an annual increase of 12%.
+The year-to-date fiscal year growth rate for patient management was 9.8%.
+While the fundamentals of our case management business are healthy, results in this segment of the business fell short of expectations.
+Margins in our patient management services decreased 11% from the same quarter of 2017.
+We've made significant progress this past quarter, developing and deploying a new suite of analytic tools to facilitate enhanced operational insight into key performance indicators at each level within the operation.
+It is our expectation that these tools, coupled with adjustments to strategic operating parameters and modifications to management business objectives, will have a direct and positive impact on margins achieved in our patient management services.
+The effect of the changes being made will be fully realized over the next 2 quarters.
+The momentum and sales of our TPA services, which built through 2017, was sustained in the first quarter of the calendar year.
+The outstanding service and outcomes being delivered with our integrated claims management solution is allowing us to continue to increase market share.
+Revenue for our Network Solutions services sold in the wholesale market was $61.1 million for the quarter, an increase of 1.9% from the same quarter of the prior year.
+Gross profit in the wholesale business was up 2.4% year-over-year.
+As <UNK> noted earlier in the call, our belief from the start of the company was that we would have the best opportunity to differentiate our products and services in the market through the application of technology.
+We see this being truer today that at any time in our history as the pace at which technology advances increases.
+Our development team delivered strong results again this quarter.
+Broad areas of focus included: enhancements to our claims management platform, including improvements to our new adjuster workstation called CareMC Edge for the insurance carrier market; continuing evolution of the next generation of our medical review software; and migration of services to run in the cloud.
+The initial phase of our claims management workstation, CareMC Edge, was released in mid-Q3 2017.
+With dozens of enhancements since the initial release of the interface, we are beginning to see the vision of The Edge realized, a material reduction in the cost of claims for our carrier clients.
+In the March quarter, functionality was introduced, which enables better and timelier management of pharmacy utilization, case management services and oversight of claims financial reserves.
+We are at the initial stages of the product development roadmap for The Edge and are eagerly looking forward to implementation of the enhancements planned for the remainder of 2018 and beyond.
+Solid progress was made on the first phase of our integrated claims intake initiative.
+Our goal was the project is to have seamless engagement with our customer's employees at the time of an incident of injury, connecting them with the right professionals as quickly as possible.
+We begin this process with nurse-staffed call centers that triage patient into the most effective entry points in the clinical process, which provide convenient and prompt access, including telehealth for the patient.
+We are currently introducing second-generation versions of our supporting systems.
+These new applications expand our ability to integrate all Managed Care components and also, to continue expanding the automation of our interface to the provider community.
+We have found that investments in the effectiveness of our patient engagement process at the outset of an episode of care are the most effective means of improving the cost-benefit ratio in health care.
+At the other end of the claim continuum, our Return-to-Work module remains another key area of focus for us.
+The efforts underway on our Return-to-Work module will improve the manner in which we can engage all related parties in a disability claim.
+While initial phases of the project included the collection, storage and use of RTW information by claims professionals, subsequent phases will involve more real-time involvement by the employer to assist injured workers in the return to productive roles.
+Development of next generation of medical bill-review software continues.
+In the March quarter, we completed work upgrading our proprietary rules engine to the latest technology.
+The conversion supports enhanced scalability, configurability and extensibility.
+Cyber security is a critical area in which we remain diligent.
+We've realized a modest increase in the allocation of IT resources necessary to proactively address security exploits and comply with regional and international legislative requirements.
+The cyber security work notwithstanding, the IT group has been able to consistently dedicate more resources to strategic efforts these last few quarters gaining momentum and making a meaningful difference in the services and outcomes that our operations team is able to deliver.
+We have a rich complement of initiatives planned for our patient management and Network Solutions programs in 2018 and look forward to maintaining and increasing the current momentum delivering on these projects.
+I would now like to review a few additional financial items.
+The quarter-ending cash balance was $56 million.
+Our DSO, that is, days sales outstanding and receivables, was 42 days, down 1 day from a year ago.
+That concludes our remarks for today.
+Thank you for joining us.
+I'll now turn the call over to our operator.

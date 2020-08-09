@@ -1,0 +1,140 @@
+Well, thanks for the question, <UNK>.
+Listen, indeed we don't have a crystal ball on exactly how this will work out.
+But I mean, let me give you a more specific example.
+We saw several projects in Latin America, projects that we think are strategically important to our customers, put off.
+Now, indeed maybe the currency situation there won't improve, but maybe it will.
+And maybe it's part of a re-planning process for them to re-prioritize things out of which a broader portfolio of projects may be evaluated.
+So it's true that in that case, we don't have a crystal ball, and we can't say definitively how things will work out in the future.
+I would simply say that we're doing business with major players on an international scale, players that I believe intend to be competitive, intend to invest in their networks going forward.
+And they're wrestling right now with a business plan that didn't contemplate the currency imbalances that exist today.
+And let me emphasize, these are markets where we sell in US dollars.
+So our products and services as well as others look proportionally more expensive.
+And we think that our customers are simply grappling with how to best manage their way through that.
+And that process is leading to some delays.
+Well, I'll start with the last question first.
+And while we're certainly not here giving detailed guidance for 2016, specifically in the Cable Edge area, I would say roughly the zip code of business for the next couple of quarters is a good if not conservative assumption.
+Stepping back from that to go to your question about dynamics, I mean, let me be clear.
+There's [multiple] dynamics playing out here as with out video business.
+The impact of customer consolidation and delayed projects is certainly real quite independent of any technology transition.
+As you know, both in this country and overseas, a number of leading cable operators are involved one way or another and focused on M&A activity.
+Second, the currency issue is non-zero even in the Edge space.
+Now, even though the Cable Edge space tends to be tilted a little bit more towards the US, we also do Cable Edge business in other parts of the globe, so that was the second factor also impacting the Cable Edge business.
+And third, indeed, there is some amount of traffic that is migrating from traditional VOD platforms to DOCSIS platforms.
+There's no customers who are going 100% wholesale, but we do see a migration of some traffic, which is also, I'd say, dampening demand for incremental Edge QAM capacity in the short term, in the near term.
+So all three of those together conspire to make a particularly weak quarter.
+We expect the consolidation issue in particular to resolve over the next couple of periods.
+But the real uptick in this business, the meaningful uptick where we think real value is going to get created is really all tied up in our big push into CCAP, which as we've said a couple of times, is targeted to really commence in earnest from a revenue perspective the second half of next year.
+Yes, I regret to say it is a little bit too early.
+We certainly don't have -- it's purely a guess or a feeling, <UNK>, and we don't really have good feedback or good visibility into our customers' plans for the first quarter.
+I mean, I would say that seasonality historically has been most pronounced with the cable part of our customer base.
+To the extent our video business is a little less cable-centric from that point of view, yes, less impactful.
+And of course, as I highlighted, in particular in the video business, we've got a strong pipeline of projects.
+There's kind of -- there's a backup here.
+I think that there's a reasonable chance that we may see that break loose early next year if not at the back end of this quarter.
+And I think that that would be a positive driver of business in the first quarter that might offset typical seasonality.
+But we'll have to wait and see, and we'll update you when we've got better visibility.
+Yes, so good question.
+Part of our VOS initiative, which started initially with our video processing products and coding, transcoding, et cetera, is a push towards the core of the intellectual property being captured in software.
+We can deliver that as an appliance or indeed as pure virtualized software to be run on a customer's data center or off-the-shelf server.
+So it's encoding and transcoding we're -- there's the sharp end of the stick for us.
+The rest of everything we do in our video business is following.
+And indeed, in those cases where our customers are not buying the off-the-shelf server from us, just the virtualized software, we're seeing a lower topline price.
+But our strategy is just to drive obviously equal or greater gross margin dollars out of those transactions.
+On an all-in basis, it's a modest impact today.
+But proportion of sales that are pure software continues to expand.
+And I think you'll continue to see it expand over the next year.
+So indeed, it may be a headwind for the topline, but the strategy here is not primarily about the topline, it's about driving growth across margin dollars and then of course ultimately, from that perspective, the demand trends and the competitive position this new VOS platform has put us in is looking increasingly positive.
+Let me give you a qualified yes.
+I don't want to suggest that we think that we've not been price competitive up until now.
+But indeed, going forward, some of our competitors are engaged in software, others aren't.
+And with the market by and large, particularly the Tier I customers pushing hard towards data center where they've got a real volume purchasing power over off-the-shelf server technology, et cetera, there's an even more compelling commercial offering that we can put in front of them.
+And of course, our story and our value proposition isn't just about the price or the value of the software itself, but it's the broader total cost of ownership.
+And that is where particularity the Tier Is are out in front, really realizing the significant really realizing the significant operating efficiency advantages of moving to a data center kind of infrastructure approach.
+(Inaudible)
+So our answer is yes, <UNK>.
+All right.
+Thanks very much.
+It's doing actually relatively well.
+As you know, we don't break out explicitly.
+But I'll tell you actually, our broadcast and media customers are not involved in much M&A right now.
+And so we haven't had that headwind for our production and playout products.
+And within our video revenue, actually the production and playout, and more generally the business that we're doing with the content and media players is relatively the healthiest and the strongest.
+It's the products that we sell the large service providers that have been most impacted by slowdowns associated with M&A.
+And that, I think, makes sense.
+Yes, well, tricky question, <UNK>.
+Look, we're all in on the next generation of cable infrastructure.
+Our view now, and our view actually in 2013 is that future is really all about DOCSIS.
+And frankly, it's no longer analog.
+It's all about IP.
+So at the risk of getting too much into the detail, we're very interested in the future of the cable network vis-a-vis delivering IP packets to people's homes and, indeed, deep into the network.
+But we're less interested in what I would call legacy analog transmission.
+That's our strategic orientation.
+It's why we did what we did, both divesting one business and really doubling down in terms of investing in this new CCAP platform that you know that we're working with.
+And of course as I'm sure you know being kind of an expert in this area, <UNK>, the cable operators are increasingly looking at DOCSIS not only centralized, but new distributed architectures.
+And here, indeed, I think that this Company has unique know-how, expertise, customer relationships, et cetera, to be successful above and beyond technology.
+We're certainly going to press all of those advantages, and I think increasingly as part of our winning formula.
+Might we down the road look for opportunities to further strengthen our hand.
+Indeed, maybe.
+That being said, we think we've put ourselves in a pretty good position as it is to take good advantage of where the cable operators are going with their next-generation IP networks.
+I don't know that we're different from any one particular competitor, <UNK>.
+In terms of the slowdown, I think it's worth pointing out that we're not in CPE.
+As you know, one of our large customers announced today, and the biggest step-up in spending was around CPE equipment.
+Will we have reasonable scale.
+The truth is we participate in a couple relatively narrow, specific areas.
+And those are areas where we think we continue to lead.
+But they're also areas where, for one reason or another, we think we've seen a spending slowdown.
+I would hasten to add that in our case, we're driving across our portfolio a couple of very transformational product transitions.
+In video, we're moving to a virtualized infrastructure.
+And around Cable Edge, we're pushing on something that has really captured the imagination of our large customers.
+There's no doubt that that's also part of the thought process and the calculus of how our customers are thinking about spend and those categories in general and about doing business with us.
+A great example is what we're doing in DOCSIS, focusing just on 3.1 instead of 3.0.
+And we announced a year ago our decision, we were informed by our customers' input and feedback to drive straight for 3.1.
+And so that's another example beyond CPE where we see cable customers continuing to invest in 3.0 platforms, no doubt about it.
+We've made the bet, for better or for worse, to be fast as possible to market with two-way 3.1.
+And as I said earlier, we'll be demonstrating that in customer and industry labs this quarter and rolling that out to the field early next year.
+We think that's on pace with, if not ahead of the rest of the market.
+So strategic decisions as well and cadence of product releases, I would also suggest you consider.
+You're welcome.
+Thank you.
+Well, I want to be clear.
+I mean, <UNK> here -- and you can complement it -- well, <UNK>'s departure is a loss for the Company.
+That's for sure.
+And this is not a change that the Company precipitated.
+That being said, we're thrilled to have <UNK> here.
+He'll just step right in.
+As you know, he served on our Board and knows the Company well.
+And while <UNK>, your departure will be a loss, I think we'll largely be able to proceed without really missing a beat.
+And frankly, we'll benefit from the additional and new, fresh perspective of <UNK>.
+So in the context of a business with a lot of opportunities, but also admittedly headwinds and some challenges, I think a fresh set of eyes, a fresh approach is a positive thing, and one that I hope is, in total, welcomed by our stakeholders.
+Yes.
+Well, we did feel as though we're muscling through.
+And candidly, while I think we've executed fairly well in terms of the way we've gone to market, look, in everything we do, there's room for improvement.
+And candidly, there's certainly room for improvement in our forecasting.
+That being said, particularly when you're talking about M&A and a lot of moving parts with our customers, even they themselves don't have great crystal balls in terms of what's coming next.
+So we're not so focused on beating ourselves up.
+But we are focused on continuing asking ourselves how we can do better.
+And that's what we're trying to do across the board, in sales, in engineering, and in every function.
+And you can continue to expect us to constantly look for ways to improve the way we're running and driving the business.
+Jeff, let me just add a couple of points.
+This is <UNK>.
+Number one, as indicated, I was on the Board for eight years, and I worked closely with <UNK> and her team as Chairman of the Audit Committee.
+So I can tell you there's no issues from an accounting or financial standpoint that shareholders should be worried about.
+The second thing is that if you look at my experience and background, I've been around the Valley for a number of years now as a CFO of a number of public companies and on the boards of a number of public companies.
+And I wouldn't take the risk of damaging my reputation or my position if I didn't believe in the Company's strategic direction and operating plan, and I did not believe in the management team here.
+So I think the Company has a good path forward, recognizing that we have a bumpy transition that <UNK> has highlighted, I think we have a strong management team.
+And I believe with my background and experience that I'm going to be able to help <UNK> and the team so that <UNK> can spend as much or more time with customer-facing activities and making sure that the transition continues so that we can hit the inflection point hopefully next year with an upward trend.
+Well, thank you very much, Jeff.
+And we appreciate the candid question.
+Okay, well thanks very much.
+It was -- I think we just hit on really the key points.
+From our perspective as a combined management team and a company, we're driving clear technology leadership in a challenging spending environment, but we're confident about our long- to mid-term strategic direction.
+In our video business, our compression and delivery technologies, are clearly being valued and prized by a growing number of service provider and media companies.
+And we see the technologies gaining traction and strategic importance to the market at large.
+In the Cable Edge segment we're executing and we're increasingly well positioned to meaningfully penetrate this much larger CCAP market opportunity that's in front of us.
+Our entire global staff is focused.
+We're excited about what we're doing.
+We've got strategic relationships that are growing with industry-leading service provider and media customers.
+And the gross margin profile of our business is also steadily improving.
+And finally, as we've just discussed, we've got a leadership team that's truly committed to diving our next phase of growth, profitability, and shareholder value creation.
+So I want to thank everybody for joining us today, and let you know that we very much appreciate your support and we look forward to keeping you updated on our progress.
+Good day.

@@ -1,0 +1,157 @@
+Thank you, and welcome to ScanSource's earnings conference call for the quarter ended December 31, 2017.
+With me today are Mike <UNK>, our CEO; and Gerry <UNK>, our CFO.
+We want to welcome Matt Dean, our new General Counsel, who is also joining us on the call.
+We will review our operating results for the quarter and then take your questions.
+We've changed our supplemental financial information this quarter and provided a CFO commentary instead of presentation slides to accompany our comments and webcast.
+The CFO commentary is posted in the Investor Relations section of our website.
+Certain statements made on this call, including our expectations for sales and earnings for our third quarter 2018 will be forward looking statements.
+These statements are subject to risks factors identified in the earnings release that we put out today and in ScanSource's Form 10-K for the year ended June 30, 2017, as filed with the SEC.
+Any forward-looking statements represent our views only as of today and should not be relied upon as representing our views as of any subsequent date.
+ScanSource disclaims any duty to update any forward-looking statements to reflect actual results or changes in expectations, except as required by law.
+We will be discussing both GAAP and non-GAAP results during our call and have provided reconciliations between these amounts in the CFO commentary and in our press release.
+These reconciliations can also be found on our website and have been filed with our Form 8-K.
+Mike <UNK> will now begin our discussion with an overview of our results.
+Thanks, <UNK>, and thank you for joining us today.
+We reported outstanding results for our second quarter highlighted by record quarterly net sales, 10% organic sales growth and higher profitability.
+Both net sales and non-GAAP EPS exceeded the high end of our forecast range, and our quarterly net sales surpassed $1 billion for the first time.
+Our net sales for the quarter increased 14% year-over-year, driven by strength in our Worldwide Barcode Security and Networking segment, including higher big deals in North America from customers in our federal business and the areas of mobile computing, POS systems and physical security.
+The higher big deals include large federal deals that closed during the quarter that we originally expected to close in the September quarter.
+Our International business also contributed strong sales growth, up 17% year-over-year, driven by excellent results from our point-of-sale and barcode customers in Europe and in our Network1 customers winning new business in cybersecurity and networking solutions in Brazil.
+In addition to our impressive top line growth, our non-GAAP operating margin increased to 3.4%.
+We continue to make excellent progress on our 2018 growth initiatives.
+Momentum in mobile computing solutions in all of our geographies continued, with outstanding growth and strong customer demand.
+As an example, as part of a multiyear rollout, we helped a customer deploy over 2,000 rugged mobile devices to a national retail chain for a solution that enables more accurate inventory tracking and management processes.
+Similarly, we had another strong quarter of double-digit growth in video surveillance solutions.
+Our value-added model includes developing solutions and understanding how to help our customers grow their business.
+A recent example is an existing customer in our North American point-of-sale and barcode business who is in the middle of deploying a $20 million video surveillance solution for a major national retailer.
+Historically, our customer only provided the mobile computing and scanning products to this end-user retail customer.
+With the help and expertise of our networking and security team, these customers had success in selling a more comprehensive solution that included a multiyear video surveillance solution.
+This multi-vendor multi-business unit retail solution was designed and delivered by our experts working with our customers, and it represents net new growth for all of us in the channel.
+POS Portal's growth is driven by retail and hospitality solutions that include payment devices, software and services.
+This business has seen significant new opportunities for growth with customers due to the value-added services we have developed.
+Our team provides a variety of fee-based services that include device configuration and design, quality assurance of the solution and sales expertise to assist our customer with driving profitable revenue at the end of the day.
+This quarter, we worked with a customer focused primarily on selling payment solutions and successfully deployed 1,100 new payment devices to a pool supply company with 300-plus stores.
+As part of our communications business growth plan, we have on-boarded over 50 new customers to 2-tier distribution.
+In moving their business to ScanSource, these customers will benefit from best-in-class configuration and quote tools and advice from our solution teams on how to better deliver additional value-added fee-based services.
+Another growth initiative, our Intelisys sales agent channel, had another record quarter, with 22% year-over-year sales growth and an increase in percentage of new deals driven from our world-class roster of cable and cloud solutions.
+In the month of December, our carrier and cloud business reached a new industry milestone with supplier billing surpassing $1 billion on an annualized basis.
+Contributing to that success were our platinum level partners that achieve $1 million in monthly recurring revenue.
+During the last year, we added 7 new platinum partners.
+We are helping agents and VARs build their cloud and carrier services practices through programs and educational offerings such as our Cloud Services University, Advanced Commissions Programs and opportunities for VARs to partner with the most successful and experienced agents.
+In November, we held a successful global partner conference in Greenville, South Carolina, where our headquarters is, focused on growth and solutions for our customers.
+Over 1,400 customers from 25 countries attended, including our Intelisys agents and POS Portal ISOs.
+At our conference, we had the opportunity to survey customers for more insight into developing the right solutions and tools to help our customers grow their business.
+With that, I'll turn the call over to Gerry to discuss our financial results in more detail and our outlook for next quarter.
+Thank you, Mike.
+For the quarter, we delivered both strong sales and non-GAAP operating income and EPS growth.
+Net sales increased 14% year-over-year, while our non-GAAP operating income grew even faster, up 18%.
+Both our net sales of $1.03 billion and our non-GAAP EPS of $0.90, exceeded the high end of our forecast range.
+Our second quarter results reflect a lower tax rate from U.S. tax reform and our non-GAAP EPS includes a 7% -- sorry, $0.07 per share benefit from lower tax rates.
+Our GAAP operating income just decreased 4% year-over-year from increased expense for the change in fair value of contingent consideration and higher intangible amortization.
+Second quarter GAAP diluted EPS of $0.31 was below our forecasted range due to a onetime $6.7 million tax reform charge in the December quarter, which had a $0.26 unfavorable impact on GAAP diluted EPS.
+Consolidated net sales increased 14% to over $1 billion.
+The dollar impact on sales due to foreign currency translation was positive $14 million and the POS Portal acquisition added $20 million to net sales.
+Organic net sales increased 10% year-over-year, driven by strength in the Worldwide Barcoding, Networking and Security segment, including higher big deals in North America.
+Gross profit dollars increased 15% year-over-year from higher sales volumes and the addition of POS Portal.
+Our second quarter 2018 gross profit margin was 10.9%.
+Our gross margin declined from the previous quarter's gross margin of 11.5% due to a higher mix of big deals, which typically have lower margins.
+The gross margin was up slightly from the prior year period from the addition of our higher-margin POS Portal acquisition.
+SG&A expenses increased $7.9 million from the prior year quarter to $75 million for the second quarter of 2018.
+This increase reflects the addition of POS Portal and higher employee costs, including accelerated investment in our recurring revenue business to support our opportunities for growth.
+Our second quarter 2018 non-GAAP operating income was $34.7 million or 3.4% of net sales compared to $29.6 million or 3.3% of sales in the prior year quarter.
+We have a $97 million contingent consideration on our December 31, 2017 balance sheet, reflecting the present value of expected future earn-out payments for acquisitions.
+For the second quarter of 2018, we recorded expense for the increase of fair value of contingent consideration of $6.9 million.
+For our third quarter fiscal year 2018 forecast, we estimate the change in fair value of contingent consideration to be an expense of approximately $3.4 million, principally related to the Intelisys acquisition.
+Our effective tax rate was 61% for the second quarter 2018, reflecting $6.7 million recognized for a onetime tax reform charges.
+These charges included the estimated impact of the transition tax on undistributed foreign profits, and the remeasurement of deferred tax assets and liabilities.
+Excluding these charges, the effective tax rate for the second quarter would have been 28%.
+For the third quarter fiscal year 2018 forecast, we are using a 30% effective tax rate, which reflects a blended rate for our fiscal year ending June 30.
+For fiscal year 2019, we currently estimate the effective tax rate to range between 25% to 26%.
+We expect minimal cash repatriation fee in the United States over the next year.
+We consider our current overseas cash balances to be operating cash used for working capital.
+We expect to use the savings from lower tax rates to accelerate investments to grow our organic business.
+It will give us greater flexibility as we execute our capital allocation plan, which includes organic growth, our first priority; strategic acquisitions, our second priority; and share repurchases as the third priority.
+Now shifting to the balance sheet.
+Cash from operations consumed $47 million this quarter, including higher accounts receivable from strong sales late in the quarter and the timing of accounts payable.
+We expect to generate operating cash flow during the remainder of fiscal year 2018 from operating income and lower working capital investment.
+Our inventory turns increased to 6.2x from 5.8x last quarter and 6x the previous year.
+DSO, excluding Intelisys came in at 60 days, which is in line with current trends.
+Our balance sheet remains very strong and continues to provide us with the ability to execute our capital allocation plan.
+At December 31, 2017, we had cash and cash equivalents of $35 million and debt of $361 million.
+Our net leverage totaled approximately 2.4x trailing 12 months adjusted EBITDA, and ROIC was 13.3% for the second quarter 2018.
+We repurchased no shares in the quarter and have approximately $100 million remaining under our share repurchase authorization.
+Now turning to our forecast.
+We expect net sales for the third quarter fiscal year 2018 to range from $860 million to $920 million, and GAAP diluted earnings per share to range from $0.44 per share to $0.50 per share and non-GAAP diluted earnings per share to range from $0.67 per share to $0.73 per share.
+The midpoint of our forecast range reflects organic sales growth of approximately 5%.
+The typical mix of sales in the March quarter normally brings a higher gross margin for the quarter, so our forecast assumes a gross margin that is a little over 11.5%.
+As I mentioned earlier, we're assuming a 30% effective tax rate for our third and fourth quarters of fiscal year 2018.
+For fiscal year 2019, when we'll have a full year impact of tax reform, we anticipate the tax range -- the tax rate to be in the range of 25% to 26%.
+I'll now turn the call back over to Mike for closing comments.
+Thanks, Gerry.
+For the quarter, we achieved strong organic sales growth and improved profitability.
+We are executing our strategic plan that includes growth initiatives for solution selling at higher margins.
+We're driving our business to sell total solutions with a deep understanding of our customers' needs.
+We're pleased with the momentum of our business and the progress we're making.
+So now, we'd like to open it up for questions.
+This is Gerry.
+I think, the answer to that is, yes.
+We have these 6 initiative that we've been focused on, and we expect those things to continue to generate those same sorts of sales.
+Well, I think, what we'd say is -- it's Mike.
+<UNK>, I think what we would say is that we're executing our plan and what that includes as we indicated and there's really sitting down and spending more time with our customers than we ever have in the past, understanding what they need from us.
+And I think, we're seeing that result in better execution by our team on meeting demand from customers, not necessarily from the market itself, but from our customers.
+So just like you survey VARs, we always have, but I would say our engagement with our customers, <UNK>, is different today than it was a year ago from understanding better.
+What it is they need, so they can sell, we'll work on a solution, which means what we used to sell you plus more.
+That's right.
+That's exactly it, <UNK>.
+That's not our view.
+We have not heard that from our customers from the marketplace.
+I certainly didn't understand why an investor would ask the question.
+And we believe that it's our job to maintain our margins in a competitive marketplace and we believe that that's not what will happen to our markets at this time.
+That is not our belief.
+<UNK>, this is Gerry.
+So we're forecasting, but that's still our goal, this mid-3.5, right.
+But the guidance for the third quarter is going to be down, right.
+The third quarter is our toughest quarter for us to forecast, but we also expect there will be a bit of a rebound in the fourth quarter.
+Yes.
+I think the answer -- the way I would answer that is, we've continued to invest ahead of the curve.
+And so in our prepared remarks, we talked a bit about investing certainly in our recurring revenue business.
+We've been investing in other places as well.
+And so I think that's part of why we're not quite where we wanted to be because we see there is opportunity for growth and we're trying to take advantage of that.
+Yes.
+We have never talked about those publicly.
+I mean, we certainly are very metric or very formulaic-driven company when it comes to share repurchases and comes to making tradeoffs between investments.
+And so it really is in that order, as we described on the call, that its organic growth and then potential acquisitions, and then share repurchases.
+So if we see there is more opportunity on one of those than the other, then we'll certainly head in that direction.
+Right.
+So we're expecting that we will be cash flow positive for the year.
+And what gives us the encouragement there is, if you look at our cash flow statement, we've got a fair amount of money tied up for the 6 months ended in accounts receivable and again we talked about that being timing related.
+We're also working on reducing our working capital investment, which obviously will generate some cash.
+So that's what encourages us.
+Yes, Chris, this is Mike.
+I'll take that one.
+I think the big opportunity still ahead of us is to accelerate the ability for a, let's call them, a traditional ScanSource channel partner VAR to adopt the idea of adding recurring revenue services and programs and offers from Intelisys, really strong list of carriers and cable companies and cloud companies.
+We announced a couple of times during this year that we were having these events, we call them Super 9s.
+And one of them was to specifically organize around a group of about 50 ScanSource VARs that had not been involved previously with Intelisys.
+So we held that event to really design and improve the concept for a program that would allow us to scale.
+So I would say, we've learned a lot especially in the last 12 months about, what we believe, it takes to identify the right kind of VAR company that is ready to add some of the services from Intelisys.
+And so we believe we understand that process and we need to scale it.
+Now with some of the, I guess, commentary that Gerry was referring to where we said, we were going to accelerate some of our investments in our recurring revenue business.
+So we've had to add additional channel managers, for example, in the field to make contact with these customers and give them more information about how to do this.
+And I think what we really see ahead of us is there is this big opportunity from the cloud to really connect VARs to our Intelisys offers, because one of the lesser understood aspects of the Intelisys offers is from the cloud perspective versus the traditional carriers, which sell wire and wireline opportunities.
+So I think, as our, for example, is our unified communication VARs need cloud solutions.
+Intelisys opportunity is staring right in the face.
+And I think, we expect to see that accelerate through rest of 2018 and into 2019.
+That's a long answer, but that's kind of where we are.
+Thanks.
+This is Mike.
+I'll try that one.
+I think in general, we don't have any significant constraints.
+One of the things that we benefited from over the years is having a balance sheet in a margin profile that allows us to take larger positions in inventory when we see it as an opportunity.
+And whenever we see pending or possible shortages, we believe with our strong relationships with our suppliers and vendors that we're in a better position than our competitors.
+So I would say there is no demand that we can't meet today because of supplier shortages.
+Yes this it Gerry.
+Yes, it is down slightly.
+We had a couple of things happen there that didn't go exactly the way we expected.
+So it is down slightly from that $110 million.
+Thanks for joining us today.
+We expect to hold our next conference call to discuss the March 31 quarterly results on Tuesday, May 8, 2018.

@@ -1,0 +1,178 @@
+Thank you very much, Dan
+So quarter-over-quarter, you’ll see that our total AUM increased 59.2 billion or 6.9% and that was driven by the acquisition of Source ETF, which added 26 billion, including approximately 18 billion of Source-managed AUM and 8 billion of externally managed AUM
+We also benefited from market gains of 15 billion
+We had long-term net inflows of 6.3 billion, positive FX translation of 6.7 billion and inflows into our money markets capability of 5.4 billion
+And these factors were somewhat offset by a small outflow from the QQQs of 0.2 billion
+Average AUM for the third quarter was 890.8 billion, up 4.9% versus the second quarter
+And our annualized long-term organic growth rate in Q3 came in at 3.4% compared to negative 0.3 in the second quarter
+Before turning to net revenue yield, I just wanted to highlight one quick update on a change this quarter and how our long-term inflows are being reported
+In previous periods, any dividends or capital gains that were reinvested in the funds were included in market gains and losses line item
+So beginning in the third quarter and for future periods, these flows will now be included within our long-term inflows to conform Invesco’s flow reporting with general industry practices
+As you also note from the footnote on Slide 20, the amount included in the long-term inflows related to this particular item was 1.1 billion
+So let’s now next turn to the net revenue yield analysis
+You’ll see that our net revenue yield came in at 43.9 basis points and our net revenue yield, excluding performance fees, was 41.9 basis points
+That was an increase of 0.1 basis points over the second quarter
+Now looking at what the causes were, we had sold one additional day in Q3 that added 0.4 basis points and we also saw the positive impact of FX and mix added 0.2 basis points
+So these positive factors are within somewhat offset by the dilutive impact of the Source ETF business, as we discussed in last quarter, which reduced our yield by 0.4 basis points
+And we also saw a decrease in other revenues which reduced the yield by 0.1 basis points
+So next on Slide 21 is our U.S
+GAAP presentation
+My comments today, however, are going to focus exclusively on the variances related to our non-GAAP presentation adjusted measures, which are found on Slide 22. Net revenues increased by 70.3 million or 7.8% quarter-over-quarter to 976.6 million, which included a positive FX rate impact of 13.4 million
+Within that net revenue number, you’ll see that our adjusted investment management fees decreased by 54 million or 5.3% to 1.08 billion, and that reflects our average – higher average AUM, an additional day during Q3 as well as incremental management fees from the acquisition of Source
+Foreign exchange increased our adjusted investment management fees by 16.2 million
+Adjusted service and distribution revenues increased by 6.3 million or 3%, reflecting higher average AUM in the quarter and FX increased our adjusted service and distribution revenues by 0.5 million
+Our adjusted performance fees came in at a much higher level, obviously, 43.3 million in Q3. And they were earned by a variety of investment capabilities, but most notably 37 million from Invesco’s mortgage recovery fund
+Our FX increased adjusted performance fees by 0.2 million in the quarter
+The adjusted other revenues in the third quarter were 16.7 million and that was a decrease of 0.6 million from the prior quarter
+FX impact on adjusted other revenues was 0.2 million positive
+And next, third-party distribution service and advisory expense which we net against gross revenues, that increased by 14.7 million or 4% and that’s consistent with increased revenues derived from the related retail AUM and the additional day in the quarter
+FX increased our adjusted third-party distribution service and advisory expenses by 3.7 million
+Now let’s move to expenses
+As you move down the slide, you’ll see that adjusted operating expenses at 579.2 million increased 29.4 million or 5.3% relative to Q2. FX increased our adjusted operating expenses by 7.3 million during the quarter
+The adjusted employee compensation came in at 383.9 million
+That was an increase of 23.3 million or 6.5%
+And this was driven by higher variable compensation, primarily related to performance fees and as well a 5.5 million non-cash charge related to the company’s UK defined-benefit plan
+FX increased adjusted employee compensation by 5 million
+The adjusted marketing expenses in Q3 increased slightly by 0.4 million, 1.3% up to 30.1 million in line with the guidance that we provided last quarter
+FX increased our adjusted marketing expense by 0.5 million
+The adjusted property, office and tech expenses came in at 93.7 million
+That was an increase of 5 million or 5.6% over the second quarter and this reflected increased depreciation cost on long-term technology projects that were recently brought into service
+FX increased the adjusted property, office and tech expenses by 0.9 million
+Next on to G&A, the adjusted G&A expense came in at 71.5 million
+That was an increase of 0.7 million or 1% up, in line with the guidance that we provided last quarter
+FX increased G&A by 0.9 million
+And then going on down the page, you’ll see that our adjusted non-operating income increased 1.5 million compared to Q2 and that was driven by increases in earnings from our real estate investments that was somewhat offset by lower earnings from our private equity investment
+And then moving to tax, the tax rate, effective tax rate on pre-tax adjusted net income in Q3 came in at 27.6%, a little bit higher than guidance
+We do believe going forward that our tax rate should drop to again roughly 27%
+That brings us to our adjusted EPS of $0.71 and adjusted net operating margin of 40.7%
+So let me just quickly touch on business optimization
+This is an ongoing multiyear kind of effort
+As you’ve heard, given the opportunity on a number of initiatives, including those around outsourcing or back office functions, we expect the optimization work to actually exceed our original target for run rate savings
+We’ve achieved the run rate savings in Q3 of 38 million and we expect to deliver an additional savings by the end of 2018 of a total run rate savings of about 65 million, which is up
+And then finally, because I know we’ll get questions, we’ll just address it
+Quarter-to-date, net flows through October roughly flat
+We do continue to see very strong net inflows from Europe as well as from Asia Pacific
+These were somewhat offset by outflows in the U.S
+on the institutional side, largely quant, as well as some sub-advised U.S
+retail early days, October we are obviously feeling very good about the flow picture
+Marty had mentioned the robust pipeline
+So again, we think the trend is going to continue
+And with that, I’ll turn it over to Marty
+In terms of quantifying, I think it’s a very much moving target in terms of what the impact is
+I think we’ve sort of indicated it was not material, maybe tens of millions kind of without negotiations really taking place around the pricing
+All that is sort of happening as we speak and therefore you’ll have a clear view as we sort of get into 2018. But I do think even as we get through 2018, it’s going to be a moving target because there is no expectation of setting sort of one price in the last – it’s locked in
+I think it’s going to be an evolving topic over time
+Good question, Bill
+So we certainly had indicated on the last call that the Guggenheim impact itself was probably going to add 10 percentage points to our incremental margin
+That’s a very positive thing to the original guidance that we provided, which was in that 40% to 50% range
+We’ve also benefited from stronger markets, which has been helpful
+Foreign exchange has generally been a positive impact as well
+The MiFID II quantification, as I mentioned, is a moving target
+And so at this point, I think we’d be hesitant to sort of give real numbers around that
+If we gave you the worst case, it would be probably a reasonable offset to some of the good things we were just talking about
+We’re hopeful that’s not going to be that case
+So our thought is that we’d be in a better position as we get into year-end and maybe the next call or the one after that to provide much more solid guidance around incremental margins
+But I’d say the overall trend to incremental margin has been more positive than negative for sure relative to that original guidance
+You’re talking about October, right?
+Okay, it’s a partial month
+So again, I wouldn’t read too much into and I was hesitant to even talk about it
+But I knew if I didn’t, people would misread it
+We’ve actually seen very good strength into Europe
+I think about 1.2 billion of flows just coming into EMEA on a long-term basis
+We’ve also seen very solid long-term flows into Asia Pac
+So again, where is it coming in Europe, it’s the same elements that have been flowing before well across a wide range Pan-European equity, corporate bond, GT<UNK>, all very, very helpful
+Institutional pipeline in Europe is the highest it’s been I think ever
+And so they’ve had really great success
+And so we think that is an accelerating positive thing
+Asia again had a little bit of a slow down as we mentioned earlier, but they seem to be sort of recovering from that into the third quarter
+in particular, we’re just a little bit lumpy
+So I talked about sub-advised
+So there was one sub-advised termination that was kind of lumpy as one sub-advised client went to index, as we’ve seen that happen a few times
+So that’s sort of episodic, not a trend, I would say
+And then quant, we’ve seen some outflow on quant in the U.S
+but that’s been offset by quant inflows elsewhere
+So again, I think it’s really just too soon a timeframe to really draw a conclusion about anything
+And so as I said, we’re pretty optimistic about the flow picture into Q4.
+<UNK>, I think you’re probably picking up something that we are seeing, which is certainly a continued interest in a fair amount of our equity
+If you’re talking about in the U.S
+, it’s probably going to be more on the PowerShares side than necessarily our value capability
+And then in Europe, absolutely the case and we’re also seeing that in Asia as well
+So I think the interest in equity seem a little bit stronger globally and perhaps most in terms of the active most strong outside the U.S
+And in terms of the U.S
+clients, I think it’s around the normal things we’ve seen in the past
+<UNK>eal estate would be a big continued draw
+We certainly see continued interest in some of our fixed income capabilities including stable value, multi-asset capabilities as well and then increasingly GT<UNK>-type offering has been of interest
+So it’s certainly a third – at least a minimum, a third of our pipeline is coming from the U.S
+and the rest from Europe and Asia
+Mike, you know how good I am at forecasting performance fees
+So yes, I think the performance has been quite good on the alternative side
+The idea that we may continue to see some good performance fees into 2018 is something we would certainly support and offer up
+In terms of the actual guidance and when they hit, very, very hard for us to really nail that down
+I think obviously this one very large performance fee coming from the mortgage recovery fund I’d say is a little bit unique and unusual and isn’t something that I would necessarily say is going to happen again with certainty into 2018. But real estate bank loans continue to offer performance fees, as does some of the private equity offerings that we have as well
+So I think the level of performance fees maybe ex what we’ve seen in this particular mortgage recovery is certainly something you should build into the thinking for next year
+And into Q4, again, I just don’t have a line of sight that I can offer with great certainty other than sort of – I think we said 5 million to 7 million is kind of the guidance
+And I know it’s not helpful, but that’s what I would offer again for Q4.
+Yes, we’ve seen GT<UNK> really grow much more rapidly outside the U.S
+right now
+Although I’d say on the institutional side it’s beginning to get rated and so we’re actually quite hopeful that we’re going to see growth maybe on the institutional side even faster than the retail side in the U.S
+The take on has been extremely robust, as you know, over the last year and plus
+We are in the midst of launching new product GTI, which is the income-oriented flavor of GT<UNK> in the UK and that’s a fair amount of marketing is going to be put behind that effort in Q4, and we’d expect to see some takeoff if the performance has been good
+Asia has really been the door that has opened much wider now in terms of using GT<UNK> and we’re seeing some big wins in places like Australia and China in terms of the use of GT<UNK>
+On the retail side, I think the story around GT<UNK> is still excellent, but it’s not probably as well known or understood as it is in the UK
+And I think generally, we’re seeing the product get through kind of the gatekeepers and get a better understanding of that, but it’s still been slow, which has generally been the case I’d say for alternative offerings in retail that we’ve seen sort of a slowdown of the take-on of the alternative retail product
+And so I think that’s somewhat consistent with an overall theme in the U.S
+as opposed to a GT<UNK>-specific story
+Dan, do you want me to – <UNK>, do you want me to handle the flow part and then you can talk a little bit on the other aspect?
+So in terms of flows, it’s been good, probably not off the charts good
+I think they contributed about 0.5 billion in the last two months, which is about a 12% organic growth rate
+I think there has been some degree of slowdown just as the integration has been going forward and the repositioning of the brand and so forth is being contemplated
+There are a number of new product launches that are in the pipeline, which I think will help really sort of reboot the growth and the efforts there
+So there’s a lot of work that’s being done right now to sort of improve the competitive positioning of the products and the lineup and really sort of accelerate the growth opportunity around Source
+And certainly, some of the synergies that we haven’t explicitly been talking about have taken place
+And so I think in terms of the profitability of the business, as we originally said it wasn’t really making money, is beginning to sort of all come into play in a positive way
+So Dan, I don’t know if you want to get a little more explicit about kind of some of the things that are happening around repositioning of the brand overall on a global basis
+Dan, thanks for asking that question
+Again, I think as we described related to the Guggenheim acquisition and similar to what we’ve done with respect to financing the Source acquisition, we’ve curtailed the buyback program as we are building up cash right now in order to largely pay for the acquisition through the use of our credit facility and also through spare cash
+So our thought is through the course of 2018, we’re going to curtail the buyback – continue to curtail the buyback, still being opportunistic if certain situations present themselves
+But largely, we want to make sure that our leverage ratios are going to be, by the end of 2018, in line with where they are pre-Guggenheim acquisition
+So I would say, generally, put in minimal, if any, in terms of buyback expectations through the course of 2018 until those leverage ratios get back in line
+So the last part of your question I didn’t quite get the full thing
+Let me get the first parts and then you can just clarify the last one
+So in terms of the guidance, I think we’re roughly in line with what we provided before
+The only sort of deviation in guidance this quarter relative to last quarter was with respect to compensation, which was really due to the some of the outsized performance fees
+So I think we originally said around 370, and so that’s roughly kind of where we would expect
+All the other elements are in line with what we prior guided, which again was, if you need it was, adjusted marketing was 36 to 38. We provided guidance on the adjusted property, office and tech of 92 to 94 and then G&A was in the range of 70 to 73. So all that is kind of roughly in line, barring some FX and other things, right, which obviously have a little bit of a inflation factor on those levels
+So that was kind of your first question
+Could you just make sure I cover the other two?
+So I think we had said the fee rate was going to – in the second half was going to be largely in line with the second quarter
+Obviously, it’s slightly off
+There was more money market and some other sort of passive lower fee product growth coming into play
+So I think sort of in line with current levels ex-performance fees is probably the right guidance for now
+Yes, exactly
+Chris, it’s actually quite benign
+The flow picture is not – we haven’t seen accelerated outflows at all
+Sales may have come down just a bit
+But overall, the levels of flows in that product, in those products are as good as they’ve ever been in terms of history
+So I think people understand the rationale
+Mark Barnett and his team have described their position and why they believe some of the holdings that they have are smart and are going to ultimately pan out
+And so they’ve been through periods of underperformance in the past and have gone through that with significant outperformance following it
+So I think people are being patient and not sort of reacting on a short-term basis
+In terms of the trend, I don’t think we’re seeing a significant trend one way or the other in terms of use of performance fees
+Certainly on the retail side, not
+I think on the institutional side as we continue to build out our capabilities, it’s probably growing in line with our overall institutional business
+So we may see more performance fees just generally as we become more institutionally-oriented
+But I don’t think it’s something that has a philosophy where sort of saying let’s deliver more performance
+The one thing I would just add too, that really makes it even more unique is the fact that we’ve got this incredibly robust offerings around models and solutions that we can bring alongside it
+So it’s just not a technology solution that is being offered, it’s actually – some of the most valuable part is the ability to tailor models to the clients’ needs at a very attractive price
+And so I think when you add all those things in, in terms of the open architecture, the fact that we’re integrating this into people’s systems, and it’s not a black box, and we’ve got the models actually positions it almost in a way that is – does make it stand out as a unique offering
+So I think, again, in terms of the guidance on the ultimate need for investment, I think we’ve already built-in into that guidance our need for investment
+More savings helps offset some of the – or boosts the incremental margins
+So that’s a positive thing in terms of the things that help improve our incremental margin outlook
+We still think we’re in a situation as a firm and the industry that there’s so much change going on that the need and the criticality of investing behind some of these trends are key for success in the future
+But again, there’s only so much you can actually invest in at once and do it well
+So that’s kind of some context to thinking why generally the things that we’re talking about are helpful for our incremental margin story
+In terms of – I’m sorry, the other question that you had was --
+…see the savings
+Yes, so because of the – a large part of it has to do with outsourcing really in looking at moving expenses out of compensation and then moving them into that property, office, tech, which is where we have all the third-party payments for outsourced services
+And so it would really be a movement into expenses, into that category off of comp
+Thank you everybody

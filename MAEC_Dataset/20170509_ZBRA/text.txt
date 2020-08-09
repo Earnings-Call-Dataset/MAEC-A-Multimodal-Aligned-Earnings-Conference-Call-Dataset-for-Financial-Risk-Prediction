@@ -1,0 +1,292 @@
+Good morning, and thank you for joining us.
+Today's conference call and slide presentation will include prepared remarks from <UNK> <UNK>, our Chief Executive Officer; and <UNK> <UNK>, our Chief Financial Officer.
+<UNK> will begin by discussing our first quarter highlights and key drivers of the results.
+<UNK> will then provide more detail on the financials and discuss our outlook for 2017.
+<UNK> will conclude with discussion of recent progress made on Zebra strategic priorities.
+Following the prepared remarks, we will take your questions.
+Joe <UNK>, our Senior Vice President of Global Sales, is traveling internationally and has joined us by phone.
+This presentation is being simulcast on our website at investors.
+zebra.com, and will be archived there for at least 1 year.
+Before we begin, I need to inform you that certain statements made on this call include forward-looking statements, which are subject to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995.
+These statements reflect the company's current expectations concerning future events and are subject to a number of factors and uncertainties that could cause actual results to differ materially.
+A detailed discussion of these factors and uncertainties is contained in the company's filings with the Securities and Exchange Commission.
+During this call, we will make reference to non-GAAP financial measures as we describe business performance.
+You can find reconciliations of our GAAP to non-GAAP results in today's earnings press release and at the end of this slide presentation.
+Also, as a reminder, our reported financial results include the divested wireless LAN business through October 2016.
+In this presentation, our references to year-over-year growth are on a constant currency basis and exclude wireless LAN sales from the first quarter 2016 results.
+Now I'll turn the call over to <UNK>.
+Thank you, Mike.
+Good morning, everyone, and thank you for joining us.
+As you see on Slide 4, we are off to a solid start in 2017.
+Our team executed well and delivered strong first quarter results, including: adjusted net sales of $866 million, with organic growth of 7% that exceeded our guidance range; gross margin expansion of 20 basis points; adjusted EBITDA margin of 17.2%, reflecting an 80 basis point improvement over the prior year; non-GAAP EPS of $1.37, a 29% increase over Q1 of last year; and more than $100 million of free cash flow driven by improved profitability and prudent cash management.
+We achieved solid sales results with double-digit growth in EMEA and Latin America and 5% growth in North America, driven by a strong demand across our retail and e-commerce customer base.
+Growth was diversified across our major lines of business, with especially strong results in mobile computing and data capture.
+This was led by our industry-leading portfolio of solutions and the strong reception from large enterprises for our newest offerings.
+In the quarter, we extended our market leadership and delivered innovation to our customers.
+Our solutions are essential to our customers to execute on their strategies.
+We've also witnessed an improved environment compared to the very challenging first quarter 2016.
+Our stronger-than-expected Q1 provides us the confidence to increase our full year sales outlook.
+With that, let me now turn the call over to <UNK> to review our financial results in greater detail and discuss our 2017 outlook.
+Thank you, <UNK>.
+Before we get started, I would like to remind you that all references to year-over-year sales growth are on a constant currency basis and exclude wireless LAN sales from the first quarter 2016 results.
+Let us begin with a walk through the P&L.
+As you can see on Slide 5, adjusted net sales for the first quarter were $866 million, up 7%.
+Our first quarter sales performance was driven by strength across our product portfolio, especially mobile computing and data capture, resulting in growth across all regions.
+Enterprise segment sales of $544 million increased approximately 9%.
+Pre-transaction Zebra sales were $322 million, up approximately 3%.
+Printing and supplies were higher as were sales in our location solutions business.
+Sales of services increased slightly from last year.
+Turning to our regions.
+Sales growth in North America was up 5%, driven by strength in mobile computing and data capture.
+We continue to perform well in retail and e-commerce, as the industry continues to transform to meet evolving consumer purchasing preferences.
+As <UNK> highlighted, EMEA sales increased 11% from a year ago, driven by double-digit growth in data capture, printing and mobile computing.
+We saw strength across most of the continent in an improving macro environment.
+Latin America sales increased 16%, as we cycled weak first quarter 2016 sales.
+We saw especially strong sales in printing and supplies across the region.
+Sales in Asia Pacific were up 1%, as we are cycling strong results in the first half of 2016.
+Consolidated adjusted gross margin of 46.4% was 20 basis point higher than the prior year period, primarily due to our product cost-reduction initiatives, partially offset by slightly lower services margin.
+Adjusted operating expenses in Q1 were flat compared to last year.
+The impact of the sale of the wireless LAN business was primarily offset by higher incentive compensation expense associated with our improved operating performance.
+First quarter 2017 adjusted EBITDA margin was 17.2%, an 80 basis point increase from the prior year period.
+This was driven by higher sales and improved gross margin.
+Q1 EBITDA margin was negatively impacted by approximately 30 basis points due to foreign currency impacts.
+Non-GAAP earnings per diluted share increased to $1.37 in the first quarter, an increase of $0.31 or 29% from the prior year period.
+Integration expenses of $27 million in Q1 declined by $9 million from the prior year period.
+With the successful launch of our fully integrated ERP, we expect spending to be sequentially lower in the second quarter.
+We expect minimum integration expense in the second half of 2017, as we complete the first steps to exiting all remaining Motorola Solutions transition service agreements.
+Turning now to the balance sheet and cash flow highlights on Slide 6.
+We ended the first quarter with $180 million in cash, which includes $99 million held outside the U.S. Zebra has strong liquidity and no borrowings on our $250 million revolving credit facility.
+As of the end of the first quarter, we had $2.6 billion of long-term debt on the balance sheet, of which approximately 2/3 is fixed rate, including nearly $700 million of floating to fixed LIBOR swaps against our term loan.
+Strong Q1 cash flow of $104 million enabled us to pay down $80 million of principal on our term loan in the quarter.
+Free cash flow increased by $27 million or 35% compared to the first quarter of last year, primarily due to increased profitability, solid working capital management and lower capital expenditures.
+With respect to foreign exchange, as a reminder, we have a [hauling] 4-quarter hedging program in place to mitigate the impact of euro to U.S. dollar exchange rate volatility.
+Approximately 1 quarter of our total company sales are denominated in euros and it is the only currency where we have much exposure to cash flow and profitability.
+Slide 7 shows our past 2 financial deleveragings.
+Our top priority for cash flow and excess cash balances is to aggressively pay down acquisition debt.
+We expect to exceed our original goal of $650 million of debt paydown for the 2016 and 2017, 2-year period.
+Our net debt to adjusted EBITDA ratio dropped below 4x as of the end of the first quarter, which is down from more than 5x as of the close of the Enterprise acquisition in late 2014.
+Our ultimate goal is a leverage ratio of approximately 3x.
+On Slide 8, you will see that for the second quarter of 2017, we expect the change in adjusted net sales to be between negative 2% and positive 1% on a nominal basis.
+Organic sales growth is expected to be between 3% and 6%, which excludes the adverse impact of 4 percentage point from wireless LAN as well as the adverse impact of 1 percentage point from changes in foreign currency rate.
+We expect organic sales growth to moderate through the balance of 2017, considering the more challenging year-over-year comparisons and the lumpy nature of our business.
+Second quarter 2017 adjusted EBITDA margin is expected to improve from last year and to be in the range of 17% to 18%.
+This rate assumes flat to slightly higher gross margin as compared to the prior year period.
+We expect to drive adjusted operating expenses, as a percentage of sales, lower than both Q1 and the prior year period.
+Non-GAAP diluted EPS is expected to be in the range of $1.35 to $1.55.
+Given our strong first quarter sales and backlog entering our second quarter, we are raising our full year sales growth outlook.
+We now expect low- to mid-single-digit organic sales growth.
+This outlook excludes the adverse impact of 3 percentage points from wireless LAN as well as the adverse impact of 1 percentage point from changes in foreign currency rates.
+Full year 2017 adjusted EBITDA margin is expected to be in the range of 18% to 19%, which is higher than 2016 and assume a 40 basis point adverse impact from foreign currency changes.
+Our full year outlook assumes slightly higher gross margin rates compared to the prior year period due to cost reductions and productivity improvements.
+We also expect to drive lower adjusted operating expenses due to productivity improvements as we complete the integration of the company.
+For 2017, we expect debt paydown to exceed free cash flow.
+Our goal is to pay down at least $300 million of debt, which is supported by higher EBITDA, lower integration expenses, lower interest cost, and reduced cash on hand required to operate the business.
+Other full year 2017 modeling assumptions shown on Slide 8 include: interest expense of approximately $165 million to $170 million, which includes noncash amortization of approximately $20 million to $22 million; stock-based compensation expense of $30 million to $35 million; non-GAAP tax rate in the low- to mid-20% range; capital expenditure of approximately 2% of revenue; and depreciation and amortization expenses of $260 million to $265 million.
+With that, I will turn the call back to <UNK>.
+Thank you, <UNK>.
+We are focused on several areas to build upon our leading positions globally and to drive profitable growth and cash flow.
+First, we are leveraging our scale, innovation and relationships with customers and partners to extend our leadership with the most innovative portfolio of enterprise solutions and sensing technologies in the market.
+It is the 1-year anniversary of our redesigned channel partner program, which was the most comprehensive change to our channel strategy in the company history.
+In April, we began hosting our annual meetings with partners around the globe, and feedback has been extremely positive.
+The new program has added thousands of value-added resellers and has successfully provided better incentives for partners to expand and grow their business with Zebra.
+Second, we are advancing our vision of Enterprise Asset Intelligence, or EAI, by leveraging Zebra's deep knowledge of the markets we serve and capitalizing on key technology trends.
+I will elaborate on our progress in this important strategic area in a moment.
+Third, we are executing on the final phase of the Enterprise integration.
+Last week, we went live with our global ERP and IT ecosystem.
+The final key milestone of our integration is to have exited all remaining third-party service agreements by the end of the third quarter.
+As we ramp up the integration, we have the opportunity to further increase productivity across the Enterprise and improve the experience for our partners and customers.
+Our fourth area of focus is to further enhance Zebra's financial strength by increasing profitability, improving cash flow and optimizing our capital structure.
+As we continue to drive profitable sales growth and improve productivity, we will enhance cash flow generation to aggressively pay down debt to achieve our target capital structure.
+Now turning to Slide 10.
+Zebra's resources and deep market expertise make us uniquely positioned to capitalize on key megatrends in mobility, cloud computing and the proliferation of smart devices.
+To address the opportunities these trends create, we have developed an operational framework that enables more intelligent enterprises.
+It starts with solutions that sense information from all enterprise assets, such as inventory in a warehouse, medical equipment in a hospital and customers in a retail store.
+Data from these assets, including status, location, utilization or preferences is then analyzed to provide actionable insights in real-time.
+This EAI framework includes Zebra's hardware, software, services and analytics, which connects customers' physical assets, systems and people.
+This provides a digital view of the entire enterprise, which enables visibility into their business operations and workflows, resulting in smarter business decisions.
+Our offerings resonate with our customers as we collaborate and innovate with them on a daily basis.
+Slide 11 highlights how we serve our key industry verticals.
+Major trends in each vertical are driving opportunities for Zebra.
+Examples include: a higher proportion of retail sales executed online or through multiple channels; increased shipping demands for transportation providers; more hospitals running on real-time health care systems; and increased mobility in the manufacturing environment.
+Zebra's solutions assist Enterprise customers across multiple industries to gain critical insights into their operations, comply with increasing regulations, enhance the customer experience and empower their mobile workforce with actionable information.
+At the ProMat trade show in April, we announced new offerings in the transportation and logistics and manufacturing sector that further differentiate us as the leader in Enterprise Asset Intelligence.
+We featured our SmartPack Trailer software analytics solution, which enables fleet managers to maximize capacity utilization.
+We also featured our network connect solution for manufacturing, which seamlessly connects printers and scanners on the plant floor to the Enterprise network, without the complexity, failure points and workarounds common in today's environment.
+Zebra is a clear beneficiary of the transformation taking place in the retail sector.
+Both traditional brick-and-mortar and e-commerce retailers are committed to investing in their capabilities to enhance the customer experience.
+E-commerce fulfillment and omni-channel offerings are operationally intensive, and we provide retailers the insight they need to meet increasing customer expectations.
+Our understanding of the complexity of these workflows makes our solutions essential to our customers' operations.
+We are winning in retail with our compelling offerings.
+As an example, we recently won a large competitive bid to provide a fully managed mobile computing solution for a leading pharmacy chain.
+The solution includes our new TC51 mobile computers and ET50 tablets as well as providing support and managed services.
+Our mobile devices layer enterprise-rich features on top of the Android platform.
+We are uniquely positioned to provide security updates and patches for the full life cycle of the devices, reducing the total cost of ownership below other competing mobile device offerings.
+Additionally, we will deploy our Asset Visibility Services offering, which provides the customers with insight into device health, utilization and availability, resulting in increased productivity and operational efficiency.
+In the health care sector, Zebra is capitalizing on opportunities to help enterprises advance the quality of care.
+Patient identification and timely treatment are critical success factors.
+Providers require smart noninvasive technology that tracks the patient journey, including positive patient ID, laboratory specimen tracking and medication administration.
+Additionally, mobile communication with voice and secure texting, along with patient alert, will contribute to improved levels of care.
+In closing, we've had a strong start to the year, thanks to excellent execution by the Zebra team and their tremendous support of our partners and customers.
+Our strategy is working and our new products and solutions are being well received in the marketplace.
+Overall, we are confident with our positioning in the market and we are energized by the opportunities ahead to drive value for our customers, partners and shareholders.
+With that, I will hand the call over to Mike.
+Thanks, <UNK>.
+We'll now open the call to Q&<UNK>
+(Operator Instructions)
+Thanks, Jim.
+Retail has been a strong vertical for Zebra for a long time, right.
+And it clearly came off very well in the first quarter.
+We are capitalizing on some of the shifts that are going on in the retail today, but with the movements from traditional, let's say, brick-and-mortar towards e-commerce and omni-channel spending.
+And I'd say all our brick-and-mortar customers and e-tailers too, they are investing in our type of technologies today.
+So while they might be investing less in new stores or closing stores, they are prioritizing more IT-type of capabilities in their CapEx budgets.
+We have also been very fortunate here now of being able to develop a very strong product portfolio that is resonating with our retail customers.
+Android has been well accepted by retail and is going very well there and our Enterprise Asset Intelligence vision is also resonating very well, as we are coming up with more and more new types of solutions that help to drive greater visibility into their operations, such as with SmartLens.
+Then moving on to some of your follow-on verticals here in health care, that's been our fastest-growing vertical over the past several years.
+We see strong growth drivers for continued good performance around both the ability to help improve the quality of care, but also the efficiency of care with the cost of care.
+The electronic medical health records is really the catalyst for this to happen.
+But we also are starting to see better growth in health care from outside of the U.S. It started off really being a, say, a North America vertical, but now it's becoming more prevalent to more spending in Europe, Middle East and Asia, also.
+And we have some new products coming out here in Q2, like the TC51 for health care, that we expect to drive greater growth also.
+And lastly, I think you asked about our transportation logistics vertical.
+Again, that's -- it's been a strong vertical for us.
+It's been benefiting from some good secular trends, particularly, the shift to e-commerce.
+So you have so many more packages that need to be delivered to enterprises and to people's homes and we've gained a good amount of share in the T&L space over the last couple of years.
+And again, we have expanded our type of solutions to the ones I have mentioned on the prepared remarks like the SmartPack at the ProMat show.
+Also, we have the Preload Smart Scan solutions, but both of those are great Enterprise Asset Intelligence solutions that's been resonating very well with our customers.
+Yes.
+So I'll start with first the -- on the cross-selling side.
+Then I'll ask Joe <UNK> to also then participate in that and give some further details on what's going on.
+But yes, we've -- we put a lot of emphasis around the One Zebra across not just sales, but across the entire company and making sure that we get aligned and that we can prioritize the right things across the company.
+From a go-to-market perspective, we have invested a lot in cross-training our sales people and the systems engineers to ensure that they are as comfortable and as well-versed in all of our different types of solutions.
+We also have overlays that can provide specific, more deeper expertise in parts of our portfolio because it's obviously hard for anyone person to be an expert in the breadth of portfolio that we have.
+And I'd say that's been working very well.
+We've seen a lot of great wins that has been really a result of the One Zebra, where we've either been able to pull in printers into an account, which was strong -- had a strong position for our Enterprise business or vice versa.
+So that's been working well, but it's work-in-progress.
+We will continue to work hard on making sure that we get the entire sales team as well trained and focused on the entire portfolio, and that also goes to our partners.
+Joe, do you want to add a little bit to that.
+Yes, you touched on the all the high points.
+We had integrated the sales force relatively quickly as you might remember, already at the end of 2014, and we intensively trained the sales forces in cross-selling the full portfolio of products.
+We also, at the beginning of 2015, already introduced the compensation plan, which to this date rewards the sales people for cross-selling.
+And that has shown results in our big deals as well as in our revenue overall.
+We've also had an initiative underway across the company to integrate on a cultural level that a large percentage of our employees have already participated in, to bring the cultures of Motorola and Zebra together to a One Zebra culture.
+And the other piece I would highlight in the cross-selling is that, our -- as we transition towards more and more solutions such as the SmartLens offering that we mentioned, our professional services will play an increasingly important role in bringing solutions that span really across the portfolio and later value-added on top of the products that we bought together in the acquisition, to market through professional services that bring those solutions to life.
+So a broad array, really, of cross-selling activities.
+Yes, our printing business has performed very, very well for many years, I'd say.
+We had a good quarter in Q1 for both printing and our supplies business.
+The One Zebra message we had around how to leverage the full complement of all of our solutions, to pull in more printing, has been working well; it's been a success for us, I'd say.
+And I feel very good about the long-term outlook for our printing business.
+We have a very strong product road map that has some of new products coming out later this year that I would expect to have a meaningful impact in the market.
+We do see significant opportunities to expand our supplies business, which we think of as a somewhat underpenetrated vertical for us, or so our product space.
+And we're including Enterprise Asset Intelligence capabilities into our printers.
+So Link-OS is a great differentiator for us; it enables our printers to be good network citizens in our customers' networks.
+Profile manager is a capability we have which is unique to Zebra and very well valued.
+And we talked about on the prepared remarks the network connect solution, which enables us to connect into Rockwell Automation's IT systems very easily and makes it a lot easier for our customers to expand and reconfigure their businesses.
+So we feel very good about where the printing business is, and I think we expect to see good growth as we go through the year.
+So let me take your first question about restructuring.
+So we expect restructuring charges to decline significantly in Q2 and to be de minimis in the second half of the year.
+As we are finalizing the implementation of our ERP, we believe that cost will -- would be significantly managed down.
+In term of your second question for deferred revenue though, we are today, as <UNK> indicated, entering more and more into the Enterprise Asset Intelligence space, meaning that our revenue has multiple elements on it, services, managed services, and the deferred revenue was associated with those multiple elements we associate with our sales.
+Yes.
+So first, I would say, our mobile computing business had a very strong quarter, especially in North America and Europe, and driven in no small parts to large wins, more large project-based wins.
+We got a lot of interest in our new Android solutions like the TC51 mobile computing and the tablets.
+So -- And the Android migration generally is continuing to gain momentum for us.
+It's becoming a bigger part of our overall business.
+It's now about half of our total mobile computing sales and our market share is over 50% in Android compared to -- this is higher than what we have overall.
+We have a very close working relationship with Google, which enables us to work more on early insights into what's coming in future releases and impacts influence a little bit of what the road map will look like.
+And we have by far the broadest Android product portfolio with about 15 products in there.
+And in Q1 here, we launched a new service that we call Lifeguard, which basically enables us to extend security patches and security upgrades for all devices through the life cycle of those devices.
+That's something I think we are uniquely well positioned to be able to do as we have such a big installed base.
+But we should also say that Windows continues to be a very prominent operating system and we think of ourselves as being agnostic in kind of the world of operating systems.
+We want to provide the right device and the right operating system for our customers, and there's still a lot of Microsoft devices being shipped, and the kind of the total legacy installed base of Microsoft operating systems, it continues to be very large.
+So the future opportunity to upgrade that and refresh that is substantial.
+And then on the channel side, Android has -- initially took off from -- based on our larger deals into our direct customers.
+But as time has gone by, we do see more and more channel business for Android and the characteristics of those is very similar to the characteristics of similar deals for Microsoft.
+So I'd say, today, the migration or the growth of Android in the channel is developing along the lines of how we expected it to.
+So we're pleased for that also.
+So we're indeed, pleased with our gross margin performance.
+It has been increasing by about 40 basis points year-on-year.
+It's due to multiple factors: one, the strength of the product portfolio.
+As <UNK> indicated, we're now selling more and more solutions at the back of our Enterprise Asset Intelligence strategy.
+So strength of the portfolio would be first.
+Second is also the focus of the Enterprise on maximizing productivity.
+We have -- the DNA of the company is to improve cost management quarter-after-quarter and you see that happening in the P&L.
+And third, we pay special attention to run rate margin.
+Joe and his team are very careful about how we price our portfolio.
+And you see that also happening -- materializing in the gross margin performance.
+Yes.
+So as part of preparing for the ERP cutover, which happened at the end of April, we worked with our distribution partners to ensure that they were appropriately stocked before that outage.
+And that basically translated into us working with them to make sure that they've raised orders on us earlier, but not shipping.
+We designed these programs very carefully to have no impact or minimal impact on Q1.
+So the -- so we entered Q2 with more backlog in order so we could ship early in the first -- second quarter to cover the period of 10 days or so where we were -- when the ERP system was down.
+So -- but the intent was clearly to make sure that we minimized any impact on the first quarter.
+And if you look at the outlook for the second quarter, I think -- it seems like that we feel -- we feel we've been able to achieve that objective without distorting Q2 based on any of this.
+Nothing specific.
+I'm going to state the obvious, but as <UNK> indicated, our priority #1 is to reduce our debt burden.
+We want to achieve our objective of repaying $300 million of debt this year.
+We are on track for that.
+Managing for cash is a focus across the enterprise.
+We have a cross-functional team working on all the elements of cash flow management and you see that happening at the moment.
+I would say lower.
+So you should expect interest charge to decrease as we go through the year, as we reduce our debt burden.
+Yes, I wonder if you could talk about the performance of the manufacturing vertical in the quarter and if you're seeing any signs of pickup there.
+Yes, so manufacturing is a vertical we've been participating for a long time and was one of the real strengths for the original Zebra business.
+We are seeing visibility and mobility solutions being a driver for manufacturing.
+Some of the things we've been doing here to drive new innovative solutions, it will be around this Network Connect solution that we demonstrated at ProMat to get -- facilitate or make it as easy as possible for customers or enterprises to incorporate printing and scanning into their workflows and into their IT ecosystems.
+And we're also working hard to expand the route delivery business.
+That's a big part of our manufacturing, of actually working with manufacturers to get their products delivered to, if it could be restaurants or distribution centers and other things.
+So we see manufacturing to continue to be a good vertical for us, not as high growth maybe as health care, but is still a good growth business for us.
+And you talked about some expectations for a moderation of organic growth in the second half of the year.
+Is that just due to the prior comparisons or are you seeing any reduction of larger budgets in the pipeline.
+So the first quarter, I think we had a particularly, strong pipeline of large deals, to some degree, fueled by some of our new products like the TC51.
+So we wouldn't expect to be able to maintain that high level of that cadence for kind of large project business.
+So and then second half also has tougher compares.
+So we would expect that the growth rate in the second half will moderate a bit from the first half.
+And then, finally, I think you mentioned the expectations are for the gross margin to be, I think you said flat to slightly down year-over-year in the second quarter.
+Wondered why you are expecting that, that you would not see gross margin expansion year-over-year in the second quarter.
+Yes, I -- we believe that the margin for Q2 is expected to be slight to slightly higher.
+Yes, and again, a few reasons for that.
+One is we're working on productivity initiatives, as I mentioned earlier.
+And two, we have a very strong portfolio of products and solutions and that allows us to compete on variable, which is different than price.
+Yes.
+So I'll start and then I'll ask Joe <UNK> to add some comments at the end also.
+But yes, retail, we had a very strong portfolio of products for retail overall.
+We are very much focused on driving our One Zebra into retail too, and so it's not like we're looking to really just lead with one product.
+We want to make sure that we have our mobile computers, our scanners, our printers in with customers, and I think our ability to cross-sell and upsell has been improved over the last few years here.
+But some of the newer things that are having -- resonating or driving a lot of the larger deals, it tends to be the mobile computers, as -- so like the TC51 that we launched in Q4 of last year, that's used in a multiple different use cases.
+But omni-channel enablement is certainly one.
+As -- if you think of what has to happen within a retail facility in order for them to execute on an omni-channel strategy, they have to have much greater use of technology to be able to do those tasks.
+So that's -- will be one of the newer solutions that are having a lot of traction.
+But if you look into the future, I would highlight SmartLens, or SmartSense as we called it earlier but we renamed it SmartLens, as one that we think has a great opportunity, and certainly is resonating very well with our customers.
+We have a great pipeline of interested retailers who want to do pilots for that.
+But that's a solution that really helps to drive much greater visibility into inventory, tracking assets in the retail facility, both people, both customers and sales associates.
+So it can drive a great ROI.
+So that will be, I guess, my 2 cents, and Joe, you can add a little bit to that.
+Well, building on what you said, I think there's 3 areas in retail where both the business processes and the technology innovation are coming together.
+One is the front of the store, where we're enabling empowerment for the associates to interact more with customers.
+The second is the warehouse, where we're driving a lot of improved productivity.
+And the third is really the drive towards omni-channel fulfillment that we see in retail.
+And in all of those, you can see what <UNK> was talking about, the mobile computers and scanners and printers, the more traditional products are enabling each of those 3 processes and that's where also a lot of that Android migration we talked a lot about, that's where a lot of that is happening today.
+And then, in the future, all of the retailers are looking forward to deploying some of our new technologies.
+The RFID technology, which included SmartLens, is one of the future technologies.
+In the warehouse, it would be technologies like augmented reality that we're working on and bringing to market.
+So that would be, I think, a good way to overview where we're making an impact in retail.
+Yes, I'll start and have Joe add some comments also.
+But I'd say, across all our verticals we are seeing our ability to engage with executive conversations about the longer-term vision of where we're going and how our new types of solution can help our customers address some specific problems areas or business opportunities for them.
+Retail is a great example, where we meet with -- regularly meet with a number of CIOs and kind of the executive leadership teams of retailers to kind of brainstorm together about what their biggest business issues are and how we could help apply technology to solve some of those.
+But these conversations are meant to be additive, so by no means are we looking to, in any way, diminish or de-emphasize the conversations we have had over time with people who are in the operations areas or IT areas or whatever they might be within our customers business.
+But we just want to make sure we can cover the entire organization better and make sure that we can be better aligned on the business issues that are top priority for our customers and make sure we can align our road maps to that.
+Joe.
+Yes, I would say the area in which we continue to do a business at maybe the conventional levels with the organization, our large run rate business, which is quite healthy, continues to operate smoothly with all of the relationships that we have had in place traditionally.
+Where we have [quant] leveled our relationships significantly, I would say is particularly around 2 areas.
+One is, some of these large deals, in particular, as customers make a transition to Android, those deals are large enough that they -- and transformational enough for many of the customers that they bring us to the attention of a senior level of management and we have those conversations there and build relationships out of that.
+And then the second one is, where we talk about solutions like SmartLens, we are always talking about business cases.
+We're talking about ROI and we're having conversations with business level decision-makers at a senior level.
+Those are the 2 cases.
+So the implementation of the ERP is now creating the conditions for us to drive productivity further now.
+As I said earlier, that's not new at Zebra.
+We have could show off improving efficiencies.
+We did that before the acquisition.
+We would do that as the acquisition is finalized.
+And we have the opportunity to improve the values, ratios of the P&L, so gross margin, but also OpEx.
+And for that reason, we feel confident about the EBITDA margin range we gave for the year of about 18% to 19%, despite currency headwinds.
+Thank you all for joining the call today.
+Have a great day.

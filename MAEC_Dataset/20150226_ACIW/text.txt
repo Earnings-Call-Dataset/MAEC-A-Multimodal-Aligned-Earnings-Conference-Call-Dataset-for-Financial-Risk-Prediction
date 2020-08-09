@@ -1,0 +1,78 @@
+I'm not in any way, shape or form -- I'm bad, we didn't sign it, but I don't feel bad about it in the least bit.
+To answer the -- I will let <UNK> answer the big part of the question, but we are EMV enabled both ways.
+We were really -- we didn't do that much EMV business last year.
+We spent all of the money to get everyone ready, we're SaaS enabled and whatnot, and we thought people come running in to try to go and protect themselves as quickly as possible.
+We didn't see that much.
+We're doing a lot more on the retailer side than on the other side.
+That surprises us a little bit.
+I think people are buying 40% solutions, check a box, and then when they start having losses, I think we will get to sell them 100% solutions.
+<UNK> can answer.
+Our expectation is that we will sign a big UP deal this year.
+I would also say sales guidance is not necessarily contingent upon delivering a large UP deal.
+If we close one of the large UP deals that <UNK>'s talking about, it is likely going to push us over our SNET guidance range.
+We will provide that update at that time.
+Good morning.
+In part, we had a strong sales in 2014.
+So we will begin to get benefits of those sales in 2015.
+Projects, for example, that we sold in 2013 that were hosted are beginning to come online in 2015 as well.
+It's really, if you look back, 2013 had 7% organic SNET growth, 2014 had 10% organic SNET growth.
+That's starting to come online in 2015.
+Yet, if you look at -- if you recall, in 2012 actually, we have to go back, we had the hiccup on the conversion of S1 billing.
+So, 2012 was actually a significant decline in cash flow.
+We had a catch-up in that cash flow in 2013.
+So, if you normalize for that balance, yes, we are down optically, but we had a catch-up year in 2013.
+In terms of modeling for free cash flow, to be consistent with what we have -- how we have modeled in the past, and that is, if you look at our EBITDA, our EBITDA is a range of $280 million to $290 million.
+Cash taxes would be deducted from that, so $25 million to $30 million, cash interest $36 million, CapEx in the $40 million to $50 million range.
+The expectation would be that cash flow would be in that, call it, mid-to-high $170 million range.
+I don't expect the balance sheet to be a headwind in 2015.
+I would expect the balance sheet to be a tailwind.
+Yes, it was in the $40 million to $50 million range with the impact to 2013.
+I'll be honest with you.
+What we're doing, we are in very big institutions, and what happens is that we're showing -- in our latest meeting we had 100 technical people from the mortgage company, the retail bank, the credit card -- these guys, they're looking at this thing as the payments -- the universal payments.
+They are actually looking at it to be the universal payment.
+We are having to deal with a lot of what they affably call stakeholders, and so it is more internal.
+It's not really an external selling activity that we are -- that is where we underestimated the complexity and the scope, was on the internal selling.
+We kind of had them sold and we were chosen, and they said -- well gee, now it's going to take us four months to sell it internally.
+It's not an issue of whether we are chosen or not, it's how to deal with the internal complexity of dealing with it.
+And that is not true in one, that's probably true in four or five.
+Another one we're dealing with is global, and we're helping them go through the ROI, because they understand at the corporate level how much it's worth to them, which is huge.
+And now, where they start it and how they roll it around the world becomes -- how do you start contracting it.
+Quite honestly, we were never used to dealing in this -- we were not equipped to deal in this complexity.
+We always dealt with the really large institutions, but never at this level of complexity.
+We never talk about strategy, but the point I was making in my -- we are providing an opportunity for people to do things at really the sub-sub-sub-cent per transaction level, and where they're paying pennies per transaction, they can't afford to pay pennies per transaction and stay in business.
+So, they have to think about different infrastructures that get them to a different cost basis to stay competitive, stay in business.
+And, a lot of them have one system per one payment type, and now we are up to 20 or 30 payment types at point-of-sale.
+You just can't do it.
+You just can't do it that way.
+That is why we have both approached the retail -- that we are both enabling the retailers and enabling the banks, because we don't believe that either one of them can capture what is going on and maintain or improve their margins without really changing the entire cost structure.
+Without talking to the Polish or the Dutch or whichever, whatever their motivation is, that is the overarching motivation.
+There's no way in the world that the regulators are going to let 40% to 60% of the population be un-banked and then have the solution for the un-bank be more expensive than the solution for the banked.
+So, they're going to bring pricing down.
+Which is going to force them to have different technologies.
+No more -- it's a lot more complicated than that to implement, but that is the scheme.
+They've got the front end in terms of everyone has the online.
+Right.
+So, everyone has got the device that can initiate it.
+The web is there.
+So, now they've got to get the back-ends to work.
+The first question, the new accounts, the new accounts are all new customers.
+The new applications are where we are cross-selling to existing customers, where maybe they have a retail payment engine and we sell them a fraud solution.
+But we have some pretty significant sized new accounts in 2014.
+I'm sorry, can you repeat the second question.
+The way I would best articulate our cross sell opportunity is to say that we're providing $600 million or $400 million of transactions against two payment types for a bank or for a processor or a network or whatever.
+They are now asking us to come in, and it could very potentially be against our same technology, and asking us to take on four or five or six more payment types, that double or triples the volume that we do.
+So, it's a cross sale in that we have to give them -- we have to enable them against those payment types, but what we are actually doing is leveraging our core technology, or migrating them to our EPS technology, so they are using both our new technology and our old technology under the umbrella of our universal payments.
+Does that answer your question.
+We do have other customers like the Dutch deal, where they are buying whole solutions that include the fraud as well as the payments engine and integrating them for [our net].
+We have other customers that have as many as nine of our products.
+I think that is the largest that we have.
+And in they use them -- we become a preferred user, and we get used across the different parts.
+I think the largest cross sell in 2014 was against the UP category, and more uses against existing technology that we had and their -- we had there.
+In their business.
+Yes.
+This goes back to when we went out with Q3.
+Yes, we had pushed out several deals and our expectation is those deals will close in 2015.
+Some will close in Q2, and some will close later.
+I'm sorry, Q1, and some will be later.
+Thanks, everybody, for dialing in.
+We look forward to talking to you all in the next coming weeks.

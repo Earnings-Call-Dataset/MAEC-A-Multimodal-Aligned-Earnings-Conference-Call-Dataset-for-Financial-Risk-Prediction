@@ -1,0 +1,107 @@
+Yes.
+So Other Asia is a region that includes Korea, actually Japan as well, India and ASEAN, which includes countries like Thailand, et cetera.
+So the -- those -- we've seen strong growth broadly across those regions but the -- certainly the market that's really moved these results is Korea.
+And that's been very responsive as we've invested in it over the last few years.
+We've got a great sales team making big inroads in both consumer electronics and automotive in that market.
+Maybe Rick is muted.
+We got it.
+We loved it.
+Yes, yes, yes, okay.
+Thank you, Joe.
+So yes, so 3D is an important space for Cognex and one we're investing heavily in, both in our own engineering of products but also through acquisitions.
+And like a lot of Cognex business, in the early days the business is slow and then it starts to really pick up.
+We're certainly seeing our 3D business grow substantially at the moment.
+Our 3D vision products grew nearly 140% in 2016.
+But we're still a small player in the $200 million market for 3D displacement sensors.
+So -- and 3D is less than 10% of our overall business and will be this year as well.
+We've made a recent acquisition, the EnShape and Chiaro, which brings us powerful data acquisition technologies called snapshot sensors that are complementary to our 3D displacement sensing products.
+And we see a lot of growth potential in both those displacement sensing products but also snapshot sensing.
+And we see the technology being applied broadly to many different applications.
+As I mentioned earlier, too, our In-Sight Profiler brings that 3D technology to our -- 3D displacement products to a larger audience by making it much easier to program and sell.
+So this is a major growth area for us, one where we're expecting and seeing substantial growth and expect to continue that journey.
+Sure, yes.
+So our journey into logistics is a few years underway at this point, and it's a market where we have the potential to grow at 50% per year for the foreseeable future.
+And we're confident about that currently, in the current market we're in, and we expect strong sequential growth from logistics to come in Q2, as we mentioned.
+Growth will come both from large orders and smaller and medium-sized logistics accounts.
+We made meaningful progress in Q1 to increase the number of our large customers in logistics, certainly in that space.
+And we see a number of customers emerging who could represent many millions of dollars of revenue annually for Cognex in the logistics space.
+So we're -- revenue can be a little lumpy in that space.
+There can be some larger orders that can hit in some quarters and not in others.
+So although Q1 was good, it wasn't exceptional.
+We expect Q2 to be pretty significant and more exceptional, I would say, in terms of the logistics business.
+Now you asked also about the MX-1000, our breakthrough product for the mobile terminal market.
+That's a product we launched last year and have been showing to customers in the market.
+As I think of kind of when Cognex enters a new space, just like when we entered 3D or when we entered logistics, it takes time to kind of win the confidence and understanding of customers.
+So we're still in the stage with that product where we're showing it and demonstrating it and having early orders from customers who are evaluating the product.
+We have had some significant wins that we talked to you about in the past, but at this point we're more evaluating the technology with customers.
+And what we're hearing is very encouraging, and we're hearing that from a broad base of customers who could be very significant in future.
+So I think we're still near the bottom of that sort of S curve of adoption, but we're very confident we're going to be moving up that curve in the future.
+Yes.
+I think we're known to all -- I think the large logistics purchasers, particularly in the e-commerce space, which is where really most of our growth and success is occurring at the moment, we're known to those players really in America and Europe, and we're having good success at winning the majority of their business, I would say.
+And yes, in terms of numbers, yes, that's -- we have some very large customers or significant customers and others that we see developing into that kind of field, where we can have -- be doing millions of dollars per year.
+I don't think I can really get specific about, obviously, customer names or specific dollar numbers for customers.
+Certainly there -- well, I think, as often with Cognex, we're kind of learning and rolling out our technology in America and then we extend to Europe.
+We're now making very significant inroads in China, where clearly there would be many -- or a number of very, very significant e-commerce logistics purchases of machine vision technology.
+They're earlier in their adoption of technology, and we're well known to them and in evaluation.
+But certainly, in terms of bookings or revenue, the China business is still relatively small in comparison to the success we're seeing in Americas and Europe.
+Thanks.
+It's a good question, yes.
+So display technology, including organic LEDs, is definitely seeing huge investment in automation, billions of dollars in CapEx going into the production of those -- that technology, those technologies in general.
+So it's major, and we're working both with end-user companies that are manufacturing that technology, which is then consumed by companies that actually sell the products we buy, right, but also, importantly, with OEMs or machine builders who take vision technology and help the manufacturing process for that technology and sell into the big plants where it's manufactured in a number of markets, including Korea, Vietnam and other markets, China.
+So we're certainly seeing a big, big pickup in that business.
+I think we -- it's well understood by us.
+Our sales teams are well known.
+And our application engineers and capabilities on the ground there are, I would say with confidence, the best in the world.
+You asked a bit about kind of how competitive our actual technology is.
+Some of the applications that are required in that space are alignment.
+So you're aligning very fragile and sensitive material to very high precision; also inspection, where you're looking at what is a complex matrix of material that has to be integrated and looking for defects.
+So both of those are things that we excel at as a company.
+And so we're very well positioned.
+So I would say it's certainly helping our growth and our reputation and the inroads we're making into those major electronic suppliers and their machine builders.
+Yes, thanks, Bobby.
+Well, building on my earlier comments, mobile terminals is an exciting market where we expect to bring significant change.
+We\
+I don't see us resizing that $200 million market anytime soon, not certainly in the next quarter or so.
+We're -- but that market itself is growing.
+So if we were to expand it, it might be the fact that we're seeing a growth rate of about 20%, and we probably gave you those numbers back in December of last year.
+But what I will say is those applications within that market break down to -- between kind of complex applications, where Cognex is very strong and has large share, and then simpler applications that use more of a profiler approach.
+And that -- those simpler applications are, in fact, the majority of the market, more than half of it, right.
+So we're now in a position where we compete -- can compete in that space of the market much more competitively with the new product.
+So I'm not increasing the size of the market we've given you but our ability to be competing in that space now with a much easier to use program, a much easier to sell product is certainly much greater.
+No.
+It's too soon to make the call between Q3 and Q4.
+Well, I think ever is the key term there.
+But what I'll say is display technology is an area where we're seeing a lot of investments right now.
+I would say historically, one tends to see kind of phases of investment that go on and where machine vision gets applied.
+So display is an example.
+And I guess we saw LCD displays a number of years back on TVs or whatever was also kind of a growth area.
+I think OLED displays is something we're going to see over a few years.
+But final assembly and test of electronic devices is something we're going to see over a much longer period.
+So I think it has the -- those final units have the potential to be very long term, substantial business, while display technology, it may be difficult to see out past the next couple of years about whether that's a market that will kind of mature or continue to grow.
+In either respect, though, I would expect the kind of revenue Cognex received from final assembly and test of smartphones and mobile and wearable electronic devices is going to be bigger than what we see from screens and displays.
+Would we be able to maybe break that out.
+Yes, that's a difficult thing you're asking us to break out because I think we risk giving you information that's confidential.
+What I would say is we're going to see much lower large orders in Q2.
+So you can really -- you could take the mid-teens growth rate that we told you and figure there's really not much in terms of large consumer electronics orders hitting in the quarter, which means it would be -- the underlying growth rate is going to be well above our 20% factory automation growth rate that we expect.
+Well above that.
+And I would -- yes.
+And I think, if you go back to -- if you look at our performance over the last couple of quarters, I think we were up 30% or so in Q4, up 42% factory automation or 40% overall in Q1.
+I think we're gearing up still for strong underlying performance across broad industries in Q2.
+And the anomaly is much more the large orders in consumer electronics profile that's causing that growth rate to slip back into the mid-teens that we are forecasting.
+I think what we said is we expect consumer electronics to grow well this year, and I think we're not commenting on large orders, certainly not from any particular customer, right.
+I think the message I'd like you to take away is that we see strong growth in consumer electronics in our pipeline in Q1 and for the year but not in Q2.
+Just a quick, I guess, follow-up question for Rob.
+In terms of what you're seeing on the automotive side, particularly in Asia and in Europe, are you seeing the use of the product primarily for existing manufacturing lines or is it for new lines as well, assembly lines.
+<UNK>, thanks.
+Yes.
+So our automotive business performed well.
+I think it's well known that really about -- the majority of our business in automotive is with Tier 1 suppliers.
+And an important but smaller part is with brand owners or end-user companies.
+We see good growth in both parts of that and particularly Tier 1 automotive suppliers who are looking to develop new components for new kinds of technologies, particularly around electric vehicles.
+We're seeing significant spending by them and -- but also by end users.
+And then particularly in China is a market where we're seeing very significant growth in our automotive business.
+But it's really broad-based, as I said earlier, across all of our regions.
+Yes, no particular difference between existing lines and new lines.
+No, not that I would say -- I mean, not a real change in the pattern over the last 6 months, for sure.
+I mean, certainly we are seeing significant investment in new lines, as we've said.
+But we're also seeing significant investment in components and investments in machine vision to support improved production on both existing and new lines.

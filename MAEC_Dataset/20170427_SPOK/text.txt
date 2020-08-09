@@ -1,0 +1,236 @@
+Thanks, <UNK>, and good morning.
+We're pleased to speak with you today regarding our first quarter operating results and what we believe was a strong quarter for Spok and a great start to 2017.
+During the quarter, we made further progress toward our goal of transitioning Spok from a telecom-based wireless company to a software provider that delivers industry-leading unified health care communication solutions.
+We saw strong year-over-year performance in a number of key operating measures, including software bookings and backlog levels, as well as wireless subscriber retention.
+We achieved these results as we increased our investment in our business by enhancing and upgrading our product development team and tools, as well as our sales infrastructure and management.
+As we've previously outlined, we believe these investments will yield significant future benefits in the form of our improved, integrated communication platform, Spok Care Connect, as well as higher future booking levels, supported by an enhanced and upgraded sales team.
+Overall, we continue to operate profitably as a debt-free company while enhancing our product offerings.
+We executed against our capital allocation strategy by continuing to make key strategic investments in our business while returning cash to our stockholders during the quarter in the form of dividends.
+We were particularly pleased with our strong software bookings levels, as we posted the largest first quarter results in our company's history.
+We also set records for our highest bookings month and highest single day of software bookings.
+Our new logo bookings, which have historically represented in the 30% range of operations bookings, were over 50% for the quarter, and the average contract value of our new logo bookings, which has traditionally been in the $100,000 and below range, almost doubled to just over $190,000.
+While one quarter does not represent a trend, we were nevertheless happy with these results.
+Additionally, we continue to see a more than 99% renewal rate on software maintenance contracts.
+Similar to our wireless revenue stream, software maintenance revenue is largely a recurring revenue stream that provides the company with a more stable revenue base.
+Late in the quarter, we also took a major step in our transition.
+On March 27, we announced that <UNK> <UNK> had joined the company as Spok's new Chief Financial Officer.
+He succeeds <UNK> <UNK> in that position, who has remained with the company and assumed the role of Chief Accounting Officer.
+Mike joined us from Intermedix, a global leader in health care revenue cycle practice management and data analytics solutions, where he was Executive Vice President and CFO since August of 2013.
+He brings with him a proven ability to manage the finance function in a rapidly growing and changing environment, as well as implementing strategies for improving revenue and profitability.
+Mike is an industry veteran who brings deep experience in medical diagnostic services, software development, digital interactive marketing and regulatory compliance.
+I believe that Mike and the entire team will continue our commitment to Spok's core values of putting the customers first, providing solutions that matter, innovation and accountability, while managing the investments that we are making in our software solutions, operating platform and infrastructure to drive profitable, long-term, organic growth.
+I'm excited to welcome Mike to Spok's management team.
+I'd also like to take this opportunity to thank <UNK> <UNK> for his dedication and loyalty to Spok.
+<UNK>'s commitment has been vital to everything this company has achieved during the time he served as CFO.
+However, we mutually agreed that the time was right to transition the CFO role to someone with deeper software industry experience.
+In his new role, <UNK> will help us address regulatory and compliance changes as well as tackle the many opportunities to improve the efficiency and performance of our financial platform.
+Now, before I turn the call over to Mike and his team to provide details on our financial performance and operating activity, I want to briefly review some other key results for the quarter.
+First, bookings of $19.8 million included record highs for our first quarter in both operations and maintenance, and our related software backlog of $40.6 million on March 31 was up more than 10% from the prior year quarter.
+Growing software bookings is critical to growing revenue, as there is the delay in the time from the actual sale to revenue recognition.
+Our sales team will continue to be laser-focused on generating activity throughout the remainder of the year.
+We are encouraged this bookings included sales to both new and current customers, with existing customers adding products and applications to expand their portfolio of communication solutions.
+Customer demand remains strongest for upgrades to call center solutions, health care applications to increase patient safety and improve nursing workflow.
+We continue to see growing demand for our software solutions for smartphone communications, secured texting, emergency management and clinical alert.
+Second, wireless subscriber and revenue trends continue to improve.
+Spok posted solid results for wireless products and services in the first quarter.
+Gross paid replacements of 28,000 and gross disconnects of 48,000 were in line with the earlier year quarter.
+As a result, annual net pager losses declined to an historical low of 5.4% on a 12-month trailing basis and were 1.8% in the first quarter, in line with the prior year quarter results.
+Also contributing to the slower-than-anticipated wireless revenue decline was a more stable ARPU, or average revenue per unit.
+In the first quarter, it averaged $7.56, virtually unchanged from the prior quarter.
+We were pleased to see the continuation of these positive trends, especially in our top-performing health care segment, which now comprises approximately 80% of our paging subscriber base.
+And finally, we generated sufficient cash flow again in the first quarter to return capital to stockholders in the form of dividends.
+During the quarter, the company paid cash dividends to stockholders totaling $2.6 million or $0.125 a share.
+We also paid the $0.25 special dividend that we declared in December of 2016 to stockholders in January of 2017, and that was $5.1 million.
+All in all, the company posted solid operating results in the first quarter, and we believe this provides a strong base for 2017.
+I'll make some additional comments on our business outlook in a few minutes, but first, Mike <UNK>, our Chief Financial Officer, will review the financial highlights of the quarter.
+And then after that, <UNK> <UNK>, President of our operating company, will comment on our first quarter sales and marketing activities.
+Mike.
+Thanks, Vince, and good morning.
+Before I begin, I really want to express my appreciation to Vince and the board for bringing me on to Spok as the Chief Financial Officer.
+I'm extremely happy to be here and working with an exceptional group of professionals as I have made my way through the company during my first month.
+My first month has confirmed that there is not a more exciting time to join Spok.
+Our transformation and the investments that we are making in our systems, people and marketing programs is the right strategy to position the company to capture the large market opportunity ahead of us and drive sustained, long-term growth.
+Our team clearly recognizes and appreciates the importance of Spok's mission, which is to deliver clinical information to care teams when and where it matters most, to improve patient outcomes, and I am certainly delighted to be part of it.
+Now let me give you a little more detail on our financial performance in the first quarter.
+And again, I would encourage you to review our first quarter Form 10-Q, which we expect to file later today, as it contains far more information about our business operations and financial performance than we will cover on this call.
+As Vince noted, we were pleased with our overall operating performance in the first quarter.
+Key drivers of our financial performance during the quarter were software maintenance renewal rates that continue to exceed 99%, coupled with a lower-than-anticipated level of churn in both paging units and wireless revenue.
+Continued operating expense management has allowed us to mostly migrate the impacts of our planned investments in products, research and development expenses.
+We also continue to make steady progress toward our long-term business goals that Vince mentioned earlier.
+But overall, we believe we are off to a great start in 2017.
+This morning, I will review four key areas that influenced our first quarter financial performance.
+They include, one, factors related to first quarter revenue; next, selected items which influenced first quarter expenses; third, a brief review of the balance sheet, including deferred tax assets; and finally, an update on our financial guidance for 2017.
+As usual, if you have specific questions about these items or any of our quarterly financial results, I will be happy to address them during the Q&A portion of this morning's call.
+With respect to revenue for the first quarter, consolidated revenue totaled $41.4 million.
+Of that total, software revenue contributed $15.6 million, while wireless revenue comprised $25.9 million.
+Our software revenue represented 37.6% of our total revenue in the first quarter of 2017, which is in line with the composition in the first quarter of 2016.
+Our first quarter software revenue reflected an increase of more than 5% in maintenance revenue to $9.5 million compared to the first quarter of 2016.
+And software operations revenue totaled $6 million in the first quarter, and as noted on previous calls, software operations revenue is now largely recognized on a ratable basis.
+The increase in maintenance revenue reflects our continuing maintenance renewal rates in excess of 99% from our installed software solution base and the increase in new logo accounts with attached maintenance contracts during 2016.
+Turning specifically to wireless revenue.
+It was $25.9 million in the first quarter, down only 2.5% from the fourth quarter of 2016.
+This was driven by 3 factors: strong performance of our sales team, solid retention and stable ARPU contributed to this result.
+Also please note the additional schedule that we have included in the news release, detailing the components of our software and wireless revenue.
+Looking at operating expenses.
+We maintain our focus on creating efficiencies in our expense base in order to offset some of the planned increases in our product research and development category.
+During the first quarter, we reported consolidated operating expenses which excludes depreciation, amortization and accretion of $36.8 million, only a slight increase from $36.3 million in both the year-earlier quarter and fourth quarter of 2016.
+In the first quarter of 2017, total research and development cost totaled $4.1 million.
+This represents a 41% increase from the first quarter of 2016 and is $400,000 higher than the fourth quarter.
+This year-over-year increase reflects Spok's planned expansion of our operations in Minneapolis.
+Earlier in the year, we had announced that Spok would be increasing its presence there by approximately 45%, with the addition of more than 60 employees over the next 2 years.
+These strategic investments will enhance our Spok Care Connect product, a unique health care communications platform which is transforming how hospitals coordinate care.
+With regards to headcount.
+Full-time equivalent employees, or FTEs, increased to 599 at the end of the first quarter compared to 587 FTEs at December 31, 2016, as we continue to adjust employee levels to meet the changing requirements of our business and continue our expansion in the Minneapolis office.
+Looking ahead, we expect recurring payroll and related expenses will reflect the level of our investments to grow software revenues and bookings and to support the company's goal for wireless revenues and infrastructure.
+Our capital expenses in the first quarter were approximately $2.9 million and in line with the guidance we had provided last quarter.
+Capital expenses are incurred primarily for the purchase of pagers and infrastructure to support our wireless customers.
+We do not expect any significant changes to the level of our capital expense requirements for the balance of 2017, and expect to be within the guidance range for the year.
+Looking at our deferred tax assets or DTAs.
+We had approximately $72.8 million of DTAs at March 31, 2017, with no valuation allowance.
+These DTAs allow us to shelter virtually all of our regular federal taxable income, although we are required to pay a minimal amount in federal alternative minimum tax.
+These DTAs primarily consist of net operating losses that will expire in the years 2021 through 2029.
+Based on the availability of these DTAs, we do not expect to pay a significant amount in federal income taxes for the foreseeable future.
+Turning to the balance sheet and other financial items.
+The company generated approximately $3.7 million in cash from operating activities during the first quarter of 2017, and this was used to fund the increased rate of capital expenses.
+We ended the quarter with a cash balance of $118.9 million, down approximately $6.9 million from the prior year-end.
+Cash used during the quarter was utilized to pay the regular quarterly dividend as well as the special dividend that was declared in December 2016 but paid in January of 2017.
+Finally, with respect to our financial guidance for 2017 and based upon our performance in the first quarter, we are maintaining the guidance we've previously provided, which projects consolidated total revenue to range from $161 million to $177 million; consolidated operating expenses, excluding depreciation, amortization and accretion, of $153 million to $159 million; and capital expenditures to range from $8 million to $12 million.
+I would remind you that our projections are based on current trends and that those trends are always subject to change.
+With that, I'll turn the call over to our President, <UNK> <UNK>, who will update you on the first quarter's sales and marketing activities.
+<UNK>.
+Thank you, Mike, and good morning.
+During the first quarter of 2017, our sales and marketing team delivered software bookings of $19.8 million.
+This is up 31% year-over-year.
+Our forward momentum is building, and our strategy is resonating with our customers.
+Market recognition and appreciation for the value of our enterprise health care communications platform is increasing, demonstrated by the level of conversations we have with customers and prospects, the volume of activity we see on our website and most notably are the stories behind our quarterly bookings.
+Maintenance renewal rates remain strong at 99%, and we welcomed two dozen new Spok customers to the Spok family, primarily in the health care and government sectors.
+Health care remains a key part of our growings, comprising -- of our growth, comprising 77% of overall bookings in the United States for the first quarter.
+While much of that business is our present customers who are expanding their enterprise communications and adding more of our services and solutions, 40% in the first quarter came from new hospitals and health systems that have never worked with us before.
+These organizations joined a prestigious list of customers that includes all of U.S. News & World Report's 2016, 2017 Best Hospitals Honor Roll.
+These 20 adult hospitals and 11 children's hospitals rely on our solutions to help them provide the best care.
+Our solutions continue to resonate with all segments of the market.
+Among our new customers this quarter is a large health system with multiple hospitals around the country.
+This customer is looking to enhance scheduling coordination with HIPAA compliance communications while maintaining the flexibility to send messages to a variety of staff devices, including pagers, smartphones and WiFi phones.
+This health system also wants to support communications on a centralized platform that can meet high performance availability and reliability requirements.
+After completing a thorough market evaluation, this customer selected us because Spok Care Connect is the only proven solution in the market today that can meet all of these expectations.
+Another one of our new health care customers in the first quarter is a small regional hospital in the Western United States with a world-class reputation in orthopedics.
+This customer wants to unify their multiple communication technologies into a single consolidated platform.
+Working with Spok, they plan to simplify their on-call scheduling methods, streamline [code call] processes and increase contact center efficiency by reducing or eliminating many manual tasks.
+They will also standardize their myriad of messaging technologies and promote a single, secure solution to improve care team communications.
+Secure workflows are top of mind for many hospital leaders, and we are seeing an overall rise in demand for our messaging solutions.
+For example, a large health system customer in the Eastern United States was looking to enhance the security of hospital communications of staff who use their personal mobile devices while improving the workflows and efficiencies for clinicians and patients.
+This customer already relies on us to support their contact center emergency notification processes and secure text messaging for many of their solutions.
+With positive feedback from the doctors currently using our secure messaging solution, this customer is expanding it across the enterprise to all clinical and many nonclinical staff who support patient care.
+We continue to see utilization of mobile devices and solutions vary by roles within our customer environments.
+In fact, in a recent survey with CHIME that we will publish in the coming weeks, CIOs reported that the top reason for using pagers is appropriateness of the device for specific employee groups or departments.
+In addition to a secure messaging solution, this customer is adding thousands of encrypted pagers to their solution mix to help ensure no protected health information is sent accidentally to an unsecured device.
+All 3 of these examples are six-figure deals that demonstrate the strategic, enterprise-level investments hospitals are making to capture the value that our unified health care communication platforms makes possible.
+Health care comprises the largest percentage of our business, but public safety remains an important part of our strategic plan.
+Public safety customers around the world rely on our solutions to support critical communications as well as emergency call handling at the 911 dispatch centers.
+Our largest deal of the quarter came from a public safety coalition in the Southern United States that has been a paging customer for over 15 years.
+This correlation of agencies wants to expand the capabilities of their communication among all personnel, regardless of whether they have a pager.
+The customer needs a messaging solution that can send individual or group messages, emergency notifications and keep all contact information in a centralized directory.
+This customer also wants to accomplish these goals with a single vendor.
+Spok is the only company that could meet all of these needs.
+After an organization purchases Spok solutions, our highly skilled professional services group gets to work delivering an exceptional experience and setting the customer up for success.
+For example, in first quarter, these experts helped a large hospital in Southeastern United States implement emergency notification and secure messaging capabilities.
+Our services team offered continual guidance to this customer during clinical workflow design, data collection, planning and change management activities to promote end user adoption.
+Equally important, our team helped this hospital identify measurable criteria that will be used to evaluate the success of their project at decreasing average door-to-balloon time for heart attack patients, improving user satisfaction scores and reducing IT costs.
+Overall, the satisfaction scores of our professional services group continue to trend upward, and 93% of customers rate our services as good or excellent, testifying to the exceptional caliber of this team.
+Before turning things back over to Vince, I want to provide an update on our marketing activities.
+Our marketing team is responsible for expanding our global content and web development, lead generation and event planning efforts.
+Ongoing investment and activities in these areas help us drive leads and fill the sales pipeline.
+A highly visible example is our new website that launched in January.
+This was a yearlong project for the team and includes changes to improve our visibility in searches, provides a better experience for visitors on mobile devices and further promotes our Spok Care Connect story.
+These efforts are proving to be effective, and already we have seen a 17% increase in traffic in the first 2 months following the site launch, which has been driven largely by stronger rankings on search engines.
+Marketing is also responsible for planning and coordinating Spok's presence at a large number of trade shows throughout the year.
+There were 2 notable shows for us in the first quarter.
+HIMSS is one of the largest health care conferences in the United States and a great opportunity for us to demonstrate our capabilities.
+This year in Orlando, we increased our engagement with clinical audiences by demonstrating the powerful integration and clinical context Spok provides.
+Our solution was featured in the interoperability showcase as well as in booth presentations by our Chief Medical Officer and our Chief Nursing Officer.
+Two customers also joined us to share their success stories with visitors in our booth.
+Our media coverage following this event more than doubled over last year, and our conversations with those visiting our booth have reached new levels of strategic vision for enterprise-wide communications on hospitals.
+The qualified leads identified from this show increased by 25% over 2016.
+We also felt the growth of our brand recognition at AONE, a show we attend in Baltimore at the end of March that attracts nursing executives from all around the country.
+Our Chief Nursing Officer led conversations about clinical workflows at this show, including a focus group to encourage in-depth discussions with key members of this audience.
+She has been showing how Spok can help nurses improve communication and workflows, and our message is resonating.
+We had multiple people stop by the booth to share with us how Spok solutions were making a difference at their hospitals.
+Lastly for marketing, our social reach is showing significant growth.
+Year-over-year, our following has increased by 80%.
+Engagement with our audience, such as likes, retweets and comments, is up 117%, and unique views of our Spokwise Healthcare blog grew by 17%.
+Looking forward, we expect continued market demand for integrated communications, especially in health care.
+As mentioned on our last call, investments in research and development are ongoing.
+We are hiring skilled professionals in our Minnesota location to help us accelerate product development, meet the demand for Spok Care Connect and enhance our solutions for clinical workflow improvements and better patient care.
+And our customers are reinforcing that an enterprise-wide communication platform fulfills their needs and is the right strategy for Spok.
+With that, I'll pass it back to Vince.
+Thanks, <UNK>.
+Before we open the call up for your questions, I want to comment briefly on a couple items.
+First, I want to update you on our current capital allocation strategy.
+And second, I want to review our key goals and business outlook for 2017.
+With respect to our current capital allocation strategy, our overall goal is to achieve sustainable, profitable business growth while maximizing long-term stockholder value.
+Toward that end, the allocation of capital remains a primary area of focus.
+Our multi-faceted capital allocation strategy includes dividends and share repurchases, as well as key strategic investments that include augmenting our product, development, operating platform and infrastructure.
+It also includes the potential for acquisitions as we have discussed in the past.
+Even though we have not been satisfied with valuation expectations for most of the targets we have reviewed, we continue to explore M&A opportunities and conduct business due diligence.
+Yesterday our board authorized a $10 million share repurchase basket for the balance of 2017.
+Also, as we have previously stated, we are committed to continue paying our $0.125 per share quarterly dividend this year while we aggressively increase our investments in our company to benefit the future and create long-term stockholder value.
+We're a company in transition, and management and our board believes that financial flexibility over the long term is important to the success of the strategy.
+We review our capital allocation posture on a quarterly basis and remain comfortable that we are striking a reasonable balance in serving the longer-term interest of shareholders.
+We will continue to evaluate our capital allocation strategy and communicate our plans to you with respect to dividends, share repurchases and other uses of capital each quarter when we report earnings.
+Finally, with regard to our key goals and business outlook, we believe our first quarter activities and investments have positioned us well for a successful 2017.
+In order to take advantage of the large opportunity in our chosen markets, our business goals for the year are simple and straightforward.
+They include accelerating the development of our products and services, building a stronger infrastructure, aligning resources and focusing where most needed, and increasing Spok's long-term growth potential.
+We'll do all this with the ultimate goal of creating long-term stockholder value, fulfilling our commitments.
+Wrapping up, Spok continues to build an industry-leading reputation.
+We remain committed to our core values of putting the customer first, providing solutions that matter, innovation and accountability.
+We believe our past results and future plans reflect those values and beliefs.
+At this point, I'll ask the operator to open the call up for your questions.
+We'd ask you to limit your initial questions to one and a follow-up.
+Then after that, we'll take additional questions as time allows.
+Operator.
+One of the things, Steve, that happened this quarter, one of our salespeople came to us, and he had gotten a big six-figure deal and said, gee, look at this, they bought everything from us.
+He went right down line and said, one, two, three, four, five, every single thing we offer, he bought in the platform in our Care Connect Suite.
+And <UNK>'s comment to him was -- and to our product team is we need to come up with something else because we've got these large customers and we've got this blue-chip customer base, we need to add functionally to our suite.
+So there's a number of things we can do to do that, Steve.
+One of them would be an acquisition.
+And again, I think you've known us long enough to know that we're not going to be crazy about valuations that don't make sense and multiples that are in the stratosphere, particularly multiples of revenue when the companies are losing money.
+But another way to do it would be to do another project catapult internally, do some more investment.
+But we wouldn't do that until we see success with the first investment.
+So we look at this on a quarterly basis.
+We talk about it longer-term, but we look at it on a quarterly basis.
+For this quarter, we decided that we continue the dividend, we institute a $10 million basket for share purchases, and we'll review that as we go forward.
+Our goal right now is to be successful prosecuting the business plan that we have right now and delivering on that business plan.
+And then in the future, if we're successful at that, I think there will be other opportunities to leverage that success and create even more opportunity for bookings and profitability over the long term.
+Yes, so here's the thing, and we don't really give, like, guidance on bookings.
+And bookings in any software company are always going to be lumpy.
+Some companies don't even report their quarterly bookings; they just wait until the end of the year and report it all at once.
+We do.
+What we did today is we reiterated our guidance for 2017.
+Our revenue guidance, our operating expenses, our CapEx.
+Embedded within that guidance is our expectations for booking.
+So when we sit around and we do our management report and we report to the board like we did yesterday and we look at our latest thinking forecast, right now, we are showing that we are making our plan this year.
+And in fact, in some cases, we're doing better than our plan this year.
+And so that doesn't mean that you can't have a big quarter of bookings, then a smaller quarter of bookings and then a big quarter of bookings, or maybe you could have 3 quarters that are fairly equal.
+When you're doing these pipelines and you're looking at some of these larger deals, particularly the six-figure deals, they take longer.
+You're going to committees, you're meeting with CIOs, you're meeting with CFOs, and they can take longer.
+And then sometimes, all of a sudden, you can have a bunch hit, and then sometimes you can be a little dry on it.
+I will tell you that when we go through the pipeline with our sales team now, compared to, say, how we did it a year ago and we're looking at the size of the deals, there is a marked difference in the size of the deals in the pipeline.
+Now we are seeing multiple, multiple.
+I mean, we looked yesterday at pages full of large deals, whereas in the past, you'd have a couple six-figure deals and then there'd be $70,000, $60,000, $50,000 and add-on type things.
+So as we've pivoted to the suite approach, we're training our people to sell the enterprise suite, we're recruiting and hiring sales management and sales talent more comfortable in that environment, talking to the suits, going in there and doing the buyer process map and getting to the right folks, we're seeing larger deals populate in that pipeline.
+That's the good news.
+Bad news is sometimes larger deals just take a little bit longer to bring in.
+But you're more effective when you do larger deals as a software company, and so that's what the goal is.
+So hopefully, that helps you.
+If not, bookings in softwares are never going to be -- it's not like the paging business where things are recurring and you can implement -- incrementally up or down each month.
+It's always going to be a little bit lucky, but we consider all of that within our forecast and within our guidance.
+Any other questions.
+CHIM<UNK>
+It's C-H-I-M-E, stands for College of Healthcare Information Management Executives.
+It's a forum for essentially CIOs in health care to get together.
+Yes, those from the health care organizations.
+Okay, if there's no other questions in the queue, then we're going to wrap up.
+So thank you very much, everyone, for joining us this morning.
+We look forward to speaking with you again when we release our second quarter results, which will be in July.
+And everybody, have a great day.
+Thank you.

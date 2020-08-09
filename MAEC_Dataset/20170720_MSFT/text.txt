@@ -1,0 +1,187 @@
+Thank you, <UNK>, and good afternoon, everyone
+This quarter, revenue was $24.7 billion, up 9% and 10% in constant currency, with stronger than expected performance across all segments
+Gross margin grew 11% and 12% in constant currency
+Operating income increased 13% and 16% in constant currency
+And earnings per share was $0.98, increasing 42% and 43% in constant currency, which includes $0.23 from the utilization of phone-related losses from prior years that were previously non-deductible
+At a company level, LinkedIn contributed approximately 5 points of revenue and gross margin growth
+LinkedIn’s operating loss of $361 million was a 6 point drag on total company operating income growth, and is entirely attributable to the $371 million of amortization of acquired intangibles recorded in COGS and OpEx
+From a geographic perspective, our results were mostly in line with macroeconomic trends, though large markets like the US, Germany, and Japan performed better than we expected
+We had a strong quarter in our commercial business, reflecting terrific execution from our sales teams and partners in the largest quarter of our year
+We increased commitment to our commercial cloud and healthy renewals on a record volume of expirations
+We closed the highest number of multi-million-dollar Azure deals to date, and improved our annuity mix to 86%, up 3 points year-over-year
+As a result, commercial bookings grew 30%, and commercial unearned revenue was $27.8 billion, significantly higher than we expected
+Our contracted not billed balance increased to more than $31.5 billion
+As <UNK> mentioned earlier, our commercial cloud annualized revenue run rate exceeded $18.9 billion this quarter, growing 56%
+We finished the year with nearly $15 billion in commercial cloud revenue
+At the start of the year, we committed to material improvement in commercial cloud gross margin percentage and dollars
+This quarter, our commercial cloud gross margin percentage was 52%, up 10 points year-over-year, with positive gross margin in each cloud service
+Commercial cloud gross margin dollars grew 92% from strength across all services
+Our company gross margin was 66%, up 1 point from the prior year, as sales mix of higher margin products and services offset the impact of the growing mix of cloud revenue and $217 million of LinkedIn amortization costs
+FX was mostly in line with our expectations, with 1 point of negative impact on total revenue growth even with a slightly weaker than expected US dollar
+At the segment level, FX had a negative impact of 2 points on Productivity and Business Processes, 1 point on Intelligent Cloud and 1 point on More Personal Computing
+Total operating expenses grew 9% and 10% in constant currency, with LinkedIn contributing 12 points of growth, including $154 million of amortization of acquired intangibles expense
+Now, to our segment results
+Revenue from our Productivity and Business Processes segment grew 21% and 23% in constant currency to $8.4 billion, with LinkedIn contributing 15 points of growth
+Office Commercial revenue increased 5% and 6% in constant currency
+Office 365 commercial revenue grew 43% and 44% in constant currency with continued installed base growth across all workloads, ARPU expansion and emerging E5 momentum
+For the first time, Office 365 Commercial revenue surpassed revenue from our traditional licensing business
+Office Consumer revenue increased 13%, driven by recurring subscription revenue and growth in our subscriber base
+Our Dynamics business grew 7% and 9% in constant currency, and Dynamics 365 grew 74% and 75% in constant currency
+LinkedIn revenue for the quarter was approximately$1.1 billion, a bit better than expected
+Segment gross margin dollars grew 14% and 16% in constant currency, with 12 points of contribution from LinkedIn, including $217 million of amortization
+Gross margin percentage declined from an increasing cloud revenue mix and the impact of LinkedIn related amortization
+Operating expenses increased 41%, with 40 points from LinkedIn, including $154 million of amortization expense
+Operating income declined 8% and 5% in constant currency, with 12 points of impact from LinkedIn
+The Intelligent Cloud segment delivered $7.4 billion in revenue, growing 11% and 12% in constant currency
+Our server products and cloud services revenue grew 15% and 16% in constant currency with double digit annuity revenue growth
+Azure revenue growth accelerated to 97%, up 98% in constant currency
+Azure Premium revenue grew triple-digits for the twelfth consecutive quarter
+Enterprise Services revenue declined 3% and 1% in constant currency, driven by a lower volume of Windows Server 2003 custom support agreements, partially offset by growth in Premier Support Services
+Segment gross margin dollars grew 8% and 9% in constant currency, and segment gross margin percentage declined due to increasing cloud revenue mix and lower Enterprise Services margins, partially offset by material improvement in Azure margins
+We grew operating expenses by 2% and 3% in constant currency with continued investment in sales capacity and developer engagement
+Operating income increased 15%, up 18% in constant currency
+Now to More Personal Computing
+Revenue from this segment was $8.8 billion, down 2% and 1% in constant currency, with 4 points of decline from phone
+Our OEM business grew 1% this quarter, as both our commercial and consumer OEM businesses were slightly ahead of the PC market
+OEM Pro revenue grew 3%, ahead of the commercial PC market, mainly due to a higher mix of premium SKUs
+Windows 10 deployment cycles continue to drive commercial customer hardware demand
+OEM Non-Pro revenue was flat, ahead of the consumer PC market, with continued positive impact from Windows premium device mix
+Inventories remain in the normal range
+Windows commercial cloud products and services grew 8%, driven by annuity revenue growth
+Enterprise customers increasingly chose Windows 10 on new and existing devices, which led to install base growth and higher adoption of our cloud security solutions
+Patent licensing declined this quarter, primarily from lower revenue per unit
+Search revenue ex-TAC grew 10% and 11% in constant currency, driven by higher revenue per search and search volume
+Devices revenue declined 28% and 27% in constant currency
+Our Surface business performed better than we expected, declining 2% and 1% in constant currency, with strong sales execution on our Surface Pro product transition and early positive signals from customers and partners on our Surface Laptop launch in June
+Our gaming business grew 3% and 4% in constant currency
+Xbox software and services growth of 11%, 13% in constant currency, offset declines in hardware
+And our engaged user base grew 8% to 53 million monthly active users across console, mobile and Windows 10 platforms
+Segment gross margin dollars increased 9% and 10% in constant currency
+Gross margin percentage increased, primarily due to sales mix shift to higher margin products and services
+Operating expenses declined 10%, and 9% in constant currency, from lower Phone expense, as well as Surface and gaming marketing spend in the prior year
+As a result, operating income grew 68% and 72% in constant currency
+Now back to the overall company results
+This quarter, we invested approximately $3.3 billion in capital expenditures, including capital leases, up sequentially in part due to the planned Q3 datacenter spend pushed into this Q4. This includes approximately $2.3 billion of cash paid for property and equipment, which was down year-over-year as we utilized more capital leases
+Free cash flow grew 50% year-over-year, driven primarily by operating cash flow growth of 30%, as well as lower cash outlays for CapEx
+Operating cash flow increased due to higher collections from customers following strong billings growth, as well as working capital improvements in our hardware business
+Other income and expense was $215 million, more than originally planned, as we continue to see opportunities in the equities market to realize gains throughout the quarter
+Our non-GAAP effective tax rate was negative 6%, significantly lower than we expected, due to a $1.8 billion impact related to the utilization of prior years’ losses from our phone business that were not deductible in the years incurred
+Excluding this item, our non-GAAP effective tax rate was 19% this quarter and 20% for the full year
+This quarter, we returned $4.6 billion to shareholders through share repurchases and dividends
+Now let’s turn to the outlook
+The key trends for FY 2018 from the Financial Analyst Briefing remain largely unchanged
+For the full year, we expect about 1 point of negative FX impact assuming current rates remain stable
+In our commercial business, we anticipate that increasing demand for cloud services and healthy renewals will continue to drive a higher annuity mix
+Our commercial transactional business will continue to decline driven by the transition to the cloud
+We remain focused on improving our commercial cloud gross margin percentage in each of our cloud services
+As a reminder, given seasonality and revenue mix, commercial cloud gross margin will experience quarterly variability
+Cloud migrations, deployments and new scenarios are driving greater customer usage
+We will increase our capital investment to meet growing demand and capacity needs
+Total CapEx spend will continue to have variability quarter-to-quarter
+At the company level, our gross margin percentage should decline about a point in FY 2018 with increasing cloud revenue mix, a full year of LinkedIn amortization and hardware launches, including our new console, Xbox One X
+We expect LinkedIn quarterly amortization expense in COGS to be approximately $220 million, or about $880 million for the full year
+Next, operating expenses
+You should think about our FY 2018 operating expenses in two categories
+First, organic Microsoft expenses, which we expect to grow between 3% and 4%, reflecting the investments we are making to support our top line growth
+Second, LinkedIn
+We are making incremental investments in LinkedIn to fuel its continued strong revenue growth
+Additionally, we will recognize our first full year of operating expenses, including $620 million of amortization expense
+Importantly, we expect our company operating margin to only decline by about a point as we continue to grow our cloud revenue, we fund new investment to support growth in strategic areas and absorb $1.5 billion of LinkedIn amortization in COGS and OpEx
+Excluding the LinkedIn impact, operating margin should be flat year-over-year
+Next, our effective tax rate
+As a reminder, our tax rate is impacted by at least three major factors: the proportion of services revenue versus licensing revenue, the geographic mix of revenue, and the timing of equity vests
+As cloud revenue mix increases, we anticipate our tax rate will move higher
+With quarterly variability based on these factors, we anticipate our full year non-GAAP tax rate to be 23%, plus or minus 2 points
+And finally, we expect LinkedIn, ex-purchase accounting, to be non-dilutive in FY 2018, as it was in Q4. Now, to the outlook for next quarter
+Based on current FX rates, we expect less than 1 point of negative impact on revenue growth overall and for each segment
+We expect commercial unearned revenue to be within the range of $24.85 to $25.05 billion
+In Productivity and Business Processes, we expect revenue between $8.1 and $8.3 billion
+Office 365 commercial revenue growth will continue to be driven by install base growth, ARPU expansion, and adoption of premium services like E5, and should outpace the rate of transactional decline
+We expect a more moderate rate of growth in our Office consumer business given prior year comparables
+In our Dynamics business, Dynamics 365 will continue to drive our cloud mix higher
+And we expect approximately $1.1 billion of revenue from LinkedIn, adjusted for the impact of purchase accounting
+For Intelligent Cloud, we expect revenue between $6.9 billion and $7.1 billion
+Customer demand for Azure and our hybrid cloud offerings remains strong, and we anticipate another quarter of double-digit revenue growth across server products and cloud services
+Enterprise Services should decline, given lower volumes of custom support agreements
+We expect More Personal Computing revenue between $8.6 billion and $8.9 billion
+We anticipate OEM revenue will move more closely in line with the PC market
+Devices revenue growth will continue to be impacted by the prior year phone comparable
+Surface revenue will continue to be driven by the product lifecycle transition between Pro 4 and our new Surface Laptop and Surface Pro
+In Search, Bing’s revenue growth ex-TAC should be similar to prior quarters
+And we expect gaming to have the typical seasonality revenue pattern for a pre-holiday quarter
+We expect COGS between $8.2 billion and $8.3 billion, including approximately $400 million from LinkedIn
+LinkedIn COGS include about $220 million of amortization
+We expect CapEx, on an accrual dollar basis, to be similar to Q4 as we grow our investment to meet demand
+We expect operating expenses of $8.6 billion to $8.7 billion, with about $1 billion from LinkedIn, of which roughly $155 million is related to amortization
+Other income and expense should be about $250 million, as we expect to realize more gains from our equities portfolio
+Given the volume of equity vests that occur in our first quarter and based on today’s stock value, we expect our first quarter non-GAAP effective tax rate to be approximately 4 points lower than the estimated full year tax rate
+Finally, we adopted the new revenue standard, ASU 606, effective at the start of fiscal year 2018. To assist in the transition, <UNK> along with our Chief Accounting Officer, Frank Brod, will be hosting a conference call in early August to discuss these changes, present historical restated financial results, and share Q1 guidance converted to the new standard
+And with that let’s go to Q&A
+Let me break down the question in a couple of ways
+Overall, when you think about COGS and the pacing, the depreciation rates of our servers don't change
+It’s generally over a three-year period and there is other pieces of equipment that have a longer, shorter depreciation life
+So that piece of depreciation doesn't change per se
+If you're looking to see how we see demand, obviously this quarter in Q4, we felt very good about cloud demand across all three services, but in particular with Azure
+I feel confident in our ability to produce gross margin improvement across all those services
+I feel confident in our ability to continue to make progress on our overall commercial cloud gross margin growth, and I am encouraged by the demand signals we are getting
+All of those things I think, it’s not really about the pace, it is much about the progress and demand and meeting those things as closely as we can and I feel really good about the team's execution
+And I think in many ways <UNK> what we have done is a really a natural extension of some of the investments we’ve made over the past 18 months to add technical resources to be more present in customer accounts, to really drive their transformation towards success outcomes
+You are seeing it even in our intelligent cloud results for the last quarter and this quarter
+We’re taking that learning over the past 18 months and really applying it at a broader scale across the sales force to put those resources where we feel confident that they will have a good long-term return in that next phase of transformation
+Thanks <UNK>
+Let me make sure I cover of on most of those
+Let me start by saying, the biggest driver in commercial bookings growth this quarter was excellent execution on a large base of renewals
+The second component of that is the execution on new revenue; in particular Azure, as well as Windows commercial, and billings in the quarter were very good and quite encouraging overall
+There was no change in any way to invoicing people paying earlier, paying more upfront, that’s definitely not an impact on that number
+And so overall, I think while it is certainly aided by the large expiry base because it tends to impact the CNB balance the most, it is really I think to your point; it is clearly encouraging because it gives us a very good base of support going into FY 2018 to come in to the GAAP reporting numbers
+There’s a couple of things, but in general it is almost always mix shift
+While we saw improvement in the gross margin percentage in Office 365 and continue to make progress on that it is also the balance, right
+This is the first quarter where we’ve actually seen the balance tip in terms of recognized revenue to online versus perpetual
+So, I actually feel very good, but as we continue to accelerate the growth trajectory that you are not seeing frankly much impact on the gross margin line and we are seeing a lot of leverage in that through OpEx all the way down to the operating income line
+When you think about, you are right, it is a big number, and I feel very good about it, and for the year on a pure basis it was $15 billion of commercial cloud revenue
+So we are starting to get to that point <UNK> where you have a big base, which is still growing at a fast rate, and so especially ARR numbers can see big jumps in the one that you saw this quarter, and your right, Q4 is also historically quite a big quarter and this one certainly was as well
+But you also saw - and what really does matter, especially in Azure is usage of growth, really consumption growth having customers use deploy, be successful, and really continue to get you think sort of meters up and running and that continues to build on itself, and so when you start to see that you can, and I do think and we will continue to see good growth in this number
+Let me start by saying, first I feel very good about meeting our stated goal of $20 billion in commercial cloud ARR
+Next, I think across every service the momentum we’ve seen in Q4 and in particular, I would say, I think not many people focus on it, but even things like Windows E5, advanced threat protection services, those types of deployments really will add to momentum in our offerings
+One of the things we often talk about is, we sell Microsoft 365. That’s Windows 10 with securities and services
+It is a modern workplace that includes up-to-date Office 365 and it includes EMS
+We really did see strength across all of them
+So I don't really think it’s about a percentage, but it’s about each of them continuing to make progress
+Why don't you start and I will do the next one
+And so to your point and it’s a nice transition from <UNK>'s point about, especially the midmarket offering coming in the fall for Microsoft 365 is installed base growth
+You are right, in terms of Office commercial 365 the primary driver is still installed base, both the transition as well as new
+I think we are optimistic as we head into FY 2018 for the installed base growth possible in particular for some of these midmarket offerings that we’re quite proud off The ARPU growth that you saw and have seen in the past couple of quarters continues to primarily, Phil, be related still to the E1 to E3 transition
+When we mentioned E5, I think that’s frankly encouraging for us because all of these premium offers do best when you start the deployment motion
+People start using E1 then they use E3 and then you start to see the momentum in E5, and we did see that
+<UNK>owever, in terms of ARPU impact very, very small in quarter
+So that’s something that over time you will continue to see improvement in terms of impact on ARPU.
+Thanks Kash
+Let me go through the bookings, again with that 30% the first and best contributor to that is the strong performance on the renewals in quarter
+It was a reasonably consistent Kash, there was not a geo in particular that I would say was a massive outlier although in two of our largest geos, the U.S
+and Germany they did have very good years in particular in Q4. Now if you separate the fact that we had the larger base with clearly contribute to that bookings number being big, aside from that in particular Azure in the last year point did really show up in that 18.9, it didn't, the strong billings growth really showed up in that unearned outperformance, which you saw versus the guide and it was significant, a lot of that is the Azure fillings
+I think we felt very good, those as well, I think we’re pretty broad-based across industry
+I would also say across geo
+And so while we of course get some strength from our largest geos, and I would say they were probably the largest contributors if it was actually quite broad there is not only one place for me to say that we just saw it here, and then the final component that I would say was better than we anticipated and the way you’d see that cash, again versus the unearned guidance and the beat that we had there with that final piece around our security value prop, ATP - Windows annuity growth was very good
+That’s in the KPI Windows commercial products and services
+It is the place you will look and see that number and outside of that I mean those really are the biggest contributors
+And I think maybe, I should have also mentioned, when you think about seeing that type of performance and <UNK> mentioned it is not just because of work done this quarter, it is a great point, but it’s also the investments we’ve made
+We’ve committed, we did sales overlays
+We added technical resources
+We put resources at customers ahead of the curve, we did that you saw that and the operating in the intelligent cloud OpEx growth over the past few quarters, that execution is what’s landing
+Okay, you are right, <UNK> it’s not exactly if I said is the Q3 from three years ago exactly the expiry base it is not exactly, but it is directionally
+And so that’s a good example to say, every three years tends to be the length of our agreements and so you to tend to see that repeated, and that’s what we mean by sort of the record or the largest expiry base and that is the pattern
+In terms of LinkedIn having any impact? It did not
+So that is the cleanest way to think about that number
+And so that leads why I always tend to say, I don't focus as much on the mix per se
+I know both of them will matter and both of them are important, and so that’s why I tend to focus on that all up server KPI combination of the progress in the cloud, Azure, as well as the edge which is the on-prem
+And so I think, we remain confident that double-digit target that we have for that KPI and is it really, I don't think sort of a comparability challenge per se, but that’s why we try to keep it at that high level to not get too tied to one or the other, given we know the TAM expansion that’s possible, we know we can grow within it
+And I apologize, I didn't answer <UNK>s last component, so let me just go back and I had forgotten, which was, was there anything unique in the expiry base for Q1, the answer is, it is up a little year-over-year, but in certainly not through the same type of Q4 comparable
+When we tend to have these, we tried to call them out like we did in Q3 leading into Q4. So, Q1 I would say is just up a little
+So I wouldn't expect any material impact
+Thanks <UNK>
+The way I tend to think about it is, with any service you want the gross margin itself to improve, and that includes in the Azure services components themselves
+The difference between core compute in-store versus the premium layers can be significant and we’ve had improvements across all of them
+So, the real question on how and where should the Azure gross margin be is about sort of the ultimate mix of those
+Anyhow, we saw significant improvement this year
+We expect a lot of improvement again next year on each of those service lines
+And where the actual mix occurs among those lines, I think we will just have to wait and see, but that’s why I tend to not focus at that layer it’s like can you get every service better, can you make material improvement, and then of course can you get usage and consumption going that leads to premium service usage, and of course over time you’d expect a higher mix of premium versus core

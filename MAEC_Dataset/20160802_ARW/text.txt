@@ -1,0 +1,105 @@
+Take the Avago Broadcom, we really didn't really have a line in the US and in Europe.
+And what we did have was relatively small.
+So there wasn't a relationship.
+Where we did have the relationship was in China.
+That remains intact, and Korea, that remains intact.
+So while they did what they did, that didn't really have an impact on us, and we have other competitive lines that we actually sell and do well with.
+If you take Microsemi, on the other hand, we were a huge winner in the transition of that and the new products that they have to sell, and we believe that's going to bring big upside for them and a big upside for us.
+Overall, I don't think this is anything that you guys should be losing any sleep over because it's really not anything we are losing sleep over at this point.
+And I think you could speculate all day long, but the bottom line is, whether you like it or not, Avnet's got a set number of accounts out there, we've got a set number of accounts out there, and suppliers want all of them.
+They don't only want a portion of them.
+So I don't see a huge change.
+We don't obviously put out full-year targets, but I would say that the fact that we are delivering 110% of GAAP net income versus our target of 70% speaks to the fact that really I think we are on trend and there's going to be slight movement around that average.
+But overall, we don't expect to see any significant change in that trendline.
+I would say we don't see that particular transaction as something to affect us.
+In fact, I think it's something that really shows that there is a delta in strategy between the two companies that we've been talking for a long time, because we looked at this about a year ago, and the truth is half of that company is industrial distribution, the other half is electronics, and about half of the half goes through a digital presence.
+And for us, that was just too much heavy lifting to go for having about 25% of the business actually be digital.
+So it wasn't something that we saw as a threat and/or as a benefit to our business, which is why we built our online capabilities the way that we did.
+We spent time now, we are out in publications educating customers how to do designs in IoT, how to tie the sensors all the way to storage, and bring those two worlds together, which brings our computer business and our components business together, in some cases as a selling motion.
+We're going to stick to the guns that we have.
+We have, already have a big, robust digital business.
+We are happy with it.
+We expect it to continue to grow.
+It's already growing at great leaps, but for us, it's about staying external to the market.
+And we just didn't see that as something that would do that.
+And the other thing is we just have no interest of moving into the industrial distribution space, so that's a clear differentiator now between the two companies.
+Yes, it was really nothing.
+You had some things that you could define as IoT, but it really wasn't something we measured.
+Today, as you know, that is something that is measured and I think it's a pretty big surprise that it's growing to that in our business at sort of the rates that it is.
+It shows that the market is embracing bigger, stronger cloud computing and more data transferring from what would be an end customer to a manufacturer for service possibilities.
+This is going to be something that is going to continue to grow and I think it will ultimately drive the market.
+I mean just think of anything IoT when you -- I mean you can take it as simple as the door lock on your front door or somebody knocks on your door and you've got a camera on them and you can talk through your cell phone to tell them you don't want anything of what they are selling and send them on their way and have a picture of them.
+This is our world and this is where it's going.
+And I wouldn't doubt that it wouldn't be 40%, 50% of the business down the road over the next five years.
+Sure.
+Actually, I'm going to let <UNK> take the digital piece of that.
+From our standpoint, we have our customers that are basically trading with both parts of our channels to market.
+We have customers that are doing online design activity and then as that project becomes more tangible and more real, then we are deploying more of our traditional sort of hard resources in the field to take that through to production and out the other side.
+So rather than being in conflict with each other, we see them as being complementary to the way that we support our customers.
+They choose how to interface with us.
+We need to provide them with the necessary capabilities to do so.
+So we continue to see customers trading with us increasingly through both channels to market rather than just purely switching from one to the other.
+So in essence, that's really been our strategy from the beginning, trying to be as customer focused as we are, we are not forcing anything down a customer.
+But when you think about the new inventors that are coming up, things that you've seen around crowdfunding, Indiegogo in specifics, that's a direct tie with our Internet.
+And then on Indiegogo, a lot of the designs that are coming up are basically now Arrow-approved designs, which tell people that the product can be built for the prices they say it can, and we will also say that we sort of validated the engineering and the product should be pretty good.
+So that's going to be sort of a good housekeeping label that you will see on those products for new startups and companies that are going that will be able to use our engineering online to help them sell their products in a crowdfunding way.
+So, what we are really doing is we're going to what used to be the lowest and earliest level of a product's inception all the way up to the largest customers out there and finding more efficient ways to deal with them at their supply chain.
+That's our strategy, has been our strategy, is going to continue to be our strategy.
+<UNK>, do you want to answer the federal government piece.
+Yes, sure.
+As I was telling <UNK>, we've had immix on board now for over a full year, and in that, time we've been able to kind of take the best of our ECS core business in North America alongside the best of the capabilities that immix brings to the table and kind of create a one plus one equals three.
+So, we are helping add to their line card.
+We are helping them expand their customer base.
+And as you know, September is the end of the US federal budget season, and so there's always a pretty good uptick in Q3, and specifically in September.
+And the immix acquisition from a line card perspective was very consistent with our overall strategy focused on software-based solutions, including security.
+Security is a pretty significant piece of their mix.
+And obviously the market is strong in that area as well.
+So your first question, the only thing that we had a little bit of surprise was sort of Brexit coming into the quarter.
+Everything really went off of plan.
+We sort of disclosed how we saw that push out, affect our business.
+My guess is that is the only difference between you guys calling this quarter a home run and sort of being ho-hum about it, which for us, we set records in all three categories, so it's kind of exciting.
+But in the end, that's sort of a difference, and we saw that.
+I guess -- I've become accustomed now that there is becoming more and more of those types of surprises than we ever saw before, although I don't have any of that in our planning for the second half.
+The planning in the second half for the computer business is still about us getting the new products up to speed as fast as we can, faster than sort of the decline of storage and the new cloud server stuff really off and running at a rate that can offset for us what is and has been a normal storage decline.
+It's nothing new for you guys, but that was something we had to overcome in our business, and I think we've done a pretty credible job of doing that and growing the business.
+It's kind of funny.
+If we didn't have those headwinds, we would be sitting here with unbelievable records.
+But the fact is that is the nature of the business.
+The business is always going to change.
+We're going to have to adapt.
+We are going to have more investment in cloud.
+We are going to have more investment in digital.
+We're going to have more investment in IoT.
+And I would expect that those things are going to be upsides for us in the second half past what we've thought of.
+So hopefully that answers your question.
+But we are not going into the second half with a bad attitude.
+We're going into the second half thinking that we are going to do a pretty good job in the market.
+I think there is a difference of strategy now that probably is highlighting itself in a more acute way that shows there's really differences in the companies, and it's something I've been touting for five years now where we've been headed.
+I think it's starting to show up.
+And come on in, the water is warm.
+You bet.
+Yes, from a high level, one of the reasons that we are not coming out with new targets for the computer business is that the hardware will catch up again and grow, especially in the storage range, and what you have is that market disruption right now.
+What you have are high growth rates for us in infrastructure, high growth rates in security, high growth rates in solid-state storage.
+And there will be some crossover point to where we are not artificially diluted by the rotating storage piece.
+And once that crossover point comes, you will have growth again in hardware, which is typically a little less profitable than our services and software piece that we actually do some work on and help customers get that integrated.
+So that's what we are struggling with.
+It looks good now.
+You could just say why don't you guys just drive the heck out of software and services for the rest of your life and forget about the rest of it.
+But the truth is we offer customers solutions to their problems, and if we don't carry everything, we are not going to have the solution, which is what we are known for, and that's what we're going to continue to drive.
+But that's sort of the macro problem that -- or actually it's more of a micro problem that we are dealing with now.
+But we fully expect for that to be self-correcting over the next few quarters.
+I better answer first because I'm getting older and I might forget the question before you get to <UNK>.
+The Brexit issue is -- a good portion of that has closed.
+There's a portion of it we are still working on.
+We don't expect any hiccups in the close of it over the quarter, but that's where we stand right now on it.
+And as I said, we believe things will sort of flow back to normal.
+We believe it was a hiccup.
+It was inevitable when you have that kind of a hiccup that somebody is going to say oh, wait a minute, but then at the end of the day, they still need that computing power in their data center, so they are going to spend the money whether they like it or not.
+And I think that's the situation here also.
+I'll turn the second piece over to <UNK>.
+On the cash flow, again, overall, we are very confident that we will continue on the trajectory that we've been on.
+I think, for the third quarter in a row, the cash conversion cycle did improve.
+I think what we are seeing internally and externally is a little bit of distortion around the quarter cut off.
+This year we closed on July 2, whereas last year we closed before the end of June.
+And I think with the calendar timing, it certainly did have an impact on DPOs and DSOs, and it's something we noticed.
+But overall, I have no concerns over where we are in cash flow and I think the trends will continue in terms of what we've been able to deliver.

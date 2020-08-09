@@ -1,0 +1,66 @@
+<UNK>, just to clarify one of <UNK>'s questions there.
+Let's go back to when we announced the settlement and one of the reasons why we took the settlement, took was to accelerate some of the R&D spending.
+So the issue of the recurring royalty being in our EBITDA, one of the things we said was we're going to spend a large percentage of that on accelerated R&D to try to create value for that.
+That's worth what we think more than what the settlement could have been in the future.
+So I just wanted to clarify that.
+Good point.
+Thanks.
+This is <UNK>, and I can probably scope that up to you.
+If you look at the FY14 spend, we thought as we went into 2015 it was a little bit less.
+Some of it pushed out into 2016.
+So probably looking at FY14, maybe increasing it by 5% to 10% based on that might be a good range.
+I think it's hard to say that here's how much that increase because of that, because you've got other things in the (inaudible).
+So the idea, though, is that we accelerate this settlement and it would give us the ability to create more value for our shareholders by investing that money in R&D advances than to hang on it -- onto it right now.
+We're not giving that out separately, you guys.
+But they are doing really well and they definitely made a meaningful mark into the margins for the quarter.
+I think I can give you directionally.
+<UNK> talked about and I talked about in the context of the Government segment, the strong backlog base going into the year.
+And we also talked about in 2015 that we had a year-over-year down-take in revenues but we had a really good margin improvement due to the service base growing.
+If you take that in consideration of a growing backlog going into 2016, and I think that we'll see the Government, in the government space grow.
+From Commercial EBITDA, just as <UNK> and I both -- and <UNK> touched on, is that's the segment that we make the investments in.
+So as well as add onto that the down-take in NBN as we start to wrap that up.
+We'll see a little bit, I think, of year-over-year transitionary in that segment.
+And then the Satellite Services is just going to continue to grow strongly.
+We also -- let me add to that.
+It's <UNK>, again.
+We're also increasing our R&D investments in our Government segment as well.
+I don't think you're going to see EBITDA grow as quite as fast as revenue in that segment this year.
+Yes, it's cyber-security, aviation.
+Our global mobile piece of that business.
+Both of those, we're [making] investments.
+They're not in there yet because that's not deployed yet.
+But they're in the backlog.
+We're going through aircraft-type certification, which is probably the long pole in the tent.
+So that could be probably next calendar year before we see that in service.
+Somewhere around the end of this calendar year to next calendar year.
+We won't make commitments to any of our customers that we don't feel are backed up by Eutelsat.
+They are aware of the issues.
+We're jointly coming up with ways that we can (technical difficulties) to airline customers service that they will like and that we can fulfill.
+I think Eutelsat's very interested in growing that market with us.
+So it looks promising.
+The way we look at it is that the bandwidth economics, the way you can project to an end user the capabilities of an in-flight Wi-Fi system, are really dominated by the economics of the satellite system itself, not the antenna.
+That's really a very second-order issue.
+When you're increasing bandwidth efficiencies by a factor of 10 or 100 on a satellite, the fact that you can make an antenna or 40% or 80% better is not really the driving factor.
+So, basically what we've done is come up with -- we have a set of antenna products, we have KU-only antennas, we have KA-only antennas and we have hybrid KA-KU.
+Depending on the antennas that our customers choose, we can provide them a service that is the best available in any given geographic area using -- with access to the resources that the antennas can support.
+So in some cases we have agreements to use, for instance, Inmarsat with KA band.
+We've been doing work with Inmarsat Wi-Fi in some areas where that's the best available satellite.
+In the areas where we have ViaSat 1, we use that.
+Areas where we can use Eutelsat, we'll use.
+Wherever the best available one is.
+In general, the high end of KA is going to be way better than that high end of KU.
+The high end of KU may be a little better than the low end of KA, depending on the specific satellites.
+There is some overlap in there.
+In some cases we will draw on KU, in some cases we will draw on KA.
+It's going to really be dependent on the geographies where airplanes or mobile terminals dwell, where they spend most of their time.
+We want to be able to use -- take advantage of the best available resources.
+And so far most satellite operators, to the extent they have bandwidth available, they're fine with selling us bandwidth to use for our customers in their coverage areas.
+Does that answer your question.
+Yes.
+What we've done so far is we've tried to do a good job of matching our customer demands, what we have demand for with what we will go out and purchase in the market.
+And we don't feel like we need to go off and speculate and acquire large amounts of bandwidth way in advance on multiyear contracts in order to get the lowest bandwidth price because all the bandwidth pricing that we can get is much higher than the bandwidth pricing we could make in the regions that we provide coverage, or where our KA partners are.
+So, that's really our source of competitive advantage.
+It's not really speculating or making long advance purchases in bandwidth.
+Great.
+Thanks a lot, everybody.
+We appreciate your time, and look forward to talking to you next quarter.

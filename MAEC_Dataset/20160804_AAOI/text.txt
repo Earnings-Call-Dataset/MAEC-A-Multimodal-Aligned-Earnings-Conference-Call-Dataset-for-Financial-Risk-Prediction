@@ -1,0 +1,153 @@
+Thank you, <UNK>.
+Thank you for joining us today.
+AOI deliver second quarter top and bottom line results well above our guidance.
+We accomplished a great deal in the quarter, and we are pleased with our progress.
+We grew revenue 11% over last year to reach $55.3 million, which was well above our guidance of $49.5 million to $52 million.
+We grew datacenter revenues 39% over last year and achieved record datacenter revenue for the fifth consecutive quarter.
+We resolved the operational challenges that we experienced last quarter at our [Ningbo], China factory with the support of our dedicated operation team, and this contributed to 310 basis point sequential improvement in our gross margin.
+We delivered improved profitability with non-GAAP earnings per share of $0.16, well above our original guidance range.
+We saw improvement in CATV demand as cable operator began to run out their deployment of DOCSIS 3.1 technology in their network footprint.
+And lastly, we completed the expansion and move to our new state-of-art fab facility in Sugar Land.
+We have hosted an Analyst Day in June, where we had opportunity to showcase our new facility.
+After a challenging start to the year, AOI delivered a strong second quarter.
+Our progress in the quarter reflects our commitment to operational excellence, and I'm especially proud of our team's hard work and dedication.
+While we still have work to do over the coming quarters, I'm confident that we are on the right pace to build on our momentum in the datacenter and CATV markets and achieve our long-term financial objectives.
+With that, I will turn the call over to <UNK> to review the details of our Q2 performance and outlook for Q3.
+<UNK>.
+Thank you, <UNK>.
+Total revenue for the second quarter grew 11% year-over-year to reach $55.3 million, well above our original guidance of $49.5 million to $52 million.
+Our strong results in the quarter were driven by continued demand for our market-leading datacenter products and an increase in demand for our CATV products.
+Datacenter revenue in the second quarter grew to $41.3 million, an all-time high, which represents 39% year-over-year growth.
+Continued demand for our market-leading 40GB products primarily contributed to our strong growth in the quarter.
+This quarter, 86% of our datacenter revenue was derived from our 40GB datacenter products.
+Demand for our 100GB products was in line with expectations, and we continue to expect 100GB shipments to increase in Q3.
+Leading hyperscale datacenter providers continue to see a growing need to upgrade and expand their infrastructure to address the demand for higher bandwidth and faster data speeds.
+Our ability to internally produce 10GB and 25GB lasers and 40GB and 100GB light engines, combined with our ability to quickly shift capacity between 40GB and 100GB products, provides AOI the flexibility to quickly scale to growing demand and adjust to customer needs as they evolve.
+We believe this is a key differentiator for AOI, giving us time to market and cost leadership advantages over the competition.
+We believe we have the leading market share within our current datacenter customers.
+Additionally, we continue to be active in qualifications with another hyperscale datacenter customer and are making good progress on this initiative, which is in line with our expectations.
+We look forward to sharing more information when a decision has been made.
+Turning to our cable TV market.
+Revenue from our CATV products in the second quarter was $9.5 million compared with a record $16.4 million in Q2 of last year.
+On a sequential basis, CATV revenue grew 23%, reflecting the usual seasonality as well as an improving demand environment.
+The increase in demand was driven by cable providers starting the initial phase of ramping up deployment of DOCSIS 3.1 technology in their network footprint.
+We are encouraged with the results we are seeing so far and are excited about the growth prospects associated with the DOCSIS 3.1 upgrade.
+Additionally, we announced during our Analyst Day that we successfully launched a new digital Remote-PHY product in an effort to enhance our market-leading position in the CATV market.
+We demonstrated this new product on schedule at the ANGA COM exhibition in Cologne, Germany in early June, and the reception from our CATV customers was very positive.
+As cable MSOs evolve to next-generation architectures that move more intelligence into the HFC plant, we believe our Remote-PHY products will play a significant role in their networks.
+Our telecom segment delivered revenue of $3.6 million, up 71% year-over-year, driven by continued demand from our telecom customers and new design wins.
+For the quarter, 75% of our revenue was from datacenter products; 17% from CATV products; and the remaining 8% from FTTH, telecom and Other.
+In the second quarter, we had 2 10% or greater customers in the datacenter business that contributed 42% and 32% of total revenue, respectively.
+Moving down the income statement.
+Q2 gross margin was 31.4%, ahead of our guidance, reflecting an increase of 310 basis points when compared with the 28.3% reported in Q1 of 2016 and a decrease of 230 basis points from the 33.7% reported in Q2 of last year.
+The sequential improvement in our consolidated Q2 gross margin is a result of the actions we took to resolve the operational challenges experienced last quarter at our Ningbo, China factory.
+In total, R&D expense was $7.7 million or 13.9% of revenue, compared with $8.3 million or 16.4% of revenue in the prior quarter.
+During the quarter, we continued to invest in design activity on our cost-reduced 100GB transceivers and other advanced optical products.
+In Q3, we expect R&D to decline modestly on a dollar basis.
+Sales and marketing expense was $1.5 million or 2.7% of revenue, compared with $1.6 million or 3.2% of revenue in the prior quarter.
+G&A expense was $4.7 million or 8.5% of total revenue, compared with $4.9 million or 9.7% of total revenue in the prior quarter.
+This brings total operating expenses in the second quarter to $13.9 million or 25.1% of revenue, down approximately $0.9 million when compared with $14.8 million or 29.3% of revenue in the prior quarter.
+On a year-over-year basis, total operating expense as a percent of revenue increased by 460 basis points compared with the second quarter of 2015.
+Non-GAAP operating income in Q2 was $3.5 million, compared with an operating loss of $0.5 million in the prior quarter and operating income of $6.6 million in Q2 of last year.
+Non-GAAP net income after tax for the second quarter was $2.8 million, compared with a net loss of $0.6 million in the prior quarter and net income of $6.1 million in Q2 of last year.
+We reported non-GAAP net income of $0.16 per diluted share, compared with a non-GAAP net loss of $0.04 per basic share in the prior quarter and non-GAAP net income of $0.38 per diluted share in Q2 of last year.
+GAAP net income for Q2 was $0.6 million or $0.03 per diluted share, compared with GAAP net loss of $1.3 million or $0.08 per basic share in the prior quarter and GAAP net income of $6.1 million or $0.38 per diluted share in Q2 of last year.
+The Q2 weighted average fully diluted share count was approximately 17.5 million shares.
+Turning now to the balance sheet.
+We ended Q2 with $47.3 million in total cash, cash equivalents, short-term investments and restricted cash compared with $58.5 million at the end of the previous quarter.
+Accounts receivable increased to $41.5 million compared with $34.9 million last quarter, and accounts payable increased approximately $8 million over Q1.
+We made a total of $17.6 million in capital investments in the quarter, including $6.2 million in production equipment and machinery and $9.7 million in construction and building improvements, mostly for our new production facility in Sugar Land.
+As the building projects in Sugar Land are completed, we expect capital investments in Q3 and beyond to moderate.
+As of June 30, we had $59.8 million in inventory, a slight decrease from $60.3 million in Q1.
+Moving to our outlook.
+We expect Q3 revenue to be between $56 million and $59 million, and Q3 non-GAAP gross margin to be in the range of 30.5% to 32%.
+Non-GAAP net income is expected to be in the range of $2.9 million to $3.8 million, and non-GAAP EPS between $0.16 per share and $0.21 per share using a weighted average fully diluted share count of approximately 18 million shares.
+With that, I will turn it back over to the operator for the Q&A session.
+Operator.
+Thanks, <UNK>.
+Yes, I think we're expecting both cable and datacenter to grow in the quarter.
+Well, I think, as 100GB ramps, we will expect to see a decline in 40GB.
+This quarter, as we indicated, 100GB is really going to be ramping.
+So there's going to be a transition period, I guess, you could say, between the 40GB growing, obviously, as it did this quarter and eventually declining.
+As far as the specifics of how that breaks out in this quarter or next quarter, it's a little difficult to say.
+But we would expect -- we don't expect 40GB to drop significantly, let's say, all at once.
+It will take a period of time for it to decline.
+So as far as the 100GB shipments, in terms of units, we shipped somewhat less than what we shipped last quarter in terms of units, which was in line with what we had expected.
+And as far as 100GB design wins, we didn't announce any design wins for 100GB in this quarter.
+Thanks.
+Well, with regard to the chipsets, that's really a question that's probably better addressed to either one of the chipset manufacturers or one of the customers that's buying them.
+We did guide for a ramp in 100GB starting in this quarter in Q3.
+And so clearly, our customers have, to some extent, at least resolved the 100GB problems they had.
+As far as of the availability of the chipsets, I won't comment on that because it's not our chipset.
+Sure.
+I think, as we indicated in our Analyst Day, AOI is prepared to maintain our cost leadership in the 100GB products.
+So the pricing environment has been competitive.
+There's no doubt about it.
+But we think we're well positioned to maintain gross margins and revenue growth, even in light of the competitive pricing on 100GB.
+No, I mean, pretty much what we said in the early remarks is what we have to say at this point on.
+The qualification is still ongoing.
+It's going well.
+It's within -- we're where we expected to be at this point in terms of the plan.
+And as soon as we have a concrete decision to make or to announce, we'll do so.
+We haven't really indicated any numbers.
+We don't really give guidance on a kind of by-product basis like that.
+We do think that the customers, as I said on the previous -- the answer to one of the previous questions, that the customers are moving beyond the problems that they had with the chipsets in the previous quarters.
+And so I think this should be the beginning of a sustained ramp.
+As to what exactly how much comes into this quarter or next quarter, we're not going to comment on the precise level.
+Well, certainly, mix is always an element for us among the different products that we have.
+But I think, as we talked about at the Analyst Day, we have a gen 2 100GB product, which is significantly lower cost, which will be coming online for us towards the end of the quarter.
+And so the 100GB margin profile will improve as that gen 2 product comes on board.
+But that won't be until later on in the quarter.
+So you won't see as much of the margin effect in this quarter as you will next quarter.
+Yes, I mean, well, all we said about the CapEx.
+We just repeated the CapEx numbers that we had in the quarter, which were -- stand by a second here.
+No.
+What we said about was that we spent $17.6 million total in the quarter, $6.2 million was on production equipment and machinery and $9.7 million on construction and building improvement.
+And then what we said is that, as the construction projects that we have ongoing are drawing to a close, that we would expect that portion of it, that is the $9.7 million that we spent in Q2 on construction and building improvements, we would expect that to start to go away.
+I mean, I think, it's achievable.
+I won't say specifically, over the next couple of quarters.
+But certainly -- I mean, it's not something where we've never expect to see that number again.
+I think, what we've said about the cable market is that this is the beginning of what we expect to be a long upgrade cycle.
+Cable, as you probably are aware, is relatively slower moving, I would say, in terms of adopting new technologies compared to, say, datacenter customers, for example.
+So we wouldn't expect the ramp to be as sharp.
+But I certainly think this has got the potential to be a sizable upgrade cycle and certainly one that we should be able to achieve that $16-plus million figure at some point in the future.
+Well, I think, if you kind of look at our FTTH results over the last few quarters, it's been kind of hovering up and down around that $400,000 to $500,000 a quarter figure.
+So we -- I wouldn't expect there's no catalyst -- that we would expect that to change dramatically in the next few quarters.
+Telecom has been growing as a segment for us pretty steadily.
+But again, that's kind of a -- this is a hodgepodge of different products that we sell for different applications and several different customers there.
+It's not an area of emphasis for us.
+So while we continue to look for opportunities to get business in that segment as well as any other one that we can find, it's not an area of emphasis for us.
+So I wouldn't expect that to be it, again, a big source of growth for us.
+They're also -- I mean, all those segments together are relatively small for us.
+So even if we did see some growth, even if it was healthy on a percentage basis, on a dollar basis, it would be small enough that whatever growth we see in cable TV and datacenter would likely dwarf that amount of business.
+Well, I think, the reality is that it's very hard to pinpoint growth in business quarter-by-quarter, right.
+I mean, we tend to look at business over a longer-term time frame.
+And I think, if you'll take a bigger picture, there's been quite a lot of good growth, both in the datacenter and most recently, in the cable TV business.
+So as far as how much of that we're going to attribute to the third quarter and the fourth quarter, it's just a matter of making a judgment on which quarter a lot of that revenue is likely to fall into.
+I'll also point out, as I have in the past, that some of our major -- both cable TV and datacenter customers have vendor managed or VMI or vendor-owned inventory programs.
+And that also makes it a little bit difficult for us to predict precisely how much revenue is going to fall in any particular quarter.
+And so we have to be appropriately conservative with respect to those VMI and VOI programs, because we don't have control over that -- the timing of that inventory.
+Well as I said, I think, 100GB is going to ramp in this quarter.
+I would not expect 40GB to grow at the rate that it has been over the last couple of quarters just because as 100GB comes on again, at some point, 40GB is going to peak, and start to decline.
+So I think, it's likely that we'll see a lower percentage of 100GB -- correction, a lower percentage of 40GB in the quarter and a higher percentage of 100GB in the third quarter.
+I didn't mean to say that.
+I was just saying it won't grow -- 40GB won't likely grow faster than 100GB is all I'm saying.
+It could shrink or it could stay the same, but it won't grow as fast as 100GB.
+Thank you.
+We are in the final stages of the qualification.
+But I mean, it's not done yet, so.
+I think, I heard sort of two questions embedded in there.
+The first one was regarding OpEx, right, and specifically, R&D.
+And yes, we said that we would expect our R&D to decline modestly sequentially from this quarter on a dollar basis.
+The second question seems to be more focused on CapEx, because you're asking about adding lines.
+And we didn't give specific guidance on equipment and machinery CapEx in terms of whether it's going up or down or what have you.
+But I did say that overall, CapEx should decline because we spent a lot of CapEx in this quarter on building projects, specifically, here at Sugar Land, and that part is ending.
+So we won't spend anywhere near as much on the buildings this quarter.
+As a result, the overall CapEx should decline.
+No, we still have significant net operating losses available in the U.S. In Taiwan, we do -- we're coming up against the end, if you will, of those NOLs.
+But that's -- in the U.S., we still got significant NOLs available.
+Yes, that's right.
+It'll tick up a little bit this quarter probably because, again, the NOLs in Taiwan have been largely utilized, but nothing in the U.S.
+Okay.
+Thank you for joining us today.
+As always, we thank our investors, customers and employees for your continued support.

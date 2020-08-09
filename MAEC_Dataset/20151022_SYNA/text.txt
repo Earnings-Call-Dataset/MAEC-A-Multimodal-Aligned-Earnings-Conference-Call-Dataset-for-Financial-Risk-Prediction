@@ -1,0 +1,152 @@
+Okay, I would love to give you a very detailed answer, on that, Ambrish, but I also don't want to show my competitive hand here either.
+As you can imagine, we're Synaptics, and when we delivered touch solutions, we deliver a whole family and a multiple generational family as well.
+We have some solutions that you will see in the first half of calendar 2016.
+You will see different solutions, frankly, later in the year.
+As you can imagine, we have a roadmap on ForceTouch.
+Some of those capabilities are matching what we have seen from analog devices and in other cases will be entirely different.
+One area that I think that probably will stand out is the cost-effectiveness of our solution.
+As we mentioned before, we don't require an additional device.
+We could leverage our existing touch controllers, we built in the capability into those touch controllers, at least for the first wave of solutions.
+To me given the competitiveness of the smartphone market, that's clearly a requirement, and the fact that we want to see force not just deployed as a very high-end solution, but across the mid-range phones as well.
+So key technology's clearly the user experience that we bring, the manufacturing I mentioned, that we bring -- once you start in to talk about variable force, across the screen, suddenly you have to measure everywhere on that screen and have that consistency in manufacturing.
+That's a nontrivial problem to attack, and you really want to go with an experienced vendor.
+And then of course, stating the obvious again, is the IP and background that we bring to the table that nobody else out in the marketplace really has that.
+Okay, another great question.
+And you're right, it is a lot of the same vendors that you see participating in the marketplace in India or Indonesia.
+And some of those same vendors recognize that's where the growth is, as we moved to kind of single -- high single-digits growth in the smartphone market.
+Those areas are double-digit growth.
+One example I can point to, for example, is the Samsung A8 device that uses our fingerprint solution.
+It's targeted -- one of the target markets was India.
+Another one of course was China as well, and that has done very well from what I understand.
+We also work with Google.
+Actually, the name escapes me on the particular initiative they have, but they want to set a baseline of Android features, and we are on the improved vendor list for touch, as an example, on how we are penetrating the India and Indonesia markets.
+The other nice advantage that we have is more and more touch solutions move to display integration.
+If it's a white-box type of phone that sometimes the smaller vendors use, our displays get integrated with our solution, and now we've set up a distribution sales force to participate in that market, and we work with the display vendors and they kind of just end up there and we don't have to do a lot of handholding.
+It's the great part about being in kind of by far the leader on display integration.
+We continue to keep our eye on India.
+One advantage we have is actually we have a pretty sizable engineering team now in India, and so if ever need, we can supply or provide local support there, as well.
+Not delivering any hints, I think over the last number of years, we've actually consistently purchased our own shares.
+And when the market, due to -- call it numerous forces out there moved into the mid-70s and even the upper 60s, we jumped into action, because it was, in our view, based on what we can see in the market and our opportunities, there is no better investment out there then Synaptics stock.
+So we were very aggressive last quarter.
+Now that's not an indication, and so I should be very clear: we are a growth company.
+And that is our first priority, is to make sure that we continue to grow that top line.
+We've done two major acquisitions.
+Kind of one over the last -- one each over the last couple of fiscal years.
+We are continuing to be actively engaged to look for other opportunities that can help us fulfill our vision and mission of being the human interface leader.
+But it has to make sense as well, we're not going to grow just for the sake of growing.
+It has to be a profitable growth, and again, has to be very strategic in nature.
+We're not giving up that mission, but we will continue to provide returns to our shareholders as necessary by acquiring our own stock.
+<UNK>.
+Okay I think I covered it.
+So <UNK>, Hi.
+It's <UNK>.
+We've talked about our operating model a number of times, and we expect the full-year to fall within our operating model, and just as a reminder, our gross margin model is 37% to 40%.
+Over the last couple quarters, we've trended in the 37% to 39% range.
+Q1 was no different.
+Q2 our guide is pointing to that range as well.
+We expect Q3 and Q4, based on what we see and what <UNK> talked about earlier in terms of our product mix, we continue to expect to see that our gross margins will fall into that range.
+Now, as far as operating margins are concerned, we've talked about operating margins of 15% or better.
+We've had a few quarters with the RSP acquisition.
+Where we have demonstrated that level of operating profit.
+Q1 was close to 15%, and we expect Q2, based on the mid-point of our guidance, to also be there, and we expect to drive Q3 and Q4 with that type of operating profit model as well.
+So we're going to operate within those parameters for the remainder of the year.
+To address kind of the middle part of your question there, we have no intention of re-entering the module business for ClearForce.
+Obviously, we had some history there about five years ago, but there's plenty of folks out there that do a fine job of doing that.
+That doesn't mean we don't have to roll up our sleeves and get into some mechanical aspects and other aspects of ClearForce that we did not have to.
+But again, that's how we add value, that system level knowledge that our customers really appreciate.
+In terms of ASPs, there should be some opportunities there.
+As we've discussed in the past, we don't need -- at this point, our solutions don't require an additional device, but it does drive a device that has more compute power, more memory, more channels to support the force function.
+So that will tend to slant the product mix to the higher end.
+Typically, our higher-end products have higher ASPs and higher margins.
+Okay, so let's start off with the analog devices.
+Frankly, <UNK>, I just leverage it off the question.
+It's a convenient way to talk about it without mentioning the customer's name.
+That being said, no, we don't see any -- call it broad spread interaction in the marketplace with ADIs solution with other vendors at this point.
+Now maybe at some point they will jump into the market, but in general, I don't believe they compete in the mobile space.
+So we're not really anticipating it.
+So in your second half of your question, as I had mentioned, yes, we do expect higher ASPs in the marketplace.
+In general, we do pretty well in the high end, so this just solidifies our position out there in the higher end of the marketplace.
+Whether we have share gains or not, I think it's a little early to make those calls.
+Of course, <UNK>, I'm not going to jump into the party if one of our peers has talked about one of our OEM launches.
+I'm not going to comment on their timing or the magnitude of those launches.
+At this point, I'm only going to talk about Q2, and we gave as much color as we could on the second half of the year.
+So, can we take advantage if there is pull-ins and all that.
+We have the world's best operations organization, and we don't talk about it a lot, but they accomplish miracles all the time.
+We love customer challenges, whether it's two weeks from now or two months from now.
+We love when our customers pull in launches or increase volume.
+Okay, so first you asked about the timing or the steepness of the ramp.
+The timing is, again, what I think I have been saying for at least a couple quarters now is, we would have our first unified TDDI device ramping in volume production at the end of this calendar year.
+We are right on target.
+In terms of limitations, the biggest limitation is that it tends to be a longer design and cycle then maybe historically you've seen from us with our touch control -- our discrete touch controller solutions, as an example.
+We have to work with the LCD manufacturers very early on.
+They actually cut glass specifically for our solution because we have a specific pin-out.
+The other limitation there is, in some cases, it's the first time they are doing in-cell touch solutions.
+We kind of have to go through that learning cycle with them.
+All of that is good, because it obviously embeds us then as the incumbent supplier, but it does take a while.
+Now, we've built that into the discussion that we've had in terms of available solutions for our side on TDDI, as well as the expected ramp that we have from our customer base.
+That's why [we said] well, we'll start this year -- we'll be fairly light as we go through that learning cycle, but once we get that first device out there, get those first solutions, the LCM manufacturers understand how to build with our TDDIs and do embedded -- excuse me, do in-cell touch.
+You will see a very nice ramp as we move through the balance of the fiscal year, and then of course calendar 2016 will be very exciting.
+We have multiple plays in the PC business.
+It's always tough, as you can imagine, <UNK>, when the market shrinks 10% year-over-year to develop a great way to grow your business.
+And for us specifically, of course, it's client notebooks.
+And is force an opportunity.
+Yes.
+Keep in mind that force for notebooks tends to be a little more expensive solution, because you tend to want to use glass on the touchpad as well as the actual implementation.
+If you have haptics, it can tend to be a little more expensive.
+So there are obviously our few force pad solutions in the marketplace, but they all had to be higher end, which then of course tends to be limited volume, given the competitive nature of the notebook market.
+But where we see some real interesting opportunities in the PC market is a couple of areas.
+One is SecurePad.
+You will see solutions launched in the first half of calendar 2016 with SecurePad, which for those that don't know, that's where you have fingerprint actually built right into the touchpad.
+A lot of interest in that solution.
+And then, we've talked previously, not so much in the prepared remarks this time, about some of the solutions that we're bringing for the desktop marketplace.
+Again a fingerprint solution in a mouse or a keyboard or something we call SmartBar to help in gaming, which is a strong part of the PC marketplace.
+But all of those are in the desktop area.
+Okay, thanks, <UNK>.
+First, I should talk more -- somewhat similar to the question I had earlier about where's Synaptics going in terms of capital allocation and so on.
+As you can see from the last few years, since I have been on board here at Synaptics, our plan has been growth.
+We have done a number of acquisitions during that time period, including very sizable ones for, at the time, the size of our company.
+We continue to aggressively look at that path, and really that's the priority.
+When I'm thinking about where this company wants to go, we're going to continue to drive the company on a growth path, continue to be aggressive out there, look for opportunities, but they really, really have to be the right opportunities.
+I think we've demonstrated that we have been particular, while aggressive, to land the right opportunities that can turn accretive pretty quickly, be strategic to the company, and ultimately to hit our first priority: allow that growth that we seek on both a short-term and a long-term basis.
+Well, as I said, I think about every day on how we can get can grow as an independent company.
+Obviously we are a public company, and at some level you always have to be open to other ideas out there, but again, my mission is to grow.
+Okay, hi.
+It's <UNK>.
+Just as a backdrop, we're continuously looking at opportunities to manage our global footprint as best we can.
+<UNK> talked earlier about the fact that we've got a large and growing operation in India.
+We've also got a large and growing operation in China as well.
+And so, as far as we're concerned, we're continuing to invest.
+If you take a look at our head count sequentially, even coming into this quarter, it has grown.
+We have grown as a company.
+And sequentially into next quarter, we expect to grow as well.
+The guide down into December.
+Part of that had to do with the restructuring that took place related to our RSP acquisitions.
+So we called out the restructuring that we had completed, and we're going to start the benefits of that restructuring right away.
+We're going to continue to invest where we feel it's necessary, and we're also going to follow our operating model.
+So we're going to continue to do both.
+Obviously, we're taking a look at all types of discretionary expenses.
+As <UNK> talked about earlier, the market has softened a little bit, and so our entire global workforce is looking at discretionary expenses as well and seeing where we can save, and so we will continue to tweak that and to take a look at that.
+And if we can find a few basis points to add to the bottom line, we will.
+We continue to be focused on investing in the right places, and actually continuing to increase our headcount.
+But with our global footprint in mind, rather than just our domestic footprint.
+Yes, thanks for the question.
+If you just look at the quarter we just completed, to put it mildly, there's a little bit of churn in the marketplace.
+And whether it was China or some of the other aspects of there, and then at the end of the day, we've knocked it bang on, right exactly on our midpoint on almost everything, gross margin, OpEx, and revenue and so on, despite all the churn out there, and one thing that's really hard to control as a company, of course, is what the markets do.
+That's kind of why we have that disclaimer of there: well, we've got a plan, we feel really good about our roadmap, but as I said, I feel much better about our roadmap than any time in the history of the company, given just the number of cool solutions that we have ready to roll out there.
+But, we can be surprised.
+China is an example.
+I think it's valid that you brought up.
+It's softer than we expected back in July, when we initially gave the annual guidance.
+We were expecting the China smartphone market continue to grow, obviously, at much moderate pace than in the past, but that's clearly -- Now, as we look forward over the course of the fiscal year, it's probably flat in terms of growth.
+So the smartphone market overall, the expectations are somewhere in the high single digits as we look calendar 2016 over calendar 2015.
+Obviously the PC or notebook marketshare numbers have come down.
+So we've compiled all of those things over the last couple of weeks, just like we did back in July, stared into our crystal ball, and listened to our customers.
+One thing -- advantage we have now that we didn't have in July: we're three months smarter.
+We understand a few designs that we now have, but there is still a lot of work to be done here at the company.
+So fairly long answer there just to say, yes, we're doing our best jobs looking at a fairly turbulent market and making a call based on the best information we have today.
+Okay.
+Thanks for all the great questions.
+It's always good to hear what's on everyone's mind.
+One thing I just want to again remind you, that we do have our analyst day here in a few weeks, and at that time we typically give a competitive update, our market shares, all those different additional color on a number of the questions that we got today.
+I hope everybody can make it, and I look forward to spending the day with you.
+Thank you very much.

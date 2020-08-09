@@ -1,0 +1,222 @@
+Good morning, everyone.
+With me on the call today is Mike <UNK>, President and Chief Executive Officer of DHI Group, Inc.
+; and <UNK> <UNK>, Chief Financial Officer.
+This morning, we issued a press release describing the company's results for the third quarter of 2017.
+A copy of that release can be reviewed on the company's website at dhigroupinc.com.
+Before I turn the call over to Mike, I'd like to note that today's call includes certain forward-looking statements, particularly statements regarding future financial and operating results of the company and its businesses.
+These statements are based on management's current expectations or beliefs and are subject to uncertainty and changes in circumstances.
+Actual results may vary materially from those expressed or implied in the statements here due to changes in economics, business, competitive, technological and/or regulatory factors and the planned divestitures of our non-tech businesses and the possibility that such divestiture does not occur.
+The principal risks that could cause our results to differ materially from our current expectations are detailed in the company's SEC filings, including our Annual Report on Form 10-K and Quarterly Report on Form 10-Q, in the sections entitled Risk Factors, Forward-looking Statements and Management's Discussion & Analysis of financial conditions and results of our operations.
+The company is under no obligation to update any forward-looking statements except where it is required by federal security laws.
+Today's call also includes certain non-GAAP financial measures, including adjusted EBITDA and adjusted EBITDA margin.
+For details on these measures, including why we use them and reconciliations to the most comparable GAAP measures, please refer to our earnings release and our Form 8-K that has been furnished to the SEC, both of which are available on our website.
+With that, I'll turn the call over to Mike.
+Great.
+Thanks, <UNK>, and hi, everyone, and thanks for joining us this morning.
+I'm going to spend some time today recapping the key initiatives that we commenced to move our tech-focused strategy forward and our progress against them in the third quarter.
+I'll also discuss the market dynamics that are impacting our business today as well as our view for what will move the dial in 2018.
+Then I'll turn it over to <UNK>, who'll provide an update on our financials.
+And before we open it up to questions, I'll talk briefly about the CEO succession plan that we announced this morning.
+During our last update, we outlined strategic objectives for the second half of 2017 that we believe are paramount to us being successful.
+We certainly made progress on many of these and we're transitioning from the implementation stage to the execution stage now.
+We've got most of the people and resources in place and now we're focusing on executing initiatives, evaluating feedback and making adjustments accordingly.
+It's an iterative process and with our product initiatives and refined value proposition, we expect it'd take some time before the impact is realized in our financial results.
+The first goal we highlighted last quarter is returning the Dice business to growth.
+We've done a number of things to organize around this objective and we're focused on improving our sales execution as well as evaluating our product offering.
+To carry this out, we believe having a fully dedicated tech-focused sales organization in North America will drive a growth agenda for indirect and direct sales.
+We hired an EVP of sales late in the quarter and expect to see improved performance from that area in the near term.
+In evaluating our services, we must focus our efforts on the core of what we do best so we've refocused resources from products like getTalent to accelerate results in the Dice service.
+For example, getTalent is no longer offered as a stand-alone service, however, elements of it including shifting some of the talent who worked on the product, are benefiting Dice.
+We also began serving the Mainland China market from our Hong Kong office, which created a more efficient cost structure for us going forward.
+These are just 2 examples of how we're continuing to look at how we serve our markets and best deploy our resources.
+Other factors we're addressing to return to growth is making adjustments in our go-to-market strategy through our bucket deal approach, mobilizing our enterprise sales force and offering more flexible payment options like pay-for-performance and monthly billing to better meet the needs of our customers.
+We've certainly had success in pay-for-performance at ClearanceJobs and some early wins at Dice with monthly billing yielding incremental sales, but there's more to be done here.
+Our second goal was repositioning the tech-focused franchise as the go-to resource to find and connect the best talent.
+On Dice, we've increased investment into product development around our core offering.
+Our solutions approach remains, and we see focusing on branding, and product improvements will boost efficiency and deliver highly-skilled candidates to our clients.
+The number of Dice recruitment package customers with Open Web access rose 7% in the quarter and the penetration among Dice recruit package customers rose to 37%.
+These are small signals of the power of Open Web and validation that it's proving valuable to customers who are recruiting for hard-to-find tech professionals in a market where specific skill sets are scarce.
+The usage rate among customers is still pretty low as they continue to adapt to accessing talent through the traditional Dice database and through Open Web profiles.
+In the next few months, we'll release our Talent Search 4.0, which will improve the integrated search process for both Dice and Open Web.
+Improving the search experience for our clients is a key to saving time while sourcing.
+A solution we rolled out at ClearanceJobs will be further joined into our integrated search in the months ahead.
+This product feature, which we call IntelliSearch, cuts search time from minutes to seconds.
+IntelliSearch essentially takes the job description and uses that as the search mechanism.
+By using skills and job-specific words from the full job description, this feature populates best match candidates.
+Gone are the days of long and complicated boolean strings to attempt to find the right candidate.
+The deep machine learning in this and our contextual search makes a painful and not very efficient process more manageable, especially for generalist recruiters who have trouble with very specific tech or security-cleared searches.
+Developing effective APIs for our clients continues to be a strategic priority for us.
+We've added more partners and advanced discussion with some key players to move this initiative further ahead.
+This is an important component of demonstrating ROI for clients and solving the attribution issue so many of us in the employment industry face today.
+We're seeing subtle improvements and today, about half of the customers integrated with our APIs are actively using them.
+One of the important KPIs related to these tools is the renewal rate of customers with API integrations, which today outpaces our overall renewal rate.
+This reinforces (inaudible) as customers become more familiar with the various tools and as we continue to make them easier to access, they have a better experience recruiting tech professionals.
+Improvements to our talent search, including better location functionality, enhanced user interface with filters, managed alerts and advance search, has been rolled out to new business customers and certain enterprise customers.
+A lot of these features boost our search tool and ultimately help recruiters be more efficient and effective while sourcing.
+Last quarter, we mentioned the rollout of ClearanceJobs Voice, a new tool, which leverages voice over IP technology, to offer live on-demand voice chat between employers and professionals.
+Voice lets employers talk directly to candidates logged into ClearanceJobs in real time so they can connect, talk about job opportunity and gain each other's trust.
+There are no apps to download or plug-ins to install, ClearanceJobs Voice works directly through the user's web browsers.
+ClearanceJobs is the first online career site to offer live voice over IP communication between employers and candidates.
+The backlog, today, has reached over 700,000 people waiting for security clearance, and the processing time for a top-secret clearance is now over 500 days.
+The demand for security-cleared talent so greatly outstrips supply that defense contractors hiring security-cleared talent have reached a roadblock.
+ClearanceJobs Voice solves the major pain point of connecting the right talent at the right time and we'll be releasing a deeper integration of Voice in 2018.
+The market to source and recruit tech talent continues to be a challenge.
+The unemployment rate for tech professionals remains incredibly low and with employment today considered nearly full, recruiters are tasked with offering unique perks and relevant job opportunities.
+One of the ways we stand apart from competitors is our focus on skills.
+Our search is tailored to skills, not job titles.
+Our resume database and Open Web profiles are centered around skill sets and the combination of those skills, which are a tremendous value to employers.
+We began to see progress from our incremental marketing spend and holistic marketing approach, aligning professional-facing initiatives with customer-facing campaigns.
+Part of this included partnerships with online news site, Bustle, which culminated with a co-branded study reporting on career and pay gap for women in technology and us sponsoring their Annual Upstart awards, honoring entrepreneurial millennial women.
+If you check out the Bustle-Tech channel in the month of November, Dice has exclusive positioning to this incredibly important audience.
+We're also targeting spend on increasing awareness among professionals and employers in secondary tech markets.
+Our Dice local campaign, which includes radio spots, events and advertising today in Atlanta, Salt Lake City and Charlotte is in its early days, but so far has seen an uptick in page visits, driven by radio and banner ads in those markets.
+Our third goal is deepening professional engagement through the products, services and insights we deliver.
+Because the market to recruit tech talent is so heated, highly-skilled candidates are in the driver's seat with choosing ideal job opportunities, yet have a lack of resources to inform their career decisions.
+One of the tools we use is Dice Careers mobile app, which delivers tailored salary, job recommendations and carrier-pathing data, based on tech pros information.
+The app accounts for about 20% of our unique visitor traffic today and has had over 500,000 downloads to date.
+The average number of monthly unique visitors continues to grow from a year ago.
+There are variety of salary calculators like this in the market, but our focus on skills instead of titles sets us apart.
+We compete on skills and the content career mapping and search we provide is all based on this concept.
+The app experience is also available on desktop, in beta, and we'll have a lot more to say about that in the future.
+Dice has a unique voice in the tech community with our combination of skill expertise and employer insights.
+We launched the first ever Dice ideal employer survey where tech pros choose their top companies based on a series of attributes and strengths.
+The study creates a lively discussion and reveals how tech pros feel about places they may be looking to work.
+The content has been some of the most commented on stories on social to date, and also serves as a valuable lead generation tool for clients.
+We launched Ideal Employer, originally with eFinancialCareers and received positive reaction for the in-depth analysis, career data it provides on Wall Street employers.
+Content has been a central part of the eFinancialCareers platform and continues to be an area of focus as we think about how we attract professionals to the product and move them through the funnel to relevant jobs.
+In fact, we surpassed 2 million unique content users in the quarter, further highlighting the demand among financial services and fintech professionals for this specific information.
+We also launched a new eFinancialCareers homepage to provide a more personalized user experience based on end users' behavior and usage of the site.
+So far, we've seen a lift in visits to content and rise in applications to jobs with this approach.
+The redesign improves relevancy by showing financial professionals the right content at the right time.
+So that we're with professionals every step of the way of their careers.
+As we position ourselves for future success, creating an efficient organizational structure to serve the changing needs of our customers is important.
+It's our fourth goal and we've already laid the groundwork here to propel us in the short term and in the long term.
+For example, we've migrated many of our services to a cloud-based platform, which reduces downtime in the event of an outage and also creates a simplified infrastructure for our brands.
+While many of these are happening behind the scenes and not necessarily customer facing, we're seeing the benefit in some ways through cost savings and <UNK> will discuss cost structure later on.
+This is a pivotal time for DHI.
+The competitive market is as fierce as ever and the broader recruitment environment is a challenge as employers are inundated with tools and solutions from every direction.
+When I was at the HR Technology Conference, a few weeks ago, I was impressed by the growth of players in our industry, including Google, who is pushing forward its jobs widget and testing along the way.
+These new large generalists are reinforced but DHI serves a specialized slice of the recruitment industry.
+Our value proposition of delivering relevant tech, fintech and security-cleared talent to companies today through our targeted knowledge of skill sets is really unmatched.
+The onus is on us to continue to improve the quality of our products, offer tailored insights and serve the employer and the professional communities with the best experience.
+Our evolution to a functional organization is largely complete and with the addition of our new EVP of sales, we've got all the players to executing against our strategy and drive performance.
+Our people are our most valuable asset and a good team makes all the difference in our success.
+The next phase for our company is an exciting one, including further investing in the solutions we provide, focusing on resources behind our core brands and discovering new areas we can grow.
+And with that, I'll turn it over to <UNK>.
+Thank you, Mike, and good morning, everyone.
+Today I'll review the key points of our third quarter 2017 financial performance.
+I'll address our fourth quarter outlook and discuss the financial aspects of our tech-focused strategy.
+Before I begin, let me explain our new segmentation.
+Effective in the third quarter, the company organized its leadership around its tech-focused strategy.
+As a result, the company is now reporting 2 segments: our tech-focused; and our Health eCareers segments.
+The tech-focused segment consists of Dice, ClearanceJobs and eFinancialCareers.
+Our other businesses, Hospitality, Rigzone and BioSpace, have been included in corporate and other.
+We've provided a supplement in the appendix of today's presentation materials that recasts our segmented results in prior periods.
+Now on to the review.
+Third quarter results were consistent with our expectations that the rate of decline in revenue would start abating, helped by exchange comps becoming easier with the British pound fallout in mid-2016 that followed the Brexit vote.
+Revenue for the quarter declined 7% with the tech-focused segment down 7% and the non-tech businesses down 5% year-on-year.
+Exchange was not a factor this quarter.
+Drilling down on the key components of our tech-focused business, Dice U.S. revenue declined 10%, with recruitment package customers at 6,600, down 9% year-on-year.
+Customer renewal rates have stabilized in the mid-60%.
+Average monthly revenue continues to hold around $1,110 per customer and 95% of our contracts are 11 months or longer.
+However, what we're not seeing yet is the uplift in net new and win-back customers, which we expect should occur as we gain more traction with our enhanced product features, we extend the more flexible terms to meet the needs of different types of customers and fully execute on our sales and marking strategies.
+Moving on to eFinancialCareers.
+Revenue declined 6% and was impacted mostly by persistent Brexit-related concerns.
+While sentiment on Brexit seems to be improving, customers remain hesitant regarding the long-term hiring plans.
+For ClearanceJobs, revenues grew 23%, although billings grew at a lower rate of 10% due to the continued tight labor supply of security-cleared professionals.
+For our non-tech businesses, which comprise Health eCareers, Hospitality, BioSpace and Rigzone, total revenue was down 5% for the quarter compared to declines of 12% in the first half in -- of this year, due mainly to easier comps, particularly in energy.
+Third-party operating expenses before depreciation, amortization, stock-based compensation and disposition related and other costs, increased 2% over year -- year-over-year.
+With higher tech-focused marketing and product development expenses, partly offset by lower cost of revenue and sales expense, with general and administrative cost being flat.
+We continue to carefully manage expenses, particularly in areas that have a less meaningful contribution to our tech-focused business.
+Our headcount, so far this year, is 6.5% down and the rationalization of resources, such as discontinuing getTalent and servicing China from Hong Kong enable us to achieve savings to help mitigate the impact of lower revenue and redirect resources to product and marketing efforts.
+Adjusted EBITDA for the quarter was $10 million, including $900,000 for disposition-related costs.
+Our adjusted EBITDA margin, excluding this impact, was 21%.
+Depreciation and amortization expense declined $900,000 from last year, mainly due to energy-related impairment charges that were taken in 2016.
+Stock-based compensation was down 28% due to forfeitures and lower grant-date values.
+The interest expense increase was due to a write-down of $410,000 in deferred financing costs, related to the reduction of our credit line, which will save us $400,000 in annual commitment fees.
+Excluding this charge, interest decreased from lower average borrowings.
+Our effective tax rate of 22% benefited from a discrete tax credit realized this quarter.
+Net income for the quarter was $1.1 million, or $0.02 a share.
+This quarter net income was impacted by a number of items, many of which are the result of initiatives we're pursuing to move the company forward.
+These include discontinuing getTalent, which caused a $2.2 million fixed asset write-off.
+However, this enables us to save or redeploy the $3 million in expense and capital incurred on getTalent this year.
+Costs related to planned divestitures and the realignment of our tech-focused organization of $1 million, mostly for termination and retention costs.
+And the write-down in deferred financing cost of $410,000, that I already described.
+We also incurred significant cost in this and prior quarters for (inaudible) and legal matters.
+However, on October 24, we received $3.3 million in restitution, which will be accounted for in the fourth quarter.
+Cumulatively, these unusual expenses impacted earnings per share by $0.05 for the third quarter.
+We generated $3.5 million of operating cash flow in the third quarter, compared to $12 million last year.
+The decrease is mainly due to lower cash earnings and billings as well as a cash benefit in the prior year period from improved receivables collections.
+Net outstanding on our revolver was $69 million at the end of the quarter, down $23 million year-over-year.
+Deferred revenue was $81.8 million, slightly below the prior year balance as lowered billings were partly offset by an increase in the average contract length.
+Looking at the rest of the year, we don't see a significant change in our tech-focused business trends as it's taking longer to acquire and win back Dice customers in the current competitive environment.
+In that context, we would expect the modest improvement in the rates of revenue decline, helped by ClearanceJobs' continued growth and better change comps for our finance business.
+Typical environmental factors are not expected to change materially.
+The trends in our non-tech-focused businesses should also continue for the rest of the year.
+Fourth quarter spending growth will be slightly higher than the third quarter due to increased marking efforts with candidates and recruiters.
+Our ongoing rationalization effort should enable us to make that investment and maintain -- and still maintain an adjusted EBITDA margin after disposition and related costs of approximately 20% for the full year, continue to invest in key product and marketing initiatives.
+As we've discussed before, the benefit to our top line from the various initiatives can have a delayed effect, so we expect the current level of margin to persist for some time.
+But we don't view this as our normal run rate.
+For other items in the fourth quarter, depreciation, amortization, stock compensation, those should be consistent with third quarter run rates in total.
+The LIBOR spread on our loan will increase 25 basis points.
+The tax rate should be our normal, 38%, and the diluted share count should be approximately 50 million.
+Given the inherent uncertainty of such processes, we're not assuming for the fourth quarter any proceeds from the divestiture of our non-tech-focused businesses.
+We've experienced a considerable amount of activity and interest since we began the process, and we continue to be engaged with a number of potential acquirers across all the businesses, but there can be no assurance that any of these will result in a fourth-quarter transaction.
+We believe our non-tech businesses are valuable and it's important to note that they performed above our expectations during this current process.
+Regarding our near-term capital allocation policy, as we've indicated before, we remain focused on preserving liquidity to ensure we can adequately fund our growth initiatives, namely investing in our tech-focused business and making opportunistic bolt acquisitions.
+Therefore, free cash flow generation will be applied against our revolving line.
+Once we gain a more definitive view of the divestitures outcome, we can then reevaluate our current capital allocation policy, which in the past, included returning capital to shareholders.
+So to recap, the topline results are taking longer than expected to improve but we feel we're making progress on multiple fronts in our tech-focused strategy while continuing to rationalize our resources carefully.
+This should position us well to leverage our unique skills-based capabilities and meet the needs of the growing tech professional recruitment market.
+As always, I thank you for your interest and I'll now turn the call back to Mike.
+Okay.
+Thanks, <UNK>.
+So before we turn it over to Q&A, I just want to address the announcement we made today that the Board of Directors and I have initiated a CEO transition plan.
+The company continues to make progress on our single tech-focused organization and as we continue this transition and now have a full management team in place, the Board and I believe it's the right time for the company's evolution to now implement the plan.
+So the board has commenced a search and we've hired Heidrick & Struggles to lead that search.
+So I'll continue to be the CEO until March 31, or until a successor is found.
+If earlier, then I'll help provide transition in that process and if it takes a little while longer then I'll stay a little longer until we find that person.
+I think all of the people who work in the organization are absolutely focused on moving forward with our strategy and executing on our product roadmap and our strategic plan, we're all in it together.
+There's great opportunity for this business.
+We need to execute on that and everybody here is focused on it and the Board and the management team are all confident that we have the right strategy and we have to execute on it.
+So that is the focus of the company.
+It has been and will continue to be for the foreseeable future.
+And so with that, I'll turn it over to questions.
+Operator.
+So I think, when we look at customers who don't renew and I know we say this all the time but I'll just remind everybody.
+When we talk about renewal rates of mid-to-higher 60%, that is measured in the month that they are up for renewal.
+So we get some number of those back over time, which is roughly a third to a half over time, whether it's the following month or 2 months or 3 months or 6 months later.
+So just by way of background and as a reminder, that's how we measure retention rate.
+So with that, the most popular response we get is no need.
+Now no need comes in a variety of forms.
+It could be somebody had a number of positions, they filled them and they don't have a need and when they come back they come back as shorter-term customers, may have been somebody building out tech organization, they finish that and off they go.
+Competitive environment, there are generalists who get a bulk of the spend whether it's LinkedIn or Indeed, where customers allocate a fair amount of their spend across those generalists because they serve the needs in sales, in marketing, in accounting, in admin and in operations, customers will go to them.
+That is -- those are the two biggest points of feedback we get.
+Occasionally, we don't find the person or the tech pro that they're looking for because they're very hard to find in geographic markets that are tough to fill or in specific skill sets that are tough and they come to us thinking as a specialist we will find them and occasionally we can't because those people don't exist.
+So that's another reason but that -- those reasons generally haven't really changed materially over the years.
+That has been the pattern of responses when we talk about why people don't renew when they're up for renewal.
+So the -- I'll answer the second piece.
+Yes, there is some component of the Dice recruitment package customer world that Open Web probably wouldn't be appropriate.
+We like to think it's appropriate for everybody but there are some customers who like to post jobs and not search a database whether it's the proprietary Dice database with resumes and profiles or whether it's the Open Web-generated database with publicly-available information used to create an aggregated profile.
+One of the things we find and I referred to this earlier, and talk about usage is, yes, we're really trying to push Open Web as a way for customers to find both active- and passive-tech professionals, we generally don't like to use active and passive, but the world does so we refer to them as such.
+One of the things we find with Open Web is customers that are used to Dice who are used to interacting with tech professionals who have a resume or have a structured profile tend to be more responsive, I think it's obvious, than somebody accessed through Open Web who doesn't have their profile or their resume in a place but we've gotten information about that person that we're able to provide, the response rates are lower and similar to, let's say, somebody like LinkedIn.
+So certain customers really want to address the active database much more than they do the passive.
+So we've never thought that Open Web would have anywhere near full penetration of our customer base but we're working on improving the search technology and how the search of the Dice database and the Open Web database interact, which we think will make it more attractive to a greater customer base.
+But to answer your little question is that we believe there's a limit on the number of Dice recruitment package customers that would find Open Web useful just by the nature of the way they search.
+So yes, I -- the primary focus has been on existing Dice users as we've rolled out the features and functionality.
+Over time, we'll do more of a marketing push and product distribution push, so that we're reaching tech professionals that aren't current users of Dice because our strategy is to go find tech professionals wherever they are, whenever a customer needs them, not purely rely on bringing them to our site or to the mobile app.
+The monetization from that will come from increased usage and activity levels and engagement from the professionals, which will monetize through clients, customers, recruiters, not for the foreseeable future, through the app itself.
+So it is a way to reach tech professionals.
+It's a way for tech professionals to engage with us and ultimately, see career opportunities for which we monetize in the way we always have.
+Wondering if you can just flush out your sales and marketing investments a bit more.
+Any changes to your marketing strategy.
+Sure.
+So if I break that into sales and marketing, our sales go-to-market strategy is similar to what it's been, but we are quite excited now about having organized the North America team around the 3 brands that we have as part of our tech-focused strategy, Dice, ClearanceJobs and eFinancialCareers, and expanding the opportunity to penetrate the market with each of those 3.
+So having a new leader over those 3, which is a position we've never had before in our old structure, I think we're quite excited about and that person will bring some historical knowledge, and experience into the market -- from the market -- to us, that will increase our sales performance, I believe.
+But no real great change from a sales standpoint.
+From a marketing standpoint, the strategy continues to be to push into the market with our offerings to engage tech professionals.
+That will come through a variety of ways, one is increases in product, one is social distribution and engagement techniques that aren't, what I would call traditional marketing.
+But from a more traditional marketing standpoint, it's going to further distribute our offerings to places where tech professionals are, and bring opportunities to those professionals, again, wherever they are, not purely focused on trying to attract people to the site and engage on the site.
+Thank you Steve.
+We appreciate everyone's interest in DHI Group.
+If you have any follow-up questions, you can call Investor Relations at (212) 448-4181 or e-mail ir@dhigroupinc.com.

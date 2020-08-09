@@ -1,0 +1,64 @@
+Okay.
+<UNK>, I'll take that, and perhaps <UNK> will jump in.
+Look, business is good with cable operators I guess is the headline there.
+The dynamics on the two sides of our business are indeed different.
+We've got a -- the market leading EdgeQAM platform.
+Where EdgeQAMs are needed, we think we're winning the business.
+And we had a modestly up quarter in legacy EdgeQAM.
+That being said, cable operators are embarking on a big architectural transition.
+And frankly, where possible, they're looking ahead with their investments to this next-generation CCAP.
+And in our particular case, as we get closer and closer to general availability of our new CableOS platform, naturally, we see customers pulling back a little bit and waiting -- looking ahead to that platform.
+So, that's what's behind the commentary about softening Cable Edge demand in the second half of the year as we transition from legacy EdgeQAM to our new CableOS launch.
+And on the other side of the equation, things have been going well for us on the digital video front with cable operators.
+And frankly, there was a real slowdown last year.
+But, a combination of the UltraHD we were just talking about and some real significant advancements that we've made around compressing high-definition content and some of the interesting things we're doing around over the top, we've got good momentum with cable operators on the video front worldwide.
+And of course, the subscription numbers that you've seen for cable as well as the broader pay TV space are not bad.
+I think it's clear that the -- well, over the -- while the cord cutting is a threat, I think it's not one that is turning out on the short term to be that damaging to our service provider businesses, customers' businesses.
+And they're responding to the threat.
+So, we've seen a resurgence actually in spending not only in cable, but also in satellite direct to home as well as telecom.
+And while our largest customers are notoriously reticent to allow publicity, I think you can go to some of the press releases we've made over the past couple of months, Claro in Chile, [America Mobile] operation, Airtel in India, in Finland a very significant over-the-top project, etc.
+So, we see satellite direct to home as well as telecom operators following suit with cable and making investments and expanding and upgrading their video infrastructure.
+So, just to add a few numbers to <UNK>'s comments, in quarter one and quarter two, we did -- quarter one, we did $17 million; quarter two, we did $19 million in our Cable Edge business.
+And our guidance is $12 million to $14 million in Q3.
+So, we had a strong first half.
+Our initial guidance for the full year was $12 million to $14 million for the first three quarters.
+So, again, the first half was stronger than we had initially anticipated.
+And that's why we boosted our guidance from -- up by $5 million from our initial goals.
+We do expect our Q4 Cable Edge business to tick back up again from the Q3 level that I just mentioned, primarily driven by just, again, the legacy sales that are fairly flat and level relative to Q3.
+And then we are anticipating shipments of our new CableOS products in Q4.
+So, we're looking for, again, an uptick as we exit the year in our Cable Edge business.
+Okay.
+Thank you.
+Yes, I would say -- let me just start with the operating expenses because it's a little bit easier.
+We closed TVN earlier than we anticipated.
+We closed it in February as opposed to in Q2.
+That added about $4 million to our operating expense guidance for the full year.
+If you take that $4 million out of the equation, we were essentially right in line with our initial guidance.
+So, OpEx, again, I think is straightforward.
+On the gross margin side, we do expect to get in line with our initial guidance for our video business.
+It fundamentally is tracking along that path now.
+And as we get into the back half of the year and have full recognition with software revenue, we think we'll be, again, right in line with the initial guidance.
+On the Cable Edge side, we gave guidance of 40% to 41% gross margin versus our initial guidance of 45% to 47%, primarily due to the mix.
+The hardware mix is a bit stronger than we anticipated, although as I indicated during my prepared comments, we do believe that our license revenue will follow those hardware shipments as we head into 2017.
+So, we're looking for an uptick from that standpoint again next year.
+So, I would just summarize by saying that our video business is essentially right on track with our initial guidance, again, with the earlier closing of TVN taken into consideration.
+And our Cable Edge business is tracking from a top-line standpoint, off slightly from a gross margin standpoint, again, due to the content of revenue that I just mentioned.
+No.
+Essentially, those were products that we had not had much activity on in their current configuration.
+And to change that, we would've had to put R&D and additional sales focus on it.
+And it just didn't make sense for us.
+And it did not impact our overall plans for our Cable Edge revenue in 2016.
+Well, I think there's a couple different ways to look at it, <UNK>.
+The first one is that, as we exit Q4, we believe that will have a lower level in OpEx than we had in Q2 and in Q3.
+So, we're going to have a lower level in Q4 as we exit the year, first point.
+The second point, as a percent of revenue, our OpEx in Q3 and Q4 will be lower.
+And particularly, in Q4, it will be at the -- probably I think the lowest point that Harmonic has had for OpEx as a percent of revenue in a number of years.
+And I think the most important point is, with the operating expense run rate that we expect to have, we will be in a position to generate double-digit operating profit in 2017 without a significant increase in revenue.
+So, I think the expenses are about where we targeted them to be.
+And again, with the exit rate that we're planning for the year, we're going to be in great shape from a percent of revenue standpoint as well as generating double-digit operating profit heading into 2017.
+Okay.
+Well, thank you, all, very much for joining us.
+We'll call it an afternoon there.
+Please know that we're committed to continuing this momentum, looking forward to a good Q3, a good rest of the year.
+We appreciate your continued interest and support.
+Good day, everybody.

@@ -1,0 +1,204 @@
+Thank you.
+This is <UNK> <UNK>, I'm the Chairman and CEO of MicroStrategy.
+I wanted to welcome all of you to today's conference call regarding our 2015 first quarter financial results.
+I'm here with Jonathan Klein and <UNK> <UNK>, and our CFO <UNK> <UNK>.
+First I would like to pass the floor to Doug who's going to read the Safe Harbor statement and make some comments on our results for the first quarter.
+Thank you, <UNK>, and good evening.
+Various remarks we may make about our future expectations, plans, and prospects may constitute forward-looking statements for purposes of the Safe Harbor Provision under the Private Securities Litigation Reform Act of 1995.
+Actual results may differ materially from those indicated by these forward-looking statements as a result of various important factors, including those discussed in our most recent annual report on Form 10-K filed with the SEC.
+These statements reflect our views only as of today and should not be reflected upon as representing our views at any subsequent date.
+We anticipate that subsequent events and developments will cause the Company's views to change.
+While the Company may elect to update these forward-looking statements at some point in the future, the Company specifically disclaims any obligation to do so.
+Also during the course of today's call, we may refer to certain non-GAAP financial measures.
+There's a reconciliation schedule showing GAAP versus non-GAAP results currently available in our press release issued after the close of market today, which is located on our website at www.MicroStrategy.com.
+Now I'd like to turn to our financial results for the first quarter.
+As I assume that you've seen the press release from earlier today, I thought it was best to simply make some brief observations on our first quarter results.
+As stated in the press release, our total revenue of close to $124 million reflects a decline of 10% from the first quarter of 2014.
+Consistent with many multinational corporations, we too experienced strong foreign currency headwinds this quarter, which impacted our revenue by almost 6%.
+Our product license and subscription services revenue were $27.4 million, declining $4.9 million from the first quarter of 2014.
+While our North American region saw an increase of almost 10% on a year-over-year basis, driven by a 58% increase in subscription services revenue and an increase in the number of deals over $500,000 for a total of seven, our international region saw a 47% decline, reflecting the impact of foreign currency headwinds and overall weakness in our international markets.
+Product support revenues for the first quarter of 2015 were $69.3 million versus $71.5 million for the first quarter of 2014.
+Our North American region enjoyed modest growth of approximately 3%, however our international region saw a decline of over 11% due to the strong foreign currency headwinds.
+Overall, our support renewal rates remain consistent with prior periods.
+Moving to the cost side of the business, we continue to see the results from our restructuring efforts and other related cost-saving initiatives.
+We experienced a reduction of over $39 million in operating expenses for the first quarter of 2015, as compared to prior-year period.
+Breaking this down even further, as compared to the prior-year period sales and marketing expenses decreased $22 million, research and development expenses, aided by over $5 million in capitalized software development costs, decreased almost $13 million and general and administrative costs declined $4 million.
+As a result, we had net income of $20.5 million or $1.79 of diluted earnings per share in the first quarter of 2015, as compared to a loss of $6.5 million of a $0.57 loss per share on a diluted basis in the first quarter of 2014.
+Moving briefly to the balance sheet, I'd like to highlight that it continues to reflect a solid financial foundation for us.
+At the end of the first quarter of 2015 we had cash, cash equivalents, and short-term investments totaling $391.8 million, and no debt.
+First quarter 2015 operating cash flow was $55.8 million, with our accounts receivable days outstanding of approximately 42 days for the first quarter of 2015, compared to 44 days in the first quarter of 2014.
+Additionally, our total gross deferred revenue balance at the end of the first quarter of 2015 totalled $215.7 million, compared to $219.6 million at the end of the first quarter of 2014.
+Also, we had additional future minimum commitments by our customers to purchase our goods and services of $130.7 million at the end of the first quarter of 2015, as compared to $126.3 million as of the end of the first quarter of 2014.
+As was the case with the income statement, the foreign currency headwinds also had an impact on our balance sheet, including the deferred revenue and commitments I just mentioned, a portion of which is denominated in non-US dollar currencies.
+Overall, as the results reflect, we have made significant strides in getting our cost structure under control, and we are pleased with the fact that our efforts have been successful in regaining profitability.
+Going forward we will continue to maintain our focus on our prudent cost controls.
+Now I'd like to turn it back to <UNK> for some additional remarks.
+Thanks, Doug.
+In the first quarter as we reviewed the results year over year, I would summarize it by observing that we have cut costs approximately $3 for every $1 in revenue we lost, so we made some restructuring changes over the last 12 months that were highly accretive to the business.
+We did tighten up our operational focus to top markets, and we've tightened our product focus to analytics, mobility, and security for the enterprise.
+I would attribute the lack of revenue growth to our decision to exit low-margin business lines, to the decision to consolidate our operations to certain strategic markets where we expect that we will be more profitable and be able to grow more efficiently and scalably over time, and to some distraction from the restructuring effort of the past nine months, and of course to foreign currency headwinds and the dramatic strengthening of the US dollar.
+These are all business challenges that we need to deal with, but we also think that over the long term, these are challenges that we are going to grow out of.
+We think that the core business is much more scalable and is going to be much more profitable going forward because of the restructuring investments that we've made and some of the strategic decisions we've made during the past year.
+In the first quarter we launched our enterprise security platform Usher, and we obtained our first customers.
+We made sales in the retail sector, in the government sector, in the airport sector, and we have ongoing exciting sale cycles across many other industries: the defense industry, the higher education industry, the commercial and banking industry, the insurance industry, and we are optimistic about these things and have gotten auspicious response from most of our major customers in these areas.
+So we are enthusiastic about enterprise security.
+We also reorganized our sales, our consulting, our technology, and our support departments, starting the beginning of the year on January 1 to be much more agile and entrepreneurial.
+All in all, if we look back over the past nine months, the first quarter and back through the last two quarters of last year, our focus generally was on cost control and on the restructuring of our operations to make it more scalable and make them more transparent and more profitable.
+If we look at our focus for the next nine months, it will be on sales and marketing execution and on revenue growth.
+Our best opportunities for revenue growth looking forward are the release of MicroStrategy 10 and our new product capabilities for the enterprise analytics space.
+Our second great opportunity is the mobilization of the enterprise with MicroStrategy Mobile.
+The third opportunity we are focused on is securing the enterprise via Usher.
+And the fourth opportunity is migrating customers from the enterprise data center into the Secure Cloud.
+We have certain key partnerships and platform commitments that we are focusing upon this year.
+Apple Computer for mobile and security markets, including a special interest in the Apple Watch, Touch ID, and the tablet value proposition.
+We are focused upon Amazon AWS for the cloud value proposition and our Secure Cloud offering, which is optimized for Amazon, and we are focused upon our partnerships with a number of major system integrators, defense contractors, and physical access control firms in order to develop and bring to market Usher solutions which are customized to those various markets.
+With regard to the Apple Watch, we are proud to be the first enterprise security company to bring an Apple Watch application to the marketplace.
+We are very enthusiastic about that.
+With regard to the Apple Watch, we believe it is the perfect tool to replace the password, the plastic card, or the metal key.
+Usher is the killer mobile app for the enterprise.
+We believe that Apple agrees with us because we did get a very favorable mention from the CFO of Apple yesterday on their conference call.
+And we look forward to working to commercialize both smartphones as well as wearables like the Watch in the enterprise going forward.
+And we believe that there's a wave of enthusiasm right now for mobile devices that is going to continue to build as the year goes on.
+And while we don't see the Apple Watch, or the watch in general, as being a major revenue driver for the business, we do believe that it is going to be a major attention driver and a great marketing benefit to us, and it is serving to highlight our technical strengths and our enterprise security capabilities, and bring us a lot of attention and develop awareness both within our customer base and within our partner base and outside of our customer base.
+We also think that there's another great trend developing in the year 2015 and that's Touch ID.
+Touch ID is the first commercially successful biometric platform to achieve worldwide awareness and acceptance.
+Touch ID is a biometric platform that's accepted and trusted by consumers, by governments, by retailers, by software developers, by banks, and it is unclear that there's really any other platform that is or that's going to be in the near term.
+Our close relationship to the Apple ecosystem and all of the strength we have in mobile and enterprise security I think is going to benefit from increasing commercial acceptance of Touch ID, and I think Touch ID in turn is legitimizing the idea that a phone or a watch and a mobile piece of software should replace your passwords and should replace your enterprise credentials.
+And I think it is only a matter of time before people realize that it makes sense to use a technique like Touch ID to open up a Wi-Fi network, to open up a firewall, to gain access to an enterprise application, to open an enterprise portal, or to authenticate an enterprise transaction over the phone, such as a reservation or a confirmation of a trade.
+We expect that as this enthusiasm grows, people are going to reach out for an enterprise platform to do it, and we are standing at the crossroads between the needs of the enterprise and the tremendous capabilities of the mobile ecosystem.
+The last point I will make on tablet computers and the iPads is MicroStrategy Mobile creates a beautiful, powerful enterprise mobile app for the iPad and for tablets in general.
+And our ability to mobilize analytic apps and to deliver mobile dashboards and enterprise custom mobile apps to the fingertips of enterprise executives, I think it is a great advantage and a competitive edge we have in the market.
+And as the favorable winds of mobile blow and as we continue to trumpet this message and become more associated with Apple and the Apple Watch and iOS and all that is new and exciting, I think that that's going to help our business open new doors and expand existing relationships with our customers, as well as to cement and energize new types of partnerships with our integrators, our contractors, our solution providers.
+And so with that, I would like to go ahead and open the floor for any questions anyone might have on the phone today.
+Thank you for your support and I guess we will take the first question.
+Thanks, <UNK>.
+I think the majority of the heavy lifting with regard to restructuring is behind us now.
+We are looking forward to stabilizing in 2015 and building from what we see as a much more efficient, more profitable, more stable base.
+I do think, with that said, there are always opportunities or us to find new efficiencies and I wouldn't characterize it as we are moving substantially from cost control to substantially back to growth, but I think that we are moving from primarily cost control restructuring to primarily revenue generation and growth at this point.
+But I think we are always going to have our eye on our cost structure and our efficiency, and I believe that as we move forward it is very important for us to always be thinking about high quality and profitability and efficiency.
+And I think that the quality is better than quantity, and we can certainly grow the business or we can not grow the business in terms of headcount, but that's not really what we are looking at.
+What we are looking at is growing the revenues in a high-quality, profitable, scalable, transparent fashion.
+We certainly think that MicroStrategy 10 will be a shot in the arm for the analytics business and we expect that it will open up revenue opportunities or us in the second half of the year.
+We are not ready to break out our enterprise security business from the overall business yet.
+And as soon as we feel that it is useful and provides a good degree of insight to the investors, we'll begin to provide that sort of transparency.
+But otherwise, I cannot give you a clearer answer.
+I think that our customers are enthusiastic about the arrival of 10, so they have been waiting or it.
+It does meet a number of needs, I think.
+In the area of scalability we've got much better support and direct support for things like Hadoop and for in-memory analytics.
+In the area of data discovery and ad hoc, we've got much more powerful tools for ad hoc and agile application development.
+We also believe there are a lot of advantages for deployment and it is certainly part of our plan and expectation that we're going to be able to use this to cross-sell and upsell and find new opportunities, and I think there are some customers that probably will be enthusiastic about what we've got to provide.
+<UNK>, do you have any other commentary on that.
+Well, I think functionally you've made the high points.
+What we think it does, MicroStrategy 10 does, is really bring together and bring to the market really a substantial increase in our ability to satisfy both the enterprise requirements and also the requirements of agile visualizations and data discoveries that, as you see in the current buying environment, sometimes begin at the departmental level and then move up to the enterprise.
+So we feel very good about how 10 really allows MicroStrategy to present a really consolidated vision of having both our historical strength in enterprise analytics but marrying it, really, agility that a lot of business users are looking to to build faster, cleaner, more powerful applications and then to scale those up over time to true enterprise in nature.
+Yes, well with regard to our expectations, we think in the second half of the year we will start to see revenue opportunities coming to us via the channel, and with regard -- for Usher, that is.
+With regard to how it sits with them, it is a much more channel-friendly product because there are some straightforward use cases.
+For example, open the door of a million buildings in the country using software and we already know where the buildings are, we know already what the gateway is, we need to open it up.
+So there's an immediate opportunity for companies that are hardware-based to become software-friendly and mobile-friendly, and then there are companies -- there's immediate opportunity for companies that are very mobile-based to become very building-friendly, and there's an opportunity for companies that are very consumer-based to start to look enterprise-friendly.
+And, of course, we take all the general system integrators.
+This is one of the benefits of Usher to them versus more sophisticated enterprise application tools is that you can actually get an application solution up and running and deployed within an enterprise within a week to two weeks using Usher, and then you've got a long tail of system integration as you integrate additional systems.
+So the ability to get a quick win and then integrate more and more systems over time is a very channel-friendly thing.
+It is much better than having to take six months to a year before you build the app and then deploy it.
+The other major thing that we've accomplished with Usher this quarter, which we don't really talk a lot about but as we are pointing out on this call, is that after request of some of our larger channel partners and banks and physical access controller companies and the like, we traded software development kits on the client side and on the server side.
+So our SDK on the server side allows you to build custom gateways.
+So for example, if you wanted to use the Apple Watch to start a fleet of cars or open safes or safe deposit boxes or use the Watch to authenticate a transaction out of SAP or something like that, you can build that with our SDK on the server side.
+And on the client side, if you wanted to put an Usher badge behind an application like a Starbucks app or an Uber app or a McDonald's app, you could plug us in and keep their branded application on the front end while we sit in the middle.
+And so that SDK capability allows you to get out of the gate real fast, but also to integrate deeply on the mobile side or on the enterprise server side, and there's nothing better for the channel than a platform that allows them to walk in on the first day of the year, have something deployed to 50,000 people by the end of January, but then work to enhance the solution for the next 5 years or 10 years every single month or two months delivering another piece of the puzzle.
+Well, I would say it's keeping us really, really busy right now, but we are not ready to break out the exact number on our counts quite yet.
+We do look forward to sharing more of that as the year progresses.
+I think that we have moved pretty diligently through a nine month restructuring exercise in order to find a solid base to grow from.
+And that required that we, in some cases, exit businesses where we were spending $2 to make $1, or spending $1 to make $1.
+We have done that as we look through a major macro change with the dollar and the strengthening of the US currency.
+So it has created a bit of volatility in our top-line number, but I think that the result of the restructuring is that we've found a pretty solid base that we're going to grow from and we look forward to growing from there.
+I would say that -- thanks for asking, I appreciate that.
+Both those things are somewhat related, if you recall how our deferred revenue is booked.
+But as it relates to the cash flow, I mean really, the key thing there really has to do with the cutting of costs, to be honest with you.
+So when you look at a year-over-year basis, we've cut $45 million out of our costs on a GAAP basis.
+So generally speaking, Q1, you do have a lot of cash inflow coming in from the Q4 deals, especially from maintenance renewals.
+So it really is a cost reduction effort that generated a lot of that cash flow and coming off of a Q4 maintenance renewal period.
+Those are the two key factors.
+And then, so as a result, when you look at our deferred revenue, you're talking about the sequential increase on the face of the balance sheet.
+So on the face of the balance sheet, if you recall, if you look at the footnotes to our filings, we grossed down our deferred revenue to get to the face of the balance sheet, so collections from our customers will actually have the result of increasing our deferred revenue that we show on the face of the balance sheet.
+So what I'd say is I could refer you to one of the attachments that we had in the earnings release earlier today, where it breaks out the current and non-current deferred revenue to show the movement of the, really, the cash payments that have been made that therefore reduces the gross down.
+All I was going to say is that, and then the one thing I mentioned earlier in my remarks was that that March 31 first balance sheet is also impacted by the foreign currency.
+So there is actually a decline element on a year-over-year and even a period from December 31 because of the decline in the foreign currencies versus the US dollar.
+Let me give you a few suggestions on that, and then Doug may have a follow-up.
+The first macro effect, obviously, is the dollar strengthens by 30% and just about everywhere else in the world is euro-driven or close to that.
+And every other currency weakens against the dollar so that's the number one effect.
+The second effect is the middle of last year we took a long hard look at the business, and we concluded that ultimately the United -- there's a reason that the dollar strengthened, right.
+The reason the dollar strengthened is because United States is in fact a supertanker economy and it is working very well, it's firing in all cylinders.
+And when you go to the rest of the world, you've got the second tier and the their tier economies.
+The third tier economies, in some cases, have imploded and we pulled out of places like Russia and threw in the towel and decided it didn't make sense to be in certain places; there's going to be 5 or 10 years before they stabilize and it was just too difficult to do business.
+But then we looked at the second tier economies, and there are a lot of places where you can generate revenue but instead of investing $0.50 to make $1, you invest $0.80 or $0.90 or $1 to make $1, and of course the worst is to invest $1.50 to make $1.
+So I would say that the international revenue line has been affected disproportionately by the strengthening of the dollar, A, and it has been affected disproportionately by our restructuring decisions, B.
+We are just not investing in second and third tier markets to the extent we might have in the past, and I think we have decided strategically that we are better off to be overweight America and the domestic Americas market, and to be a bit underweight international, relative to what I would have done five years ago or what we might have thought.
+The world felt different when the euro was $1.45 than it feels today, if you can understand where I'm coming from.
+There's always going to be volatility going forward, and so I wouldn't pawn this all off to currency, I would say that if you just look at the rate of adoption of mobile technology, the rate of adoption of cloud technology, the rate of adoption of forward-leaning enterprise security technology, and the rate of entrepreneurial growth and investment and analytics and the like, all of those numbers and all of those phenomena just seem healthier in the Americas market right now than they do internationally.
+And so I would say, given our interest in growing the business from a stable base with some transparency and staying efficient as we possibly can, we make decisions that are beneficial to the domestic number, probably a little bit detrimental to the revenue number internationally.
+Over time I think that stabilizes, and I think that we are confident we will grow pretty much everywhere in the world over time, but we've tried to be thoughtful and strategic about how we manage our operations this year.
+Great, thank you.
+Take a couple.
+One, for example, would be what we think of as low-margin consulting business or outsourced IT labor, things that system integrators might be known for.
+The companies that are large integration partners with us have managed to hire hundreds of thousands of people and put them to work at reasonable rates that are viewed to be a bargain by large Western companies.
+We have been working to shift our mix toward premium consulting or trusted advisory services, and that will continue to be a theme of ours as we go forward, and at the very least we didn't really see a benefit to growing a low-margin integration business.
+I think another area of revenue that we have deemphasized a bit is custom education offerings.
+It is possible to actually build custom education courses customer by customer and the like, but it is like custom manufacturing.
+You really want to create a one-size-fits-all offering and you want to develop one course and teach it 10,000 times, you don't want to create 100 courses and teach them 100 times.
+And so we have cut back on our investments in those kinds of custom lower-margin services.
+And I think although we don't classify it as service, the act of being engaged in sales engineering and piloting and aggressive technical sales in markets where the average dollar size of the deal, or in markets where the economic buying potential of the customers are lower, those tend to be low-margin activities.
+So we've tended to focus upon the richer, more lucrative markets where our offering has higher value in use, and we have drawn back from consulting services, education services, support services, other types of services that we didn't think would be as lucrative.
+I think one other area, as long as I'm talking support is, we got out of gate fast with an enterprise cloud offering, and we built it and we learned a lot from it, but as we got to a certain size we found that we were actually supporting a whole variety of different backend systems, different database systems, different hardware systems, and different enterprise configurations.
+And we made the decision corporately that we are going to shift over to a standard configuration, which we call the secure cloud, instead of having eight different configurations, for example.
+You can have different configs of a database, a different configuration on operating system, a different configuration of servers, routers, data center, etc.
+So we've been consolidating to one, and the other decision we've made is take that Secure Cloud and make it Amazon first.
+So we focus upon a particular hosting environment, a particular ecosystem of databases and routers and operating systems and the like, and that in the near term slows down our revenue growth, but over the long term gives us a much more transparent and I think a much more scalable offering, and it makes it much less likely that we would ever find ourselves upside down in a relationship where we are actually spending $1.50 in order to generate $1 in revenue.
+And so we kind of had to take a step back and restructure those things in order to build a more scalable engine.
+And it did have implications on our support business, our cloud business, our technology function, and our sales and our marketing and our service functions.
+But I think we're very comfortable that tightening our focus upon a much more scalable configuration of our software, which we call the Secure Cloud, helps us in our education business, helps us in our support business, helps us in our technology business, and it helps us in sales and marketing.
+And not to state the obvious, but if there are two platforms that you would like to be standing on top of in the year 2015, one of them is Amazon AWS which is growing north of 50% and I think they said, at one point in a speech they gave at our trade show, that they add more servers every day than they added in the first eight years of the Amazon business.
+So it is just tremendous capital investment and we want to be riding that wave and not competing with that wave.
+Even though we have customers and we have people that would say to us, we don't want to host an Amazon, we'd rather you do it yourself or do it a different way, that would be a classic example of, it's better for us to walk away from the business than it is for us to decide that we are going to compete with a juggernaut there.
+So I think one platform to be on top of is AWS, and the other platform, quite clearly, is the Apple platform.
+I wouldn't want to bet against the iOS or the iPhone or the iPad or the Apple Watch right now.
+I think that entire platform has been consistently underestimated just about every quarter for the past seven years.
+There's never been a point when people did not underestimate it, and I would say even today people underestimate it even still as we are standing here.
+So I've got people that would love or us to focus MicroStrategy Mobile on the BlackBerry.
+And we could be focused upon on the Microsoft mobile system the BlackBerry or a second and third cloud offering, our own cloud offering, and there's always someone that's willing to pay you $1 to do $1.25 worth or work, or $1 worth of work.
+I think the real challenge in this business is find someone that wants to pay you $1 to do $0.50 worth or work.
+And not to state the obvious because you are all financially very savvy.
+You know that the business school Harvard case study answer the question of, how do you spend $0.50 to get paid $1 is you've got to stay close to your asset base and stay focused upon your core business, and as you start to stray away from your standard business model, your revenue increments becomes dilutive.
+I think we are pleased with the cash flow that the Company's began to generate, and our plan has been to return the Company to a healthy profitability and also a healthy cash generation status so that we have options.
+And clearly the options for the cash flow are to invest it in sales and marketing activities.
+I think as people always ask me and generally ask me, will we ever do a buyback or will we use it any other way.
+I think our options to actually use the cash open up if we have a strong balance sheet and we also have strong operating cash flow.
+So our general view toward this is keep the balance sheet strong, get the business to operating profitability that's strong, work toward revenue visibility and growth visibility that we can see, and then we are in a good position to take advantage of whatever macro opportunities or micro opportunities present themselves.
+And you just never know what that's going to be in this environment.
+But I think that we feel that we have more options today and we would be more facile and more agile in taking advantage of those options today than I would have said a year ago.
+That's a good question.
+The short answer to the question is yes, I do you get makes us more friendly as a Company.
+We really think about the business now in three pieces.
+One part of the business is the product business, which is all about selling product licenses, and our direct sales organization is focused upon maximizing licenses and they get paid based upon the product licenses.
+If they're necessary or their support is necessary to drive any channel sale, then we actually cross commission then when we find that they're integral to the channel.
+And when they are not we sell direct.
+With regard to the second part of the business, we have a consulting professional services business, and that's run by a set of service directors, and their incentive is to sell high-margin trusted advisory business, and not to just grow the revenue of the business to whatever level they can.
+So their compensation is shifted to be margin-based, not revenue-based, and the field sales organization is no longer commission on the consulting business.
+So that makes us a bit more channel-friendly in two ways.
+Our professional services organization isn't trying to get big, they are trying to get high-quality, and in fact we encourage them not to do long engagements at lower prices and lower margins, but rather to do shorter engagements as experts and specialists at a higher rate, and then move from customer to customer and not loiter.
+I would rather have $200 an hour across 100 customers than have $100 an hour across 10 customers.
+So you have to work a bit harder and you have to touch and pollinate a lot more accounts.
+But as they do that, they open up the opportunity for our channel partners to go ahead and take the system integration business.
+That's what they do well, that's their core business, and so arguably it's before us to uphold closer to trusted advisory on our core platform.
+It's better for our channel partners to actually take that system integration business.
+And of course it's also easier for our channel partners to work with our direct sales organization because the direct sales organization can bring in the channel partners or bring it on people depending upon who's got the better offering And we do seem to have some anecdotal incidental evidence to suggest that's happening right now.
+It is more frequently the case that people in our field sales organization are bringing in our channel partners into deals.
+I think that will continue.
+We've also strengthened our business development function and we've aligned it with our product revenue goals.
+We have tightened up the management of our partner and our channels organization so that it now reports directly to <UNK> <UNK>, our President, so that he's in a position to direct opportunities and lead directly to our partners who may be resellers or [vars] as opposed to directly to our field sales organization.
+We think partners are in a better position to drive the business forward.
+You're welcome.
+I think we have time for one more question.
+I think our high-level observation is that we're about 20% to 25% penetrated in our existing base, and that the growth opportunity for mobile is to drive toward 100% attachment ratio and also to upsell, because someone that wants to use mobile is potentially going to use -- have a lot more users and a lot more use cases for it.
+So we think that we can increase the number of users within existing customers and then we can go and sell our mobile product to new customers within our install base.
+Thank you for your time.
+We appreciate the support of everybody on the call.
+Thanks for being a shareholder and we look forward to speaking with you again in 12 weeks.

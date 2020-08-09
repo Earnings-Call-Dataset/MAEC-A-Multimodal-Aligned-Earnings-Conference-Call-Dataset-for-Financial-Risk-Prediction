@@ -1,0 +1,188 @@
+Thank you, Chad.
+Good morning, and welcome to Cable ONE's Third Quarter 2017 Earnings Call.
+We're excited to have you with us this morning as we review our results.
+Before we proceed, I would like to remind you that today's discussion may contain forward-looking statements relating to future events and expectations.
+You can find factors that could cause Cable ONE's actual results to differ materially from these projections listed in today's press release and in our current SEC filings.
+Cable ONE is under no obligation and, in fact, expressly disclaims any obligation to update its forward-looking statements whether as a result of new information, future events or otherwise.
+Additionally, today's remarks will include a discussion of certain financial measures that are not presented in conformity with U.S. generally accepted accounting principles.
+Reconciliations of non-GAAP financial measures discussed on this call to the most directly comparable GAAP measures can be found in our earnings release or on our website at ir.
+cableone.
+net.
+Joining me on today's call is our President and CEO, Julie <UNK>.
+And with that, let me turn the call over to Julie.
+Thank you, <UNK>.
+Good morning, and we appreciate you joining us for our third quarter 2017 earnings call.
+You heard us mention before that our quarter-over-quarter comparisons have been complicated by the change in accounting estimate related to capitalized labor costs as well as incorporating NewWave results.
+In addition to those factors, our results for this quarter were also impacted somewhat by Hurricane Harvey.
+<UNK> will get into our detailed financial results to help us walk through that later in the call.
+While Hurricane Harvey had a financial impact, it also had a human one.
+We felt the effects as it hit our coastal Texas markets in August, and I want to take a moment to acknowledge our customers and our associates in these communities.
+Our thoughts are with all of those who have been affected by and especially those who are still recovering from these disasters.
+In true Cable ONE spirit, nearly 200 of our associates, some of whom living in the area, experienced personal impact and loss, worked diligently to care for our customers and restore their service as quickly as possible.
+I want to thank all of our associates for their hard work and dedication throughout these recovery efforts.
+I also want to thank our customers for their patience while we made repairs necessary to get their services back up and running.
+We are also very grateful to our vendors, suppliers and associates who donated to our natural disaster fund, benefiting Cable ONE associates.
+These donations provided financial assistance to our associates in making needed repairs to their damaged homes.
+It's in times like these where we truly feel our local connection to and support of the communities where we live and work.
+Regardless of the impact of Hurricane Harvey, integration activities, company-wide product rollouts or other events that may impact our business on a quarterly basis, we don't put too much weight on the results of any single quarter as our focus is on long-term profitability.
+As part of that long-term view, high-speed Internet continues to be an area of strategic focus.
+Today, we are proud to say that nearly 200 cities and towns across our legacy Cable ONE footprint can now lay claim to the title Gig city.
+At the end of the third quarter, 95% of our legacy homes passed had access to our 1-gigabit service via GigaONE.
+We announced the launch of our gig service 2 years ago this week, and our rollout has been unique compared to that of our competition and others in the industry.
+In an effort to eliminate the digital divide in the communities we serve, we envision providing every customer in our footprint with access to gigabit service no matter where they live.
+We are now close to achieving that goal in our legacy markets, and we have made substantial progress to transition NewWave, what we now call our Northeast Division, to 32-channel bonding, which will allow us to launch faster speeds, including GigaONE, throughout those new markets.
+By the end of the year, approximately 3/4 of the Northeast Division footprint will have completed 32-channel bonding.
+We believe that the process of making the Northeast Division more closely resemble Cable ONE in terms of services and product offers will establish a unified operational approach, benefiting our customers and associates while positioning us well for future growth.
+In addition to 32-channel bonding, some other accomplishments include the recent completion of our human resources payroll and benefits conversion, and the migration of the Northeast Division's IVR to the legacy Cable ONE platform.
+Northeast Division operations contributed more than $47 million of revenues in the quarter, and we expect to continue to realize cost synergies and expand Northeast Division adjusted EBITDA margin as the integration proceeds.
+In the area of business services, we now offer 500-megabit elite business Internet to small- and medium-sized businesses across the majority of our markets.
+Meanwhile, our deployment of Piranha Fiber, our mid-market business services product, continues with our most recent launch in Odessa, Texas; and our upcoming deployment in Boise, Idaho by year-end.
+We are confident that our continued expansion of business products and services will provide beneficial alternatives to businesses in our markets while improving Cable ONE's bottom line.
+Before I turn the call over to <UNK>, I want to take a moment to touch on an announcement we sent out earlier today regarding Tom Might's retirement as Executive Chairman.
+I'll be giving Tom his proper due later in the call.
+But for now, I want to recognize the more than 2 decades Tom spent within Cable ONE.
+Tom's passion and vision have been instrumental in making Cable ONE the company that it is today.
+And now, <UNK> will provide more details on our third quarter results.
+Thanks, Julie.
+Before getting into the details, I want to remind everyone that our third quarter results include 3 months of NewWave operations and also reflect the change in accounting estimate related to capitalized labor costs.
+In addition, as Julie already mentioned, our third quarter results were negatively impacted by Hurricane Harvey with an estimated $1.6 million of revenue loss from waived service offering charges and $1.7 million of additional operating expenses associated with asset disposal, labor and cleanup cost.
+Please keep in mind that this is a onetime event and should not affect our results going forward.
+Billing was initially suppressed to approximately 19,000 customers.
+As of quarter end, this number has been reduced to approximately 6,500 customers.
+Again, this will affect the growth -- or sub-growth in the quarter.
+Adjusted for Harvey, the results are very much in line with our expectations and prior results.
+The good news is that we currently have a large majority of our customers back to full-time service.
+We hope to recover some of these costs through insurance reimbursement, but we are not able to quantify specific amounts at this time.
+Here are some of the highlights from the third quarter.
+Adjusted EBITDA was $115.5 million, an increase of 32.5% year-over-year, and adjusted EBITDA margin was 45.5%.
+The adjusted EBITDA results include a full quarter of NewWave operations and the favorable impact of a reduction in expense of $6.2 million due to a change in accounting estimate related to capitalized labor costs.
+Without the contribution from NewWave operations, adjusted EBITDA would have been $98 million and adjusted EBITDA growth would have been 12.4% with a margin of 47.5% on legacy Cable ONE.
+Excluding the negative impact of Hurricane Harvey, adjusted EBITDA would have been $99.7 million and adjusted EBITDA growth would have been 14.4% with a margin of 48% for legacy Cable ONE.
+Excluding both NewWave operations and the change in estimate related to capitalized labor, adjusted EBITDA growth would have been 5.3%.
+But further, without the impact of Hurricane Harvey, adjusted EBITDA growth would have been 7.3% year-over-year.
+Adjusted EBITDA less capital expenditures was $63.1 million, an increase of 4%.
+Residential data revenues increased $22.5 million or 26% to $109.3 million.
+Residential data revenues growth would have been $6.5 million or 7.5%, excluding the $16 million contribution from NewWave operations.
+Business service revenues increased $9.8 million or 38.4% to $35.2 million.
+Business service revenues growth would have been $2.7 million or 10.6% growth, excluding the $7.1 million contribution from NewWave operations.
+Now getting into the detailed results.
+For the third quarter of 2017, compared to the third quarter of 2016, revenues increased $48.3 million or 23.5%, with a $47.5 million contribution from NewWave operations.
+As I mentioned before, revenues were negatively impacted by an estimated $1.6 million loss associated with Hurricane Harvey.
+For the third quarter of 2017, residential data revenues comprised 43.1% of our total revenues and business service revenues comprised 13.9% of total revenues.
+So together, our growth businesses now comprise 40 -- 57% of our revenues.
+Operating expenses were $91.9 million in the third quarter of 2017, and increased $16.3 million or 21.5% compared to the third quarter of 2016.
+Most of this increase, in fact, all of this increase, additional operating expenses attributable to NewWave operations were 24.5 -- $24.2 million.
+This increase was also partially offset by a $4.8 million decrease in labor costs associated with our change in accounting estimate for capitalized labor, a $0.9 million decrease in backbone and Internet connectivity costs, a $0.7 million increase (sic) [decrease] in programming costs due to fewer video subscribers and a $0.7 million decrease in contract labor.
+Without the NewWave operations, operating expenses would have been $67.7 million, a decrease of $7.9 million or 10.5%.
+Operating expenses as a percentage of revenues, without the NewWave operations, would have improved 400 basis points from 36.8% in the third quarter of 2016 to 32.8% in the third quarter of 2017.
+Selling, general and administrative expenses increased $3.2 million or 6.5% to $52 million, with the NewWave operations contributing $5.9 million to the total increase.
+Additionally, higher deferred compensation expenses of one point million -- $1.1 million and insurance costs of $1 million were offset by lower acquisition-related expenses of $2 million, a reduction of marketing costs of $1.3 million and a reduction of labor costs of $1.4 million.
+The change was associated with our accounting estimated -- accounting estimate for capitalized labor.
+Again, without NewWave operations, SG&A expenses would have decreased $2.7 million or 5.6% to $46.1 million.
+SG&A expenses as a percentage of revenues, without NewWave, would have been 22.3% in the third quarter of 2017, with an improvement of 140 basis points from the third quarter of 2016.
+Interest expense increased $6.5 million or 86% due to additional debt incurred to finance the NewWave acquisition.
+Adjusted EBITDA was $115.5 million, a 32.5% increase from the prior year quarter and included the positive impact of the NewWave operations and the change in capitalized labor costs.
+Without NewWave operations, adjusted EBITDA would have been $98 million and adjusted EBITDA growth would have been 12.4% for the third quarter of 2017.
+Without both NewWave and the change in estimate for capitalized labor, adjusted EBITDA would have been $91.8 million and adjusted EBITDA growth would have been 5.3%.
+As I mentioned before, we incurred additional operating expenses associated with Hurricane Harvey of $1.7 million during the third quarter, of which $1.3 million related to asset disposal loss due to storm damage.
+Without NewWave operations, the change in estimate for capitalized labor and the Hurricane Harvey impact, adjusted EBITDA would have been $93.5 million and adjusted EBITDA growth would have been 7.3% for legacy Cable ONE.
+Our margin for legacy Cable ONE increased over 500 basis points from 42.4% in the prior year quarter to 47.5%.
+Further, NewWave margin improved sequentially 160 basis points to 36.8% in the third quarter compared to 35.2% in the second quarter.
+We expect that synergies achieved through integration will produce NewWave margins that will look similar to legacy Cable ONE's in the next several years.
+Capital expenditures totaled $52.4 million or 20.6% of revenues for the third quarter of 2017, and included a $6.2 million increase resulting from the change in accounting estimate for capitalized labor and $2.2 million of replacement capital expenditures associated with Hurricane Harvey.
+Excluding the NewWave operations, capital expenditures would have been $38.4 million or approximately 18.6% of revenues.
+This included capital also associated with Hurricane Harvey.
+Without the capital for Hurricane Harvey, our capital as a percentage of revenues would have actually been 18%.
+From a liquidity standpoint, we remain in excellent position as we had approximately $119 million of cash on hand.
+As of September 30, our debt balance was $1.2 billion, which included a $750 million of term loan borrowings in connection with the NewWave acquisition.
+We also had $197 million available for borrowing under our revolving credit facility as of September 30.
+Overall, our debt-to-adjusted EBITDA was only 2.6x and net debt -- net adjusted for cash on hand to adjusted EBITDA is only about 2.3x, providing us with significant liquidity.
+As Julie mentioned, we continue focusing on the integration of NewWave into our operations.
+NewWave or our Northeast Division is performing ahead of our expectations, and we look forward to continued growth in the next year.
+Regarding Hurricane Harvey, I also want to take a moment to thank our associates for all of their hard work to restore service in the region and for all of our customers for their support and understanding during the recovery process.
+We are now ready for questions.
+Chad.
+Phil, <UNK>.
+Some of the increase, again, keep in mind, as I mentioned in the narrative, was due to Harvey.
+The 1% residential data PSUs that you see would have actually been 2%.
+And on the data PSUs for business, it would have been higher also.
+If you took the 2 of those together, we actually would have, after Harvey or recognizing the impact of Harvey, been a 2.6% data growth.
+So I don't think it's been a significant deceleration from prior year.
+Really, we have the effect of Harvey, which affected 4,300 data PSUs on the video and 500-or-so data PSUs on the business.
+So I really have to take a look at Harvey and not the numbers without Harvey.
+And <UNK>, to add to that, so I'm not sure what price increase you're referring to.
+We haven't raised the rate on our HSD product in almost 7 years now.
+Our last increase was in October of 2015.
+Phil, I guess we'll -- yes.
+As we've said in the past, we'll continue to look at it quarter-to-quarter.
+We think we have an extremely well-priced service for 100 megs at $55.
+We think that's very competitive.
+There probably is some price elasticity.
+We're very sensitive to our customers and don't want to abuse them.
+So we'll continue to look at it on a quarter-by-quarter basis as to when to take our next rate increase.
+So I have <UNK> flipping through, looking at the numbers because I don't think that our ARPU has flattened for HSD.
+Actually, I read the Indiana University on price elasticity, and I'm finding the exact opposite in our markets, that there's elasticity at the higher end versus the lower end.
+That is to say that our higher level is more expensive levels of service, the 150, 200 in gig services are growing at a rapid rate, pushing our ARPU up.
+Phil, as I look at that ARPU on HSD, we actually reported a year ago was at 62.49.
+Now it's 65.74.
+So that's a 5.9% increase in ARPU.
+Maybe the confusion is our NewWave acquisition.
+I mean, obviously, they are lower.
+Their ARPU is at 48.51.
+And the reason for that is they have a number of tiers, ranging from 10 megs up to 100 megs, and it's a composite rate for them.
+Again, it would be our goal to make them look more like us over the next couple of years.
+But maybe you're referring to a composite ARPU, including NewWave.
+But for legacy Cable ONE, we definitely saw ARPU growth year-over-year.
+Thanks, Cathy.
+This is Julie.
+I think all the things that you mentioned are part of driving that ARPU increase, and we don't break it down for outside parties.
+For NewWave, we absolutely believe that bringing higher speeds and different pricing and packaging, which more closely mirrors Cable ONE, will drive their ARPU closer to ours over time.
+I do not think broadband ARPU is done growing, as I mentioned earlier.
+Cathy, as you know, we don't give future guidance.
+The last quarter, I did give guidance that we expected our capital as a percentage of revenue would be in the upper teens.
+What you're seeing for legacy CABO, we reported 18.6%.
+And as I said, without the extra 2-point -- whatever, $2.2 million of capital associated with Hurricane Harvey, that would have been 18%.
+Legacy -- NewWave, as we mentioned, there are additional capital associated with NewWave.
+Julie already mentioned that.
+We would have been -- we reported together, as a company, 20% for the quarter.
+Without Harvey, that would have been 19.6%.
+So again, most of the additional capital expenditures is associated with NewWave and bringing them to look much like Cable ONE.
+We told the market that, that would be the case.
+We're still running even through the 9 months probably in the 17% to 18% range.
+So we are in the upper teens, and that's the guidance we gave a quarter ago.
+<UNK>, it's Julie.
+The HR system, I wouldn't be looking for large savings coming from the integration of that.
+There will be, however, savings in the future because we are running duplicate systems for many types of provisioning for our products right now.
+So synergies are to come from those.
+In terms of competition, about 27% of our homes passed overlaps with a hardwire triple play overbuilder or a provider of significant speeds for HSD.
+We've been competing against those providers in various systems over time now.
+And I don't think there have been any dramatic changes in it that competition certainly are seeing what some of our broadband are seeing with AT&T being incredibly aggressive in terms of bundling or giveaways.
+But our footprint overlap with their fiber-to-the-home builds, which is where they are primarily doing these offers, is incredibly small.
+That being said, we are trying to be very thoughtful and responsive to competition wherever it exists without engaging in a price war.
+I'm sorry.
+That isn't something that I can comment on.
+But do keep in mind, <UNK>, as I said to Phil earlier, the hurricane did impact our sub numbers for the quarter.
+The good news is almost all of the subs are back now.
+But there were 6,500 customers that were still in a suppressed billing status at the end of September.
+So that does affect our growth.
+But if you add back Harvey, we believe the growth is very much in line with what we've seen prior.
+<UNK>, this is Julie.
+In terms of video losses, given our strategy, there are folks that we actually welcome because they highlight what a robust high-speed data service can bring to these folks.
+So I don't think video's suffering any more than what it's been doing for the past couple of quarters with us given our strategy.
+What was your second question.
+Absolutely.
+Again, I don't want to say I'm surprised by the growth of our higher level tiers, but it is incredibly robust.
+People taking higher-level services, whether it's multiple devices in their home, whether it's gaming, whether it's more over-the-top, people are electing to go into our 150-meg tier at very high rates.
+I don't know that I can quantify that, <UNK>.
+We do, do third-party research, independent research.
+And so we gather market share and we look at where our customers are going, but we don't put a lot of resources towards video and ascertaining what's happening with the video customers.
+Our focus really is on broadband and business services.
+Thank you, Chad.
+Now turning to something very close to all of us at Cable ONE.
+Earlier today, we announced the retirement of Tom Might as Executive Chairman.
+For nearly 25 years, Tom has guided Cable ONE with his strategic leadership, unquestionable integrity and unwavering commitment to our customers and associates.
+Under his stewardship, Cable ONE has grown through strategic acquisitions, organic growth and a continued focus on new product innovation.
+We want to express our sincere thanks and appreciation to Tom for his leadership of our board since 2015 and for his dedicated service to Cable ONE over the past 2-plus decades.
+He's leaving behind a legacy of excellence that has our company well positioned for future success.
+We are thrilled that Tom will continue to serve as a Director, following his retirement, providing his wisdom, insight and experience to our distinguished board.
+We appreciate you for joining us for today's call, and we look forward to speaking with you again in 2018.

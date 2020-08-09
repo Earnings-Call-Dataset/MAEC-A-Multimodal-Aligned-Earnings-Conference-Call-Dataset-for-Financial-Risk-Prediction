@@ -1,0 +1,173 @@
+Thanks, <UNK>, and good afternoon.
+Our second quarter revenues were a record $107.6 million, up 10% year-over-year.
+That's our fifth consecutive quarter of double-digit growth and brings our growth rate to 14% for the first half of 2017.
+We also saw a significant increase in our gross margins in the second quarter, grew our non-GAAP earnings per share by 13% from a year ago and generated $24 million in cash flow from operations in the quarter.
+Our second quarter results showcased the diversity of the growth drivers across our business.
+We achieved double-digit top line growth in the quarter despite an inventory correction in the Communications category where distributors serving the China handset supply chain cut back purchases following the recent softness in that market.
+The impact of this correction was more than offset by year-over-year growth of better than 20% in the consumer category and more than 15% in the industrial market.
+In Consumer, our growth is being driven in part by strong demand for convenience and comfort appliances in emerging markets but also by expanding dollar content as OEMs incorporate more electronic controls and intelligence into their products all while trying to comply with stringent energy efficiency requirements.
+The reliability and efficiency benefits of our highly integrated products have earned us a substantial share of the worldwide appliance market, giving us a strong incumbent position from which to capitalize on these strengths.
+While the long-vending product families like TOPSwitch, TinySwitch and LinkSwitch continue to do extremely well in appliances, InnoSwitch strengthens our position by further enhancing reliability and efficiency while increasing our dollar content thanks to its higher level of integration.
+We won several appliance designs in Q2 with InnoSwitch products, including an electric fan for a major U.K. customer and a dishwasher for a Chinese manufacturer and a room air filter for Japanese customer.
+In the industrial category, growth has accelerated this year with a 15% increase in the first half after mid-single-digit growth in 2016.
+We are seeing growth across a diverse range of vertical markets, where technological changes are creating demand for reliable, efficient power electronics.
+These include applications like e-bikes and lawn equipment, where lithium ion batteries are replacing gasoline engines and plug-in AC motors; utility meters, where mechanical meters continue to be replaced by network smart meters; home and building automation, where devices such as thermostats, smoke detectors, power strips and door locks are being connected to networks; and of course, lighting, where not only are LEDs replacing older lighting technologies, but where smart and connected lighting is becoming a significant factor in the market.
+The efficiency of the power supply is a critical factor in smart lighting systems, where standby power consumption of the lighting controllers can otherwise negate the energy savings of LEDs themselves.
+In fact, this is a serious concern, not just in smart lighting but in all IoT applications, where network connectivity and other forms of electronic intelligence will result in billions of new loads being permanently connected to the grid in the coming years.
+The energy efficiency and low standby consumption of our products combined with the reliability benefits of integration make such applications ideal targets for us.
+Meanwhile, revenues from high-power products, which account for a significant portion of our industrial revenues, are on track for a strong growth this year, driven by renewable energy applications as well as DC transmission projects in China.
+In Q2, we won one of the largest designs to-date in the solar energy market, a multimillion dollar design for a major European customer with our SCALE-2 drivers, which should begin ramping shortly.
+Also as we discussed on the last quarter's conference call, China is undertaking a multiyear upgrade of its national power distribution infrastructure with a 8x8 grid of long-distance DC transmission lines, which require sophisticated power conversion electronics to ensure reliability, safety and stability on the grid.
+We expect to garner a significant share of this business with our scale IGBT drivers with shipments likely to begin ramping over the next few months.
+We're also seeing strong customer interest in our new SCALE-iDriver products for the 10 to 100 kilowatt range with designs set to begin production shortly in electric buses, commercial air conditioning and power quality markets.
+Despite the soft patch in Q2, we also expect Communications category to remain strong growth driver in the years ahead as InnoSwitch continues to penetrate the mobile device market.
+Faster charging is quickly becoming a critical feature for smartphones, and we expect the USB PD standard to drive power levels higher and stimulate adoptions of rapid charging in the years ahead.
+We are currently shipping to all of the OEMs that have adopted some form of rapid charging and believe we are well positioned to continue growing in this market.
+As discussed on our prior calls, USB PD is applicable not only for the smartphones but also for other mobile devices, including tablets and notebooks.
+We plan to address these higher power applications with our next-generation InnoSwitch products, which we expect to launch for general availability in the next few months.
+In summary, we are excited about the breadth and diversity of growth opportunities across our business, and we're making significant investments to prepare for the growth we expect over the years to come.
+Our capital expenditures this year will be in the range of $30 million to $35 million, significantly above our typical annual spend, primarily for the addition of capacity at our foundry partners and back-end subcontractors.
+We have also added a new foundry partner and a new back-end subcontractor to help ensure that we have ample capacity to support the growth we anticipate going forward.
+And now, I'll turn it over to <UNK> for the review of the financials.
+Thanks, <UNK>, and good afternoon.
+In my remarks, I will quickly touch on a few financial highlights, focusing mainly on the non-GAAP numbers, which are reconciled to the corresponding GAAP figures in the tables accompanying our press release.
+Then we will open it up for the Q&A session.
+Second quarter revenues were $107.6 million, up 3% compared to the prior quarter.
+The sequential growth was driven by double-digit increase in the consumer category, reflecting seasonal strength in air conditioning and continued design-win momentum across a variety of appliance and consumer electronic applications.
+Industrial revenues also contributed to the sequential increase with growth in high single digits, driven by high-power applications, building automation and metering applications.
+The computer category also increased in high single digits sequentially, which is difficult following the seasonally weak March quarter.
+Communications was the only category with a sequential decline, primarily reflecting the work done of the channel inventory and weaker recent softness in the China handset market.
+Revenue mix for the quarter was 41% Consumer, 33% Industrial, 22% Communications and 4% Computer.
+The relative strength of the higher-margin consumer and industrial markets drove a sequential increase in non-GAAP gross margin, which expanded by 170 basis points sequentially to 50.9%.
+Also a factor in the increase was the postelection rise in the dollar versus the yen, which had a beneficial impact on the cost of wafers from our Japanese foundries.
+Non-GAAP operating expenses were $32.7 million, up $600,000 from the prior quarter but below our forecast due mainly to the timing of headcount additions.
+As expected, the sequential increase was driven by annual merit increases as well as our annual worldwide sales conference, which took place in May.
+Non-GAAP operating margin for the quarter was 20.5%, a sequential increase of 200 basis point.
+Non-GAAP net income was $0.69 per diluted share for the quarter, up from $0.63 in the prior quarter.
+Cash flow from operations was $24.1 million for the quarter while capital expenditures were $16.5 million.
+As <UNK> indicated, we're adding substantial manufacturing capacity in support of new products and the overall growth we expect in our business going forward.
+Despite the higher-than-normal CapEx in the quarter, cash and investments in the balance sheet increased to $254 million at quarter-end.
+Reflecting the continued strength of our balance sheet and confidence in our growth outlook, our Board of Directors has expanded our buyback authorization by $30 million, bringing the total available allocation to $53.6 million.
+Looking at inventories.
+Internal inventories rose slightly during the quarter to 88 days on hand, up 2 days from the prior quarter while channel inventory fell to 6.6 weeks down from 7.3 weeks in the prior quarter.
+Looking ahead, we expect third quarter revenues to be in a range of $111 million, plus or minus $3 million, which would be an increase of 9% year-over-year at the midpoint of the range.
+Looking at gross margin, while the dollar-yen relationship should provide a slight benefit again in the third quarter, we do expect end market mix to be less favorable, reflecting an expected rebound in the Communication category.
+Specifically, non-GAAP gross margin should be around 50.5%, about 40 basis points lower than the second quarter.
+We expect non-GAAP operating expenses to be approximately $33 million in the third quarter, just a slight increase from the second quarter.
+I expect our effective tax rate for the third quarter and the balance of the year to be roughly 5%.
+And with that, I'll turn it back over to <UNK>.
+You're correct.
+It is a short-lived correction.
+And we also helped that by cleaning up some of the overbookings at distributors.
+And we think we are pretty much back to normal.
+There may be some lingering effects in Q3.
+But overall, we think Q3 will be a growth quarter for Communications.
+I believe so.
+There are, certainly, areas of market that are growing really well.
+High power is one of them which should do very well this year.
+And meters and e-bikes and so on and also the tools.
+So I think Industrial looks really, really strong for us going forward.
+<UNK>, typically, if you remember, we spend about $20 million.
+Last year, we spent -- on an average.
+Last year, we spent about $12 million.
+If you take last year and this year, we're slightly ahead of that.
+And we are basically doing this to add to our capacity as we look ahead to our growth, and that is why adding capacity and when we need it, you have to do it a bit in advance.
+So that's where -- but if you look at it on an average basis, yes, it's a little more than normal.
+But if you average out the 2, it's not totally out of whack.
+No, we have been planning for a period of time.
+And we're not yet ready to disclose who it is, but it is a Japanese company.
+So it has the same kind of yen [relationship,] if you will.
+And we expect this foundry to start production in reasonable quantities starting first quarter of the next year, 2018.
+I mean -- if you look at it, we should see some reasonable growth back in the third quarter.
+I mean, you saw us decline in that category quite a bit, but I think we should rebound nicely in the next quarter.
+We think we are getting back to normal on those specific products, and we expect, in the next 2 or 3 months, we'll be pretty much back to normal on our lead times.
+And that is one of the reasons we added capacity.
+The other reason is longer-term growth prospects.
+So if you look at it, the yen got -- was probably benefiting about, let's say, 50 basis points and mix probably contributed a little over 100 basis points.
+It's hard to look at it just by the end application because it is mixed between mix.
+But directionally, that's what I think you would look at.
+The yen, basically and the mix, you look -- this is for Q2, right, you're talking about.
+Or are you looking for Q3.
+So for Q3, it's basically, if you really look at it, it's the -- it's about half and half going.
+I mean, basically, if you look at it, we're going downward.
+The mix is going unfavorable, whereas the yen is still benefiting.
+Yes.
+So we'll get about roughly 50 basis points of benefit from the yen, but it's more than offset by the mix change because of expected growth in Communications business.
+I would say that this year is a little bit more than normal because we're trying to bring on an extra foundry and an extra subcontractor for test and assembly.
+And when you do that, there's always some expenses.
+And this sets us up very nicely for more than sufficient capacity for not only our growth but also have enough upside capacity because it's not going to be uniform every year.
+Some years, we'll grow a lot more than other years.
+And so it's important to have that excess capacity to handle upside.
+So yes, any time you add a new foundry and subcontractor, it is somewhat of a binary addition in cost.
+And that provides us with a capacity for the future.
+So the addition is binary if that's the question.
+Well, I think, we will continue to grow.
+But I think the growth is disproportionately a little bit more because you'll see the decline in the Communications was quite steep, and we will climb back.
+So as a percentage of revenue, Communications would increase.
+And typically, what happens in the third quarter is that Consumer comes down because air conditioning typically becomes a little softer after having a very strong second quarter.
+So you should see -- really what happened is that Consumer comes down and Communications goes up as a percentage of total revenue.
+That should be the directional.
+Well, it's a combination of a number of things, including the InnoSwitch.
+But InnoSwitch is still relatively small, I would say.
+We expect InnoSwitch revenue outside of Communications to be in the mid-single-digit millions this year.
+And that's certainly helping.
+But the biggest change or our increase is coming from air conditioning.
+Air conditioning has grown relative to last year.
+This year, it's expected to grow for us nearly 50% in unit volume.
+And this is driven by not only consumption within China but also consumption in places like India, where there is a much larger middle class who can afford these room air conditioners.
+They don't have central air conditioning, so each house could easily have 2 or 3 or 4 air conditioners.
+So there's a huge increase in demand for air conditioning.
+And our customers in China are gaining a huge share, and also their SAM is growing across the geographies.
+The other thing, of course, that's helping is the global warming.
+We've had a very warm year.
+And so people who can afford air conditioning, they're putting air conditioners in.
+So that's the big one.
+But we've also seen significant growth in all of the other appliances.
+Like major appliances has been a strong growth for us, small appliances, things like coffeemakers, shavers and so on.
+Those have also grown very well.
+Yes, we did.
+We definitely saw a slowdown in the end customer demand.
+We realized that there was more inventory at the distributors than needed given the softness.
+So we're very careful to make sure that we clean up that extra inventory during the quarter in Q2.
+And that's why we feel now that inventory is back to normal.
+If you look at the number of weeks, we're at 6.5.
+.
+6.
+6 weeks.
+6.
+6 weeks, which is very close to our normal inventory level.
+And that's why when we guided the quarter also, we had shown that the margin improvement would happen because we knew about the mix directionally.
+And that's why we had given the guidance on the margin accordingly, too.
+Yes, the reason we're able to do, <UNK>, is because we had a lot of the revenue booked in the beginning of the quarter.
+Our turns was less than 10% in Q2.
+Well, we are a single-sourced product.
+So really, this doesn't have any impact necessarily on pricing.
+It is not easy to just switch to somebody else.
+No, that's really not related to that.
+It's really related to adding more capacity.
+So when -- we have a lot of proprietary packages that we use.
+So when we bring on a new assembly and test partner, we not only had to buy equipment that's specific to our packages, but also we had to buy testers and handlers, which we always have owned.
+We own all of our testers and handlers because we use high-voltage technologies so it requires some specialized testing.
+So we always own them.
+But that's the expenditure on the subcontractor for assembly and test.
+On the foundry side, the only thing we really buy on equipment that are unique to us, there's usually 1 or 2 pieces of equipment that the foundry may or may not have, and if they don't have it, we usually buy it for them.
+And so it's more of a capacity expansion not a cost-reduction exercise.
+Yes.
+So basically, it's pretty fair to assume that the board definitely adjusted the matrix.
+It's a matrix that the board -- we have a discussion with the board.
+And obviously, we, as a team, take into consideration the confidence in our outlook, the market conditions, the current valuation.
+Having said all that, we are very opportunistic, and we'll continue to be opportunistic and keep using the price sensitivity approach that we have used in the past.
+Yes.
+There's lot of design work going on in USB PD, but the standard had some changes in the last few months, primarily driven by some of the OEMs, both the cell phone OEMs and also the tablet and notebook OEMs, who have asked for some modifications to USB standard to make it more suitable for their own products.
+And so the good news is more and more of the OEMs have now decided to move to USB PD because of the improvements that have been made to USB PD standard.
+The bad news is it has delayed the implementation of USB PD to some extent.
+But there's a lot of design activity.
+But in terms of revenue, it's been delayed a little bit.
+And we think that the real growth in USB PD revenue will happen in the second half of next year.
+The tablets and notebooks will go into the Computer revenues.
+And once again, we think the next generation of switches are a very good fit for that.
+And the USB PD will be the catalyst to convert that market to InnoSwitch.
+As you know, the notebook and tablets currently use the older -- their legacy technologies, which has been standard for a long time now.
+But all of that will have to change with USB PD.
+And I think InnoSwitch -- the next-generation InnoSwitch is a very good fit in terms of efficiency, in terms of form factors, in terms of lower consumption and just having all the hooks to implement USB PD.
+So this is a great opportunity for us to get significant share of the tablet and notebook market starting, I would say, the middle of next year.

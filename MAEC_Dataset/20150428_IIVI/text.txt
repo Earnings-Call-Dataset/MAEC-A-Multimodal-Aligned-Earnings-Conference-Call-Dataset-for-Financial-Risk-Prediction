@@ -1,0 +1,100 @@
+Okay, <UNK>; this is <UNK> <UNK>.
+For sure, EUV is a good place to start.
+It's an important place to start for us.
+Our next is -- and for EUV we are making at least four different components for EUV.
+And we are providing them through the infrared optics business as well as the M Cubed business in our advanced products group.
+At M Cubed they are also making precision ceramic components for wafer stages, wafer tables, electrostatic chucks, and defectors for the backend.
+And there, the normal ebb and flow for the existing products in the marketplace and the growth in those products is what's pulling us along in that segment.
+Finally, in our military materials business, part of our strategy to diversify and to leverage the competencies that we have developed in precision optical assemblies over the years in that group -- we are also leveraging, highly, opportunities that exist today for precision metrology equipment, including for existing 300-millimeter -- and in the future, 450 millimeter -- applications.
+And maybe just to close on that, in our Photop group, Photop are also the key supplier to the semiconductor capital/metrology equipment makers that are the leading makers in the world.
+Okay.
+That's pretty hard for us to flow down.
+You know how there has been such a start and stop on EUV in the time and the delay.
+But we really probably shouldn't try to speculate on that at this moment, but as more of the news of that unwinds in the next two or three quarters, we'll share it if we get it.
+But we can say we are well tuned in on the EUV machine itself, and -- just what <UNK> said.
+Critical components, the three or four that we make, they are critical for the machine.
+Mostly from one.
+That's for sure.
+Everybody knows that leader.
+But we do have some front-end tools -- people that we supply to and another person in the bigger space.
+<UNK>, this is <UNK>.
+For sure new products are the lifeblood of the business, and that's both for sustained revenue growth as well as for profit improvement.
+At OFC I think you maybe were aware and saw a suite of new products which I referred to today, including our OTDR modules that perform optical time domain reflectometer measurements in both the central office and outside plant, allowing carriers to reduce OpEx and bring up advanced networks reliably.
+We should start to generate revenue from prototypes in this current quarter, and we expect the production revenue would begin to kick in by the end of the first half of next year.
+And as an example, I would expect in FY16 it would be a low single-digit million dollars of opportunity.
+On tunable optical filters that we talk about, this is a very compact -- in fact, it's the smallest tunable optical filter in the market.
+It dramatically reduces the noise from erbium-doped fiber amplifiers -- that is the amplified spontaneous emission noise.
+These products, or these tunable optical filters, will be used in CFP2 100G transceivers.
+Lead customers have already designed them in and qualified.
+We expect limited prototype revenue in the next couple of months.
+And again, we might expect by maybe the second half of 2016 to be on the low single-digit millions a year run rate.
+Regarding our high-power pump lasers, we will be launching in a couple weeks -- that means next month -- the industry's leading 1-watt 980 pump laser, which has the lowest power consumption, the highest power output.
+And we expect that EDFA manufacturers will be quite interested in designing those in.
+We expect that even though we'll launch it beginning sometime in May that in FY 2016, again, low single-digit millions of sales in 2016.
+We demonstrated the new nano-amplifier platform for next-generation optical amplifiers.
+That platform that you probably saw at OFC generated a lot of interest and a lot of enthusiasm by both OEMs and some carriers.
+That's a platform.
+The products that we built based off of that platform -- we will not be able to generate revenue in 2016, but we expect the revenue will come in 2017 based on both completion of the platform, getting it ready to manufacture.
+So I tried to give you a sense for some of the things that are happening.
+Of course, in our existing optical communications business, new products with new specs -- high-density array iridium-filled fiber amplifiers and the like -- these are considered and expected by our customers to be rolling.
+As part of the price we are keeping the revenue where it's at and being able to grow it.
+So it's kind of a replacement as well as a growth, if you will.
+I hope that gives you a feel, <UNK>.
+They've been out for a while.
+I think we may take the bottom end down a little bit just to overlap more with the end of the 2015 range.
+But having said that, we continue to have improvement in our margins -- you know, an important part of our ongoing strategy.
+It is partially because of the currency.
+On the last call, when we talked about currency, I said that's not really a huge exposure for us.
+And it historically has not been.
+But some of our most recent acquisitions -- that are also going beautifully and adding to our product portfolio going forward -- do have more euro-based revenue than we are used to and, as I say, has changed the margin profile.
+So the currency is the main driver, yes.
+<UNK>, are you talking about the whole Company, or are you talking about --.
+Yes.
+The comment <UNK> made was in laser solutions (multiple speakers).
+Yes.
+I could take a -- we certainly don't have a report today with our revenues broken out by region, but maybe just qualitatively I could take a shot at it --
+-- if <UNK> <UNK> would like to.
+I would say that -- US, we have -- for our broad industrial base, it has a feeling of being strong.
+And so I would say US strong bookings for the business.
+I would say in Europe, as I already mentioned, strong.
+Not exactly sure, but it seems that a lower euro maybe make some products more competitive in Asia.
+And that could be part of what we're seeing.
+But for sure, there is strength in Europe.
+And Japan is strong.
+And I would say that's broadly across the Company and virtually in all markets that we are playing there -- industrial, communications, semiconductor capital equipment.
+And in China -- China is an interesting place.
+I would simply say that both from the communications, from the industrial market that we've already reported, the fiber laser market seems to be -- continued super-hot, even though there may be some indications of it being a little less hot than it was 12 months ago.
+There seems to be on every corner somebody else turning up with either a fiber laser or a direct diode laser business.
+With the team that we have based there, we are pretty efficient at tracking and addressing their needs.
+I'd only add one more comment to it, and it's not a big deal.
+But certainly in our wide bandgap materials group, a big portion of our business right now is headed into Japan.
+And that business feeds the base station business, which has seemed to be doing some build out in China.
+Nice business for us right now.
+I think it's a tricky question, and our answer is -- because we've changed our product mix somewhat.
+When we started with that business, we had a product we called a BMU that was built into some custom solutions and now we've gone more toward a standard product.
+And the standard product -- it's going to be better for us.
+We won't be having the different batches of production that we had.
+But that's there.
+And at the same time, the foundry that we operate or the fab that we operate -- as we get more volume, it does generate a better margin picture.
+And we expect that will continue.
+<UNK>, I'll take that.
+Our silicon carbide substrates enable high-performance, high-frequency, high-power, high-reliability gallium-nitride-based HEMT devices.
+Those devices go head-to-head with silicon LDMOS in this wireless base station market.
+And they have a value proposition which is allowing -- this is our understanding of the market dynamic through reading about the industry reports.
+Our understanding is that the value proposition for price and performance are allowing the wide bandgap electronics to penetrate the existing market, which is growing.
+But our understanding is that wide bandgap electronics are penetrating the market and growing considerably faster than the SAM is growing.
+So it's kind of a -- we believe that our customers are in a position to be taking share from legacy technology LDMOS.
+That's one theme.
+The other theme is 4G wireless base station growth continues.
+China is a hot market for it, but there are other markets that are expected to follow in their growth.
+Our understanding, again, from industry reports is that we could expect both India, Africa, and even Latin America in the next couple or three years to follow a similar trend.
+Okay.
+Our customers' customer is in China.
+All right.
+Thank you very much for joining us today.
+I'll just give it to Fran for closing comments.
+Thank you, everybody, for joining us.
+And we look forward to meeting again in the next quarter, which will be the end of our year, which -- we will complete a very good year, we expect.
+Thanks.
+Thanks again.
+Bye-bye.

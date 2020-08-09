@@ -1,0 +1,117 @@
+Thanks, <UNK>, and good afternoon everyone
+Gross profit in the quarter was $2.14 billion or 63% of revenue
+From a year ago, gross profit increased primarily due to higher revenue
+Gross profit margin increased 220 basis points
+Operating expenses in the quarter were $808 million or 23.8% of revenue, and on a trailing 12-month basis, they were 22.8% of revenue, in the lower half of our model
+Over the last 12 months, we have invested $1.4 billion in R&D, an important element of our capital allocation
+Acquisition charges were $80 million, all of which was the ongoing amortization of intangibles, which is a non-cash expense
+Operating profit was $1.25 billion, or 36.8% of revenue
+Operating profit was up 27% from the year-ago quarter
+Operating margin for Analog was 41.4%, up from 36.6% a year ago
+Embedded Processing was 29.9%, up from 25.7% a year ago
+Our focused investments on the best sustainable growth opportunities with differentiated positions enable both businesses to continue to contribute nicely to free cash flow growth
+Net income in the first quarter was $997 million or $0.97 per share, which included an additional $0.08 discrete tax benefit that was not in our original guidance
+Let me now comment on our capital management results, starting with our cash generation
+Cash flow from operations was $795 million in the quarter
+Inventory days were 132, consistent with our long-term model of 105 to 135 days
+Capital expenditures were $127 million in the quarter
+On a trailing 12-month basis, cash flow from operations was $4.76 billion, up 9% from the same period a year ago
+Trailing 12-month capital expenditures were $534 million or 4% of revenue
+As a reminder, our long-term expectation for capital expenditures is about 4% of revenue
+Free cash flow for the past 12 months was $4.22 billion or 30.7% of revenue
+Free cash flow was 11% higher than a year ago
+Our cash flow reflects the strength of our business model
+As we have said, we believe free cash flow growth, especially on a per-share basis, is most important to maximizing shareholder value in the long term and will be valued only if it is productively invested in the business or returned to owners
+In the first quarter, we paid $500 million in dividends and repurchased $550 million of our own stock for a total return of $1.05 billion
+Total cash returned to owners in the past 12 months was $3.82 billion
+These combined returns demonstrate our confidence in our business model and our commitment to return excess cash to our owners
+Over the last 12 months, we paid $1.76 billion in dividends or 42% of trailing 12-month free cash flow, which demonstrates the affordability and sustainability of our dividend growth
+Outstanding share count was reduced by 1% over the past 12 months and has been reduced by 42% since the end of 2004, when we initiated a program designed to reduce our share count
+In fact, we have reduced shares every quarter year on year for 52 consecutive quarters
+In March, we retired $250 million of debt
+This leaves total debt of $3.375 billion with a weighted average coupon rate of 2.32%
+Our cash management and tax practices are fundamental to our commitment to return cash
+We ended the first quarter with $3.05 billion of cash and short-term investments, with our U.S
+entities owning about 80% of our cash
+This onshore cash is readily available for multiple uses
+Turning to our outlook for second quarter, we expect revenue in the range of $3.4 billion to $3.7 billion and earnings per share in the range of $0.89 to $1.01, which includes an estimated $30 million discrete tax benefit
+Before moving to Q&A, there are three changes that I want to explain to help you better understand our first quarter results and our second quarter outlook
+The first is to remind you that in the fourth quarter of 2016, we adopted a new GAAP standard that impacts the accounting of taxes for stock-based compensation
+While this adoption has no impact on our cash balance, it does result in a discrete tax item that impacts our effective tax rate and earnings per share
+To help you model the tax rate and discrete tax items, I am sharing the quarterly assumptions and their impact
+We will continue to report how our results differ from our guidance just as we did this quarter
+To start with, our operating tax rate for 2017 is estimated to be about 30%, unchanged from previous guidance
+This operating tax rate assumes no discrete items and it's what you will need to use as a starting point for your longer term models
+Next, we are assuming discrete tax items of about $30 million, $20 million and $10 million in the second, third, and fourth quarters of 2017 respectively
+Therefore, the effective tax rates which include discrete tax items translate to about 28%, 29% and 30% in the second, third and fourth quarters respectively
+These are the quarterly effective tax rates you should use for your 2017 models
+If you do the math using these numbers, you will get an effective tax rate of 27% for the year
+I advise you not to use 27% in any quarter as the size of discrete tax items vary quarter to quarter, particularly in first quarter
+We will post a chart summarizing our assumptions for these discrete tax items as well as the retrospective impact of this new standard on our website at ti
+com/ir
+Hopefully providing these discrete tax item assumptions will be a good start in dealing with this new accounting standard
+The second item is a GAAP standard that we adopted in the first quarter of 2017 that requires us to report certain pension costs in other income and expense, or OI&E, that were previously reported in OpEx and cost of revenue
+This change is small, typically about $15 million of costs in a quarter, with about 70% coming out of OpEx and the balance out of cost of revenue
+A chart summarizing these changes and their retrospective impact will be available on our website The last change is also effective first quarter of 2017 and impacts how we handle royalties
+We will no longer recognize royalties in revenue
+Instead, they will be recorded as income in other income and expense
+As Analog and Embedded have become a much larger part of the company, royalties now represent a little less than 1% of our overall revenue
+They were about $30 million in the first quarter of 2017, about what they were a year ago
+We expect royalties to continue to run generally at about this level for many years into the future
+However, given their decreasing significance to our core operations, they are now recorded as other income and expense rather than in revenue as of our first quarter 2017 results
+I'm hopeful that spending some extra time talking through these accounting details will help you in understanding our results Now to wrap up, we remain focused on growing free cash flow per share over the long term and investing to strengthen our competitive advantages
+We believe our first quarter results continue to demonstrate our progress
+With that, let me turn it back to <UNK>
+Thanks, <UNK>
+Yes
+Thanks for the call
+I'll handle that one
+On OpEx, everything came in about as expected
+What I would tell you, the way you want to think about OpEx, high level, we've talked about our model where we want to run OpEx between 20% and 30% of revenue and in stable markets at the lower end of that, the lower half
+And that's exactly what we've been doing for the last couple of years
+And in fact, on a trailing 12-month basis, we're just below that
+So as you think forward, you should model us along those lines
+If you're thinking kind of on a tactical level first to second, I would remind you that second quarter does have three months of higher pay and benefit raises versus only two months in first quarter
+So you may have some of that played in kind of similar to what happened last year, maybe a little less than that
+Yes, we are – well, I'll answer our inventory days and then I'll let <UNK> comment on the disti channel
+But we're comfortable with our inventory days
+It's well within our range
+Always remember inventory days is a backwards looking metric, so what we have it there for is to support growth
+And the other key point to remember is as we have focused our strategy more on industrial, automotive and on catalog type of parts, the risk of obsolescence on this part is really minimal
+So it makes sense from a longer-term standpoint to have that inventory available to support revenue growth
+Yes, I'd be happy to comment
+The update is no change
+It's the same strategy for M&A
+We looked at – we're always considering options and looking at things, but it has to be an opportunity that is focused on industrial, it's focused on automotive, catalog type of parts, Analog catalog
+So it has to be a good strategic fit from that standpoint
+But then the other component that has to be there is that the numbers have to make sense
+So when we have both of those combinations, then we are willing to move forward on considering that further
+So the change in royalties was included in our guidance, meaning that the royalties were in other income and expense, just like how they came in in results
+And on a go-forward basis, they will stay in other income and expense
+So for modeling purposes, you can look at how that other income and expense line came in and then model it similar to that on a go-forward basis
+Yes, sure
+As you think of the company on a go forward basis, the biggest driver of our gross margin is revenue, revenue growth
+And that's what we're focused on industrial and automotive
+Those are the best opportunities that we have ahead of us because of the constant growth of semiconductors in those spaces
+Now, beyond revenue growth, then we have 300-millimeter manufacturing, the efficiency of our manufacturing, particularly with 300 millimeter
+As you probably recall from the capital management strategy, I walked through why 300-millimeter is such a competitive advantage, and that's because the cost of the chip is significantly less
+In fact, it's 40% less at the chip level than on 200-millimeter
+So what that translates to is not just higher gross margin but more importantly, higher free cash flow, And then free cash flow per share that we can return to the owners of the company
+Well, I'll give you some color and then I'll let <UNK> chime in
+But, we think of our strategy, as stated in the capital management strategy for many years, is that we want to add capacity well ahead of demand
+And that's because this is an asymmetrical bet
+This capacity we can buy
+When we buy that way, we can buy used equipment and we can buy it at pennies on the dollar where the carrying cost is minimal but the upside potential is tremendous for the reasons that I talked about earlier and the great fall through that we get to free cash flow
+So we're thinking longer term, 10, 15 years out when we're making capacity decisions
+The way I would comment on that is, we have said before that our revenues fall through between 70% and 75%
+So if you do that math on a sequential basis, you'll get somewhere close to where you need to be
+Let me address the second part of that question first
+That's clear, we've been focusing on industrial and on automotive
+That's where we have been biasing our investments for a number of years, and that's why we're getting strong results in both of those end markets
+Now over half of our revenue is coming from industrial and automotive, so those investments are paying off
+On your first part of your question, I would take you back to my earlier comments
+We like, our stated goal or model is 20% to 30% OpEx
+I know you're asking about R&D, but we like to look at it as OpEx because there are a lot of pieces there that we think of as investments, investments in sales, in the sales force, in ti
+com, and a few other things that help us build those competitive advantages
+So OpEx 20% to 30% in stable times, in the bottom half of that, so 20% to 25%, and we have been running like that for now 27 months
+So you should think about that way when you're modeling our OpEx

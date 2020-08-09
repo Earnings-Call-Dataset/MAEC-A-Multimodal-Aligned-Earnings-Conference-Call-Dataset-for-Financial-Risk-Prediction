@@ -1,0 +1,208 @@
+Thank you, Sonia.
+Good afternoon, and thank you for joining us today.
+Joining me on today's call is Ron <UNK>, our President and CEO.
+Ron will provide his thoughts on our business, and I will follow with the highlights of our financial performance for our second fiscal quarter of 2018.
+Following our prepared remarks, we'll take your questions until 6:00 p.
+m.
+Eastern.
+We issued our earnings release shortly after the market closed.
+Some of the statements that we are making during this call are considered forward-looking and are subject to significant risks and uncertainties.
+These statements reflect our expectations about future operating and financial performance, and we speak only as of today's date.
+We undertake no obligation to update publicly or revise these forward-looking statements for any reason.
+We believe the expectations reflected in our forward-looking statements are reasonable, but give no assurance of such expectations or any of our forward-looking statements will prove to be correct.
+Please refer to the forward-looking statements section in our earnings release today and under the heading Risk Factors in our 2017 annual report on Form 10-K and subsequent reports on file with the SEC for additional information.
+Finally, certain of the financial information disclosed on this call includes non-GAAP measures.
+The information required to be disclosed about these measures, including reconciliations to the most comparable GAAP measures are included in the earnings release.
+The earnings release is also an exhibit to a Form 8-K that can be accessed through the SEC filings section of our Investor Relations website.
+Now I'd like to turn the call over to Ron.
+Thank you, Mike, and welcome to everyone that has joined our call today.
+Digi had an exciting second fiscal quarter, and I'm pleased to share with my comments on our results and prospects.
+Our second fiscal quarter 2018 extended the positive trend established the quarter prior.
+In exceeding our expectations both revenue and adjusted EBITDA for the second fiscal quarter, we've begun to demonstrate our commitment to sequential improvements throughout the year.
+Particularly encouraging, we had strong performance in Digi's IoT Products & Services, IoT Solutions, and our newly acquired Accelerated Concepts, which results are included in the Digi IoT Products & Services business segment.
+Lastly, we expect our performance to improve in our third fiscal quarter.
+As a reminder, we transitioned our reporting to 2 business segments: IoT Products & Services and IoT Solutions.
+This better aligns with our value proposition, management structure and industry nomenclature.
+In moving away from our previous product categories, like cellular and RF, we interface with our customers more effectively and it facilitates leverage within our business, as customers who are exposed to Digi portfolio versus just 1 product family.
+My commentary will be centered around our 2 business segments.
+Our IoT Products & Services business provides OEM and enterprise products and complementary software and support services.
+Our objective of sustainable, profitable growth has strengthened with the addition of Accelerated Concepts to the Digi family.
+A few key business updates include: number one, a stronger direct sales force.
+Chris Bowen, our Vice President of EMEA Sales, joined last quarter finalizing our initiatives and establishing Munich as our EMEA headquarters.
+We are seeing results from our key account and top opportunity initiatives with a significant increase in both bookings and contributions from opportunities over $100,000 in value.
+We believe we have significant opportunities to improve our win rate on large enterprise deals.
+Secondly, we improved our channel programs.
+We've consolidated a few of our channel partners in both North America and EMEA to provide improved relationship management and intimacy.
+We have seen our channel sales increase, which provides evidence to back this approach.
+Third, improved new product introduction, or NPI.
+This remains one of our top opportunities to improve.
+We are driving strong collaboration and alignment surrounding our NPI process, including the identification, definition, development and launch activities.
+We are optimistic about the results we expect to achieve from new products being introduced in all of our product families.
+Fourth, streamline operations.
+We have reduced our SKUs to less than 1,200, and we expect to be less than 1,000 before the end of our fiscal year.
+We announced the transition of our manufacturing operations in Minnesota to our contract manufacturing partners, which we expect to take place over the next 2 quarters.
+We continue to advance the implementation of one common CRM and ERP solution, while improving our processes along the way.
+Our model for IoT Products & Services is to grow 5% to 10% annually, while achieving double-digit EBITDA margins.
+Accelerated was acquired in January and has contributed materially to both our financial results and our cultural evolution.
+The Digi and Accelerated teams have integrated and worked well together.
+We've conducted joint training, and we'll begin rolling out Accelerated products to Digi's channel partners.
+In addition, strong teamwork between the product management and R&D teams has created a joint product road map with plans to leverage our collective best practices and best technologies.
+There are significant synergies to grow our business with common technology and joint go-to-market.
+The IoT Solutions business is focused on subscriber and recurring revenue growth.
+We believe we have a strong leadership position and a $3.5 billion addressable market that has fragmented competition and low penetration.
+Our talented team and technology added approximately 4,000 subscribers and facilitated the signing of some significant enterprise customers that ensures our growth will continue throughout the year.
+First, we launched the SmartSense brand, which better describes our core mission and realities of the business behind one flag.
+SmartSense embodies our industry leadership role in automating, alerting and analyzing the conditions and tasks surrounding the safe and cost-effective handling, storage and distribution of conditioned sensitive goods.
+Second, we exited our second fiscal quarter with a subscriber base of almost 42,000 sites.
+Our subscriber base will further expand as we implement new and existing customers marked by 2 large wins in both health and transportation.
+Our annualized recurring revenue now exceeds $14 million, which is calculated by annualizing the recurring revenue in the last month of the quarter, representing a 25% increase from last quarter's figure.
+We've defined the path to optimize the technology stacks starting with the consolidated set of on-site product that is best in breed amongst the 4 acquisitions, our next challenge is to consolidate the host and mobile applications, unlocking significant productivity and clear go-to-market strategies.
+We expect IoT Solutions to experience sequential growth throughout the fiscal year.
+We reiterate our confidence that we can grow the business to $50 million to $100 million in revenue over the next 3 to 5 years fueled by strong double-digit growth.
+As you may have seen with our announcement earlier today, our CFO, Mike <UNK> is transitioning to a new opportunity outside of Digi after our current fiscal quarter.
+We will miss Mike's talent and leadership, and we congratulate him and wish him success in his new role.
+I want to personally thank Mike for the 3-plus years we worked together, transforming Digi into the exciting company it is today.
+We've already started the process to secure our next Chief Financial Officer.
+Now I will turn it over to Mike for more detail on our performance in the second fiscal quarter of 2018 and our expectations for the third fiscal quarter and full year fiscal 2018 periods.
+Mike.
+Thanks, Ron.
+First, I appreciate the comments.
+It's, obviously, a tough decision to leave Digi and the team.
+I've been here for 3 years and by Ron side for over 20.
+A great local opportunity presented itself that allows me to return to a private company environment.
+We've executed on many of the initiatives we set out to do and the company is in a great position to capitalize.
+Our results and guidance supports the product businesses again on firm ground with scale, leverage and attractive profitability.
+Solutions is poised to fuel our growth with a business model predicated on delivering ROI with recurring revenue.
+We've built a strong team, and I leave Digi in great hands.
+I expect to be here for the balance of the quarter and be a 100% focused on an early transition.
+I'd like to thank Ron and everyone else for allowing me to be a part of Digi.
+So turning to more exciting news.
+We are happy with our fiscal Q2 financial performance as well as how the balances of fiscal year is progressing.
+We're on track for continued momentum in both our operating segments.
+I'm going to touch on a few highlights for the quarter before talking about each segment and our guidance.
+Our consolidated top line revenue and adjusted EBITDA both exceeded the upper range of our guidance for the quarter.
+Along with both the organic business and acquisitions, we grew more than 20% year-over-year.
+Subsequent to the end of the fiscal quarter, we announced a manufacturing transition plant that will transfer the majority of manufacturing from Eden Prairie, Minnesota facility to existing manufacturing partners.
+The transition is a result of a year-long initiative on SKU rationalization, improved business efficiency and a focus to do fewer things better.
+Unfortunately, as a result, many of our employees in Eden Prairie will be negatively impacted.
+Up to 61 positions will be eliminated in a 2-quarter phased approach.
+We will incur total restructuring charges of approximately $600,000 that will be recorded during the third and fourth fiscal quarters of fiscal 2018.
+The new outsourced manufacturing model is expected to result in total annualized savings of between $3 million to $5 million.
+On January 22, 2018, we purchased all of the outstanding stock of Accelerated Concepts, a Tampa-based provider of secured enterprise-grade cellular LTE networking equipment for primary and backup connectivity applications.
+This acquisition is reported within our IoT Products & Services segment.
+The initial purchase accounting resulted in approximately $13 million of intangible assets that will be amortized over 5 to 7 years, adding approximately $900,000 of additional quarterly amortization expense, or $0.10 per diluted share, for fiscal 2018.
+And finally, you'll notice in our earnings release, we started to craft our discussion to provide more insights into our 2 segments: IoT Products & Services and IoT Solutions.
+We will post historical information for comparison purposes to our IR section on our website.
+Now I'll speak to our results.
+We generated $54.8 million of total consolidated revenue compared to $45.6 million in our second fiscal quarter revenue a year ago.
+Fiscal Q2 revenue exceeded our guidance range of $50 million to $54 million.
+We enjoyed year-over-year growth in Products, Services and Solutions.
+In addition, our channel showed POS momentum with inventory dropping from $20 million in fiscal Q1 to $16 million in fiscal Q2.
+Geographically, North America revenue increased by 32.7% in fiscal Q2 2018, largely resulting from incremental revenues from our Accelerated, TempAlert and SMART Temps acquisitions.
+EMEA revenue remained relatively flat with a decrease of 0.4% versus the prior year comparable quarter.
+Combined revenue in Asia and Latin America decreased by 7.6% year-over-year.
+Our overall gross margin increased to 48.6% compared to 48% in fiscal Q2 2017.
+Gross margin increased in the quarter versus the year ago quarter, primarily due to an increase in hardware product gross profit and strong performance from Accelerated, which has higher gross margins, partially offset by IoT Solutions and increased amortization expense related to our acquisitions.
+Operating expenses in fiscal Q2 2018 increased by 28.3% compared to the year ago quarter.
+However, excluding the incremental expenses of $5.4 million related to the Accelerated, TempAlert and SMART Temps acquisitions, operating expenses were comparable year-over-year.
+We recorded an income tax provision of $400,000 for the quarter compared to $100,000 in the first quarter a year ago.
+As we mentioned on our last call, our year-to-date provision was impacted by the recently enacted Tax Cuts and Jobs Act, adoption of ASU 2016.09 (sic) [ASU 2016-09] in fiscal Q1 2018.
+The first one is a onetime adjustment of $2.5 million related to the remeasurement of our net deferred tax assets as a result of the Tax Cuts and Jobs Act, which lowered the U.S. corporate tax rate from 35% to 21%.
+The second is an adjustment of $200,000 for the adoption of FASB ASU 2016-09, which requires the expensing of the tax deficiencies related to stock awards that historically were recorded in additional paid in capital.
+Net loss for the quarter was $400,000, or a loss of $0.01 per diluted share, compared to net income of $1.3 million, or $0.05 per diluted share, in fiscal Q2 2017.
+Included in our fiscal Q2 2018 loss is $1.9 million, or $0.07 per diluted share, of incremental amortization expense associated with our acquisitions.
+Adjusted EBITDA in the second fiscal quarter of 2018 was $4.8 million, or $0.18 per diluted share, and 8.8% of total revenue, compared to our guidance range of $3 million to $4 million.
+In the second fiscal quarter of 2017, our adjusted EBITDA was $4.7 million, or $0.17 per diluted share, and 10.2% of total revenue.
+Reconciliations of GAAP and non-GAAP financial measures, including adjusted EBITDA, appear at the end of this release.
+Moving to the consolidated balance sheet, cash and investments, including long-term investments, totaled $59.6 million, a decrease of $55.4 million over the comparable balance at September 30, 2017.
+The decrease in cash was directly related to the Accelerated and TempAlert acquisitions in fiscal 2018.
+We expect to return to cash positive in fiscal Q3.
+As mentioned in our earnings release on April 24, 2018, our Board of Directors authorized a new program to repurchase up to $20 million of our common stock, primarily to return capital to shareholders.
+This repurchase authorization expires on May 1, 2019, and replaces the program set to expire this May 1, 2018.
+Now I'd like to discuss the results of our IoT Products & Services segment.
+IoT Products & Services revenue in the second fiscal quarter 2018 was $49.8 million compared to $43.9 million in the same period a year ago, an increase of 13.6%.
+This was primarily the result of $6.2 million of incremental revenue related to Accelerated.
+Product revenue was $47.6 million in fiscal Q2 2018 versus $41.8 million in fiscal Q2 '17, a 13.9% increase.
+We experienced stronger sales of terminal servers in North America and larger sales of embedded modules in EMEA.
+Services increased to $2.2 million versus $2.1 million, or 6.2%, year-over-year.
+Our IoT Products & Services gross margin was 50.4% compared to 48% in fiscal Q2 2017.
+This increase was primarily a result of incremental gross profit of $3.6 million related to Accelerated as well as the stronger performance internal servers.
+IoT Products & Services operating expenses increased by 11.2% compared to the year ago quarter.
+The increase was primarily due to incremental Accelerated operating expenses of $2.2 million in the current fiscal quarter.
+Excluding these incremental costs, operating expenses were down year-over-year.
+IoT Products & Services operating income was $4.7 million compared to $2.7 million in the prior year quarter.
+IoT Products & Services adjusted EBITDA was $7.2 million, or 14.7%, compared to $5.3 million, or 12%, in the same period last year.
+The improvement to adjusted EBITDA reflects the strong leverage in this segment.
+Moving to our IoT Solutions segment.
+IoT Solutions revenue in the second fiscal quarter 2018 was $5 million compared to $1.7 million in the same period a year ago.
+This was primarily driven by incremental revenues of $3.5 million related to the acquisition of TempAlert.
+Our growth subscriber additions in the quarter were nearly 4,000, and we are now servicing approximately 42,000 individual sites.
+Our IoT Solutions gross margin was 31.5% compared to 48.2% in fiscal Q2 2017.
+This decrease was primarily driven by TempAlert and a onetime increase to product cost of goods sold.
+We expect balance of year margins to settle back into the high 40s.
+Amortization expense of $500,000 and $200,000 is included in gross margin, respectively.
+Excluding amortization, gross margin was 42.1% compared to 60.8% in the prior fiscal period.
+IoT Solutions operating expenses increased to $5.8 million compared to $2 million in the year ago quarter.
+The increase was primarily due to incremental expenses of $3.3 million associated with SMART Temps and TempAlert.
+IoT Solutions operating loss was $4.2 million compared to $1.2 million in the prior year quarter.
+And IoT Solutions adjusted EBITDA was a loss of $2.4 million compared to a loss of $700,000 in the same period last year.
+Now I'd like to provide our updated guidance, which includes the third quarter and the full year of fiscal 2018.
+For the third fiscal quarter of 2018, we expect total company revenue in the range of $56 million to $60 million, and net income per diluted share to be in the range of $0.02 to $0.06.
+Adjusted EBITDA is projected to be between $6 million and $7 million, and adjusted earnings per share in the range of $0.21 to $0.26.
+For the full fiscal year, we're projecting revenue to be in the range of $215 million to $223 million, and net income per diluted share to be in the range of a $0.07 loss to a $0.03 net income.
+Adjusted EBITDA is projected to be between $21 million and $24 million, and adjusted earnings per share in the range of $0.76 to $0.88.
+Included in this full year guidance is our recent Accelerated acquisition.
+That completes our prepared remarks.
+At this time, Ron and I will be pleased to open the call for your questions.
+Sonia.
+So let me take the first part of that question, which is the phase end of the $3 million to $5 million.
+I think you will see some marginal improvements as we go into fiscal Q4.
+And then we really would expect to get that full benefit, really kind of pro rata over the course of FY 2019.
+So I think you can kind of spread that range really kind of evenly throughout next year.
+But we really look to that first quarter of 2019.
+And this is Ron.
+On the second question, we're really pivoting towards more of a focus on growth and getting higher productivity out of resources.
+We're -- we've done a lot of work, as you know, getting the company more athletic and getting us focused on doing fewer things in the value chain better.
+So after this initiative, we're really, really focused more so on growth.
+We're always looking for opportunities to become more efficient.
+So we'll never stop that relentless focus, but much more clearly focused on growth.
+Yes, this is Ron.
+It's really fair and good question.
+We would like having the buyback in place should there be a good opportunity.
+We are at a moment right now where we are -- we've got a lot of work to do to integrate the acquisitions we've done, which is 5 acquisitions in the last 2.5 years.
+So we are more focused on integrating the acquisitions, but we're absolutely not ruling out acquisitions in the future, both on the Products & Services side as well as SmartSense.
+Those are really good questions.
+We're not quite yet at the maturity level that we could give you that information with confidence.
+It is something we're spending a lot of time on to make sure we're getting the productivity out of our go-to-market.
+But we do expect over time as we integrate these companies and get better at our craft that we'll have more insightful commentary around that.
+That's correct.
+Yes.
+Yes.
+Thanks, <UNK>.
+I appreciate the well wishes.
+This is Mike.
+So the $3 million to $5 million is all in cost of goods sold.
+It's directly related to the operation center here at Eden Prairie and moving to the outsourced manufacturing model.
+So $3 million to $5 million it's all in cost of goods sold.
+And what I had mentioned previously is we'll see some modest improvements in margins, I think, in fiscal Q4.
+And you can really expect to see a lot of that improvement just sequentially throughout the year.
+Because it's really, now it's related to outsourced manufacturing, it will be somewhat predicated on volume as well as mix.
+But the way we view it is really -- you can kind of pro rata spread it throughout the year, starting in fiscal Q1 2019.
+Yes, sorry, <UNK>.
+So I'll take the tax rate one.
+The actual tax rate for fiscal 2018 is going to be hard to get your head wrapped around, because we had a large charge in fiscal Q1 even though it was a net operating loss.
+So what we've kind of built into the model is the 21%.
+We should be able to take advantage of some R&D credit, so you might see some discretes kind of pop in there.
+But what we've done in both the guidance as well as our model is used the new rate of 21%.
+And <UNK>, we're able to add approximately 4,000 subscribers from the previous quarter.
+We also announced in our press release that we've signed a couple of larger contracts, both from the health and transportation verticals that we'll roll out over these next 2 quarters.
+So we didn't provide specific metrics on backlog and pipeline.
+But we are encouraged, in particular, by the progress we're making in health and in transportation.
+Food is not contributed as greatly as we expected, but we do have a lot of strong prospects in that segment as well.
+It's taking a little bit longer to convert them from small implementation or a pilot into a rollout.
+Thank you, Sonia.
+On behalf of the entire Digi team, we thank you for your continued support and interest in our company.
+In summary, we are energized by our second fiscal quarter's results, and we are pleased with our expectations for the third fiscal quarter.
+Digi is a well-positioned company within a large IoT market.
+Digi has the potential to create transformative value through the growth of both our business segments and increasing the percentage of Digi's revenue that is recurring.
+We look forward to updating our story next quarter.

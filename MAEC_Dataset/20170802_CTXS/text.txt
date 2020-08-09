@@ -1,0 +1,174 @@
+Thank you, <UNK>, and welcome to everyone
+I'm excited to join you today in my new role at Citrix
+As you can see, the business results are strong
+As <UNK> shared, top line revenue is in line with our forecasts, growing 3% year-on-year, but that alone really doesn't tell the full story
+When you look at bookings and deferred revenue, we saw a significant acceleration in our business last quarter, including 76 deals over $1 million of which nine were for Citrix Cloud
+We can directly see the model shift when measuring the percentage of product bookings in the quarter that came in as subscription-based versus perpetual
+In Q2, this mix of subscription doubled year-on-year to 30% of the product bookings mix, driving the increase in deferred revenue, which as <UNK> mentioned, over $1.7 billion, up more than 13% year-on-year
+In fact, the total contract value of bookings for Workspace Services was up more than 10% from last year with an average contract duration approaching three years
+We're also beginning to see this move show up in recognized SaaS revenue which is growing quickly, up 27% year-on-year, and we expect to accelerate throughout the back half of this year
+Up until now, we've been trying to gradually manage this move to a more subscription-based model, but the rapid shift in demand from customers is showing that we need to be much more aggressive and speed up this transition moving forward
+The faster-than-expected shift is a strong indicator of our customers' belief in our long-term vision
+They want their infrastructure to run in either a hybrid or a SaaS model
+Our holistic approach gives customers the confidence that they can transition to the cloud at their own pace with Citrix and have the future flexibility to access cloud-based innovations that their businesses are going to need
+The move to subscription is obviously impacting the P&L in the short term for both revenue and margin
+As we work on the plan to move faster, we're going to do so with a commitment to operational efficiency
+We're recognizing that OpEx is up significantly over the last few quarters, as <UNK> mentioned, both from variable expenses as well as investments in multiple areas of the company
+Looking forward, our goal is to manage the business closely through this transition so that we can both accelerate our move to subscription while balancing op margin both over the medium and long term
+We're currently working on a multiyear plan including capital, and we expect to share these details and metrics on the Q3 call
+Citrix has a mission that has remained largely unchanged for nearly 30 years and we have a strategy that is clearly resonating with our customers
+It's now our job to be more intentional about the transformation needed in all areas of the business to drive solid growth and profitability into the future
+Looking at our products, I believe we currently have the strongest product portfolio and roadmap that I've seen in my tenure with the company
+Our desktop and app business is accelerating because the cloud and hybrid approach gives customers the flexibility they want, along with the growing need for security-use cases
+We're seeing this especially with large competitive wins worldwide, particularly in education and healthcare during Q2. For example, a large U.S
+health system and a major Korean university chose Citrix to better manage their cloud transitions while maintaining the security and compliance needed, and alleviating growing concerns around ransomware and malware within their organizations
+In the networking space, we're seeing our Enterprise segment bookings grow in the double digits because of our capacity investments, as well as our software-based architecture strategy
+Organizations are clearly going to evolve their networks to a more software-defined perimeter approach over time
+And since NetScaler is a software platform, we're very well positioned to meet our customers' needs well into the future without forcing them to go through a complex and expensive hardware refresh cycle
+For example, Masonite International, a large building products manufacturer, was facing an end of life on a competitor's hardware platform this quarter
+They weighed upgrading with that competitor with switching to Citrix's NetScaler, ultimately choosing NetScaler with the addition of XenApp citing both Citrix's product integration capabilities and the completeness of vision to help them well into the future as unmatched reasons for this switch
+Looking at our partnerships, our product alignment with Microsoft is driving real results
+This quarter we saw many large joint customer wins for Citrix Cloud with Microsoft Azure driven by the strength, usability and simplicity of our solution
+Arizona State University, for example, which is currently undergoing a hybrid cloud effort as part of a new Cloud first IT initiative is just one large example
+In addition to that, one of the world's largest advertising, marketing and communications agencies, as well as one of the world's largest professional software firms both chose Citrix Cloud on Azure in multimillion-dollar deals driven by cost, efficiency and security concerns
+A professional services firm needed an IT environment built from the ground up for one of its divisions to meet U.S
+government regulations, and they cited Citrix Cloud on Microsoft Azure as the single easiest and most secure way to mobilize their workforce and meet their regulatory compliance needs
+And the work that we're doing is extending to other partners as well
+This quarter, we announced an expanded partnership with Google to bring Citrix Cloud's desktop and application delivery and NetScaler CPS to the Google Cloud Platform, and to better integrate ShareFile and the security and control that we can offer with the full G Suite of solutions
+And just this week, we'll be announcing the availability of Citrix SD-WAN 9.3 with an extended partnership to make it available on the AWS marketplace
+This is just the start of the investments to offer customers choice and flexibility into how they manage their IT environments with any platform provider
+From a competitive standpoint, we had more than 1,100 competitive wins in our core areas
+For example, M&T Bank replaced a major competitor of XenMobile because of better user experience and features like single-touch desktop access and our ability to securely integrate with our existing NetScaler infrastructure
+In fact, several customers also replaced networking competitors with NetScaler, including Telecom Italia, citing superior performance, usability, stability and overall scalability as the driving factors in these large deals
+And overall we're also seeing several big desktop replacements when displacement transactions, including one of the large medical foundations, a major hospital system and a large services company, driven by the advanced performance and quality of our solutions and the unique Citrix-only capabilities like integration with ShareFile to deliver a complete workspace solution
+So to sum it all up, business is strong
+We recognize that our profitability is getting pressured by the cloud transition
+Going forward, we're going to manage both the transition and efficiencies in a balanced manner
+We have, clearly, work to do, but you'll see our response over the next several quarters
+Additionally, we're working hard to align the entire company towards a multiyear cloud transformation, and as I said, after Q3 of this year, we intend to share new metrics and our multiyear plan so everyone can better understand the rapid pace of our evolution, the demands we're seeing from our customers in our hybrid cloud vision
+Thank you very much
+And as always, we look forward to your questions
+Question-and-Answer Session
+The quickest way to answer that is just look at the mix from Q2. Just about 85% of the mix was coming from new customers or maybe existing customers with new use cases
+The remaining 15% was coming from an installed base that was just doing a migration
+So at this point in time, the vast majority is net new
+It's the way we've designed it for this year, one of the reasons why it's impacting the top line as much as it has been
+I mean, we haven't had any change in leadership across our R&D and innovation engine
+In fact, it's stronger than it has been in many, many, many years now
+We've got two great leaders running both product and engineering, and we've recently gone through a unification from an org model standpoint to bring together all of our product and engineering efforts
+And the driver there is really just to allow us to move faster, to deliver integrated solutions both on-prem and the cloud, and I feel really good about our roadmap
+We're releasing a number of new capabilities
+Just released like, for example, a NetScaler software web gateway, which is a web security solution with user behavior analytics built into it
+It's an extension of really what we're doing across the broader NetScaler platform, leverages mass and various other web services like threat intelligence, et cetera
+So we're working hard across all those fronts and I think you should expect to see more innovation coming from us as you go forward
+Overall, I think it's going quite well
+I mean it's just to remind everyone, we announced a voluntary migration in the first half of the year
+We had a couple of promotions going
+In the second period, roughly 40% of customers that were renewing chose to renew on CSS, versus their option to renew on subscription advantage
+The uptick in price we saw on an ASP basis was about 19%, so it's moving exactly as we expect
+The mandatory migration starts right now in the beginning of Q3. So this is the part where we're being just a little bit cautious to make sure that we understand any potential impact to renewal rates or ASPs
+But as of right now, we haven't seen any degradation
+We feel very good about it
+Our challenge is just make sure that we're out and educating customers along the way
+So feel really good, good progress and we'll see over the back half of the year
+Sure, Kash
+First off, thank you
+I appreciate the support
+Second, in terms of – you had a number of questions in there, and I'd probably bucket all those in the context of our multiyear plan
+I mean, the leadership team right now is working aggressively to lay out what is effectively a 2020 plan
+And within that, we're looking at the pace at which we want to shift to a subscription-based model, both in a hybrid fashion and in pure SaaS
+We're looking at where we can (19:43) accelerates margin expansion over that three-year timeframe, and as I mentioned earlier, we're looking at capital in the context of that as well
+So a lot of work to do
+We're doing that over the course of the next three months
+We'll talk about it on the quarter
+We see a lot of opportunities
+We see opportunities to not only run the business more efficiently but to actually deliver an acceleration of customer value by migrating them to the cloud
+If you think about some of the transitions we've already started making in the last few months around reorganizing the engineering team, the product teams and all these others
+And as I said to Rob's question, that's going to accelerate our ability to innovate and deliver tightly integrated solutions on a faster time scale
+And that's important because frankly that's what customers are looking for right now
+So I'd say stay tuned
+Give us three months to finish out this plan
+Overall, we're excited about where we can go and we think there's opportunities both to accelerate revenue and deliver leverage expansion over the next three years
+Kash, let us do the work, and then come back with some real specifics
+But what I will say around that is you look at the last three quarters, as a percent of product mix, we've gone from 10% to 20% to 30%, and that's a reflection of customer demand, it's a reflection of making it comp neutral, and it's a reflection of really where we're going
+I will say for the balance of this year, we'll probably settle out somewhere around this 30%, 35% of the mix for the back half
+And as we go into next year, we're going to be much more programmatic in terms of how we're driving alignment with both our field-facing teams as well as our partner network, how we're aligning the offers and we're aligning incentives
+But in terms of the output, we're still working on it, so we'll come back in a few months and just lay out metrics, as well as a three-year expectation for revenue and margin and EPS at the same time
+In terms of top line, like I said just a second ago, we're assume about a third of the mix is going to be coming via subscription on a go-forward basis, that's what it looks like in Q3 and in Q4 as well
+We're working hard on expenses right now
+We were running hot in the first half of the year
+Some of that's variable expense because as we're migrating to the cloud, bookings are running ahead of plan but we're paying all the variable comp and commissions upfront and recognizing the revenue over an extended period
+There's also been a number of investments in other parts of the business, and the leadership team is working on where do we prioritize and where do we focus on the back half of the year
+So again, I'd say stay tuned
+The core takeaway is that business has been very strong, but the subscription mix is moving faster than we anticipated, more than double the pace that we were expecting a year ago
+So that's going to impact the P&L in the short term
+Sure, <UNK>
+I mean, we didn't get into a whole lot of details on the prepared remarks, but when you look at networking in total, there's a couple of things that I would point out
+First, in the aggregate, there's a little bit of a headwind, about a $10 million headwind from some portfolio rationalization we did a year ago
+That was the last big quarter for ByteMobile and so that one is effectively zero right now so we got a little bit of a headwind there
+In terms of the overall business, I mean, we did make a pass at the investments last year across what is largely enterprise accounts
+The fastest-growing part of the networking business has been in pure play
+So if you think about our kind of three main markets, service providers attached to other Citrix solutions and what I would call pure-play ADC, the pure play was up strong double digits in the quarter so we're actually being able to engage and win in a much greater number of competitive transactions
+And part of the reason there is just simply what we've said for the last several quarters
+We've got a software-based platform that allows customers to have much more flexibility
+We're not relying on a rip-and-replace hardware cycle for growth at this point in time
+We've got a number of different innovations that we've brought forward like MAS, our Management Analytics System, which provides a nice competitive differentiator
+We've created pooled-capacity licensing so customers can share capacity across their cloud and prem models, and a number of other innovations is allowing us to grow pretty aggressively
+So that's what we're doing so that's the primary strategy, expand the base and drive share, and we've been successful over the last couple of quarters doing that
+<UNK>, it's an imperfect number so that's the caveat
+If you were to look at all things that were delivered via subscription and you were to change that to a perpetual license, it's probably approaching $100 million for the year
+But I want to put the caveat on that that there will always be some level of subscription
+So it's a little bit apples and oranges, but that's an approximate number the way to think about it
+Best way to measure the business in the short-term is look at the other metrics
+Not just reported revenue but the fact that deferred revenue was up 13%, roughly 10% current, 20% long-term
+Billings growth was 8.5%
+We did have double-digit bookings growth across all three of our main businesses so the underlying trends have been positive
+It does tend to be more back-end loaded
+So I don't know the exact number off the top of my head, but roughly it would be 60%, maybe as much as 65% of the renewal pool would come up in the Q3, Q4 timeframe
+I'm not exactly sure what you're talking about, <UNK>
+But, overall, I'd say if you look at the field organization, and the big takeaway is that we're executing now internationally whereas we had been driving a lot of the growth domestically over the last couple of years
+As we've talked about, a lot of work went into the U.S
+back in the 2013, 2014, 2015 timeframe
+We started that work later in the international markets and now they're delivering significant growth
+EMEA was up mid-singles, APJ had the second double-digit quarter in a row, and those teams are really coming together and starting to jell
+I'd say in terms of the actual focus from the teams, we've made it comp neutral in terms of selling subscriptions versus perpetual license for the most part, and so we're not really trying to drive one or the other
+Obviously, as we go through a more longer term transition, we'll be thinking about that in more ACD terms versus TCD
+But that's a transformation that's 2018, not 2017.
+No, it's the latter, <UNK>
+It's not just the mix shift
+I mean, we're running ahead on our original bookings plan and we've also taken some discretionary expenses as well
+So we have the ability to moderate expense growth and do that in a way that expense growth looks more close to revenue growth
+Two things, in terms of the top line, it's a reasonably seasonal ramp for the enterprise business
+I think the thing that's masked that for a lot of people as they looked historically is how much was coming off of SaaS from the GoTo properties
+Besides that, we're just looking at things coming off the balance sheet plus the current bookings forecast
+We are building up more and more off the balance sheet so that will provide a cushion over time as well
+The place where you're going to see that hit the P&L is most directly through the SaaS line
+That number has started to accelerate over the last couple of quarters and I would expect that as we go into the back half of the year, we'll exit north of 40% growth in SaaS revenue for Q4 as well
+So that's a place you'll start to see that come back in
+In terms of OpEx, I don't want to get into any details
+Like I said, we're looking at prioritization and where we're going to drive spending in the back half
+Yeah, unit growth was strong
+It was low double-digit unit growth
+Yeah, Josh, I can't talk to the individual one-offs
+I mean, there's always situations where every large deal as you'd imagine is highly competitive
+We do tend to be the higher priced competitor
+We don't lead on price, historically, so I'd have to understand more detail to give you a specific answer
+But I looked at ASPs coming out of the quarter, and for the most part, ASPs are unchanged as to where they were a year ago
+So in the aggregate, not a big shift
+At a micro level, yes, it's a hypercompetitive environment right now
+I mean, there is almost never a transaction over a couple hundred thousand dollars that isn't a head-to-head bake off with some other competitor
+We are not going to win on price
+It's not a long-term strategy
+We're going to win on integrations and features and performance
+We will get aggressive on price if we have to in some circumstances like everyone will, but that's certainly not our strategy
+Yeah, I mean, the Operations and Capital Committee, we created another committee on the board to help management as we accelerate some of our multiyear planning
+The focus is going to be around looking at our cloud transformation and helping us test a lot of those assumptions, operations in the P&L as it relates to margins and other
+We'll work with them on capital planning, and we'll work with them on helping vet M&A ideas
+So just to work collaboratively with the leadership team
+I wouldn't anticipate that you're going to have any large announcements from this, but it's just in the context of us transforming the business and doing it as quickly as we can
+Well, thank you again for joining us today
+We hope that everyone is excited as we are for the next great chapter in Citrix's transformation
+I'd say we're moving quickly
+We're driving customer value, and we're really looking forward to sharing the details of our multiyear plan with you at the end of this quarter
+Thanks again
+Talk to you in three months

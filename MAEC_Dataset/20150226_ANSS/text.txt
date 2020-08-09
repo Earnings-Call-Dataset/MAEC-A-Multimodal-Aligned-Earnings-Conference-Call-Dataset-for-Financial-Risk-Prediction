@@ -1,0 +1,137 @@
+Without getting into specific numbers, it was a little bit above 200.
+You know, the things we've been talking about.
+And we've probably had the equivalent of about, to date, probably about a 15% to 20% increase in headcount.
+That's something we did very aggressively in Q4 because we wanted to be prepped up for the year.
+As it is, we've had a really very good onboarding of some of those people.
+We've had a really good attraction kind of strategy.
+And, of course, then it's going to take some time for them to bring up, to get productive throughout the year.
+I think we talked about three- to six-month time to ramp up.
+And, by the way, we were still hiring into the early part of Q1 because there's a certain amount of bandwidth for bringing these on.
+But we've already seen some of the impacts of that early hiring, and certainly from a demand generation effort, the system is still -- the external system is still absorbing that ability.
+So, in other words, we are not oversaturated, by any means.
+There's a whole range of things where if you think about a lot of other applications that you use.
+I mean, in terms of being able to -- how to [pod] things, videos that will pop up as you hover over things.
+So in other words, in some cases you don't even have to ask for things, it's anticipating what you want, it's anticipating certain guidelines, allows you to set preferences.
+And I think the other thing that cannot be overplayed is in some cases these initial steps where we can be operating all of the physics within one window, that may seem like a pretty trivial kind of end-user enhancement or comp-side achievement.
+But what you can do in that one window where you are not trying to hop between different things that are connected in talking to one another but they still feel a little bit different.
+I think that's part of it.
+But I think also, as people start branching into multi-physics, you might think historically fluids and structures, even though they are both mechanical engineering disciplines that every mechanical engineer learned in school, the tools and their application historically have been so separate you had to be an expert practitioner in there.
+And because of that, the different tools kind of posed problems in different ways, spoke in different languages.
+And we want to get to that point where a person with good engineering judgment overall isn't wrestling with the nuances of the linguistics of the program, so they can get those working together.
+So first of all, we solve the interactivity from the data standpoint, meaning we can solve the problems, now we want to bring that in where the bar gets lowered to a good engineer being able to get access to it.
+And that's what I meant about the multistep journey that will be on that.
+Just like we are in a multistep journey on Workbench, even though we've been able to harvest some nice success out of that over the next few years.
+Sure.
+Again, token, that's one way of approaching a flexibility issue and things like that.
+But, really, what we looked at is -- and that's really where we engage with major customers, we get a concept of what they want to do.
+But what we try to do is make access to that software, we elevate it out of the individual transaction level because they've already made a commitment to us, we've already made a commitment to them.
+And it provides the flexibility to actually bring in the things -- sometimes it's very difficult at the very beginning to say, I'm going to need exactly this capability at this particular time, and you try to overprogramatize it.
+But with this one, we can look at the number of users and type of jobs they're trying to do, the things that they are trying to solve from a business standpoint.
+And it allows you to do the things we couldn't do for our 45,000 customers on a standard pricelist, but when you can actually engage with somebody and get that economy, it allows us to work together.
+I think, also, and it is interesting, adjunct of these kind of enterprise agreements we have, and you saw reference of that with an announcement we had made a year ago in terms of this is -- the way they sometimes will actually collaborate with those customers to be prepared to jointly tackle the next generation of problems that are going to be addressed by simulation.
+So it is actually more than just a transactional purchase thing.
+It's really more of a holistic technology implementation trajectory that we try to build on there.
+It is really an invigorating one, because it's really around how you solve new classes of problems as opposed to how do you get over a certain kind of purchase hurdle.
+And we are starting to see more and more of these, that's what factors into some of the things we talked about the last couple of calls in terms of time-based licenses that it tends to maybe slightly deflate in the early period but it builds over the long period.
+I think we've even see that in these early stages.
+But we just see increasing interest in those type of a relationship.
+It really is one of those things, I think it's a very significant point, because it shows -- it basically shows a, if you will, getting to a certain level of maturity and jumping the hurdle in terms of these options simulation on a broader base.
+No.
+And that's why, if you look at the headlines, the word solely was inserted in there, so that the only significant modification we've made from when we guided back in November is roughly 3% to 4% related to currency for the full year.
+However, at the same time, we hadn't guided on Q1, this deal has been in the works, and we have been working with this particular customer similar to we worked with Cummins on a deal that makes sense for them, their usage pattern, trying to proliferate more technology across this organization.
+And as a result, the treatment under GAAP for this deal is going to be spread.
+So for 2015 it will be spread over the full year as opposed to in the past when we booked a deal with this particular customer that tended to be a couple of million dollars of paid-up revenue, won't be there, but we will take the long-term gain for what people might perceive as short-term pain.
+Thank you.
+Sorry, I thought that was the question.
+Please continue.
+Okay.
+The first thing, it really wasn't that there were new initiatives, but the increased bandwidth in our sales allowed us to address those more completely.
+And in general, if you look at that, I think a couple of things we talked about was, as opposed to having, if you will, more of a geography-based or a geography-skewed sales force, it is now pretty much partitioned between there's that element, but there's also major account focus by the number of reps.
+And that then increased quite a lot because there's more of a consultative aspect and a focus requirement that's required to drive that forward.
+To answer your question, there is typically seasonality patterns in these.
+However, the number that I talked about is greater in terms of the number of customers of those large orders.
+And, secondarily, as I mentioned, the average value of those orders was 14%, actually probably even a little bit above 14% increase in average order size, so it is not just the like clockwork, here's the season that comes in and goes forward.
+Now with regard to -- I guess the final thing was with regards to, we've already talked quite a bit about the direct sales force expansion.
+But I will say that, if you recall, we also mentioned in previous calls about the things that we are doing because the channel is still a very strong part of that.
+And we've actually put constructs in place to do that.
+In fact, there are even some things we are working on in terms of collaboration with them where we can jointly do things under an ANSYS aegis, but it's really primarily focused at driving the channel business.
+The bottom line is those are both obviously going to be key parts of our go-forward strategy.
+And we want to make sure that our historical channel was actually in the same boat going in the same direction we were.
+We talked the last couple of calls where the results were a little bit depressed.
+Initially sometimes that happens when there's that changing of the guard.
+But I will say that once we got through that, once we were able to go through a broader-based sales training and introduction of what this technology means, as well as customers realizing this wasn't kind of like a cute little third-party addition into our suite, but it was a key part of what we have going forward, it became something -- and quite frankly, the interest level in the pipeline is actually pretty strong right now.
+So we look toward getting back on the glide path or the takeoff trajectory that we had envisioned for this, albeit maybe a few months slower, but the reception has been really strong.
+So I think we're headed in a really good direction on this.
+Okay.
+Thank you for that plug.
+First of all, it is a small number of actually enacted ones; it is an increasing number of people who are interested in engaging along those standpoints.
+So definitely the trend.
+The one thing before I turn it over to <UNK>, the one thing that I said is, we know that this is a definite trend.
+How quickly or how completely it enters the equation is still a question.
+It will be significant, but is it 100% or 30%.
+Either of those numbers would be very significant.
+We don't really know that, but there is no doubt that the trend and all the winds are blowing in that particular direction, which means, of course, we've had to try to make different assumptions on modeling that.
+But if you recall, for years we have been saying, Hey, we've been talking about a strong lease base, a strong license base and basically saying that we really don't care.
+What we're trying to do is providing multiple opportunities and just not create acquisition purchasing hurdles to adopting the technology.
+So we continue to do that, but the receptivity and the interest seems to be shifting toward more of that.
+And as this technology gets a little bit more pervasive, however it gets manifested in things like the cloud and large-scale networks long-term, that all could shift and affect it too.
+But it is -- definitely it's a trend line, but you said you wanted to turn part of that question to <UNK>, so I'll give her a swing.
+So just a couple of comments to add on to <UNK>'s point.
+What you basically will see is probably over time an uptick in the percentage of recurring revenue.
+And obviously, in whatever quarter that we booked those deals, you will see an uptick in deferred revenue and backlog.
+So just like I commented relative to the Q1 outlook, there is the potential for perhaps some slight decreases in short-term revenue growth, but these are really, really good for building our long-term relationships and our long-term growth.
+And the other thing I will say is, as <UNK> pointed out, this is kind of, I would say, an evolution for some of our traditional larger customers.
+We obviously -- the TBL has been part of the Apache model since that business started, and since we acquired it.
+But there are still some parts of the world that larger deals, perpetual is the model they preferred in places like China, and India, and Korea.
+So what we want to do is remain as we always has been, flexible to the needs of our customers to enable them to acquire the software under whatever model makes sense for them.
+We are not going to force them into time-based licenses if perpetual is the model they prefer.
+The one thing is, keep in mind, there's a lot of different factors here.
+There's currency, but you look at long-term, multiyear kind of issues coming in, so there are definitely currencies, there's issues between, and I don't know if we want to get into this, but the billed versus unbilled.
+But one of the main things is that if you've got -- we've talked in the past about if you've got a multiyear deal, maybe a four-year deal, and it showed as a $40 million last year.
+The fact that it didn't renew this year may show one set of calculations as being down, but it is not at all indicative of a decreased book of business.
+It basically is really strong stuff.
+It's just that when you do these multiyear things, those cycles are going to go in and out.
+Actually with this trend going on, we look at a number of things to try to look at an annualized value of those going forward.
+And obviously taking out some of the currency, making sure --there's also things when you do bookings, some might be for periods out in the future as opposed to the current period and trying to line up all of that.
+It is a very complex kind of equation.
+But you could get really caught off guard if you just try to assume that it is an apples to apples comparison without any -- maybe, <UNK>, if you've got a concept on that.
+<UNK>, the one thing, as <UNK> pointed out, we would really encourage people to focus on full-year results as opposed to any given quarter because as these deals become larger, the quarters can become skewed.
+The reality, if you take a look at at least how we calculate bookings growth and factor in the impact of FX for the full year on deferred revenue from 2014, we've got roughly 11% bookings growth.
+So that is what we are really focused on is that double-digit bookings growth that we, at least for 2015, envision will translate at the high-end into double digit non-GAAP revenue growth.
+Remember when I was talking about the comparative growth, I think it was 12% North America, 9% Europe and 15% for Asia Pacific, that's not the only aspect of that.
+But we talked about things both at the country level, at our major markets, as well as the transition of the overall leadership, in addition to propagating some of the best practices that we had in other parts of the world going forward.
+I think as you go forward, you look at all of that going forward.
+And I think the other thing that's very significant is part of that also were changes that we did.
+We talked about them being leadership, structural and operational changes in Japan.
+And if you look at that going forward, and that even involves the way that we worked with our partners.
+And when you look at that continuing on, we talked about that in past years we've been a little bit disappointed with our number two market, which was Japan.
+And they were in solid double-digits; the rest of Asia was growing in the mid-to upper-teens kind of level.
+So it is a pretty consistent kind of basis going forward.
+And when I talked about some of the investments we made in 2014 that we felt positioned as well, this is not the only one, but is one significant one that we are on record talking about throughout last year.
+And so our prospects for that are very good.
+I mean, again there's always going to be local economic and macro and currency, but that's part of everyday life.
+And no matter what it's at, we feel like the team we've got there is markedly more solid than we were, say, this time 12 months ago.
+The bottom line is, we said -- when we were talking about the investments in the last couple of calls, the services aspect was one that we specifically spoke on.
+And we were bringing in people that were familiar and capable of driving service as a business.
+And that is the key role of a couple of these major people.
+Also, services play a major role in the enterprise deals.
+And in general, what we view as services is not what traditionally has been service in our industry but there are things that are made more along implementation and adoption services going forward.
+So it is clearly one of those things that we are going to continue to build going forward, and it's not like it's in one or two major big engagements.
+It's more of a broad-based one, and it actually covers all of our geography.
+And it is one that will be a slow gradual buildup.
+But it is an important part going forward.
+Wow, trying to figure out -- there's a lot there.
+First of all, we've been talking about systems for a long time.
+And in the form of simulation, we were the ones that were kicking it off.
+And to us it was always around basically being able to build a complete virtual prototype.
+And this can be the traditional zero and one dimensional kind of approximations.
+But we see moving that toward three-dimensional with the help of high-performance computing.
+We see that -- basically if you look at almost all successful product launches of new innovative products, it was because the systems succeeded, and thereby you have to be able to balance a lot of different component interactions.
+So it's the ability to conceptualize in the virtual world a complete system.
+And then actually when you've something that works, it allows you to even use that to help describe what the requirements for the components are so you can go through the traditional refinement of that.
+But it is multidimensional; it's multiscale; it's multi- physics and it's really, if you will, creating that complete 3-D virtual prototype in the computer.
+What we've defined there really pushes the bounds of technology.
+But technology supporting us will allow us to go forward and enable those things.
+But that's, again, one of the reasons why we pushed multi-physics early on; why we built a platform for all of these things to work together.
+And the last part which we may need to dig into a little bit more, but that's one reason why engineering knowledge management, in terms of being able to link together the multitude of all these simulations, but also the complex configurations that might compose a system, link those into optimization runs that might say I also want to look at multiple variations and permutations of that.
+But that is basically, in a nutshell, where it all hits.

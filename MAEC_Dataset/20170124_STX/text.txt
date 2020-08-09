@@ -1,0 +1,46 @@
+Thanks, <UNK>
+With the shifts taking place in Seagate’s business, there are few specific areas of our financial performance in the December quarter that I would like to provide further context to <UNK>’s earlier discussion
+For the December quarter, Seagate’s addressable HDD market was in line with our forecast
+We continue to drive our HDD product set sales towards our higher capacity products across our portfolio, benefiting both our revenue and margin results for the quarter
+HDD enterprise revenue was up 5% year-over-year and represented 37% of our total consolidated revenue
+Nearline product revenues were up 15% year-over-year and our ATB nearline product continues to be our leading revenue skew
+Mission critical product sales remain stable and were up slightly, sequentially
+HDD client high capacity growth opportunities include consumer, surveillance, DVR and NAS markets, and represent approximately 30% of total consolidated revenue
+In the December quarter, revenue from these markets grew 19% year-over-year and average capacity per drive across these markets was approximately 1.9 terabyte per drive, up 20% year-over-year, and PC client shipments continue to represent 24% of consolidated HDD revenue
+Operating expenses for the December quarter were $521 million on a GAAP basis and $458 million on a non-GAAP basis
+During the December quarter, we implemented a certain cost reduction activities and recognized approximately $33 million in pre-tax restructuring charges
+The magnitude of these cost efficiencies we implemented across our company in calendar 2016 to ensure the resiliency of our business has been upwards of $500 million over calendar 2015. In this short period of time, we have improved our factory utilization, reducing our manufacturing cost by approximately $200 million year-over-year, operating expenses, excluding variable compensation have been reduced by approximately $300 million year-over-year
+We will continue to drive cost out of our manufacturing operations and operating expenses, as we move through the fiscal year
+Capital expenditures were $95 million for the December quarter for maintenance capital, supporting the acceleration of the ramp of new products in our portfolio that utilize new tooling and equipment, and the accelerated expansion of our Korat facility to expedite the manufacturing footprint reductions that are in progress across many sites
+Our capital expenditures and maintenance capital requirement levels are expected to be less than 5% of our revenue for the remainder of the fiscal year
+And through our manufacturing consolidation activities, Seagate is and will continue to operate at or very near full capacity
+Cash flow from operations in the December quarter was $656 million and free cash flow was $561 million
+Our balance sheet remains healthy and we ended the December quarter with $1.7 billion in cash and cash equivalents and $295 million ordinary shares outstanding
+Our debt structure and level of interest expense is well within our financial capabilities and reflective of our investment grade framework, given our staggered maturities and low interest expense
+Due to the confidence in our cash flow generation, our Board has approved our quarterly dividend payment of $0.63 for the December quarter, payable on April 5. Our December quarter dividend payout of $188 million is at the low-end of our long-term target range of returning 30% to 50% of free cash flow
+In addition, we deployed $147 million for the redemption of 4.1 million shares for the December quarter
+Our ability to return to our long-term financial model in the December quarter is a reflection of our portfolio optimization, as well as Seagate’s operational cost reductions
+From a market demand perspective, we continue to believe that optimizing our full HDD portfolio to the structural shifts in the application workloads towards higher capacity will prove to be a resilient and competitive marketplace strategy
+Combined with our Cloud Systems and Silicon Group, we review that approximately 80% of our storage product revenue opportunities in calendar 2017 have growth potential
+At the same time, we have structured our refreshed portfolio to optimize the gains in areal density improvement, increasing storage capacity per drive, and in turn this enables us to lower our build and material per drive and redeploy the internal head and media components towards our highest margin products across the portfolio
+While we are still in the process of executing many actions, we believe the overall cost alignment activities and the new high capacity and cost advantage products within our HDD product portfolio refresh will continue to benefit our product gross margins and overall profitability of our business over the course of our fiscal and calendar year 2017. Given the current demand outlook and assuming a stable macroeconomic environment, we are confident in our ability to remain around a higher-end of our long-term targeted margin range of 27% to 32%, and within our operating income margin targeted range of 13% to 15% for FY 2017. I would now like to turn the call back to <UNK>
+Hi, <UNK>, this is <UNK> <UNK>, I’ll tackle some of the OpEx ones and then turn it over to <UNK> <UNK> to address some of the COGS and the improved efficiency there
+I would take you back to middle of last year, where we had approximately two 8-Ks that we signaled upwards of $225 million of restructuring
+We’ve had a significant amount of that get recognized in the P&L, as we’ve noticed on in the 8-K
+With that said, we haven’t necessarily seen all the savings come through, and those are just on the activities that we’ve announced thus far
+And so, as you think about the OpEx, that’s going to continue to trend down
+Now some of that’s been masked a little bit by some of the variable compensation that’s gone into the first-half
+But we believe we’re on a trajectory for that to continue to take steps down exiting not only the March, but continued into the back-half of the year
+So that’s our alignment right now
+And then <UNK> in regards to…
+Thanks, <UNK>, and thanks, <UNK>
+Seagate does carefully monitor any and all potential tax law changes, not only here in the U.S
+, but in all areas of the globe, where we operate
+We continue to evaluate the various proposals coming out of Washington to determine what their potential impact might be
+And most of the proposals and process and in flight do contain certain provisions, which could have both positive and negative impacts to the company
+We do believe that the most serious tax proposals being considered, including the House Republican Blueprint with its border adjustability tax provision would not likely have a significant near-term impact for the company
+But again, that’s still under heavy review
+Yes, I mean, you’re nailing both of them, right
+We’ve got through the March quarter and then extending into June in the back-half of the year
+A lot of those savings will come to fruition on that top line, as well as some of the mix iterations and as we continue to ramp up the portfolio as well
+So that’s where we have a high degree of confidence in enabling that that sustainability in those levels at that margin range

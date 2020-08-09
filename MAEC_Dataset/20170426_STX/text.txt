@@ -1,0 +1,152 @@
+Thank you.
+Good morning, everyone, and welcome to today's call.
+Joining me today from Seagate's executive team are Steve <UNK>, Chairman and CEO; Dave <UNK>, Executive Vice President and CFO; Dave <UNK>, President and COO; and Phil <UNK>, President of Cloud Systems and Silicon Group.
+We've posted our press release and detailed supplemental information for our March quarter of fiscal '17 on our Investor Relations site at seagate.com.
+For the last few years, we have communicated our belief that data growth trends will continue to drive storage exabyte demand and the related measurement of capacity per drive and that units are less relevant to mobile cloud environments and future client addressable markets.
+In today's newly deployed architectures and applications, high-capacity mass storage is critical.
+Importantly for Seagate, it is the advanced technology in heads of media as well as manufacturing absorption of these technologies and test capacity absorption that will most significantly impact our financial performance.
+Going forward, we will continue orienting our conference call remarks and supplemental data to key market exabyte results and other business metrics and discontinue providing unit detail.
+We recognize this represents a change for the investment community in the short term but believe it better reflects how we are managing and measuring our business performance internally and will help our industry to be evaluated more effectively in a forward-looking manner.
+During today's call, we will review the highlights for the March quarter and provide the company outlook for the June quarter, and then open the call for questions.
+We are planning for the call today to go approximately 0.5 hour, and we will do our best to accommodate your questions following our prepared remarks as time permits.
+We will refer to GAAP and non-GAAP measures on this call.
+Non-GAAP figures are reconciled to GAAP figures on our supplemental information available on the Investors section of our website.
+We have not reconciled our non-GAAP financial measure guidance to the most directly comparable GAAP measures because material items that impact these measures are out of our control and/or cannot be reasonably predicted.
+Accordingly, a reconciliation of the non-GAAP financial measure guidance to the corresponding GAAP measures is not available without unreasonable effort.
+As a reminder, this conference call contains forward-looking statements about the company's anticipated future operating and financial performance, customer demand, technology and product development advancements and general market conditions.
+These forward-looking statements are based on management's current views and assumptions and should not be relied upon as of any subsequent date.
+Actual results may vary materially from today's statements.
+Information concerning our risks, uncertainties and other factors that could cause results to differ from these forward-looking statements are contained in the company's SEC filings and supplemental information posted on the Investors section of the company's website.
+I would now like to turn the call over to Steve <UNK>.
+Please go ahead, Steve.
+Thanks, <UNK>.
+Good morning, everyone, and thanks for joining us today.
+For today's call, I will cover the high-level trends we are seeing in the business.
+Dave <UNK> will then discuss certain financial highlights, and I will close the call with our outlook for the June quarter as well as an update for the calendar year.
+For the March quarter, Seagate achieved revenues of approximately $2.7 billion, up 3% year-over-year; GAAP gross margins of 30.5%; net income of $194 million; and diluted earnings per share of $0.65.
+On a non-GAAP basis, Seagate achieved gross margins of 31.4%, up 870 basis points year-over-year; net income of $329 million; and diluted earnings per share of $1.10.
+Cash flow from operations for the quarter was $426 million, up 108% year-over-year.
+Our March quarter reflects -- results reflect a relatively stable demand environment and improved profitability year-over-year.
+HDD exabyte shipments for the March quarter were 65.5 exabytes, up approximately 18% year-over-year.
+Average capacity per drive across the HDD portfolio was approximately 1.8 terabytes per drive, up 27% year-over-year.
+ASPs of $67 were sequentially flat for the March quarter and up 10% year-over-year.
+Our Cloud Systems and Silicon Group demonstrated 19% year-over-year growth in the March quarter with particular strength in our Flash-based solutions.
+We are pleased with Seagate's execution in the March quarter, both in terms of our ability to maximize the profitability of our storage technology portfolio and our continued execution on operational efficiencies.
+And I'll turn the call over to Dave <UNK> now to go into more detail on our operational activities.
+Thanks, Steve.
+For the March quarter, Seagate's addressable HDD market was relatively in line with our forecast.
+We continue to drive our HDD product sales towards our higher-capacity products across our portfolio, benefiting both our revenue and margin results year-over-year.
+HDD enterprise revenues were up 3% year-over-year, reflecting exabyte growth of 20% year-over-year and representing 36% of our total consolidated revenue.
+Within this, nearline revenues were up 9% year-over-year and represented 24% of our total consolidated revenue.
+Hyperscale nearline revenues were up strong double digits, and our 8 terabyte nearline product continues to be our leading revenue SKU.
+Our HDD client high-capacity growth opportunities include consumer, surveillance, DVR and NAS markets.
+Revenues from these markets were up 25% year-over-year, reflecting exabyte growth of 41% year-over-year and representing approximately 28% of the total consolidated revenue.
+Average capacity per drive across these markets was over 2 terabyte per drive, up 22% year-over-year.
+In our mature mission-critical and PC client markets, revenues declined year-over-year as expected, and exabytes declined slightly.
+PC client revenues continues to represent approximately 25% of the total consolidated revenue.
+Operating expenses for the March quarter were $550 million on a GAAP basis and $443 million on a non-GAAP basis.
+Total consolidated expenses were slightly higher than forecast, primarily due to nonexecutive variable compensation.
+Capital expenditures were $95 million for the March quarter for maintenance capital and manufacturing footprint redeployment supporting the continued ramp of new HDD products in our portfolio that utilize new tooling and equipment.
+Our capital expenditures and maintenance capital requirement levels are expected to be less than 5% of our revenue for the remainder of the fiscal year.
+And through our manufacturing consolidation activities, Seagate is and will continue to operate at or very near full capacity.
+Cash flow from operations in the March quarter was $426 million, and free cash flow was $331 million.
+These results include approximately $150 million in cash payments related to restructuring charges and biannual nonexecutive variable compensation.
+Excluding these items, cash flow from operations would have been approximately $576 million.
+Our balance sheet remains healthy, and we ended the March quarter with $3 billion in cash and cash equivalents and 297 million ordinary shares outstanding.
+Our board has approved our quarterly dividend payment of $0.63 for the March quarter, which will be payable on July 5.
+In January, we successfully completed a debt offering of $1.25 billion of investment grade financing with weighted average interest rate of less than 5%.
+This funding will serve as a prefinancing of our 2018 and our 2021 notes and other corporate purposes.
+We have called our 2021 7% senior notes with a payment of $158 million scheduled for May 1.
+Interest expense for the March quarter was $60 million and will be similar in the June quarter.
+Our debt structure and level of interest expense continues to be well within our financial capabilities and reflective of our investment grade framework, given our staggered maturities and low interest rate.
+Our March quarter results continue to reflect strong execution of our business model objectives and our ability to generate strong cash flow from our storage portfolio.
+Combined with our Cloud Systems and Silicon Group, we view that approximately 80% of our storage product revenue opportunities in calendar 2017 and beyond have growth potential.
+While we are still in the process of executing a number of our cost actions in our manufacturing sites and at the corporate level, we believe the combination of these cost alignment activities and the competitiveness of our HDD product portfolio will continue to benefit our product gross margins and overall profitability of our business over the course of calendar year 2017 and beyond.
+I would now like to turn the call back to Steve.
+Thanks, Dave.
+A few weeks ago, we launched our Data Age 2025 study with IDC that addresses data growth, location and new business verticals over the next several years.
+With a forecast of 163 zettabytes of information being created over the next few years, HDD mass storage technology will continue to be a vital player in maximizing the value of data across many new verticals.
+We believe continuing to optimize our full HDD product portfolio to the structural shifts in application workloads towards higher capacity will prove to be a resilient and competitive marketplace strategy.
+By this time next year, we anticipate less than 10% of our HDD technology portfolio will be exposed to competing Flash devices.
+The competitiveness of our HDD portfolio is a result of our long-term investment in delivering world-class storage technology and our dedication to product innovation.
+A few recent portfolio highlights include: In the nearline market, our 10 terabyte helium HDD is continuing to ramp with large hyperscale cloud service provider customers.
+Customer evaluation feedback on our 12 terabyte helium HDDs has been positive, and we plan to start volume shipments in the June quarter.
+We believe our opportunities in the nearline market will continue to span across multiple capacity points as our customers evolve their capacity infrastructure for a growing multiple of enterprise workload applications.
+We are successfully refreshing a number of products in our portfolio utilizing our fourth generation SMR technology and, to date, we have sold over 35 million HDDs into the nearline, client and consumer markets with this technology.
+We believe our technical leadership in areal density will continue through calendar 2017.
+Our planned 1 terabyte and 2 terabyte product refreshes for the PC compute markets are on schedule.
+And this week at NAB, we announced new consumer products, including our first offering for the drone marketplace, a Fly Drive, which includes enough space for 60 hours of 4K video footage, and developed in partnership with top drone manufacturer, DJI.
+From an R&D technology perspective, we continue to invest in our next-generation areal density hammer technology.
+With products on the road map for the late 2018 calendar year, we believe we are leading the market in developing and bringing to market this important cost-benefit solution for mass storage capacity needs.
+Turning to the market outlook.
+We remain cautiously optimistic about the current macroeconomic environment and IT spending trends.
+For the June quarter, we are expecting to achieve revenues of between $2.5 billion and $2.6 billion.
+Our expectations reflect the seasonal decline in revenue, our desire to maintain lower inventories going into the summer months and some conservatism due to the potential impact of component shortages in DRAM and NAND on various aspects of our customers' businesses in the server, CSP and client space.
+We are raising our gross margin expectations for the June quarter to 31%.
+And we are targeting a new range for calendar 2017 of 29% to 33%.
+As Dave indicated, operating expenses will trend sequentially down, to expense approximately $430 million in the June quarter.
+We anticipate operating expenses will continue to decline through the rest of the calendar year and exit the December quarter at or below $400 million.
+Cash flow from operations will be down slightly sequentially, reflecting lower seasonal revenue and cash payout related to our elimination of U.S. vacation accrual.
+We continue to expect overall exabyte demand to grow double digits in calendar 2017 over 2016, representing modest revenue growth opportunities for Seagate.
+Assuming market conditions remain intact, we continue to believe Seagate will achieve earnings per share of at least $4.50 in calendar 2017, and we will provide a fiscal '18 outlook on our July call.
+Thank you for joining us on the call today, and we'll now open the call up for questions and answers.
+We're not going to provide exabyte growth by segment, that's highly competitive information.
+We still believe in exabyte growth that's consistent with what we've said over the last couple of years, exabyte growth in excess of areal density growth.
+Yes.
+I do think they can, as you see the 10s and 12s start to ramp.
+I think the first half of the year has been an issue both of what's really the right marketplace for the 10 terabyte, especially with the 12 terabyte kind of coming right behind it as well as the CSPs have been and we've kind of expected this the whole time that the second half of the year is going to be stronger than the first half of the year.
+So I think the combination of stronger demand signals for the second half plus the rotation of the portfolio that's going to have 8s, 10s and 12s, and not just pretty much 8s, you're going to see exabyte growth there that's going to continue.
+Yes, I think it's a great question.
+I think we've got to continue to be very careful on the pricing especially, again, as you go from 10s and 12s.
+On the one hand, the customer demand is certainly there for those higher-capacity drives, but the industry's capability to live with that technology is coming through solutions that effectively cost more, either you're adding more heads in disks or other technology to handle that kind of workload, and especially when you're adding more heads in disks, you have to obviously be very careful about the aggressive price takedowns that have occurred because somehow you have to absorb the extra parts.
+So I think you're going to see some resolution where those price declines are going to continue to stabilize just because we have to afford the new technology.
+And of course, you're not going to end at 12s, you're going to have to get to 16 and then 20 and 32, and that's all going to take a lot of technology, so we definitely believe you're going to see stabilization on that pricing.
+Well, I think the NAND shortages are interesting because, at the end of the day, I think it's more challenging for the technology industry to deal with the shortages than it is maybe beneficial to HDDs because of some comparison on a 500 gig.
+I mean, the reality is, even a 500 gig NAND drive at today's prices or even at 6 months ago prices aren't remotely competitive to an HDD price.
+I do think that the lack of availability of NAND in certain market segments results in people then shifting their strategies around whether to use HDDs or not.
+So I think, for example, the NAND companies are constantly optimizing where do they ship their NAND.
+Does it go into phones, does it go into the data centers, does it go into the servers or does it go into the PCs.
+And depending on the grade of Flash you're building, the capacity plans you put in 6 months ago, and then what customers are asking for, there is this constant reoptimization of where the NAND is flowing.
+I think in the short term probably and I think HP indicated this on their call 2 quarters ago that they felt that the PC industry was being constrained a bit on NAND.
+I think that probably has shifted some longer-term strategy around product portfolios that breathe some more life into the HDD space, in that people don't want to be caught short with storage technology of any type, and of course, there again, we're talking about 128 or 256.
+For us, it's really an issue of getting the volumes ramped on the 1 TB where we have a substantial lead, and then offering that product to the PC companies that maybe today are taking a lot of 500 gig product because that volume, obviously, it's a single head, it's a single disk and 2-headed product, so we can be quite competitive.
+So I think from a Seagate perspective, we feel that the shortage overall might marginally help us on the client space as we move through the calendar year, and maybe even at the beginning of next year.
+I think where it's more problematic for the industry, in general, and I mean everyone is, if it's constraining build-outs at all at the CSP space, that with the DRAM shortages, and we have seen indications of certain deployments being -- being delayed because they basically can't get all the component technology that they need across the board.
+We experienced that a little bit in our own CSSG business where we obviously needed to get Flash to sell our Flash drives.
+We have a big demand profile for our current generation products, which are quite competitive, but we're constrained by as much as $40 million or $50 million in revenue in terms of, can we get the Flash or not.
+So that's one of the issues that we're going to be working hard, and one of the reasons that I think there's some opportunity on the revenue side if we can secure that NAND.
+So it's a pretty dynamic situation that you're on top of.
+I don't know that it's as easy to say it's good or bad.
+I think, there's some good to it and there's some pressures from it.
+We've always said it's a better world if there's a lot of NAND because that means people have more devices in their hand, and they're creating more data, and that's still our thesis.
+Well, I'll let <UNK> go into more details, but we've already walked away from those markets.
+I mean, basically, again, we don't participate in the 500 gigabyte market really today.
+We're -- and that's because we have a technology lead and we want to leverage that.
+And of course, the recent price increases from the NAND folks have made a 500 gigabyte drive unattainable for sure.
+Even the 256, as I think, we've heard price talks in the $60 or $70 range, which is pretty amazing.
+So I think it's more a longer-term trend, and I'll have Dave talk to it, but doesn't really talk to the CSPs as CSPs are enabled by all tiers of storage.
+Yes, Rich.
+It's Dave.
+I would go back to Ed's question as well to dovetail onto that, so we have to model what the NAND pricing is going to be out in time, and then we model where Seagate wants to be selling product.
+Is it 500 gigabytes, 1 terabyte, 2 terabyte, and so on.
+And we look at those price banding for our various market segments and we make those estimates.
+So what we said is over the next year, it'll develop such that less than 10% of our portfolio is exposed.
+I think, by this time next year, it will be far less than 10%, so -- and we're working hard to make sure that happens, make sure we move up in capacity points.
+Of course, some of that is what the customers want, and some of that is dictated by where exactly the NAND pricing is, but that's how we run the model.
+Yes, this is -- Rich, this is Phil.
+The storage system business certainly in the current quarter had a good performance as well year-over-year growth, and we expect to see year-over-year growth going forward.
+Customer activity in that space continues to be really high, particularly in the OEM space.
+I mean, what we see is that as OEMs look to figure out where they spend their R&D dollars, they certainly are making opportunities available for Seagate for us to come in and work with them at higher levels of integration, and that's particularly true as we start to have higher levels of integration between our, I'll say, our component-related products like SSDs and HDDs, and our system-level products.
+So overall, that business continues to grow nicely.
+Yes, I don't think it's really changed much in terms of our original intention.
+We've always felt there's an opportunity in the systems business in the higher value-add categories because our systems business, at least a good hunk of it, has a fair amount of software competency to it as well.
+And so we serve OEMs in that space and more and more so we're getting traction with the cloud service providers that are looking at solutions beyond the device levels.
+So I think from our perspective, we've always viewed this business as attractive in terms of its core business of selling into OEMs as well as servicing cloud service providers at one level, but really the opportunity to, I think, as architectures evolve and different customer needs evolve, to have the capability to optimize the devices either at the device level, at the subsystem level or the systems level, and if you don't have the software capability to do that, you really can't take advantage of what we think would be a potentially significant long-term trend.
+I think the issue is, one is that, how does that evolve over what period of time and what does it cost you in the meantime.
+And so I think for us, we continue to work the financial models so the systems business is profitable to the overall business, and then gives us the option to grow into some of these markets if we see either OEMs or CSPs decide that they want to see solutions at the systems level versus the device level, and we still believe that's the opportunity in front of us.
+I would say, if anything, over the last 6 to 12 months, we've seen and had dialogues with customers that have us more encouraged about that opportunity versus less encouraged, so we are as committed as we have been to growing that business to what we think will be a meaningful business in the overall portfolio.
+Thanks, everyone.
+We appreciate the time you've taken this morning.
+And I want to again thank our employees, our customers, our suppliers and our shareholders, and we look forward to speaking with you again in July.
+Great.
+Thank you.

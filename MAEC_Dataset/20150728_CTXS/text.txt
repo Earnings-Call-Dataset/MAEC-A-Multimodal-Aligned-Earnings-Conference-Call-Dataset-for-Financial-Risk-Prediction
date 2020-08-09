@@ -1,0 +1,77 @@
+Sure.
+At a high level, the role of the committee is around operations and capital.
+And really, what that means is working closely with management on the next phase of our growth and evolution.
+I think we're all very much aligned in terms of opportunities to grow efficiencies, to grow shareholder value and we will be working on the best way to do that.
+I think it is really that simple.
+Sure.
+I think the biggest reason is that we are seeing incrementally better progress over the last several quarters.
+We are moving in the right direction on a number of these things.
+And then, the primary headwinds that we have called out, whether it is ByteMobile or the Cloud service providers or others, should abate as we look into the second half.
+The answer is both.
+To this point, it is been very much an install base play where we have very close relationships with customers around the conversation that occurs around app and data delivery.
+So it is a very natural incremental and adjacent conversation to have with them.
+In terms of new customers and while we have a huge base, they are still many, many new customers that are out there for us.
+We see that on the Mobile side, the primary vector there is through the Workspace Cloud and making the XenMobile capabilities available through Workspace Cloud through our partners that really specialize in the small and mid-market segments.
+So that would be where we would see incremental opportunity going forward especially as Workspace Cloud really reduces the technical skills required to stand up a full workspace environment that includes the ability to deliver Windows apps and desktops, Linux apps and desktops, mobile apps and all the data that goes with them as well.
+That's where we see potential green field for the business going forward.
+Thanks for the question and the kind comment.
+There is no timeline, as you know, on these kinds of processes.
+You cannot define them by time.
+They have to be defined by outcome and a successful outcome, finding the right successor.
+The committee is just getting started and we are talking about, I'm not on the committee, but talking about what the profile might be, et cetera.
+In the meantime, while I appreciate everyone's remarks and congratulations, I can promise you I am intensely passionate about what we are doing and driving forward, whatever time that takes, because I want the Board to have plenty of time.
+I think one of the things that I learned from the last search is that the amount of time that it took and I ended up obviously retaining my role.
+But it does show that succession is a tough and difficult process that you have to be very thoughtful about and we do not have any time constraints on it.
+<UNK>, I agree with you.
+I think that we're obviously focused on growing the business and a lot of the headwinds that have prevented that in the last four or five quarters are things we are working to move away.
+So I'm happy with that progress.
+In terms of the overall contracts, we have seen a bit more of a shift towards longer term arrangements.
+It is not tremendous but I called that out in deferred revenue.
+We've seen this for a few quarters now and all the growth in long-term deferred revenue is simply related to customers that want to engage in multiple years of license updates or maintenance contracts or in some cases, term licenses.
+We will manage the whole subscription evolution with Citrix Workspace Cloud, et cetera, towards more of a consumption but at this point, we really believe those are addressing net new markets more than a transition market.
+That's certainly the way to think about it in the short-term.
+Not rapidly.
+Yes.
+I think <UNK> can give you some data.
+But clearly, relative to Q1, closing large deals was much simpler and more straightforward than in Q1 in the midst of the restructuring.
+We've seen a lot of settling down in the sales in the field organization.
+As a reminder, in Q2 we still had some of that restructuring work going on in certain countries that require up to three or more months of notice.
+So we are delighted with the strategic end of the business that is the seven and above figure deals that we were able to close.
+<UNK> specifically, when we talk about that, it is referring to the larger transactions.
+Not across the entire board, but of the large transactions, the average transaction size increased between 5% and 10% year on year and north of 40% sequentially.
+I think it is a difficult one to forecast exactly the timing of the transactions because they are predicated on a handful of extremely large companies doing data center buildouts and largely related to new services that they are rolling out.
+And so, it does track that fairly closely.
+The strategy of our business has been to continue to expand largely the Enterprise and that's the area that continues to grow.
+And so, the volatility of this becomes less and less overall.
+We work very closely with these partners to make sure we understand their requirements.
+In a some cases putting together unique capabilities as required and that helps us stay out in front of the road map.
+Sure, <UNK>.
+I think it is both.
+It is obviously we'll engage with customers if there's opportunities to take an existing customer and migrate them to a more holistic solution that includes mobile and data and some things like that will obviously drive that.
+But as you would imagine, a lot of the focus is on addressing net new customers or what would be net new seats and opportunities inside of existing customers.
+It is got to be both.
+We haven't really broken that out since we're of the annual look that we do on our Analyst Day.
+But in general last time, it was in the mid 70%s.
+NetScaler is down year on year for the reasons that we referenced earlier, largely driven by the SSP segment.
+I'm sorry, we call it service provider segment and the Enterprise segment grew.
+That's the way to think about NetScaler.
+No, we actually haven't broken that out in the past.
+We will have to hold that until we get further into the process.
+Again, we haven't broken that out in the past and so, I would just caution you to wait until we get further down in the process.
+I think at Synergy we talked about GoToMeeting in the context of being one of our product lines.
+It is not actually a bundled into for example XenMobile.
+ShareFile is part of XenMobile.
+We are very proud of GoToMeeting and what we have done to build that brand and that business.
+And I think that what we have seen is that in that marketplace on the Enterprise side, it is really a marketplace that has dominated by Microsoft with Lync and Skype for business and certainly Cisco has some products in that area.
+We feel that GoToMeeting has its core and its strength in SMB markets and premium SMB markets and verticals which is really not very synergistic with our Enterprise delivery infrastructure business.
+So our perspective has changed on it as we look at where we should be investing more and less.
+And as we have said on the prepared comments, we think that the potential for value creation with the GoTo family can be greater if it is operated without the constraints of an Enterprise software business model.
+SaaS-based models like especially in the GoTo area will operate at half of the operating margin that we need as an Enterprise software Company.
+That constrains that kind of business at a time when it needs investment and to drive growth in what is a very competitive market.
+So that's our thinking on it and why we are looking at the strategic alternatives.
+<UNK>.
+Operator, I think we have time for one more question.
+Thank you, <UNK>.
+Okay, looks like we are at the top of the hour so I would really like to thank everyone for joining us today and we look forward to speaking with you again in three months.
+Thank you, everyone for the very kind words of support and confidence in us as we continue to transform the Company, write the third chapter of Citrix and write it around our core competencies and assets in a culture that sets us apart.
+Thank you very much.

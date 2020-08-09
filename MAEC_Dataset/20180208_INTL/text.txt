@@ -1,0 +1,101 @@
+Good morning.
+My name is Bill <UNK>.
+Welcome to the earnings conference call for our fiscal 2018 first quarter, ended December 31, 2017.
+After the market closed yesterday, we issued a press release reporting our results for the fiscal first quarter.
+This release is available on our website at www.intlfcstone.com as well as a slide presentation that we will refer to on this call in our discussions of our quarterly results.
+You will need to sign on to the live webcast in order to view the presentation.
+Both the presentation and an archive of the webcast will also be available on our website after the call's conclusion.
+Before getting underway, we are required to advise you, and all participants should note, that the following discussion should be taken in conjunction with the most recent financial statements and notes thereto as well as the Form 10-Q filed with the SEC.
+This discussion may contain forward-looking statements within the meanings of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934.
+These forward-looking statements involve known and unknown risks and uncertainties, which are detailed in our filings with the SEC.
+Although the company believes that its forward-looking statements are based upon reasonable assumptions regarding its business and future market conditions, there could be no assurances that the company's actual results will not differ materially from any results expressed or implied by the company's forward-looking statements.
+The company undertakes no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise.
+Readers are cautioned that any forward-looking statements are not guarantees of future performance.
+With that, I'll now turn the call over to Sean O'Connor, the company's CEO.
+Thanks, Bill.
+Good morning, everyone, and thanks for joining our Fiscal 2018 First Quarter Earnings Call.
+We achieved record operating revenues of $212.6 million in the first quarter of the fiscal year, representing a 15% growth over the prior year.
+Together with holding expenses to a 5% increase, this resulted in income before tax of $18.6 million, which is one of our strongest ever first quarters of a fiscal year and represents a 121% increase over the prior year.
+We achieved growth in operating revenues in all of our operating segments, despite difficult market conditions, in particular, continued low market volatility in most of our key markets and also low commodity prices.
+For the first quarter of fiscal 2018, we recorded a net loss of $6.9 million, or $0.37 per share, including an estimated onetime noncash charge of $20.9 million, or $1.12 per share, related to the enactment of the tax reform.
+Excluding the impact of the tax reform as well as the additional $1 million charge incurred on the Singapore coal matter, our core net income was $15 million, representing core EPS of $0.78 per share.
+Our immediately prior Q4 core earnings, excluding the impact of the Singapore coal charge, were $15.8 million, representing core EPS of $0.83 a share.
+Looking at our segments, we had standout performances from Commercial Hedging, which increased segment income 37%, primarily as a result of an increase in both OTC revenues as well as additional interest income as well as a $2.6 million decline in nonvariable direct expenses due to a bad debt provision a year ago.
+Our Clearing and Execution segment also showed strong growth at 84%, primarily as a result of an increase in operating revenue as well as a $2.3 million decline in nonvariable direct expenses.
+Global Payments segment income increased 11%, driven by a 7% increase in the number of payments made, combined with maintaining a steady average of revenue per payment versus the prior year.
+The Physical Commodities segment declined $1.9 million versus the prior year, despite increased operating revenues.
+This was partially due to an additional $1 million charge related to the Singapore coal issue as well as some mark-to-market timing issues in our gold business.
+Securities segment income declined 15%, primarily as a result of a $5.4 million increase in interest expense in our debt trading business as well as a $1.5 million increase in transaction-based clearing expenses in our equity market-making business.
+I'd like to briefly touch on the impact of the recent tax legislation on our current and forward earnings.
+As a global organization, while we have never let tax considerations drive our business decisions, we have always sought to optimize our tax charge over the years.
+This has resulted in us minimizing our U.S. taxes to the extent allowed and accumulating significant overseas retained earnings in more favorable tax jurisdictions.
+As a consequence of that, we have a net operating loss in the U.S., which is being carried as an asset on our balance sheet.
+The immediate net result of this new tax legislation has been a $20.9 million charge, which has been offset against our net operating loss.
+So not a cash item.
+We now have significantly less restrictions on being able to allocate our overseas capital and to move our liquidity throughout our entire organization, which should allow a better optimization of capital.
+Against this, we have lost the future benefit of our net operating loss, which has now been monetized through the charges associated with the foreign accumulated earnings under this legislation, combined with a decrease in its value resulting from the lower tax rate.
+In the near term, the lower U.S. tax rate will not have a significant impact on our aggregate tax charge, as we have relatively little U.S. taxable income.
+However, most of our customer float revenue is based in the U.S, and any incremental interest earnings will now be taxed at a lower rate, and thus, more of that incremental benefit should drop to the bottom line.
+We have estimated that we should realize approximately $21 million in pretax earnings for a 100 basis point move in the short-term interest rate.
+This incremental revenue will now be taxed at about a 14% lower tax rate than historically was the case.
+With that, I'll hand you over to Bill <UNK> for a more detailed discussion of the financial results.
+Bill.
+Thank you, Sean.
+I'll be referring to slides and the information we have made available as part of the webcast, specifically starting with Slide #3, which shows our performance over the last 5 fiscal quarters.
+As Sean noted, in the first quarter, we had several items of note, including a provisional $20.9 million discrete tax charge related to the enactment of the Tax Cuts and Jobs Act and an additional $1 million bad debt expense on physical coal, which we discussed on our fourth quarter earnings call.
+The $20.9 million tax charge is made up of an $8.9 million remeasurement of deferred tax assets and liabilities from a 35% federal corporate rate down to the new 21% effective rate and a $12 million charge related to the deemed repatriation transition tax on previously untaxed accumulated earnings and profits of our foreign subsidiaries.
+The top of Slide #3 is a chart which depicts our reported net income, earnings per share and ROE over the last 5 quarters, while the bottom of the slide shows the same metrics on an adjusted basis, removing an effect of the 2 items I just mentioned in the first quarter of fiscal 2018 as well as the $39.4 million bad debt on physical coal net of incentive recaptures in the immediately preceding fourth quarter.
+The bottom graph shows the strong growth we have seen in the last 2 quarters in our core operating results, which resulted in adjusted ROEs of 13.2% and 12.1% for the fourth quarter of fiscal 2017 and the current period, respectively, with a combined $1.61 in adjusted earnings per share for the 6-month period.
+Moving on to Slide #4, which represents a bridge between operating revenues for the first quarter of last year to the current fiscal year first quarter, operating revenues were $212.6 million in the current period, once again a record high and a $27.1 million increase over the prior year.
+As shown, all operating segments showed revenue growth over the prior year, led by Clearing and Execution Services segment, which added $8.6 million in operating revenues, driven by a 7% increase in exchange-traded volumes combined with a 16% improvement in the average rate per contract as well as a $2.3 million increase in interest income.
+In addition, our largest segment, Commercial Hedging, added $4 million, or 7%, in operating revenues versus the last year.
+The growth was driven by a $4.6 million increase in OTC revenues, primarily in our Brazilian grain and global soft businesses.
+In addition, interest income increased 83%, or $1.9 million, in this segment versus the prior year off the back of a rise in short-term rates.
+These gains were partially offset by a $2.5 million decline in exchange-traded revenues, driven by both lower domestic grain and LME metals revenues, both due to lower levels of market volatility.
+Our Global Payments segment had another strong quarter, adding $1.5 million in operating revenues to $24.6 million with some interesting dynamics related to payment volumes.
+The number of payments made were up 7% versus the prior year but down approximately 10% versus the average volumes seen in the third and fourth quarters of fiscal 2017.
+Certain commercial customers who had been growing their payment volumes throughout fiscal 2017 changed the manner in which they were doing their payments.
+These customers who previously transacted their individual high-volume, but low- (inaudible) payments through our platform, opened their own bank accounts in certain countries, to which we had made payments into on their behalf.
+However, we still made the foreign currency funding payments into their accounts on an aggregated basis in these countries.
+This resulted in a decreased number of payments made versus the immediately preceding third and fourth quarters as multiple payments were aggregated into a funding payment.
+This resulted in both an increase in the average revenue per payment made and overall revenues versus those periods with the ancillary benefit of lowering our variable cost as the result of a reduction in the number of payments made.
+Our Securities segment added $5.6 million, or 15%, in operating revenues versus the prior year, driven by an 11% increase in the growth of dollar volume traded in equity market-making as the result of onboarding of new customers and increased market share captured.
+In addition, our debt trading business added 24% in operating revenues, driven by increases in our domestic fixed income, municipal securities and Argentina businesses.
+Physical Commodities added $800,000 in operating revenues versus the prior year, with growth in our Physical Ag & Energy business partially offset by a decline in precious metals.
+The decline in precious metals was driven by a $1.3 million unrealized loss on derivative positions held against inventories carried at the lower of cost or market in our nonbroker dealer subsidiaries.
+These inventories turn over in a short period of time, so we should see the reversal of those losses in the second quarter of fiscal 2018.
+Excluding this loss, precious metals added $1.2 million in operating revenue versus the prior year.
+Finally, operating revenues in the unallocated overhead segment increased $6.6 million versus the prior year, mostly as a result of the $5.6 million in unrealized losses on U.S. Treasury notes and interest rate swaps in the prior year quarter related to our interest rate management program.
+The next Slide, #5, represents a bridge from 2017 first quarter pretax income of $8.4 million to $18.6 million in the current period, a 121% increase, which demonstrates the strong core operating growth realized during -- versus the prior year.
+Sean covered the variances in pretax income in our operating segments during his portion of the call, so I'll just note a $2.1 million increase in our unallocated overhead segment.
+This positive variance was a result of the prior period unrealized loss on the interest rate management program I just mentioned, which was partially offset by central overhead growth through the addition of headcount in several administrative functions as well as an increase in share-based compensation and long-term incentives.
+Slide #6 shows the interest income on our investments in our exchange-traded futures and options businesses as well as balances in our Correspondent Clearing and independent wealth management businesses.
+As noted on this slide, our interest earnings on these balances have increased $3.9 million versus the prior year to $8.9 million as our yield on these balances has increased 54 basis points to 117 basis points in the current period.
+The bottom of this slide shows the potential annualized interest rate sensitivity, which the balance is held at the end of the current period, based upon an increase in short-term rates at various levels.
+As Sean noted, a 100 basis point increase in short-term rates has the potential to increase our interest income by nearly $21 million on an annual pretax basis.
+In addition, on the 100 basis point increase, the new tax legislation will tax these earnings at a lower effective tax rate, which will result in an incremental $2.8 million increase in after-tax earnings over historical tax rates, as noted in the table.
+Moving on to Slide #7, our quarterly financial dashboard.
+I will just highlight a couple items of note.
+Variable expenses represented 58.4% of our total expenses for the quarter, above our target of keeping more than 50% of our total expenses variable in nature.
+Nonvariable expenses, which are made up of both fixed expenses and bad debt expense, increased $3.4 million, or 5%, versus the prior year.
+As noted earlier, we reported a net loss from continuing operations for the first quarter of $6.9 million, or a negative 6.2% ROE.
+A reminder that excluding the effect of the tax reform and the $1 million bad debt charge related to the closing of our physical coal business, our adjusted net income in the first quarter was $15 million for a 12.1% ROE.
+Finally, in closing out the review of the quarterly results, our book value per share declined $0.21, primarily as a result of the tax charge, to $23.56 per share versus the prior year.
+We did not repurchase any of our common stock during the first quarter.
+With that, I would like to turn it back to Sean to wrap up.
+Thanks, Bill.
+Our core earnings, as we described on this call earlier, for the last 6 months have accelerated and are encouraging and starting to approach our 15% ROE target.
+This is despite a period of low market volatility and low commodity prices.
+In late 2017, we started to see volatility increasing as it became clear that the Fed was accelerating its efforts to extricate itself from the markets and allow them to normalize.
+This trend seemed to continue and perhaps accelerate in 2018 with a commensurate increase in volatility.
+Obviously, we've all seen a major spike in volatility over the last week or so.
+There are continuing signs of good economic growth in the U.S., combined with synchronized growth globally, all of which seem to support ongoing interest rate increases during 2018 and beyond.
+Increased interest rates and increased volatility is very positive for our business.
+Our customer float will now have the added benefit of a lower U.S. tax rate on these incremental earnings.
+While macro factors have turned more positive for us, we continue to work hard to drive organic growth in an industry that continues to consolidate.
+With that, I'd like to turn back to the operator and take any questions.
+Operator.
+All right.
+It doesn't look like we have any questions.
+So once again, thanks for your time and attention, and we will be speaking to you in 3 months.
+Thank you.

@@ -1,0 +1,98 @@
+Thank you, <UNK>, and good afternoon, everyone.
+I'm very happy to be joining the Fabrinet leadership team at this exciting time in the company's growth.
+While we are experiencing near-term challenges in certain end markets, as <UNK> mentioned, Fabrinet is well positioned for long-term profitable growth.
+We continue to attract and grow new business while increasingly diversifying our customer base across a broader range of end markets.
+We are doing this in a deliberate and strategic manner by leveraging our strengths in high-mix, low-volume production that takes advantage of the advanced manufacturing capabilities we have developed to serve the optical communications space as well as adjacent markets.
+For example, our new product introduction facilities, Fabrinet West and Fabrinet UK are already attracting new customers for volume manufacturing in Thailand across a variety of end markets.
+I'm looking forward to furthering this strategy to diversify Fabrinet's customer base by strengthening our leadership position as the manufacturer of choice for the optical communications markets.
+In the short 6-week period since I have been on board, I visited our teams and operations around the world, and I have met with several of our customers, and what I saw makes me very optimistic.
+We have a strong and expanding customer base and we have excellent people and first class manufacturing capabilities.
+I am very positive about the long-term opportunities at Fabrinet, and I'm looking forward to getting to know our investors and analysts.
+Now let me turn the call over to TS to discuss the details of our first quarter performance and our outlook.
+TS.
+Thank you, <UNK>.
+I\
+<UNK>, <UNK> and TS, I guess, my first one is I'm trying to bifurcate on the data center.
+You seem to be talking about it being roughly flat.
+We've heard several of your customers speak to you, some QSFP28 trends that are relatively challenged.
+So can you help us understand, for your business, what's happening with QSFP28 relative to silicon photonics sequentially.
+This is TS.
+Yes, we have a couple of customers -- we produced datacom for a couple of customers.
+So the 1 customer or 2 customer you heard about datacom's weakness may not necessarily reflect on our entire portfolio.
+So we are still looking at datacom.
+Year-over-year, we'll continue to deliver stable results.
+Okay.
+And then no difference on -- no noticeable difference on QSFP28 versus silicon photonics within that outlook.
+Yes.
+It's the same -- same story goes.
+QSFP28, we have almost half a dozen of customers.
+And some of them are ahead of the curve.
+They are doing very well in the CWD<UNK>
+Some of them having some challenge transition from LL4 to CWD<UNK>
+But in aggregate, we see -- overall in QSFP28 is doing okay for us.
+And silicon photonic is the same thing.
+We mentioned about one customer have a product transition.
+And the other customer in the earnings call, they talked about downward guiding -- guidance.
+So all these are reflected in our guidance.
+And pertaining to the silicon photonic customer who, you said, is going through the product transition, is this somebody that's transitioning to another product line that Fabrinet makes and it could prove somewhat temporary.
+Or is this a customer that may be moving more to a emerging market solution, meaning, that this could prove to be a multi-quarter headwind.
+My understanding is that they are doing it with us, okay.
+So that's my understanding.
+Okay.
+And just last one for me is on the -- you previously discussed I guess, discuss the customer who wanted to sell direct to hyper scale.
+And I was wondering if you can provide us with an update on progress with that solution and when we could expect a meaningful revenue contribution, maybe $10 million or more in quarterly revenue.
+Yes.
+In general, we don't comment on the specific customer programs.
+But I can tell you that we are actually -- progress, on plan on the initiative.
+That is reasonable, Alex.
+Yes.
+The automotive, the legacy customer, we continue to do well, pretty stable.
+As we discussed before, we are in the new product for some of the customer, and those parts are doing well.
+That's why in the prepared speech, we talked about non-optical communication.
+The segment is -- we actually guided up in that segment.
+That's correct, Alex.
+Alex, most of the legacy customer, you heard the earnings call, they are actually guided down on the datacom.
+They are a little bit pessimistic on datacom, as you can hear from the earnings call.
+But again, we -- most of our offset is on the new customer, as you correctly pointed out that.
+But in terms of mix, we don't normally give out the mix.
+But I can say that most of the offset is from the new customers.
+We like to think that way.
+But in the short term, what we guide is what we guide.
+Datacom will be down.
+Yes, <UNK>, not necessarily.
+We are just picking out only the indirect labor.
+We never touch the direct labor, even in our previous reduction in force.
+So those are the guys who have -- we need them to generate product.
+So when a business turns, we definitely have the workforce to capture the business.
+So these are the indirect labor, things like technicians, and some of the low-level engineer.
+We found, with the lasers business condition, we are a little excess, and that's why we take out those redundancy.
+You probably know that we get 13-week forecasts on the customer, so that is the visibility we have.
+Beyond that, our guess is as good as anybody else's guess.
+I will say region is more new customer versus legacy customer.
+So as you know, we did quite well in our new businesses and we continue to run that new business segment.
+That's right.
+Yes.
+Yes, we had some new customers who came online.
+We classify a new customer or new business as a business we never have in November 2014, we start tracking from there.
+So those are the business we acquired, and then we continue to ramp their production.
+So those are the area where we concentrate on.
+Most of the legacy customer, except one customer mentioned in the earnings call that they are looking at -- up on the telecom.
+But I think majority of them are guided down, so that is reflected in our guidance.
+Again, you're getting into the customer application territory.
+I really don't want to make a comment on that.
+Okay.
+So obviously the quality is all over.
+We look at -- the way we look at it, datacom is stable, stable to slightly down a little bit.
+Silicon photonic, hopefully we can be flat on that because we've got -- again, we've got -- have thousands of customers, some up and some down, where a new customer will contribute to the growth.
+So at this moment, we really don't want to get into segment guiding, but datacom is stable and flat.
+And silicon photonic, I do -- I hope that it will be flat also.
+Okay.
+So on the telecom, obviously, we see the data in front of us.
+Obviously, I hope that Chinese will come back.
+That will really contribute to the telecom.
+And also, one of my customer is saying that they are pretty optimistic about the ROTEM ramp.
+If that happens, it will benefit Fabrinet.
+So that are the 2 major drivers we are keeping an eye on, okay.
+And on the silicon photonic, really nothing much I can say because there are 5 or 6 customers, which had different levels of RA<UNK>
+And some RAM are faster than the other.
+So as I earlier -- I mentioned earlier, I like to see at least flat in the technology segment.

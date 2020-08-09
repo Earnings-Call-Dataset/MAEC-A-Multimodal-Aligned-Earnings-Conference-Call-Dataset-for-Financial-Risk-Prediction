@@ -1,0 +1,76 @@
+<UNK>, this is Steve.
+I think our view remains the same.
+We are at 4.2 times, ticked up modestly in the quarter.
+I think, as we think about capital structure, we don't think we have to get into the necessarily, the low 3s or whatever, but getting below 4 times, I think would be kind of what the target is.
+And the only thing I'd add there is we're going to be opportunistic with the markets being good to continue to look at our capital structure and optimize interest expense and reduce it when possible.
+So that's something we're always evaluating for the benefit of our shareholders and long-term cash flow.
+Yeah, <UNK>, thanks for the question.
+That's really where our integration focus has been over the last two quarters and of course, we always start with ERP system and get a view of the financial landscape and we started out the year converted on the common platform.
+But we also started out the year with a common sales organization.
+And that strategy has been getting great traction.
+We've got roughly 120 right now sales resources, average productivity target is in the 3,000 plus range.
+But of course, you've got some people ramping at different stages.
+We've had an expansion in Dallas last year, which we talked about.
+We've added a team in a couple different markets.
+And so I think, over the last quarter, we probably have six new sales people on in total.
+But to address your question with regards to the with recalling the Enventis, the North region, it's fully productive already.
+We're very happy with our traction in the first quarter, feeling quite optimistic about how the Metro Ethernet product and the sales strategy are disciplined around how we divide up the accounts is quite structured.
+It goes from a very focused silver, gold, platinum framework that has a very disciplined account management for existing customers, renewal process and then a high-touch consultative sales approach for prospects in our [hunter] group.
+So we're feeling really good about both the Metro Ethernet growth as the platform and the new product activity that's in the pipeline to add value and stickiness to that Metro Ethernet relationship with our customers.
+Hi <UNK>, this is Steve, I'll try and Bob can jump in if he wants to redirect.
+I think your initial thoughts on commercial and carrier kind of growth rate we saw for this quarter is what we expect.
+And again, we have lots of several build opportunities, some nice expansion opportunities and we're looking for nice growth on the commercial carrier side.
+Consumer, based on what Bob described in terms of the strategy change, we would expect video to be flat to declining.
+We still expect to see growth in broadband, video on that side.
+The equipment sales and services, again it is going, if you look at the revenue chart that we have in the earnings release, on page 10 or my section says page 10 of the earnings release that equipment sales and services line is going to be, I don't know what they're called, lumpy or volatile or whatever.
+But the number is going to bounce around a little bit and just for perspective, when the EIS business for Enventis last year had a high of $22 million in the quarter and a low of $11 million, we're a little bit below that for first quarter of 2015.
+And the way to think about that business is kind of based on a relationship with Cisco, when they're running promotions and the activity is really going to happen in the second and third quarter of the year.
+So the last year on a stand-alone basis, EIS would have been about $60 million business, we still expect that to be a $60 million business this year, although it was slow for Q1 of this year.
+The subsidy numbers, I think you're probably directionally correct.
+Obviously, we've been seeing a little bit of step down with our Texas subsidies, I won't go through that, but you can look at the 10-Q for kind of the direction on that and again numbers will adjust based on kind of the CAF 2 funding over time.
+Network Access, we would expect to kind of continue to see the decline that we saw in the first quarter.
+You had the step down, every July 1, you are having a step down to match access rate.
+So, just kind of getting close to the [some 0.005] or whatever the bottom that range is plus just the deterioration and minutes of use of network access is special and switched access is probably going to continue to modestly decline for us.
+So I hope that addressed your questions.
+Yeah, I'd step up to that.
+And you know I think I'd to that <UNK> is that you got to remember that's a low margin business.
+And so while the revenue is a bit inconsistent, we like the talent pool and we like the conversation that it allows us to have with customers and while it's low margin and isn't a high EBITDA contributor, it certainly fits our strategy of the consultative sales approach to hunting and prospecting with new customers.
+Yeah, from our point of view that can't happen fast enough.
+I mean, just maybe to review for those I think and <UNK> you're probably really familiar with this, but 2013, 2014 total distributions were about $35 million from Verizon Wireless.
+We still think that's an extremely important source of diversification for our cash flow.
+We think 2015 despite sort of the elongated collections time on the Edge side, we'll still be around the $35 million range.
+And so again, we're -- the plus side is that we're seeing a lot of success from subscriber units with the Edge program.
+Obviously, it's putting a little pressure on their working capital with the extended payment cycle.
+We're optimistic that they might consider factoring some of those receivables maybe accelerate the payment.
+So again, I can't give you a specific timeline on when that's going to normalize, but we're hopeful that happens sometime later this year.
+Great.
+We'll take those three questions in order or at least we'll attempt to.
+Steve, you want to start on distribution follow-up.
+Sure.
+On the distribution follow-up <UNK>, your question about if they would factor or normalize whatever with that would mean in the distribution.
+I think we're still thinking about the $35 million number being sort of on an as is basis assuming no improvement in the collections or speed collections, the adoption of factories or whatever.
+We would actually see some potential upside for 2015 if they did do that.
+So again we think $35 million is still a pretty decent number for 2015.
+And the only thing I'd add on the distribution side is that, they don't dividend to themselves separately from us.
+So they want to realize the cash distribution so do we and so motivations are same.
+With regards to the video question, the opportunity to partner at our size with Netflix and Hulu's isn't quite the same as Verizon and we know that.
+But however, those discussions are starting to pick up momentum through our MCTC relationships, which is the source for roughly 75%, 80% of our broadcast content today.
+It's also been a resource to help leverage the HBO on-the-go and Showtime things that are part of our TV Anywhere, Everywhere product at this stage.
+So I expect that what you're hearing from Spotify and others is going to cause that momentum to increase.
+And we hope later this year it gives us more product flexibility for our consumer bundle and enhances the value of the portal which has a unified login capability that has allowed us to differentiate our consumer product from some of our competitors in the marketplace.
+The last point with respect to the take rates on 1-Gigabit or the benefit that it's brought us, it's really early, we're really about a quarter and a half, maybe four months into that and it's getting traction nicely.
+And let me tell you what is really the benefit.
+It's caused another conversation with our customer.
+And so while the Gig is of interest, few people really need that kind of speed and we're seeing an uptick in our 100-Meg, our 50-Meg, our 20-Meg products.
+And so the conversation with the customer has really been the initial best benefit from the launch, but I'm sure that we'll see take rates on Gig pick up too in the short-term future.
+Yes, it's roughly 5% now because it's so early.
+And at this stage, I would have to get back to you on your end.
+I think with the momentum we're building in video capacity ads, that should more than triple by the end of the year, but more to come on that as we have new market launches.
+<UNK>, this is Steve.
+Yes, in terms of the overall impact CAF 1 funding is about $34 million.
+And so we've been planning on the step down roughly $5 million a year through our modeling year for since this plan got introduced and again I'd remind you that prior, when the high cost of four was frozen, we typically saw roughly $5 million, $6 million reduction and always managed our way through that.
+In terms of the, which properties that we would expect, based on our initial analysis, we would expect to accept it in most states, although there are, there's at least one that will cause us, think about it as we evaluate the build cost going forward.
+So, again I think, it's probably safe to say most states we will accept and there's one, maybe two that we will strongly evaluate going to auction on.
+Well, in summary, thank you again for joining us today and for your continued interest in and support of Consolidated Communications.
+We're very excited about the future, confident in our strategy and hope you will join us again next quarter.
+Thanks and have a great day.

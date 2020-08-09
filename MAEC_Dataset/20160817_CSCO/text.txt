@@ -1,0 +1,76 @@
+Thanks, Jim.
+Well, I'll tell you, after the first year in this job, I know for a fact that every month there are new things that we face.
+And the good news is we tend to execute well and we deal with those.
+As it relates to -- first off, let me just say, in the EMEA business, the decline there was largely attributed to Service Providers.
+So I just want to make that clear.
+We would not suggest that the broad-based shift in the EMEA results was solely dependent upon Brexit.
+What we saw from a Brexit perspective is exactly what you would expect.
+In the UK proper, we saw customers pause.
+We saw them just kind of slow a bit because they're uncertain.
+And we also saw the impact of the currency devaluation, which you would expect.
+But we remain very committed there.
+We think we'll work through this.
+But those are the real impacts.
+On the Ericsson front, I'll tell you that the partnership continues to move forward, and there was really no correlation or discussion of the Ericsson partnership as it related to the decision on restructuring.
+We think that, again, that the original benefits that we saw with that partnership, with their global scale for services, their OSS capabilities, their radio expertise, combined with our IT expertise in data center and security, and other of capabilities, as well as the enterprise and IoT, were really the drivers there.
+So we see that continuing.
+As it relates to the cloud impact, I think when we look at sort of next-generation data center build-out in the private cloud, we look at our ACI portfolio, and we saw a $2.3 billion annualized business that grew 36%.
+So we feel like customers continue to move towards a hybrid cloud environment.
+The orchestration capability that we talked about with cloud center, which is from the CliQr acquisition, combined with the knowledge that we're going to be able to provide the customers through Tetration.
+So think about Tetration providing analytics about what's going on, CliQr and ACI then being able to deploy policy and move workloads between public and private cloud.
+And that's what we think customers are going to look for, and we think we're in a pretty good spot there.
+Yes, so I'll take that.
+So on the gross margins, we do have seasonality of when different mix of our products are bigger.
+For example, data center and services are bigger in Q2 and Q4, so you can see that normal seasonality in there.
+As I said to the earlier question, I think from an overall perspective, we feel great about our gross margins.
+We are being smart about the tradeoff on top line and bottom line, and the teams continue to do great work in terms of driving productivity and costs out of the products that allow us to do that.
+From a pricing perspective, our price ASP price erosion that we saw in Q4 was basically in line with what we saw in Q3 -- actually, 20 basis points better.
+So we're still in that same range; we're not seeing any change there.
+In terms of acquisition revenue, we don't typically disclose that, but I can tell you it was roughly less than a point.
+Yes.
+Thanks, <UNK>.
+On the web scale players, what we reported in the last couple of quarters was our top-10 web scale customers, and that business was up 2% this quarter.
+But it is a -- when you have 10 customers in sort of a reporting segment like that, it's highly dependent upon ordering cycles.
+So I'm not concerned about our relevance or anything relative to that.
+On the switching business, I think it's important to understand a couple things.
+Number one, your question relative to the ACI portfolio, and has it exceeded the traditional portfolio, I think we -- the answer to that is, yes.
+And our orders there were -- I think grew in the data center switching business, were up mid single-digits.
+Yes, in the revenue, on the revenue side, yes.
+On the revenue side.
+And so that transition continues to go well, and we see customers that are investing in new cloud-ready architectures, are choosing the ACI platforms, which is showing in the results.
+When you look at our overall switching portfolio, it's just important to understand the math on what percentage of that business is still attributed to our campus portfolio.
+And as we said, any time we have these macro -- these environments where customers have any level of uncertainty, that tends to be an area that they will continue to sweat, if they can.
+And our job over the next several quarters is to drive innovation in that portfolio, integrate security more tightly, and again, focus on orchestration policy and helping our customers lower their costs.
+And that's what we're going to try to do.
+Yes, you know, I think that's a great question, <UNK>.
+If you go back to -- I think that was back in June of 2015, was our last financial analyst conference, it has changed quite a bit.
+Our transition has accelerated, that we've been accelerating.
+And I'd say the other major change from that long-term guidance was certainly our expectation of the data center business, and that market has changed.
+So I'd say there is no long-term model change per se right now, but we're in the process of planning an analyst conference hopefully at the end of the calendar year here, and we'll update that.
+But I would say those are the two major assumption changes since we did that.
+Yes, <UNK>, thanks for the question.
+When I think about routing, I actually think about it in several different ways.
+Number one, you've got the SP traditional portfolio with Edge access and core, which we discussed earlier, which is largely just a consumption-driven cycle that we go through.
+In the enterprise space, we have this transition to software-defined wide-area networking, which we're very well-positioned in right now with our IWAN portfolio.
+And we're actually working on a key differentiator for us, which I think is, as our teams have built out the ability to really drive the next-generation secure Edge.
+With our cloud security capabilities, the combination of dynamically provisioning those branch solutions, with the ability to have robust cloud security and Edge security, is going to be a real differentiator for us.
+So we see that being another opportunity for us going forward in the routing space.
+And then finally, when we talk about the security and the security-driven refresh of our core, in Q4 we actually had a couple of customers -- I talked earlier in the opening comments about Stealthwatch Learning Networks.
+Which is effectively a machine-learning algorithm that runs at the edge of the network in the branch, and it actually does machine learning and a little bit of AI to determine normalcy for customers, and then flag for them when they see abnormal behavior going on.
+And we saw a couple of customers that actually made the decision to do a branch router refresh based on that capability, which we just launched in July.
+So we believe that there's innovation that we can bring that will lead us to a refresh opportunity in the core, and we think that's largely going to be driven around security.
+And we're seeing some real early examples.
+We need to see how it plays out, but we're seeing some early examples there.
+All right, <UNK>.
+Thank you very much.
+In wrapping up, I just want to summarize our priorities again as we think about the year ahead.
+First off, we're committed to executing against the financial model and against our priorities, regardless of the conditions of the market.
+And we're committed to making the decisions that are necessary to drive our growth, and also to fulfill the commitments and obligations that we made to our customers, partners, and shareholders.
+We also are pleased with where we are on the transition to software and subscription models, and you can assume that we'll continue to accelerate that over the next year.
+We also -- I believe we'll drive a greater pace of innovation than you've seen in the last several years from Cisco.
+Our teams are very excited.
+There's a lot of things going on.
+So we're very committed to driving innovation.
+And then finally, just to reiterate, our long-term strategy to create greater value for our customers and our shareholders, while ensuring that we're also making the decisions for Cisco's long-term success, will remain at the forefront.
+So I want to thank everyone for spending time with us today, and we'll look forward to talking to all of you soon.
+<UNK>.

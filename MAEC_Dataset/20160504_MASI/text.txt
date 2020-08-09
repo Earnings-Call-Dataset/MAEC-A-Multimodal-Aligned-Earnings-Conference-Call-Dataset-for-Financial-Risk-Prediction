@@ -1,0 +1,165 @@
+Thank you, hello everyone.
+Joining me today are Chairman and CEO <UNK> <UNK>; and Executive Vice President of Finance and CFO <UNK> de <UNK>.
+This call will contain forward-looking statements which reflect Masimo's current judgment including certain of our expectations regarding fiscal 2016 financial performance.
+However, they are subject to risks and uncertainties that could cause actual results to differ materially.
+Risk factors that could cause our actual results to differ materially from our projections and forecasts are discussed in detail in our SEC filings, including our most recent Form 10-K and Form 10-Q.
+You will find these in the Investors section of our website.
+I will now pass the call to <UNK> <UNK>.
+Thank you <UNK>.
+Good afternoon and thank you for joining us for Masimo's first quarter 2016 earnings call.
+Our first quarter results were above our expectations.
+Growth for rainbow in Q1 was especially strong, rising by 39% to nearly $17 million, a growth rate influenced by the final portion of the initial large Middle East order.
+Overall, our total product revenues grew by nearly 11% to $163 million.
+Here are some highlights from our first quarter.
+We had continued strong demand for our technology as we shipped 46,300 SET and rainbow SET oximeters, excluding our handheld and finger pulse oximeters.
+Our OUS sales grew by approximately 24% and 28% on a constant currency basis.
+We also repurchased approximately 1.1 million of our shares.
+Our Q1 2006 (sic - see press release - 2016) GAAP earnings per share were $0.53, up from $0.38 in the prior-year quarter, an increase of approximately 39%.
+On the product side, we were happy to have received FDA clearance for the full featured version of Root with noninvasive blood pressure and temperature monitoring.
+Increasingly, the utility and appeal of this innovative product is reaching our customers.
+Our stronger-than-expected Q1 results and our continued positive outlook for the rest of 2016 are causing us to be more optimistic about the year and hence, we are increasing our 2016 financial guidance for product revenues, gross product margin, and earnings per share.
+Next, <UNK> will review our first quarter financial results in more detail and also provide updates to this new financial guidance for 2016.
+I will then provide some additional detail on our achievements and expectations.
+<UNK>.
+Thank you, <UNK> and hello everybody.
+Our first quarter 2016 total revenues were $171.2 million, which was up 10.8% from $163.3 million in the prior year period.
+Similarly, total product revenue rose by 10.8% or 11.7% on a constant currency basis, versus the first quarter of 2015.
+Our Q1 2016 product revenues were reduced by $1.4 million, due to the effects of foreign exchange rate movements.
+Product revenues for Q1 exceeded our expectations, due to both the impact of the late flu season and the acceleration of the final portion of a large Middle East order in Q1 -- an order that we expect to recur in future periods.
+Q1 2016 rainbow product revenue totaled $16.9 million, up by 39.2% from $12.12 million in the prior-year period.
+The strength in rainbow revenues was largely due to the impact of the Middle East order, which also contributed to our growth in single patient-use rainbow sensors.
+Our Q1 SpHb revenues surged by 164%, to $6.1 million versus $2.3 million last year with a substantial portion of this increase also attributable to the Middle East order.
+Our worldwide end-user or direct business, which includes sales through just-in-time distributors, grew 12.7% in the first quarter to $140.9 million versus $125.1 million in the year ago period.
+Our direct business represented approximately 86% of total product revenue in the quarter versus 85% in the prior-year period.
+OEM sales comprised the remaining 14%, and rose by 0.2% versus the prior-year period.
+By geography, total US product revenue increased 5.8% to $113.5 million, compared to $107.3 million in the same quarter of 2015.
+Our Q1 OUS product revenues of $49.8 million rose by 24.2%, versus $40.1 million in the same prior-year period, and up 27.6% on a constant currency basis.
+In constant currency, OUS year-over-year revenue growth rates were the highest in the EMEA and Japan regions.
+OUS revenue has represented approximately 30% of total Q1 product revenues or 31% on a constant currency basis, which was up from 27% in the prior-year quarter.
+Our first-quarter 2016 GAAP gross profit margin was 65.1%, level with the prior-year quarter.
+Our Q1 2016 financial results, for the first time ever, will no longer include the financial results of our variable interest entity or VIE, Cercacore.
+This change, which we have discussed in our prior 10-Qs and 10-Ks and which we will discuss in a little bit more detail later, included the impact of reducing our Q1 GAAP gross profit margins, as well as our total GAAP operating expenses.
+However, as we have noted in the past, this change will have no impact on Masimo's reported earnings per share.
+In fact, had we continued to consolidate Cercacore, our Q1 adjusted product gross margins would have been 66%, up nearly 100 basis points over our original expectations for Q1.
+This was due primarily to the favorable product mix shift resulting from a higher percentage of our total product revenues coming from adhesive sensors versus capital equipment than we had expected.
+Reported first-quarter 2016 total operating expenses were $76.9 million, an increase of $1.1 million or 1.5% versus $75.7 million in the prior-year period.
+As I just noted, our Q1 2016 operating expenses were reduced by approximately $1.8 million due to the deconsolidation of Cercacore.
+Adjusting for the impact of this deconsolidation, our adjusted operating expenses would have increased by approximately 4%.
+In addition, as a reminder, our year-over-year operating expenses were also lower due to the impact of the two-year medical device tax suspension.
+While we still intend to reinvest those tax savings over the next two years, the amount of the new incremental investment in Q1 was relatively small.
+Regardless of the reduction in operating expenses due to both the deconsolidation of Cercacore and the impact of the medical device tax suspension, the rather modest year-over-year increase in operating expenses continues to demonstrate our commitment to exercising tight control of expense growth.
+Specifically, our SG&A expenses were $62.5 million, an increase of $1.7 million or 2.8%, while our R&D spending was $14.4 million, a 3.8% decline versus the year ago period, due primarily to a small reduction in clinical trial and engineering project related expenses.
+First-quarter 2016 operating income was $37.3 million, compared to $27.4 million in the prior-year period.
+This significant increase in year-over-year operating income is the result of all of the factors I previously noted, including strong product revenue growth, higher-than-expected product gross margins, and continued operating expense control.
+Q1 2016 nonoperating income was $500,000, compared to $200,000 in the prior-year period.
+Importantly, the $500,000 in Q1 income includes approximately $660,000 in net interest expense related to borrowings under our line of credit.
+The remaining benefit in other income is due largely to the favorable foreign-exchange translation impact of movements in foreign exchange rates from January 2, 2016 to April 2, 2016 on our OUS local currency denominated balance sheets.
+Our first-quarter 2016 effective tax rate fell to 27.1%, down from 28% in the same period last year and below our expected rate of approximately 30%.
+This lower than expected Q1 2016 effective tax rate was due to our decision to early adopt ASU 2016-09, the new accounting guidance regarding the tax reporting of gains resulting from the exercise of stock options.
+As you probably know, the new guidance, which came out on March 31, 2016, essentially shifts the movement of the tax gains and losses from equity into the P&L through the quarterly effective tax rate.
+This is considered a discrete benefit in the quarter and as a result we expect our effective tax rate, absent any other discrete items, to continue to be approximately 30% for the remaining 9 months of the year.
+Our average shares outstanding for Q1 was 51.9 million, down from 54 million in the year ago period and down from 52.9 million in Q4 2015.
+This decline was due mainly to the impact of our Q1 stock repurchases partially offset by stock option exercises.
+Recall that in Q4 2015, we repurchased approximately 600,000 shares, bringing our total six-month repurchases to 1.7 million shares.
+First quarter GAAP net income was $27.6 million or $0.53 per diluted share, up 39%.
+Included within this amount is a $0.02 per diluted share benefit related to the discrete Q1 2016 accounting change related to the stock option exercises.
+Just one final comment regarding the deconsolidation of Cercacore.
+As you will recall, Cercacore, although a completely separate company spun off from Masimo in 1998, has been consolidated into Masimo's financial statements for over 10 years.
+This was done to comply with generally accepted accounting principles.
+Over the past couple of years, a variety of changes have occurred within the Cercacore business environment, including a recent capital infusion.
+As a result of these changes, the GAAP literature no longer requires that Cercacore be consolidated.
+We also, though, wanted to be clear that while we are reporting our Q1 2016 financial results on a deconsolidated basis, our prior-year Q1 2015 financial statements, again required per GAAP, are presented in the same manner in which they were presented in last year.
+So as a result, when comparing year-over-year quarterly product gross margins or operating expenses, it is an apples and oranges comparison.
+However, what is consistent is that the consolidation and now the deconsolidation of Cercacore has never had any impact on Masimo's net income and diluted earnings per share.
+As of April 2, 2016 our days sales outstanding was 52 compared to 46, as of January 2, 2015.
+Over the same period, our inventory turnover declined slightly from 4.2 to 3.7.
+Total cash and cash equivalents as of April 2, 2016 were $139.9 million, compared to $132.3 million as of January 2, 2016.
+During the quarter we generated $18.8 million in cash from operations, $2.6 million from stock option exercises, and borrowed an incremental net $40 million on our line of credit.
+These funds were used in part to repurchase approximately $48 million in stock in the period.
+Now I would like to update our financial 2016 guidance, which is based on the best information we have available to us.
+We are now projecting our total fiscal 2016 GAAP revenues to be approximately $677 million, including $647 million in product revenues, up from our prior estimate of $640 million.
+We are maintaining our projection for $30 million in royalty revenues.
+We continue to expect 2016 GAAP revenues for rainbow to be approximately $68 million.
+We now expect, after the deconsolidation of Cercacore, for our new annual GAAP 2016 product profit gross margins to be approximately 64.7%, down from the prior GAAP guidance of 65.5%.
+However, it is important, as I alluded to before, to remember that the impact of the Cercacore deconsolidation was to reduce the prior GAAP guidance of 65.5% by 110 basis points.
+In other words, our prior gross profit margin guidance would have been 64.4%.
+Therefore, in reality, we're actually increasing our full year gross profit margin guidance from what would have been 64.4% on an adjusted basis to the current 64.7%, primarily due to the stronger-than-expected Q1 2016 gross profit margins.
+We now expect, after the deconsolidation of Cercacore, for our new fiscal 2016 operating expenses to be approximately $312 million, down from our prior guidance of approximately $317 million.
+This $5 million decline is due to the elimination of approximately $7 million in Cercacore operating expenses, offset slightly by higher Q1 2016 operating expenses that we incurred, which were consistent with the higher-than-expected Q1 2016 product revenue.
+Despite the 27.1% effective tax rate in Q1 2016, as I noted earlier, we expect our tax rate for the remaining nine months of fiscal 2016 to be approximately 30%.
+We also continue to expect that our quarterly other expense will be approximately $1 million per quarter, due mostly to interest expense tied to borrowings under our line of credit facility.
+We are projecting that our average quarterly weighted shares outstanding for the rest of fiscal 2016 to be approximately $52 million to $53 million.
+As a result of all these changes we are now expecting our 2016 GAAP EPS to be approximately $1.83, up from our prior estimate of $1.69 per share.
+With that, I will turn the call back to <UNK>.
+Thank you, <UNK>.
+Thank you very much.
+We have started 2016 strongly, and we're excited about our prospects for the rest of the year.
+As you just heard from <UNK>, we have raised our projections in response to a stronger pace of business.
+The pace expansion for our installed base remains steady, while the acceleration of growth for rainbow and new product sales gives us confidence that we will be able to grow our top line at a higher rate than originally projected.
+Our continuing ability to win new hospital conversions to Masimo SET pulse oximetry, further reinforces our belief that we will grow sales faster than the pulse oximetry market.
+We attribute this strong demand to the proven clinical superiority of our technology for improving the quality of care while reducing cost of care.
+A key facet of our growth is the contribution we are realizing from newer products.
+Good examples of our success can be seen in the growth for Root with capnography, Root with SedLine brain function monitoring, as well as our RAM, respiratory acoustic monitor, which had sales growth of greater than 40%, 50%, and 100% respectively in Q1.
+During Q1 we were delighted to see two new publications that support the use of our latest rainbow parameter ORI, which is Oxygen Reserve Index.
+In a prospective study published in Anesthesiology and conducted at Children's Medical Center in Dallas, Dr.
+Peter Szmuk and colleagues evaluated whether ORI could provide a clinically important warning of impending desaturation in pediatric patients with induced apnea after pre-oxygenation.
+The researchers concluded that during prolonged apnea in healthy anesthetized children, the ORI detected impending desaturation in median of 31.5 seconds before noticeable changes in SpO2 occurred.
+Another study published in Anesthesia and Analgesia and conducted at Loma Linda University by Dr.
+Richard Applegate, involved patients in which arterial catheterization and intraoperative arterial blood gas analysis were planned during surgery and showed similar findings.
+The conclusions of the study included a finding that suggests that intraoperative ORI can distinguish PaO2 between 100 and 150 mmHg when SpO2 is greater than 98%.
+In addition, decreases in ORI to near 0.24 may provide advanced indication of falling PaO2 when SpO2 is still greater than 98% and above the PaO2 level at which SaO2, which is arterial oxygen saturation, declines rapidly.
+Shifting to our financial performance, our plans to achieve earnings growth that is twice the rate of sales growth are solidly on track for 2016.
+In fact, our Q1 product revenues rose by approximately 11% while our diluted earnings per share rose by approximately 39% including the $0.02 tax benefit from the new accounting rules that were previously noted by <UNK>.
+While we do not anticipate this continued level of earnings-per-share year-over-year quarterly growth, our new guidance does now suggest top line product revenue growth approximately 7% and diluted earnings per share growth of 18%, still more than twice the rate of sales.
+As we have previously described, the major factors contributing to increased leverage in our P&L include: consistent year-over-year sales growth, continued adjusted year-over-year gross profit margin increases resulting from the value engineering investments that began a few years ago, and continued controlled growth in operating expenses.
+Our outlook for 2016 therefore continues to be very positive as we head for what we expect to be a very strong finish to our 10 year plan in 2017.
+A plan that is built on our mission to improve patient outcomes and reduce the cost of care by taking noninvasive monitoring to new sites and applications.
+With that we will open the call to your questions.
+Operator.
+Certainly.
+First of all of this Middle East order, we discussed it I think last quarter and we said that we expected it to be in the range of $17 million, which about half of it we got in 2015 and the other half we were expecting between Q1 and Q2 of this year.
+However, we ended up, due to their demand, accelerating both and we shipped it all in Q1 of this year.
+The good news and the reason we expect this business to recur, is we've also recently won the tender again for that same business.
+So that is the size and the timeframe of what we expect going forward.
+Sure.
+As I said, they went up from 46 in the prior quarter to 52.
+And ironically as we were just talking about, all of that is attributable to slightly longer terms that we made available related to this large initial Middle East order.
+All of that is related to that one contract and we expect that the repayment plans for that will commence sometime in Q2 and will continue through the rest of this year.
+First of all we believe our growth rate in the US will be in the upper-single digits, which is we think 2 to 3 times the normal pulse oximetry growth in the US.
+As far as your second question, O3 and ORI -- both products have not yet been cleared by the FDA so they are currently not in our projections for US business.
+We do hope they will get approved this year and once they do, depending on when it does, we may even adjust our revenue plans for the US.
+Because they are both very successful products that we rolled out in Europe and Japan and the customer demand has been very high, so we hope the same thing will happen in the US.
+Sure, I think as we discussed at the beginning of the year, we decided to consolidate the blood management team within the normal sales organization.
+But what we did, instead of just having them be part of the normal account management, we created the ORICU sales team, which not only had noninvasive hemoglobin and PBI in their bag, but they also would have SedLine capnography as well as, once the FDA clears it, O3 and ORI.
+And then we also created a special sales force to focus on the post surgical ward.
+As far as the funnel for that business, it still remains strong and, as you notice, our revenues picked up nicely, although some of that was from the Middle East order that we talked about -- but it is looking very good.
+We have some very large customers who are seeing very good results clinically with SpHb and TDI and we expect that will convert to accelerated adoption of the products.
+I think also the other thing, <UNK>, I want to note is, you may have seen the announcement from Phillips that they did launch their high-end monitors with rainbow.
+I think that will also be a benefit because about 60% of ORs and ICUs, if not in the whole world, at least in the US, are Phillips monitors and for them to now have integrated rainbow, it should make it easier for customers to do what they want to do instead of having an additional product in the room.
+Thank you <UNK>.
+<UNK>, we are constantly looking at opportunities to repurchase the stock.
+There are various ways, as you know, to do that.
+We do have various structures in place that will ensure the continued repurchase of stock at certain levels.
+And then we give ourselves the opportunity to also strategically enter the market any time we think the opportunity is appropriate.
+So yes, absolutely the intention of our expanded credit facility, that we put in place earlier this year, is intended to facilitate that kind of activity should the opportunity present itself.
+Sorry, <UNK> -- the $5 million delta.
+I think the two biggest areas in R&D, as I noted in the comments we just made, those were reduced due to some selective spending in areas of clinical activity and other product-related expenses.
+The change, if you will, year-over-year in SG&A, as I alluded to in the prepared comments, really are due to a couple things.
+Number one, the fact that we are deconsolidating Cercacore, so as I indicated, that was -- that had the effect of reducing Q1 operating expenses by about $1.8 million.
+We then also of course did not begin the accelerated reinvestment of the med device tax costs that were in prior years' SG&A numbers --.
+We tried, by the way (laughter).
+We've tried but the recruiting is not something that happens overnight.
+Right.
+So those, by themselves I think represent the greatest reason for, as I said on the call, the flatness, if you will, in year-over-year operating expenses.
+Because, while we won the tender for the exact same products, we will not learn about the full scope of the business until June.
+Last year when we won the tender and it was announced in June, the revenues did not begin until towards the end of Q3.
+So it is hard to understand how that will potentially impact us.
+But I think more broadly speaking, <UNK>, we are trying to be conservative with our guidance so that we don't disappoint.
+We hope we will continue meeting and maybe beating -- as you know in the last five quarters, we have beat our revenue guidance and earnings guidance and we raised it each quarter, and we hope to continue to do that.
+But at least we feel good about the numbers we've given you -- that we should meet them.
+Thank you <UNK>, thank you very much.
+I think it's a busy earnings season so I think that may be our last question.
+I don't know if, <UNK>, if you have another follow-up question you want to ask.
+If not, I will adjourn our call.
+It looks like there are no other questions so we'll go ahead and end this call.
+Thank you so much for joining us for our Q1 earnings call, we look forward to our next one in a few months, thank you very much.

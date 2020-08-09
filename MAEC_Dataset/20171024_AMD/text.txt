@@ -1,0 +1,61 @@
+Thank you, <UNK>, and good afternoon everyone
+I am pleased with our performance for the third quarter of 2017. We increased revenue 26% year-over-year, expanded gross margin and achieved both operating and net income with net income of $110 million and diluted earnings of $0.10 per share
+We are executing well with our strongest portfolio of products in many years including our Ryzen, EPYC and Radeon Vega offerings
+Let me provide some specifics for the third quarter
+Revenue of $1.64 billion grew 26% year-over-year and 34% sequentially
+This is our highest quarterly revenue since the fourth quarter of 2011. Year-over-year growth was primarily due to our Computing and Graphics segment, while sequential growth was driven by the Enterprise, Embedded and Semi-Custom segment revenue seasonality, as well as higher Computing and Graphics segment revenue
+We also took another step in our IP monetization efforts by closing a patent licensing agreement that had a positive impact on both our segments
+Gross margin was 35%, up 4 percentage points year-over-year, primarily driven by the benefit of IP-related revenue and a richer mix from the Computing and Graphics segment, which were partially offset by costs associated with our global foundries wafer supply agreement for wafers purchased at another foundry
+We continue to make good progress on the ramp of our new high-performance products, which had a positive impact on our gross margins
+Operating expenses of $419 million compared to $353 million a year ago
+The increase was primarily due to higher R&D-related investments and expenses related to annual employee incentive programs, driven by our better financial performance
+Operating income was $155 million in the third quarter of 2017, a solid improvement on $70 million a year ago
+Third quarter net interest expense, taxes and other was $45 million, up slightly from $43 million a year ago
+Lower interest expense from a year ago was largely offset by withholding taxes for licensing revenue
+Net income was $110 million or diluted earnings of $0.10 per share as compared to $27 million, or $0.03 per share a year ago
+The diluted earnings per share calculation for the third quarter of 2017 was based on 1.143 million shares, which includes 100.6 million shares related to our 2026 convertible notes
+Adjusted EBITDA was $191 million compared to $103 million a year ago
+Now turning to the business segments
+Computing and Graphics segment revenue was $890 million, up 74% year-over-year, primarily due to strong sales of our Radeon graphics and Ryzen desktop processors
+Computing and Graphics segment operating income was $70 million compared to a loss of $66 million a year ago
+The solid improvement was primarily due to higher revenue
+Enterprise, Embedded and Semi-Custom revenue was $824 million, approximately flat year-over-year due to lower semi-custom SoC sales, partially offset by IP-related revenue
+Additionally, server revenue increased from a year ago, driven by the increased sales of EPYC products
+As you heard earlier from <UNK>, customer interest and deployment plans are strong
+Operating income was $84 million, down $52 million from $136 million a year ago, primarily due to higher costs
+Turning to the balance sheet
+Our cash, cash equivalents and marketable securities total $879 million at the end of the quarter, up from $844 million in the prior quarter, primarily due to higher revenue
+Inventory at the end of the quarter was $794 million, down 5% from $833 million in the prior quarter
+Long-term debt on the balance sheet was $1.36 billion
+Total principal debt, including our secured revolving line of credit, was $1.74 billion
+In the third quarter, we used $28 million from our lower interest secured revolving line of credit to pay down long-term debt, which has a higher interest rate
+Free cash flow was $32 million compared to $20 million in the year-ago period
+Before turning to our outlook for the fourth quarter of 2017, which is a 13-week quarter, let me remind you, for comparative purposes, that the fourth quarter of 2016 was a 14-week quarter
+For the fourth quarter of 2017, we expect revenue to decrease approximately 15% sequentially, plus or minus 3%
+At the midpoint, this equates to revenue growth of approximately 26% year-over-year
+Non-GAAP gross margin to be approximately 35%, non-GAAP operating expenses to be approximately $410 million, non-GAAP interest expense, taxes, and other to be approximately $30 million, and inventory to be down sequentially
+We now expect 2017 annual revenue to increase by greater than 20% over 2016 compared to the prior guidance of mid to high-teens percentage growth
+We do not anticipate significant changes to the diluted share count in the fourth quarter and you can find additional information regarding the share count in the CFO commentary, which is posted online
+In closing, the third quarter was a strong quarter and we are pleased with the momentum of our new premium products
+We are making solid progress towards our growth and margin expansion objectives; and as our financial performance improves, we remain committed to investing in our multi-generational road maps and achieving our long-term financial targets
+With that, I'll turn it back to <UNK> for Q&A session
+<UNK>?
+Yeah, so, <UNK>, just to remind you, in line – you've heard us talk about our IP monetization efforts, and this is very much in line with that
+And as <UNK> said, the benefit is spread over both the segments
+Hi, <UNK>
+If I can just add, if you look at the margin trend compared to 2016, 2016 we had 31% gross margin
+And we expect to be at 34% this year
+And that's primarily based on the strength of the new product that <UNK> referenced
+And from a long-term model standpoint, we are on track with what we laid out in the financial Analyst Day of going from 31% to 34%, and then expecting to be greater than 36% in 2018 on the strength of the new premium products that are ramping into 2018.
+I think the way I look at that is if you look at Q3 from a volume standpoint and the volume is pretty high, and that's why it's highlighted from a viewpoint of the calls, but the way you want to look at it going forward Q4 and beyond is all of the costs related with the WSA that's referenced in the scripts is contemplated in our guidance and our long-term models
+I think the first thing I'll say is we do want to invest in the business, especially with the growth opportunities we have and primarily targeting the OpEx investments towards R&D
+They are, in the current moment, with a lot of products ramping, just in the last few months, you heard about the Ryzen ramp, you heard about EPYC, we talk about Vega, and obviously, their go-to-market cost will ramp up new products
+But as far as 2017 guidance is concerned, I had said previously 31% as the potential of revenue, but I think right now, where the numbers are coming out especially with the strength on the revenue side of the equation, we think we end up at about 30% on an expense to revenue ratio in 2017, which, as you probably recall, is at the upper end of what we had said our long-term target model which is 26% to 30%
+So actually, I'm pretty pleased because if everything works out in the Q4 guidance that we gave, and in 2016 would have been a 32% of revenue; in 2017, approximately 30%; and then obviously, we'll see where we get into 2018. We're very pleased from a viewpoint of being able to make the investments in the business to support the product road map, the go-to-market cost for the ramp of new products, and at the same time, bring down the percentage of OpEx over revenue
+Yeah
+I think if you look at it from an overall standpoint, if you look at the cost impact, it's all within our guidance
+I think if you look at IP from that standpoint, we have several IP deals in the pipeline for Q3. Basically, we thought it was likely that we would be able to close on IP-related deal in the quarter, and that's how it turned out
+And you see the benefit across both the segments
+And from a go-forward standpoint, despite the cost of being there, we look at it overall from a viewpoint of the trend of the margin
+Major provider of the gross margin uplift is the premium new products that we are launching
+And then, obviously, there's opportunities from an IP standpoint to benefit the P&L if we go ahead and put that in the equation

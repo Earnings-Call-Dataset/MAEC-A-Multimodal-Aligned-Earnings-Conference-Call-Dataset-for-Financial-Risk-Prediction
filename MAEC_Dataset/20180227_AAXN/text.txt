@@ -1,0 +1,294 @@
+Thank you, and good afternoon to everyone.
+I'm <UNK> <UNK>, President of Axon.
+Welcome to Axon's Fourth Quarter 2017 Earnings Conference Call.
+Joining on today's call from management are <UNK>ick <UNK>, CEO and Founder; and <UNK> <UNK>, our Chief Financial Officer.
+Before we get started, <UNK> <UNK>, our V.
+P.
+of Investor <UNK>elations, will read the safe harbor statement.
+Good afternoon.
+This call is being broadcast on the Internet and is available on the Investor <UNK>elations section of the Axon Enterprise website.
+During our call, we'll be making references to our reported results, which you can find by reading of our quarterly shareholder letter and the supplemental materials, both of which are available at investor.
+axon.com and on the SEC website.
+We'll start today's session with prepared remarks, then we'll move to live a Q&A session.
+Statements made on today's call will include forward-looking statements, including statements regarding our expectations, beliefs, intentions or strategies regarding the future, including statements around projected spending.
+We intend that such forward-looking statements be subject to the safe harbor provided by the Private Securities Litigation <UNK>eform Act of 1995.
+This forward-looking information is based upon current information and expectations regarding Axon Enterprise and these estimates and statements speak only as of the date on which they are made, are not guarantees of future performance and involve certain risks, uncertainties and assumptions that are difficult to predict.
+All forward-looking statements that are made on today's call are subject to risks and uncertainties that could cause our actual results to differ materially.
+These risks are discussed in greater detail in our annual reports on the Form 10-K and our quarterly reports on the Form 10-Q, under the caption <UNK>isk Factors.
+You might find these filings as well as other SEC filings at investor.
+axon.com or at sec.
+gov by searching for filings under the Axon ticker, AAXN.
+Okay, now turning the call to <UNK>ick <UNK>, our CEO and founder.
+Thanks, <UNK>, and good afternoon, everyone.
+Thank you for joining us, and welcome to day 1 in the next decade of Axon's mission to protect life.
+2017 was a big year for Axon, and I'm extremely proud of what our team has accomplished.
+We executed on our short-term goals and, at the same time, laid the foundation to drive continued top line growth and long-term profitability.
+There were several highlights from the year that I want to recap.
+First and foremost, we changed our name from TASE<UNK> International to Axon Enterprise to now reflect what is now an unprecedented platform of devices, software and technology.
+Next, we completed the enormous task of migrating 20 million gigabytes or 20 petabytes of data onto Microsoft Azure cloud.
+Let me tell, you this was no small feat, and I could not be more proud of our team who worked tirelessly to make it happen seamlessly for our customers.
+Back to my recap of the year, we also launched our artificial intelligence group, Axon AI.
+We accelerated market adoption of our body camera program.
+We expanded our product ecosystem with Axon Fleet and in-car video system, and we've started to take market share in this new market.
+We grew our booked license account on Evidence.com to more than 200,000 seats.
+We introduced Signal Sidearm, which allows all of our cameras in a certain radius to begin recording after a firearm is drawn.
+We've rolled out Axon Citizen, which allows the public to submit evidence.
+And we've enhanced our Board of Directors and expanded our leadership teams across IT, product and finance while promoting some of our existing superstars.
+Notably, we've brought in financial leadership that significantly deepens our bench and is already facilitated in new cultural -- a new culture of discipline that will enable us to deliver increased profit and drive greater shareholder value.
+I couldn't be enjoying working with anyone more than I have with you all this past 6 months.
+It's great to have you aboard.
+<UNK> will discuss our OpEx shortly, but suffice it to say, we entered 2018 with good progress under our belt and expect to continue that momentum.
+In 2017, we delivered record revenue of $344 million, and we also ended the year with Software and Sensors bookings up 15%.
+Importantly, we continue to make progress against our 4 key areas of growth, which are: one, the TASE<UNK> Weapons; two, evidence management software and body cameras; three, Axon Fleet; and four, Axon <UNK>ecords.
+With that as a backdrop, I'm incredibly excited about our plans for 2018 and the way our team has come together to embrace our new mantra of being scrappy to drive leverage.
+We've long had a culture of excellence, hard work and fun, and what I view as collegial atmosphere at Axon.
+That will not change, but it will be enhanced by disciplined financial management combined with top line growth.
+Broadly speaking, Axon is at a new juncture.
+We have a platform of innovated and interconnected business that will allow us to continue creating and dominating new markets.
+You heard our perspective in the path we're taking at our November Analyst Day.
+We believe our market position and the opportunity to drive shareholder value is unique.
+We've continued to shift our business model.
+Our mission is clear.
+Our teams are invigorated, and we're all looking forward to keeping you updated in our progress.
+As you have no doubt seen, today, we also announced the new plan for me to lead this amazing company, these amazing people through the next decade.
+Later this week, I look forward to accepting my last paycheck for the next 10 years.
+I'll be shifting to a 100% performance compensation package based on stock options that only last if we can increase the market capitalization through a range from starting at a doubling to a tenfold increase, coupled with financial operating targets to ensure we're building both shareholder value and financial rigor.
+The planned development was led by Hadi Partovi and our compensation committee and is largely inspired by the recent program announced by Tesla for its CEO, Elon Musk.
+And I'll tell you, I'm incredibly excited at the opportunity to earn back a share of the company I founded 25 years ago if we can deliver 10x results.
+I also relish the accountability of knowing that I will take home nothing from this plan if we don't at least double the market cap based on the 6-month averages starting today, while either doubling revenue or tripling adjusted EBITDA just to get to the first milestone.
+<UNK> can give us more detail later.
+And of course, this plan is contingent upon you, our shareholders, voting to implement it at our upcoming Shareholder Meeting in May.
+But I can tell you, I'm pumped and ready to roll.
+With that, I'll turn over to <UNK>.
+Thanks, <UNK>ick.
+You should all have our reported financial results and shareholder letter in front of you.
+Let me add some color by taking a look at where our teams will be focusing their energy in the new year.
+First, I'll talk about product development.
+And second, I'll give some color about our execution.
+For product, 2018 is going to be another year of intense innovation for us.
+We'll be launching several new products, including Axon <UNK>ecords, a breakthrough record management system built to fully integrate audio and video data and to the leverage artificial intelligence to streamline report creation in addition to several game-changing enterprise software add-ons.
+Another products that fit into our 4 strategic growth categories highlighted by <UNK>ick.
+Evidence.com is constantly improving.
+For those of you who are new to Axon, briefly, Evidence.com is our cloud-based digital evidence management system that stores body-worn camera video and does so much more.
+We're constantly improving this product, adding new features upon our customers' request for our different pricing tiers, and we send out updates in real time to improve the user experience.
+For example, most recently, we dramatically reduced the time it takes to search for videos and upload it to Evidence.com.
+We're excited about the increasing utility of Evidence.com.
+Today, the platform post off a body cam video, and that's great, but our customers need the software to do more.
+We're developing enhancements that will enable Evidence.com to seamlessly take in CCTV footage and other forms of video and audio evidence.
+We can't touch on all of our products to date, especially as our suite grows, but I want to note that we're seeing good traction with the Axon Citizen, which is a community evidence submission tool that we announced in Q4.
+Oxnard Police Department out of Southern California put out a video to their entire community, outlining how they could submit evidence via their smartphones to the police agency using Axon Citizen.
+Fort Worth Police Department at Texas also announced they were doing an entire agency-wide trial of Axon Citizen.
+The second area of focus I want to cover is our ability to execute on our growing TAM.
+Back-office operations might not be that glamorous, but it's important to get these things right, and we feel really confident about the decisions we are making to support our growth.
+We are scaling up our offices across the world, and we have set a priority in 2018 to cross-pollinate our internal groups to ensure we execute against one vision for Axon.
+For perspective, in 2017 alone, our net headcount increased by 250, reflecting 36% growth.
+We have recently added staff in key markets, including <UNK>sdale, Seattle, London, Frankfurt, Finland, Amsterdam, Sydney, Vietnam and New York.
+Our senior leaders are spending time on the ground in these areas and working across functions to keep the global team marching in lockstep.
+We're also consolidating our global logistics group as we prepare for continued international growth.
+We recently folded our EMEA logistics and operations responsibilities into one global logistics group.
+During the past year, this group dramatically improved our HQ customer fulfillment and warehousing operations.
+They also crafted a strategic warehousing plan and develop new key transportation partnerships.
+We also recently opened a distribution center in Melbourne, Australia, which is becoming an increasingly important market for us.
+Hopefully, you saw our announcement earlier this month that in the first quarter of this year, Victoria Police in Australia ordered 11,000 Body 2 cameras and secured a 5-year subscription to Evidence.com.
+We believe we now have a solid foundation in place to provide even better support to our international customers going forward.
+Joining forces is one of our internal core values and encourages people to step outside of their individual silos.
+We already see this happening, and we believe this will be critical to the organization as we continue to grow.
+Now I'll hand the call over to <UNK>, who will talk about our financial results and outlook.
+Thanks, <UNK>.
+We have a lot of good things to talk about this quarter from a financial perspective.
+We delivered solid fourth quarter results with record revenue, strong gross margins and adjusted earnings per share above consensus.
+Fourth quarter revenue came in at $95 million, reflecting 15% growth year-over-year.
+We saw strength across the board.
+Weapons revenue grew 10%, and Software & Sensors revenue was up a healthy 27%, reflecting a large number of customer add-ons and another record quarter of competitor conversion wins.
+We'll come back to gross margin and operating margin in a minute, but I wanted to jump down to the bottom line first to point out that in Q4, we added $8 million noncash tax expense related to U.<UNK> Tax <UNK>eform.
+This put us at a GAAP EPS loss of a $0.04 per share.
+Excluding this noncash tax expense and also excluding a noncash intangible asset abandonment charge, our Q4 non-GAAP adjusted EPS was $0.13, which we feel really good about.
+Also, you may have noticed in our shareholder letter that we are giving 2 non-GAAP EPS figures.
+This is because, for the first time, we're excluding stock-based compensation expenses from income and plan to do so going forward.
+Excluding stock comp, our non-GAAP EPS was $0.18 in Q4.
+As you can see in our reconciliation tables, this is up from non-GAAP EPS of $0.15 in the same period a year ago.
+So to be clear, the $0.13 non-GAAP EPS is what compares to consensus, and the $0.18 non-GAAP EPS reflects a new adjustment that we're introducing this quarter.
+You have the tables in front of you so I don't need to hit every number, but I do want to take a few moments to unpack gross margin and operating margin.
+Our consolidated gross margins were great this quarter, coming in at 66.6%.
+This reflected strong pricing, lower data migration costs in the previous quarters and a favorable mix.
+We're proud of this result, but we also believe that we had a favorable confluence of factors in Q4 that boosted our gross margin.
+And so we believe that 300 to 400 basis points of the gross margin performance was nonrecurring.
+Drilling into gross margins a little bit more, you'll notice that Software & Sensors product gross margin flipped from negative 5% in Q3 to positive 43% in Q4.
+This was mostly tied to strength in pricing as well as the timing of shipments and favorable product mix.
+With all the puts and takes of the past few quarters behind us, we expect Software and Sensors product gross margins to normalize to about 25%, excluding Axon Fleet pass-through hardware.
+On operating expenses, I want to take a minute and commend our team for working hard to implement and embrace robust cost controls in November and December.
+We've already started to see the results of their efforts as we've started to bend the trajectory of our cost growth curve.
+Our Q4 operating expenses of $55.4 million include $900,000 in restructuring costs associated with a reduction in force.
+We believe that this reduction in force will lead to $4.5 million in annual cost savings starting this year, 2018.
+Q4 operating expenses also included a $1.1 million noncash charge related to an intangible asset write-down.
+You can also see the results of our cost controls on the adjusted EBITDA line, which came in at $15 million in Q4.
+This compares to $13 million a year ago and is up substantially from $7 million in Q3.
+Turning to the balance sheet, we feel a really good about our financial condition with over $80 million of cash.
+Also, we told you 2 quarters ago that we would take inventory levels to sub $50 million by the end of the year, and we did exactly that.
+Inventory was $45.5 million at year-end.
+Before going over our guidance, I'll briefly discuss ASC 606.
+The new accounting standard is applicable to Axon, effective January 1, 2018.
+This standard effectively eliminates the concept of contingent revenue, which will result in accelerating some of our revenue recognition on new contracts while, at the same time, moving previously stored-up deferred revenue straight to the retained earnings line.
+We're still working through the details, but our accounting team has worked hard to prepare for the accounting change.
+And in 2018, we will disclose revenue results under both standard 605 and 606, starting with our Q1 2018 results.
+Now to our 2018 outlook.
+We are providing the following guidance: <UNK>evenue growth of 16% to 18%; operating margin expansion of 300 to 400 basis points, driven by strong gross margin and strike expense control; we are looking at a normalize tax rate of between 20% to 25%, which can fluctuate depending on changes in our stock price and the geography in which our earnings are booked; and finally, capital expenditures of $12 million to $16 million.
+Looking a little further ahead, we're in the initial planning stages for a next-generation manufacturing facility and headquarters building that will consolidate our 4 <UNK>sdale locations into 1 complex.
+This is a long-range project that would see us break ground some time in 2019 with a target completion date of 2021.
+The expected return on investment for this project is compelling as it would enable us to retool our <UNK>sdale manufacturing lines, consolidate office space and ultimately move our Axon Accelerate user conference onto our own campus.
+We'll have more to say on this as we move through the planning stages.
+We appreciate your time today, and we'll now be happy to take your questions.
+Operator, we're ready to move to Q&<UNK>
+Yes, sure.
+Let's start with the first part of your question there.
+So we saw some upside relative to product mix.
+And really, we had the heavier portion of software versus hardware in the quarter.
+And we generally -- when that happens, we tend to see favorable margins.
+We also had some upside from adjustments we made to inventory that came in at the end of the year as part of our inventory balance.
+And then the second part of your question.
+Got it.
+Great question.
+So I'll take that one.
+We've recently announced the team that we hired in Tampere, Finland.
+I was just out of a conference call, getting them started this week.
+And boy, really exciting and energetic to have some really great talents around Imaging that, I think, will help tick up our hardware game and sort of increase our hardware's a capabilities to drive future software capabilities.
+So we're -- we continue to be, I'd say, mostly interested in finding great teams that we can acquire.
+I don't know that there's any glaring holes in the -- like, in the product ecosystem.
+But I'd tell you, I generally tend to be a skeptic on acquisitions, the Chicago school guy that if we're going to look at an acquisition, it's going to have to pass a pretty high bar that it is more valuable because it's part of us than it would be standalone or part of someone else.
+So our general strategy is not to go through acquisitions, unless they either have a team that we really think accelerates us or some other unique sense of value that is unlocked by being part of us.
+I wanted to ask.
+You're going back to your November Analyst Day.
+You noted a couple of things.
+One, it sounds like you're realizing maybe some of the cost savings a little quicker than expected.
+I think that you've implemented some incentive changes for your sales team as well, the focus on selling contracts at better margins or better payouts for lower discount, so to speak.
+Tying those 2 things together, first, how has the change in incentive plans been received for the sales team.
+And then secondly, you noted previously that you expected the Axon or the Software and Sensors side of your platform to achieve profitability in 2 years, in 2020.
+Is that still kind of the track that you're expecting today.
+So why don't I take the first part of that question, and I'll hand it over to <UNK> here.
+On the cost savings, we've just been delighted that the company has really embraced the new value that we're calling Be Scrappy.
+So I hosted an exact dinner at the entire executive team.
+The 10% team, we ate pizza.
+It was $100.
+And I paid for it out of my own pocket.
+So we're feeling really good about the Be Scrappy initiative.
+On how we incentivize our sales team, we have really focused on segmenting that team into hunters and farmers.
+And so there is still -- their main incentive is to close business.
+We've put in some structures that we think will help facilitate lower discounts, but we're still really incentivizing them to go out and win new business, get full penetration and add our additional tiers profitably.
+And let me turn it over to <UNK> on the kind of that 2- to 3-year outlook.
+Great.
+If I could speak one more and quick here on the 16%, 18% sales growth for the year.
+On the Weapons side, are you expecting kind of similar, like 10% growth on that.
+Can you give us a little color on the Weapons business outlook for '18.
+But just confirming.
+You are expecting a little bit of growth on the Weapons side this year.
+Correct.
+Two questions.
+One is, you mentioned winning some competitive win-backs.
+Was that this quarter.
+And can you tell us what cities those were.
+So yes.
+So the ones we were referring were this quarter, I don't know that we've disclosed exactly which cities those are.
+Okay.
+And I wanted to take your attention to the operating margin expansion, thank you for that clarity.
+And just to be crystal clear because margins are always such an issue, if I go to the midpoint, the 350 basis point improvement, is that inclusive of Axon Fleet or new product introductions in the year such that, when it's all said and done, you're targeting a 7.3.
+Is there going to be adjustments for new product initiatives.
+Like, I heard <UNK> mention the Software and Sensors normalizing around 25%, excluding the Axon Fleet pass-through hardware.
+So we have tax in multiple jurisdictions.
+For that particular adjustment, we used our U.<UNK> tax rate.
+It was impacted.
+And we do have some -- we had a tax structure in the Netherlands that we wound down.
+And there was some residual effects of that in Q4 that were -- in our tax rate.
+And so the U.<UNK> -- just to be clear, it's about 37%.
+It'll be lower.
+As the -- so the U.<UNK>, obviously, we're going to see a lower income tax rate in the U.<UNK> in 2018.
+And some of the items that helped our tax rate in 2017, we do expect some subset of those to continue in 2018.
+We had a <UNK>&D credit.
+We had a -- there's obviously -- you've seen the impact from the accounting change relative to equity.
+And so that, we continue -- we expect that to continue to help our tax rate.
+But that is -- there is some volatility there.
+We can't really, obviously, predict the stock price to the extent that, that fluctuates, and that'll drive some volatility in our tax rate as well.
+I'm sorry.
+Are you looking for specificity around the milestones in sales.
+Sure.
+So what we're effectively doing are -- <UNK>ick needs to achieve 12 tranches, and they're not time-based.
+They're market cap-based or milestone-based.
+And there are 2 sets of milestones.
+The first one is market cap.
+And those are in successive increments of $1 billion from $2.5 billion to $13.5 billion.
+The second set of milestones are operational milestones.
+And those -- there are 8 revenue and 8 EBITDA milestones.
+So 16 total.
+And any 12 of those needs to be achieved.
+They get effectively tied up -- tied into one market cap milestone.
+So to basically achieve the full award, we need to -- we would basically need to be a $13.5 billion market cap company and achieve 12 of the 16 operational targets.
+And those targets, we included in our press release.
+But effectively, they start at $700 million of revenue, $125 million of EBITD<UNK>
+The highest revenue milestone is $2 billion.
+And the highest EBITDA milestone is $230 million.
+And really, I would think about those separately by -- we thought we structured revenue milestones independent of the EBITDA milestones because they weren't really meant to be looked at together.
+<UNK>, I believe you had brought in some outside consultants to help you reorganize the operations and things.
+Is that, "We\
+Yes.
+That work is still continuing in Q1.
+So we're expecting to see there's an expense to that.
+And actually, it will likely continue into a portion of Q2.
+There's a lot going on right now.
+I'd say, we've brought those folks in, but the bulk of the work has been done by the new team that we've gotten in place.
+I'm very excited about the team that we have in place now, led by Jim Zito, our VP of Accounting.
+And we've brought in some great leadership under Jim.
+And in conjunction with the consultants, we've put in a new system to automate our revenue recognition.
+We're implementing a new H<UNK>I<UNK>
+We're implementing a new E<UNK>P.
+We're migrating over to a cloud-based version of our E<UNK>P.
+So there's a lot of work on going on.
+The consultants are one part of that.
+Okay.
+That's helpful.
+Curious on the video hardware gross margins, I mean, I think you say mix is the reason for the outperformance, but I guess maybe it's the mix of Flex versus body.
+But I thought the docking stations also carry very high margins.
+I know they were down year-over-year.
+Was that -- can you help me get my hands around that a little bit better.
+So yes, the hardware that we shipped was at a significantly better margin than what we've seen in prior quarters.
+A large part of that was the international beachhead account that accounted for thousands of cameras the prior quarter.
+And then there was a little bit of adjustment to inventory that was favorable.
+Yes.
+That's right.
+Okay.
+Shifting -- one other question on the <UNK>MS launch.
+When you start landing accounts for that product, are you going to need -- is there like a professional services component where you need to have implementation process to help people port over from their old system to new.
+Or is it more seamless than that.
+No.
+For sure, there will be professional services components.
+And we've been building out that team, which also, when you install things like Axon Fleet, work with agencies to be doing integrations to their vehicles also requires professional services.
+So Fleet has been a nice chance to cut our teeth at that.
+And then those don't all have to be employees.
+We can achieve that through partnerships as well as company-based employees.
+Just a quick one here on more current trends.
+I think with a very sizable order that was received, kind of a lot of nuance behind the shipment timing on that, can you give us a sense for -- typically, you might provide a little more color on where the quarter is tracking.
+Or how we should be thinking about kind of the current quarter sales.
+Do you want to provide any color around that.
+We feel good about this current quarter.
+We don't normally give quarter-to-quarter detailed guidance.
+We believe we've got strong momentum, thus far.
+Yes.
+Steve, I certainly appreciate the question.
+Last year, one of the dynamics that was a little challenging for us was giving the guidance quarterly as far as revenue and OpEx.
+And so what we'd like to do is guide to the annual guidance, 16%, 18% on the top line growth, 300 to 400 on the basis points on operating margin expansion.
+And I would continue to expect to see some fluctuations quarter-to-quarter.
+But for the full year, that's what we expect to deliver.
+Yes.
+Every quarter, we'll give you an update on how we're tracking to the full year.
+Great.
+To our shareholders, thanks for joining us today.
+And obviously, we're pretty proud of the results the team has turned in.
+Proud of the team we've been building.
+I was in our Seattle office just yesterday, meeting some of our new employees and just continue to be dumbfounded at the level of talent that this organization has attracted.
+And we just couldn't be more excited to continue to grow and improve.
+To our finance team who's listening today, you guys are doing a great job.
+<UNK> talked a little bit about Jim, and we've got <UNK> in the room here with us and a whole bunch of new folks who really at making Axon, setting the foundation for the next 10 years of growth.
+So obviously, I'm excited about this new competition plan that we've put in place.
+I'm excited that I know where I'm going to be for the next 10 years.
+And it's going to be a lot of fun working with great people doing great things.
+So stick around for the ride, and we'll talk to you guys in a few months for our next call.
+And we'll see you at our Shareholder meeting in May.
+With that, have a great day.

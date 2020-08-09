@@ -1,0 +1,178 @@
+Thank you, <UNK>, and thank you for that awesome introduction.
+Welcome to our first quarter earnings call.
+Although I am very honored to be recognized as a Doer, Dreamer and Driver within the digital government industry, it is not a recognition I can claim credit for.
+The real credit goes to each and every NIC employee and government partner.
+They are the ones who innovate day-in and day-out.
+They are the ones on the frontlines driving true change and how citizens and businesses interact with government.
+It is their success that garnered the attention of the industry and I applaud them.
+I also congratulate them for making a difference everyday.
+Just a few weeks ago, I had the opportunity to meet with our great group of government partners as we welcomed them to Little Rock, Arkansas for our 2017 Partner Conference.
+The theme of the meeting was Together Building the Government of Tomorrow, Today.
+Tomorrow, during our Annual Stockholders Meeting, I will share more about how the future really is taking shape today.
+And how we're evolving NIC strategy.
+However, this theme Together Building the Government of Tomorrow, Today, also sums up the first quarter of 2017.
+There were several ways we advanced digital government across many states, and we truly are shaping the future of government interaction across the country.
+First, you may recall that last year at our Annual Stockholders Meeting, we introduced to you the Gov2Go, the digital government assistant that learns about you, tracks your government interaction and notifies you when it's time to complete a transaction.
+During the first quarter of 2017, we continued to expand this platform.
+We recently added Gov2Go Pay, which enhances the platform with one-click payments.
+This allows citizens to enjoy the same, quick-purchase convenience as they do today to major online retail sites, like Amazon.
+In addition, I am pleased to announce that Nebraska became the latest state to deliver digital government services via the Gov2Go platform.
+The initial 8 services available on Nebraska, include alerts and reminders for property taxes, state income taxes, border registrations, state park permits, electrical license renewals, pesticide dealers and product registration renewals and weighing and measuring device registrations.
+I am very pleased to see the convenience of Gov2Go, reach even more citizens.
+And I absolutely know this will transform how people interact with government in the future.
+I also have good news to share regarding progress with the federal Recreation One-Stop or Recreation.
+gov.
+You may recall nearly a year ago, the U.S. Department of Agriculture Office of Forest Service awarded Booz <UNK> Hamilton, the contract for Recreation One-Stop support services, which provides reservation services for federal recreational areas and facilities through Recreation.
+At that time, we announced our teaming agreement with Booz, and our intention to sign a subcontract with them to provide certain services related to the contract.
+However, you'll also recall upon the initial contract award, the incumbent provider protested it.
+That protest went through several stages, including with the recent ruling by the U.S. Court of Federal Claims in favor of the government.
+The protest is over, and we believe there are no additional hurdles to be cleared.
+During this protest period, we have begun building out our team in anticipation of this day, and are working to establish the final timelines with Booz and our Recreation.
+gov federal partners aiming for target to launch the new solution in October 2018.
+Once Booz's prime contract with the federal government and our subcontract with Booz are finalized, we will provide some color on our financial projections for this service on future earnings calls.
+Until that time, I would just say, we are obviously pleased to see this exciting partnership move forward.
+While we're bullish about what the future may bring with these new developments, it was a collection of several tried and true services, such as motor vehicle inspections, motor vehicle registrations, payment processing, property tax payments and business registration filings that drove healthy revenue growth in the first quarter of 2017 as well as solid same-state growth from Interactive Government Services.
+In fact, IGS revenues were up 10% over the first quarter of 2016.
+Steve will dive into more financial details in a moment, but overall, I am pleased with our growth this quarter, as well as all of the new developments on the horizon.
+A few weeks ago, our government partners left Little Rock expressing their confidence in NIC and their belief that we are doing the right things to drive digital government innovation across the United States.
+This reaffirmed to me that we are delivering the best services possible to our partners and these services continue to drive healthy financial results and provide steady growth for our company.
+With that, I will turn the call over to <UNK> <UNK>, NIC's Chief Operating Officer for additional insights into our operations.
+<UNK>.
+Thanks, <UNK>, and good afternoon to everyone on the call.
+NIC produced healthy financial results for the first quarter of 2017, earning $0.21 per share compared to $0.19 in the prior year quarter.
+Results for the quarter include certain discrete tax benefits that positively affected EPS this quarter, resulting from adoption of the new accounting standard for stock-based compensation.
+The new rule simplifies several aspects of accounting for stock-based compensation, including the related impact on accounting for income taxes and the deductions we recognized when restricted stock awards vest.
+When such awards vest, if the stock price has risen since the date of the awards were granted, we recognize what are referred to as Excess Tax Benefits, which are tax deductions over and above those we expected to realize when the awards were first granted.
+With the adoption of the new rule, Excess Tax Benefits generated when awards vest are now recognized as a reduction to the provision for income taxes.
+Previously, we recognized such benefits in additional paid-in capital in the balance sheet.
+In other words, there used to be no effect on the income statement, but now there is.
+This resulted in a $500,000 reduction in our income tax provision, increasing earnings per share for the first quarter by approximately $0.01.
+It also contributed to the lower effective tax rate for the quarter of 34%, down from 37% in the prior year quarter.
+Keep in mind that the opposite could happen in future quarters if we had a tax deficiency, which would increase the provision for income taxes and lower earnings.
+Because we currently grant most restricted stock awards to executives and management-level employees in the first quarter of every year, we currently expect most Excess Tax Benefits or tax deficiencies to be recognized in the first quarter of each year when awards vest.
+Finally, this change was purely a GAAP accounting rule change and does not change the cash taxes that we ultimately pay.
+One final note on taxes for the quarter.
+The lower effective tax rate was also impacted by favorable benefits related to the domestic production activities deduction, which you may recall we began recognizing in the third quarter of 2016.
+Moving on to the core financial results for the quarter.
+During the first quarter of 2017, total revenues grew 6% to $83.2 million, with portal revenues of $77.2 million, up 5% over the prior year quarter.
+Total same-state portal revenues grew 5% for the quarter.
+Breaking down the components of same-state revenue growth, same-state IGS transactional revenues grew 10% this quarter, mainly due to the consistent deployment of new services and increased adoption of existing services across several portals, including motor vehicle inspections and registrations, property taxes and business registration filings among others.
+Same-state DHR transactional revenues were up 1% for the quarter.
+And finally, same-state software development revenues decreased 31% for the quarter.
+This was somewhat anticipated as we cycled against an exceptionally strong quarter of 25% same-state T&M growth in the first quarter of last year, driven by select number of large projects in a few states.
+As I mentioned, last quarter, in my prepared remarks on our 2017 guidance, we currently expect same-state T&M revenues to be somewhat of a headwind this year after an unusually strong year of nearly 20% growth in 2016.
+Results for the first quarter of 2017 also included revenues of approximately $1.6 million from the company's newest portal in Louisiana compared to approximately $200,000 in the prior year quarter.
+In addition, revenues from the Tennessee portal contract totaled approximately $1.8 million for the current quarter compared to $2.3 million in the prior year quarter.
+Our contract with the State of Tennessee expired on March 31, 2017.
+We have concluded the transition of all services to the state and we do not currently anticipate any additional revenue from Tennessee.
+Next, software and services revenues grew a healthy 15% for the quarter, again driven by continued strong performance from the Pre-Employment Screening Program, which we manage for the U.S. Department of Transportation, Federal Motor Carrier Safety Administration and from other payment processing services.
+Our growth for the quarter produced operating income of $21.1 million, up 4% from the prior year quarter, resulting in an operating income margin of 25%, down slightly from 26% in the prior year quarter.
+Moving on, factoring in the incremental spend we will make in Wisconsin to build out the new title and registration processing system throughout the rest of the year, that <UNK> just mentioned, we remain comfortable with the revenue and earnings guidance ranges for full year 2017 that we shared with you on our last earnings call back in February.
+Recall that our guidance includes approximately $4 million of investment, mainly for Gov2Go and the enterprise licensing and permitting platform that we intend to use in Illinois and elsewhere in certain portal states.
+Contract negotiations continue to progress in a positive direction with the State of Illinois and once they are concluded and the contract is signed, we will share more financial color with you on our future earnings call.
+Furthermore, as <UNK> just mentioned, once Booz <UNK> Hamilton's prime contract with federal government and our subcontract with Booz are finalized, we will provide more color on our financial projections for the Recreation One-Stop award on our future earnings call.
+In conclusion, I was pleased with our financial performance in the first quarter of 2017, and I know we are doing the right things to develop and deploy new innovative solutions with our government partners that we expect will continue to grow the company and keep us at the forefront of the digital government evolution.
+With that, I'll turn the call back over to <UNK>.
+Thanks, Steve.
+I agree, I too was pleased with our results for the quarter.
+After networking and collaborating with our partners a few weeks ago at Little Rock, at our partner conference, I am confident we have built strong lasting partnerships, and are developing the types of innovative services, citizens and businesses want and deserve.
+With that, operator, we will now open the call up to questions.
+Thank you.
+That's right.
+You got it exactly right.
+We won't recognize any more revenue in Tennessee for the rest of the year.
+So what we recognized in Q1 is it.
+And we've not reflected any revenue in our guidance yet from Illinois.
+There is certainly a possibility that could be the case for you to get a contract signed and progress on that.
+But at this point, we have not.
+The deal with these contracts is each state is different.
+Actually, beneath, every contract is different.
+We can't even speculate on the time because every state has different approval processes.
+They have to go through different individuals that have to sign off on it.
+And all I can say is it's progressing nicely, and I am confident that things are moving in the right direction.
+I understand your frustration and trust me, you know me, I'd love to be as transparent as I can.
+The problem we've got is, Booz hasn't negotiated with the federal agency yet, okay.
+And so and we haven't finalized negotiating with Booz until that happens and we are pretty much, I don't want to use the word gag order, but we're pretty much -- we can't talk about it.
+Even if -- I thought coming off that I could share some with you.
+I'm not allowed to talk about it until they finish what they're doing.
+So I can't speculate.
+I can't talk in my sleep on this one.
+First, you had mentioned, obviously the Illinois relationship.
+I'm curious if you could just talk about the feedback so far from the customer regarding the platform.
+Well, the issue that we've got right now around here is that, we're in the process of negotiating with them.
+I mean, clearly, they were very excited about it because we went through the present -- the RFP.
+We went through the orals with them and we've had conversations.
+I mean, this is what they need and it's a solid platform that we think we'll be able to use in many locations.
+But beyond that, there's really not a lot I can tell you 'til we finalize our discussion with them.
+But then given you're developing this platform that they're going to use, once you do move into contracts, will you still have the typical startup costs that you see in the state.
+Or does this kind of take care of some of those startup costs.
+<UNK>, this is Steve.
+Certainly, we're going to have incremental startup costs beyond what we're spending right now.
+We are building the licensing and permitting platform that we will ultimately use in Illinois, but we're also going to use in at least one other state to replace a legacy system and potentially in a couple of other states.
+But certainly, once we sign a contract, we will then have some incremental spend for folks that will be dedicated to Illinois.
+So yes, we'll also have kind of some of the typical startup in terms of staffing up a local team for Illinois.
+Great.
+And then congrats with Booz <UNK> behind you, I know that process is super frustrating.
+And I won't ask any numbers questions.
+But you mentioned, October '18 is the launch.
+I'm curious, is it possible that you can recognize revenue before the launch.
+Or is that whenever it launches at the first time you might generate revenue on that contract.
+Again, I can't even speak to this.
+I'm not allowed to speak of this until -- and you can understand that, I've got restrictions from Booz <UNK>, I've got restrictions from the federal agency.
+I mean until we get through this, I am just prohibited from talking.
+Okay.
+On the Tennessee revenue, can you tell us where that was, is that IGS, DHR or something else so we can kind of think about where the revenues can come out of in the second quarter.
+Can you remind us.
+It's a little bit of both.
+I would say, that it's a combination of DHR and IGS, and a little bit of software development kind of project management in total.
+Okay.
+And then finally, every quarter, I'll ask it for many years now, obviously, just curious if there are any new RFPs that are in the pipeline right now.
+No.
+There's no RFPs that are in the pipeline right now.
+I mean, we're having great conversations across the country, but that's where it stands.
+So I guess, more specifically, there are no RFPs on the street today that are -- I just want to clarify whether it's in.
+Well, we -- Joe, we haven't yet kind of provided guidance there yet simply because, again, we haven't signed our contract there.
+In our current guidance, we are projecting for the year about $2.5 million to build out that licensing and permitting platform that's going to be used there and in other states.
+But we haven't yet provided guidance.
+And there is no startup expense -- incremental startup expense in our guidance at the current time for Illinois.
+Yes, I'll answer that, this is <UNK>.
+Couple of things, #1, don\xe2\x80\x99t take the fact that there is not an RFP on the street as if there is not a pipeline active and that we are not working numerous opportunities out there, okay.
+So I just want to dispel that a little bit.
+We're in great conversations, several places across the country.
+M&A is a great question, and it's one I get, as you imagine, on a regular basis.
+We constantly are evaluating opportunities that are out there.
+Things that we think can either bring value to NIC with -- whether that'd be a technology we don't have, whether that'd be contract vehicles that we can find value in, whether that brings a revenue source for us.
+We always said we wouldn't grow our company by acquisition otherwise acquiring just to get some of this revenue because you end up chasing your tail when you do that.
+But we're always constantly evaluating what's out there, as you can imagine, people knock on our door a lot, and we get to see what's out there and see whether it fits or not.
+And so I can't say that there is something that we're actively looking at, I can't say that there's not.
+But what I can tell you, it is on our radar and we've made no (inaudible) about it.
+If we find the right opportunity, we do have the cash and the ability -- we're debt-free, and the ability to borrow money for that.
+But it has to be the right opportunity.
+Yes, I mean, I think a tax rate going forward like that for the rest of year is certainly fine and conservative, in that when we estimate our tax rate for the year, certainly when we did that in our guidance, we didn't take into consideration kind of some of these windfall tax benefits that we incurred here in the first quarter.
+But going forward, I think it's probably going to be closer to that rate than where we are today.
+Yes.
+Absolutely and we have mentioned that in our last call, I mean, we expect, this is going to be a 15-month startup phase-in period on this deal.
+So yes, we expect to incur startup expenses probably over little bit longer time period than we normally do for a typical portal opportunity.
+Well, as we go into the states where we are already partners, this is a platform that we're able to bring in and then start layering on top of that services.
+So we can get it out to more individuals and it'd be a more proactive manner of doing digital government.
+If we go into non-NIC states that something we'd have to consider.
+Yes, I mean, I would say that as we continue to build out the licensing and permitting platform in Gov2Go, we may see a modest progression in expenses over the rest of the year.
+But they weren't in terms of where we kind of planned them to be for the first quarter, I think we're in pretty good shape.
+Yes.
+So, <UNK>, this is Steve.
+We began recognizing that deduction in the third quarter of 2016.
+So we might see a little year-over-year benefit in terms of a lower rate because of that for certainly this first quarter and the next quarter in the second quarter.
+But then we should kind of catch up on a year-over-year basis beginning in the third quarter.
+Sure, no.
+I think what we said or what we certainly intended to say, was that kind of beginning in the second quarter, we expect to incur at least $300,000 a quarter for the rest of this year to build out the system.
+I think there is, we're targeting a pilot launch in mid-2018 and for launch shortly thereafter probably in the second half sometime in 2018.
+You there, <UNK>.
+Thank you, and thank you to everyone, who joined us this afternoon.
+We're excited to be celebrating our 25th anniversary this year.
+And during our 2017 Annual Stockholder Meeting tomorrow at 10:00 a.
+m.
+Central Time, I will share more about our plan to continue to lead the digital government services industry for another 25, 50, even 75 years or more into the future.
+We hope that all of our stockholders and investors will join the webcast by visiting the Investor Relations page of our website at egov.com or even better, come join us.
+We'll be at the Olathe Convention Center in Olathe, Kansas, just a couple of miles down the road from our Corporate Headquarters.
+With that, thank you very much.
+Look forward to seeing you tomorrow.

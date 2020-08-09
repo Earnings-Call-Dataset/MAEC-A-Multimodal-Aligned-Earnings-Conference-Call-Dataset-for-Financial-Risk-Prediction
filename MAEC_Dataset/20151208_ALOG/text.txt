@@ -1,0 +1,167 @@
+Good afternoon and welcome to Analogic Corporation's first quarter for FY16.
+The following corporate officers are present: Mr.
+<UNK> <UNK>, President and CEO; Mr.
+<UNK> <UNK>, Senior Vice President, CFO, and Treasurer; Mr.
+Michael <UNK>, Vice President and Corporate Controller; and Mr.
+Fry, Senior Vice President, General Counsel.
+I'd like to remind everyone that a supplementary presentation will be used during today's call.
+If you've not already downloaded the presentation, you can do so at any time at investor.
+Analogic.com.
+The presentation will remain available until <UNK>uary 8, 2016.
+Now, I'd like to turn the call over to <UNK> <UNK>, Head of Investor Relations.
+Good afternoon, everyone.
+Welcome to Analogic's first quarter conference call for FY16.
+Earlier today, after the market closed, we issued a press release describing the financial results for our first quarter.
+If you have not yet downloaded the press release, you can do so via our website at investor.
+Analogic.com.
+Before we review the quarter, I would like to remind everyone that today's call may include forward-looking statements such as comments about our plans, expectations, and projections.
+For more information on risks and other factors that could cause our actual results to differ significantly from our forward-looking statements, please refer to our most recent Form 10-K and 10-Q reports on file with the SEC.
+Also on today's call, we will be discussing certain financial measures not prepared in accordance with Generally Accepted Accounting Principles, or GAAP.
+We believe that using non-GAAP metrics provide investors a more thorough understanding of our business.
+An explanation and a reconciliation of our non-GAAP financial measures are provided at the end of the presentation, and in our first-quarter press release.
+And now, I'd like to turn the call over to <UNK> <UNK>.
+Thanks, <UNK>.
+First of all, I'd like to welcome <UNK> <UNK>, our new CFO.
+<UNK>'s extensive background and experience will help us achieve our goals and create value for our Company, and our customers, and our shareholders.
+<UNK>, it's great to have you on board.
+Now let's move to slide 4 of the presentation.
+Revenue came in at $115 million, that's down 3% from last year, and 2% on a constant currency basis.
+Gross margin was 44%, flat from last year, and includes a currency impact of 1 point.
+GAAP operating margin was 2%, that's down 2 points.
+Non-GAAP operating margin came in at 8%, that's down 1 point.
+Our GAAP EPS measured $0.11, that's down $0.18, and includes $3.3 million, or $0.26, from restructuring on a pretax basis.
+And our non-GAAP EPS came in at $0.55, that's down $0.08 from last year.
+So if we move to slide 5, take a look at our segment highlights.
+Medical Imaging revenue was down 3% year on year.
+CT and MR were down somewhat on timing of shipments in the quarter.
+We saw solid growth in our private label CT shipments to China, and mammography saw double-digit growth, driven by new Chinese customers.
+Our ultrasound revenue declined 3% in the quarter, and was essentially flat on a constant currency basis.
+We launched and started selling our flagship bk5000 into surgery, and we introduced the bk3500 into the point of care markets of anesthesia and emergency medicine.
+Emerging markets were up, offset by some seasonality in North America, and Europe was down on currency.
+Legacy OEM probes were down, as we see certain older probes aging out, or becoming obsolete.
+Our ultrasound technology partnership is starting to build demand, with a major launch at RSNA that will help us expand our market opportunity into general imaging.
+The Sonic Window is now in clinical testing, with multiple leading dialysis players.
+Security and Detection was down 3% compared to prior year.
+Medium speed shipments slowed in the quarter.
+We continue to see consistent demand in the high speed area.
+And in Rapid DNA, the payment delays did impact some revenue recognition.
+Now, as you might know, <UNK> <UNK> joined Analogic last week.
+I'd like to give <UNK> an opportunity to say a few words before we turn the call over to <UNK> <UNK>, who has stood in as our Interim CFO during the search process.
+Thanks, and <UNK>.
+Thanks, <UNK>.
+First, it's great to be here.
+Secondly, I want to provide background for those of you not familiar with me, as well as discuss the major reasons I made a move to Analogic.
+My career started with GE, where I was exposed to multiple businesses, including GE's diagnostic imaging business, as well as GE Capital.
+I also had assignments in multiple geographic locations, including stints in Asia and Europe.
+My GE experience provided a solid financial and operational foundation, as well as demonstrated the benefit that strong leadership in finance and accounting can bring to a business.
+After GE, I moved into a variety of healthcare roles, starting with Smith & Nephew's sports medicine business, where I led the accounting team, and helped significantly increase their global presence, as well as grew their capital equipment platforms through innovative financial service product offerings.
+I moved to my first public CFO role at AMRI in 2004, which is a global provider of contract research and manufacturing services to biotech and pharmaceutical companies.
+At AMRI, I helped create their global footprint, particularly in Asia, and leading the Corporate Development efforts of the Company.
+My last role was at AngioDynamics, which is a leading provider of products relating to image guided procedures in the vascular and oncology space.
+Career changes are difficult choices, but in this case after meeting <UNK> and his executive team, it was an easy decision, as it was clear that <UNK> had built a high powered team, which has prepared to drive Analogic to another level of performance.
+In addition, my desire was to be in a business focused on growth.
+But you also need a strong balance sheet, robust product pipeline, and Board support to make this a reality.
+I think all of these ingredients are in place here.
+Another important element for me is being in a global Company, as this provides further opportunities for growth.
+In the end, all these factors made it the right choice to make a change to Analogic.
+Now, philosophically, I will continue the approach I have taken over the last decade, which is to be direct, transparent, and approachable.
+I look forward to continuing my relationships with many of you I already know, and building new relationships.
+I'll now turn the call over to <UNK> <UNK>, who has done an excellent job over the last seven months as acting CFO.
+In view I've been in the role one week, it makes more sense for <UNK> to walk you through the financial results.
+<UNK>.
+Well <UNK>, I mean <UNK>, sorry, this is <UNK>.
+At this point, we've certainly, I'd like to see us get the BK inquiry really behind us, all-in, get it all behind us.
+But given that we're in discussions, really I think we just have to -- I just have to leave it with what we said so far.
+We have outlined what we've heard from the US government, and at this point, we just need to work through, and again, try to get this whole thing behind us.
+Well I think, if I look back to what -- we expected that the probe, the legacy probe revenues to end up somewhere around in the mid to low teens of the ultrasound total segment.
+At this point and even one of the reasons we came out and talked about it early is that, at this point, we're thinking it's probably going to end up more like around 10% of that total segment.
+And in the longer run, we probably would have thought it would get to about that level, and it's hard to call timing on that.
+So at this point, we see that happening this year, as we come down, as we get through the year, we think we'll settle out at about 10% or so, roughly speaking of that segment.
+And it is going to be a bit of a head wind here over the next couple -- three quarters, but at that point, we think that we expect it to annualize and run at that normalized lower rate.
+Yes, I think that it was pretty much in line.
+I tried to signal that a quarter ago, because we knew that we were taking all the sales reps in, and going through the training, and launching the products.
+And Q1 is typically a lower seasonal quarter for us.
+But with the launch of multiple products across these segments, we expected that it will take -- that the quarter will be a little light, and we would start to see things ramp up as we got through the end of the year.
+Certainly, we see the biggest, the flagship 5000 is on certainly on schedule, it's launching, we're already selling it.
+Really excited about it.
+The point of care product, we see that really now starting to launch in Q3.
+And then you look at the relationship -- the technology relationship with Carestream.
+we see that starting to pick up and really starting to layer on a lot more incremental growth, and that really starting to add, as we get into Q3 and Q4, but what we certainly expect to see some of that in Q2 also.
+But as far as your question, I don't think we were really far off what we expected in this segment.
+Where we were certainly a little further off would be in the timing on the probes coming down, and its headwind effect on us.
+Well I mean, I think they are both good news stories in mammography.
+There is no question getting some of the new incremental customers in the growing China market is really good news for us.
+And it is combined with Siemens, and their approval in the US, and both sides taking, helping us see improvement in growth.
+You know what.
+The way we, I think, have to report, is what the actions themselves in a vacuum do, as far as the cost and the savings.
+But certainly, what I try to give you a look at the next year and outlooks is, we put all that together, because there's other -- certainly some of those positions will backfill maybe in different places.
+Like <UNK> said, we did have some additional people take the voluntary retirement.
+And overall, we think that's good -- good for people to have the opportunity to be able to successfully go into retirement.
+But some of those are positions that we're going to have to backfill.
+So we wouldn't expect that to drop to the bottom line, but when you put it all together, certainly, it's a part of why we expect to continue to drive margin expansion in the business.
+And <UNK>, I would also add, I think it's worth saying, you brought up the probes question, and the fact that it's not really in many ways in my mind, in our minds, considered strategic.
+Because it really is, as we get some of these older products, part of our natural cycle is that as items, as they get to a certain age, some of these are things that have been in production for ten or more years.
+And you do expect them to age out and obsolete.
+They are certainly much lower, as far as your gross margin contribution.
+We're more than replacing that revenue with much more quality revenue at the top line, with our branded products.
+So I don't want to lose sight of the fact that in the long run, this is a very good and healthy transition of the mix.
+Thanks, <UNK>.
+You mean on the legacy OEM probes, that is what you're talking about, in the ultrasound segment.
+We don't expect that to go to zero.
+But our strategy over the last couple years has been to really focus on what drives growth in our branded direct business, and to look at the probes on the OEM side, to be things that we would typically do if we were already doing it.
+So if we're already doing it and there's an opportunity to help absorb some overhead and sell-through to some other OEM customers, then we're interested doing it.
+And I said, I expect that to settle out somewhere around that 10% region, which is really not far off of where we see it ending up this year.
+So that's why we don't see it being a further head wind, but in this year, it is a head wind for us.
+Sure.
+Right.
+Well if you think about the Rapid DNA product lines, the product sells to, primarily today, it's selling primarily through our OEM customer, NetBio, to governments, to government agencies.
+It's not being sold in high volume, because it was never expected that portion would be high volume.
+That's going to the Department of Defense and entities that are going to take this product overseas and so on.
+The bigger markets and secondary -- or not secondary, but the primary growth opportunity that we saw with this is in law enforcement, which would be to police departments, and the FBI, and in the law enforcement space in the US and around the world.
+But now that's being, we knew it was going to be held up through this process of the testing and validation and so on.
+So at this point in time, the revenue and the shipments are associated almost primarily with governmental agencies.
+So with a Company that's new and somewhat thinly capitalized, we have to be fairly conservative on the revenue recognition side of things.
+And so what we've done is we've shipped units to really help them develop this market, and to really safely grow and to become a viable Company, but because of that, we're not able to accept or recognize revenue on it.
+However we do have to recognize the cost on those units going out.
+That's just the process and the accounting rules on something like that.
+We think in the longer run that revenue segment on its own will certainly correct itself, and be fine as they get -- build their working capital and they start to see more growth, and the time reduces for them to get paid by their big governmental customers.
+And then in time that really helps fundamentally underpin the business.
+But then the real opportunity comes as the FBI completes their testing, and they are able to then sell to states, and so on.
+So that's again a longer time constant, but I know, it's a mouthful but that's where it is.
+I'm trying to predict the governmental testing, and when they are able to actually say something.
+I don't know, it's certainly not a science, and I don't even know if it's an art.
+But we expect that the product will pass.
+We expect that we'll hear from the FBI, and they will hear from the FBI as far as validating the product, is appropriate for our use with their databases.
+The other thing that still has to happen is there's a law in Congress right now, that will enable states to purchase the -- and use this type of equipment in the state labs and other law enforcement applications.
+So that's going to take -- that we do expect to take a little more time, too.
+That operates on a fairly long cycle.
+Just to clear that up.
+Last year, we saw about $6 million worth of shipments, but we only recognized about $3 million or so in revenue.
+So for last year, there was like $3 million in revenue, $6 million in shipments.
+This year, it's hard for me to predict, because I can't really predict exactly how they are going to be on their financing side, and so on.
+And if they are able to pick up financing, or if we see the natural business itself was able to build up working capital as we expected to, then we'll start to see more cash flow from that.
+But at this point, we are not, I don't necessarily have a high expectation in this year.
+I expect that there's going to be some continued delays, at least early in the year, and when we know more, we'll tell you more.
+Well, we've watched the tenders as they come, and as they are able to talk about, somebody wins a tender and they go public with it, that's when we can talk about it.
+There's certainly a long list of airports that are in that process of testing, and deciding which Company they want to go with for these kinds of technologies, and which kind of technology they are going to use.
+So I don't know that I can say much more than that.
+We try and look at what do we forecast that to mean to us, and build that into what we say.
+But again, it's very difficult to say, based on some of these airports, by very large numbers of pieces of equipment.
+And whether we win -- we certainly expect to win a nice portion of those, but it's really difficult to say how much we should expect to win, and to put into our numbers.
+That's partly why it's lumpy and very hard to forecast.
+But at the end of the day, there's certainly a lot happening there, and we feel like we're well-positioned for it.
+Yes, what we've said and as we look to the large OEM customers that we work with, and we listen to their calls and we see how they're doing in the shorter term, and we hear what they are saying in the longer term.
+There's an expectation now that in the US, the fundamental procedure demand is out-growing the capacity of the equipment.
+So we think that the US will start to see some uptick.
+There's different predictions, but they tend at this point to be fairly conservative, in the low single digit growth.
+We do, given that we also sell direct to a lot of these large customers, we all tend to have an indication that there's some pent-up demand, the equipment has gotten older, people haven't replaced us.
+So we think that's going to, at least the insurance seems to is have settled down with Obamacare and such, that we think the US will start to get on more of a normalized track.
+Europe seems to be stable.
+And Asia, as we know, the growth vector has been coming down, but it's still, there's still growth there.
+And we do expect that we're going to see a change in the mix there of the kind of companies getting a lot of that business.
+And we feel that in China, there's a lot of opportunity for a small number of rural, or should I say local customers who are developing and working to get into these markets.
+And these are companies that we feel we're pretty well positioned with, and we'll see the upside of that.
+But at the same time, there will be some mix shift there, we think, from some of the large OEMs, multinationals to a small number of local players, that we think will do pretty well there.
+So all said and done, the fundamentals of the worldwide market, we think we'll start to see that move back to at least a low single digit growth, as we just in general as we start to look out a little ways.
+Well thank you for your interest in Analogic, and we'll invite you to come and call back in March when we review our second quarter FY16 results.
+Thanks again, and have a good evening.

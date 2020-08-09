@@ -1,0 +1,144 @@
+Good morning, everyone, and thank you for joining us on the call today
+We are pleased to have you with us to review our first quarter results
+As today's release detailed, we had a solid quarter operationally and financially with strong top-line growth and outstanding cash generation
+I would like to take this opportunity to thank our team for their continuing efforts, as we focus the corporation on growth, successfully delivering solutions to customers and value to stockholders
+While <UNK> will cover the financial results in detail a little later, I wanted to touch on several highlights for this quarter
+First, our operating profit and earnings per share were negatively impacted by two earnings adjustments that I will comment on in a minute
+Our EPS of $2.61 equaled that of last year; however, our EPS would have been $3 per share without these adjustments
+Second, our cash from operations was strong in the quarter and we increased our outlook for the year
+And lastly, we returned over $1 billion to stockholders in the form of dividends and stock repurchases
+I'd like to take a moment to comment on the two earnings adjustments that occurred this quarter, which caused an unanticipated negative impact to operating profit and EPS
+The first was a charge associated with an international C4I contract to produce the world's first end-to-end integrated air and missile defense system
+Our solution to date has proven to be less mature than needed for this highly complex effort and we are working with the customer to fulfill their requirements
+We do believe, however, that once completed, this system has the potential to bring these uniquely integrated capabilities to other customers around the world
+The second item is a non-cash impairment charge related to an international joint venture in which we participate
+During the first quarter, the venture in which we own a minority interest, determined that reduced business prospects required it to impair certain assets
+As a consequence, we recorded our proportionate share and this resulted in the other charge you saw in our earnings release today
+Finally, I am pleased to report that during the first quarter, we were able to arrive at an overall economic agreement for F-35 LRIPs 9 through 11, that allowed us to accept the unilateral pricing for LRIP 9, complete negotiations for LRIP 10 and establish cash payment terms for all three lots that were improvements over previous positions
+It was the overall bundling of economic considerations and resulting improved cash terms that enabled us to increase our cash outlook for the year that you saw in our earnings release
+We will continue our strong emphasis on growth, cash generation and shareholder-friendly actions as our business areas continue to provide products and services that are in great demand by our customers
+Before discussing operational highlights from our business areas this quarter, I'd like to outline the status of DOD budgets
+At this time, government spending remains limited by the continuing resolution that is set to expire on April 28. As you know, the continuing resolution, or CR, limits funding to prior year's levels and prohibits new programs from starting
+Discussions are underway to extend the CR as Congress continues to debate the regular appropriations bills
+We are hopeful that these discussions result in an approved FY 2017 Defense Appropriations Act as we feel a further lack of budget clarity could have longer-term consequences for our armed forces and our industry
+And we continue to urge our country's leadership to reach an agreement
+There are however, several encouraging indications that our nation's leaders are aligned with the need for a focus on defense spending
+First, the House recently passed the FY 2017 appropriations bill, and it is currently residing with the Senate
+This bill, which is in compliance with the Bipartisan Budget Act of 2015, also supports vital equipment procurement, with increased spending called out for BLACK HAWK helicopters, as well as additional F-35s
+Similarly, we are pleased to see President Trump's 2017 supplemental defense appropriations submission and the administration's initial FY 2018 budget outline, or skinny budget; both request funds in excess of the Budget Control Act caps
+Last month, I attended the Munich Security Conference, where well-respected leaders from the U.S
+and participating countries echoed the theme that the international security environment has become increasingly more volatile
+Recent events around the world have only served to confirm this sentiment
+We, as a nation, need to recognize these threats and provide our military leaders relief from current budgetary constraints and allow them to address the challenges they face in defense of our country and our citizens
+We remain hopeful that progress will continue to be made in this area, and upcoming legislation will include the increases necessary to continue to equip and maintain our fighting forces
+Moving to operations, the quarter contained multiple mission success events, and I'd like to feature one each from our Aeronautics, Missiles and Fire Control, and Rotary and Mission Systems business areas
+As some of you may know, this past February, the U.S
+Air Force held their premier air combat exercise, Red Flag, at Nellis Air Force Base outside Las Vegas, Nevada
+This year's training event featured, for the first time, the F-35A conventional takeoff and landing, or CTOL, variant, which was placed into service following its successful initial operating capability declaration in August of 2016. After flying over 207 sorties, the fleet of 13 F-35A jets posted an impressive success rate of 20 to 1 against the highest level threats known in the simulated contested environment
+Just as importantly, the aircraft's stealth capability and electronic warfare suite allowed it to eliminate ground-based surface-to-air missile installations, effectively securing the battle space and providing unparalleled situational awareness
+In addition, the F-35 flew alongside the F-22 Raptor and joint and coalition forces, including participants from the Royal Australian Air Force and the United Kingdom's RAF, demonstrating the important interoperability this generation platform provides
+Lastly, and just as significantly, the CTOL jet excelled in the maintenance aspect of the exercise
+The F-35 and its Autonomic Logistics Information System, or ALIS, proved to be a highly reliable weapon system, achieving a mission capable rate well above 90%, and far surpassing legacy aircraft averages of 70% to 85% availability during the high ops tempo environment of Red Flag, a design quality that has been recognized by users as a true differentiator of this product
+We believe the success of this event continues to highlight the unprecedented abilities of the F-35, and we are proud to produce the most capable and reliable aircraft in the world
+Turning to our Missiles and Fire Control business area, I'd like to highlight a noteworthy milestone that occurred this quarter
+Last month, we were honored to have our long range anti-ship missile, or LRASM, selected as the Aviation Week Laureate Award winner in the Defense category for its technical achievements in meeting an urgent operational need of our warfighters
+LRASM is a precision-guided, anti-ship standoff missile based on the Extended Range version of our Joint Air-to-Surface Standoff Missile, or JASSM-ER variant
+LRASM is currently being developed and integrated for operational capability on Navy and Air Force platforms
+Also, in collaboration with our Rotary and Mission Systems business area and their vertical launch system technology, our Missiles and Fire Control team initiated development with our own investment funding of an innovative surface launch solution that can be deployed from ships at sea, providing the U.S
+Navy with new anti-surface warfare capability as part of their distributed lethality concept
+We were pleased with this award recognition and with our ability to continue to bring our company's capabilities and collaboration to bear for our customers and warfighters
+Finally, just a few weeks ago, in our Rotary and Mission Systems business area, our Sikorsky CH-53K King Stallion heavy lift helicopter, received an affirmative Milestone C decision from the Defense Acquisition Board and will now enter the low rate initial production phase of the program
+This Milestone C decision comes less than 18 months after the CH-53K made its first flight, a remarkable accomplishment for this aircraft, with its unmatched payload capability and modern avionics
+I'll now turn the call over to <UNK> to review our first quarter financial performance in more detail, and then we'll open up the line for your questions
+Good morning
+So, Doug, just on a continuing resolution, we wouldn't expect any impact on F-35. That, as you know, is a long-cycled business
+The contracts that we're performing on were some time ago
+So with – the CR effects are not being able to add new contracts at this point
+So the program that we're producing on today is not impacted by the CR
+I'll let <UNK> pick up the question on margins
+And the PAO tubes issue is behind us now
+We have modified all the aircraft
+Sure, <UNK>
+Thanks for the question
+Just starting off with F-35, if you just look at the ramp-up on that program, it's very significant over the next few years
+And when we get to full rate production, we'll probably be delivering roughly 200 aircraft a year
+So, that's a big opportunity
+The next five years, we think about 50% of the orders will be in the international marketplace
+We're continuing to see additional interest from a lot of countries around the F-35 that are currently not in the program of record, so we expect that over the next few to several years, that we'll continue to see additional countries that will become buyers of the F-35. In the area of missile defense, that continues to be a great demand for us internationally
+You mentioned Aegis and PAC-3, also THAAD is another one that we expect
+Areas like in the Middle East, we expect that there we will continue to see opportunities
+You've probably seen that there was a notification on Qatar and we think some other countries in that region will also be considering THAAD as we go forward
+And then beyond that, Aegis, as we've sold some systems on Aegis, we'll continue to see opportunities for, potentially, for Aegis Ashore, which is the land-based Aegis and we continue to sell PAC-3s
+So, in the missile defense arena, PAC-3 MSE, the extended range, we expect we'll continue to see strong demand
+And then there is MEADS
+Germany has already selected MEADS, the Medium Extended Air Defense System, and we're moving forward on that
+We expect to get underway this year with a contract with them – or late this year, and we'll see other countries; watch that space
+We've had interest from Poland and others
+And then, continuing on the international front, F-16, as you've probably seen, there has been an informal Congressional notification for selling F-16s to Bahrain, up to 19 or 20 aircraft
+And we continue to be looking at the opportunity for selling F-16s to India, which could be a much bigger buy by India over time, as they move through their process
+So, and then F-16 upgrades, we were doing from South Korea, Taiwan, Singapore, and others that have made a selection on that
+We think, with that large fleet that's out there, that we'll continue to see other countries that will look at F-16 upgrades
+So on the aircraft front and the missile defense front, continuing opportunities
+And beyond that, I mentioned LRASM in my discussion on the front end with my opening remarks
+We think there is a big opportunity for LRASM for the U.S
+government as we move forward
+We've sold JASSMs to other countries, so LRASM even could be a potential for international opportunities
+T-X and JSTARS are two bids that, this year, that we are participating in
+We think we have a very strong offering on T-X, the next trainer replacing the T-38, that capability we're offering is a T-50A, It's a very mature program that has low risk, and we can accelerate the schedule and meet the needs of the Air Force up to two years earlier than probably a clean sheet design could do, or maybe more
+So, we're very much ready with our offering on that; we expect to be very competitive in that opportunity
+JSTARS, we've got a great team pulled together on JSTARS as well, and we're bidding on that opportunity
+Future Vertical Lift is a little further out, but of course, we're in the demonstration phase, in the technical demonstration on that, and are teaming on that capability
+So, we expect to be in a good position for Future Vertical Lift as we go forward
+And then the Ground Based Strategic Deterrent, we will participate in that competition, and we think we have a strong offering and LRSO
+So, we are engaged in, not only our current portfolio that we believe is very strong and there is a strong demand for, but we are pursuing some big opportunities in other areas
+And I didn't mention our Space Systems area, but commercial satellites and the satellites for the military, as we continue to grow that portfolio as well
+So, I think I've kind of walked around the system
+I did mention C-130, I mean, there continues to be interest in the C-130 in countries like India and Saudi Arabia and France and Germany, and we hope to – we are currently on a multi-year with the U.S
+government, we would expect them to continue to purchase C-130s going forward
+And I think that – <UNK>, any others, maybe, you can add to that? I've kind of tried to walk around the portfolio
+We have a very broad portfolio, as you all know, and a very strong portfolio
+So, we're really pleased with how well it's supported in the current budget, and what's in the budget deliberations going forward for the U.S
+government
+But around the world, we've got great opportunities internationally
+Thanks, Rich
+Well, first off, yes, we are moving the line to Greenville, and let me just give a little background on that
+I think we've let you all know that we will be delivering our last F-16s off the line in Fort Worth later this year, and then actually, the line will stop for a period of time
+It was important for us to continue to look at restarting that line
+We know how to do that, we have a robust supply chain that has been able to increase and decrease over the life of the F-16, and deal with changes in quantities, and we're ready to restart that line
+The reason we're moving to Greenville is, we're ramping up production on the F-35 in Forth Worth, we need the facilities there for what we're doing
+Greenville is a great operation that has a strong talent and good facilities there
+So, it will be a final assembly and check-out facility for the F-16 there, it's just – we basically produce the aircraft through our supply chain elements of it, and we will assemble it there and deliver it from Greenville
+And we're excited about that, it's a – we've also selected Greenville as our site for producing the final assembly of the T-X, of our trainer opportunity as well, the T-50A, so – and we have demonstrated the capability for doing fighters in that facility, so we're excited about it being the place for the future F-16s
+In terms of it being this year, for Bahrain, getting an order this year, we feel good about it, but it's really government to government, so we'll have to go through the finishing up on the formal congressional notification and get an order underway
+And we look forward to that opportunity
+We're very encouraged by that, and we would produce those in Greenville for that reason
+In terms of the F-16 SLEP, the Service Life Extension Program, we were pleased to see that the F-16 was designated to have an extended useful life
+It has been a strong program for us, and so we continue, as I said, to do upgrades around the world, so that airframe and its capability, it has demonstrated it can fly many more hours and that will open the opportunity for putting new systems on it, new weapons systems, new mission systems and radars and things of that nature
+So we see that as a very positive for that fleet, for it to continue to serve our customers, not only U.S
+Air Force, but customers around the world for many, many years to come
+So, <UNK>, maybe I'll take the JV, and then let <UNK> pickup on the AWE and <UNK> you can fill anything more on that
+The JV itself, as I mentioned in my opening remarks, this is a non-cash impairment charge
+And we are actually a minority interest in this JV
+Back in the mid to late 2000s, the UAE was looking for U.S
+partners that would help them to develop their fixed wing and rotary wing sustainment capabilities so that they could support their aircraft in-country and look at broadly supporting beyond the UAE, other countries' aircraft
+And we entered in this joint venture in 2010. At the time, we were a 20% owner in it from a Lockheed Martin standpoint, Sikorsky was a 20% owner, and the UAE entity had 60%
+Of course, when we acquired Sikorsky in 2015, that increased our position
+So, we are a 40% owner in the joint venture
+The joint venture has been successful
+It's been a good joint venture, it's got about 4,000 employees, sales of about $1.5 billion a year
+It's been very profitable every year with equity earnings that come back to us through Sikorsky and now to us, both our share and Sikorsky's share
+And it's generated to offset credits for us that have satisfied a lot of obligations for us for the programs that we have in country
+So from that standpoint, it's successful
+The ambition, though, for that entity is for it to grow regionally and become a sustainment center for the region
+And so facilities were built and machinery and equipment procured in order to prepare for growing beyond just the UAE market
+And unfortunately those projections haven't materialized
+The fact that oil prices have been lower has not helped matters, but it's been a damper on what the outlook was for it
+So, the charge basically recognizes the diminished value of those assets and the lower demand environment
+We still have aspirations for that entity, and hopefully, we will see longer term that outlook
+But as we looked at it today, the reduced business prospects, the entity determined that they needed to impair certain assets, and so that's what we dealt with
+So, let me wrap up
+Since that was our last question, I want to conclude the call today
+And I'll end by reinforcing our commitment to our strategy of growth in top-line sales and strong cash generation while at the same time providing our customers with world-class solutions to their continuous challenges and delivering our stockholders long-term value creation
+Thank you again for joining us on the call today
+We look forward to speaking to you on the next earnings call in July
+Karen, that concludes our call today

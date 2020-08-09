@@ -1,0 +1,205 @@
+So let me -- I think I understood the question to be maybe two-part.
+One is just the overall merchant acquiring appetite for devices in North America, and the second one may have to do with some of our new products like Carbon.
+So in general, I think the merchant acquiring space, especially that catering to the small and medium business, is sitting on, still, too much inventory.
+They need to work through that inventory, as we've seen small and medium businesses, really take a pause when Visa and MasterCard and others extended the EMV deadline.
+So that is still very much with us.
+It is getting worked through, but that does impact our volumes and sales to North America merchant acquirers.
+Now, having set that had, I will tell you that it's clear to me that merchant acquirers in North America are among the most advanced in the world.
+They are looking very hard at long-term business models, and devices, and services around those devices are very much in their roadmaps, and they want to use these devices to differentiate themselves.
+They want to not only process a payment and accept a card, but they also equally want to be able to help the business run itself better.
+And that's where you see devices like Carbon becoming very interesting.
+And the thing about Carbon that is so appealing to acquirers, is that it's not -- it is not a platform where the acquirer has to spend a lot of time on hardware.
+It is really a platform that's all about software.
+It's about the ability to create consumer experiences, and the ability to help their merchants run their businesses.
+And it happens to be delivered through our devices and through our gateways.
+But a lot of interest, clearly early days because all acquirers have to test and pilot and debate what they really want versus what we have, and so forth, but I feel good about the trends I'm seeing.
+Say, <UNK>, this is <UNK>, how are you.
+I didn't get part of your question, but I do think I could -- I got the gist of it.
+If I missed it feel free to double right back.
+The margins in this quarter were definitely as a result of the mix, and as a result of the lower volume to a degree, although, as you see, the margins for the hardware business, or systems business were up sequentially.
+I do expect that the geographic mix will be slightly positive in Q2, so I see that perhaps trending up just a little bit in Q2.
+The story about the second half is really about three or four items that I mentioned on the call.
+We're still in early days with our new product introduction aspirations.
+We had said previously, and we still stay to a 5% to 10% revenue number of new products, that's relative to the systems solutions business.
+So the new products do carry improved costs, bill of materials and structure, so that will be helpful.
+The revenue leverage that we get in the second half will be helpful, as well.
+And the general mix, although I'm still excited about the progression in Asia, we do see some of the more mature markets that carry higher than the average corporate gross margins increasing, as well.
+And, of course, there will be continued supply chain optimization around procurements and the like.
+So when I look at the balance in the first half, there are four or so initiatives for just that, effects from the new product launches, that give us confidence on the accretion and the gross margin in the second half.
+Yes, again, when you ask questions, I'm sorry to ask this, but could you speak up a little bit.
+For whatever reason it is a bit hard to hear.
+I think the question was around China.
+I think the question was around what we're seeing in our China business, the growth trajectories and how we're doing on tenders.
+Is that correct.
+Super.
+We continue to invest in China.
+I think we have been very consistent.
+It is a long-term investment.
+China is a very unique market, and we're very pleased with the progress we've made.
+As you know, we hired a gentleman who was the one of the original CEOs of PAX to help us build the China business.
+He has done a fabulous job thus far.
+The China market is an $800 million terminal market.
+It is absolutely slowing in terms of its rate of growth.
+Back in 2014 the market was growing at almost 40%.
+I think it's going to be down to sort of a 20%ish rate for 2017.
+We have had to absolutely redefine our product family, our terminal family, for the China market.
+Trying to sell a global Verifone device in China is not -- is not something that could be done today.
+It just doesn't fit the specific needs of that market anymore.
+And so we've developed our family of products.
+We have now gone into tenders with the big five banks, and done well.
+We have done well with UMS. We're just starting now to look at the ISO community, which is the SMB market, but we are absolutely going to have significant growth in China year-over-year.
+Mind you, we're starting off a small base, but nevertheless, it's important that the trajectory is there and we're learning a tremendous amount about supply chains, a tremendous amount about operating systems that the Chinese have favored, and it's been thus far a very good experience for Verifone.
+<UNK>, this is <UNK>, thanks for the question.
+We view the North America SMB inventory to be a little bit more than a quarter, probably maybe three, perhaps, four months worth of inventory, based upon our information, and the sell-out that we're now seeing the run rates.
+So, we're looking at something perhaps flattish, again, in the SMB market in Q2, and then we start to see it picking up in Q3 and Q4.
+Thanks for the question.
+I absolutely expect that we will move fast enough to not only maintain, but to grow share.
+I think in general, this is a pivotal year for us, no other way to put it, right.
+Our new next generation devices are the Company's future.
+And so those devices will have significant, significant need in the North America market.
+I think First Data and Clover and Square have done a phenomenal job of creating a new category.
+And it is a category that I think will have not just North America but global implications.
+Verifone's position in this space is, we are a scale player, far greater scale than those two in terms of our device footprint.
+And we will be using that scale to really, I think, accelerate the third-party development community's interaction with our platform and our devices, and the merchants and acquirers that we serve.
+I view this as an interoperable world.
+I view it as vertical applications that help merchants run their businesses.
+Should the application, should they choose to use on any hardware, right, so if we have a whole litany of third-party developers developing on Verifone platform, that should be able to be used by Clover and others.
+I think that is the way that we all help to grow our industry.
+And I, for one, am very excited about that.
+I think that in the overall hospitality space, which includes QSR and lodging and some others, really the biggest business is quick-service restaurants.
+It is where you're going to get the greatest volume.
+It is where you're going to get the greatest turn.
+The second biggest place likely is going to be pay at the table, and then lastly is lodging.
+So when Verifone looked at our product roadmap and our resource allocation, we first focused on the quick-service restaurants, and we've had wonderful success there.
+And we will continue to have wonderful success there.
+The second area that I mentioned, we're already in beta on pay at the table.
+I wish we could have moved faster, but I think we made the right resource allocation decision.
+We are absolutely focused on pay at the table and will continue to drive it.
+And then lastly in hospitality, lodging, we're making progress on lodging, that is a completely different animal.
+As a vertical it has some very specific software requirements, and so I think we're a little behind in that space, versus where I want to be, but we will catch up.
+Well I think maybe <UNK> and I are going to ham and egg this one.
+The petro business is a critically important business for us in North America.
+We have the number one franchise.
+We have some very talented people who run that for us.
+And so we continue to be a strategic partner, and in the room with clients as they work through their three- to five-year strategy.
+So we feel very connected to the space, and we continue to invest in it.
+The media spaces, is a completely different area of specialization, and of course, we got into petro media, petro -- and taxi, through, of course, acquisitions.
+Those areas were not core to Verifone.
+To be really successful in media, you have got to be night and day focused on it.
+You have to have the best talent, and you have to have the best ability to execute.
+And so I think what <UNK> and I realized over the last couple of years is, we've got good teams, but they're just not able to get the focus that they need to evolve the platform.
+We really got to know the GSTV people well.
+Obviously, we know Gilbarco well.
+This was very much a decision about how do you get the velocity back into this business.
+We're trying to create a new media segment, people don't wake up in the morning and say, oh, gee, I have to advertise on gas pumps.
+Right.
+You have to really educate and have the kind of statistics that you can show and demonstrate that four and a half minutes of a person's time while they're pumping the car can be very, very valuable.
+So that is why we decided to do this joint venture.
+We're going to have a combined total of over 100,000 screens, which is a tremendous scale in North America.
+It's going to cover all of the important DMAs, and then some.
+And we're going to get some revenue and cost synergies out of this combination, as you might expect.
+From a revenue perspective, we're not consolidating, so it's kind of a non-event.
+But it does give us a much better product for our petroleum clients.
+And for advertisers.
+And that together I think is a formula for building value.
+I would just add real briefly, <UNK>, I would just add from a forecasting and guidance perspective, particularly around the second half, we were thoughtful in terms of the revenue we had originally baked in to and for the petro media business.
+It is still, in many ways, in its early days given the rollout of the new screens, both our own and with our partner Gilbarco.
+So when we do the joint venture, those revenues will get incorporated inside the venture so they'll be out of our consolidated results.
+I mentioned earlier that the uplift in Asia, particularly around India will offset that, so we're comfortable with the overall guidance here.
+But as <UNK> mentioned, or states, it's absolutely the case that we expect the joint venture will provide, both revenue synergies and cost synergies over time that will improve the economic performance for Verifone's pump and media business.
+Yes, well, look, I think Brazil has been a complicated market since the day I got here.
+It's never as anyone predicts, to say the least, but we've got a very strong team in Brazil.
+We've got an excellent team in Latin America.
+They really have very good relationships.
+Most people don't realize that almost half of our business in Brazil is services business.
+It is not device business.
+And it's a business that I think is going through a lot of change.
+The two main acquirers are absolutely evaluating their strategy going forward.
+One is the kind of client base that they want.
+What services and things do they want to provide.
+And, I think that - obviously a lot of businesses have been closing in Brazil due to the economy.
+And so it's put stress on everybody.
+There have been some new entrants in Brazil, and working at scale.
+Some properties have changed hands.
+And so we're just adjusting and doing our level best.
+We have a good product portfolio that we are rolling into Brazil, over the next several years.
+We think it is the right portfolio and we're going to continue to build services.
+It's a -- Brazil takes up an enormous amount of time for our Latin America team as they try to think very carefully about what's going to happen next.
+And I was going to say, of course, as it should, right, <UNK>, given the size of the Brazil market to Latin America, it's more than 50% of our total Latin America business.
+When we look at and we forecast Brazil, despite what are definitely difficult economic conditions in that part of the world, that region, we still believe that we will be able to show flattish-type numbers, 2016 through 2017, perhaps a little bit more than that.
+And it's really on the back of not only the continued product launch around the new products, <UNK>, and the relationships with the two major acquires, but I think if you look at what has happened to Verifone over the last 12 months, our entree into the Tier 2 market, which we did not serve very effectively for many reasons, focus, et cetera, we have been able to pick up a significant amount of share from the Tier 2 players, for which we didn't participate in previously.
+It does ebb and flow quarter to quarter.
+Hopefully we have good enough visibility in 90 and 180 days to incorporate that up or downtick.
+But generally speaking it's a lot more balanced, I believe, for Verifone.
+I'm happy to give that a shot.
+It's clearly -- I talked about overall for the full year around 5% to 10% of our systems solutions business would incorporate our new products.
+So let's just, right down the middle there, so 7.5%.
+We've been in pilot everywhere.
+We talked about our success, particularly in India.
+You'll see more of that in Europe, in particular, in Q2.
+I see the - much of the ramp in Q3 and Q4, I would say probably, let's say 75% to 80% of the new product revenue that I spoke about will come in the second half, and Q4 being more than Q3.
+No, you're thinking about it right.
+The first and foremost, we were concerned about the quality of the product that we had.
+And what I mean by quality of the product, it's really a combination of not the hardware, but it is a combination of the actual platform and software that run the media loops on those devices.
+And so we really wanted to -- we really wanted to get a best in class solution.
+And so for us to have spent the money to get that best in class solution, would have been difficult.
+Furthermore, as I said, we wanted the very, very best people that have built these kinds of businesses, and so just looking at it objectively we sat with our team, we sat with the GSTV team, and we decided the clients here are going to benefit from these two entities coming together.
+There of course are, when you do that, expense synergies, but I'm actually much more motivated by the revenue synergies, which I think are going to be significant, given the fact that it's now a very large digital out of home platform.
+And it's one that is going to see 100 million consumers a day.
+So, we're excited about it.
+We like the team.
+And, we do think that the contribution margin that will come from the joint venture will be better than what we could have done alone.
+Happy to do that.
+Of course we did $457 million in Q1 and we gave the guidance range of $470 million to $474 million, and we still have it baked into the full year at $1.9 billion to $1.915 billion, so you'll see incremental increases to that march to that guidance.
+In terms of the geographic view today, it's quite -- it's not too dissimilar to the color that I gave last quarter.
+I was additive to that color, with respect to Asia and North America challenges, particularly in taxi and the joint venture.
+But let me be clear.
+So for North America, for the full year, including taxi, incorporating the joint venture, which deconsolidates the revenue, we now think that the North America business will be down in the mid to high teens.
+I said 15% to 16% reduction, because of the EMV surge last quarter.
+It will be a couple of percentage points higher, likely as a result of taxi and the petrol media business.
+In Latin America, we assumed flattish, given the economic challenges, Mexico and Argentina I highlighted.
+I still view Latin America on the whole to be relatively flat year on year.
+And in Europe, Middle East and Africa we still expect to see single digit growth on that front.
+Asia was the opportunity that allowed us to certainly maintain our guidance.
+And based upon the visibility that we have, particularly in India, we believe that the revenue in Asia will offset the deconsolidation of our petrol media business as well as some softness in taxi.
+I would tell you that there is de minimis revenue in third-party applications in the short term.
+Right.
+I mean, so for 2017, I'm not sure there is much that we could get excited about.
+This is about creating platform.
+And it's a platform that is very sticky, and has annuity revenue associated, and there are essentially two models for making money.
+One is that we write an application as Verifone, and we sell that application as Verifone, and we earn 100 cents on the dollar.
+The other is that we have third-party developers using our APIs and they create perhaps vertical applications, and there we have, standard 70/30 model, 70% of the revenue goes to the author of the app, and 30% goes to the operator of the platform, that being Verifone.
+So those are the models.
+It's going to take several years to get to anything that is really exciting.
+However, what really I'm focused on is that as we move into that model, I could really stand up and say that we are no longer in the terminal sales business.
+We are now a solutions provider.
+And that gives a very different trajectory, that really helps us to even out revenues, to become more predictable, to be able to have the visibility, and I think along with that an appropriate multiple shift.
+Well, Carbon is a family of devices now and so is Engage.
+So, yes, we have some Engage devices certified, but not all.
+And then, we're in -- we're really in very early days with Carbon piloting.
+So, there is a PCI certification and then there is actually the Class A cert to work with and acquire.
+Those as you know are two different things.
+Carbon is an opportunity that's global.
+There are merchant segments in every country that are looking to do more than just accept a payment.
+They're perhaps looking, also, to have a solution that helps them run their business, whether it's inventory, whether it's the actual cash register application.
+And so, yes, I think it is universally useful.
+The fact is Carbon is agnostic to the acquirer, so any acquirer can work with Carbon.
+They could use it as their front end.
+They could customize it with their software.
+And so we think it's got very broad application.
+We're not just talking about one Carbon.
+We're talking about a family of Carbon devices, and, we like that trajectory.
+We have no plans today for Carbon in India, but I have no doubt that there will be applications in the future.
+You're welcome.
+Operator we have time for one more question, please.
+This is <UNK>, let me answer the first part of the question there, <UNK>.
+So in terms of the trajectory on North America, I think we're optimistic but we're cautiously optimistic on the trend, and that's what's baked into our guidance.
+I think we will be probably flattish to perhaps slightly down in Q2, and then we see really Q3 and Q4 picking up.
+But we're balanced with that trajectory, given some of the limited visibility.
+Our expectation is that the channel works through what we view as, one quarter perhaps slightly more than one quarter, based upon the sellout rates.
+And then we begin to see some pick up, on that front.
+So the guidance of, let's call it 17% to 18% reduction bakes into account that trajectory that I just mentioned.
+Thank you, operator.
+So thanks again, everyone, joining the call today.
+We'll be presenting and hosting investor meetings at the Barclays emerging payments forum next week in New York, and we certainly hope to see many of you soon, while we're out on the road.
+So have a great evening, and appreciate everyone's time.

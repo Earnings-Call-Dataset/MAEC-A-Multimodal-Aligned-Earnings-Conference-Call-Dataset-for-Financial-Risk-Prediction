@@ -1,0 +1,182 @@
+Thank you, <UNK>, and good afternoon to all of those listening in today
+First quarter revenue increased 18% from a year ago to $984 million based on growth across both of our business segments
+Gross margin also improved driven largely by the success of our recently launched Ryzen CPUs
+I am pleased with our first quarter product execution and improved year-over-year financial results, which demonstrate the revenue growth and gross margin expansion potential with our strong set of new products
+Looking at our Computing and Graphics segment
+We delivered our fourth straight quarter of double-digit percentage year-on-year revenue growth
+Strong demand for Ryzen CPUs and improved GPU sales resulted in CG revenue increasing 29% from the year ago period
+CG revenue declined 1% sequentially, which was better than normal seasonality, as significant growth in desktop processor sales driven by the first month of Ryzen CPU sales largely offset seasonal declines in GPU and notebook APU sales
+Solid demand for our family of premium Ryzen 7 processors, including our flagship Ryzen 7 1800X offering, which is the industry's highest performance 8-core CPU drove our highest desktop processor revenue in more than two years
+Ryzen CPUs have been consistently ranked among the top-selling processors at global etailers and retailers, and press reviews and end-user sentiments have highlighted the strong performance and value proposition
+In early April, we launched our enthusiast-class Ryzen 5 processors and received overwhelmingly positive reviews that demonstrate our multi-threaded leadership and unmatched value proposition
+The Ryzen CPU partner ecosystem also continues to strengthen
+We have seated more than 300 software developers to support their work optimizing for Ryzen CPUs and have already seen double-digit performance gains across a number of top-tier gaming titles
+Last week, the first Ryzen-based OEM gaming desktops were announced, and we continue the rapid rollout of Ryzen-powered systems with additional launches planned for major OEMs later this quarter
+In Graphics, GPU sales increased by a strong double-digit percentage from a year ago based on growth across all of our product lines
+The ramp of Polaris-based notebook design wins drove increased mobile GPU sales, while our desktop growth was led by improved channel sales
+In early Q2, we launched four new Radeon RX 500 GPUs, featuring our Polaris architecture that deliver improved performance
+These new mainstream GPUs provide a compelling solution for the millions of gamers looking to upgrade their PCs to support advanced display technologies and deliver optimal gaming experiences
+We also saw higher professional graphics revenue from a year ago, driven by expanding channel sales and growing data center wins as we continue to increase our GPU compute footprint with leading cloud service providers
+We remain on track to launch the first products from our next-generation Radeon Vega family later this quarter
+Vega is a forward-looking architecture that combines a revolutionary memory subsystem, next-generation compute engine, advanced pixel engine and new geometry pipeline to dramatically improve performance and energy efficiency for the next generation of GPU workloads
+Customer excitement is building as we focus on bringing significant competition to the high-end GPU space across the PC gaming, professional design and GPU compute markets
+Turning to our Enterprise, Embedded and Semi-Custom segment
+Revenue increased 5% from a year ago driven by the latest game console offerings from Sony and Microsoft and our third straight quarter delivering year-on-year embedded revenue growth
+We see solid demand for our latest FinFET based semi-custom offerings in 2017, including the planned holiday launch of Microsoft's 4K-focused Project Scorpio console featuring a new AMD SoC
+On the data center front, in March we demonstrated that our upcoming Naples server CPU would offer more cores, I/O, and memory bandwidth when compared to the highest-end dual socket x86 server CPUs currently available, resulting in better performance across multiple workloads
+Naples platform development work continued to accelerate in the quarter
+We are in the final stages of preparation in advance of launch and are very pleased with the status of our silicon and customer engagements
+We have now seated thousands of Naples processors across an extensive set of OEMs, end users and partners, and remain on track for our first Naples products to launch this quarter
+In closing, we started 2017 delivering significant year-on-year revenue growth and margin expansion based on solid product execution and strong market and customer reception to our new leadership products
+Our focus in 2017 remains on launching our Naples server CPU with broad customer, partner and ecosystem support
+Naples is the first step in our long-term plan to deliver a leadership data center product roadmap; complementing the success of our mainstream Polaris-based GPUs with our high-end Vega GPUs; extending our Zen core into the mainstream desktop and premium notebook markets with the launches of our Ryzen 3 CPUs and Ryzen mobile APUs in the second half of the year; and expanding our participation in the fast-growing market for GPU compute with the launch of Radeon Instinct Accelerators mid-year
+2017 is an important year for AMD, and we are well-positioned for solid revenue growth and margin expansion based on bringing performance, choice and innovation to an expanding set of markets
+I look forward to discussing more about our long-term strategy at our Financial Analyst Day later this month
+Now, I'd like to turn the call over to <UNK> to provide some additional color on our first quarter financial performance
+So look, we're very pleased with how the Ryzen launch went
+It was a big launch for us
+We did Ryzen 7 first early March and then Ryzen 5 here in the middle of April
+All of the feedback that we've gotten so far from both our customers and from end users has been very strong
+I think the value proposition is very strong at both the Ryzen 7 eight-core devices, as well as the Ryzen 5 four and six-core devices
+Relative to how it performed in the quarter, actually, it performed as we expected
+So with a global launch, we were reaching many distributors and many channel partners, and I think that's gone well
+We did see some early shortages in terms of motherboards, and that was our motherboard partners ramping their supply in line with our CPU supply, but that was really dissipated after the first couple of weeks
+So nothing out of the ordinary there
+So we feel really good about where it is
+I think the important thing is as we go into the second quarter, we not only have the channel sales, but we also have the major OEMs that will be launching their systems in the second quarter
+So I think that's the next piece of the Ryzen launch for us
+But overall, I would say it went quite well
+Absolutely, Matt
+So if you look at our gross margin progression given the mix of our business, clearly, we made actually very nice progress year over year
+So if you look at Q1 2017 compared to Q1 2016, we expanded margin by 2 points, and that was really on the strength of Ryzen
+When you look sequentially, because of the mix of our business, game consoles were at the lowest point in the first quarter
+And there will be a ramp of game consoles going into the second quarter
+So the relative mix of the business sees more gaming consoles in the second quarter relative to the first quarter
+So that's the reason for the sequential guidance
+But again, if you look year over year, Q2 2017 to Q2 2016, you'll see again a nice margin expansion as a result of the strength of the products
+Thanks, Matt
+<UNK>re, <UNK>
+So as we go into the second quarter, we certainly are adding both the Ryzen 5 in addition to the Ryzen 7. So if we look at the forward guidance, up 17% quarter-on-quarter, that is driven by additional Ryzen, as well as a semi-custom ramp that I just talked about
+We are early in the ramp
+Everything that we see is – we're getting positive reception throughout the ecosystem and we're going to continue with go-to-market activities, and as I mentioned, the OEM component of that will kick in in the second quarter
+So on your first question, relative to the margins and how those look, I think they are – the yields are as expected
+So both the 16-nanometer and the 14-nanometer have done really well
+And so, in terms of the new product ramp, the yields are as expected and per our margin structure
+And, <UNK>, maybe just to finish off the comment, I think, to your question, I think, we feel pretty good about our cost structure
+We're always going to continue to try to reduce the cost structure over time
+But in terms of the margin expansion story, as we go through the year, it's going to be about the mix of business
+And as we get into the higher ASP, stronger product portfolio and that ramps to a larger piece of the business, that will be the margin expansion story
+Thanks, <UNK>
+Absolutely, <UNK>
+So Vega is really a new architecture
+So it is focused on the price points above Polaris
+We expect Vega to be a broad product for us that will go across the gaming segment, the professional workstation segment, as well as GPUs in the data center
+And we will be launching products across all of those segments with the Vega architecture in the next couple of months
+So the Polaris refresh for us is the RX 500 series that we launched just a couple weeks ago
+And that is what we would use in those mainstream price points in 2017.
+So we are on track to launch the rest of the Ryzen portfolio in PCs
+We'll launch Ryzen 3 earlier in the second half, and then we will launch Ryzen mobile towards the holiday cycle for the second half
+<UNK>, maybe let me start and see if <UNK> has some comments to add
+I think certainly the Ryzen gross margins are substantially better than the legacy portfolio
+So I think that is true
+I think when you look at the sequential – there was 1% sequential decline, and there was a $7 million or $8 million sequential improvement in operating loss
+There was also some additional R&D in that segment as we're ramping up both product expenses as well as some sales and marketing and go-to-market expenses in the quarter
+So overall, it was as we expected
+Maybe, <UNK>, do you want to add to that?
+<UNK>, maybe I just want to clarify because I want to make sure that we were clear
+So the masks were in OpEx and now they're going to be capitalized as they go into production, so they weren't in COGS before
+I think it really is a full-year statement, and I think it's a recognition of, as we transition from 14-nanometer to 7-nanometer, 7-nanometer masks are substantially more expensive than 14. So I don't think you can exactly put it the way you put it
+But overall, I think what we're trying to do is basically as the mask sets become more sizable on the production level to capitalize them
+Thanks, <UNK>
+So, <UNK>, I think you should expect that we will expand margins as we go through the year
+We do have this mix effect between Semi-Custom and new product revenue
+But certainly, our exit velocity, as we exit the year, we should see – when you compare year-on-year sort of Q4 2017 to Q4 2016, you should see the margin expansion
+Yeah
+So the full year guide is low double-digit revenue growth, 2017 to 2016. I think, given our product portfolio being very much influenced by the PC – the Ryzen and PCs, Vega for GPUs as well as Naples from a server standpoint, we expect that the Computing and Graphics segment will be – will grow more so than the EESC segment overall on a year-over-year basis, just given some of the consumer markets move faster than some of the data center and server markets
+So, look, we're really pleased with where we are with the Naples program right now
+Overall, from a performance standpoint, the product and the customer engagements is going as we would expect
+We will launch here in the second quarter
+So we'll start some low volume of revenue shipments during the second quarter that will ramp gradually into the second half of the year
+And so, overall, I think, that is how the server outlook will be
+I think I have said before and I would still say that the server market has a longer design win to revenue conversion cycle
+And so we would expect it to take a couple of quarters for us to ramp the Naples product over time
+But you should see a number of customers announcing what AMD platforms over the next couple of quarters
+So we believe we're highly differentiated with Naples in the sense that we have more cores
+We have more memory bandwidth
+We have more I/O than our competition
+So for certain workloads, I think, Naples is going to do very, very well, certainly, in the cloud as well as in certain HPC workloads and big data workloads that can use all of that memory and I/O bandwidth
+We will be talking more about the positioning of Naples and the key workloads, as we go through the next couple of months prior to launch
+But, certainly, we feel that it's, again, like Ryzen, on the strength of the Zen core, we have a very, very strong foundational product
+And now it's about making sure that we help our customers get to market
+Yes, <UNK>
+<UNK> <UNK> <UNK> - Credit <UNK>isse Securities (USA) LLC <UNK>, can you hear me?
+<UNK> <UNK> <UNK> - Credit <UNK>isse Securities (USA) LLC Yeah
+Just quickly, <UNK>, given that mix now is becoming quite important in trying to understand gross margin, I'd be kind of curious, what percent of your Compute business in the March quarter was based on Ryzen? And I guess, if you assume that all of the transitions to Ryzen eventually – had that occurred in the March quarter, can you give us an understanding of how much better gross margins would have been? And then I have a follow-up
+All right, <UNK>, that might be hard for me to answer very specifically, but let me give you the high-level view
+So we started selling Ryzen on March 2, and a good piece of it was – basically for us positioning into the distributors
+We take revenue on a sell-out model and so you should think about – although, we shipped a number of Ryzens, we didn't necessarily revenue them all in the quarter just given that we're on a sellout model for our revenue recognition
+In terms of where we are in the transition, Ryzen, non-Ryzen, we still have a long ways to go
+I mean, the way we should think about it is Ryzen 7 was at the very high-end
+We're going to – Ryzen 5 has started
+We have Ryzen 3 that will come next, and then we have the entire mobile portfolio as well
+So it will take us through this year to really transition the majority of the product over to Ryzen
+I think everything that we've seen, the ASP uplifts are definitely very beneficial
+And so, we're pleased with sort of the pricing that we're commanding for the product and the reception for the product
+So I think it's just – it will take us a couple of quarters to transition the overall portfolio over to Ryzen
+<UNK> <UNK> <UNK> - Credit <UNK>isse Securities (USA) LLC <UNK>, as a follow-up to that, I know you guys are coming up with an Analyst Day next month and some of these targets might change
+But to the extent that your old gross margin target was sort of 36% to 40%, I'm just kind of curious
+To what extent can you get to that 38% midpoint just by moving your current market share mix towards Ryzen? And to what extent does getting to 38% or above imply either market share gains in the Compute business on the desktop, notebook side or on the server side? How do I think about that dynamic?
+So the long-term guidance, 36% to 40%, I think we have multiple ways of getting there
+Certainly, on the PC side, it is not anticipating that we gain a significant amount of share over our historical numbers
+So I think the idea on the PC side is, again, I think 2017, a large percentage of the margin story is around PCs
+I think as you go into 2018, you'll see a larger percentage of that be in servers
+But to the fundamental question, I think we feel good that the mix dynamics are there, the product is strong enough to command the right ASPs that we can get to the long-term margin targets several different ways
+<UNK> <UNK> <UNK> - Credit <UNK>isse Securities (USA) LLC Thank you
+Thanks, <UNK>
+So without commenting on the exact numbers between Semi-Custom and Ryzen, I think, it's fair to say that the Semi-Custom business will have a reasonable ramp in the second quarter as will Ryzen
+In terms of relative to our expectations, it's actually very close to our expectations of what we expected the ramp rate to be, as we're going into this new segment
+As I think I've mentioned on one of the previous questions, we don't expect to be at peak run rate in the second quarter
+I think we will be continuing to ramp Zen-based product in the PC business throughout the year, as we bring more and more SKUs online
+And so, I think, the second quarter will certainly be higher than the first quarter
+And we expect the second half to be higher than what we're seeing in the second quarter, as we ramp more and more SKUs, as more OEM platforms come online
+As you guys know, the PC business tends to be a very back-half loaded business
+So, as we get into back-to-school, the retail segments and holiday, you would expect that both channel and OEM PC sales to benefit from the stronger product portfolio
+On the GPU side, we actually haven't seen anything abnormal
+We normally see the seasonality going from Q4 to Q1 that sales go down
+We saw something very normal to that
+From an inventory standpoint, we think it's normal to maybe even slightly lean because we were going through a transition from our 400 Series to 500 Series
+So we see the gaming segment as healthy
+From what we see, I think we feel good about the gaming segment overall
+Graphics continues to be a strong segment
+For us, it's not just the channel business, but it's the ramp of our OEM business
+So we have a number of new OEM systems that are also ramping here in the first half of the year
+As it relates to ASPs, we are excited with the launch of Vega that will see a significant improvement in our ASPs, just given our current presence in the high-end segment of the GPU market
+So yes, overall, I think, we feel good about the market
+Maybe let me start on the OpEx and then have <UNK> comment on the second piece of the question
+So on the OpEx, we are making targeted investments in several different areas
+The key areas are in GPUs and server, and it's both on the R&D side as well as on some go-to-market
+So from our standpoint, these are very strong products
+We want to make sure that we have enough customer resources to help our customers ramp into production
+So I think they're targeted investments, but as we've been in the past, we'll be very prudent with where the OpEx goes
+And then relative to the
+So, Joe, the way to think about that is for the Ryzen 7 and a good portion of the Ryzen 5, we really didn't have a competing product in that segment, so it's really additive
+We've actually added Sam [Samsung] to our CPU market coverage
+The legacy products will continue in the market
+They will certainly continue through this year, and that's all contemplated in the model
+So we feel that they're very complementary products and different geographies moves at different rates
+We have still a significant installed base of motherboards out there from our previous generation, so we'll keep supporting both products
+So we're very pleased with where the Ryzen product is positioned now
+We think, from a value proposition standpoint, performance, performance per dollar, it's very strong
+We obviously have other products we're going to be launching throughout the year to ensure that we have strong product positioning throughout the year
+And I think the more important thing, Joe, and we'll talk more about this at our Financial Analyst Day is we have a long-term roadmap, whether you're talking about PCs or GPUs or servers to ensure that we continue to refresh our product plans and our product roadmaps over time
+So I think we feel good about where we are positioned today, and we're going to ensure that we continue to roll out products to strengthen that positioning over time
+Yes, Chris
+So there was no particular supply constraint
+I think it's more of the ebb and flow of the market
+When you think about the channel market or the DIY market, you can basically introduce your product any time during the year
+The OEMs have a very set cycle
+They typically launch new products in Q2 for the back-to-school season
+And so that was just the timing of when the OEM platforms were ready
+And then, again, when you're launching so many different SKUs – I think, launching Ryzen 7 first, then Ryzen 5, then Ryzen 3 – was absolutely our plan to make sure that we hit all of the logistics and stuff on plan
+But, overall, like I said, nothing different than what we expected
+I think we're pleased with where the overall launch is, and we'll be rolling out many more products over the coming quarters

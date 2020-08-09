@@ -1,0 +1,75 @@
+Well, we certainly did see some savings in the COGS in the quarter, but really much of that is going to take a little while, as <UNK> talked about at analyst day, to work through, but we did see some of that.
+I will let <UNK> and <UNK> comment, but Q1 usually has some pricing actions that do kick in, so sure, we would have seen that as we normally do.
+Yes, (inaudible) it is as competitive as always on our pricing.
+From a cost perspective, there is a variety of different type of cost synergies that we are going after, including, obviously, looking at common components and driving to the lowest cost between two of us, which is the low-hanging fruit.
+Second is around some product redesigns or integration of lower-cost design into a common product.
+That takes a little longer.
+And then, third, it is around the remaining [fashuring] supply chain partners that we work with and leveraging the additional volumes that we have into lower-cost structure over time.
+So it's a combination of both.
+But we get a little bit of it in the first, with more coming through the year here.
+Yes, that's a good question and that's what I was referring to about these uncertainties that still are there, really, in terms of how these consolidations take place and how as new management takes over these networks, they evolve.
+So, we are a little bit cautious about that.
+Nevertheless, the end customer demand is there.
+There is new over-the-top services getting announced every day and the increase in Internet traffic is just continuing to grow unabated.
+So, I think a little bit of caution in the second half around the uncertainties with regard to these many things that are happening right now.
+Yes, the comment that we made earlier was that we expected revenue dyssynergies particularly because there were certain places where, when we combine the Pace and the ARRIS businesses together, we would have very, very high market shares that customers might be uncomfortable with, and what we said when we previously commented on this was that we hadn't seen any specific examples of it.
+But now I would say we have seen some specific examples of customers splitting business and lowering our share.
+Nevertheless, I think we're holding our own pretty well in a very competitive market.
+Well, I wouldn't comment on one particular customer, but as I said in the comments, <UNK>, we have seen telco spending begin to recover, and the transfer of those FiOS properties to Frontier is a pretty positive move from our point of view because we think Frontier will be fairly aggressive in upgrading those properties.
+And the AT&T/DIRECTV merger, which took place months ago now, I think they're getting their programs, marketing programs, together and I think we expect to see -- have seen and we expect to see more uplift in that as the year goes on.
+Yes, so the $30 million of -- thanks for asking that.
+Some people probably haven't seen it before.
+But what we had to do is we have as part of purchase accounting is essentially revalue, if you like, the Pace inventory to not historical cost, but to a fair value.
+And so, we had to increase the value of that inventory by about $50 million.
+We sold some of that in the first quarter and we had a $30 million margin impact, so hence about 1.9% in terms of the margin, if that answers the question, <UNK>.
+You'll see about $20 million again in the second quarter, so you would add that 1.9 million -- 1.9 points to the GAAP number we have.
+Yes, fair value being an accounting term.
+That's exactly right.
+Yes, there are a couple of things.
+Certainly, the Charter/Time Warner and all these other consolidation activities that are going on give me some degree of concern that there might be a pause.
+I don't think there is any reduction in the end demand for our products, but there could be some shifts.
+On top of that, in <UNK>'s area and actually in <UNK>'s area, too, we have some pretty tricky product transitions that are going on in the second half of the year.
+<UNK> mentioned he's introducing a second-generation set of devices in the E6000 and <UNK>'s introducing DOCSIS 3.1 modems in the second half, and we have got to work our way through that transition.
+So I think there are a number of things that cause me to just say let's be a little bit cautious about the second half.
+I do believe that we will meet our full-year guidance and I'm increasingly confident about that.
+Well, we are hearing our customers ordering a lot of product right now.
+Our customers don't like what the FCC is doing.
+They have filed statements to that effect.
+So have we.
+We have seen increasing political pressure being brought to bear against the FCC, both on the -- on both sides of the aisle in Congress more recently.
+And so, I guess -- our view hasn't really changed, though, <UNK>.
+When we look at this, we say, first of all, how long would it take for it to impact our business, and we think it is a couple of years out in the worst case.
+And also in the worst case if it were to be enacted exactly the way the FCC is proposing, that would open up a retail market, one which we are pretty excited about anyway.
+As <UNK> pointed out, we just introduced some new products into retail.
+So we're building up our retail channel and I think even if it goes in a direction that we don't like, we would still be okay and I think the effect is a couple years away.
+A bit too early to say, but we are doing better, without a doubt, but I think we will stick to what we were talking about analyst day, but I am pleased with the progress that we are making at this stage.
+Get the guys to generally comment.
+Go ahead, <UNK>.
+Coming from a mix perspective, we are anticipating a little more CPE in the second quarter percentagewise than what we saw for the mix in the first quarter, and I think the question on international, what we have seen obviously throughout last year was a strengthening of the US dollar, which really tamped down international demand in general.
+That has reversed a little bit in the first quarter, so I think we see signs of some momentum building there, again, throughout the year, obviously very sensitive to what happens with the US dollar, but I think what we anticipate is a stronger mix of international in the second-quarter results.
+We'll see.
+The linearity, so, again, we do believe that the gross margins do improve.
+2016 for 2015 is a little bit more difficult because, of course, we have far greater CPE presence within it.
+So, that one is a little bit more difficult to tell you about.
+By far, <UNK>, that's the biggest impact, right, is just simply the incremental volume around CPE and the overall result on the Company gross margin.
+Not sure how we -- we didn't say that.
+Again, we have purchased $150 million and we have $150 million left in the authorization and that's where we are at the moment.
+Well, they keep buying one another (laughter) (multiple speakers) bigger and bigger.
+So I could actually see that number go up a little bit as these deals close.
+Yes, good question.
+I probably should have mentioned the Cablevision announcement.
+Cablevision has been a customer with ActiveVideo for quite a while with different applications, so the Hulu application is one of the newest being deployed there, and hopefully that will -- that is a great use case that many operators could implement.
+So we hope that gains more momentum with other operators.
+I know certainly where a lot of the focus is today is around launching the Charter service, using that technology across their footprint, so I think that will be a big focus this year, and some of these new unique applications will probably -- it will take some time for them to get more momentum, but the big opportunity certainly is getting Charter fully deployed.
+And there seems to be quite a bit of interest in obviously virtualizing capabilities or functionality into the cloud, whether they are VOD user interfaces or full EPG, full program guide or these over-the-top streaming applications.
+So, they take a little while to close a deal and get them launched and everything, but there certainly is a lot of interest there.
+So just in general, we consolidate all of the ActiveVideo joint venture results as part of our financials and then there is an adjustment at the bottom of the P&L to account for Charter's share of the interest in the entity.
+For the most part, it is a software sale, so you are selling a license either on a per-subscriber basis or some sort of enterprise license fee, which is, again, for the most part, a recurring type business model.
+And that's basically how it works.
+It scales as the customer deploys more and more capability.
+Thank you, Ashley.
+<UNK>, any final comments.
+No, I think we have covered it all.
+Great.
+Thank you, everyone.
+That concludes our call.

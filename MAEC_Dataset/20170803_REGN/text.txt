@@ -1,0 +1,134 @@
+Thank you, Len, and a very good morning to everyone who has joined us today
+We believe Regeneron is a very different type of company, in that it was founded by and is led by physicians and scientists dedicated to a science-first approach to bringing new medicines that can make important difference in patients' lives
+This commitment, supported by a talented and longstanding team of scientists and strategic investments in internal technology development, has today produced what many believe is one of the best pipelines in the industry
+And as Len mentioned, all of our approved and investigational therapies were discovered in our own labs by our own people
+I will provide a general update on our R&D progress today and highlight two Phase 3 programs, for which we expect to have data readouts in the second half of this year
+These are dupilumab in asthma and REGN2810, our PD-1 antibody in cutaneous squamous cell carcinoma
+I'd like to begin with one of our most exciting late-stage program, Dupixent, also known as dupilumab, our interleukin-4 and interleukin-13 blocker, which was approved in March by the FDA for the treatment of moderate-to-severe atopic dermatitis in adult patients whose disease is not adequately controlled with topical prescription therapies or when these therapies are not advisable
+In addition to the FDA approval, we have recently granted a positive opinion by the European Medicines Agency's Committee for Medicinal Products for Human Use, or the CHMP for the treatment of moderate-to-severe atopic dermatitis in adults who are candidates for systemic therapy
+We expect to receive EU approval in the third quarter of 2017. In the pediatric atopic dermatitis setting, we are currently enrolling a Phase 3 study of dupilumab in patients 12 to 17 years of age
+In the second half of the year, we expect to initiate two additional studies in the younger atopic dermatitis patients; the first in children between the ages of 6 and 11, and the second in children between the ages of six months and five years
+We believe that dupilumab has potential to benefit a variety of allergic or atopic conditions
+And we are investigating the use of dupilumab in several of these, including asthma, eosinophilic esophagitis, and nasal polyps
+Today, I'd like to focus on the potential opportunity in our most advanced indication, asthma, where we expect top-line data later this quarter from our pivotal Phase 3 study LIBERTY ASTHMA QUEST
+Data from our previously reported positive Phase 2 study are considered pivotal and will support our regular submission, which we anticipate in the fourth quarter of 2017. The Phase 3 LIBERTY ASTHMA QUEST study enrolled approximately 1,800 adult and adolescent patients with persistent uncontrolled asthma
+In this study, patients will randomize to one of two dupilumab arms, 200 milligrams every other week or 300 milligrams every other week, or placebo; patients who are on background therapy of medium to high-dose inhaled corticosteroids plus a second-controller medication, such as a long-acting beta-agonist or a leukotriene receptor antagonist
+The study has two primary endpoints, the annualized rate of asthma attacks or exacerbations over the 52-week treatment period and the absolute change from baseline in FEV1 at week 12, a measure of lung function, both of which will be assessed in the overall patient population
+I'd like to remind you of data from our previously reported positive Phase 2b study, which was conducted in a patient population similar to the one we are studying in Phase 3. This Phase 2b study randomized 769 patients with moderate-to-severe asthma, who were uncontrolled despite treatment with inhaled corticosteroids and long-acting beta-agonist
+The results from this study demonstrate that dupilumab administered at 200-milligram every other week or 300-milligram every other week, in combination with standard-of-care therapy, demonstrated a significant 12% to 15% improvement in FEV1 at week 12 over the standard-of-care alone, as well as there is a significant 64% to 75% reduction in exacerbations over standard-of-care alone
+Importantly, these positive response were seen in both the patient population with high blood eosinophils, believed to be a marker of the allergic disease patients, as well as the overall study population
+The most common adverse event in the study was injection site reaction, which was more frequent in dupilumab dose group at 13% to 25% compared to 12% in the placebo group
+The incidence of infections was balanced across treatment groups, as was the incidence of serious adverse events
+We believe that if the Phase 3 LIBERTY ASTHMA QUEST data demonstrate efficacy both in terms of reduction in exacerbations and an improvement in lung function in all comers, including the subset of patients with high eosinophil count, as well as the subset of patients with low eosinophil counts, it would be an important differentiating factor
+No approved biologic has demonstrated robust improvement in lung function, as well as profound reduction in exacerbations, in the overall asthma population, including both these important subsets of patients
+In addition to the LIBERTY ASTHMA QUEST study, we're also conducting another Phase 3 study, LIBERTY ASTHMA VENTURE, which is designed to determine the efficacy and safety of dupilumab, while reducing the use of oral corticosteroid in patients with severe oral steroid dependent asthma
+Top-line results from this study will be reported by the end of 2017 and are anticipated to be part of our regulatory commission
+We are also investigating the use of dupilumab in younger patients with asthma, with an ongoing Phase 3 study in children ages 6 to 11 years old
+Turning now to other potential and important indications where we are investigating dupilumab
+We currently have two Phase 3 studies ongoing in patients with nasal polyps
+We're also planning a Phase 3 study in patients with eosinophilic esophagitis, following recent positive results from a Phase 2 proof-of-concept study
+These results will be presented in detail at an upcoming medical conference
+We're also planning studies of dupilumab in patients with food allergies
+According to data from the Centers for Disease Control, or the CDC, allergic diseases are the sixth leading cause of chronic illness in the United States and have reached epidemic proportion
+There is a tremendous amount of scientific debate on the drivers behind this increased incidence and prevalence
+Our collective data from the dupilumab clinical studies suggest that deviation of the immune system triggered by over-activity of the IL-4/IL-13 axis may be the key driver of many, if not most, allergic conditions
+So-called allergic patients with an overactive IL-4/IL-13 pathway often suffer from more than one manifestation at a given time
+For example, patients with asthma or atopic dermatitis often also suffer from severe respiratory or food allergies, and the combination of multiple allergic conditions can be quite devastating for an allergic individual
+The possibility that a single biologic may simultaneously help many of these related allergic conditions would be very exciting and important to many patients
+Just as important, it would be ideal if such a correction of allergic disease could occur without inducing concurrent immunosuppression
+All our studies to-date indicate that unlike many other biologics that target the immune system which often produces immunosuppression and side-effects such as infections, dupilumab does not appear to be an immunosuppressant
+Rather dupilumab appears to be an immunomodulatory agent that blocks the pathologic overactivity of IL-4/IL-13 driven allergic responses
+I would now like to talk about another important area of research for us at Regeneron, and that is the field of immuno-oncology
+Despite all the early successes and excitement in the field, cancer remains a challenging area, and there have been a recent string of disappointments with several development programs
+Just last week, another highly anticipated trial exploiting a PD-L1 antibody alone and in combination with the CTLA-4 antibody yielded disappointing data
+These developments underscore that the field is still in the very early stages of fully understanding how to exploit and optimize the power of immuno-oncology
+In contrast to some of the recent disappointing results elsewhere, recent developments with our PD-1 antibody have been positive
+The ASCO conference in June this year was an exciting time for us
+We presented important data with REGN2810, our PD-1 antibody, in cutaneous squamous cell carcinoma, or CSCC, which is the second most common skin cancer after basal cell carcinoma and the second deadliest skin cancer after melanoma
+It is estimated that there are approximately 4,000 to 8,000 deaths annually in the United States from CSCC
+For patients with advanced CSCC, there are limited treatment options and no standard of care
+The data that we presented at the ASCO conference were the pooled results from two expansion arms in metastatic or inoperable locally or regionally advanced CSCC from 26 patients in our 392-patient Phase 1 trial
+These CSCC data demonstrated that treatment with REGN2810 led to an overall response rate of 46%, including two complete responses according to investigator's assessment and a disease control rate of 69%
+The median progression-free and overall survival were not reached at the data cutoff date, with a median follow-up of 6.9 months
+The adverse event profile was generally consistent with agents in this class
+Based on these encouraging results, we are conducting larger efforts in metastatic and locally advanced cutaneous squamous cell carcinoma
+Recent discussions with the FDA indicate that if these data are robust, they could form the basis of a regulatory submission in the first quarter of 2018. Work on developing REGN2810 in other indications continues, where we are currently enrolling a Phase 3 study in our non-small cell lung cancer indication, a Phase 2 study in basal cell carcinoma and additional earlier studies in other indications as well
+We're also exploring the use of our PD-1 antibody in combination with novel vaccines in oncolytic viruses
+Our second checkpoint inhibitor, REGN3767, an antibody LAG-3, is currently enrolling patients in two studies; one in monotherapy and one in combination with our PD-1 antibody
+Additionally, our bispecific CD20/CD3 antibody, REGN1979, is also being studied in the clinic as both a monotherapy and in combination with our PD-1 antibody
+In the second quarter, we were granted orphan drug designation from the FDA for REGN1979 for the treatment of diffuse large B-cell lymphoma, or DLBCL
+Our EYLEA business continues to be strong and we remain committed to maintaining our leadership position
+Part of this commitment is to help educate the community on the importance of regular dosing with anti-VEGF therapies
+Real world evidence indicates that many patients receiving anti-VEGF therapies are not being optimally treated, resulting in more widespread vision loss than is necessary
+This decreases patients' quality of life and results in substantial cost to society, particularly when leading to blindness and disability
+There has even been a bias that chronic sustained VEGF inhibition may account for the inability of most patients to maintain their vision over the long-term
+Our long-term data with the VIEW extension study, which followed wet AMD patients treated for approximately four years using EYLEA in a standardized and fixed regimen, show that for the first time the initial gain seen with any anti-VEGF agent can be largely maintained for the long-term
+This was the first time that such data have been demonstrated with any anti-VEGF agent
+This is in contrast to long-term studies with other anti-VEGF agents using flexible dosing regimens, such as the CATT study, which resulted in loss of the early visual acuity gains that were achieved with monthly dosing
+Taken together with additional real-world data, this suggests that under-treatment with anti-VEGF agent is a serious disservice to patients and a major public health issue
+We believe the overall data in this felid indicate that the treatment goal of anti-VEGF therapy should be chronic, sustained, and potent VEGF inhibition
+Many elderly people are needlessly losing vision and going blind
+We are committed to doing a better job to address this issue
+In the second half of this year, we expect to report top line data from two Phase 2 studies; one in wet age-related macular degeneration, or wet AMD, and another in diabetic macular edema, or DME, of EYLEA in combination with nesvacumab, an antibody to angiopoietin 2. The primary endpoint in these studies will be assessed at 36 weeks, and we expect top-line results from these studies in the fourth quarter of 2017. These results will help us understand with a combination of EYLEA with an antibody to angiopoietin 2 can improve upon the already high bar that has been set by EYLEA
+PANORAMA, our Phase 3 study of EYLEA in patients with non-proliferative diabetic retinopathy without diabetic macular edema continues to enroll patients
+The primary endpoints of this study will be assessed at week 24 and at week 52. A separate Phase 3 study in this indication, PROTOCOL-W, which is being conducted by the Diabetic Retinopathy Clinical Research Network, or the DRCR, continues to enroll patients
+This study will explore every 16 week dosing of EYLEA, which is the only anti-VEGF treatment being investigated in this study
+We plan to submit our supplemental BLA for EYLEA dosed every 12 weeks by the end of the year
+Moving on to Praluent, our PCSK9 inhibitor antibody for lowering LDL cholesterol, we expect in the first quarter of 2018 top-line data from the ongoing 18,000-patient ODYSSEY OUTCOMES study
+If these results are positive and recognized in formal treatment guidelines, we believe this would allow for greater uptake of drugs in this important class
+In addition to our efforts with Praluent in cardiovascular disease, we are also developing evinacumab, our antibody to angiopoietin-like 3, for the treatment of Homozygous Familial Hypercholesterolemia, or Homozygous FH, in severe forms of hyperlipidemia
+Following positive data from a Phase 2 proof-of-concept study in patients with Homozygous FH, we plan to advance evinacumab into a Phase 3 trial in Homozygous FH
+Additional studies in hypertriglyceridemia and heterozygous familial hypercholesterolemia are also being planned
+As a reminder, evinacumab has been granted both orphan drug as well as breakthrough destination by the FDA for the treatment of Homozygous FH
+In May of this year, we published data in the New England Journal of Medicine showing that people with inactivating mutations of angiopoietin-like 3 have an approximately 40% reduced risk of coronary artery disease and significantly lower levels of key blood lipids, including triglycerides and LDL cholesterol
+We were able to identify these mutations through our genetics efforts at the Regeneron Genetics Center
+Furthermore, we published Phase 2 clinical data that demonstrate that blocking angiopoietin-like 3 with evinacumab in patients with Homozygous FH who are in lipid-lowering therapies resulted in an additional 49% reduction from baseline in LDL cholesterol at week four
+A reduction in other key lipid parameters, including Lp(a) and triglycerides, was also observed
+Kevzara, or sarilumab, our interleukin-6 receptor antibody for rheumatoid arthritis, has received regulatory approval in Canada, the United States, and the EU. In terms of clinical development for sarilumab, we are currently enrolling patients in a Phase 2 study in Polyarticular-course Juvenile Idiopathic Arthritis, or pJIA
+We are also advancing our Phase 3 program for fasinumab, our Nerve Growth Factor antibody for pain, where we dosed the first patient in our Phase 3 efficacy study in osteoarthritis pain
+We remain on track to initiate a Phase 3 efficacy study in chronic lower back pain in the second half and we continue to enroll our long-term safety study
+In the second half of the year, we expect to report top-line data from our Phase 3 program with REGN2222, also known as suptavumab, a wholly-owned antibody that we are investigating for prophylaxis of respiratory syncytial virus, or RSV
+RSV infections represent a substantial burden and is estimated that over 20% of infants under the age of six months require medical attention for RSV annually
+This study explores two dosing regimens; suptavumab administered either once or twice during RSV season in preterm infants
+Development in other parts of our early-stage pipeline continue to advance and I would like to highlight a few of the programs
+Our Activin A antibody, REGN2477, is in clinical development for the treatment of the rare disease Fibrodysplasia Ossificans Progressiva, or FOP
+In the second quarter of 2017, we received Fast Track designation from the FDA and we anticipate initiating a Phase 2 clinical study in the second half of 2017. We're also studying our Activin A antibody in combination with our GDF8 antibody in settings where there may be benefit to promoting muscle growth
+REGN3500, our interleukin-33 antibody, is in Phase 1 clinical studies in patients with asthma and REGN3918, our wholly-owned C5 antibody, has now entered clinical development
+Before I conclude, I want to say a few words about the ending of our Antibody Discovery Agreement with Sanofi, which Bob <UNK> will discuss in more detail
+Praluent, Dupixent, Kevzara, REGN2810 are our anti-PD-1 antibody
+REGN3500, our anti-IL-33 antibody, and REGN3767, our anti-LAG-3 antibody, were all discovered and initially developed under this Antibody Discovery Agreement
+Praluent, Dupixent, Kevzara, and REGN3500 will continue to be developed and commercialized, as applicable, with Sanofi under the Antibody License and Collaboration Agreement
+REGN2810 and REGN3767 will continue to be developed with Sanofi under the immuno-oncology collaboration
+We believe that our collaboration with Sanofi is one of the most productive arrangements in the history of the biotechnology industry and we look forward to continued collaborative efforts with Sanofi in the future
+With that, I would like to turn the call over to Bob <UNK>
+Yeah, I just wanted – this is <UNK>
+I want to point out a couple things
+Despite the mechanics of the healthcare system and reimbursement and rebates and all this, I'd like to think that physicians and patients are still driven quite a bit by how the drugs are actually performing and making a difference in their lives
+So I'd like to think that one of the reasons that EYLEA is growing in market share is because of the recognition by physicians and patients of what a difference it's making in their experiences
+And I think as Bob points out, we hope to see that the same will continue to be true as we're seeing from the early reports on Dupixent
+And I think another very important thing to realize about Dupixent is also the long view
+As I noticed in my remarks, we are developing this for a very large number of allergic indications
+The data right now, the early data and including pivotal study data is all very promising, so long-term growth in dupilumab is going to be by the recognition that it may be an important drug for many different allergic conditions, starting with asthma and going onward, and moreover that in a single-patient, hopefully, we'll be able to show in convincing way that in single patient it will able to simultaneously benefit multiple of their allergic conditions
+And so we think that if the medicine is doing and bringing the sort of benefit that we think it's doing to the patients that that recognition will drive, of course, use because of the benefit it provides
+I was going to actually bring up a lot of the same examples as Len just did
+In terms of pointing out how really difficult this business is, how it really is so challenging, and it's really such a industry of failure, because the bar is rightfully set so high
+I mean, we want to be bringing forward important, effective, and safe medicines to patients, and that, frankly, is probably the single hardest thing that we as a society actually do in terms of discovering and developing products
+And while I was reading my comments, I have to say I was shocked and stunned at how productive our people have been over so many years to produce so many product candidates and, as Len said, I'm a big track record guy
+Over and over again, we've made the right decisions about which targets, about picking and selecting the right – out of many candidates, the right candidates to bring forward
+And over and over again, we more likely than not have been proven right
+And I think that this is something that is incredibly vastly underappreciated in this industry, how much of a role institutional knowledge plays and having a senior experienced leadership team that has the capability to over and over again make these decisions and pull on their collective memories to help make these sort of decisions
+And if you go anywhere else and you look how long the people who are making these decisions have been around at that particular place, and it's just a couple of years
+Here, our senior management team at all levels – I'm not just talking about me and Len and the other most senior people, but we have in general people 15, 20 years who have been leading various efforts and we have enormous collective memory and institutional memory here
+And it's only with that then you can have that sort of track record that can lead to the discovery of dozens and dozens of product candidates and be moving them forward, and in more cases than not be making the right decisions and making your bets
+And whether it's picking PD-1 as opposed to PD-L1 and picking the right PD-1 antibody or picking IL-6 receptor versus IL-6 and picking the right IL-6 receptor antibody, or picking the right antibody for PCSK9 or picking the right target in the field of allergy, which nobody else happened to have picked in the entire world
+This all comes from incredible internal genius and institutional memory that is very rare and, as I said, represents one of the hardest things we do as a society
+The track record in the rest of the world is overwhelmingly one of failure
+And, no, not everything we do will work, not anything we do will succeed
+We have an amazing track record because of this institutional memory and the genius that we have here
+Yeah, I think that, as I described in my comments, the populations are actually very similar
+Obviously, when you have such a successful study, you do your best to reproduce it with the least number of modifications and changes
+I mean, our first study was rather standard
+It wasn't that we did anything so special, other than that we studied both the all-comer population, and then we looked in both the high and the low Eo subset
+We designed our study to look in the all-comer population, but we also designed to look in the high Eo population
+If our data is limited to the high Eos, it would be a little less differentiating perhaps than we think it might be compared to other agents that are out there in development right now
+But as you know, the real excitement is if it's positive in the all-comer population, nobody else has data that shows that a biologic can really affect the all-comer population

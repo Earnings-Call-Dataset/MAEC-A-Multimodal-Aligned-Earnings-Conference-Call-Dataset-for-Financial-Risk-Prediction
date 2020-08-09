@@ -1,0 +1,197 @@
+Good morning.
+My name is Bill <UNK>, CFO of INTL FCStone.
+Welcome to our earnings conference call for our fiscal second quarter ended March 31, 2017.
+After the market closed yesterday, we issued a press release reporting our results for the fiscal second quarter.
+This release is available on our website at www.intlfcstone.com, as well as a slide presentation, which we'll refer to on this call, and our discussions of the quarterly and year-to-date results.
+You will need to sign on to the live webcast in order to view the presentation.
+Both the presentation and an archive of the webcast will also be available on our website after the call's conclusion.
+Before getting underway, we are required to advise you, and all participants should note, that the following discussion should be taken in conjunction with the most recent financial statements and notes thereto, as well as the Form 10-Q filed with the SEC.
+This discussion may contain forward-looking statements within the meaning of Sections 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934.
+These forward-looking statements involve known and unknown risks and uncertainties, which are detailed in our filings with the SEC.
+Although the company believes that its forward-looking statements are based upon reasonable assumptions regarding its business and future market conditions, there could be no assurances that the company's actual results will not differ materially from any results expressed or implied by the company's forward-looking statements.
+The company undertakes no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise.
+Readers are cautioned that any forward-looking statements are not guarantees of future performance.
+With that, I'll now turn the call over to Sean O'Connor, the company's CEO.
+Thanks, Bill.
+Good morning, everyone, and welcome to our fiscal 2017 second quarter earnings call.
+On our first quarter earnings call, which was 3 months ago, right after the election, I indicated that the surprise Trump result would generally be positive for our business with more volatility in the financial markets.
+I certainly couldn't have been more wrong about volatility.
+And while the equity markets hit new highs and political uncertainty, and perhaps even turmoil, seem to exist here and abroad, the volatility index dropped to multiyear and perhaps even decade-year lows in some markets.
+Volatility is one of the major drivers for our customer activity and, thus, our revenues.
+From this perspective, this was a very difficult quarter for us on a macro basis.
+Given the tough macro environment, we managed to achieve an acceptable result with a net earnings of $11 million or $0.58 per share.
+This was well below our medium-term expectations, however, better than both the prior year and the immediately prior quarter if we exclude the marked-to-market impact of our interest rate program.
+Some highlights for the quarter, I will provide more details later.
+Overall, our segment income was up 15% with all segments showing better than 25% quarter-on-quarter growth, except for Securities, which was down 36%.
+Securities was down due to a strong comparative quarter, which included record results for our equity market-making business as well as exceptional gains made in Argentina due to abnormal market conditions there.
+Commodity Hedging, our largest segment, recorded segment income up 36%, driven by increased OTC revenues, which is a reversal of recent trends there.
+Global Payments continued its strong growth with a 52% increase in transactions, while revenue capture per trade dropped 19% as we continue to see a greater number of smaller transactions from our bank partners.
+This translated into a strong 26% growth in segment income.
+Physical Commodities and Clearing and Execution Services, both more than doubled their segment income from a year ago, an impressive result.
+On a year-to-date basis, we recorded EPS of $0.92, which was down 25% versus the same period a year ago.
+Much of this decline is attributable to the $3.6 million swing due to marked-to-market adjustments in our interest rate program.
+The performance of our various segments for the 6-month year-to-date period was roughly consistent with that of the current quarter, with strong growth in net income for all segments except Securities for the same reasons mentioned above.
+As you all know, about 3 years ago, we decided to better manage and monetize our interest rate earnings coming from our customer float.
+At the time, interest rates on T-bills were single-digit basis points, and we had a steep yield curve out to 2 years.
+We initiated a ladder of treasuries with an average duration of less than 24 months, which at the end of the last quarter was yielding approximately 180 basis points on average.
+Over the period, this program earned us approximately $15 million incrementally over the short-term T-bill rates and utilized around $16 million of capital in the form of incremental regulatory haircuts.
+Short-term rates began to move up in 2016 to the point that, at the end of our second quarter, so end of December, we are seeing short-term yields of about 85 basis points or higher.
+The incremental return of around 25 basis points earned on our ladder treasury notes, versus the yields available on the short end of the curve, do not justify the committed use of capital, and with the prospect of further interest rate increases during the year further eroding the benefit of this program.
+Consequently, during the quarter, we decided to liquidate all of the treasuries maturing past 2017.
+The liquidation price was roughly similar to our original cost and similar to the mark-to-market price at the end of the prior quarter.
+Other than 2 tranches, which mature later this year, we have now -- we effectively have now all of our float invested short-term, and will now receive the benefit of further short-term rate increases in the quarter, as they are announced.
+In addition, we have freed up $16 million of permanent equity to deploy elsewhere in our business.
+We will continue to consider how best to monetize our earnings from our increased customer float.
+And if the yield curve steepens sufficiently, we may reestablish our program.
+So with that, I'll hand you over to Bill <UNK> for a more detailed discussion of the financial results.
+Bill.
+Thank you, Sean.
+I'll be referring to slides and the information we have made available as part of the webcast, specifically starting with Slide #3, which represents the bridge between operating revenues for the second quarter of last year to the current year fiscal second quarter.
+As noted on in the slide, second quarter operating revenues were $195.8 million, which is a $29.7 million increase over the prior year.
+Looking at the performance in our operating segments, the most notable change was a $30.9 million or 93% increase in our Clearing and Execution Services segment.
+This was primarily related to the acquisition of the Sterne Agee correspondent securities clearing and independent wealth management businesses, as well as the ICAP voice brokerage business, which collectively added incremental operating revenues of $31.9 million in the current quarter.
+The second-largest increase in operating revenues was in our Commercial Hedging segment, which added $8 million in operating revenues, as exchange traded and OTC revenues grew 7% and 24%, respectively, while interest income increased 62% to $3.4 million.
+The exchange traded revenue grew as a result of increases in customer volumes in the agricultural and foodservice markets, while OTC growth was driven by higher domestic and South American grain volumes.
+In addition, Global Payments operating revenues increased $4.1 million or 24% off the back of a 52% increase in the number of payments made, albeit somewhat offset by a 19% decline in the average revenue per payment.
+Physical Commodities operating revenues added $3.3 million over the prior year, as the Physical Ag & Energy business added $2.5 million, and the Precious Metals business increased $800,000 over the prior year.
+These gains were offset by a $7.7 million decline in our Securities segment.
+Roughly half of this decline was in equity market-making, which declined $3.9 million or 20% as compared to a very strong quarter for that business in the prior year.
+Customer volumes were relatively flat with the prior year in this business.
+However, the spreads compressed 18% versus the prior year.
+Strong gains in domestic debt trading were offset by lower Argentina revenues, leading to a relatively flat result in debt trading.
+Finally, our asset management business, which is solely in Argentina, experienced operating revenue declines of 53% or $2.5 million versus strong performance in the prior year.
+Moving on to Slide #4, which represents the bridge from the second quarter pretax income in 2016 to the current period, overall pretax income declined 29% to $14.3 million in the second quarter of 2017.
+The CES segment increased segment income by $4.4 million or 126% to $7.9 million for the second quarter.
+While CES achieved significant growth in operating revenue, a significant portion of these revenues are paid out to independent representatives in the independent wealth management business.
+These payments, which were recorded as introducing broker commissions, represent the majority of the $15.2 million increase in IB commissions in this segment as compared to the prior year.
+In addition, similar to the first quarter, as part of the acquisition of the ICAP voice brokerage business, in the second quarter, we recorded a $900,000 charge to compensation and benefits for the terms of the acquisition, which will continue to be expensed through the end of fiscal 2018.
+Commercial Hedging increased segment income $4.9 million to $18.7 million, while Global Payments and Physical Commodities segments increased segment income $2.4 million and $2 million, respectively.
+These gains were primarily driven by the increase in operating revenues.
+However, the Commercial Hedging segment were somewhat dampened by a $1.1 million increase in bad debt expenses in our LME business.
+As shown on the table on our press release, corporate unallocated overhead reflects a $200,000 unrealized loss on our investments in the interest rate management program in the current year, in contrast to a $6.9 million unrealized gain in the prior year comparable period.
+This $7.1 million negative variance, as well as the $3.9 million increase in overhead costs acquired with the Sterne Agee businesses, led to an overall $12.9 million negative variance in overhead versus the prior year.
+The bottom of Slide #11 of the presentation shows the after-tax effect of these unrealized gains and losses in the interest rate program by quarter.
+Slide #5 shows the interest income on our investments in the exchange traded futures and options businesses, which hold our investable customer balances and encompass our interest rate management program, excluding the mark-to-market fluctuations I just mentioned.
+This program, an increase in short-term interest rates and an 11% increase in customer deposits, led to an underlying increase in interest income shown here of approximately $300,000 versus the prior year.
+As shown in the bottom graph, with the liquidation of the majority of the treasury notes, as Sean discussed, the average maturity of the portfolio has been reduced approximately 5 months.
+Moving on to Slide #6, our quarterly financial dashboard, I will just highlight a couple of items of note.
+Variable expenses represented 57.3% of our total expenses for the quarter, exceeding our target of keeping more than 50% of our total expenses variable in nature.
+Non-variable expenses, which are made up of both fixed expenses and bad debt expense, increased $14.1 million or 24%, driven by the acquisition of the Sterne Agee and ICAP businesses, which made up $10.5 million of the increase.
+Net income from continuing operations for the second quarter was $11 million versus $14.5 million in the prior year, which resulted in a 9.8% return on equity, below our target of 15%.
+Finally, in closing out the review of the quarterly results, our book value per share increased 12% to $24.42 per share.
+We did not repurchase any of our common stock during the second quarter.
+Next, I'll move on to a discussion of the year-to-date results and refer to Slide #7.
+Similar to the quarterly results, all segments showed growth in operating revenues, with the exception of the Securities segment.
+The largest gainer was once again the CES segment, adding $64.7 million, which was driven by the acquisition of the Sterne Agee and ICAP businesses discussed earlier, which add an incremental $52.1 million.
+In addition, Physical Commodities segment added $7.2 million in revenue over the prior year, while the Commercial Hedging and Global Payments businesses added $10.1 million and $8.9 million, respectively.
+On a year-to-date basis, the unallocated overhead variance was largely driven by the mark-to-market on the interest rate program, with the current year-to-date period reflecting a $5.8 million unrealized loss, while the prior year-to-date period reflected a $200,000 unrealized gain.
+Moving on to Slide #8 for a discussion of the variance in pretax income by segment for the year-to-date period.
+The large increase in CES operating revenues resulted in the $6.6 million increase in segment income, once again, somewhat tempered by the higher introducing broker commissions and the independent wealth management business.
+The large negative variance down $15.5 million in the Securities segment was primarily driven by the strong performance in the prior year in equity market-making, as well as the effect of the devaluation of the Argentine peso, which led to strong results in our Argentine debt trading and asset management businesses in the prior year-to-date period.
+Commercial Hedging grew segment income by $5.3 million, while Global Payments and Physical Commodities increased $5.6 million and $4 million, respectively.
+Once again, the negative variance in unallocated overhead was driven by the mark-to-market on the interest rate program I just discussed as well as the acquisition of the Sterne Agee businesses in the fourth quarter of the prior year.
+Finally, I will touch on the year-to-date dashboard, which is Slide #9 in the presentation.
+Variable expenses are above our internal target of exceeding 50% of total expenses coming in at 57.4% of the total.
+Non-variable expenses increased $28.1 million or 24% over the prior year, with the Sterne Agee and ICAP businesses contributing $21.3 million of that increase.
+Net income was $17.3 million for the current year-to-date period as compared to $23.3 million in the prior year.
+The return on equity for the year-to-date period was 7.8%, once again below our internal target of 15%.
+With that, I would like to turn it back to Sean to wrap up.
+Thanks, Bill.
+While we are disappointed with our Q2 and year-to-date results, we believe that these are acceptable given the very low volatility environment we have experienced.
+This is a testament to our diverse and growing client base and a focus on keeping costs variable.
+We believe that it is unlikely that volatility will remain at current levels for an extended period, and the continued withdrawal of the Fed and other central banks from the market should encourage increased volatility levels.
+The increase of interest rates and the prospect of more hikes are big positives for us.
+We continue to see consolidation in our part of the market, which is generally positive, and allowing us to expand our customer footprint.
+We stand poised to become a best-in-class franchise, offering our global customers high-quality execution, both in the high-tech and electronic arenas, insightful market intelligence and post-trade clearing services in almost all markets and asset classes.
+This is a comprehensive array of products and services, which should allow us to take advantage of the large and noticeable, and as yet unfilled, void in the market created by the demise of certain larger financial franchises during the financial crisis.
+So with that, I'd like to send back to the operator to open the Q&A session.
+Operator.
+Okay.
+Go ahead.
+We'll take the question.
+Well, I don't think we want to be in the business of predicting how many interest rate increases we get, but the math remains the same.
+If the delta on the interest rates increases by that amount, we should see that amount of earnings accrue to us incrementally.
+So the math's exactly the same.
+You just got to look at the delta and assume how much further we're going to go up from here, and you can do the math on what we think that should mean for us in terms of earnings.
+No, I'm not sure I exactly follow the question.
+I guess, what we were really trying to do is increase and enhance our earnings from that float 3 years ago, when in some quarters, we're earning 3 basis points on short-term T-bills and money market funds, right.
+So we decided to ladder out our program.
+I forget where it we started exactly.
+We probably went from -- for that portion, we went from 3 basis points to kind of 30 basis points.
+And then as the program matured and we rolled the ladder over, we eventually and steadily increased to the point to where, last quarter, it was earning us 108 basis points.
+The problem is, the short-term curve or the short-term end of the curve has gone from 3 basis points to, in some instances, we earning 90 basis points.
+So the enhancement we were receiving from our interest rate program had eroded to the point where we couldn't justify the allocation of capital to that program, because taking on those treasury positions required us to put more capital into our business for a regulatory haircut.
+So at that point, it was just a capital allocation decision.
+We weren't making the right return.
+Fortunately, we could exit that program without crystallizing any material losses or gains either way.
+And we've probably now, for a short period of time, are going to earn slightly less than we were earning.
+But if we get 1 interest rate increase, we will be in a better position than we would have been.
+And from there on, we are just going to be incrementally better in terms of interest rate increases.
+So that was really our logic.
+It doesn't mean we don't think that program worked.
+We think the program worked fantastically well for us.
+We've recorded pretax earnings of $15 million over a 3-year period, which we would not have seen.
+And if the yield curve steepens again, then it will be appropriate for us to look to allocate capital once again to enhance the earnings from that float.
+So this is just our attempt to continuously try and manage and maximize the earnings we get, from the endowment we get from our customers, which is the customer float.
+So I guess, that's how we thought about it.
+I'll let Bill give you the details, but a large portion of that came from the addition of Sterne Agee and ICAP.
+And remember, in the ICAP financial reporting, we have about $900,000 a quarter, which was really part of the purchase price.
+It was -- we agreed with the vendor or the seller of that business that we would pay an amount upfront, and over a period of time to secure the team to move over to us.
+So it was sort of sign-on bonuses, a one-time thing.
+That's about $900,000.
+So that is sort of a somewhat temporary item, but I believe the rest of it is all related to our acquisition.
+So Bill, is that -- do you have any more color on that.
+I don't have the numbers in front of me.
+Yes.
+I mean, it was up about 17% versus last year.
+And 7% of that was variable, and that is coming from higher net operating revenues in the business.
+But the fixed portion of it was up $8.8 million.
+And of that $8.8 million, $3.6 million of it came from the Sterne Agee business acquisition, another $1.4 million came from the ICAP voice brokerage business we acquired, and then the other remainder is $1.9 million came from the expansion of our IT.
+We spoke for a couple of quarters here now about we've been expanding our IT operation to just get smarter and better in that area.
+And it has led to increase in headcount.
+So that was up about $1.9 million versus the same period last year.
+Well, I think you have to ask smarter guys than us.
+I mean, you just need to turn on CNBC and everyone's talking about the extraordinarily low volatility.
+And obviously, it's sort of confounding at some level.
+So I don't have any good insight other than I'm sort of totally kind of puzzled by it all.
+You do see a -- I think a pretty volatile environment around us, both domestically and externally from a sort of political point of view.
+You also see that the Fed is starting to withdraw.
+And I'm a firm believer that the Fed and the central banks during the financial crisis, their intervention of the market, I think, by design, dampened volatility.
+So if you look at volatility throughout the financial crisis, it's definitely at a much lower level than it was prior.
+But they're starting to exit.
+So as I said in the prior quarter, I was sort of hoping for increased volatility because all the things that I think drive volatility were sort of in place.
+A little bit of uncertainty, sort of a new administration in place, Fed withdrawing from the markets, a little bit of concern over Brexit and French elections, I mean, it sort of like teed up perfectly for more volatility.
+But I couldn't have been more wrong.
+So I'm really not sure, <UNK>.
+It's vexing.
+But at the end of the day, we control the things we can control, and that is to keep growing our customer base, to get the bigger share of wallet we can, to serve our customers, take advantage of opportunities to expand into new areas.
+And at the end of the day, when the volatility comes back, if we -- and it will -- if we've done all those things, we will see a greater revenue stream as a result.
+So all we can do is manage what we can manage, I guess.
+But if you have any good ideas, let me know.
+I'm not sure I can be smart on that one.
+Yes.
+So it's an interesting comment.
+I'm actually down here in Birmingham.
+We just finished our board meetings this week.
+And you know, we were talking about it.
+And I think our general view was, if we have had this level of volatility maybe 3 years ago, we would have had a much worse quarter, for sure.
+So I do think we -- our business has scaled up a little bit, which helps.
+I think our business is more diversified than it has been previously.
+We've made some good acquisitions in businesses that I think are less correlated to what we already do.
+So I think all of those things supports what you said.
+And nice of you to say that.
+We appreciate it.
+I do think this was a good result given the macro environment.
+I mean, it doesn't make it any easier for us as management to accept or like that.
+But I do think it was a good result given the macro environment, and I do think we have seen quarters over the last year or 2, where we have come close or we exceeded our 15% ROE.
+And I think in a more normal environment, we would be there this quarter, if we've had some volatility.
+And then, of course, you've got interest rates starting to kick in for us.
+So I think, generally, we remain positive.
+We think our business is very well placed, and we can manage what we can manage and control what we can control.
+And the rest of it, we just have to assume that in the long-term, conditions are setting up for a better environment for us generally.
+But that may not hold quarter-to-quarter or every quarter.
+So that's sort of our thought on it.
+Okay.
+Well, thanks very much, everyone.
+Appreciate your time and interest, and we will be speaking to you in 3 months' time.
+Thank you.

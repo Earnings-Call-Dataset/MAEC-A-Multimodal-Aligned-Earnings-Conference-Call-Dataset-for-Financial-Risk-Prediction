@@ -1,0 +1,118 @@
+Good morning, everyone and thank you for joining us today
+Cognizant delivered solid third quarter results
+Q3 revenue was $3.77 billion, which is at the high end of our guided range and up 9.1% year-over-year
+Three of our four business segments were strong contributors to our performance
+Healthcare, product and resources and communications and media and technology averaged double digit growth rates
+Our third quarter digital related revenue grew well above company average
+And to further enhance our digital capabilities, we recently announced two acquisitions
+Netcentric, a leading independent Adobe partner in Europe and a leading provider of digital experience and marketing solutions for some of the world's most recognized brands
+And Zone, a UK based leading independent full service digital agency that specializes in interactive digital strategy, technology and content creation
+These acquisitions will broaden our portfolio of digital services and solutions
+To continue with our financial results, non-GAAP EPS quarter for the quarter was $0.98 and our non-GAAP operating margin was 20%
+For 2017, we delivered three consecutive quarters of strong execution at the top and bottom lines
+This consistent performance underscores the soundness of our strategy and investments and the continuing strong demand for our portfolio of services
+Turning to guidance, we are again raising the low end of our revenue guidance range and expect full year revenue to be in the range of $14.78 billion and $14.84 billion
+And we expect our full year 2017 non-GAAP operating margin to be at least 19.6%
+Now, we're in the business to help our clients adapt, compete and grow in the face of continual shifts and disruptions within their markets
+Therefore, we've systematically built out significant capabilities to enable clients to transition from the physical to the digital world
+Today making that shift has become mandatory for them
+Most clients now know they must become digital enterprises themselves or more precisely, the right mix of physical and digital
+So we work with them to transform their business, operating and technology models simultaneously
+This three layer transformation is what we mean when we talk about digital at scale
+In prior calls, we've discussed how we enabled this transformation, applying our deep industry knowledge, innovation, advanced technologies and consulting expertise
+More recently, we've also been emphasizing our client co-innovation centers and our platform based software and solutions
+The result of developing and integrating all these capabilities and intellectual property is that we are turning Cognizant into a different kind of company that's envisioning and building the digital economy
+Increasingly, we see ourselves as a leading firm that develops repeatable solutions by infusing software and services to deliver business outcomes that make a real difference to clients
+And this morning, I'd like to highlight how this new Cognizant is resonating with clients and winning in digital
+The best place to begin is with a few client examples of digital at scale, delivering a competitive upside for Cognizant
+For a US car company that's preparing for a future of ride sharing and driverless cars, a team of consultants, developers and social scientists from Cognizant and ReD associates help to reimagine the relationship between driver and automaker
+And then they jointly develop a marketplace that offers mobility services to help drivers move around more easily and access services remotely from vehicle diagnostics to smart parking reservations
+For a leading financial institution facing slowing growth in a major business, Cognizant developed an artificial intelligence enabled robotic investment advisor that would appeal to a new market of approximately 90 million millennials and that will enable the firm to achieve its goal of doubling retail assets under management by 2020. To envision and build this digital solution, we brought a cross-functional team from the client together with Cognizant digital business designers, strategists, technologists and financial services experts
+And we also helped a leading life sciences company bring to market new drugs with proven therapeutic benefits for smaller patient populations
+We assembled a team of doctors, nurses, pharmacists and technology and design consultants to drive efficiencies in the clinical development process and apply digital marketing techniques
+As a result, the client was able to achieve the goal of bringing new therapies to even relatively small patient populations
+Absent this new approach, these drugs might not have been economical to develop and market
+The upside for Cognizant is that most of the world's companies are now dealing with these digital at scale challenges in one form or another
+And therefore, we can keep combining our services and software in new ways to create repeatable solutions for a wide variety of clients
+Now, enterprise transformation is such a demanding work that we make sure that all our services and solutions are organized from the client's perspective, which is why last year we established Cognizant digital business, Cognizant digital operations and Cognizant Digital systems and technology
+These three practice areas, which run across our business segment, mirror our client needs and the parts of their enterprises they need to transform
+And Raj will talk about how our digital practices are progressing in solving client's current and emerging challenges
+Within these practices, our value to clients hinges of course on the depth, breadth and currency of our knowledge
+So we've been aggressively building high-end digital skills in areas such as data science, design thinking, cyber security, the Internet of Things, artificial intelligence and automation
+But strong digital skills alone are not enough
+So, we combine these skills with our industry expertise to speak the language and understand the core processes and technologies of every industry we specialize it
+And we draw on this knowledge to build specialized software platforms and industry specific solutions to quickly create new value for clients
+You can see all of this come together for example in the way we've invested to extend our leadership as a fully integrated digital healthcare technology and operations provider
+We've made major health care investments, beginning with the TriZetto healthcare administration platform, a leading software platform used by payers and providers
+Earlier this year, we moved our TriZetto products to the Microsoft Azure Cloud and launched our healthcare cloud solution, a SaaS platform for healthcare payers of any size
+And having completed the TMG Health acquisition in August, we've now combined TriZetto with the business process services of TMG
+TMG Health has further strengthened our scalable business process as a service or BPAAS solution for the government and public health program markets
+These investments along with our market leading footprint in the commercial space establish Cognizant as the top solution provider of enhanced government processed platforms, digital solutions and services for commercial and government managed healthcare programs in the US
+Since TriZetto, we have invested in many other platforms in areas such as digital content operations, sales transformation, mortgage servicing and patient safety
+All of these technologies and platforms provide the benefit of scale, enabling Cognizant to develop repeatable offerings that can be used by multiple clients across multiple markets
+While digital at scale is a heavy lift, Cognizant has the resume to execute this transformation successfully
+It starts with a high level of client trust that encourages and enables the successful co-innovation of solutions with clients
+Once we've established for the future, we know how to design, prototype and scale digital experiences to reshape clients, products and business models
+But building digital experiences for the front end of a client's business is not enough
+We have the deep knowledge to help clients reengineer, digitize, manage and operate their core business processes and build software platform for specific processes and industries
+We couple this with a mastery of the technologies, software and tools to develop digital solutions as well as the ability to combine digital technologies with clients' heritage systems and applications
+And we provide much of this capability to clients using our highly efficient and reliable global delivery model, which works at scale
+And finally, we have the global consulting expertise to advice on strategy, operations and technology and orchestrate all of the knowledge, services, software and solutions that come together to enable enterprise transformation
+Cognizant bring this entire set of capabilities to the table
+That's what continues to differentiate us in the marketplace
+And by integrating all of these capabilities and intellectual property, that's how we're turning Cognizant into a different kind of company that's envisioning and building the digital economy
+And now over to Raj who will talk about the work our three practices are doing to drive digital at scale for clients and then review our business segment performance
+I'll talk a little bit about the overall plan
+I think we're roughly right on track right where we expected to be
+I think about the transition or the shift to digital in two pieces that sort of the services that we offer to clients
+And I think we continue to make great progress there
+I'll let <UNK> comment on the overall digital revenue, it grew again double digit - at a double digit pace much ahead company average this quarter
+The two acquisitions that we announced a few days ago Netcentric and Zone add to that capability
+And we feel good about the transition of the service mix to digital
+I think it's also important that just to note that as we've said before that today our portfolio if you look at the entire portfolio of digital revenue it is running at a higher margin than the rest of the business
+So overall just a very healthy mix shift going on and I think that that will continue to unfold through 2018 and beyond
+The other side of that - of this transition that we talked about when we laid out the plan for you a few quarters ago, at the beginning of this year is on the margin improvement side
+And I think we've demonstrated there that we're well on track there
+This year, if anything I think we're a little bit ahead of where we thought we'd be
+And we'll continue to, you know, we feel very comfortable as <UNK> said in her prepared remarks with a target of 22% by 2019. And I think we'll just keep executing on that
+And I'll turn it <UNK> to talk about percent of digit revenue
+Having said that, <UNK> it's Frank, I think it's worth adding one additional piece of color for you which is that, <UNK> mentioned that last quarter digital revenue as a percent of total company revenue was about 26%
+We are right around there in financial services as well
+So this isn't a story of we're waiting for digital revenue and financial services to convert
+We're already doing a substantial amount of work in digital, in financial services
+So I don't think by any stretch that we are not a significant player in financial - in the digital aspects of financial services as these big money center banks start to think about and start to execute on their digital plans
+Again, I want to separate
+We are already doing a considerable amount of work
+So, yet there are deals that if they convert could be significant going down the road, but we are already - the point I was making, <UNK>, is that today digital is already and financial services is roughly in line with our company average
+So think about the 26% number, we're right around there in financial services
+So we're already doing a considerable amount of work in digital and financial services
+Look I think <UNK>, I'll turn it, I'll let Raj answer as well, but it's Frank
+Look I think changes is, change plays to our strengths actually
+As the healthcare market changes and evolves we have just sort of a very strong end to end portfolio of service offerings whether that's consulting to help our clients figure out what they need to do to respond to the changes, whether that's operating in terms of our BPaaS offerings and our ability to run core parts of the operation for our client or whether that's on the technology front as they think about modernizing and digitizing their technology backbone
+I think we're very well positioned both at the business model, the operating model and the technology model level
+So as these changes come to healthcare given that we have such a strong portfolio of assets both software assets, intellectual property in the form of our people and capabilities
+I think you put that together and we're very - we feel like we're very well positioned for healthcare going forward
+It's Frank, let me take that
+When closed the two acquisitions will become part of the Cognizant digital business practice area
+So recall that as I said in my prepared remarks, we have - and Raj talked about as well, three big practice areas, Cognizant Digital Business, Cognizant Digital Operations and Cognizant Digital Systems and Technology, these two acquisitions will become part of Cognizant Digital Business
+We will continue to let them operate relatively independently, but of course we have a synergy plan which is largely focused on revenue synergies around taking their capabilities and taking those to a broad range of Cognizant clients
+We do a tremendous amount of marketing work today for our clients across all three practice areas
+So in Cognizant Digital Business, we're doing marketing work that relates to content, content creation, marketing, marketing strategy, channels those kinds of things
+In Cognizant Digital Operations we're doing marketing related work that's largely around content and content management, content creation, and curation that Raj spoke a little bit about in his prepared remarks
+And in Cognizant Digital Systems and Technology, we're doing a lot of marketing work that you can think about in the broad area of marketing technology, right
+So across all of our three practice areas, we're doing a significant amount of marketing related work
+These acquisitions in a sense will allow us to put a front end on a lot of that work that we're doing and take that to a client in a more integrated and holistic way
+And so that's broad plan
+So we'll run them relatively independently, let them continue to do the great work that they've been doing for their clients
+We'll execute on the revenue synergy by bringing them - largely by bringing them into our clients
+We think there maybe some opportunity to cross-sell our traditional services into their clients and we'll continue to execute on that going forward
+Yeah, I think what I was referring to when I talked about repeatable is the sort of the solution packages and solution offerings that we're creating which we've been talking to you about in the past things like our BPaaS offerings and so on and so forth
+By combining sort of our services and software capabilities increasingly together, we're creating these - think of them as solution offerings capabilities that we take to the market
+We've always as a company tracked repeat business from our existing clients
+And I think that's where you'll really start - where you really see it continue to play out is repeat business from our existing clients because that's going to be the metric that we focus on is to say, are we continuing to be relevant to our existing clients
+And to be relevant to our existing clients, we've got to continue to innovate, we've got to continue to find new sources of value and that shows up in repeat business because every year or every period, our clients are assessing the work we're doing for them and they're choosing to give us new work based on the relevance of that work
+So the metric that we use internally is repeat business from our existing customer base which is the metric we've been tracking from the beginning as far as I can remember
+Well, thanks very much
+Look everyone thanks again for joining us today and thanks for your questions
+We're pleased with the results this quarter and I look forward to speaking with you again next quarter
+Thank you

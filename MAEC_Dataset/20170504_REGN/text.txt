@@ -1,0 +1,115 @@
+Thank you, Len, and a very good morning to everyone who has joined us today
+On the call today, I would like to focus on our ongoing clinical development program for dupilumab, review some important data on the long-term use of EYLEA, share some updates on our immuno-oncology program, as well as the progress of the rest of our pipeline
+I'd like to begin with the approval of Dupixent, our IL-4/IL-13 blocker for the treatment of moderate to severe atopic dermatitis in adult patients whose disease is not adequately controlled with topical prescription therapies or when those therapies are not advisable
+This approval is the culmination of a scientific quest that has been decades in the making
+While Bob <UNK> will address the ongoing launch of Dupixent in greater detail, I would like to focus on the progress that we are making in the clinic with dupilumab in various other indications
+Asthma is an important late-stage opportunity where we are investigating in the use of dupilumab
+Despite the recent approval of drugs from the IL-5 inhibitor class in what has been characterized as the allergic patient population, we believe there is an unmet medical need for these patients for a drug that can markedly improve lung function, as well as provide further protection against exacerbations
+In addition, there is a need for drugs that will show efficacy in a wider patient population across all allergic classifications
+Based on results from our Phase 2B pivotal study in asthma, where we showed robust improvements in both lung function as measured by FEV1 and reductions in exacerbations, in all patients regardless of their allergic classification, we believe that dupilumab has the potential, if approved, to fill these needs
+Our second pivotal study in the adult asthma indication, the LIBERTY ASTHMA QUEST study in patients with uncontrolled persistent asthma is fully enrolled and we continue to expect top line data later this year
+We believe these data have the potential to confirm the broad efficacy we observed in the first pivotal study
+If these data are positive, we expect to complete a regulatory submission in the United States in the fourth quarter of this year
+We also recently started enrolling patients in the Phase 3 study of dupilumab in pediatric asthma patients between the ages of 6 and 11 years in the second quarter of 2017. We're also evaluating dupilumab in pediatric atopic dermatitis, where there is a high unmet need, and we were again granted breakthrough status by the FDA
+Positive data from the open label Phase 2A trial in patients 6 to 17 years old with moderate to severe atopic dermatitis were recently presented at the American Academy of Dermatology Conference in March
+The safety and efficacy data from this trial were very encouraging
+We have initiated a Phase 3 study of dupilumab in adolescents between the ages of 12 to 17. We expect to initiate in the second quarter of 2017 a second Phase 3 trial in pediatric patients between the ages of 6 and 11 years
+We're also investigating dupilumab in a third clinical setting, which is the treatment of patients with nasal polyps
+Following up on earlier positive data from our Phase 2 study in this population, we now have two separate Phase 3 studies that are currently enrolling patients
+As Len mentioned, we recently obtained positive results in a Phase 2 proof-of-concept study of dupilumab in a fourth important clinical setting, which is in patients with active moderate to severe eosinophilic esophagitis, a chronic inflammation of the esophagus and one of the major causes of dysphasia or difficulty in swallowing
+In this Phase 2 study, we observed clinically meaningful efficacy for dupilumab, as well as profound histologic and endoscopic improvement, together with a safety profile consistent with our previous clinical experience
+Detailed data from this study will be presented in an upcoming medical conference
+While eosinophilic esophagitis can be debilitating in adults, it is especially concerning in the pediatric population, where it can be a cause of failure to thrive, and this could potentially be an area of future clinical investigation for dupilumab
+It is believed that eosinophilic esophagitis can be a manifestation of food allergies, further supporting the rationale of exploring the efficacy of dupilumab in patients suffering from severe specific food allergies
+In the second half of 2017, we intend to initiate a Phase 2 study of dupilumab in patients with specific food allergy
+The positive data for dupilumab across the four allergic or atopic conditions we have investigated to date – that is atopic dermatitis, asthma, nasal polyps, and now eosinophilic esophagitis – is consistent with our long-standing hypothesis that these allergic conditions reflect the same fundamental disease process triggered by overactivity of the IL-4/IL-13 axis
+This unifying hypothesis suggests that the differences between these conditions largely reflects how overactivity of IL-4/IL-13 pathway manifests differently in different tissues
+For example, overactivity of IL-4 and IL-13 in the skin triggers atopic dermatitis
+In the lower airway, it results in asthma
+In the upper GI tract, it results in eosinophilic esophagitis
+Unfortunately for many patients, IL-4/IL-13-driven allergies can manifest in multiple sites at the same time
+Since dupilumab inhibits the key driver of this pathway in all these settings, we believe that it can represent a mechanism-based approach to treat the root cause of these allergic conditions rather than each individual indication on a separate basis
+This represents a fundamentally new way to think of, group and treat diseases previously and otherwise thought of as disparate and requiring distinct therapies – that is mechanism-based treatment directed not by a disease organ-specific manifestations, but by the disease's fundamental cause and mechanism
+We're also encouraged by the safety profile that we have observed thus far for dupilumab in these settings
+I'd like to remind you that the current regulatory framework does not allow for a mechanism-based approach to treatment, but rather an indication-based approach
+We are very interested in discussing this type of mechanism-based approach for treating allergic or atopic disease with the regulatory authorities while we continue to pursue more conventional approval strategies
+Turning now to Kevzara, our IL-6 receptor antibody for rheumatoid arthritis
+As Len mentioned, we anticipate a regulatory decision in the United States, where we've been granted an FDA action date of May 22. In April of 2017, the European Medicines Agency's Committee for Medicinal Products for Human Use or CHMP adopted a positive opinion for Kevzara for the treatment of moderate to severe RA in adults
+We expect a potential approval in Europe for Kevzara in the second quarter of 2017. We have also made regulatory submissions for Kevzara in Japan
+Beyond RA, we are currently enrolling patients in the Phase 2 clinical study of sarilumab for the treatment of polyarticular-course juvenile idiopathic arthritis
+We're also considering investigating the use of sarilumab in other indications
+Turning to our other late-stage programs, I'd like to begin with EYLEA
+As Len mentioned, we are committed to maintaining our leadership position in bringing important advances to patients with retinal diseases
+To that end, we are conducting two Phase 2 studies of EYLEA in combination with nesvacumab, our antibody to Ang2, one in diabetic macular edema or DME and another in neovascular age-related macular degeneration or wet AMD
+Both studies are fully enrolled, and we will evaluate efficacy and safety at 36 weeks, which we expect in the second half of this year
+In addition, we are also investing in EYLEA as a monotherapy in a Phase 3 study in patients with non-proliferative diabetic retinopathy without diabetic macular edema
+This study, called PANORAMA, continues to enroll patients
+I'd like to spend a few moments focusing on findings from the long-term follow-up of our Phase 3 VIEW 1 study of EYLEA in patients with wet AMD, which were recently published in Ophthalmology Retina
+As background, existing long-term data with other anti-VEGF agents, most notably from the government-sponsored CATT study, have shown that early visual gains obtained with anti-VEGF agents were not maintained over time
+In fact, by the fifth year, patient had lost, on average, over three letters compared to their original baseline
+Over 20% of patients have progressed to become legally blind by year five
+It had been postulated that this loss of vision is due to inexorable progression of the disease process itself over time, even in the face of anti-VEGF treatment
+Others had raised the theory that the anti-VEGF agents themselves contribute to geographic atrophy over time and thus to the subsequent vision loss
+In marked contrast to the CATT study, long-term follow-up data from the VIEW 1 study, where patients who were treated with fixed interval EYLEA dosing and received EYLEA on average every 12 weeks in year 2 and every 8 weeks in year 3 and 4 showed that the vision gains observed at the end of the first year were on average largely maintained at 4 years
+These long-term results provide the first evidence that long-term treatment with anti-VEGF agents can maintain vision gains in patients with wet AMD
+We think these are very important findings for the field
+This data support our longstanding view that regular fixed interval dosing regimens result in substantially better visual outcomes compared to PRN or treat-and-extend dosing regimens, which over time result in suboptimal visual acuity benefits and even in substantial visual loss
+We think this is probably true regardless of the anti-VEGF agent being utilized
+Although we saw that more than 50% – about 50% of the patients in the second year exploratory treatment phase of our long-term trial received fixed corollary treatment and maintained their vision we are more comfortable that the every two-months regimen is likely to maintain vision over the long term based on larger and long-term experience
+With regards to convenience-based regimens such as PRN and treat-and-extend approaches, we think they are lacking in convincing and long-term evidence for their ability to maintain vision over the long-term
+With regards to this point, we think that doctors should be strongly cautioning their patients that choosing convenience-based dosing has a high risk of causing permanent vision loss for their patients We think it is important that retinal specialists and public health officials begin to recognize the potential public health crisis that may be resulting from irregular dosing regimens that do not follow the FDA-recommended usage guidelines and that the loss of vision that these protocols may be causing may be needlessly occurring in thousands of patients, leaving many irrevocably legally blind
+Moving on to Praluent, our PCSK9 inhibitor antibody for lowering LDL cholesterol
+We are pleased to announce that Praluent was recently approved in a 300-milligram once monthly dosing regimen
+We expect to report top line data from the 18,000 patient ODYSSEY Outcomes study in the first quarter of 2018. Positive outcome data reported with PCSK9 inhibitors further supports the hypothesis that lowering LDL cholesterol with the PCSK9 inhibitor can reduce cardiovascular risk
+We look forward to sharing data from our study in early 2018. In addition to our efforts with Praluent and cardiovascular disease, we are also developing evinacumab, our antibody to Angptl-3 for the treatment of homozygous familial hypercholesterolemia or homozygous FH
+In March of 2017, we announced that the FDA granted evinacumab Breakthrough Designation Status
+Just a few weeks ago, we presented a positive data from a Phase 2 proof of concept study of evinacumab in patients with homozygous FH
+This data showed that patients who normally don't respond well to statins or to PCSK9 experienced an average reduction of 50% in their LDL cholesterol following two subcutaneous injections of evinacumab with an acceptable safety profile
+Our immuno-oncology portfolio continues to progress
+Our potentially pivotal study of Regeneron 2810, our PD-1 antibody, continues to enroll patients in the cutaneous squamous cell carcinoma study
+We look forward to presenting data from our expansion on in cutaneous squamous cell carcinoma patients from our Phase 1 trial at an all-abstract session at the American Society of Clinical Oncology, or ASCO, in June
+We also expect to initiate clinical studies in non-small cell lung cancer and basal cell carcinoma in 2017. Our second checkpoint inhibitor, REGN3767, an antibody to LAG-3 is also currently in clinical development where we are studying it both in the mono-therapy setting and in combination with our PD1 antibody
+As a reminder, we expect additional IO targets to enter development over the next several years
+Additionally, our bispecific CD20xCD3 antibody is also currently being studied in the clinic, as well as in mono-therapy and in combination with our PD-1 antibody
+Determining the optimal dosage level with these therapies that are activating the immune system is very important as witnessed by some of the toxicities demonstrated in other drug classes such as the CAR-Ts
+While the process has been slow, we believe we are nearing dose selection
+Also in late-stage development is suptavumab, also known as REGN2222, which is an antibody in development for respiratory syncytial virus, or RSV
+Our Phase 3 study has finished enrolling patients, and we expect to report top line data from this study in the second half of the year
+We're also advancing our Phase 2 program for fasinumab, our nerve growth factor antibody for pain
+Development in other parts of our early-stage pipeline continues to advance
+REGN2477, our Activin A antibody is in clinical development for the treatment of the rare disease Fibrodysplasia Ossificans Progressiva, or FOP
+We expect to begin a Phase 2 trial in this indication in the second half of 2017. We are also studying REGN2477 in combination with trevogrumab, our antibody to GFD8, in a Phase 1 trial which is fully enrolled
+Finally, we also initiated Phase 1 multiple ascending dose trial in asthma with REGN3500, our antibody interleukin-33 for inflammatory diseases, in the first quarter of 2017. I think it's important to remind you that all of these programs and all the antibodies in our pipeline are entirely developed and discovered in-house
+Before I turn the call over to Bob, I want to take a moment to share my excitement about the first group of Regeneron Science Talent Search winners who were announced in March
+Our sponsorship of this storied high school science competition underscores our commitment to fostering the next generation of scientific leaders
+After meeting these promising high school students, we feel encouraged that our future is in good hands
+With that, let me turn the call over to Bob <UNK>
+Yeah
+A lot of questions in there
+First, we did actually comment on the CD20 by CD3 biospecific that it's moving along, that basically we've spent a lot of time because as obviously, you've all noticed that there have been concerns with similar types of agents, as well as the CAR-T approaches in terms of really getting the right dose and avoiding very dangerous toxicity
+So, we've been very careful about dose selection in that program, and we're hoping very close to be – to the point where we can initiate larger trials
+In terms of our C5 antibody, I don't know how much we've said publicly about it, but I guess we've said that we will be in the clinic with it this year and I'm sorry I didn't make any references
+That was just an oversight on my part
+In terms of our Outcomes study, I have to say there are so many differences between our design and the four-year design that I think it's almost impossible to try to model it and figure out are the results going to be substantially different
+I think that the four-year data pretty strongly show that its results are very consistent with the sort of benefits that, when obtained in terms of cardiovascular outcomes with the proportional LDL lowering, and that's pretty much exactly what we hope to show, that we're pretty much on the same sort of curve as the statins and now the first results that are coming out of the PCSK9 class
+You are absolutely right that a lot of these allergic diseases, it's not only atopic dermatitis, but eosinophilic esophagitis and so forth and so on, unfortunately, afflict the very young
+There's a very deliberate process that we work with with regulatory authorities to progress to the youngest in our population because we all feel that we have to be very careful, and we're working very closely with the FDA to follow along those guidelines to be able to bring this treatment down the line to the youngest of patients who really need it
+But as you said, there is a very important unmet need in these populations for all sorts of allergic diseases
+Yeah
+About PD-1 and PD-L1 levels and so forth, I don't think there is actually that much of a controversy
+I think that all the data shows that in most cases a higher PDL expression correlates with better responses
+The controversy I think that you're referring to has to do with the fact that the first line lung study from Merck with KEYTRUDA was very impressively positive whereas the very similar population studied with the BMS drug was not
+And this did not really seem to be dependent on the PDL levels
+People are really working hard to understand why the Bristol drug showed very disappointing results in that study
+Our goal is to show that our drug is very effective in the various lung cancer indications and we're designing, we hope and we believe robust studies to demonstrate that
+And we are, I believe, going to be announcing that we're going to be – when we initiate these studies in the very, very near future
+Well, as you know, the power of the study is more dependent on events rather than numbers of patients that actually enrolled
+We feel, though, there's always concerns, we feel that we're adequately powered, and we're hoping that the study will meet its expectations
+Yeah
+I think it will be a very long time before one has the long-term data with a new agent to be able to say whether or not it could possibly not only cause initial visual gains but maintain them, which is, I think, more important over the four- and five-year time intervals
+Right now, we have the only such study that shows that, and the only such data
+I think that the field has been going in the wrong direction focusing on convenience, okay, as opposed to focusing on vision
+We all know, we all cherish our vision
+There's nothing more important than maintaining our vision, and we think that there's been an over-focus on convenience as opposed to on bringing back – these drugs have the ability to give back vision, and we have now shown that there's at least one drug with one regimen or an assorted regimen that has the ability to maintain this over the long term
+And I think that we all have to focus on that and less on trying to save an injection or two per year, which is at most what all of these non-medicine-based approaches have been doing
+I think this is really important for the field, and we hope, as Bob says, that doctors can be educated about this and stop experimenting on their patients and instead follow the FDA guidelines

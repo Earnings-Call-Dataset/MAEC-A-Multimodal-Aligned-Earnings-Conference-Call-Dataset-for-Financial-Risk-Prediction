@@ -1,0 +1,156 @@
+Clearly, we had robust growth again in Q4 with mobility.
+But we also had other vendor product sets that we also had very nice growth as well.
+Mobility is not the entire story on our growth in Europe.
+As <UNK> indicated, we have a portfolio of vendors and product sets, and we go to where the market allows us to achieve that demand.
+So in the end, we have responded very nicely and we have picked our spots, and we believe we can continue to grow in this market.
+Your comments on Apple are interesting.
+But keep in mind that the iPhone represents only about a third of our Apple sales.
+Apple is performing very well in the desktop, in the laptop and mobile space.
+We sell the Apple TV; we sell the Apple watch.
+So this is not just an iPhone phenomenon that's being manufactured inside of our growth story around Apple.
+And just to give you some broad other data points: our storage business in the US was up 21%.
+Our security business in the US was up 27%.
+This is not just Apple.
+There's a broad array of products that we sell.
+Apple happens to be one of the ones that there's good market demand on, and we are operating and executing against that demand very effectively.
+But there are other product areas that are growing and we are operating and executing against those just as effectively.
+I can't explain necessarily why.
+There's a lot of dynamics why IT spending varies up and down inside of a quarter, inside of a year, inside of a decade.
+The average IT spending historically is 4% to 6%.
+I think if you look at the research houses right now, they are all saying that IT spending in the US is below that 4% to 6% range.
+So at Tech Data, we respond to the realities of the market.
+We don't make the market.
+We don't create the demand.
+We respond to the realities of it.
+And the realities are that IT spending is moderating in the Americas.
+It's reflected not only in our results, but in all of the results in the ecosystem.
+Our competitors, the vendor partners -- we sell their products.
+And the publicly traded reseller customers that are ours all point to the same place of some moderating demand in the Americas.
+So I don't think it's our role to explain why.
+It's our role to grow as much as we can profitably inside the market opportunity that exists.
+And to be as efficient and as effective as we possibly can be to put our products and services into the market and grow -- as we said in our prepared comments, to try to grow faster than the market where we can do that profitably.
+So I wish I had the reasons why IT spending has slowed in the Americas.
+But that's not what we focus on.
+We focus on optimizing against the reality.
+Yes.
+I think that there's obviously -- when there are alternatives that exist, that slows down the IT decision cycle.
+So if the historical decision is do I put this application on a mainframe or do I put this application on an industry-standard server, that's pick one, A or B.
+The decision cycle is not that long.
+When you now factor in converged infrastructure and on-prem versus cloud and then hybrid cloud, it just gives the IT infrastructure, the CIOs of the world, more alternatives to try to factor what's the best solution for their company.
+The good news is at Tech Data, we sell all of those alternatives.
+We sell Intel-based; we sell proprietary servers.
+We sell bare metal in the cloud offerings, we sell converged infrastructure, we sell the software that makes all of that work together efficiently.
+We sell the as-a-service offerings that our vendor partners have.
+So while the decision cycles and processes may be more complex, from a Tech Data perspective, it's very important that we keep ourselves aligned with the vendor partners that are setting the IT agenda in the marketplace.
+And we are very well aligned with the leaders in that space.
+And so we get to benefit from the realities of the market.
+Our $200 million performance in the cloud I think speaks to the reality of what's really happening in the cloud.
+It's a slow and measured deployment.
+There are opportunities there, and our infrastructure and our set of offerings position us very well.
+As momentum builds in the cloud, we are prepared to be able to take advantage of that.
+Where the channel is today is very much in an awareness and education mode, trying to get the resellers to understand the cloud environment, get the resellers to understand the transitions their business models need to take, and to get them to begin to transact there.
+And so that's why we talked in our prepared comments about these group sessions that we run, where we accomplish that with many resellers.
+There's clearly momentum building, but the reality is Tech Data will sell much more on-prem technology in the next few quarters than we will cloud solutions.
+But we're prepared to sell both as the demand leads us there.
+Yes.
+So when you say vertical, I'm assuming you mean industry segments.
+And as <UNK> said in his prepared comments, healthcare and education, state and local were strong segments for us in the US.
+But we don't segment the market as discretely as you are describing at the industry level.
+We segment it at the size of the opportunity.
+That's why we talk about SMB or midsize businesses or enterprise businesses.
+And then we also segment it by the solution category, whether it's mobility or data center or consumer electronics.
+So we are not in a position to tell you that there's a vertical that's gotten weaker in the US.
+That's just not the way that we cover the markets.
+And that's not what our vendor partners ask us to do, either.
+So we can't give you much insight into that, other than big verticals like healthcare and public sector and education, we have dedicated resources that manage the resellers that sell into those verticals.
+And it's very clear to us the performance that exists there.
+No.
+My observation would be that -- first of all, as I've said for the decade that I've been here, this is a very competitive business that we are in.
+And I don't think it feels any different in either of our geographies this past quarter than it has felt in years gone by.
+There are very able competitors in our market space.
+We know them; they know us.
+And none of us are afraid of competing.
+But this doesn't feel any more competitive or any less competitive than it has in recent quarters.
+That's a very good observation.
+We had sales in Clearwater, sales in Toronto, and sales in Costa Rica.
+And over the course of the last year or so, we have been in the process of centralizing all of our phone sales in Clearwater.
+It does a couple of things for us.
+It allows us to get greater leverage of our management staffs.
+It allows us to more quickly do education and training.
+In a dynamic market like we are in right now, it's very important that we keep our sales team current on the architectures and technologies and solutions that our partners are bringing to the market.
+And consolidating in one place allows us to do that more efficiently.
+And it also allows us to, in a centralized fashion, to create headcount that we can then deploy out in the field in our customers' offices.
+So by centralizing, it allows us to be smarter, execute better, and have better coverage around the US.
+It's a process that we have begun to roll out.
+It's working very effectively.
+And we think in the long run it will allow us to cover the market opportunity better and be more competitive.
+I'll take the first part.
+As I said earlier, by consolidating, that ultimately frees up some resource, some headcount, some SG&A that we can redeploy into field coverage.
+As well, there are units inside of our team here in Clearwater that had been prior internally focused and now we are redeploying those resources to be out in the field in our customers' offices.
+So net-net there will be some increase in headcount, some decreases in headcount.
+I think in the final analysis, there won't be large increases in headcount in the Americas on this sales reengineering process that's taken place.
+But what our customers will see is more Tech Data coverage, covering more customers, both over the phone and in person, in their customers' offices.
+And that's really the important part to our vendors.
+And that creates the growth opportunities that we are searching for.
+Sure, yes.
+You are exactly right in regards to our cash flow, as we used a bit of cash as we ramp up for our seasonally strong fourth quarter in Europe.
+So that was not a surprise.
+We commented on that in our last call.
+In regards to capital deployment, as we indicated every quarter, we meet with our Board of Directors and outside advisors and look through our three alternatives, which, as you indicated, would be a stock buyback, M&A opportunities, and then, of course, organic growth.
+And there's really nothing new on that front.
+We continue to closely review our capital structure and we are going to do what's best for our shareholders and the return to them.
+So really nothing new to report in that regard.
+Clearly, we have a flexible balance sheet, one that allows us to seize on opportunities as they present themselves.
+So that's the good news: we have a very strong balance sheet.
+Again, our gross margins went down year over year by 5 basis points, which isn't all that significant.
+And there's lots of puts and takes to get to that decline.
+Clearly, mobility was stronger this quarter and it attaches a lower gross margin.
+But as we indicated earlier, it also attaches a lower amount of SG&A and a great capital turn, so very nice investments.
+So a lot of puts and takes, but nothing significant.
+And it's in line with our prior quarters.
+It's our seasonally strong quarter in Europe, which we have a significant mobility practice.
+It goes across all of our product segments.
+So it really is again the puts and takes.
+And we model it from bottoms up and we believe our gross margin is going to be in line with our prior quarters.
+We continue to look for improved profitability opportunities in both geographies.
+It's not a one and then the other; it's Europe is further along in the process that we run to try to optimize its performance.
+But it doesn't stop.
+We continue to look for more profitable vendor partners, more profitable technologies and solutions.
+But yet, as your question said, we still have to respond to the realities of the market.
+And in the market today, mobility products continue to be very, very fast-moving products.
+And that's an opportunity that we are responding to.
+We make every effort to try to balance that off with other, more profitable parts of our portfolio.
+But they are driven by the demand opportunity that exists that we respond to.
+Yes, our sales team is incented by a variety of factors, including sales growth, gross profit percentage growth, and a variety of factors that drive our performance that are key to our success.
+So very much aligned with the rest of the team at Tech Data.
+No.
+There is really a good mix of financial metrics that we award the team with.
+Return on invested capital is one of those metrics.
+But for the sales team, it's primarily sales, gross profit percentage, gross profit dollars, and so forth because they control that -- that's most of what is under their control.
+Exactly.
+As you indicated, there is a lot of different movements.
+We have significant operations in the UK, the Nordic region, and some other areas like the Swiss franc play in addition to the euro.
+The $1.07 peg is due to the recent movement here in the US expanding interest rates.
+And overseas, they are looking at lowering interest rates, and the pressure on the dollar.
+So we are guiding to what our bank consensus is telling us, which is $1.07.
+You should be able to get and will be able to get to the revenue in the various regions when you look at the Americas, which is primarily the US dollar.
+And with our guidance there and with the impact of exiting our Latin America operations, you should be able to get very close on that.
+And then the balance would be the European revenue level.
+So I think you can work through that and come out very closely when we gave you the actual revenue in dollars.
+We thought that would be a big help to have you be able to model it.
+The other thing was the miss in the models this last quarter was gross margin, and that's why we gave you that additional color.
+No; in regards to gross margins, there is very little to no impact.
+And as you work down through -- when I say gross margin, that's gross margin percentages.
+So FX does have an impact on our top line.
+As you go down through our income statement, though, as you get down to our operating income, the movement in FX is not going to have a significant impact, at least from the current levels down to $1.07.
+I think you've seen most of the significant move over this past year is from very high levels down into the $1.10s and now going from the $1.10 area down to $1.07.
+It's not near as significant.
+Sure.
+Well, from our balance sheet perspective, over 30% of what we buy in Europe is in nonfunctional denominated currencies from our vendor partners.
+And we hedge that on an everyday basis.
+We hedge our balance sheet.
+So we are 100% hedged; have great systems to do that.
+We do not have much FX volatility at all on our balance sheet.
+In regards to our income statement, we do not enter into hedges, as some of our vendor partners and other companies throughout the world do.
+We've decided not to hedge our income statement.
+So that is not an impact on our reported results.

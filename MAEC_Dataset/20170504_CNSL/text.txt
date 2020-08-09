@@ -1,0 +1,230 @@
+Thanks, <UNK>.
+Good morning, everyone, and thank you for joining Consolidated Communications' first quarter call.
+First off, it was a productive quarter and start to the year.
+We have a clear vision and are executing well on our strategy as we make targeted investments to position Consolidated Communications for future growth and create value for our shareholders.
+I'll begin my remarks today by updating you on our pending FairPoint merger and relay my continued enthusiasm around many benefits this merger will bring as our 2 companies become a stronger, more competitive company in serving our customers.
+We have made great progress in our effort to obtain all required approvals and close on this acquisition midyear.
+Both Consolidated and FairPoint secured shareholder approval on March 28, and we were granted Hart-<UNK>-Rodino clearance in January.
+We also secured the financing to fund the acquisition on very favorable terms last December.
+On the regulatory approval front, we have 11 of 17 states completed.
+We are working diligently on the 6 remaining states where we are engaged with commission staff and all interested parties.
+We continue to be on target for a midyear close.
+Overall, I am very pleased with the progress made to date, and I'm confident in the many benefits we'll realize with this merger and the increase in scale.
+This acquisition supports our strategy to sustain and grow cash flow.
+The addition of FairPoint will significantly expand Consolidated's broadband reach by adding more than 21,000 fiber route miles and 13 new states to the Consolidated footprint.
+We are in an excellent position to leverage FairPoint's fiber network along with our extensive product portfolio, bringing benefit to our combined carrier, commercial and consumer customers.
+We expect to achieve $55 million in annual run-rate synergies within 2 years of closing.
+The transaction is accretive to cash flow, which strengthens our dividend payout ratio while significantly improving our capital structure.
+Ultimately, combined, we will become an even stronger company.
+Consolidated has a successful track record of integrating companies, having completed 3 acquisitions in the last 5 years.
+We will use our playbook and experience to deliver a smooth integration and achieve our synergy targets.
+Now turning to our first quarter results.
+Revenue in the first quarter totaled $169.9 million and adjusted EBITDA was $71.1 million.
+As a reminder, last year we took steps to sharpen and refine our focus on our core business and broadband strategy.
+We made a small acquisition of Illinois-based Champaign Telephone Company which closed in July.
+Additionally, we had 2 divestitures; the sale of our Iowa ILEC in August, and the sale of our Equipment business in December.
+Please note, these events impacted our year-over-year comparisons.
+Our commercial and carrier revenue totaled $76.8 million in first quarter.
+We had another strong quarter of growth in Metro Ethernet with a 24% increase in units from a year ago and we are seeing increased interest in our cloud product suite, specifically Cloud Secure, Cloud Wifi and Unified Communications.
+Cloud is an important part of our sales conversation, and customers appreciate our expertise and expanded commercial product portfolio in our effort to solve their business problems.
+Cloud Services have grown 10% since our mid-2016 launch across all markets.
+Now we continue to have success serving multilocation businesses, like a Minnesota-based financial institution, for example, that has 19 sites who signed on with our MPLS, WAN and hosted voice services.
+Also, in an Illinois-based agriculture implement dealer recently chose Consolidated Communications for their 20-site WAN and data center requirements.
+We evaluate all success-based opportunities to extend our fiber network and bring more buildings on net, having achieved a 10% increase in lit buildings year-over-year.
+With our carrier channel, we are seeing increased demand for small cell and dark fiber solutions and have had some early successes in our North region with small cell densification network in 2 urban markets, which we deployed.
+We are active with a number of RFPs and are in an excellent position in the markets within our service area.
+We have approximately 1,300 towers under contract, 150 of which are under construction.
+And despite this positive momentum, we have been experiencing continued bandwidth price compressions most visible in our carrier channel, and this has resulted in some contract revenue write-downs and midterm renewals to secure more sites and longer-term extensions.
+Our consumer focus is on securing the broadband pipe to the home and profitable video apps.
+We've made good progress increasing speeds in the first quarter and proactively upgraded 30,000 connections.
+96% of our broadband-capable homes can subscribe to 20 meg or better and 42% can get 100 meg or more.
+We more than doubled our 1 gig subscribers from over a year ago -- from a year ago.
+The demands for higher speeds will continue, and we are prepared to meet those demands through our network upgrades.
+Our consumer ARPU was up nearly 2% from the prior quarter, reflecting our progress and focus on profitable broadband services.
+We recently launched consumer self-service tools, specifically Wi-Fi monitoring, which gives customers the ability to manage their connectivity and bandwidth allocations in the home, ultimately creating a better experience and a better cost structure for our company.
+We look forward to extending these benefits to the FairPoint customer base post close.
+Also in the first quarter, we launched the CCI All Access app giving customers a quick and easy way to unify their TV Everywhere experience and any other content services they choose to access.
+Now I'll turn the call over to Steve for the financial review.
+Steve.
+Thanks, Bob, and good morning to everyone.
+The first quarter was a productive quarter for us and a good start to the year.
+On a sequential basis, excluding the fourth quarter sale of our equipment IT services business, first quarter revenues were essentially flat.
+Operating revenue for the first quarter of 2017 was $169.9 million compared to $188.8 million a year ago.
+More than 60% of the year-over-year decline was due to the sale of our equipment business, which produced $9.6 million in the first quarter of 2016 and the divestiture of our Iowa ILEC, which contributed $1.8 million a year ago.
+Additionally, excluding the impact of the sale of the Iowa ILEC, subsidies were down $1.9 million, following the step downs of CAF II in Texas USF funding and access revenue was also down $2 million.
+Commercial and carrier revenue, despite the strong growth in Metro Ethernet, was relatively flat due to continued price compression, largely from the carrier channel.
+Consumer revenue, excluding the impact of the sale of Iowa ILEC; was down about 5.5%, primarily due to voice erosion and then expected decline in video subs due to the heightened focus on video profitability.
+Our revenue mix is well diversified, with 82% of our first quarter revenue being business and broadband services.
+We will continue to grow strategic revenues to counter the expected legacy declines.
+Total operating revenue -- total operating expenses, exclusive of depreciation and amortization, were $109.2 million compared to $120.4 million for the same quarter last year.
+The year-over-year decline in expense is primarily related to the divestitures, as previously discussed.
+Net interest expense for the quarter was $29.7 million compared to $18.6 million for the first quarter of 2016.
+The year-over-year increase in interest expense is primarily related to the acquisition of FairPoint and our December refinancing of FairPoint to debt.
+The quarter includes $3.5 million in amortization expense of commitment fees associated with the committed financing we delivered at signing of definitive agreement.
+In December, subsequent to announcing the transaction, we converted our committed financing to $935 million in commitments under the incremental facility of our secured term loan.
+Starting January 15, we began to accrue ticking fees or accrued interest at the rate of approximately 4% on this committed capital.
+This resulted in an additional $7.9 million in expense being recognized in the quarter.
+Ticking fees will continue to accrue up until closing of the transaction.
+The increased expense was partially offset by the refinancing and the company's existing $900 million term debt in October 2016, resulting in $2 million in annualized cash interest savings.
+Other income net was $5.2 million compared to $7.2 million in the first quarter of 2016.
+Cash distributions from our wireless partnerships in the quarter were $5.6 million compared to $6.8 million a year ago.
+Wireless distributions were impacted by significant CapEx investments made in the Houston MSA to upgrade and build out the market to support the Super Bowl.
+The buildout has impacted distributions for the last 2 quarters.
+However, we do expect second quarter wireless cash distributions to be approximately $7.6 million.
+Weighing all these factors and adjusting for certain items, as outlined in a table in our press release, adjusted net income was $5.7 million in the first quarter, and adjusted net income per share was $0.11, which compares to $9.5 million and $0.19 per share for the same period in 2016.
+Adjusted EBITDA was $71.1 million in the first quarter compared to $78.6 million a year ago.
+The year-over-year decline is primarily due to decline in our high-margin subsidies and network access revenues as well as the $1.2 million decline in wireless partnership cash distributions.
+In the quarter, we made $29 million in capital investments or 17% of revenue.
+We continue to have flexibility in our capital plans with 2/3 tied to success-based opportunities and are focused on fiber deployments.
+Our capital investments have to meet our internal paybacks and returns.
+From a liquidity standpoint, we ended the quarter with approximately $26.6 million in cash on hand and the full $110 million revolver available to us.
+For the quarter, our total net leverage ratio was 4.58x.
+Cash available to pay dividends was $24.3 million, resulting in dividend payout ratio of 80.5% for the quarter.
+With respect to our dividend, this week our Board of Directors declared the next quarterly dividend of approximately $0.39 per common share, payable on August 1 to shareholders of record on July 15.
+This represents our 48th consecutive declared quarterly dividend and $19.6 million return to shareholders.
+We are affirming our 2017 guidance, which was provided at the time of our fourth quarter earnings.
+We will update our guidance following the FairPoint closing.
+To recap, on a stand-alone basis and excluding the pending FairPoint acquisition, we expect cash interest costs to be in the range of $70 million to $72 million.
+Cash income taxes are expected to be less than $2 million, and we expect capital expenditures to be in the range of $115 million to $120 million.
+With that, I'll now turn the call back over to Bob for closing remarks.
+Thanks, Steve.
+So in summary, we are confident in our ability to execute on our focused strategy, deliver results and return value to our shareholders through our long-standing dividend.
+Looking ahead, we're eager to close on the FairPoint transaction, begin integration work and grow strategic revenues.
+We are expanding our fiber-centric reach and maintaining strong and steady cash flows.
+It's the combination of these steps that provide the long-term sustainability and value to our shareholders, customers and, of course, our employees.
+So with that, Skyler, we'll take any questions at this time.
+Yes, <UNK>, I'm still looking at and very confident, frankly, in the midyear, midsummer time frame.
+And so specifically, when you look at the states, we've got 6 remaining: Illinois, Kansas, Maine, New Hampshire, New York and Vermont.
+We're in the discussions with the regulators around the appropriate process and going through the review of our operating plans and we feel really good about the collaboration that's occurring.
+So it's a real defined process, there's a schedule and when the commission meets and we'll vote, and then all lines up for a close within the, let's say, next 90 days.
+Well, scale matters.
+We're seeing that from a wireless back hole, for example.
+You have the big wireless providers moving to unlimited plans.
+They put in thousands of sites over the last 15 years.
+And whether they're at the end of a term or midterm, they're leveraging that scale and those distributed sites into a stronger contract opportunity, if you're willing to renegotiate.
+And we're feeling that pressure.
+So I think we're in a good position in the markets where certainly we've got the most robust fiber network.
+The NFL markets are a little more competitive.
+We're very, very encouraged by the robustness of FairPoint's fiber network.
+And so while if you look at what's happened to bandwidth costs since 10 years ago, where a megabit was maybe $50, and now in 2017 it's $0.80 per megabit, you can see the trend is accelerating on bandwidth pricing.
+And we see the scale increase and essentially doubling our current installed base of towers as well as tripling our fiber network reach, a good step in securing our long-term future in that space.
+<UNK>, I will try and provide some additional color, so maybe starting with consumer.
+We did -- I did say that revenue was down 5.5% year-over-year after you normalize for the divestiture of the Iowa ILE<UNK>
+I mean, on consumer side, we are still seeing some voice erosion.
+Again, only 7% of our consolidated revenue is tied to consumer voice.
+So we have a lot of that behind us.
+Also, our strategy on video has been changing from linear subscription video, adding set-top boxes and really focused on gross adds.
+We are moving more towards over-the-top applications and delivering faster speeds of broadband to help our customers, enable them to do more streaming as they choose.
+So our backing up on video net adds is intentional and we are seeing some revenue declines associated with that.
+And also that does enhance our profitability and free cash flow as we move away from there because we're not incurring the egregious programming content increases and we're not incurring CapEx expense relative to the set-top boxes.
+So I think our strategy is right on the video side for this year.
+The commercial and carrier side, the way we have that bucketed is a little tougher to give you all the piece parts that you're probably looking for.
+In that number, we did -- we do have the CTC acquisition.
+As you remember, we acquired that in July of last year.
+That's been a nice add to us.
+I would say that the price compression is maybe $1 million a quarter for the last 2 quarters.
+And so I think net-net, commercial and carrier revenue was essentially flat.
+And again, we're expecting basically 3% growth out of that line item, but right now it's being slowed as we kind of deal with the price compression primarily on the carrier side.
+So let me pile on to that in terms of on the commercial front.
+As Steve mentioned, it's a 3% growth strategy that we continue to pursue.
+We saw unit growth on Metro Ethernet services by about 24%.
+Cloud Service isn't significant on revenue, but it fuels our relationship-based selling approach and the consultative sales approach.
+And so when you look at how our strategy to compete with some of the price compression we're seeing on the carrier front and secure the commercial customers and enterprise customers, we're getting more aggressive with some promotional positioning on bandwidth, as long as they take our cloud services, which helps long term from the retention.
+Our churn is at a historic low in most of our commercial markets, and we attribute this shift in our sales strategy that we began in late '15 and finished in second quarter of '16 as the reason that our churn is already -- which was already strong, has continued to improve.
+So I think that handles the commercial and carrier.
+Let me go to consumer to give you an idea of what we're doing from a pricing strategy there.
+We continue on, as Steve mentioned, to focus on video profitability and we match the content price increases and pass those along in total to our customers.
+We continue to look hard at the content lineup and rationalize where cost increases don't make sense, whether or not we continue the carriage.
+But bottom line, our strategy of upgrading network and making more bandwidth available, for example, 96% of our network can get between 11 and 20 meg, and 42% of our network can get over 100 meg, that has served us very well, as well as our unified portal to strengthening our relationship with customers and facilitating their access to our TV Everywhere product and leading them to an over-the-top consumption.
+So that's been a real advantage and just to put a finer point on it, our consumer ARPU is up to $86.50, which is about a 2% increase.
+And that's in context of still some decline in broadcast video ARPU along the way.
+So a lot in there.
+I hope that satisfies your questions, <UNK>.
+If not, feel free to come back with a follow-up.
+Yes, <UNK>.
+The -- as you mentioned, I won't comment on Frontier.
+But our strategy has been to pursue operating company acquisitions that have strong fiber assets, and that's been our disciplined approach to M&A.
+And we do that in 2 ways: one, we look at strategic opportunities like the FairPoint 22,000-mile fiber network and we look at tuck-ins like CTC that brought us a little under 300 miles and about the same number of buildings.
+So in the case of FairPoint, while it came out of a Verizon spinoff and has a bit of a troubled past, Paul and the team have done outstanding job of deploying a robust fiber infrastructure, put $1.1 billion into the ground and have built a very refined carrier service organization that is something that we will preserve and build on with the additional scale that our combined company will present.
+And so we really take an approach that we acquire operating companies, we look at the fiber assets, we figure out how we're going to leverage.
+And if we can get value out of our 3 customer group strategy and that's when I mentioned the value of the network, they've got a great wholesale operation and we're going to benefit from the combined scale that we get and preserve and grow that.
+On the commercial and the consumer side, we see some tools that are in our playbook that we can use to accelerate efforts and initiatives that they likely would have got to next door or in the future.
+And that's the power of the combination and we'll deliver some cost synergies that, at times, we may exceed but invest back into the business where we have room to do so in terms of marketing and community involvement.
+So our playbook's quite refined.
+This is, well, large in scale.
+A very tidy implementation of an integration.
+And while there's a lot of people involved, we're very excited and very confident in our team and our ability to execute.
+And in fact, there's 17 projects that are teed up and 7 of them are customer-facing oriented and focused on reducing customer pain points and bringing value as we do a brand change in the future.
+So I could talk on and on because we're very excited about the benefits of putting these 2 companies together.
+Bob, could I just add, just to stress, you like that out very well, but there is no forced cut, there's no transition agreement.
+Operating systems are already in place.
+We choose when and if we cut to the system, so nothing compared to the FairPoint-Verizon original deal.
+Yes, that's a very good point.
+Let me start with the 5G evolution.
+And I think that's going to take time, but I really think that timing is excellent for us.
+This combination that will give us scale to play larger with Verizon as they want to build out this 5G network will allow us to extend our fiber footprint.
+And so that's very attractive to us and we're continuing to participate in the technology forums that allow us to stay close to those decisions.
+But I do think it's going to be an evolution versus a 2-year, 3-year phenomenon and it will recharge the carrier space.
+In terms of the distributions and the capital investment, we've lived through that cycle for 14, 15 years now.
+And Verizon is very rationale, how they do it.
+Now you can't predict exactly the impact of a Super Bowl like we had in the last couple of quarters.
+So that affected distribution a little more specifically in the markets where we're a partner.
+But we're in very good markets.
+We understand the strategy in those markets typically.
+And I think it will be a natural evolution that won't hit us significantly all at once in all the markets in which we are partners.
+But it is something that we'll be watching closely and try and give some leading indicator to all of you on how it might impact us.
+Just a follow-up to a previous question.
+How do you recommend do we think about growth within the commercial and carrier business over the next couple of quarters within our models, particularly given the pricing compression you're currently seeing.
+I'm going to reiterate the strategy we have around that business.
+We're still viewing it as a 3% growth business, all in between carrier and commercial combined.
+I think we're in the fifth or sixth inning of some major contracts that we have that are being leveraged to a -- either an extension or to get more sites and seeing the price squeeze as a result of those.
+So I feel confident with the sales resources we have, the ramp we have in the strategy that we see, that the growth revenue there continues to be solid.
+But I think we're going to follow an industry trend there, feeling some pressure for the foreseeable next couple of quarters.
+The only thing that I would lay out that, typically, just immediately following the close of an acquisition, we're able to get on a 2-year run some good spike out of new properties.
+And so we're optimistic that we can get more than our fair share versus industry trends once we've applied our strategy to some new markets post close.
+But for now, I think we're feeling the same pressures that others are in the industry.
+Yes, <UNK>.
+Thanks for the question.
+We kind of have a unique suburban and rural mix in Texas, Minnesota, some of the central North, Pittsburgh, Kansas City, somewhat Sacramento, they're fairly substantial markets.
+And what really drives right now small cell opportunities is densification and some of that's population oriented and others terrain oriented or geography.
+So I'm not going to give you specifics on RFPs that we are working on, I just can't do that.
+But -- or at least shouldn't.
+But when you look at our markets, Pittsburgh has a geography that lends itself to small cell, Kansas City has some density, the central north where we've done in some tier 2, tier 3 towns some small cell work, that has really given us the chance to show that we can do everything from a hybrid managed bandwidth to a dark fiber and Radiohead engineering and cabinet deployment for a wireless partner that needs to fix an issue quickly.
+And so as 5G evolves, we think we're really well positioned with the turnkey or an a la carte small cell solution for our wireless partners and the added scale that comes certainly with some of the geography in the Northern New England area positions us in an excellent spot to capture some of those opportunities.
+<UNK>, this is Steve.
+I'll try that, and since we are in an ongoing settlement discussions with the 3 states, I'm not going to give you a lot of color.
+But we are -- we're in different places in all 3 states, but we have gone through -- for the most part, we have gone through the formal hearing processes.
+And now we are -- we might have a little bit of that left to do.
+But for the most part, we've made our case.
+We are working with all interested parties, as Bob mentioned in his presentation.
+And now we're just trying to get to getting to agreement on moving forward with the transaction and I think we're making really, really good progress on that.
+What I would say is, and I've met with all 3 governors in those states and governors in some other states, very excited to have us investing there.
+They understand the good things FairPoint's done with the network deployment.
+We've been working cooperatively with all the intervenors.
+And I got to tell you, I'm pleasantly surprised with the receptivity and the collaboration.
+So it's a definite -- a different environment, it's a more modern approach, and it gives me great confidence that we'll hit our targeted midyear close.
+<UNK>, this is Steve.
+Thanks for the question.
+I'll take the first part and Bob will take the second part.
+But relative to the wireless distributions we did provide the $7.6 million number on second quarter, and the way I would think about it lasts for full year 2016, we ended up with like $32 million in total distributions, and we were impacted in the last quarter, because some of the CapEx builds we were talking about were the Super Bowl and the South Texas market.
+The last half of the year historically has always been, the voice provided higher distributions than the first half.
+So we're still -- we think $7.6 million.
+We just want to show that it was rebounding.
+And that we actually think it will be higher in the last half of the year.
+Related to, <UNK>, your comment on the data in commercial service uptick, we're very active on retention efforts, early contract renewals, things like that.
+Our consultative sales approach which we rolled out in conjunction with Cloud Services is our tools to change the conversation with businesses has really expanded our product portfolio and our ability to solve business problems.
+That's elongated the sales cycle a little bit.
+But to an earlier question that <UNK> asked around demand, we saw through the election period, demand slowdown so it fit well with an elongated sales process.
+And we built a real good rhythm and execution amongst our sales team now that we're really excited by.
+And that really started to surface and become more visible in first quarter.
+So when you combine that consultative sales approach with the focus on building Metro E as our foundational product, it allows us to control the quality better.
+We are able to roll out a unified portal, which more and more customers are being transitioned into.
+It gives them access to their information as well as bandwidth monitoring.
+It reduces calls into our call center, which helps on the cost side.
+So we're feeling very confident in that strategy and not only in our legacy consolidated areas, but the benefit it will bring once we close on the FairPoint acquisition.
+Yes, about 40% to 45% are upgrades.
+That's a very good question.
+And with that, it allows us to extend the relationship with the customer and get a little more wallet share as we layer on the cloud service and data center.
+In the expansion areas as we pass new buildings and extend our fiber network, we're seeing a pretty good impact of combining our fiber-based Metro Ethernet with the cloud portfolio.
+Well, we thank you again for joining us today, and we look forward to updating you on the second quarter results and our FairPoint closing.
+Thanks, and have a great day.

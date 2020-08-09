@@ -1,0 +1,199 @@
+Thank you, and good morning.
+Welcome to the Littelfuse First Quarter 2017 Conference Call.
+Here with me today is <UNK> <UNK>, our Chief Financial Officer.
+We're off to a strong start in 2017 with strength in our electronics segment driving both sales and adjusted earnings per share to the high end of our guidance range.
+As expected, the strong first quarter for electronics was partially offset by lower organic sales in the automotive and industrial segments.
+We were encouraged by the sequential sales growth in the commercial vehicle products business and the industrial segment as certainty key end markets began to stabilize.
+With that introduction, I will turn the call over to <UNK>, who will give us a brief summary of our first quarter results.
+<UNK>.
+Thanks, Dave.
+Before we proceed, let me remind everyone that certain comments we make on this call contain forward-looking statements.
+These forward-looking statements are not guarantees of future performance and may involve significant risks and uncertainties.
+We refer you to the company's Form 10-K and 10-Q as well as other SEC filings for more detail about important risks that could cause actual results to differ materially from our expectations.
+In addition, our remarks today refer to the non-GAAP financial measures, adjusted earnings per share and adjusted tax rate.
+These non-GAAP measures are intended to supplement, but not substitute for the most directly comparable GAAP measures.
+A reconciliation of these non-GAAP financial measures to the most directly comparable GAAP measure is provided in our first quarter earnings release filed on Form 8-K today and available on our website.
+Now some highlights from our first quarter of 2017.
+Sales for the first quarter were $285 million, up 30% year-over-year.
+Organic sales growth was 5%, excluding acquisition revenue, the e-house divestiture and currency effects.
+You can find sales growth by segment in the press release we issued this morning.
+GAAP diluted EPS was $1.69.
+Adjusted EPS was also $1.69, which increased 22% year-over-year.
+Strong sales in electronics drove our EPS finish at the high end of our guidance.
+Commodities had about a 100 basis point unfavorable impact to our company margins this quarter compared to last year, as prices for copper were up 30% and zinc was up 75%.
+We expect commodities to remain a headwind for us based on current prices.
+The adjusted effective tax rate for the quarter was 18%, a 400 basis point reduction versus last year.
+Cash provided by operating activities was $23 million for the first quarter of 2017, which was an increase versus last year.
+Capital expenditures were $12 million, and free cash flow finished at $11 million for the quarter.
+Also as noted in this morning's press release, our Board of Directors authorized a new stock repurchase program of 1 million shares, which was effective May 1.
+This replaces our prior program that expired on April 30.
+In summary, strength in our electronics business drove performance above expectations for the quarter.
+Now I'll turn it over to Dave for more color on business performance and market trends.
+Thanks, <UNK>.
+Starting with the electronics segment.
+First quarter sales of $154 million increased 56% and grew 15% organically.
+Our strong fourth quarter performance continued into the first quarter despite the typical impacts of the Chinese New Year.
+Sales were strong in Europe and Asia and picked up in North America towards the end of the quarter.
+All of our product lines showed strong growth.
+First quarter margins remain strong due to leverage from the higher revenues as well as favorable mix.
+Sell-through by our distributors and electronics channel inventories both increased about 10% year-over-year.
+At this point, we believe inventory levels are in line with market conditions.
+As we have been in a robust electronics cycle for 2 quarters now, we continue to keep a close eye on distributor ordering patterns and inventory levels as there is a risk of inventory pullback late in the cycle.
+As part of our updated strategy, each business is focusing on several end markets that offer exceptional growth opportunities.
+I\
+Thanks, Dave.
+As we look ahead to the second quarter of 2017, we expect a continuation of the strong demand across our electronics segment.
+With stabilizing trends in some of our heavy industrial markets, we also expect stronger revenue contributions from our businesses that sell into those markets.
+In the auto segment, we expect stronger organic revenue growth in the second quarter.
+This will be tempered by a decline in automotive sensors due to the legacy product exit and related Last-Time-Buys from last year impacting our year-over-year growth.
+As I mentioned earlier, we expect commodities to remain a headwind for us, which has the greatest impact to margins within our automotive segment.
+Based on the current economic environment and foreign exchange rates, we expect the following for the second quarter of 2017: Sales are expected to be in the range of $301 million to $311 million.
+The midpoint of the guidance reflects a 13% total sales growth rate over the prior year.
+This equates to a 10% organic growth rate, excluding the ON product portfolio acquisition, the e-house divestiture and currency effects.
+Adjusted earnings per diluted share are expected to be in the range of $1.83 to $1.97.
+Similar to prior years, the second quarter also assumes about $2 million of additional stock compensation expense due to accelerated expensing of equity granted in the quarter for all those of retirement age.
+And as a reminder, our financial results now include Monolith Semiconductor.
+Our earnings-per-share forecast includes about $0.04 of expense to fund development activity with Monolith.
+This concludes our prepared remarks.
+Now I would like to open it up for questions.
+Eric.
+Yes.
+Chris, good question.
+And certainly, commodities are bit more of a headwind than they've been in the last year.
+In the automotive side, in most cases, we have long-term contracts that really preclude us from making major changes in pricing during the period of the contract.
+However, in some of our higher-current products, where we have a high copper content, in most of those cases, we'll have a copper clause that will allow us to adjust pricing to -- for increases or decreases in the copper costs.
+But as a company, that only impacts a portion of the exposure.
+No, that's reflected in there.
+There's a relatively short lag in the contractual agreements we have with our customers.
+Yes.
+Chris, we'd expect a little bit of improvement this year in the automotive margin.
+I think there's a couple of puts and takes that are the bigger ones.
+One, we've been talking about the sensor product exit.
+And while these low-margin businesses, still we're absorbing some overhead, so that's depressed or I'd say slowed down our margin improvement trajectory that we're working on with the sensor business.
+So that's one.
+And then secondly, we just talked about commodities, and that's also -- the biggest impact across the company is really due to the automotive business.
+It's got somewhere around a 200 basis point impact to margins right now on a year-over-year basis.
+Based on -- for the automotive segment.
+As Dave mentioned -- so I mentioned in my comments about 100 basis point impact to the total company.
+But the bulk of that is within automotive.
+And that has about a 200 basis point impact to the margins there.
+Yes, I think it's a bit of a mixed bag.
+Because the custom portion of our industrial business, it's very much aligned with mining, and specifically, potash mining in Canada.
+So that has kind of an unusual effect that's even greater than maybe the impact of mining to the overall market, because potash mining in Canada is very depressed, and the level of investment is quite low there.
+So that -- if we set that aside, I would say that the remainder of our industrial products are selling into fairly broad-based industrial, but a meaningful exposure to oil and gas and mining.
+And clearly, when you look at the data, market data in the last year, you're correct.
+Our business did not decline at the same rate that those end markets declined.
+But we do see that -- it feels like we're kind of bouncing along the bottom now and kind of bottomed now.
+We're not seeing further decline, and saw nice sequential growth in the industrial side in those spaces from fourth quarter to first quarter.
+So we're encouraged that we're not going to see further downward pressure at this stage, is our current view.
+It's a little challenging to define it in that way because even when you think about oil and gas, if you -- our exposure was actually higher than we thought it was to oil and gas.
+When you realize how many customers we're selling to who are selling equipment to equipment manufacturers, it's 2 or 3 steps down the chain, so it's a little challenging to kind of pull that out.
+Certainly.
+And actually, although overall growth in automotive as a whole was a little depressed in the first quarter because of some of the reasons we talked about, it was a very active quarter in bidding and winning new business in our automotive applications, both in our traditional passenger car fuse world, automotive electronics and certainly, in the sensor side as well.
+So we see -- continue to see very robust quoting activity and winning of new programs.
+So we do expect to continue to have the opportunity to outgrow car build.
+So certainly, as car build is kind of flattening out or the growth is slowing on car build, we do expect to continue to see content increases for our products.
+Sure.
+If we look -- and we talked about this before.
+If we look at a mild hybrid like a 48-volt system, for us and our traditional circuit protection content, that's about a 30%, 35% step-up in content for a 48-volt system.
+We think 48-volt systems may be the volume drivers for us in the nearer term.
+If you go to a hybrid and full EV, it is multiples of our current opportunity.
+So certainly, although they're low numbers, it's a meaningful increase in content opportunity for us in hybrid and full EVs.
+Sure.
+It's a good question, and we spend a lot of time looking at that ourselves.
+And certainly, as we ended last year and coming into the first quarter, now heading into the second quarter, our book-to-bill numbers are quite strong.
+So those are always concerns for us.
+That -- how long is the cycle.
+What's the point in which the momentum begins to change and perhaps there's an inventory pullback.
+Watching very closely.
+With the data we've got now in the first quarter, we don't see a problem yet in the inventory position of our key distributors globally.
+However, we continue to watch.
+And certainly, for our own products, our lead times have not extended dramatically.
+However, we certainly see others in the industry, in particular spaces, extended dramatically.
+And so we're always concerned, are distributors reacting to other components extending in lead time.
+Worrying that ours might or our categories might and begin to double order or increase their inventory position.
+So we're watching very carefully.
+We have some of the same concerns that you have.
+We haven't seen it yet, but we'll continue to watch.
+Sometimes in the past, you would understand or see that there were particular applications that were really driving in a lot of the growth, but it seems to be pretty broad-based from the end customer and end markets it's serving.
+So we're continuing to watch.
+Yes.
+I think when we look at the full year car build projection, we don't see it dramatically different than what we saw coming into the year.
+First quarter was maybe a little stronger in car build than maybe we would have modeled and so, therefore, it flattens out the back end of the year a bit more.
+In North America, where you talked about it being a little weaker, I think some of our Tier 1 customers, as they saw car builds beginning to soften, made sure their inventories were pretty lean.
+And that probably had a little bit of an impact on our numbers during the first quarter.
+But we aren't seeing kind of warning signs that there's significant changes to expectations yet.
+Sure.
+So maybe to simplify it on Monolith, it's basically being treated as an acquisition for us.
+So it's basically showing up in -- or it would show up in every single line of the P&L, is how it is.
+Because we now have a majority ownership and there's other accounting aspects to it.
+So it's mainly in OpEx right now, R&D and a little bit of SG&A expense.
+Just some general spend controls.
+Usually, in the fourth quarter, we tend to see maybe a little higher spend.
+There's some more trade shows, some other activities that are going on in the fourth quarter.
+And then you see, especially with the Chinese New Year, you see maybe a little bit less travel going on at certain times and things like that.
+So just a little bit of normal seasonality for us.
+Nothing out of the ordinary.
+Sure.
+So let me start on the sales side a little bit.
+Clearly, we talked about, with the strength that we've seen in electronics, both from the fourth quarter [appearing] on the first quarter, and even as we've looked into April, we've gone through April, the strength of the organic for the quarter is being led by electronics.
+I'd say the other thing organically is automotive will be better.
+We're expecting it to be better from what we're seeing today versus what it was like in the first quarter.
+But I would say, tempering that is still -- we had -- we'll have another difficult comp year-over-year because in the sensor, the automotive sensor side, we had some Last-Time-Buys, pretty significant Last-Time-Buys last year in the second quarter as well.
+So that growth rate is a difficult comp for us there.
+And then overall, from an overall margin perspective, I'd say the big puts and takes are really the higher electronics volume is helping some overall volume leverage that we're [seeing].
+And even with a little bit more in automotive, et cetera, we're just going to get a little bit more favorable leverage.
+That's one.
+And then we talked about commodities going a little bit the other way from a year-over-year perspective.
+Based on where the prices are now, that's going to be a drag for us right now.
+Yes.
+I would say, for the first and second quarter, we have some fairly difficult comps because of heavy Last-Time-Buys.
+I'd say it was less heavier in the third quarter, but that one is going to be tough as well.
+So I think, really, as we get through the full year, for the most part, it's going to be a decline year-over-year.
+And so we'd expect probably, for 2018, that things would get back to a more normal run rate.
+What really ended up happening last year was the exit process just took a lot longer than we were expecting with our customers.
+And they did a lot more Last-Time-Buying and they stayed in with us for a little longer than we were expecting.
+Yes.
+We haven't given a specific guidance and breaking it out that way.
+Certainly, we, in the past, we've seen that multiple percentage points of content increase.
+It's a little messy in the first quarter because of some of the pullback in inventory in North America from some of our customers.
+So maybe the content growth that showed up and ran through our numbers in the first quarter was a little less than we've seen in the last year.
+We expect that to kind of bounce right back and -- as that correction's kind of done.
+So yes, it's a few percentage points of content increase.
+I would say kind of across the businesses, it varies whether we're talking about our commercial vehicle product or passenger car fuse or PolySwitch products selling in.
+The commercial vehicle business, while we're certainly focused on growing it in Europe, North America's still the biggest driver for us there.
+So the good news is kind of heavy truck is stabilized a bit now.
+And in the con/ag side, we're beginning to see a little bit of growth globally.
+But -- so I wouldn't say there's a particular region we're expecting that.
+We have pretty strong market shares across the -- across all 3 regions.
+Yes, Dave, you're off to a nice start as CEO for the company.
+I just wanted to dig in on the book-to-bill of 1.2 on the electronics segment again.
+So there was nothing inorganic.
+That was purely an organic build in the book there of 1.2.
+That's correct.
+That's an organic view.
+Outstanding.
+And then on -- did you -- I didn't hear anything about CapEx plans for the year.
+Can you remind me what they're going to be.
+Sure.
+We had touched on it as part of our fourth quarter call in early February.
+But we talked about a capital plan of $70 million or so, higher than normal, than we would typically spend, mainly because of the ON product portfolio acquisition that we made back in August.
+And we are moving all the manufacturing out of ON's facilities and their foundry partners into our footprint.
+And so that's about $20 million of the spend, is what we're expecting this year of that $70 million.
+Understood.
+Okay.
+And then I heard what you said about the SG&A here in Q1, down several hundred basis points from the compare a year ago.
+And then even below, if we go back to 2 years ago, just 16.4% on the revenue.
+That seems outstanding.
+There was nothing unusual.
+I'm guessing the headcount had to higher than it was in comparable periods, but nothing specific that pushed that to such a low rate one way or the other.
+I -- probably, 2 other things.
+One of the things, when <UNK> asked the question, we were still going through the integration process for PolySwitch in the fourth quarter, so we still had more spend going on, just a lot of activity as we were going through a lot of the last system integrations as well as just other synergy activities that were going on.
+And so a lot of that was done in the fourth quarter.
+So that's another part of the expense decline.
+And then, if you go back a couple of years versus now, we acquired $250 million of annualized revenues last year with the acquisitions we did.
+And so appropriately so, we're getting better leverage from that perspective, from an SG&A perspective, as we've grown.
+Thank you for joining us on our call today.
+2017's off to a great start.
+We look forward to talking with you again next quarter.
+Have a great day.

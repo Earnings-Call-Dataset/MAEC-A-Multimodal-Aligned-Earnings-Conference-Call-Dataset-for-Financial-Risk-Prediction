@@ -1,0 +1,221 @@
+Thank you, <UNK>, and good morning to everyone.
+As you saw in this morning's release, we delivered another very strong quarter.
+In fact, it was our fifth consecutive quarter with revenue over $100 million, reflecting the continued strength of our research-based licensing business.
+It will also show us continue to manage our expenses well, taking advantage of the operating leverage in our business model.
+A couple of points to note for the quarter.
+On Tuesday, you no doubt read about our joint agreement with Huawei pursuant to which they will begin making royalty payments under our license agreement with them.
+While they've reserved the right to appeal the recent French decision that denied their request to annul the arbitration reward and we are confident that we would prevail again in any such appeal, we believe getting them on a paying basis is a major step forward in bringing the licensing matter with them to a close for now.
+We will continue to work with them and are open to a broader resolution with Huawei that would settle all of our disputes and establish a long-term cooperative relationship.
+We will continue to pursue this, but again, are very happy they've agreed to begin paying the royalties owed.
+We think Huawei paying royalties will be helpful in our other discussions with Chinese manufacturers, as well as LG and the other remaining unlicensed partners.
+Our flexible approach to licensing will also continue to be the hallmark of our success.
+If we can reach amicable terms on a straight patent license with a company, we will do so.
+If the company wants a broader relationship that includes R&D, patent transfers, or access to some of our commercial platforms, we are happy to do that as well.
+If the company wants to arbitrate the terms of a license, we are open to that method of resolution.
+Only when a company refuses to meaningfully engage on the many options we can present would we resort to litigation.
+We think this is how licensing should be done and we think it is a reason we have succeed when so many others have failed.
+That's not to say that licensing will be easy.
+It remains a business model that requires a great amount of patience.
+It also requires that we continue to innovate to make sure that our offering to our customers is as attractive as we can make it.
+And innovate we continue to do.
+You saw us in the first quarter continue to move our research forward.
+That research covered a number of important areas.
+First, on 5G we continue to work with the standards community to move that standard forward.
+At a significant 5G meeting in South Korea two weeks ago, we made a good number of contributions, including building blocks of the new air interface, that were accepted, among others, for consideration as part of the 5G design.
+As in 3G and 4G, we will work hard to demonstrate the value of our innovation and believe we will have significant success in getting our ideas adopted into the 5G standard.
+That success will drive the future of our core licensing programs.
+Our work around IoT also continued.
+In addition to our work with Sony and in the IoT standards process, we entered into a commercial relationship with Harman to be a channel partner to push our IoT platforms into the market.
+We are looking to engage other partners to give us the broadest reach into a very diverse market.
+We were also pleased to be awarded a Competitive Strategy and Innovation Leadership Award by the research firm Frost & Sullivan for our wot.
+io platform.
+Finally, we continue to work with our partners to grow the UK-based oneTRANSPORT smart city initiative which we think gives us a strong platform for similar initiatives elsewhere.
+To provide our investors with a better understanding of the IoT opportunity, we intend to have an investor's day in September of this year at which we will lay out our IoT plans.
+We also continued to see success with [XL Air], our commercial initiative focused on improving the efficiency and operation of Wi-Fi and LTE small sale deployments.
+XL Air is working with partners to offer their commercial platform to operators world-wide.
+XL Air also continued to trial its solution with cable operators who have become increasingly interested in being able to manage Wi-Fi deployments and enhance quality for customers.
+Like any startup, the Company has a good ways to go to begin to drive revenue and profit and build a market position but we are pleased with their progress to date.
+We also continue to see very good progress from our investment activities in external startup companies.
+We began a more systematic method of investment about a year ago, bringing in a seasoned fund manager to manage our investment activities.
+The purpose of our investments is pretty straightforward: we generally restrict the investment activities to areas of strategic interest for the Company.
+Namely, next generation networks, IoT, and content delivery.
+By doing so, we get the strategic value of a richer and broader understanding of the full range of innovation happening in the areas where we are also innovating.
+This allows us to re-direct our activity when appropriate and also gives us the opportunity to acquire small startups as they have begun innovating in a space we see as valuable, leaping us forward in a cost-efficient way.
+While the investments are strategic because of their focus, we also compensate the investment managers on how well the investments perform financially.
+We believe this is a great balanced approach to investing and we are seeing excellent results both in terms of the opportunities to invest and the knowledge gained through the exercise.
+<UNK>l in, we've evolved the Company to be a very different animal than it was just three years ago.
+We have a very solid and continuing royalty platform.
+We are making reasonable inroads at patent licensing in China, which will be important in terms of the long-term value of our company.
+While our internal [ads] remain focused in our areas of expertise, we are balancing our internal activities with fresh thinking from the outside.
+This includes having a dramatically different board of directors than we had two years ago.
+I think our board today has a great balance of expertise needed to guide our business.
+For those reasons, I continue to see great opportunity for the Company and am pleased with how we are driving the business.
+As always, we have hard work to do but we certainly have the car pointed in the right direction, the engine is tuned, and the tank is full.
+With that, let me turn the call over to <UNK>.
+Thanks, <UNK>.
+It's a pleasure to once again have an opportunity to discuss financial results from another strong quarter.
+Our financial results for first quarter 2016 were driven by over $100 million of recurring revenue and total revenue of nearly $108 million.
+As was the case in first quarter 2015, our per-unit royalties benefitted from strong fourth-quarter sales related to late 2015 product launches.
+This year, we expect to see similar perhaps more pronounced sequential deline -- decline from our current per-unit licensees as we move from first to the second quarter.
+Our first-quarter results did not include any revenue from Huawei, as we had continued to defer revenue recognition from our related patent license agreement.
+As <UNK> mentioned, Huawei has recently agreed to make payments of outstanding amounts under our patent license agreement.
+We look forward to the scheduled collection of those first payments and possibly the related revenue recognition as early as second quarter of 2016.
+In first quarter, we updated our compensation accrual rates consistent with our expectation that we will recognize revenue from Huawei this year.
+That resulted in a non-recurring charge of $3 million in the quarter.
+Taken together with a severance charge, our first-quarter operating expenses of $59.4 million included nearly $5 million of non-recurring charges.
+Our pro forma operating expenses, which adjusts for these and other items, is essentially flat with the prior year quarter and down $1.2 million from the fourth quarter.
+There are a couple of noteworthy balance sheet updates.
+We paid off our $230 million of convertible debt upon its maturity this March.
+As you may remember, this maturity was pre-funded with a $316 million convert that we issued last year.
+We also repurchased approximately $40 million of our common stock during the quarter at an average price of $46.49.
+After factoring in the just over $5 million we've repurchased so far this month, we have a balance of approximately $105 million remaining on our $400 million stock repurchase authorization.
+As is always the case, we will continue to evaluate our cash balance and our plans for capital allocation.
+With that, I'll turn it back over to <UNK>.
+Yes, <UNK>, it's <UNK>.
+So the reason we've deferred payment up until now is we haven't at this point met all the criteria for revenue recognition.
+Most notably, collectability is reasonably assured and the terms are fixed and determinable.
+So we'll continue to evaluate that in the second quarter as we look forward to collecting that payment.
+But as <UNK> mentioned, there's also opportunities to continue to work with Huawei to expand beyond what we've even agreed to so far.
+Yes.
+I really don't have anything more that I could add at this point, <UNK>.
+I think it's something that we typically will wait and issue guidance once we receive our reports.
+We're going to continue to do that but we have observed in the marketplace, based on earnings reports of companies that you may be familiar with, indications that perhaps that will lead to low levels of per-unit royalties for us in the next quarter.
+Yes, nothing on the balance sheet at this point.
+Sure.
+So we certainly don't have to restart it.
+I think it's a continuation of a dialogue that's been going on for a number of years with some of these folks.
+I think it's exactly what you said, it becomes a very important data point for them.
+So, yes, I think there's been a couple data points along the way.
+One, the fact that Huawei was willing to arbitrate.
+I think that was actually -- that we would be willing to arbitrate with the other parties as well.
+The second is that they're agreeing to begin paying, which is another data point we can point our -- those prospective licensees to.
+And then once payment comes in to the extent there's visibility around that and the contribution to revenue, then that will be another data point we can point people to in terms of their competitive position.
+So I think it's all going to be very helpful with respect to those prospective licensees.
+And hopefully can move those discussions along.
+Yes.
+So the disclosure just is -- it just follows what the disclosure rules are from accounting perspective.
+And as the case moved forward, we'd gotten some additional information from them and that caused the disclosure.
+Sharp is a long-term licensee of ours.
+In the case, they've asked for the modification to the royalties to an agreement that they had in 2001 that's been modified a couple times along the way.
+So if that's what a party looks at, then the natural result of that is going to be a bigger number.
+So there's a panel that will take a look at the claims this year.
+I guess in July this year.
+Typical of these cases, we believe we have strong defenses.
+And so, well, like any case, we can't predict the outcome, again, we have strong defenses here.
+So that's where it is.
+It's -- we've had a number of arbitrations around our license agreements.
+Without pointing to this agreement in terms of predicting an outcome, we've generally been very, very successful in supporting our agreements, our licensing practices and things like that.
+I believe, <UNK>, we've disclosed the interest expense in our 10-K related to the different instruments.
+Or certainly you can look at when we added the interest from the new convert, I think second quarter of last year would've been the first full quarter.
+So you can kind of gauge off of that.
+So I'll give you some color.
+<UNK> can add.
+So certainly we have within our per-unit population, we have exposure to certain manufacturers who have talked about pressure in terms of their sales.
+So I think that's certainly one factor that we have there.
+I think generally the -- it -- their comments reflect I think a general comment around the smartphone environment which seems to be flattening at the moment.
+And that's also not that unusual.
+Think about 4G's been in place for a certain period of time.
+And the replacement cycle has -- drove really good sales for a while and it's not surprising that it kind of flattened out for a bit.
+So I think for that cycle I think changes once we get to 5G.
+Once again, and (inaudible) confluence of 5G that'll come out in a couple of years.
+So I think, again, it can drive another refresh cycle, which is good.
+From our perspective, the bigger value driver for us in the near term is not so much market growth or even market movement around our existing licensees.
+But it's getting the other licensees on board.
+That's the big thing for us.
+(inaudible) the step functions in revenue that will drive.
+We'll be up and down with the market.
+And if the market's flat, all else being equal, our licensees may be flat.
+But, again, our focus is going to be on -- as we've done with Huawei, get them on a paying basis.
+Get them contributing the revenue.
+Leverage that into opportunities with the rest of the folks in China and get those contributing revenue.
+Those movements for us are far greater than any market movement in terms of unit sales.
+Yes, I can -- I completely agree with everything <UNK> said.
+And I'll just add that there was a seasonal nature in the decline from Q1 to Q2.
+So that's something we experienced last year.
+And as I indicated, would expect to experience again.
+If you look at our financial metrics tracker, which has been updated, we do disclose the contribution to revenue for those licensees that have a greater than 10% contribution.
+And if you look at the first quarter of this year, for purposes of this discussion, revenue was close to flat.
+It was down maybe a little bit from last year.
+And yet Pegatron's contribution was 46% this year compared to 39% last year.
+So there's a little bit of timing in terms of when sales volume throughout the year occurs.
+And that kind of sets you up for a potentially bigger drop from Q1 to Q2.
+Yes.
+I think just generally, if you look at the things that we have to offer.
+So we've always had research as a component of our offering.
+So initiative patents people could do research.
+I (inaudible) say that research continues to be something of interest to folks.
+I think because they equate it to a very strong point for the Company.
+The commercial initiatives are gaining some traction.
+I'd say it's still early because the initiatives themselves are still somewhat early.
+Certainly having Sony acquire one of the platforms or taking license of one of the platforms was very helpful in terms of getting one customer on board.
+And I think the other things that we've been doing inside to sort of mature platforms in an effective way.
+And even work we're doing through our spins or commercial startups is helping to create more attractive assets.
+And so we've had some [nibbles] around those things and I would hope as we mature them, then the conversations around them make -- will mature.
+<UNK>l -- the third component of consideration that we can look at is -- it is patents.
+But the patents can flow in either direction.
+So patents can flow from us to a customer, to the extent the customer needs defense.
+And that's always something that is on the table with folks.
+They can flow in the other direction as well.
+They can flow into us.
+And that can be -- they can come in two different ways.
+One is just in sort of in-kind considerations.
+The other is an opportunity for that other company to have some sort of joint licensing activity with us in a particular space.
+I'd say that last one is also an area where we've seen more interest.
+I think that's because it kind of goes back to how people look at the Company and what our core competence are -- is.
+So certainly research is a core competence and that means interest.
+Licensing is also viewed as a core competence and so people would be comfortable with us managing intellectual property for them.
+So we're looking at those opportunities as well.
+So, again, I think it's a nice list of things that gives us a lot of options for talking about something other than just a straight patent license with folks.
+I think we do.
+I think we have it for a couple sense.
+One, I think the Company has got a very good reputation as a licensing company both in terms of our fairness and the fact that we tend to put research behind things.
+And so it's not just a depleting asset that you're licensing, but it's one that's growing.
+And so I think that that makes us -- in the new environment that we're living in today where various patent licensing practices come under scrutiny.
+Our kind of licensing program tends to be less -- tends to be more favored because it's a really research-based program with a company that's had a long history of doing it right.
+So if a company with patents is worried about its reputation in terms of how it monetizes its patents, we're a more attractive partner than someone who doesn't have the same reputation as we do.
+Second, a lot of non-practicing entities, they run these pure partnership models with no cash up front and everything's [going to come].
+We don't have to go down that path.
+We can provide sort of more certain compensation either by some cash payment up front.
+Or some revenue share off of their assets but perhaps their assets in combination with other things that we have.
+So I think we're a more attractive partner from a financial perspective as well.
+Sure.
+So what Huawei has done so far is they've reserved the right to appeal.
+And so they actually -- whether they actually appeal or not, as we've described, think about this as an appeal of an appeal of an arbitration award.
+And that's not something that has a significant track record of a success at all.
+And so I think obviously they need to think through what they want to do with re-- on the legal side.
+And on the legal side, typical of any type of thing like this, options start to -- you have less and less options and those things become harder and harder as a case goes on.
+And so that is the situation facing them.
+From our perspective, we would -- we continue to be and very open to a broader solution with them.
+We think that they're, obviously, an important player in the market.
+And to the extent we can do all the things I described earlier in terms of research and access of platforms and other things with them over a longer period of time, that is certainly our preference.
+Little hard to give you a timeframe on something like that but it certainly is something that we would like to get done in the shorter term versus the longer term with them.
+And I think that we have certainly the arbitration result gives us some strength in that discussion.
+But I would hope that other aspects of the Company are -- would be attractive to them as well in terms of things that we can do with them.
+So it's -- I would say it's -- certainly it's a pretty big focus of mine to try to see if we can do something broader and longer term with them.
+That said, if that doesn't work out, the situation we're in today is just fine.
+Yes, so, in terms of positive momentum, I think the that Huawei arbitration result -- the decision in France.
+And now their agreement to begin payment is a very strong bit of momentum.
+Ultimately, these companies are all going to make up their own minds on things.
+But having some clarity around Huawei situation for them I think is very important because it will define the competitive position that they will be in vis a vis Huawei.
+And that (inaudible) licensing, that's a pretty important component in the discussion.
+So I think that that, we will certainly use that to our advantage.
+At least advantage in terms of getting them the information that they need so they can make an educated decision on their part.
+I think that the item I just talked about, the -- in terms of ways to work with companies, I think we are -- continue to be, I think, better and better positioned to work with folks in part because of the decline of the NPE community.
+And therefore we become one of the few but also one of the better, if not the best, option for folks to monetize patents, if that's an opportunity we want to look at.
+Another time-driven component is 5G research.
+And so the 5G standards are sort of reaching a -- it's a very active period of time over the next year sort of which the main development work will take place for 5G.
+It's the perfect time for companies to engage with us.
+And I would tell you that those -- Sony was -- I can't tell you what was in their mind.
+But certainly one of the things they could've thought about was in terms of why they engaged with us in 5G was it was timely to do that and it won't be timely a year from now.
+And so we're very well-positioned in the 5G standards both from a participation and leadership standard position.
+So I think we can use that timeframe to drive opportunity there.
+And there's a similar opportunity within the 802 environment as well.
+So I certainly like the things that are happening in terms of the drivers for licensing.
+That said, as I mentioned, this is not a business model we can predict the timing of outcomes.
+But certainly we -- I think we're doing things the right way and creating right incentives for folks.
+So the arbitration itself covers sales outside of China.
+And so the sales inside of China would be -- or the royalties for those will be determined via the process going on inside China.
+And that is sitting up at basically the Supreme Court within China where we have requested a rehearing based on a variety of factors.
+Among them, the lack of evidence in the case that occurred below.
+So we're basically at this point waiting for a ruling from the Chinese courts.
+Yes, you're welcome.

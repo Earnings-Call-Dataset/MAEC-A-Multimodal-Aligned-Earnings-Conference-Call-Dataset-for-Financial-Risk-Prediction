@@ -1,0 +1,175 @@
+Right now we're still bullish on the second half, <UNK>, so we think it's generally in that range.
+As you know, some of this can skew a bit by shipment and product mix in a specific quarter.
+But right now, we're still consistent with where we expected it to be.
+With -- as you may recall we had guided to a softer first quarter.
+Some of that is going to continue in the second quarter, but the second half we believe would be stronger.
+So overall for the full year we are still in line with where we thought we would be.
+This is <UNK>.
+A couple of things on that.
+The first, at the top level of the pricing level, there really haven't been pricing effects here, so what you're seeing here is not an effect of aggressive discounting to get sales to happen.
+There are some price effects in the Security segment where we're facing stronger competition there, but it's a small piece of the puzzle.
+To your point about what's happening with new products, as we introduce new products, those products fully support the long-term objective gross margin objectives of the Company.
+And I don't have a concern around that.
+The area where we see margin challenges is, are primarily in the surveillance segment where we have some larger programs that were booked some time ago that are nearing their conclusion.
+And these are programs like the MSC program for the US border patrol, and the PB-EOS program for the Coast Guard.
+And these are programs that were bid pretty aggressively early in the product development cycle and as a result have lower than corporate average margins, and they pull down the overall margins, particularly of that segment.
+The good news about that strategy, though, is it establishes credibility for those products and allows us to sell those products much more effectively in international markets having the backing of major US users behind them.
+And in those specific situations where we're selling them internationally, they fully support the corporate overall gross margin objectives.
+<UNK>, this is <UNK> again.
+A couple of things on that.
+The first issue is that midrange of our product value ladder, those are actually some of the oldest products that we have in our product value ladder.
+So from a product development standpoint, we've been very focused on the low end.
+We've had tremendous success there.
+The C2 has been this hugely successful product for us following on the heels of our EX product range and also the IGM test and measurement products that we have introduced.
+And those are the traditional test and measurement products that have Lepton injected into them, have been doing extremely well in the market.
+So we've got a very solid lower end as part of our control the corner strategy.
+Up on the other end of the spectrum, and again to our control the corner strategy, we have launched our T1K product.
+That's a product that's just getting traction now.
+When you have a premium product like that, that is typically a product that's involved in a replacement cycle of capital equipment, the adoption rate of products like that tends to take longer than one would expect because it is capital allocation type of budgeting process that's required to purchase that product given its price point.
+But we're seeing that start to get traction.
+The midrange of the segment, which is our Exx-series and our Txxx-series, those are products that are the oldest of the product portfolio.
+They're due for a refresh at this point.
+They're still quite competitive in the market, but I think -- you look at the feature set that are coming in advanced new products like the C2 and then the T1K at the other end of the spectrum, and it's quite attractive to customers, and we'll blend those feature sets and capabilities into that midrange product.
+Those products are under development now and are expected to be out within the next six to 12 months, and they will re-bolster that midsection.
+We also expect that to go somewhat hand-in-hand with the large number of systems and users that we brought into the fold at those lower end products are likely to be candidates for people who are going to want to upgrade to higher performance units after they've been using a product like the C2 or an IGM product for a year or so.
+We've had a very good track record of moving people up the value ladder after they see the value proposition that comes from thermal imaging.
+Well, we've had a lot of experience with it.
+I think it's a little bit difficult to predict from a timing perspective, but I would say from an efficacy perspective, we have had a very strong track record of moving existing customers into new product platforms.
+Through a combination of marketing and communication, and of course offering a better value proposition in the subsequent product to make their jobs easier, the data more easy to interpret, imaging performance better, and so forth.
+That is a level of detail we don't get into specifically.
+What we talked about was primarily around just the inclusion of those expenses that were not in the comparable quarter last year.
+There are integration expenses, but the big piece of this was just the inclusion of the absolutes that were not in the comparison quarter last year.
+No.
+There are some costs, but they are not significant.
+<UNK>, this is <UNK> again.
+The more important thing to think about in the integration effort on DVTEL is -- and I've seen this happen with a lot of companies that we've acquired.
+When you acquire a business like that you bring in different sales leadership, there tends to be a big focus on what am I doing, what are my job descriptions and so forth, people getting aligned on their functions and territorial assignments.
+And then we also spend a fair amount of time in training, cross training between the two sales teams so that they can get out there and sell that full product suite of products.
+And obviously that takes time and it's a distraction from day-to-day business.
+So we saw a little bit of effect, a headwind effect associated with that.
+That said, that effort is going well.
+The products from a brand standpoint have been well integrated at this point, and are represented on the website as such.
+And from a technical standpoint the compatibility links that were necessary between the FLIR professional and thermal visible products and the DVTEL video management system have all been put in place and tested at this point.
+So we're ready to hit the street running at this point with an integrated solution, which is part of the vision of the integration of that business.
+Morning.
+Well, I think it's a function of the mix of the Business, <UNK>.
+We see the gross margins manifest themselves lower when we have a segment like Surveillance, which is normally pulling the overall margins up, have margins that are below our target average.
+And again that happens when we have strong deliveries into a program, typically a US program, a record-type program where we have lower than normal gross margins.
+So that something that we're watching very closely, but we continue to have the ability to bring in new business, the book and bill business.
+The international business that we bring into Surveillance has margins that are well above the average margin for the quarter so that these things offset each other.
+You're correct that when we integrate businesses like Security or Raymarine that have inherently lower gross margins, and those businesses represent the larger percentage of the total for FLIR, that it can pull down the overall gross and operating margins for the Business.
+And I think that that's something, though, that we can see coming from a fair way off.
+In each of those businesses we continue to make sure that we have products within those businesses, the thermal content products within those businesses, that generate higher gross margins that help to bring up the overall gross margins of that business and offset the lower margins associated with the consumer and retail aspects of those businesses.
+I would say a prime example is, is in the Security space where we acquired DVTEL, we've integrated our 360 Surveillance business.
+Those are two software-oriented businesses that can support much higher gross margins that will help to bring up the overall gross margin levels for the Security business.
+No, we've actually done an analysis of the margin and backlog in Surveillance and it looks solid.
+It's in line with our expectation.
+I think probably more with the wild card is in Surveillance is, what does the book and bill margin look like.
+And typically the book and bill margin looks good.
+And again, we've said Q2 Surveillance margins will be down again as a result of us wrapping up a couple of programs that we've got in there.
+There's still three programs that are ongoing that have lower than average gross margins that then these are programs that have been around for quite some time that are just in the high cadence delivery phase right now.
+We've got to run those through the system and they're going to pull overall gross margins down.
+I do want to underscore, though, the strong benefit that comes from programs like that because of the credibility that comes from being on these rather significant US platforms.
+It really drives a very strong credibility for those same products and international markets.
+So, yes, <UNK>.
+We saw strong bookings in Q1 in both Surveillance business and in the Detection business, and it's possible that there may be some pull forward from Q2 in those bookings that we have.
+The business is still a bit challenging to forecast in that space.
+We've now seen a couple of back to back very strong quarters in terms of overall bookings growth.
+I think Q4 was up 26% in Surveillance, and Q1 was up 50% in bookings, and we're very pleased to see that.
+But the visibility is still a bit challenging on that front.
+The overall feel from the market is good.
+It seems like more frequently than not we've got new requirements that are coming in that weren't identified clearly in our forecast.
+And I've been in that space before in my career, and it's a good indication that the demand is increasing.
+Of course it's very much in line with how we operate as a Company.
+Our CDMQ model affords us the ability to be very responsive in a short period of time to urgent needs, and we're seeing more of that urgent need requirement.
+So, as a result of that, I think we're being conservative in terms of how we're looking at what the bookings look like for Q2 for Surveillance, if there was a significant pull forward from Q2 into Q1, but I would also say that there's potentially upside in that regard.
+Sure.
+Starting with a firefighting space, this is an area where I mentioned in the prepared comments that we feel that we're doing quite well from a gross -- from a market share gain standpoint.
+And we're building on that success through the launch of five new products that were launched at FDIC: two new handheld products, one new dedicated product that mounts at the top of a ladder truck ladder for aerial surveillance, and then two DJI drone-based products for drone-based aerial surveillance for firefighters, which is becoming an increasingly popular tool to have at a fire scene.
+I think this is part of our strategy.
+It's one of our key six strategic pillars to identify and attack new, viable markets.
+And firefighting is one that the market has been around for a while.
+The value proposition of thermal is incredibly strong there.
+We have a strong capability to create products and to innovate new products.
+And what we're doing here is not only building the value ladder of handheld products to have not only the most attractive opening price point all the way through the upper corner to a very attractive and well priced NFPA system with our K65, but also to inject a couple of easy to use products in that, and expand the overall product category by solving other problems that we're learning from firefighters which really come around.
+We need to get an aerial view of what is going on at a fire scene, and that can be done both from a ladder and from a UAV.
+We feel that we should see that fire segment's growth bolstered by the expansion of new applications within that segment, and that's been a key strategy for us as we work to offset some of the softness that we're seeing in the midrange of the product line in Instruments.
+Yes we can.
+Go ahead.
+Sure, <UNK>.
+I'll talk about three things there.
+First, we talked about in the prepared comments the two new OEMs that we've established with Lepton, one being the Cat phone and the second being the Scott site.
+Both of those are completely new applications.
+I don't see those as being cannibalizing.
+They offer completely new capabilities to those two OEMs.
+And I think that they will generate significant interest with other players in that market.
+So clearly the launch of the Cat S60 phone has gotten a number of other smart phone manufacturers looking at that.
+And when that product gets launch and starts getting traction later this summer, we think that there will be other parties that are going to be serious about looking at that capability for inclusion into their devices, as well.
+And similarly, when you look at firefighting, and SCBA is one of the most common pieces of the turnout gear, and integrating a thermal imager directly into an SCBA offers a hands-free capability that a lot of firefighters have been looking for.
+We think that that product concept is going to do well.
+Two other areas that I will mention, one is the introduction of Boson.
+We got a completely new core here, a core that has a very powerful system on chip vector processor embedded in it that can host a number of different image improvement algorithms, automatic detection, artificial intelligence algorithms, and it's a system on chip that also supports all the typical peripherals that you have in a handheld system: display, battery control, USB, memory, those user interface, those kinds of things.
+So that will make it easier for people to create products around that core and I think should drive future business for the OEM group.
+Also the fact that that core is available with 15 different fields of views and two different resolutions gives a lot of flexibility to system developers.
+And then the last thing that I'll mention is we continue to get traction in the OEM space with automotive.
+We've got -- Cadillac has just begun shipping units with CT6.
+It seems like it's getting a good response and we continue to have other auto manufacturers in the hopper there.
+So it's been a slow go getting traction with night vision, but it's one that is gaining steam in terms of its adoption rates.
+This is still with Autoliv, so it's the same partner.
+That's absolutely correct, <UNK>, and it's really a big part of the strategy within the Company, is to leverage developments across the segments.
+And frankly, things like the Security segment with its cloud services that are being developed, with the video analytics capability, with the mapping capability that's coming out of 360 Surveillance, those capabilities are applicable into other businesses, into Maritime, into Instruments, into Surveillance, and we're actively doing that.
+Also, the development of the Boson core with its embedded vector processor vision processor that is inside that unit, we can develop algorithms for that for video analytics and artificial intelligence that can be applied across multiple segments within FLIR.
+That is something that we've got a team that is solely focused on that.
+It's been a long-term vision here at FLIR.
+It was part of the reason that we bought traffic on.
+We also got additional video analytics capability with the acquisition of DVTEL, with the former IOI image assets there.
+And it's still early days in terms of what we will be showing from a video analytics standpoint.
+But we believe that the broad spectrum of products being offered in Surveillance, Instruments, Maritime, Security and even Detection can benefit from those enhanced capabilities that will run on board this low-power core.
+Exactly.
+In fact, part of the integration efforts that are going on with DVTEL are integrating the video analytics teams between those two groups.
+Pleasure.
+It was entirely organic.
+Yes.
+Yes, just a moment, <UNK>.
+We looked at -- the SKU was much stronger toward US DoD.
+If you look at the revenue for the quarter there was a much stronger skew towards DoD versus Federal and State law enforcement.
+So, from a revenue standpoint during the quarter, the DoD total was up a little over 50%.
+And this is -- I'm talking about total.
+If I look just within Surveillance, the DoD business grew faster than the other business in the quarter.
+We find that there is some shift typically back and forth between DoD customers and typical three-letter agency customers.
+And we had a particularly strong quarter for total DoD business from a revenue perspective during Q1, and that can move around a little bit.
+I think what you're talking about there is the difference between total US, the total US government bookings year-over-year.
+Is that what you are referring to, the 20% --
+The government products revenue plus 20%, I think, is US.
+<UNK>, I want to go back to that.
+The government products revenue increase of 20% is the total government product.
+It's not US only.
+Those first two bullet points on slide number 3, we have shown historical growth rate averages of our commercial versus government businesses.
+That 20% growth that you see shown in the government business is largely driven by DRSKO.
+I thought you were talking about the US content.
+Hang on just a moment, take a look at that.
+(multiple speakers) The Middle East, primarily when you're talking about government for the most part, that would be in our Surveillance business.
+And that business had relatively small growth, but fairly strong business.
+So, although the growth wasn't large, it was still a healthy quarter.
+Even if you deal with it overall we had about 4% Middle East growth.
+So <UNK>, as you know, we continue to look at M&A opportunities and there's several in the pipeline.
+We are not at a point where we are ready to announce anything at this point.
+The other piece, as you probably are aware, we have debt that is coming due this summer.
+So in terms of the balance sheet we will be looking to refinance our notes that are coming due.
+And when we do that we would be looking at overall our complete debt profile including the credit lines and the revolver that we have.
+Just given the overall conditions in the market and being opportunistic in terms of what's available out there with relatively low interest rates.
+But again, we're not ready to announce specifically what we're going to do, but that's something that's going to come in the second quarter.
+And <UNK>, this is <UNK>.
+Just one more follow up to the cash build up.
+The other thing, as we pointed out, we did not do any share buybacks in the quarter.
+Again, because we look at all our investments to make sure that they are the right business decision, and just given the share pricing where we were at, it was just not the right time to buy.
+So that was the other reason why that use of cash was not there in the quarter.
+Thank you all for joining us on the call today.
+Before we close I would like to note that Dave Muessle will be retiring from his role as Corporate Controller and Chief Accounting Officer early next month.
+I'd like to thank Dave for his more than 16 years of outstanding support and dedicated service to the Company.
+Dave will be replaced by Brian Harding, who is currently our Vice President of Corporate Finance and Accounting.
+Brian will formally start in his new role on May 6.
+Dave, we wish you all the best as you transition into retirement.
+And Brian, we welcome you to your new role.
+I would also like to thank the more than 3000 FLIR employees around the world for their continued dedication and innovative spirit as we pursue our goal of becoming the world's sixth sense.
+Thank you all, and we look forward to talking to you next quarter.

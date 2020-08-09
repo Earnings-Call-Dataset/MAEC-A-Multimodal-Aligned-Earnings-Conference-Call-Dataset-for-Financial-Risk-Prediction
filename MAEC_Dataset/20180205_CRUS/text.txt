@@ -1,0 +1,187 @@
+Thank you, and good afternoon.
+Joining me on today's call is <UNK> <UNK>, Cirrus Logic's President and Chief Executive Officer; and <UNK> <UNK>, our Director of Investor Relations.
+Today, we announced our financial results for the third quarter fiscal year 2018 at approximately 4:00 p.
+m.
+Eastern.
+The Shareholder Letter discussing our financial results, the earnings press release, including a reconciliation of non-GAAP financial information to the most directly comparable GAAP information, along with the webcast of this Q&A session are all available at the company's Investor Relations website at investor.
+This call will feature questions from the analysts covering our company as well as questions submitted to us via e-mail at investor.
+Please note that during this session, we may make projections and other forward-looking statements that are subject to risks and uncertainties that may cause actual results to differ materially from those projections.
+By providing this information, the company undertakes no obligation to update or revise any projections or forward-looking statements, whether as a result of new developments or otherwise.
+Please refer to the press release issued today, which is available on the Cirrus Logic website, and the latest Form 10-K and 10-Q as well as other corporate filings made with the Securities and Exchange Commission for additional discussion of risk factors that could cause actual results to differ materially from current expectations.
+Now I'll turn the call over to <UNK>.
+Thank you, <UNK>.
+Before we begin taking questions, I'd like to make a few comments.
+For a detailed account of our financial results, please read the Shareholder Letter posted on our Investor Relations website.
+Cirrus Logic reported Q3 revenue of $482.7 million, GAAP operating profit of 21% and non-GAAP operating profit of 26%.
+GAAP and non-GAAP earnings per share were $0.52 and $1.59, respectively.
+As a result of our meaningful concentration and the tendency of the investment community to draw conclusions about our largest customer from our results, we chose to wait to announce our results until after our largest customer's earnings.
+While our design position with key customers remain strong, revenue for the quarter reflects unanticipated weakness in the smartphone demand that materialized in late December.
+Although sales in Q3 and our Q4 outlook are disappointing, the company remains focused on delivering a robust portfolio of compelling components in a timely manner and maintaining our strong relationship with key customers, which we expect will fuel future growth opportunities.
+Based on our current visibility, in FY '19, we anticipate revenue will be relatively flat.
+However, with a substantial portfolio of components and an exciting product road map, the company is actively engaged in design activity that we believe will contribute to the resumption of growth in calendar year 2019 time frame.
+We believe Cirrus Logic's future is bright as our core competency of designing complex analog and digital signal processing components at ultra low power levels, combined with our extensive software capabilities, is increasingly important in the sophisticated audio and voice markets we serve.
+With a broad portfolio of smart codecs, boosted amplifiers, hi-fi decks, MEMS microphones and a robust road map in various stages of development, we believe we have the potential to increase penetration of existing customers and expand into new Android customers in the coming years.
+Before we begin the Q&A, I would also like to note that while we understand there is intense interest related to our largest customer, in accordance with our policy, we do not discuss specifics about our business relationship.
+Operator, we're now ready to take questions.
+No, other than what we've guided.
+I mean, obviously, this is a little bit of how the semiconductor industry operates in the sense that in many cases, if our -- if one of our customers gets a cold, we catch the flu.
+And I don't know what that means happens to the ones -- the folks supply -- that are our suppliers, but it's even worse in their case because at the end of the case, when you -- at the end of the day, when you ramp really heavily and then at some point have to reconcile exact supply with demand, it impacts us -- can impact us in a pretty major way, in an exaggerated way relative to what even hits our customers.
+So at the end of the day, I don't think it's a -- the sky is certainly not falling, but it was a period where we got to get supply and demand all back in check across the supply chain.
+And so no, we don't know have any particular guidance as it relates to going forward.
+We think the markets we're serving are healthy and robust.
+And perhaps rather than a super cycle, we got a pretty good cycle.
+So I again don't see anything as the sky falling and certainly not any trends to extrapolate out into infinity, but did hit us for the current period.
+And the great news is we've got a bunch of good things in the works that we expect will drive future growth, a lot of which we would expect to contribute to diversification as well.
+So I think we're on the right track for the long term.
+And so that's kind of where things stand.
+Well, it is a case where we'd obviously in a year where we're kind of flattish would be taking a lot closer look at things and managing our expenses prudently.
+But at the same time, we got to balance that against we've got some really compelling things that we're gunning for in the calendar '19 time frame.
+And they're of the sort like we've had in the past where we can get behind in a pretty big hurry, so -- from an R&D resource perspective, that is.
+So we need to kind of balance those couple of things.
+It's difficult to guide and have it be useful, but I know you all need something for your models at this point.
+I'd pick something in the 8% to 10% OpEx growth range for the year.
+And then we'll keep an eye on that as things unfold and make adjustments accordingly.
+Sure.
+I mean I'd say the things that are most probable and, actually in this case, biggest are the things that are closest to home in terms of the product line.
+We've got great things going on in the smart codec space for the Android community, in particular.
+I mean, nothing wrong with the rest of the community either, but the things we're talking about are probably particularly exciting for the Android -- in the Android space.
+We've made great progress on the amplifiers.
+We're continuing to rack up base hits, and I expect that this will be another good year on that front.
+The new 55-nanometer amp with integrated DSP has received that kind of reception in the customer space that is really, really strong, strong demand for that device.
+So the team has clearly done a very good job.
+So we expect calendar -- fiscal, this coming fiscal year to be more base hits and setting the stage.
+But those are a couple of big, big moving pieces for calendar '19.
+We see some good opportunities for headsets as well.
+We've broadened out that road map.
+Some detail on the letter about next-generation device that we've gotten back, is working very well.
+We're getting lots of interest there.
+And then of course voice biometrics, which, again, has the potential to be transformative for the company.
+It is probably a more elaborate design-in process.
+And so it's one we want to be cautious on.
+But there's nothing in that product line that is -- has decreased our enthusiasm for what that might do for the company over the long term.
+We're extremely, extremely excited about that customer reception.
+Folks that have seen the pitch, seen the demos has been extremely solid.
+And so things look really good on all of those fronts.
+Let's see.
+We're still -- well, now we're not football season.
+I'd say we're in the pregame show rather than the prime time all the way, but things are going very well, right.
+As we've indicated on the last couple of calls, the team has continued to do a good job of knocking off some of the really difficult technical challenges.
+We've got work to do remaining there, but at the same time, we're now doing it with the supply chain that is heavily centric in Taiwan, Tier 1 vendors from front to back.
+And we're really down to a couple of very small -- well, very difficult but very small list of technical challenges between us and being able to confidently pound the table and be comfortable saying we can ship a quantity of microphones that's in the quantities that would make this an interesting business for us.
+Customer pull is very strong.
+There's a lot of interest in our premise initially of providing microphones that don't cause our customers a lot of drama, which is currently the current state of affairs and obviously not something that is part of Cirrus Logic's business model.
+We pride ourselves on being the most reliable supplier a customer can have.
+So it's still -- on the growth vectors that we've got in play today, I would say that's still one of the ones that's further out there, but nothing has diminished our view that that's a really good opportunity for us, one that's really synergistic with everything else we're doing and one that offers a lot of opportunity for us to continue to differentiate that product line once we've rendered it to the position where customers would be comfortable shipping hundreds of millions of units from a single-sourced device, which, again, is not the case today.
+So good progress, still work to be done.
+Well, I mean, it's, I would say, from a pricing perspective, nothing unusual going on.
+It's business as usual.
+I always enjoy the news articles about how one of our customers is suddenly going to start cracking the whip on their suppliers.
+I must have missed the year when that wasn't the case.
+So I would say nothing unusual on that front as far as content is concerned, nothing that we -- would be appropriate for us to get into at this point other than whatever we expect to have happen for the fiscal years is contemplated in the color we provided for the year.
+(technical difficulty) So not a lot of drama on that front, I would say.
+Well, in particular, you hit the nail on the head.
+The USB-C stuff has taken longer than expected to take off both because there were technical challenges I think for the core chipset vendors to have that be a really compelling solution for streaming audio, and, in particular, voice calls with respect to round trip latency and other kind of technical things needed addressed.
+And then also just kind of some uncertainty about do we remove the headphone jack, do we not, all that.
+But that seems to be unfolding now.
+There's perfectly reasonable solutions out there.
+We've got good opportunities with customers that matter to ship a variety of USB-C enabled headsets.
+So I would say that our opportunities there are bigger going forward and they have been for sure and also our product line is getting more well-rounded out.
+So we've got better solutions for everybody that might be targeting different price points and features and functions and whatnot.
+It seems fairly compelling to me that the market will move in that direction over time.
+So we just need to make sure we're -- continue to make sure that we're positioned as well as possible for them.
+Yes, we're -- well, we don't generally break it down much below the line anyway.
+I think it's a flattish kind of a year.
+I mean, we're continuing to rack up base hits on some of our new initiatives.
+There's always ASP erosion and pricing and other things.
+I would say it's just from the company's perspective, a relatively undramatic year is kind of the way we've got it modeled.
+We're making great progress on all of our initiatives.
+Some year, things all line up at once and we knock the cover off the ball.
+And other years, it's kind of some cancellation and things that aren't -- that don't add up as solidly.
+But we're moving in the right direction.
+We see great opportunity going forward to resume our growth track.
+And so I'd say this is kind of the year of us minding -- tending to our business and making sure we actually execute on all these opportunities in front of us.
+Well, more time.
+These design wins, when we come out with a new product, it takes a year for a customer to wrap a product around it.
+And sometimes, you've got to wait for product cycles to line up and everything else.
+So this is something that I talked about a little bit on the last call.
+We've got -- from a very long track record over the company's history of when we get into something new, it often takes as much as 5 years for it to turn into a real valid and growing business for the company.
+And we're coming up on the calendar '19, turns out to be about the 5-year anniversary of our putting Cirrus and Wolfson together and reconciling the road maps and really broadening things out more rapidly.
+And it sort of feels like it's just how long it's kind of taken for things to percolate through the whole process.
+I noticed in the Shareholder Letter, <UNK>, there was a reference to delivering the voice biometrics kit evaluation get to a lead customer in December.
+So I just wondered if you can maybe shed a little bit more light on there, why there was sort of one customer, lead customer.
+Is there any exclusivity there.
+Or would that just happen to be the first one that raised their hand.
+And then just in general, your views on the uptake of that product, smartphone versus IoT device, where does the interest level seem to be.
+Sure.
+So I mean, again, we're heavily targeted at handset initially.
+We're very excited about smart home.
+And we've got initiatives in place to support voice biometrics and other voice technologies that are closely related such as far field beamforming and whatnot in smart home.
+But we're currently more -- we're targeting handsets because it's just so vastly bigger, and also the hands free use case for handsets really screams for that technology.
+We generally tend, when we launch new devices, to focus on lead customers.
+I'll put the usual caveat in there that if we're talking about it on an earnings call long before the product is available on retail shelves, then it is clearly not for our largest customer because we don't talk about stuff for them ahead of time.
+That is not to say that we wouldn't or aren't working on something similar to whatever we talk about on the earnings call, but just be mindful of that.
+That said, we generally tend to focus on the customers in order of relative importance.
+And these are -- voice biometrics, of all the things we're doing, is likely to be a heavy, heavy resource-intensive demand -- design-in process.
+There's just a lot, lot of effort that goes into bringing this stuff out to customers' standards, doing all sorts of false accept and reject testing, multiple different language support.
+It's a pretty sizable investment and opportunity for the company.
+The team's done an amazing job of getting it to the point that it's at today.
+And the reviews from the folks that have evaluated it have done really pretty solid.
+So we continue to be excited about where that product line is going.
+It's something that is a large undertaking and we expect will continue on for a good bit of time.
+But you would definitely see us focus on a small number of customers that can really move the needle first on that product line.
+Great.
+And then for my follow-up, I was wondering kind of where we stand on the mid-range as an opportunity.
+I know you guys have talked about that the past couple of years.
+And I think you've had some wins there.
+To what degree does that grow in fiscal '19 and better than that forecast.
+And what's the sort of outlook going forward.
+Yes.
+Again, it's kind of a series of base hits in fiscal '19.
+We've made good progress.
+And definitely that new 55-nanometer amplifier is really well situated for the mid-tier market.
+We should see good things happening in that product line over the course of the year kind of as proof points that we're heading in the right direction.
+That's a device that can just as easily be applicable across mid-tier or flagship maybe with stereo usage being more common in a flagship than a mid-tier.
+But either way, those are both great growth factors for us.
+So I think the strategy of migrating a subset of our features that we sell in flagships down into the mid-tier is unfolding very nicely.
+We're seeing that -- we're seeing good opportunities across the applicable product lines, maybe with amplifiers being the furthest along simply because no matter what features you're targeting, what kind of performance level, price point, et cetera, that you're targeting for a smartphone, pretty much everybody would like it to be a much better speakerphone.
+And a lot of that is about being loud enough under average conditions to be able to use it in a noisy environment, say, on the passenger seat of your car.
+So seeing really good demand trends there, and that product line is probably the furthest along in terms of our opportunities for the mid-tier.
+But thus far, I think we're just seeing the strategy of migrating things down to mid-tier being validated.
+So again, I'm not commenting -- or my comment is specifically we don't see anything out of the ordinary currently going on as it relates to us.
+So if there's other things going on elsewhere in the industry, maybe you know more about that than I do.
+So we don't see a whole lot moving -- a whole lot of new drama going on there.
+It's -- I've been -- so there's a couple of premises to your question that I'm going to stay away from.
+But our -- in the mixed-signal business, there's always some fraction.
+You asked, is there any chance.
+Well, of course there is.
+In our business, there's always some chance of some fraction of what you're doing is getting integrated into whatever the big square chip in the center of the board is.
+And the name of the game in mixed signal is always to be trying to put new things on the board that maintain our relevance and viability.
+And if we get relegated to a position where we're selling the same part year after year after year, well, then customers should look at bringing it inside because there's no more nimble moving around the gives us the advantage that we have today.
+But we see a great opportunity to continue to innovate and add neat new stuff to audio and voice and voice biometrics and far field signal [prop].
+So we see plenty of opportunities to continue to grow our business, and at the same time, we see better opportunities to diversify in a good way than we've ever had in the past.
+So I think overall, the outlook is pretty robust.
+Well, it's also -- on top of that, you've got to look at -- there's a number of things that kind of roll over at the new year.
+You get extra payroll expenses and couple other items along the lines, along those lines.
+Well, the new tax policies or the tax reform doesn't have a lot of effect on our capital distribution at this point in time.
+It wouldn't affect us in M&A.
+It's something that really the tax effect is a wash between the advantages that you get on the changes in the U.<UNK> tax rate and the additional taxes that have been imposed.
+So it doesn't have a whole lot of effect on any of those things.
+One benefit is that we have more flexibility with our access to cash, so we can get to our overseas cash without a problem.
+And that said, again, we'll be looking at share repurchases certainly.
+We announced a $200 million authorization from our board, and that's in addition to the $62 million that we already have.
+So we'll continue to look at that opportunistically and we certainly look at small M&A opportunities.
+And as we've talked about historically that if the right larger transformative type of deal came along, we would certainly consider pursuing that.
+I just want to make sure I'm talking about what you're talking about.
+By ASP pressure, you're talking about they used a lower-cost device this year than the previous year, right, not just standard ASP per (technical difficulty)
+Yes.
+I mean that was a decision that one of our customers made to use a lower cost -- I guess, you can call it a less smart codec this year.
+We predicted that was going to work out poorly.
+It has worked out poorly.
+And it's kind of hard to get to the details of it, and it's not our business to go spreading around publicly.
+But I mean, if you see some of the challenges that, that customer's had in the news as it relates to voice and voice services, it's directly related.
+So certainly, that is related to some of our optimism for calendar '19 kind of time frame.
+<UNK>, in summary, we firmly believe in Cirrus Logic's long-term success.
+As a leading supplier of the complete audio signal chain with a portfolio of products that span the technical and price requirements of flagship and mid-tier devices, the company is in a unique position to address the increased demand for innovative audio and voice products in the smartphone, digital headset and smart home markets.
+If you have any questions that were not addressed today, you can submit them to us via the Ask a CEO section of our investor website.
+I'd like to thank everyone for participating today.
+Goodbye.

@@ -1,0 +1,127 @@
+<UNK>, so the leverage targets, we're still a goal of about 3 times.
+But what we said is that as the business, as EBITDA declines somewhat, we were basically willing to go over 3 times if we saw that EBITDA over time was going to turn around and it could bring us back to 3 times or lower.
+So we will look at the proceeds from the sale of the data.
+At this point, we don't have any goal to reduce our leverage below 3 times.
+We still think that with what we've done with our debt maturities, we have plenty of liquidity and generate plenty of free cash flow, and we'll wait and see what happens with respect to the data center sale and then we'll decide from there what we do, more or less, with the $600 million to $800 million of free cash flow that we expect to have in 2016 after the payment of the dividend, as well as the free cash flow associated with the -- as well as the cash associated with potential sale of the data center.
+Regarding the broadband, first of all, we believe that we have real opportunity to take advantage of the investments we've made in recent months in GPON and Prism.
+We've passed now about 950,000 homes with GPON, one gig speeds to 780,000 of those homes, a 17% increase from the third quarter in terms of GPON homes passed.
+We grew our Prism market with GPON capabilities from 600,000 to 700,000 in the fourth quarter, and we're seeing really strong take rates where we have in GPON in these homes and businesses.
+That's really positive for us.
+We average about right now, and it's early on.
+We've got about 15% penetration in our GPON markets of the GPON products, and that's, as you know, we rolled out in the past year.
+Most of it's rolled out the past year.
+So we're real pleased with that, and that opportunity it gives.
+Also, if you look at our market share data, market share in a lot of these cities we're in is very low.
+We think we have upside there to go in on these businesses.
+And we're also attached or connecting more of the MDUs and MTUs within our markets that we believe give us a lot of opportunity where we've had very little market share there.
+30%, more than 30% of our households that we serve are in MDUs.
+So it's a real market opportunity there, as well, that we're focused on.
+So those are some of the things we're doing we believe can really turn around the broadband growth.
+I think we will.
+It's a little early, but I believe we're on a path for positive adds in 2016.
+<UNK>, in terms of the CapEx color, basically in 2016, a little bit over the, over $2 billion or so of the capital budget will be what we call revenue enablement and support.
+Probably of that approximately $2 billion, basically broadband enablement and connection and capacity is about $1.2 billion or so.
+And then ethernet and MPLS enablements, probably about $600 million or so.
+So we're going to expect to continue to spend capital to bring higher and invest in the access part of our business to basically be able to, through either fiber or other technologies over time, be able to drive higher speeds for our customers.
+<UNK>, on the break out between wholesale and retail, we don't have that here, but we can follow up -- <UNK> or someone can follow up with you and get you that information.
+We just don't have it right here.
+As far as -- yes.
+As far as the broadband growth, yes, absolutely.
+<UNK>, we've looked at that and we're continuing to look at it some.
+And I guess we've not made really any final decisions.
+But at this point, we would prefer to stay unsecured, even if it might cost us a little bit more.
+Again, we can carry -- we can really be opportunistic with this next, with the little less than $1.2 billion that we need to raise to refinance the Embarq maturity, because again, we have about $1.6 billion availability on the credit facility.
+Additionally, our highest free cash flow quarter of the year is the first quarter, because basically our CapEx somewhat gets off to a little bit of a slow start.
+We just have more free cash flow in the first quarter.
+We'll probably generate over 50% of our free cash flow that we're going to generate in the first quarter, really.
+So we have a lot of options, and we will look at secured options.
+But at this point, we're not leaning in that direction.
+Not to say we wouldn't go there over time.
+Yes, certainly through the Embarq maturity, and in all likelihood, until we get much more color in terms of what's going to happen with the data center business.
+So I'll take the first one, <UNK>, on the depreciation.
+So basically, we would expect depreciation and amortization to be down somewhere between $200 million and $250 million, 2016 versus 2015.
+About $75 million of that decline is really a decline in the customer list amortization that we have that was really part of the purchase price adjustments related to primarily the Qwest acquisition and the Embarq acquisition, as well.
+The depreciation rate, the decline of the depreciation really is due to some of our assets becoming fully depreciated and retired.
+So basically, that decline in depreciation that did occur in 2015 is offset, to a certain degree, by the $3 billion that we expect in depreciation and the $3 billion we expect to invest in 2016 in our plan.
+So really about $100 million to $150 million decline really related to just the depreciation part.
+And <UNK>, regarding Joe Zimmel's departure, first, Joe made a lot of contributions to our Company.
+The 12 years he was here, we appreciated that, wish him the very best.
+As we state in the 8-K that we filed, really in connection with the annual review of the Board slate, the nominating governance committee recommended, and the Board ultimately concluded, that Joe should not stand for re-election at the 2016 meeting.
+The Board felt the change would lead to an environment with improved productivity, constructive dialogue.
+It was really just a Board chemistry issue is what this was.
+At no time has Joe raised any issue about the Company's accounting or financial reporting, either leading up to or following his resignation.
+Also, Joe didn't raise concerns about the Company's strategy or succession planning prior to his resignation, at least not that I'm aware of, or Board members were aware of.
+His principal complaint remitted to the process the Board used to reach the conclusion that he would not be included on the 2016 slate.
+And I think I'll just leave my comments to that.
+And there are a lot of details in our 8-K we filed on January 25, and you can maybe read all of that.
+But that really contains exactly what happened, in my view.
+And it concludes Joe's comments, as well.
+First, yes.
+We have that information and we use it continually.
+I don't have it here, as far as total overall percentages and speeds, but we have that.
+Marketing department, sales, we use that continuous, have to identify where we build additional capacity, how we go to market, advertising, all of that, pricing, all of that comes into play.
+But that's a very important part of our analysis.
+First of all, <UNK>, on the customers with respect to the economy, any company connected with the oil and gas business is skittish right now, obviously, for good reason.
+We're seeing some of that in the oil and gas sector.
+Fortunately, it's not a major vertical.
+We do have customers there, but it hasn't been a major vertical for us.
+Outside of that, we're not seeing a lot of concerns out there right now.
+We'll see what happens the next few months.
+We were already seeing long decision-making time frames by businesses the last year or so, so that's not a change.
+And we're still seeing that.
+But no major -- we're not getting major negative feedback from our customers, at this point in time, outside of the oil and gas sector.
+As far as the involuntary churn on internet speed, we hope we've worked through most of that through the fourth quarter.
+And so we're thinking those changes we made last year on the credit requirements and the higher prices, the price increases we had last week, we think we've worked through most of that.
+So hopefully we'll see the first quarter, that come in in the first quarter.
+It was that, and just folks who never paid.
+They just never paid.
+They would come in and we would skip service for three or four months and we would give them time to pay and they weren't, so we put in stiffer requirements.
+<UNK>, <UNK> <UNK> is here, our Chief Technology Officer.
+I'm going to let him address the product and systems.
+It's a major undertaking for us.
+I can tell you this, we're already seeing benefits, but it will be a continual effort over the next two years, two and a half years, really.
+<UNK>, you want to talk about that.
+And regarding the economic benefits on a joint venture on the data centers, it depends on what you mean by joint venture.
+There are a lot of different approaches to a joint venture.
+But the main thing that we would like to be able to do is continue to have a wholesale opportunity within the centers that we own today.
+We would like to avoid the high level of capital expenditures that's required.
+We think we can drive higher returns by investing those dollars in network and other areas.
+So that's really our view of that.
+And not only that, the valuations are significant right now and we think it's a good time -- if we're going to consider this, now's the time to do it.
+We think it's a good business.
+It is a good business.
+The margins are good.
+We're growing, have been growing this business some.
+So it's not we're running from, but it's just we think the ownership of the assets, we don't think we have to own those assets.
+So that's the really the reason we're looking at all the alternatives.
+So basically, we've been trying, since all the acquisitions over the years, to simplify our capital structure somewhat, and frankly, really we've looked at the potential of refinancing down at the Embarq level.
+It creates another public entity that we have to do public filings on and all, and we think it's not worth the effort of all of that, as well as the rate differentials is not that significant.
+So we've been, for the last five years or so, been working to refinance debt on Qwest Corp, at Qwest Corp, the debt that matures there, because it is still investment grade.
+Everything else is the parent's non-investment grade.
+So we've been moving everything up there, and we think that -- we've had really good rates and good execution over the years.
+As I mentioned earlier, we'll see over time if we need to go into a more secured product to get better rates.
+At this time, we don't think we'll need to, but we'll just monitor that over time.
+You know, so if you look at pretax book income, possibly somewhere in the range of maybe 45% to 55% would be the effective cash tax rate, but it's early yet and we'll have to see.
+That, I'm sure, will change some over the year as we get closer to 2017.
+But it will go up some.
+The benefit of bonus depreciation to us over the life of the program is a little bit over $1 billion.
+And we figured we got $250 million of the benefit in 2015 and probably $450 million of the benefit in 2016.
+So we've gotten -- we will have, by the end of 2016, achieved about $700 million of the little bit over $1 billion deferral that we expect to get during the life of the bonus depreciation legislation, and that assumes our CapEx stays at about the same level that it is today.
+So the decline in working capital was basically on October 1, maturity of debt that we paid off.
+So that's why working capital declined.
+In terms of the credit facility, I think we've said we're going to keep about $1 billion of capacity on the credit facility just for things like this, times when the markets are not where we want to issue, with the free cash flow that we'll have in 2016 beyond, beyond the dividend payment, the $600 million to $800 million.
+We're not opposed to keeping it on the credit facility for some time, if we need to, in order to get to a better rate and to get past the -- let the high yield markets heal themselves somewhat.
+No.
+We will file our K.
+The 26th is our target.
+So we'll file our K in a couple of weeks and all the pages and pages of pension and OPEB disclosure will be in there.
+So I really don't have that at this point in time.
+We do not need to make a cash contribution.
+We've made voluntary cash contributions of $100 million in 2015 and I think we did the same thing in 2014.
+We haven't made -- we don't need to make a decision on 2016 until September, before we file our tax return.
+But at this point, nothing is actually required of.
+Thank you, Sayeed.
+We discussed with you last quarter that we believe that our investments in network and adjacent businesses, along with organizational changes and cost control efforts, were beginning to take effect and produce positive results.
+We believe we can now clearly see that progress in our fourth quarter results, and we plan to continue to leverage and position our assets to help drive future revenue growth, EBITDA growth, and shareholder value.
+And although our results may not be perfectly linear in the months ahead, I am confident we're on a path to long-term growth and value creation.
+So thank you for joining our call today and we look forward to speaking with you in the weeks ahead.

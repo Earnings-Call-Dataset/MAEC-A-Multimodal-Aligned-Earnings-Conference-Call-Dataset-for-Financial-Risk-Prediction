@@ -1,0 +1,145 @@
+Thank you, Sayeed.
+Good afternoon, everyone.
+Welcome to our call today to discuss CenturyLink's first quarter 2015 results released earlier this afternoon.
+The slide presentation we'll be reviewing during the prepared remarks portion of today's call is available in the Investor Relations section of our corporate website at IR.
+CenturyLink.com.
+At the conclusion of our prepared remarks today, we will open the call for question and answers.
+On slide 2, you will find our Safe Harbor language.
+We'll be making certain forward-looking statements today, particularly as they pertain to guidance for full year and second quarter 2015 and other outlooks in our business.
+We ask that you review our disclosure found on this slide, as well as in our press release and in our SEC filings, which describe factors that could cause our actual results to differ materially from those projected by us in our forward-looking statements.
+We ask that you also note that our earnings release issued earlier this afternoon and the slide presentation and remarks made during this call contain certain non-GAAP financial measures.
+Reconciliation between the non-GAAP financial measures and the GAAP financial measures are available on our earnings release, and on our website at IR.
+Now, if you turn to slide 3, your host for today's call is <UNK> <UNK>, Chief Executive Officer and President of CenturyLink.
+Joining <UNK> will be <UNK> <UNK>, CenturyLink's Chief Financial Officer, and also available during the question-and-answer portion of today's call will be <UNK> <UNK>, CenturyLink's President of Global Markets.
+Our call today will be available for telephone replay through May 13, 2015, and the webcast replay of our call will be available through May 27, 2015.
+Anyone listening to a taped or webcast replay or reading a written transcript of this call should note that all information presented is current only as of May 5, 2015, and should be considered valid only as of this date, regardless of the day heard or viewed.
+As you move to slide 4, I'll now turn the call over to <UNK> <UNK>.
+<UNK>.
+Thank you, <UNK>, and thank you for joining our call today as we discuss our first quarter 2015 results of operations.
+We continue to make progress on a number of fronts during the first quarter, a few of which are our recent organizational realignment, the enhancement of broadband speeds across our network, and also we made progress on the integration of DataGardens and the Cognilytics acquisitions, further automation of our integrated network and hosting services, solutions as well.
+Turn with me to slide 5.
+Overall, we generated solid results for the first quarter.
+We continued to strengthen our ability to compete more effectively.
+We\
+Thank you, <UNK>.
+I'll spend the next few minutes reviewing the financial highlights from the first quarter, and then conclude my remarks with an overview of the second quarter 2015 guidance we included in our earnings release issued this afternoon.
+Beginning on slide 9, I will review some highlights from our first quarter results.
+I will be reviewing the results, excluding special items as outlined in the earnings release and associated financial schedules.
+Operating revenues were $4.45 billion on a consolidated basis, a 1.9% decline from first quarter 2014 operating revenues.
+Core revenue which is defined as strategic revenue plus legacy revenue was $4.06 billion for the first quarter, a decrease of 1.3% from the year-ago period.
+Strategic revenues great 2.2% year over year, and represent 52% of our total revenues compared to 50% a year ago.
+Strength in strategic products such as high-speed internet, high bandwidth data, and Prism TV continue to drive this growth.
+We added more than 35,000 high-speed internet customers and approximately 8,000 Prism TV customers during the quarter.
+Additionally, we generated strong operating cash flow of approximately $1.74 billion for the first quarter, and achieved an operating cash flow margin of 39%.
+As <UNK> mentioned, we exceeded our operating cash flow guidance as we had lower cash expenses than anticipated.
+Expenses were below expectations due primarily to lower employee related costs, along with lower CPE cost related to our data integration revenues, and approximately $30 million of favorable one-time items during the quarter.
+Free cash flow of $849 million for the quarter was very strong.
+As a reminder, free cash flow is defined as operating cash flow less cash paid for taxes, interest, and capital expenditures, along with other income.
+Our solid cash flows continue to provide us with the financial strength and flexibility to meet our business objectives and drive long-term shareholder value.
+Adjusted diluted earnings for share for the first quarter was $0.67, coming in $0.06 above our guidance range.
+As we've discussed on prior earnings calls, adjusted diluted EPS excludes special items and certain non-cash purchase accounting adjustments as outlined in our press release and associated supplemental financial schedules.
+Additionally, under the $1 billion share repurchase program, we repurchased 4.5 million shares during the quarter for an investment of $170 million.
+We expect to continue to be opportunistic in completing this program within the 24-month period outlined earlier.
+Now turning to slide 10, first quarter 2015 operating revenues declined $87 million or 1.9% compared to first quarter 2014, as the growth in strategic revenues was more than offset by the decline in legacy revenues, due primarily to access line losses and lower data integration revenues.
+The growth of our strategic revenues was primarily driven by strength, again, in high-speed internet, high bandwidth business data services, and Prism TV.
+Although legacy revenues continue to decline, the decline in first quarter 2015 was 16% lower than the first quarter revenue declined a year ago.
+Moving to slide 11, in our business segment, in the first quarter the business segment generated $2.7 billion in operating revenues, which decreased $78 million or 2.8% from the same period a year ago.
+First quarter strategic revenues for the segment increase 0.8%, to $1.6 billion from first quarter 2014, driven primarily by strength in high bandwidth services such as MPLS, ethernet, and Wavelength, which was largely offset by the continued decline of low bandwidth data services and lower hosting revenues.
+We continue to generate solid growth across the enterprise customer market and we see an opportunity for further investment in the small and medium sized business space to improve market share and drive further growth.
+Our legacy revenues for the segment declined 5.4% from first quarter 2014, due to primarily declining access lines.
+Total business segment expenses decreased slightly from the year-ago period, driven by lower CPE costs.
+Our segment margin of 45% declined from 45.8% a year ago.
+This decrease was primarily due to the continued decline in business segment, legacy, and low bandwidth data services revenue.
+On slide 12, I'll provide a little more detail on revenue mix within the business segment.
+Our high bandwidth data services revenue grew $70 million or 11% year-over-year, compared to first quarter 2014, driven by continued strength in sales to enterprise and governmental customers.
+Low bandwidth data services including private line continued to decline in first quarter.
+The year-over-year revenue decline of $88 million or 14% was primarily due to wholesale customers' network grooming efforts and migration to fiber based services that we've experienced over the past year.
+We anticipate this level of year-over-year decline to improve over the coming quarters as we cycle through this period of higher disconnects and grooming.
+Hosting revenues declined $10 million or 3% from the prior year, driven primarily by unfavorable foreign currency impact of $5 million and lower nonrecurring revenue compared to the year-ago period.
+In the first quarter, data integration revenues decreased approximately $35 million, or 20%, compared to first quarter 2014, driven by lower CPE sales.
+Now turning to slide 13, in our consumer segment, consumer generated $1.5 billion in operating revenues, an 0.8% decline from first quarter a year ago.
+Strategic revenues in this segment grew 5.1% year over year to $738 million driven by growth in high-speed internet and Prism TV customers and select price adjustments.
+Legacy revenues for the consumer segment declined 6% from first quarter 2014 as access line and long-distance revenue declines were partially offset by select price adjustments.
+Operating expenses were flat compared to the same period a year ago, as lower employee-related costs offset the higher Prism TV cost.
+Now turning to slide 14, for second quarter 2015, we expect operating revenues of $4.41 billion to $4.6 billion,( sic-see press release \u010f\u017c\u02dd$4.41 billion to $4.6 billion\u010f\u017c\u02dd) and core revenues of $4.02 billion to $4.07 billion, both of which are expected to be flat to slightly down from first quarter 2015.
+Our operating cash flow is projected to be between $1.67 billion to $1.72 billion, a decrease compared to first quarter 2015, primarily due to higher employee-related expenses, the impact of the continued decline in higher margin legacy revenue, and the $30 million of favorable one-time expense items I mentioned earlier that occurred during the first quarter.
+Adjusted diluted EPS is expected to range from $0.59 to $0.64 in second quarter 2015, compared to the $0.67 in first quarter of 2015.
+Our full year guidance that we provided in February for full year 2015 remains unchanged.
+That concludes our prepared remarks for the day, so at this time I'll ask the operator to provide instructions for the Q&A portion of the call.
+Yes, so <UNK>, you're right.
+There is somewhat of a hockey stick in the second half of the year, which was implied more or less in the first quarter guidance that we gave as well.
+Really, there are three areas that we think that we'll see improvements on, starting somewhat in the second quarter, but then more so in the last half of the year.
+One is, as <UNK> mentioned, we expect the reorganization that we did and the sales results from that reorganization to improve during the year, as we saw some improvement in the month of March over January and February.
+We expect to see continued improvement there and that to be one of the items that hopefully will push our revenue in the second half of the year.
+Secondly, I mentioned some price adjustments, so we'll have price adjustments that we put in that will basically help continue to improve revenue during the year.
+Then also, we think the latter half of the year we will really get through most of the grooming that we're seeing from some of the other carriers in terms of wholesale, particularly on the private line side.
+We're seeing fewer tower builds, which means that basically we're not seeing migration from the copper circuits to ethernet that we experienced last year too, so we expect to see a little bit of that.
+In terms of 2016, we're hopeful that the momentum that we have from a sales standpoint going into 2016 will help us overcome, to the extent we don't have price adjustments in 2016 that equal 2015, which we don't know yet, we're not sure what sort of pricing adjustments we'll have next year.
+To the extent we don't have those pricing adjustments equal to this year, we're hopeful that the sales momentum would continue to carry us through the tougher comps that we would have in the first part of this year related to the price adjustments that were made.
+<UNK>, this is <UNK>.
+I'll just make a couple comments.
+Talking about 2016, we expect greater sales force efficiencies as we get through the next few months and really transformed our sales force, a little different to go-to-market strategy with solution selling that we're working toward with all of our IP products and cloud hosting, all the regular network products.
+Also additional product rollout, as I mentioned we're expanding our GPON footprint during this year, so we'll have that really rolled out.
+We're expanding our Prism to close to 500,000 additional households past this year, and then this cloud hosting product advancement we're working on we think are really significant.
+It can drive a lot of potential sales growth there.
+Then bringing in our big data, advanced analytics, the Cognilytics acquisition is driving a lot of activity for us, a lot of interest throughout the business community for those services, and along with IT services We're not just providing the cloud services.
+We're providing conversions to the cloud and software support, application support, and just overall increased broadband speeds that we expect to roll out over the next 12 months.
+Yes, <UNK>, first on the share buyback.
+Basically through a couple of days ago, through the shares that we've settled as of really yesterday, we had repurchased about 11.6 million shares under the existing program, and spent about $439 million.
+So there's $561 million remaining of the $1 billion program that we had.
+We continue to expect to opportunistically buy shares back.
+And would expect still to complete the program within the 24-month period from which we started it.
+We started it in February or so -- May, actually, May of 2014.
+By May of 2016, we would expect to complete that.
+Beyond that, we haven't really talked with the Board about the next step from the standpoint of returning cash to shareholders.
+Although as you point out, we will see a significant increase in cash taxes or expect to see a significant increase in cash taxes in 2016, which will use quite a bit of the free cash flow that we've had.
+In terms of the CAF-II proposal, of course we just got that, I guess the FCC just released that a week or so ago, and started the 120-day clock running basically.
+So we have until August 27 to make the FCC aware of which of the 37 states that we have the option of the right of first refusal in, to take up to $514 million of what was allocated to us.
+We have started the process, now that we know the census blocks that are included.
+We started the process of reviewing the capital expenditures that would be required to get the 10 down, 1 up service.
+And I would imagine we'll take most of the time allotted to come to some conclusion as to how much of the CAF-II money that we want to accept.
+It's really still too early to say, <UNK>.
+Yes, <UNK>, we had a re-class from strategic services to legacy services in the first quarter that in the aggregate was about $10 million.
+About half of it was related to strategics to, basically network services that Savvis had been providing.
+We decided that as we merged the sales forces, we looked at it closer and decided that it really should be in legacy revenue.
+Then the other was just some strategic revenue that we found that we really needed to re-class to legacy too, so that was about $10 million of it.
+Then also, the [Sale-104] deferral revenue, I guess we didn't have as many one-time sales in the first quarter as we had in the first quarter a year ago.
+That basically, the way we account for it, reduced the strategic revenue somewhat.
+We would expect basically based on the sales effort that the business strategic revenues should hopefully trend better going forward.
+Also as <UNK> mentioned, just the Prism build out that we have in process or the GPON roll-out, and the higher bandwidth services that we'll be providing to our high speed internet customers, both from the business and consumer side, all of that should help drive those strategic revenue lines over the course of the year.
+Yes, so <UNK>, the foreign exchange was $5 million during the quarter negative, and that was mostly the British pound.
+Then we had about $4 million of lower nonrecurring sales, and it was just an opportunity that we had in the first quarter of 2014 with a partner that we really didn't have again in the first quarter of 2015.
+<UNK>, regarding the access line type acquisitions, as I said before, we are less interested in those today just because of the difficulty in having those revenue streams that would drive growth for us.
+It is difficult, as you know.
+We believe we've assembled a really strong group of assets that form a really good foundation from which we can drive attractive growth in the months ahead, years ahead.
+That being said, we're always looking for opportunities to accelerate our growth and strengthen our position in the market.
+We don't believe we have any gaping holes we need to fill in our product portfolio or in our key asset base.
+But if opportunities arise in which we could enhance our cloud hosting offering, expand our fiber reach, our fiber access, or accelerate our growth profile, we would certainly consider those opportunities.
+As you know, we've made some small acquisitions that have enhanced our hosting and cloud capabilities and IT service capabilities in recent months.
+They're small, but all those fit very well strategically where we're headed.
+But any opportunity we look at would only be evaluated under our very disciplined approach acquisition process.
+This is <UNK> <UNK>.
+In terms of Level 3, I would say we continue to do very well on our high bandwidth capability to our customers.
+We have not seen a slip in our win rates, and continue to take share from many carriers.
+We feel good about that.
+On the second question, second question was around the hosting -- managed hosting.
+I would say that the issue there is more in terms of our focus versus competition.
+Clearly on the public cloud side, that continues to grow, AWS, Microsoft, but we're not a pure play.
+We really are focused on that broad hybrid proposal.
+What we see, and if you look at the kinds of wins that we're winning, from global to mid-sized, we've got a product portfolio with our network that provides a little latency, with our co-location.
+And then with our dedicated and public clouds that allows really any sized customer to scale up or scale down.
+We can handle the enterprise grade and security capability that's required.
+When I look at our wins and when I look at our funnel, what's in our funnel, it's really encouraging in terms of the opportunity that we have in front of us.
+Yes, Mike.
+This is <UNK>.
+We really haven't changed our view from before.
+The spinoff just occurred a week or two ago.
+Basically we continue to see a lot of opportunity to create value for shareholders by using the assets that we have today.
+And would be concerned about those assets being in someone else's hands, another group of shareholders with different interests.
+However, we'll continually evaluate the best ways to try to deliver long-term shareholder value.
+As such, we'll monitor their performance, over the course of the next couple quarters or so.
+We'll see how much value is created there, and then we'll weigh that against what we believe are potential downsides associated with using that structure.
+Thank you, Sayeed.
+In conclusion, overall we're pleased with our solid first quarter operating and financial results.
+We are confident the reorganization and the investments we're making continue to position us to effectively compete in the marketplace and drive revenue growth from our strategic products and services in the months and years ahead.
+Thank you all for joining our call today, and we look forward to speaking with you in the weeks ahead.

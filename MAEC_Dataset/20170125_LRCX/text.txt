@@ -1,0 +1,111 @@
+Thank you, <UNK>
+Good afternoon, everyone, and thank you for joining our call today and what I know is a busy earnings day
+We ended the calendar year was strong performance for the December quarter exceeding the midpoint of our guidance and all financial metrics
+We delivered record levels for shipments revenue, operating income dollars, and earnings per share both through the December quarter as well as for the calendar year 2016, again demonstrating the company’s ability to grow the business at a pace that is materially faster than WFE as a whole
+So we dive more deeply in December quarter, momentum in our shipments continued totaling $1,923 million, which was up approximately 13% compared to the September quarter and was at the high end of our guided range
+Shipments for the combined memory segment came in at 61% of system shipments, which was up from 56% in the September quarter
+Non-volatile memory shipments made up 37% of the system shipments, which was down a little bit from 43% in the prior quarter
+Customers are committed to their technology roadmaps investing in the vision of economically scaling the technology in step with increasing product performance
+As we share during our Analyst Day in November, this is an exciting time for the segment to the market, with 3D NAND possibly the largest growth driver in the industry
+We’re pleased with our leadership in 3D NAND, in particular with our strong position in the most critical applications like the channel whole edge, the mold stack and the word line fill
+DRAM shipments grew 24% of total system shipments compared to 13% in the prior quarter
+But the tightening of the supply demand balance in the DRAM segment, customers increase their investments in the December quarter
+Content growth in areas such as servers and smartphones, have contributed to a burn down of inventory and corresponding upward movement in DRAM prices
+The foundry segment remained strong at 31% of system shipments in the December quarter, which was down slightly in absolute dollars from the record level we saw in the September quarter
+Foundry spend was focused primarily on 10 nanometer
+As <UNK> mentioned, we’ve made some significant market share gains in the foundry and logic space as our customers are migrating to smaller geometries and implementing more challenging architectures
+And finally, the logic and other segment contributed 8% of system shipments, which was flat with the September quarter
+December quarter revenues were $1,882 million, which was up 15% compared to the prior quarter
+Gross margin improved to 46.4%, which was up 120 basis points from the 45.2% in the September quarter
+This was primarily due to business volumes, product and customer mix
+And as I always mentioned, you should expect to see some quarter-to-quarter variability in gross margin, the multiple factors such as product mix, customer concentration overall business volumes
+And I remind you that our financial model continues to be the right tool for you to use to build your own models, and to think about our ongoing financial performance
+Operating expenses came in at $384 million for the quarter, which was up from $372 million in the September quarter
+OpEx decreased to about 20% of revenue in the quarter compared to 23% in the prior quarter
+Spending allocated R&D was about 64% of total spending in the December quarter, up from 63% in September
+You should expect to see more variability in our quarterly spending in 2017 and historically as we’ve changed our methodology and how we record variable compensation to better align the expense with the quarterly profitability
+Operating profitability was very strong in the quarter; we generated operating income of $490 million, which was an increase of 34% compared to the $366 million that we generated in September quarter
+Operating margin increased to 26%, which was up from 22.4% in the prior quarter, driven by the higher revenue and then improvement in gross margin
+The December quarter tax rate came in at about 15%, which was higher than roughly 12% rate last quarter and in line with our expectations
+A rate in the middle teens would be a reasonable number for you to use in your modeling for the March quarter as well as 2017. Based on a share count of approximately 181 million shares earnings per share for the September quarter were $2.24. The share count includes dilution from both the 2018 and 2041 convertible notes with a total dilutive impact of about 16 million shares on a non-GAAP basis
+And I just remind you, dilution schedules for the remaining convertible notes are available on our Investor Relations website for your reference
+We returned $0.30 per share for a total of $48 million in dividend distributions to our shareholders in the quarter
+At our analyst meeting in November, we announced an increase in the dividend level to $0.45 per share
+The first distribution at the new level was paid out earlier in the month of January
+In addition, we initiated purchases under our $1 billion board authorized share repurchase program, which was also announced at our analyst event
+In the December quarter, we spent $65 million and took delivery of approximately 619,000 shares at an average share price of $105 per share
+Let me now take you through the balance sheet
+We ended the quarter with $6.089 billion in cash and cash equivalents on the balance sheet
+The cash remains approximately 40% onshore and 60% offshore
+During the quarter, we redeemed the $600 million 2023 senior notes and the $1 billion 2026 senior notes under the special mandatory redemption provision of those notes
+Cash generation for the company continues to be healthy
+In the December quarter, we generated $404 million in cash from operations
+In the December quarter, days sales outstanding improved to 69 days from 72 days
+Inventory turns also improved from 3.9 to 4.1 times
+We exited the December quarter with a deferred revenue balance of $673 million, down a little bit from $704 million in the September quarter
+That number excludes approximately $129 million from shipments to customers in Japan
+This number is up from $65 million last quarter
+I’d like to remind you that those Japanese shipments remained as inventory carried across on the balance sheet and will convert to revenue in future quarters
+I do expect to see deferred revenue grow again in the March quarter
+Company non-cash expenses during the quarter included the following: $32 million for equity compensation, $39 million for amortization, and $39 million for depreciation
+Capital expenditures were $37 million, which is down a little bit from the $42 million that we spent in the September quarter
+We exited the quarter with approximately 8,200 regular full-time employees
+Headcount additions were targeted at supporting increased business levels and customer ramps
+Let me now turn to our outlook for the March quarter
+I’d like to provide with our non-GAAP guidance
+We’re expecting record shipments of $2.350 billion plus or minus $75 million
+We expect record revenues of $2.125 billion plus or minus $75 million
+We expect gross margin of 45.5% plus or minus 1 percentage point
+Gross margin is down somewhat from the previous quarter due to business mix
+Forecasting operating margins of 25.5% plus or minus 1 percentage point
+Spending is up in the forecast due to profit depended expenses and payroll related taxes in addition to new R&D investments
+And finally, we forecast record earnings per share of $2.55 plus or minus $0.10 based on a share count of approximately 180 million shares
+So in closing, we’re very pleased with our performance in the December quarter, as well as calendar year 2016 and the milestones we achieved throughout the year
+Looking ahead, we remain committed to our objective of creating value for shareholders and to successfully executing on the growth opportunities ahead of us
+We continue to expect 2017 will be a first-half weighted year with shipments more first-half weighted than revenue
+Also, as we sit here today relative to the June quarter, we’re expecting June shipments that are roughly in line with what we’re seeing for March
+That concludes my prepared remarks
+Operator, <UNK> and I would now like to open up the call for questions
+Question-and-Answer Session
+Yes, it might, Tim, but as always remind you, keep in mind the financial model when you model things
+We’re right in the sweet-spot of where we should be relative to that financial model relative to operating income percentage, and gross margin and spending obviously both go into that number
+But we’re kind of where we should be is how I think about it
+There’ll always be puts and takes around it as you’ve seen over the last couple of years
+Thanks, Tim
+I’m not going to give you a dollar number, C
+, but I’ll remind you, the way to think about it is when you’ve got an accelerating shipment profile like we’ve had you always get revenue lags as it just takes time to get things into the fab and they accepted
+And when you’re seeing a guide in March where revenue again is lagging shipments and so I accept deferred revenue will build in March
+What happens when shipments level off or if they in one quarter might go down a little bit, then revenue will catch up
+Over time it all normalizes and it’s going to be the same numbers, right? It’s just a matter of the rate of change, a second derivative if you will of what’s going on there
+For calendar 2017.
+Thanks, <UNK>
+You think about all time, <UNK>, I mean the practical reality of it is until there is a definitive law out there that you can understand exactly what it requires and what are the laws you do, it’s hard to specifically answer the question
+Obviously, if we get accessibility to worldwide cash without having tax penalty that creates a whole lot more flexibility for us to access the cash to do a variety of different things
+Some of which might be capital return investment in the business, as <UNK> talked about adjacent M&A
+We haven’t had any definitive conversation, because just too early right now and too much uncertainty
+But stay tuned, we’re paying very close attention to it
+<UNK>, you heard <UNK> described kind of more first half weighted overall both WFE and shipments, and also describe NAND is maybe more first half weighted than the other stuff, so that’s a data point for you
+When we look at March as well as June, everything is pretty strong
+Everything investments are recurring at leading edge, it’s NAND, it’s DRAM, it’s foundry logic, it’s hitting on all cylinders from my perspective I don’t know, <UNK>, if you…
+There you go
+You got a follow-up, <UNK>?
+Yes, <UNK>, I mean, it grew consistent with our expectations
+I can’t remember off the top of my head whether it grew a little bit more in the equipment business or not
+But it was roughly in line
+It’s still roughly a quarter of the company’s overall business
+And you got it right, it’s very cash generative, very profitable business, very broad-based in terms of the number of engagements and number of customers
+And generally speaking that chart that Tim Archer showed you at the Analyst Day, we’re very much on track to deliver that, that growth that we had targeted and are targeting
+Thanks, <UNK>
+Thanks, Chris
+That’s probably a reasonable assumption, <UNK>, yeah, it’s - that’s not unreasonable
+I am not going to give you specificity is just investments we were making with an eye towards of penetration, two nodes from now that didn’t end up come into fruition
+And so we ended up with some assets that didn’t have a forward useful life, so that’s what that was, it was an investment that we decided we were no longer investing in
+I don’t know if it’s necessarily more profitable year on year, <UNK>
+It’s always been quite profitable
+It’s a great business, right? All the investment occurs in new equipment
+It gets leveraged in installed base
+It doesn’t require a whole lot of investment
+It’s just - it’s a very profitable part of the business
+But on a year-on-year basis I don’t think it’s really more profitable necessarily
+Thanks, <UNK>
+Okay, operator, that’s going to be our last question

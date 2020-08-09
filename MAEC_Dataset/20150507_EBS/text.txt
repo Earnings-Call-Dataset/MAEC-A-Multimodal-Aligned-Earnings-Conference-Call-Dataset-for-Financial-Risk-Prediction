@@ -1,0 +1,194 @@
+Thank you, Mallory.
+Good afternoon, everyone.
+My name is <UNK> <UNK>, Vice President of Investor Relations for Emergent.
+Thank you for joining us today as we discuss our financial results for the first quarter of 2015 and our outlook for the second quarter and full year of 2015.
+As is customary, our call today is open to all participants.
+In addition, the call is being recorded and is copyrighted by Emergent BioSolutions.
+Participating on the call with prepared comments will be <UNK> <UNK>, President and Chief Executive Officer; and <UNK> <UNK>, Executive Vice President and Chief Financial Officer.
+Following <UNK> and <UNK>'s prepared comments we will conduct a Q&A session at which time other members of senior management will be available to participate.
+Specifically, <UNK> <UNK>, Executive Vice President and President of our Biodefense Division; and <UNK> <UNK>, Executive Vice President and President of our Biosciences Division.
+Before we begin I will remind everyone that during today's call, either in our prepared comments or the Q&A session, management may make projections and other forward-looking statements related to our business, future events, or our prospects for future performance.
+These forward-looking students reflect Emergent's current perspective on existing trends and information.
+Any such forward-looking statements are not guarantees of future performance and involve substantial risks and uncertainties.
+Actual results may differ materially from those projected in any forward-looking statements.
+Please review our feelings with the SEC on forms 10-K, 10-Q and 8-K for more information on the risks and uncertainties that could cause actual results to differ.
+During our prepared comments or the Q&A session we may also refer to certain non-GAAP financial measures that involve adjustments to GAAP figures in order to provide greater transparency regarding Emergent's operating performance.
+Please refer to the tables found in today's press release regarding our use of adjusted net loss, adjusted net income, EBITDA and adjusted EBITDA and the reconciliations between these non-GAAP financial measures and our GAAP financial measures.
+For the benefit of those who may be listening to the replay of the webcast, this call was held in recorded on May 7, 2015.
+Since then Emergent may have made announcements related to topics discussed during today's call.
+So again, please reference our most recent press releases and SEC filings.
+Emergent BioSolutions assumes no obligation to update the information in today's press release or as presented on this call except as may be required by applicable laws or regulations.
+Today's press release may be found on the Investors on page of our website.
+With that introduction I would now like to turn the call over to <UNK> <UNK>, Emergent BioSolutions' President and CEO.
+<UNK>.
+Thank you, <UNK>.
+Good afternoon, everyone, and thank you for joining our call.
+During the call today I will highlight some of our recent business achievements and then <UNK> <UNK> will finish with a discussion on our financial performance.
+I'll start with a discussion of our Biodefense Division.
+As you might recall, on January 28, during standard quality inspections performed in accordance with customary procedures, the Company discovered foreign particles in a limited number of vials in two manufactured lots of BioThrax.
+In order to determine the source of these particles the Company began an investigation into its operations as well as those of its suppliers and contract manufacturers.
+On April 22 we announced the completion of this internal investigation.
+Following a comprehensive assessment we identified a supplier component as the most probable root cause.
+As a result we are implementing certain targeted corrective and preventive actions in the operations of our suppliers and contract manufacturers as well as in our own operations.
+The investigation concluded that there was no impact to any BioThrax lots in distribution or to any of our other products and manufacturing operations including Building 55 operations and plans for licensure.
+With the conclusion of this investigation we reaffirmed our financial outlook for full-year 2015, which includes the full impact of all decisions on BioThrax lot disposition.
+Now that we have resumed full manufacturing operations, BioThrax lots are being released and scheduled for delivery this quarter.
+The downtime that occurred during our internal investigation has resulted in an approximate 90-day lag in delivery and we expect deliveries to be caught up by the end of the third quarter.
+Now let me give you an update on Building 55, our large-scale BioThrax manufacturing facility.
+During our last call I mentioned that we would be meeting with the FDA to discuss our sBLA filing strategy.
+We have had ongoing dialogue with the FDA about submitting our sBLA in phases with the final submission being the pivotal nonclinical final study report.
+This pivotal study is complete and primary endpoints were met, as we announced on February 13, with the only remaining deliverable being the final study report.
+This report is targeted for completion in Q4 and is progressing on time.
+Given our current status, and although the schedule is tight, we continue to target regulatory approval of Building 55 in early 2016.
+Moving to our Biodefense portfolio, in <UNK>h we received FDA approval of Anthrasil for the treatment of inhalational anthrax in combination with appropriate antibiotics.
+Achievement of this milestone triggered a $7 million payment to the Company under a development contract with BARDA.
+Anthrasil has received orphan drug designation and, as a result of this approval, the product qualifies for seven years of market exclusivity.
+As the only FDA approved polyclonal therapeutic for the treatment of anthrax disease, Anthrasil becomes the fifth approved product in our growing Biodefense portfolio and continues to be an important part of the US government's strategic national stockpile.
+Next let me update you on our latest Ebola efforts.
+On <UNK>h 16 we announced collaborations with Oxford University, GlaxoSmithKline and the NIAID.
+Under the agreement signed with these organizations, we manufactured an MVA Ebola vaccine candidate for use in a Phase 1 clinical study.
+This clinical trial is being supported by a grant from the Wellcome Trust and the UK Department of International Development.
+The study will evaluate the safety of the vaccine as a heterologous boost to GSK's CHMP adenovirus type III Ebola vaccine candidate.
+We manufactured this vaccine candidate at our debut campus in Baltimore, Maryland using our proprietary MVA technologies and capabilities.
+That facility has been designated by HHS as one of three centers for innovation in advanced development and manufacturing and it is designed for surge manufacturing of medical countermeasures to address public health threats.
+We look forward to announcing the initiation of the Phase 1 trial shortly.
+As we have discussed in numerous calls over the past years, we are committed to organic growth through sales of our Biodefense portfolio internationally.
+Our strategy involves a two-pronged approach that we are employing in parallel.
+The first approach is direct sales to government agencies.
+And on this front, in the fourth quarter of last year we had our first significant ex-US hyper-immune product sale from our portfolio.
+And during the first quarter of this year we have submitted multiple proposals for individual products as well as countermeasure packages for chemical and biological threats.
+The other approach that we are employing to international sales is through the European Joint Procurement Mechanism, or JPM, which was adopted through EU-wide legislation in 2013.
+The JPM is a voluntary system that enables any of the 28 EU member states to pool their demands and procure pandemic vaccines and other medical countermeasures against cross-border CBRN health threats.
+We see this as the European Union's recognition of the importance of creating and maintaining stockpiles of CBRN medical countermeasures and as an effective mechanism for expanding the presence of our Biodefense products in Europe.
+Based on these two approaches we expect to see significant growth in ex-US sales across our Biodefense portfolio.
+Shifting over to the Biosciences Division, last week we announced the FDA approved IXINITY, the treatment of hemophilia B in adults and teenagers.
+With this approval we are very pleased to be able to offer patients and healthcare providers an additional choice to better manage this disease.
+We expect IXINITY to be available to patients by the end of this quarter.
+We have also been making progress with our most advanced ADAPTIR platform candidate, ES414 for patients with prostate cancer.
+As part of the amino oncology space our ADAPTIR platform is a proprietary redirected T-cell cytotoxicity, or RTCC, approach to treating cancer.
+We partnered ES414 with MorphoSys at the end of 2014 and in <UNK>h we announced the initiation of a Phase 1 study to evaluate the safety, tolerability and clinical [activity] of the product.
+The initiation of this study triggered a $5 million payment to the Company by MorphoSys.
+We look forward to clinical data from the study and also working towards additional partnerships allowing other product candidates based on our ADAPTIR platform.
+So operationally we had a very productive start to the year already achieving three of our 2015 goals, including securing Anthrasil approval, initiating the Phase 1 trial for ES414 and launching IXINITY.
+We also remain well-positioned and on track to deliver on our remaining 2015 goals including finalizing the sBLA submission for Building 55, securing a post-exposure prophylaxis indication for BioThrax, completing a strategic acquisition that aligns with our core competencies and supports our growth plan, and announcing our next multiyear growth plan in the second half of 2015.
+That concludes my prepared remarks and I will now turn it over to <UNK> <UNK> for details on our financial performance.
+<UNK>.
+Thank you, <UNK> and good afternoon to everyone on the call.
+I would first like to make some general comments about our financial results for the first quarter of 2015 compared to last year.
+I'll also comment on the balance sheet focusing on our cash position.
+Then I'll finish up with details related to our 2015 forecast including our thoughts on Q2 revenue guidance as well as the implications for revenues and net income for the second half of 2015.
+For the first quarter total revenues were $63.6 million, or $9.7 million above Q1 of last year representing an 18% improvement.
+The increase in revenue is primarily due to modest organic growth in sources of revenue other than BioThrax as well as the impact of having the former Cangene operations consolidated with Emergent for the full quarter of this year.
+As you know, during the quarter we made no shipments of BioThrax to the CDC to the investigation which had a significant impact on our overall financial results for the period.
+As a point of comparison, in Q1 of 2014 we recorded $24.5 million of BioThrax revenues.
+As expected, the gross margin on consolidated product and CMO revenue for the quarter of 39% is below the normal range of 60% to 70%, again due to the lack of BioThrax shipments during the period.
+As we progress through the remainder of the year, and as we return to normal shipping schedules for BioThrax, we anticipate gross margins in future periods to be well within the normal range reflecting the significant profit contribution of BioThrax.
+Gross research and development spend for the quarter was $38.7 million, $8.4 million higher than prior year.
+Taking into account the offsetting effect of our contracts, grants and collaborations revenue, our net R&D spend for the quarter was $5.6 million versus $14.9 million last year.
+SG&A was higher year-over-year by $4 million due primarily to the additional costs associated with the Cangene operations we acquired in late February of last year.
+As experienced in recent years our first-quarter financial results typically result in a loss due to the BioThrax delivery schedule and the timing of our annual maintenance shutdown activities for our facilities.
+For the quarter we realized a GAAP net loss of $21.5 million, or $0.57 per share versus a $20.2 million loss or $0.55 per share loss in the same quarter as last year.
+On an adjusted basis the net loss was $18.8 million or $0.48 per share versus $14.6 million or $0.37 per share in 2014.
+In addition, EBITDA for the first quarter was negative $19.6 million, or $0.52 per diluted share, and adjusted EBITDA for the period was negative $18.4 million, or $0.50 per diluted share, once again reflecting the impact of zero BioThrax shipments during the quarter.
+Finally, at quarter end our balance sheet continued to reflect a very strong capital position highlighted by our cash balance of $216 million, the third-largest quarter and balance in our history.
+The reduction in our cash balance from year end 2014 was a result of having no BioThrax shipments, as well as capital investments, as well as payments of taxes and bonuses during the first quarter.
+Our financial strength positions us to continue to execute on our growth plan including targeted acquisitions.
+Overall, our operational performance was very strong during the first quarter despite the 90-day interruption in formulation and fill/finish operations related to BioThrax.
+And we remain confident in our ability to make up for that interruption and still produce financial results in line with our original guidance.
+This confidence is based on a number of factors.
+First, we see the net effect of the interruption to be essentially a compression into the remaining three quarters of 2015 of our original forecast for BioThrax shipments for the entire year.
+Shipments that were originally planned for Q1 are now projected to be shipped in Q2 and Q3 and, as <UNK> stated earlier, we expect to be caught up with planned BioThrax shipments by the end of the third quarter.
+In years past the second half of the year has accounted for approximately 60% of BioThrax annual shipments.
+Due to the 90-day interruption we now anticipate that the second half of the year will account for nearly 80% of BioThrax sales during 2015.
+Second, as of today we are eight months into the BioThrax production year and we are able to sustain high levels of sublet manufacturing without interruption through the investigation period.
+Third, our sublet manufacturing success rate has been strong over a sustained period of time.
+And fourth, full manufacturing operations for BioThrax, including the key downstream steps of formulation and fill/finish, have now resumed.
+Accordingly, we are affirming our forecast for total revenues of between $510 million and $540 million for the year including between $270 million and $285 million of BioThrax product sales and net income between $50 million and $60 million on a GAAP basis and between $60 million and $70 million on an adjusted basis.
+We are also forecasting Q2 2015 total revenues of between $105 million and $120 million.
+That concludes my remarks and I will now turn the call back over to the operator to take your questions.
+Operator.
+Thanks for participating on the call today and thanks for the recognition of the team's effort.
+It really was a very significant effort and I'm very proud of what they have accomplished over the past two to three months.
+So I appreciate your commentary there.
+So as you might appreciate, the team took a very detailed approach to the investigation, we evaluated numerous potential vectors for how this contaminant or particulate got into the system.
+We looked at our own operation, we looked at content manufacturers, we looked at suppliers.
+And we identified I think of various ways that we could improve the controls around the system, not only at the suppliers and CMOs but also within our own operations.
+And as I think I said in the prepared comments, we are now instituting some corrective and preventive actions which we think are quite robust and very broad in scope, but overall I think will improve the operation.
+So we have a high degree of confidence that this truly is behind us.
+Of course we continue operations to validate what we've done, demonstrates what our belief is.
+But we do remain highly confident in terms of the actions that we are putting in place.
+In terms of the fill/finish, <UNK>, do you want to talk about our plans for migrating fill/finish, or --.
+Yes, certainly.
+So I think as a result of the investigation, <UNK>, as <UNK> mentioned, it was kind of a tiered approach and a very detailed approach.
+So we have always, since the acquisition of Cangene, planned to -- and it was one of the synergies that we evaluated as we purchased Cangene -- to move BioThrax fill/finish into the Cangene facility.
+So that is something that we are actively working on and are pursuing and something you are going to see and we will probably talk about as we get closer to approval.
+But we are actively pursuing that and we think that's a real important step in our vertical integration, if you will, of our supply chain.
+As you know we have a very robust business development process here evaluating any number of candidates both on the Biodefense and the Biosciences side and the cash is a critical component of our ability to execute on accretive and meaningful acquisition targets.
+And those targets are at various stages of evaluation.
+Some are early; some are a little bit more advanced.
+Our expectation and our goal for the year, as I mentioned, is to complete an acquisition.
+That can be consistent with our growth plan in terms of a revenue generator to provide value to the organization, whereby we can exercise some of our core competencies and create value, which is greater in our hands than in the hands of the seller.
+So we remain targeted for doing an acquisition, at least one, Biosciences and/or Bio-d and the target is some time during the course of this year, so stay tuned on that.
+Thanks for participating in the call and thank you also for recognizing the team's efforts.
+Yes, we were in close contact with the FDA.
+We advised them of the identification of the particles and what we were doing as a result of it.
+We also communicated with the FDA on completion of the investigation.
+We did share a copy of our investigation report to them.
+In order to release product, as you know, the FDA releases every lot that we produce.
+So we are now in standard release mode with them where they are evaluating lots that we produce and going through their lot release protocol.
+And so lots are being released and we are now expecting to deliver, as he heard with respect to our 2Q forecast, BioThrax lots beginning this quarter.
+Yes, sure.
+So in terms of our next growth plan strategy and getting that out to the market for people to understand where we are headed going forward, we are planning to announce that in the second half of the year.
+It is pretty advanced in its development.
+We are iterating with the Board, but our target remains getting something out to the shareholders in the investment community in the second half of the year.
+So stay tuned on that.
+In terms of international markets and B 55 and all of that, our first priority, as you might expect, is addressing the unmet need by the US government.
+There is a 75 million dose stockpile requirement, we estimate it is somewhere around 30 million doses right now.
+That's our estimate; it's not an official estimate.
+So our first priority is to complete an arrangement with the CDC to address that stockpile requirement.
+And to the extent that there is additional capacity within 55 after meeting US government needs, then we will start to address the international market.
+So a little bit too early to give any assessment on that, but suffice to say that we are keenly focused on being in a position to supply out of 55 and provide all customers with product that we can produce there.
+I think the other comment that your question raises is the other Biodefense products for international markets.
+And what we are seeing is a growing recognition of the value of the portfolio that we have, the hyper-immunes, the device, etc.
+and I think an appreciation of the importance in the international markets of having stockpiles.
+And the JPM, the Joint Procurement Mechanism that we saw in Europe, I think is a clear manifestation of that desire and intent and collect the resources of the European Union, allow them to band together to establish those kinds of stockpiles.
+And we are seeing some real momentum in not only governments coming together but also a recognition of the importance of the products that we have to offer in addressing the CBRN threats.
+So we are quite excited about that development.
+We've been working hard with government agencies to push that along and move that along and we see some real benefit over the coming years with that mechanism being in place.
+So, I think the timelines for sales really depend on every individual government agency that we deliver, they have their own unique processes.
+The benefit of having engaged with these agencies over the years is we have a pretty good understanding of how they work and what the process requirements might be and how we might be able to interface with key decision-makers to ensure that the procurement dollars are there and available.
+That's one of our core competencies is really understanding that procurement process, particularly in the European and some of the Far East countries.
+So there is no single answer to that question.
+It does depend on what agency is involved and what country is involved.
+Under the joint procurement mechanism that is brand-new, so we're going to have to get some experience there in understanding exactly how that is going to work.
+What is encouraging for me is that the member states are in fact talking to each other and have bought into the notion of combining their demands so that they can, through a single mechanism, procure and get deliveries on these medical countermeasures.
+That's really an exciting development from my perspective.
+Yes, thanks for the question.
+I am really thrilled that that product got across the goal line.
+You might recall it came with the Cangene acquisition.
+All the work had been completed.
+An application was submitted.
+The team did respond to the FDA's request for additional information last year.
+Didn't cost us anything to really get this product across the goal line.
+And I'm really pleased we are now in a position to start addressing patient requirements.
+I'm going to ask <UNK> to talk more about the specifics with respect to the strategy, but it's a real milestone and a tribute to the team's effort to get us to where we are today.
+<UNK>.
+Thanks, <UNK>.
+Yes, we've got a really excited team of commercial operations folks and salespeople ready to hit the ground running now that we have approval of IXINITY.
+No doubt the Factor IX market is a competitive market, but we have a product that is every bit as good as any of the other standard acting Factor IX products.
+And we intend to differentiate our offering by differentially partnering with the community.
+So it's not just about the product, it's about the product, the people that we've got presenting it and all the programs that are wrapped around it.
+One of the specific differences is that that Emergent is the only company in the industry that is exclusively focused on the hemophilia B community, so those with Factor IX deficiency.
+All of the other Factor IX products are in the hands of companies that also have Factor VIII products for hemophilia A, which is the vast majority of the market and the part of the market that the hemophilia B patients feel gets all the attention.
+So when you are trying to partner with a community and you've got a meaningful and sincere commitment to the segment of the market that you are serving, it tends to resonate much better with the patients.
+So all of our programs are wrapped around these hemophilia B patients and the specific segments of the market where our product matches best.
+And we've been able to recruit a team of salespeople who for the most part have been living in the hemophilia community for many years, if not decades in some cases.
+So that is going to -- they come to us bringing their relationships with the providers and the patient advocates in the field.
+And all of that, I think, is really going to help us earn our share of a competitive market, even though we are a late entrant with a product that is not all that well differentiated.
+It's really not just about the product, it's about how we are approaching the market and all the things we've got wrapped around it.
+Thank you, Mallory.
+With that, ladies and gentlemen, we now conclude the call.
+Thank you for your participation.
+Please note an archived version of the webcast of today's call will be available later today and accessible through the Company website.
+Thanks again and we look forward to speaking to all of you in the future.
+Goodbye.

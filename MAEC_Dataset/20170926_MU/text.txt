@@ -1,0 +1,167 @@
+Thank you, <UNK>
+Good afternoon, everyone
+Our fourth quarter results accentuate an unprecedented year for the company
+I thank the Micron global team for maintaining intense focus on our key priorities and delivering outstanding results
+Our fourth quarter revenue was $6.14 billion with record gross margin, operating income and free cash flow
+Full year revenue, profitability and free cash flow also set company records
+Our results were driven by favorable industry fundamentals and solid execution in deploying our next-generation, lower cost technologies and diversifying our product portfolio toward a richer mix of differentiated, high-value solutions
+We are excited about future opportunities as customers increasingly recognize the strategic value of our memory and storage solutions across a range of high growth markets
+Now, I will share details from each of our business units, followed by our perspectives on industry dynamics and an outline of our corporate strategy
+In our Compute and Networking Business Unit, we saw robust growth in Q4 revenue and profitability compared with the prior year
+Our results were driven by strong demand in Cloud and Graphics, complemented by a healthy pricing environment
+Revenue growth from these two segments significantly exceeded overall CNBU growth, which more than doubled compared with the year ago quarter
+Cloud sales are supported by increasing DRAM content per server, which is up nearly 50% versus a year ago
+In Graphics, we continue to leverage our industry leading GDDR5 and GDDR5X performance to address strong demand, primarily from gaming
+The business unit is also benefiting from the initial ramp of our first-generation 1X 8-gigabit DDR4 product, which was sold primarily into the client and cloud segments
+In fiscal Q1, we anticipate continued growth of our 1X portfolio, coincident with the ramp of our second-generation 1X 8-gigabit DDR4 and GDDR5 products, both of which have already been validated at certain partners and customers
+We also received initial customer qualifications on our TSV-stacked DDR4 products, enabling modules with up to 128 gigabyte and the highest speeds supported on industry standard server platforms
+These products address the growing demand for analytics and in-memory databases in both the enterprise and cloud segments
+Fourth quarter revenues in our Mobile Business Unit, were driven by a favorable pricing environment and significant growth in our eMCP business
+Due to strong execution, sales from our mobile NAND and eMCP solutions nearly doubled year-over-year
+We believe that increased DRAM and Flash capacities in flagship smartphones will continue due in part to new applications such as augmented reality in mobile devices
+Our roadmap of new LPDRAM, discrete managed NAND and eMCP offerings position us well to address these market requirements
+In fiscal Q4, we achieved our first 1X LPDRAM qualification at a major Mobile OEM and have several others underway
+Also, our technology capabilities in 1X LPDRAM Package-on-Package products allow us to offer cost effective, high capacity mobile solutions ranging from 3 gigabyte to 8 gigabyte
+We expect volume shipments of these new products in fiscal 2018 following successful customer qualifications
+During the fourth quarter, we also qualified our first 3D TLC eMCP and eMMC solutions at a major chipset vendor and now have dozens of high-density products in qualification with several OEMs. We expect production shipments to start later in 2017. Our 64-layer 3D TLC UFS products will also start OEM qualifications later in 2017, enabling us to participate in the mobile market’s highest density designs
+The Storage Business Unit recorded a revenue increase of 71% in Q4 compared with the prior year quarter, supported by strong demand for our SSD product portfolio
+Late in the fourth quarter, we identified and corrected a flash component issue on select TLC 3D NAND products
+We paused shipments of affected products as we worked to implement a solution to the issue, which appeared only under a narrow set of performance conditions
+As a result, our SSD revenue declined sequentially during the quarter
+Shipments have now restarted and we expect to resume solid sequential SSD revenue growth in Q1. We continued to garner positive momentum with our SSD products across a broad range of customers
+Our flagship SATA 5100 SSD has been qualified at enterprise server OEMs, cloud service providers and Fortune 500 companies
+Demand for our client SSDs is also strong, with Micron shipping solutions to most leading PC OEMs. We see healthy demand trends for SSDs moving forward
+Client SSD attach rates continue to increase
+And although storage density growth has slowed temporarily due to a tight pricing environment, we foresee longer term demand for higher density SSDs
+We made substantial progress in growing our relationships and our business with cloud and hyperscale customers in fiscal 2017. Cloud data center customers are seeking innovative memory and storage solutions tailored to their workloads
+Micron’s unique capabilities and expertise in DRAM, 3D NAND and emerging memory technologies make us a compelling partner for these customers
+Our Embedded Business Unit delivered strong performance, growing revenue 39% for the full year
+We strengthened our leadership position in automotive in fiscal 2017, with growth driven by increasing connectivity and electronics content in vehicles
+Automotive applications continue to require leading edge performance
+As a result, we have seen significant ramp of our 20-nanometer DDR and LPDDR technologies this quarter and began sampling automotive-grade 1X DRAM to meet these needs
+The growth in edge analytics in both industrial and consumer connected home applications led to record quarterly revenues in both segments
+We saw strong growth through the year of our NAND and LPDDR MCP products, driven by form factor and performance needs in applications like machine-to-machine communications, surveillance, drones and home automation
+Turning to Micron’s technology progress, our 1X DRAM and our 64-layer NAND production rollout is proceeding on plan and we expect to achieve mature yields in both technologies before the end of calendar 2017. We are pleased with our 1Y DRAM technology progress and are focused on the late stages of technology and product development
+Our third-generation 3D NAND development is also proceeding well, with production expected to commence later in 2018. This latest generation technology continues to utilize Micron’s industry leading CMOS under the array architecture, which yields smaller die sizes
+We have made significant progress in our technology development and volume ramp execution
+We see meaningful opportunities to further shorten the cadence of new technology node introductions, accelerate new technologies into volume production, upgrade our fab infrastructure and expand our captive assembly operations
+Through successful execution, we expect to narrow our technology cost gap and optimize bit output growth in both DRAM and NAND, with a disciplined focus on profitable growth
+Our fiscal year 2018 CapEx plan targets achieving these objectives through technology migrations, with no new wafer capacity
+Ernie will discuss our CapEx plans in further detail later in the call
+Our ability to successfully execute our technology transition plans will be a key enabler of our cost reduction and supply bit growth capability in the foreseeable future
+Moving on to the demand and supply fundamentals, we expect the industry to remain moderately undersupplied for the rest of 2017 for both DRAM and NAND
+We see DRAM industry supply bit growth of about 20% in calendar 2017 and expect it to grow at relatively similar levels in calendar 2018. The DRAM industry supply demand balance is expected to stay healthy throughout calendar 2018, driven in part by ongoing strength in data center and cloud computing trends
+We expect Micron’s fiscal 2018 DRAM bit output growth to be slightly below the industry growth rate
+Our bit growth is supported by our 1X DRAM ramp, which represented mid-teens percent of our DRAM bit output in Q4 and will grow throughout the next several quarters to achieve bit output crossover as we exit calendar year 2018. We expect industry NAND bit supply growth to finish calendar 2017 in the high 30% range
+At these levels, supply remains below demand, which has created a constrained environment
+As the industry continues to transition to 64-layer 3D NAND, we estimate industry bit supply growth in calendar 2018 will approach the 50% range, which should better satisfy the current unfulfilled demand
+We expect that Micron’s ongoing transition to 64-layer 3D NAND in fiscal 2018 will result in bit output growth that is somewhat higher than the industry range
+In fiscal Q4, 64-layer NAND represented mid-teens percent of our trade NAND bit output and we expect to achieve bit output crossover during the second half of our fiscal 2018. The dynamic industry transition to 3D NAND is taking place in the context of a NAND market that has consistently exhibited demand elasticity
+We expect this behavior to continue for the foreseeable future as higher-density SSD solutions increasingly displace HDDs in client computing, cloud data centers and enterprise environments and as average capacities continue to grow with more performance-sensitive, storage-hungry devices and applications in mobile and other end markets
+These trends support our view that NAND demand drivers will remain healthy into 2018. As I begin my first new fiscal year as CEO, I would like to outline our strategic priorities
+First, we are focused on driving our cost competitiveness to best-in-class levels, primarily by accelerating the percentage of our output on leading edge technology, in both DRAM and NAND
+Second, we will drive execution excellence, delivering solutions to customers quickly, predictably and in line with their product launch windows
+Third, we will accelerate our transition to high value solutions
+We intend to lead the industry in deploying disruptive memory and storage solutions
+Fourth, we will leverage the full breadth of our capabilities to develop deeper collaboration and partnerships with marquee customers, maximizing our value in the market
+And finally, we are strengthening our focus on our teams, investing in the best talent and driving a winning culture
+We believe our diligent emphasis on the speed and urgency with which we execute these strategic priorities will have a transformative effect on our market competitiveness and financial performance
+I look forward to sharing the results of our progress with you in the year ahead
+I will now turn it over to Ernie, who will walk through the specifics of our financial performance this quarter
+Thank you, Ernie
+As part of our strategic planning process, Micron developed a new vision statement that embodies how we see the opportunities in front of us
+As we close out 1 year and look to the next, I would like to now share it with you
+Our vision, transforming how the world uses information to enrich life, captures the tremendous potential Micron possesses
+New technologies like artificial intelligence will change the world in ways we can barely imagine today
+Fast data access and high-performance data analytics will be at the heart of those transformations, making memory and storage core to the data-centric world that is taking shape in front of our eyes
+I believe our strategy to tighten our focus, accelerate our technology and product development and strengthen our presence in critical markets will make Micron an increasingly prominent player in the industry as these revolutionary new technologies take shape
+Fiscal 2017 was a record year for us, but I am confident that the best is yet to come for Micron
+We will now open for questions
+Question-and-Answer Session
+And of course, our focus also could be on high-value solutions, so that our revenue share outperforms our bit share
+In terms of the market environment, we are certainly excited about the demand requirements for DRAM as well as for NAND
+As I mentioned in my prepared remarks, I mean, bit growth driver for DRAM certainly that’s outpacing the average growth of the industry is in the area of server and cloud
+And here we are making great penetration with the hyperscale customers in terms of driving the growth of the DRAM business
+So, we remain very bullish about the DRAM market environment through the 2017. We think it will be undersupplied
+And given the demand trends, we think we will have healthy demand supply balance in DRAM throughout 2018 timeframe as well
+And in terms of NAND as it’s well-known that average capacities are increasing certainly in mobile devices, but even more importantly, SSDs are displacing HDDs at the rapid pace with the attach rates continuing to be projected to be going up over the course of next several quarters
+And of course, there is a strong value proposition for SSDs in the cloud and hyperscale data center environment as well given all the trends of artificial intelligence, machine learning, all of this is driving big data analytics
+So, all these trends are related to artificial intelligence, bit growth in data customers wanting to offer differentiated value to their end customers, all of this is driving need for memory and storage solution and overall, we remain pretty bullish about the demand trends
+I mean, if they look at DRAM as well as NAND even in autonomous vehicle, the demand requirements for flash, I mean data is being generated
+So much data is being generated by autonomous vehicles that it requires fast processing both within the vehicle as well as on the cloud
+So, I think demand trends for the foreseeable future continued to be strong and that bodes well for our industry
+In terms of your question regarding customers and some of the customers wanting to engage in longer term requirements, yes, that is absolutely happening and we do consider that based on various customers
+I mean, it depends on the nature of the customer’s requirements, really cannot get into the details of that here in this call, but certainly, our business includes customers that are more transactional in nature that have business more on a monthly transaction basis, some that are more on a quarterly basis and certainly certain customers that are also involved in longer term trends
+I think customers are just seeing increasing value of memory and storage
+I mean, this DRAM and flash is becoming strategic to our customers and our customers are seeing Micron as being uniquely positioned with having a strong portfolio of DRAM as well as flash and being the only company in the Western Hemisphere with those capabilities and that is definitely making us an attractive and valued partner to our customers
+Thank you
+So, in terms of going in to 2018, we see healthy industry demand and supply balance for NAND
+And you are right to note that the bit growth is going up because of the technology transition in the industry to the 64-layer technology
+And when we look at the demand trends, those demand tends continue to be strong as I just pointed out related to SSDs as well as increasing average capacities of flash in mobile devices and all kinds of other devices
+So, demand continues to be strong
+We see healthy trends in that regard in 2018 timeframe
+Regarding pricing, we don’t specifically for competitive reasons provide comments on pricing on the call, but we just like to point out that we believe that the healthy industry environment as one where price decline is less than or equal to cost declines and we are certainly focused on aggressively reducing our product cost with realizing successfully our technology production ramp of 64-layer
+Certainly, the diversification of the end markets for DRAM absolutely bodes well for the future health of our business
+We have enjoyed the benefits of that
+Calendar year 2017 as you noted is a great example
+And you just pointed out the mix of our DRAM business between PC what used to be just about PC and mobile is now very much about PC mobile, server, automotive and multitude of markets and Micron has really great presence, where variety of I mean whole slew of customers and channels
+So, this really bodes well, plays very well to the strength of Micron
+It has really for long time enjoyed diversified set of global customers and great presence in channels and that is coming into full play as the demand requirements for DRAM continue to grow nicely and into multiple mega-markets
+With respect to NAND in terms of our third-generation 3D NAND, we are not yet disclosing the number of layers in that technology
+As I said in my prepared remarks, we are continuing to make good progress with that and we plan to be introducing that technology in the 2018 – calendar 2018 timeframe and continuing to deploy CMOS under the array technology that continues to provide Micron a die-sized leadership position, which is usually attractive to us [indiscernible] point of view
+And with respect to DRAM in terms of 1Y node, we will be introducing that node also in calendar 2018 timeframe
+And beyond that, we are not providing any specific details for our technology related to competitive basis
+And your question regarding floating gate, we have a strong roadmap of future technologies related to floating gate
+As we have indicated before that in terms of technology cost position as well as the technology node readiness, in recent times over the course of last couple of years, Micron has lagged the competitor in terms of getting advanced technology ready at par with them and deploying those technologies into volume production
+However, in recent times, Micron has made very good progress in this area and we are getting the benefit of that as we are ramping those technologies into production
+I have said before that these kind of undertakings, driving, accelerated deployment of new technology nodes into volume production and continuing to narrow the gap on the cost front is a multiyear phenomena and we have made very good progress in this regard
+I fully expect us to make – continue to make good progress in fiscal year 2018 as well
+And we are of course very much focused on continuing to accelerate the timeline of our future technologies into production and then well positioned to ramp those technologies into volume production as well
+And along with this of course remain very much focused on driving a greater mix of high-value solutions both in DRAM and NAND as well
+So, these are really two very important pillars of our strategy driving cost competitiveness and driving greater mix of high value solutions and these things don’t happen overnight
+They will continue to be strong growth opportunities for us going forward over the course of next few years
+So, I will let Ernie comment on the CapEx, but on the demand side, as I pointed out earlier, I mean it’s not that this demand is perishable, I mean this demand in terms of the trend of SSDs replacing HDDs in client notebook computers where the attach rate continues to increase in 2017 attach rate of SSDs to PCs is around 35%
+That attach rate over the course of next few years continues to grow to around 50% in 2018 and by 2020 timeframe expect it to go to around 75%
+So, these demand trends are secular in nature
+It’s the same thing on the enterprise side, again on the cloud side that the attach rate of SSDs as well as the average capacity requirements on our per-server basis continued to go up as well
+So, these are really very solid secular trends here that are long-term in nature and of course the trends of mobile devices adding new rich features such as augmented reality, such as rich displays, all of these are trends that also continue to drive higher average capacities in mobile devices
+So, I feel very good about the demand trends on the NAND side
+Yes, some of this product enablement CapEx is related to back-end captive assembly operations, which will help us improve our cost position going forward
+And of course also there is CapEx associated with upgrading of the infrastructure that is needed to realize the technology transitions
+Sure, Chris
+So, I think as has been the case for a few quarters now, there is actually a fair amount of tightness across those three channels that you mentioned
+So, it would be hard to distinguish one from the other relative to any nuances there
+I don’t think there is an inventory issue certainly, if you actually take a look at inventory levels that are reported, which are typically financial numbers and adjust those for dollar cost of how pricing has changed over the course of the year
+You do get a bit of a different perspective on inventory as reported by a variety of customers and channel partners in those areas, but the environment continues to be strong
+The supply demand circumstances continue to be fairly tight and we are working very closely with our customers to make sure that we stay in close sync with them as they think about their plans going forward
+We do not rule out M&A in the future
+Right now, our focus is on the priorities that I mentioned that include cost competitiveness and strengthening the high-value mix in our revenue
+And of course, if and when, we were to engage in M&, our focus would, of course we to try to strengthen our future opportunity and make it an opportunity that’s absolutely provides a strong ROI, beyond that I would not speculate in this matter
+I mean, we are definitely seeing strong demand trends from – the entire spectrum of our customers a large what you would call Tier 1 or Tier 2 as you termed, although all customers are important to us and we do engage meaningfully with them and we work closely with them to understand their demand requirement and we apply our own judgment to their demand requirements as well in terms of assessing that overall industry demand trends
+And based on those demand understanding of our – on behalf of our customers, we project healthy industry supply environment in DRAM and NAND
+So, we talked about being at bit output crossover for 1X DRAM by before the end of the calendar year of 2018. And then as we have previously shared for the 1X node, we see somewhere roughly 45% increase in bits per wafer versus 20 nanometer and about a 20 – to slightly more than 20% cost reduction on a cost per bit
+So we say that our SSD mix was about 20% of our NAND revenue and that consists of our sales of client, two client customers as well as to the hyperscale of cloud and enterprise customers
+And both are roughly about the same in both of those categories
+Beyond that, we don’t provide further breakdown
+In general, the technology complexity increases where subsequent technology generations both in DRAM and NAND and also given the increased technology complexity, gigabytes or gigabits that you gain in NAND as well as DRAM on a per wafer basis tends to decline with advanced technology nodes
+So, all of those factors play a role in terms of cost reduction capabilities as well going forward
+I can do that
+I just want to add a comment to the previous question on cost
+My comment was related to cost on a per wafer gigabyte per wafer basis from one technology node to the next
+Of course, cost also depends very much on how you deploy those technologies into volume production
+And this is one of our focus areas in terms of deploying advanced technologies faster into production
+Now, specific to your second question regarding the attach rates in enterprise and server markets, so SSD attach rate is around 50% there in terms of on a SSD per unit basis and opportunity there is greater
+Average capacities are definitely moving fairly fast
+In fact, enterprise and data center is one of the fastest growth segments for flash in terms of year-over-year bits demand increases that are projected
+Average capacities in enterprise and data center for SSDs are over 3 terabyte
+That’s average capacity and that trend continues to increase by some projections tripling almost to 9 terabyte by 2020 timeframe
+So as I was saying earlier, I mean, these demand trends for increasing attach rate of SSDs in client and data center cloud computing applications as well as the increases in average capacities are secular trends
+Yes, Mike
+So, certainly the statement about no new wafer capacity in fiscal year ‘18 applies equally to both DRAM and NAND
+And relative to your second question, there is not anything material relative to the CapEx guide that we shared that relates to construction costs or whatnot
+As you pointed out, there is obviously incremental clean room space available or could be available at pretty low cost, but it would not be material in course of the overall guide that we provided
+I think in the flagship models, to answer your specific question, the demand for DRAM as well as for NAND, average capacities continues to go up
+And of course, the mix of these high-end smartphones also as a part of the total smartphone market continues to go up
+And specifically to DRAM, average capacities of DRAM in high-end smartphones going from somewhere over 3 gigabyte in 2017 projected to go up to over 5 gigabyte closer to 6 gigabyte by 2020 timeframe
+And specifically to NAND, average capacities of NAND in high-end smartphones in 2017 is somewhere around 70 gigabyte, let’s say, projected to double – or more than doubled by 2020 timeframe as well
+So, again, the average capacity increased trends in smartphones continues to be solid, not only actually in high-end smartphones, but in value segment of the smartphone market as well

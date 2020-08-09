@@ -1,0 +1,141 @@
+It, <UNK>, it's <UNK>.
+So I mean, just following the math, to the point that if we think we're going to grow in line with the market into next year, and the market forecast that we laid out, you end up with that revenue level.
+I think that's fair.
+I think we're seeing some tailwinds in gross margin right now, that we've seen for several quarters.
+But I think as we start to transition into some of the newer products, some of the benefits we've seen around warranty and support costs, and efficient cycle times, and things like that, I think some of that goes away.
+Now I do think, and as I've said in the call a couple of weeks ago, I do believe that versus the model we published, that we're operating probably a solid 100 basis points above what we had put out there so, and I think that's sustainable.
+So I think some of what we're seeing today, it would be hard for me I think to replicate that type of gross margin profile into next year.
+So there might be a little bit of degradation there.
+So given at that revenue level, the range you mentioned probably feels a little bit hot, but I would say you're probably in that 35%-ish range, plus or minus 100 basis points or so.
+Now there's a lot of factors in that mix and so on, but that's how I would characterize it.
+The comparison will be tough.
+I mean, I don't really have that data.
+We are booking a lot of these new platforms, things that have come out in this last year, right so.
+And even in the more trailing edge businesses like in <UNK>a, they are buying the latest gen of tools, right, with the ability to try to use that capability as they ramp through this early development of new technology there.
+So I would say, the majority -- a pretty solid amount of the business is new products, but I don't have the actual percentage.
+I guess, I'm not sure exactly the question, sorry, <UNK>.
+But the -- .
+Oh, I see.
+Well, you know, <UNK> talked about the percent of our business that we have.
+If we look back, just to give you an idea of FY16 to finish, <UNK>a was the second biggest market for us, and that was partly because there was some underspending going on.
+But <UNK>a is pretty significant for KT.
+And I think as we go forward, you have the combination of this investment, even though it's in maybe [M minus 2] technology, we also have a very significant amount of penetration, and market share, and also that this is higher adoption, because it's foundry.
+So they are buying some of our newer tools, and we see a lot of interest in ramping these facilities quickly.
+They're spending a lot of money.
+They're trying to grab market share, in some cases, serve the domestic demand.
+So we feel pretty good about our position there.
+In fact, if there's an area where we're going to invest more heavily going forward, it's overall to support to the <UNK>a, <UNK>a investment cycle.
+This one is real.
+Only thing I would add, while I think that there is certainly some new development activity that's happening there, as they ramping these fabs from a greenfield state, that ultimately it's serving a global market.
+And so, I think you'll see some movement around in terms of who gets market share, but there will be an inflection in the short term.
+Probably some of it doesn't necessarily contribute to supply, but over time it eventually will.
+So I think the overall foundry dynamics in the long run, will stay pretty consistent.
+But there's certainly a commitment there, and there's a focus to <UNK>'s point, not only on the ramping of new technology, but also our market position there is very strong.
+I'll take the first part, and then let <UNK> talk about the second part.
+We're definitely seeing demands associated with multi-patterning, right, and also EUV.
+I would say the EUV work is in the reticle space, where we do have tools that are dedicated now to EUV, in terms of our 6xx, some of our newest 6xx capability, people are buying for EUV.
+So that's early days, of course, for that.
+In terms of overall challenges, customers, whether it be registration overlay, film thickness or optical CD, all of those things are potential areas for growth.
+We're doing well.
+We think there is more upside to them, and we feel good about our competitive position.
+Now whether or not, we see significant increases in the next 12 months, but I think over time, there is a potential to keep that business growing.
+And from an investor's standpoint, <UNK>, you can talk a little bit about how we thought about that.
+Yes, I mean, we've got a pretty active portfolio management process here in the company.
+And I think, given the strategic reorganization we did a year ago, we have the ability to move capital around much more freely than we did in the past.
+So we will continue to execute our process.
+We have been investing in those businesses.
+We'll continue to do so.
+I gave some guidance in the prepared remarks around what I expect OpEx levels to be overall, and there is a bit of an increase there, and we're trying to drive the focus of that to be mostly R&D, with an overall target of 60% of the R&D expenses, or the overall OpEx as R&D.
+I don't think that's really what we're seeing.
+I mean, right now, we do have some ability to flex the different tool capability people need.
+But a lot of these facilities don't think they're going to stay at 28.
+So there's a desire to have newer capability.
+And, of course, it doesn't hurt them to have it, when they're doing their 28 work, but they're hoping they're going to go obviously lower than that.
+So I think we're in pretty good shape regardless of where they buy in the portfolio.
+It's not quite the same, and I'll give you a very different example.
+If you think about some of the investment going on in the Internet of Things where people might be in automotive or they're in sensor technology, then we're talking about older tool sets, and maybe even some our [KT Pro] stuff, which is reconfigured or refurbished tools.
+That's not what we're seeing in our markets in <UNK>a for the most part.
+Maybe there will be an element of that later, but that's not what it looks like right now.
+So the way we're serving the EUV market is with the 6xx series that's has been out several years, and we have some additional capability to do that.
+So that's already part of the portfolio, and had nothing to do with any discussions we had with other companies.
+That's out there, and now we're seeing their demand, some demand for that.
+I can't really say at what point that's going to ramp, because for a long time, it was a part-time application for some customers.
+But we are seeing some dedicated purchase of those tools for that capability, and it really will depend on how many starts they have, in terms of different types of devices, how many masks they have.
+But whatever they have, with a adequate lead time, we're prepared to serve it.
+We don't -- it's not really about additional development beyond the capability that we have, and some software upgrades, and algo upgrades in that platform.
+We're not talking about a new platform, which we talked about several years ago.
+That's not what we're doing.
+We're not doing an actinic inspector, we're developing additional capability on our existing products to serve it.
+The only other thing on that is that we would add is, that they will do flop-down inspection to qualify reticles, certainly for re-qual capabilities, and incoming quality checks where they'll basically print the wafer, and do Gen 5 inspections on the wafer to qualify reticles, as another check point in terms of making sure reticles are good.
+It's not really an area we're focused on.
+I mean, it is possible that others might do that, but we feel pretty good about the products that we have, the range that we have, and our ability to satisfy the markets with our organic efforts in terms of process control.
+So not really something we're looking at.
+I think that just the fact that there, as customers are looking at the newer technology nodes.
+First of all, there are more customers trying to get in production.
+Second of all, as those already in production, are looking to new capability.
+Just the ability to have a better sense of debugging the process, in terms of, from the discovery phase, not really from in production.
+So it's really that.
+And in terms of their ability to see things they have never seen before, because if they had a e-beam solution, they could find small defects, but they couldn't get a wafer signature.
+And now they can do both.
+Now they can find small defects, and get a wafer level signature.
+Yes, the [NPI] process at KLA, which is new product introduction, where engineering is handing off to manufacturing, on a lot of the new platform transitions that we've had, has been really exceptional.
+So tools are being handed over to operations, where you have good design stability.
+Our marketing and sales teams are managing the transitions well with customers, so we're not getting stuck necessarily with a lot of extra inventory, as we move customers from one platform to the next.
+Because of design stability, you don't have retrofit programs, and other things, where you're out there, trying to fix tools as you're shipping them out.
+So it has been a huge factor, I think not only in the conversion but also been factor in the margin profile, A, because of the inventory issues.
+But also the fact that the service costs around the warranty costs to support the tools, and get them installed quickly has been fairly efficient, and so that's been a factor as well.
+So very impressed with the teams to being able to do this, and do this in a period of time, where there was a lot of work around integration planning, distraction, and so on.
+So really impressive work.
+I think, the one other thing is, we have taken more risk in terms of inventory risk.
+So one of the things we've done is provided more flexibility in the master schedule, to be able to react to market demands, especially most of our customers now have very short visibility into their cycle.
+So we're trying to be prepared, so that we don't get caught out, not having capacity when it's needed.
+Yes, obviously, given the relatively small numbers of players, I'm going to be careful about this.
+I would say the leaders feel good about -- the leader feels good about where they are, and I won't comment to that.
+There are other players getting in the market.
+And I would say that, we are seeing success, but it is -- if you think about a yield curve, I think there's a long flat part of that curve down around zero.
+And I think it took a while for people to debug the process.
+And frankly, one of the things, one of the areas for opportunity for us going forward, is there's not really a good defect discovery mode for 3D NAND, because there is really no tool capable of helping debug.
+And even, although -- we have made some attempts, when you do find defects, they are very hard to verify, because you have to essentially de-process or [fib] them to go find it.
+So I would say it's been slow, in terms of getting started.
+Now it's getting better.
+I think that there's -- some people are getting their process, but as they look at expanding to the next technical challenges, we anticipate yield is going to be a big part of the challenge.
+And I think there's a lot of interest in partnering with us, to come up with solutions to address that.
+Because obviously, there is a demand there, but that there's certainly getting very challenged by making the processes actually work.
+I think -- so <UNK>, this is <UNK>.
+I don't think our general view on the year is much different.
+I think there could be some growth at foundry, as we build it bottoms-up.
+But we think that we'll see continued momentum around, and my comments were orders.
+So you'll start to see those tools ship in the second half of the year, that we'll also see, a stronger foundry, shipments and revenue in the second half, related to 7 nanometer activity.
+So but, I don't know what, how they make up their forecast.
+But at the end of the day, as I said, I feel like we're not that far apart, generally in terms of how we look at it, how we look at the year overall.
+Yes, I do.
+Both for overall, and within foundry.
+I don't think it's really changed all that much.
+I mean, to <UNK>'s point earlier, I think we tried to be as flexible as we can.
+We've taken some risks.
+I think we're managing through transitions.
+And any time we have product transitions, and bring a new product with new capability to the market, there is a level of customer demand that goes with that.
+So I guess, in one way, on any time you have a transition, you do see some increase in visibility.
+But we are still reacting to, our customers are facing short lead times with their customers, and trying to expect us to follow suit with that.
+And we're doing all we can to try to be as flexible as we can to meet their needs.
+Maybe the one other thing, though, that is a little different, is the strength that out of <UNK>a is pretty different, and there are greenfields that are happening.
+There's big investment happening.
+So if you think about that part of our business, there's a much more committed, and maybe that could change, but they're more committed, than it was hard to see in the past.
+Well, our 5% to 7% of our through cycle multi-year target, right, and that was when we put that together, and said, hey, look from calendar 2015.
+And as we're sizing and run the business, we're going to position it, so we can deliver that level of revenue growth, and try to have operating leverage that's 2 times the growth rate.
+I mean, certainly, Gen 5 is a bigger piece, but there will be mix and matching that will happen within broadband plasma.
+So I think it's really, the strength -- I don't see a fundamental shift in overall mix, as we move into next year.
+To <UNK>'s point earlier, there could be more investment in reticle inspection, as customers being to prepare for more development activities around EUV, so that could be inflecting product a little bit into the year, year to year.
+But overall, I think, that the mix looks relatively consistent across the different product segments.
+Yes, <UNK>, we got that question earlier, but just to go over it again, really quickly is, yes, there is -- we've clearly been outperforming the model.
+I think some of that is due to some of the maturity of the platforms that are out there.
+We're transitioning to some new platforms.
+And so, I think we'll lose some of those tailwinds we've had.
+But to the point I've made earlier, I think we're operating probably 100 basis points or more over that model.
+And so, as you play that through, I think you'll see the same kind of performance in the operating margin line.
+Yes, here's the big difference, is, there is no real scaling going on right now.
+I mean, and until you hit the EUV, essentially with multi patterning, you're not really doing anything relative to defect size.
+So Gen 4, from lot of customers' perspective, serves that market.
+So it's really, people want more sensitivity, but it's more about discovery.
+Frankly, if they had to deal with those same defects on the earlier nodes, on the current nodes, that they wouldn't be able to be in large-scale production.
+So it really is hinged on, when you see advanced technologies going into production, a la EUV.

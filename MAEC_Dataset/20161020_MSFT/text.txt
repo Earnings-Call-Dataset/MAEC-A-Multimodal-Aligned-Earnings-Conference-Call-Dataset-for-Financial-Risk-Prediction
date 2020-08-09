@@ -1,0 +1,54 @@
+Thanks, <UNK>.
+I spoke to this a little earlier, because in some sense, from day one we had this vision of how we want to build for a future of distributed computing that included our hyper-scale cloud service, which is Azure.
+And in fact, Azure is built on hyper-V, and we always said that we were going to build our server as the edge of our hyper-scale cloud, and so that's what Windows Server 2016 represents.
+That is what SQL Server 2016 represents, and so we have these unique capabilities, like being able to stretch even a single table in a database in SQL 2016 all the way to the cloud for having infinite table capacity, and then having your apps and queries work.
+How we're doing containers: for example, in Windows Server 2016, we have great container support, as well as support for things like our Service Fabric, so that people can have absolute application portability, and in fact, people can even tier applications.
+We have had many customers who tier their storage and compute across a hybrid backplane.
+So this is an architectural design point that we have built for from the ground up from day one, and it's good to see people validating it now and elsewhere, and we will take that as a validation of something that we thought of a long time ago.
+<UNK>, I would say I talked about the reasons, the three big reasons why customers choose our cloud, and our cloud infrastructure in particular.
+One, it is about the hybrid design point that is at the core of how we are built, both Azure as well as our servers.
+It is because of the higher-level services that we have.
+It is also because of the design point we have around not just Azure, but as well as Dynamics 365 and Office 365, and the extensibility of our cloud services across all three of them.
+And that's really the fundamental reasons why customers choose us.
+The other thing I would mention is, we have more of a commitment, I would say, which has been there from a long time, to build out a global footprint.
+We have more regions than anyone.
+We have more certifications than anyone in terms of adhering to both regulated industry, as well as digital sovereignty needs.
+We've done unique things.
+We're the only public cloud provider, for example, that operates in China.
+We operate in Germany under German law.
+And that matters to multinational companies that also are trying to operate across many geographies and jurisdictions.
+So those are our core attributes that are driving our growth, and we'll continue to stay focused on them.
+In terms of the gross margin question, I feel very good to talk about this quarter, about our improvement year-over-year and remain confident that we are heading in the right direction.
+And so, I think when you think about that plus the breadth of our offerings, I think we're pretty confident.
+I will take the opportunity, because we haven't been asked about Windows 10 in the enterprise.
+I think we are encouraged by the pace of deployment, the number of proof-of-concepts, and actually some of the stability we've seen in the commercial PC market, in terms of starting to see some refresh rates.
+So I think overall, I think we will continue to watch, but our security and management value prop, I think really is paying off.
+Overall, we are very, very excited about what we are seeing with SQL on Linux, because the entire idea was to be able to have a full conversation around the data estate with customers.
+And to now be able to talk about the full SQL estate, one of the other conversations that we are having is not just about SQL, but our analytics and advanced analytics with R, where we've done some very, very compelling work, again, across Linux and Windows.
+And then, of course, the cloud.
+So it's really the combination of SQL advanced analytics and the cloud, with things like Azure Data Lake, that are really the choices customers are trying to make as they think about their digital capability and the next generation of services and both the storage and processing capability they need.
+Now, in terms of having support for these different runtimes, you're absolutely right, that's the reason why, for example, on Azure itself, Java is first-class.
+We have Linux is first-class.
+We have real openness to all of the frameworks that you can call out to, and that's something that we stay very attuned to, which is we are not trying to fight some old battles.
+This is all about being able to serve customers on their needs today, and that's what is leading and driving a lot of our choices, as well as how we think about our market opportunity.
+Overall, I am thrilled about both the AI group that we have formed, the AI research and the heritage we have with MSR.
+Even this week, I think we publicly are talking about setting the state-of-the-art when it comes to something like speech recognition, and it's something that we did even with image net and image recognition and object rec.
+So these are capabilities that are not easy to build if you don't have a real commitment to research, and then the ability to take that research and then ultimately turn it into products.
+So the way to measure, though, from the investment side, is to see AI when it is infused into everything we do.
+Take HoloLens.
+The ability of HoloLens to be able to see the world, reconstruct it, and in that world to be able to superimpose holograms, that is AI -- applied AI that is working today.
+When you have Skype translate when two people are talking two different languages and are able to automatically translate without an interpreter between languages, it's using a deep neural net that is bringing together speech synthesis, speech recognition, and machine translation with Skype data.
+That is fairly magical.
+When you seeing FPGA capable of running CNTK or TensorFlow to create intelligence, that is what we are using, in fact, for our speech and vision work.
+That is AI as applied today.
+So I am not waiting for some future date to see ROI from AI; we're very much going forward, even the Office tools example I used.
+They're all using AI today.
+The PowerPoint designer, if you want the most practical use of it, even I can design great PowerPoint slides now because of AI.
+And so, that's how I measure progress.
+We are committed to long-term research, but we're also very focused on having the long-term research translated into everyday use products, and that's what you will see from us going forward.
+Thanks, <UNK>.
+With our annuity mix as high as it is, it can impact it a couple points either way.
+But I don't think about that as really a material impact you should think about in the next couple of quarters.
+And our focus will always be making sure where we have a clear roadmap for customers to make long-term commitments through annuity.
+And so we are really trying to get away from some of that, quote-unquote, launch impact that you may normally expect to see.
+Thank you all.

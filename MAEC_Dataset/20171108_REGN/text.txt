@@ -1,0 +1,115 @@
+Thank you, Len, and a very good morning to everyone who has joined us on the call
+As Len mentioned, EYLEA continues to be a leader in the retinal disease space, with a number of important near-term opportunities
+First, we expect to have our supplemental BLA for every 12-week dosing of EYLEA in wet AMD filed by the end of this year
+Echoing Len's thoughts, let me also update you on the potential opportunity for EYLEA in diabetic eye disease
+In our original pivotal studies in DME, we demonstrated superiority of EYLEA to laser in terms of visual acuity and other outcomes
+In the government-sponsored Protocol T study, EYLEA was demonstrated to be superior in terms of visual acuity to the other commonly used anti-VEGF agents at the one-year primary endpoint
+In these studies, in addition to these endpoints, EYLEA demonstrated a two or more step improvement in the diabetic retinopathy severity score, or DRSS, suggesting activity in both proliferative and non-proliferative diabetic retinopathy
+Consistent with this, as Len mentioned, positive data from the third-party CLARITY study in patients with proliferative diabetic retinopathy were recently published in The Lancet
+The medical urgency in this setting is reflected by the fact that the vast majority of proliferative patients are currently treated with pan-retinal photocoagulation laser therapy, or PRP, which has been the standard of care in this indication for almost four decades
+CLARITY compared EYLEA to PRP and showed that patients treated with EYLEA gained approximately four letters in visual acuity compared to patients treated with laser
+This was the first time that an anti-VEGF agent has demonstrated superiority to laser treatment in patients with diabetic retinopathy without macular edema
+According to this published study, compared to PRP, EYLEA lowered the rate of new or increasing vitreous hemorrhage by about 50% and decreased the occurrence of macular edema at 52 weeks by approximately 60%
+In addition, an improvement in retinopathy from proliferative to non-proliferative was observed in 64% of patients treated with EYLEA compared to 34% patients treated with a PRP
+There were no new safety concerns observed with EYLEA in this study
+Inflammation was more frequent in patients who received EYLEA, with 8% of patients reporting inflammation compared to 3% of patients who received PRP
+New or increasing vitreous hemorrhage was more frequent in the PRP group, with 18% of patients reporting this event compared to 9% in the EYLEA group
+PANORAMA, our Phase 3 study of EYLEA in patients with non-proliferative diabetic retinopathy without diabetic macular edema exploring every 8 and 16-week dosing, is fully enrolled
+We expect to report data in the first half of 2018, and if positive expect to make a regulatory submission
+A separate Phase 3 study in this indication, Protocol W, which is being conducted by the Diabetic Retinopathy Clinical Research Network, or the DRCR, continues to enroll patients
+This study will explore every 16-week dosing of EYLEA, which is the only anti-VEGF treatment being investigated in this study
+Finally, on EYLEA, I want to remind you that we expect to have the top line data from our Phase 2 combination studies of EYLEA and nesvacumab, our antibody to Ang2, later this quarter
+While we have not seen the data, we have been pretty clear about the high bar that EYLEA monotherapy sets for any potential combination studies
+In our view, the results from the Ang2 combination studies are not central to the eye disease strategy that we have just outlined
+Turning now to dupilumab, our IL-4/IL-13 blocker that is currently approved for the treatment of moderate to severe atopic dermatitis in adult patients whose disease is not adequately controlled with topical prescription therapies and when those therapies are not advisable, we recently reported positive Phase 3 results from two studies of dupilumab in patients with uncontrolled asthma, LIBERTY ASTHMA QUEST and LIBERTY ASTHMA VENTURE
+These two studies, in addition to our first pivotal study, enrolled a broad population of uncontrolled asthma patients and demonstrated reductions in exacerbations or asthma attacks and improvements in lung function as measured by FEV1. The VENTURE study, which enrolled patients who required chronic systemic corticosteroids for asthma control, showed that dupilumab could profoundly reduce systemic corticosteroid dependence, with half the patients eliminating this dependence entirely
+Despite the reduction in systemic corticosteroid usage, dupilumab-treated patients still had prominent increases in lung function and fewer exacerbations compared to the control group
+Based on these data, dupilumab offers the potential for an important treatment alternative to systemic corticosteroids for these most serious of asthma patients
+Beyond the profound benefit in terms of exacerbations, I would like to emphasize the importance of dupilumab's demonstrated ability to improve lung function in asthma patients
+Since currently approved biologics do not consistently improve lung functions and were approved based on their ability to reduce exacerbations, this has resulted in a focus away from lung function in asthma
+However, one of the most serious day-to-day issues that patients with uncontrolled asthma suffer from and which dramatically impacts their lives is their inability to breathe normally
+For example, the patients in our pivotal studies only retained an average of 50% to 60% of the predicted SAB1 at baseline, despite treatment with steroids and long-acting beta agonists
+Moreover, only a fraction of this lung function could be reversed with high doses of short-acting bronchodilators
+Therefore, we believe our finding that dupilumab improved lung function in all of our clinical trials in addition to reducing exacerbations is an important potential benefit to patients if approved in this setting
+Results from the QUEST and VENTURE studies along with data from our previously reported and published pivotal Phase 2b study will support the regulatory submission that we and Sanofi expect to make to the FDA by the end of this year
+As a reminder, the recently reported QUEST and VENTURE studies included adolescent patients between the ages of 12 and 17 years
+We are also currently conducting a Phase 3 study in pediatric patients between the ages of 6 and 11 years
+Work on the development of dupilumab in other Type 2 diseases such as nasal polyposis and eosinophilic esophagitis is ongoing
+Following positive results in Phase 2, I'm pleased to report that both Phase 3 studies in patients with nasal polyposis are now fully enrolled
+Turning to eosinophilic esophagitis, or EOE, a chronic Type 2 immune-mediated disease that is strongly associated with food allergies, EOE is characterized by pain and difficulty swallowing and the possibility of food impaction, which are consequences of pathological structural changes in the esophagus
+There are currently no approved therapies in the U.S
+for the treatment of EOE
+All corticosteroids are used off-label but with limited long-term efficacy and safety data to support their use
+At the recent World Congress of Gastroenterology, we presented additional data from our positive Phase 2 study
+These data show that dupilumab significantly improved swallowing in addition to esophageal eosinophil counts, endoscopic features, histology, and esophageal distensibility in adults with active EOE compared with placebo
+This safety profile seen in the study was consistent with that observed in the other studies of dupilumab
+Dupilumab has been granted Orphan Drug designation in this indication, and Phase 3 studies are being planned
+I'd like to now turn to atopic dermatitis, an indication where Dupixent is approved both in the United States and in Europe
+In September, we presented positive data from CAFE, a Phase 3 study of Dupixent in patients with moderate to severe atopic dermatitis who are inadequately controlled with or intolerant of cyclosporine, which is approved in certain countries outside the United States
+This study demonstrated that in these difficult to treat patients, Dupixent in combination with topical steroids significantly improved measures of overall disease severity and patient-reported quality of life measures, with a mean improvement of 80% in the Eczema Area Severity score, or the EASI score
+No new adverse events were reported in this study
+We also continue to work on expanding development in moderate to severe pediatric atopic dermatitis patients
+Turning to immuno-oncology, which is another area of growing excitement for us, I'd like to begin with cemiplimab, our foundational PD-1 antibody
+Our lead indication is advanced cutaneous squamous cell carcinoma, or CSCC, for which we have been granted Breakthrough designation by the FDA
+We expect to report interim data later this year and to make a regulatory submission to the FDA in the first quarter of 2018. Our PD-1 program has continued to expand
+We recently initiated a Phase 3 program of cemiplimab monotherapy in first-line non-small-cell lung cancer
+This 300-patient study, which is being conducted outside the United States, will enroll patients who express greater than 50% PD-L1 and will compare cemiplimab to standard-of-care platinum doublet
+The primary endpoint of this study is progression-free survival
+We are planning additional studies, including combinational studies, in non-small-cell lung cancer as well as clinical trials in second-line non-small-cell lung cancer
+I remind you that with all the recent failures in this space, there is only one approved PD-1 or PD-L1 agent in the first-line non-small lung cancer setting
+We also recently initiated a Phase 3 study in second-line cervical cancer
+With our ongoing potentially pivotal study in basal cell carcinoma, this brings us to four potentially pivotal programs with our PD-1 antibody
+We also have exploratory studies ongoing in melanoma and head and neck cancer, and we're also conducting and planning studies with cemiplimab in combination with our antibody to LAG-3 in a variety of indications, as well as a number of other combination approaches with cemiplimab, including with our bispecifics
+Turning now to these bispecifics, we will be presenting further positive data from our CD20/CD3 program both as monotherapy and in combination with cemiplimab in B-cell malignancies at the December meeting of the American Society of Hematology, or ASH
+As a reminder, the CD20/CD3 program has been granted Orphan Drug designation for diffuse large cell B-cell lymphoma, or DLBCL
+We are also conducting a combination study of our CD20/CD3 bispecific with cemiplimab in CD20-positive malignancies
+We plan to put additional bispecifics into clinical trials over the next several years
+Fasinumab, our NFG antibody, continues to advance in the clinic
+We are currently enrolling patients in a Phase 3 study in osteoarthritis pain, where we are investigating fasinumab compared to naproxen
+We also plan to initiate a second study of fasinumab in osteoarthritis pain
+I'll turn now to our mid and earlier-stage pipeline
+Nesvacumab is our antibody to ANGPTL-3 for the treatment of severe forms of hyperlipidemia
+We are planning Phase 3 studies in homozygous familial hypercholesterolemia, or homozygous FH, and Phase 2 studies in severe hypertriglyceridemia and in heterozygous hypercholesterolemia, or HeFH
+We plan to initiate by year end the Phase 2 study of Regeneron 2477, our Activin A antibody, in the ultra-rare disease of fibrodysplasia ossificans progressiva, or FOP
+We are also exploring the use of our Activin A antibody in combination with trevogrumab, our GDF8 antibody, in muscle and metabolic disorders
+Another exciting early-stage program is Regeneron 3500, our antibody to the interleukin 33 ligand, which is in the clinic and we plan to investigate for asthma, COPD, and other indications as both a monotherapy and in combination with dupilumab
+With that overview, I'd like to turn the call over to Bob Terifay
+It's just worth noting, obviously, it's going to be a long-term growth opportunity over we think a long period of time
+By adding additional opportunities to it and combining things, we think we have one of the strongest portfolio of combination opportunities that we've already started studying in the clinic, and more will follow
+But even the very first indication should not be underestimated
+If you look at the cutaneous squamous cell carcinoma, there's enormous need there
+And the actual – it is actually – the number of cases is huge, and it's been largely ignored because the vast, vast majority of them can be treated surgically
+But because there's something on the order of 1 million or 2 million cases, and even though something like over greater than 95% are treated surgically, that still leaves an opportunity of unresectable or metastatic disease, which is on the order of magnitude of melanoma
+And like I said, I think it was largely ignored by the community because of the perspective that though it was one of the, if not the most common cancers afflicting patients, the vast, vast majority are treated successfully with these Mohs type surgeries and so forth
+So the important thing to recognize is, even that first opportunity, there's a lot of need there
+There's a lot of patients who are failures or cannot be treated with surgery
+And that opportunity is on the order of magnitude of melanoma, which as we know was a huge growth driver for the two original PD-1 agents
+I think Len made all the important points, and let me just echo
+The most important point is that where the need right now in diabetic retinopathy is perceived as the most urgent is in proliferative eye disease, there are roughly 0.5 million such patients in the United States
+And 80% or 400,000 of them receive ablative laser therapy, the most serious of laser therapies
+And now with the CLARITY data, one has a head-to-head comparison showing by every measure, from visual acuity to, just as importantly, halving the risk of developing vitreal hemorrhages, reducing by almost two-thirds the risk of developing macular edema, this is something that I think patients deserve to have access to and deserve to get in this setting, because without ablating their retinas, they can have better vision and better outcomes and avoid catastrophic events like vitreal hemorrhages
+I think that the 2 million or so people who have diabetic retinopathy that's considered a little less urgent, I think that this could be an important advance for those patients as well, and already, all the existing data suggest that
+But I think that there will be probably slower uptake
+It will be a longer haul to change the practice of medicine there, where many of those patients are treated with a wait-and-see attitude because they haven't had a drug like EYLEA thus far
+But I really do think in proliferative eye disease, 500,000 patients, those patients deserve to get a therapy that's been shown in a head-to-head study to be so substantially beneficial, not only in terms of visual acuity, but in terms of preventing catastrophic outcomes, which is why they're treated so urgently with ablative therapy
+Maybe just to put it into a little bit of context, as Len said, we did three pivotal studies
+And in the overall population, as Len said, it's hard to compare across studies, but I don't think anybody would argue that in the overall population, even in the worst of the three studies in terms of the numbers, they look quite comparable to the high eosinophilic groups for either approved biologics or for near-term biologics that are coming down there
+And obviously, we also have even better data in the high eosinophilic patients
+And as Len said, I think the most important differentiator also has to be, not only do we have comparable results to what others have in the high O's in the overall population, but we have these lung function results
+And I think that this has been just, as we tried to communicate during our prepared remarks, this has been somewhere where the field has been going away from, only because biologics to date have not been doing such a good job
+If you remember the way Xolair got approved, up until that point, lung function was the standard for approval
+But because Xolair had no effect on lung function, they switched the focus to these exacerbations, which obviously are very important and so forth
+But if you know anybody with asthma, you know that the thing that they suffer from and they worry about on a day-to-day basis is the shortness of breath that they can suffer from with a little bit of exercise or some other trigger that they might be suffering from
+And I think it's really important to recognize that the results on lung function are really impressive, not only on the overall population, but even more impressive in the high eosinophilic population
+So once again, I think if anybody honestly looks at the data and looks at the effects, not only in the overall population, not only on exacerbation, but also on lung function, you would think that this is the treatment that patients deserve to be given to benefit their condition, and not only in the high eosinophilic patients but the overall population
+And I just want to add to that
+Len brings up a really good point, which is that part of our clinical development plan is actually to do studies where we show that in the same patients, we will be able to benefit multiple allergic conditions
+And that is I think something that, if you know people who are suffering from any one of these severe allergic conditions, whether it's atopic dermatitis, for example, or severe asthma, they generally are suffering from other allergic conditions as well
+And wouldn't it be wonderful if there was a drug that was a central driver of all of allergic disease that could benefit essentially all of the allergic manifestations in a single patient
+So that is part of our clinical development plan going forward, that we are going to be doing studies to actually be able to show that, hopefully
+And we don't think there's any other current biologics out there that even have the opportunity to consider the possibility of doing those studies
+Josh, let's just close on one point that I think maybe we didn't even emphasize enough is that the other thing that's really important about dupilumab is we really do have an extensive clinical development profile from the safety point of view, and that's building every day in the commercial point of view
+And going forward in this field, Dupixent has now set an extremely high bar I believe, not just on the efficacy side but on the safety side
+In the rheumatoid arthritis field, people, because biologics came with a cost, are willing to accept that cost because they had great efficacy
+We've got really what I think is terrific efficacy but also almost unprecedented safety that we've seen thus far in our clinical trials
+We really haven't seen the kinds of immune dysfunction problems that you see when you block other angles of the immune system

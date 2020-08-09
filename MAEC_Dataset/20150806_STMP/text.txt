@@ -1,0 +1,227 @@
+Good day, ladies and gentlemen, and welcome to Stamps.com second quarter 2015 financial results conference call.
+(Operator Instructions) As a reminder, this call may being recorded.
+I would now like to introduce your host for today's conference, <UNK> <UNK>.
+Sir, you may begin.
+Thanks very much.
+Good afternoon, everyone, and thanks for joining us today.
+On the call today is <UNK> <UNK>, CEO; and <UNK> <UNK>, CFO.
+The agenda for today's call is as follows.
+We'll review the results of our second quarter 2015.
+Then we'll discuss financial results and talk about our business outlook.
+But first, the Safe Harbor statement -- Safe Harbor statement under the Private Securities Litigation Reform Act of 1995.
+This release includes forward-looking statements about our anticipated financial metrics and results that involve risks and uncertainties.
+Important factors, including the <UNK>'s ability to complete and ship its products, maintain desirable economics for its products, and obtain and maintain regulatory approval -- which could cause actual results to differ materially from those in the forward-looking statements -- are detailed in filings with the Securities and Exchange Commission made from time to time by Stamps.com, including its annual report on Form 10-K for the fiscal year ended December 31st, 2014; quarterly reports on Form 10-Q, and current reports on Form 8-K.
+Stamps.com undertakes no obligation to release publicly any revisions to any forward-looking statements to reflect events or circumstances after the date hereof or to reflect the occurrence of unanticipated events.
+As a reminder for today, the income and adjusted EBITDA results we discuss on the call are on a non-GAAP basis and exclude the following items -- $3.4 million of noncash stock-based compensation expense, $0.7 million of noncash amortization expense from acquired intangibles, $4.2 million of nonrecurring expenses, $13.6 million of noncash contingent consideration charges, $10 million of nonrecurring legal settlement expense, and finally, a $4.8 million noncash income tax benefit.
+Please see our press release for a reconciliation between GAAP and non-GAAP.
+Core mailing and shipping is comprised of our small business, enterprise, and shipping customer segments and excludes noncore enhanced promotion and PhotoStamps.
+Core mailing and shipping metrics exclude all enhanced promotion channel activities.
+And beginning in Q4 2014, all metrics include ShipStation and ShipWorks.
+For a more detailed definition of how we calculate each of our metrics, you may refer to our quarterly investor metrics spreadsheet at investor.
+stamps.com.
+Finally, as a part of our ongoing program to reserve future use of our NOL asset, we request that any shareholder contemplating owning more than 800,000 shares contact the <UNK> before doing so.
+Now, with all that, let me hand the call over to <UNK> <UNK>.
+Thank you, <UNK>.
+And thank you for joining us today.
+Today, we announced our second quarter and full results.
+And during the second quarter, we once again achieved record results, including record revenue, total revenue of $48.4 million, which was up 41% year over year; record core mailing and shipping revenue of $46.8 million, which was up 45% year over year; record non-GAAP adjusted EBITDA of $17.7 million, which is up 80% year over year, record non-GAAP net income of $16.8 million, which is up 86% year over year; and record non-GAAP earnings per share of $0.97, which was up 76% year over year.
+Overall, we're extremely pleased with the results for the quarter.
+And as a result of the second quarter performance in our current business outlook, we increased our revenue and our earnings guidance today.
+So with that, let me begin with a more detailed discussion of the core mailing and shipping business.
+Core revenue was up 45%, to $46.8 million in the second quarter.
+And during the second quarter, we acquired 101,000 gross small business customers at a cost per new small business customer acquired, or CPA, of $109.
+Customers acquired were up 41% compared to Q2 last year, and CPA was down 19% compared to Q2 last year.
+We're pleased that we achieved continued acceleration in the year-over-year growth rate for customers acquired, while also simultaneously achieving a significant decrease in CPA.
+Our small business customer acquisition spend was $11 million, up 14% compared to Q2 last year.
+Note that the customer acquisition spend now includes costs related to ShipStation and to ShipWorks personnel, and marketing spend.
+Average monthly churn during the second quarter was 3.5%, which was down versus 3.6% in the second quarter of 2014.
+Positive trend on year-over-year decreases in churn is a result of multiple factors, including continued improvement in the value proposition of our products and services.
+Recall that the second quarter has historically shown the highest churn rate of the four quarters each year owing to seasonality.
+So the sequential increase in churn from the first to the second quarter was expected.
+The paid customers in the second quarter were $554,000.
+That was up 13% versus the second quarter of 2014 and up $9,000 sequentially versus the first quarter of 2015.
+The sequential increase in paid customers was driven by a strong performance across all the core product offerings.
+The average subscriber revenue per paid customer, or ARPU, was $28.17 in the second quarter.
+That was up 28% versus the second quarter of 2014.
+Year-over-year ARPU growth this quarter benefitted from growth in the shipping segment, including positive contributions from ShipStation and ShipWorks.
+Total USPS postage printed through our solutions was $548 million in the second quarter, and that was up 48% versus the second quarter of 2014.
+We're now over a $2 billion annualized run rate in total USPS postage printed.
+We're pleased with the strong growth in the traditionally slower -- seasonally slower second quarter.
+Overall, we were very pleased with the metrics across the board and pleased with the benefits we continue to see from our recent acquisitions.
+With that, let me turn to some initiatives we're working on in the core mailing and shipping business.
+In the small business area, we're continuing to build and optimize customer acquisition activity.
+Through the continued optimization, we're able to achieve continued acceleration in the year-over-year growth rate for customers acquired this quarter.
+And we also optimize across our channels to achieve a significant decrease in cost per acquisition, or CPA.
+The business continues to show very strong ROI of at least two times the CPA.
+Given the continually improving economics in this area, we plan to continue to increase our small business customer acquisition with the goal of increasing the total acquisition spend for the year by 10% to 20%.
+As we just mentioned, the spend goal includes marketing costs in our subsidiaries.
+The channels we use for small business customer acquisition continue to include direct mail, traditional media, online marketing and other areas.
+And we continue to optimize among the various channels in order to achieve the best return on investment.
+The goal we have is to continue to scale the marketing spend while balancing the ROI of each of the channels.
+In the enterprise area, we continue to scale up our sales and marketing efforts.
+Business continues to grow consistently, with second quarter revenue growth of 17% year over year.
+It also continues to make meaningful contributions to our bottom-line performance.
+Value proposition in this area continues to support our efforts.
+Our service has a lower total cost of ownership, better user visibility, better financial controls; versus postage meters.
+In the shipping area, we continue to experience success.
+In this area of our business, we have Stamps.com branded single-carrier USPS products, and we have the ShipStation and ShipWorks branded platforms, which offer multicarrier solutions.
+Both the single-carrier and the multicarrier type products target the ecommerce shippers and also target high-volume shippers.
+Ecommerce shippers are individuals or SOHOs, or small office and home office, that sell online and ship products in moderate volumes.
+And then, high-volume shippers are warehouses, fulfillment houses, large-volume retailers; whose business centers around shipping products in large-production shipping environments.
+Second quarter USPS postage printed in the shipping area was up 64% year over year.
+Primary factor in our growth in the shipping area was our ShipStation and ShipWorks businesses.
+Those subsidiaries contributed nicely to overall postage printed growth and to our Q2 revenue growth.
+Both subsidiaries also made a meaningful impact to the bottom-line performance in Q2.
+In addition, the synergy opportunities we've been discussing since we made the two acquisitions began to materialize in a more meaningful way during Q2 as well.
+The synergies we have discussed include Stamps.com broad marketing expertise, capital, applied to the targeting of ecommerce small businesses for ShipStation and ShipWorks; our national sales team selling ShipStation and ShipWorks, the creation of upgrade paths from the Stamps.com single-carrier products to a ShipWorks or ShipStation solution for multicarrier needs, increasing customer use of Stamps.com as a USPS solution within the ShipStation and ShipWorks solutions, offering dropdowns from the multicarrier ShipStation and ShipWorks to a single-carrier Stamps.com solution for customers whose needs may have decreased; and the sharing of technology expertise among the companies -- for example, web expertise in ShipStation, which may be utilized in other areas of the business.
+Overall, we're very pleased with the performance in the shipping area which resulted from those two acquisitions.
+We're excited about the opportunities in our small business, enterprise, and shipping areas.
+With that, let me turn to Endicia.
+On March 22nd, 2015, we announced that we had entered into a definitive agreement to acquire Endicia, which is a wholly owned subsidiary of Newell Rubbermaid, for an aggregate purchase price of $215 million in cash.
+The transaction is subject to satisfaction of customary closing conditions, including expiration or termination of the waiting period under the Hart-Scott-Rodino Antitrust Improvement Act of 1976.
+We're currently in the regulatory review process with the Department of Justice.
+And the timing of that process remains uncertain.
+During the second quarter, both Stamps.com and Newell Rubbermaid each received a request for additional information, or a second request, from the DOJ in connection with their review of the proposed acquisition.
+Second request from the DOJ is a standard part of the full regulatory process.
+Both Stamps.com and Newell Rubbermaid are in the process of responding to the second request and are cooperating with the DOJ in connection with its review.
+We continue to expect the transaction to close in 2015 and intend to fund the transaction with cash on hand and with the committed financing of up to $165 million, which we have secured from three leading banks.
+With that, let me hand the call over to <UNK> for more detailed discussion of our financial results.
+(Operator Instructions) <UNK> <UNK>, B.
+Riley.
+First question I wanted to ask -- just in terms of the Endicia process and the current regulatory approval you're going through, could you just talk a little bit about what areas, if any, that the DOJ has wanted to look more into.
+And in particular, I'm wondering how you feel they're kind of defining the competitive landscape in terms of the number of folks out there that you might be benchmarked against.
+Sure.
+I mean, it's really -- the second request is really a standard part of the full regulatory review process.
+And we're in the process of complying with second request and providing the information for their review.
+I would say it's a very comprehensive review, and there's really no indication as to what specific area they're focused on.
+As the process unfolds, we potentially get that insight.
+But at this point, it's very early in the process.
+And so it's not really anything we could answer with any certainty.
+Got it.
+And maybe switching gears a bit -- certainly, the service revenues were particularly strong in the quarter.
+As you now have the acquisitions under your umbrella for close to a year now, is there any reason to expect that the service fee revenues or the ARPU line in particular would dip going forward.
+Or would you consider the vast majority of these fairly recurring in nature, given the subscription-based pricing you have.
+Yes, <UNK>.
+So in terms of the ARPU metric, <UNK> reviewed a number of the synergies that are opportunities for us.
+And in Q2, I think we were able to realize the benefits of the acquisitions to a greater degree.
+And I think that really manifests itself in the ARPU metric, where these shipping and multi-shipping customers -- we just have a better ability to monetize volume in that segment.
+So on a year-over-year basis, we're going to start to anniversary the two acquisitions.
+So that'll make for tougher comps.
+But at the same time, we had accelerated the ability to -- or we realized more of the synergy benefits in Q2 compared to the prior quarters.
+And just as a follow-on in terms of those synergy benefits that you're seeing -- is that from customers of ShipStation or ShipWorks adopting the Stamps postage solution, or maybe vice-versa.
+Or are there other areas where you are deriving synergies right now.
+Yes.
+I mean, it's all those areas that I really touched on in the call.
+So we identified these areas right up front.
+I think we've been talking about them for several quarters.
+And this is kind of really the first quarter where I think the synergies that we've been talking about really began to materialize.
+And I think that really made an impact in terms of the growth rates on revenue, and impact to the bottom line.
+And it's many of the things you mentioned.
+It's increasing customers' use of our service as part of the ShipStation and ShipWorks solutions.
+It's our sales team selling the ShipStation, ShipWorks solutions; beginning to apply our marketing expertise and our capital to target the small businesses that are in ecommerce, so candidates for the ShipStation/ShipWorks.
+And it's beginning to cross-utilize technology expertise and do upsell and down-sell.
+So it's kind of all of those above.
+And we really started to get the -- crank up the synergies in terms of what we had identified, really, the benefits we're starting to see.
+All right.
+Well, thank you for taking the questions, and congrats on another strong quarter here.
+Thanks, <UNK>.
+Thanks, <UNK>.
+<UNK> <UNK>, Craig-Hallum.
+Impressive quarter, guys.
+As we look at Q2, was there anything unusually good from your perspective that wouldn't necessarily recur in future quarters.
+And was there anything suboptimal in the quarter that you would point to that you didn't necessarily get to recognize.
+I would say the results were -- two of the factors that we mentioned were the benefits from the acquisitions, and then the stronger customer acquisition metrics we've seen.
+So those are things that continue going forward.
+In terms of the customer acquisition spend, we've seen historically that can fluctuate quarter to quarter.
+And so right now, it's kind of particularly strong.
+But that can go the other direction quarter to quarter, we've seen in the past.
+So I would characterize that there wasn't necessarily any one-time event that drove it.
+It was really the better-than-expected outcomes and the multicarrier acquisitions, customer acquisition.
+And our focus is on having that continue to the best degree possible.
+Specifically, when you broke out the details of the benefit from the acquisitions, one of the things you mentioned were the upgrade paths for customers -- traditional Stamps.com customers.
+How significant is that piece specifically.
+I think that it's becoming more significant.
+I think the customers -- one of the early things that we really focused on in this acquisition was -- as customers come in, we like to grow with them.
+And they start off with just USPS.
+It's an easy way to get an ecommerce business kind of off the ground in shipping.
+And the idea is, as they get larger, they begin to look at optimizing.
+They do a lot more packages, they start looking at -- wow, if I do other carriers in certain weights or zones, then I can actually optimize it.
+And they start to grow up, if you will.
+And when you look at that customer, we can see their volumes growing.
+We can see that they're using the portion of our product called batch, where they're really bringing in a lot of orders.
+And we can see the volumes and kind of say -- hey, this other product may be more suitable for your needs, and try to offer them a path to upgrade to that solution.
+So I think it's -- we're starting to see an impact from that, and it's going to become more meaningful over time.
+Perfect.
+And you mentioned, <UNK>, in response to the question on the acquisition side, or the Endicia process side, that we're still very early in the process.
+And I wondered if you can put that up against the context of the expected close by year end.
+That's -- despite still being early in the review process, you're still comfortable with that year-end timeframe.
+Yes.
+I think that -- year end is four months away.
+And as we went into this process, I think we -- looking at kind of standard outcomes, I think we felt like it was reasonable to expect the kind of timeline we're on right now.
+So I think this is largely what was predicted as a standard regulatory review process.
+And I think we said we expect it to close by the end of 2015 from the beginning, back in March when we announced it.
+So I think it's largely what we had expected, and largely marching along the timeframe that we had predicted.
+The other thing is it's also kind of -- from the perspective of getting feedback from the DOJ, it's kind of early in the process where we haven't -- you know, we're not at a point where we really have insight into their perspective.
+Okay.
+Thanks, guys.
+<UNK> <UNK>, Northland Securities.
+Hey, good afternoon, gentlemen.
+And nice quarter, so I'll throw that out there as well.
+Just sort of [going] how we should think about seasonality going forward.
+Because traditionally, we haven't seen such a nice sequential jump in the core business.
+And the customer acquisition costs actually normally do jump Q1 to Q2.
+And here, they barely did.
+Is that a pattern we should think about going forward.
+Has the ShipStation/ShipWorks acquisitions fundamentally changed how your business flows through the year.
+Or was this just sort of a good quarter but not something we should expect this pattern going forward.
+Yes, I think the seasonality in the business still exists, in terms of Q2 and Q3 being the seasonally slower quarters, and Q4 and Q1 being the reasonably stronger quarters.
+I think what you saw in Q2 is that the benefits of some of the acquisition synergies that we talked about outweighed the seasonal factors.
+So the net of the two was a trend that was not the same as we've seen historically.
+So as you move forward, we'll start anniversarying stuff over the course of time, and seasonality will probably manifest itself more apparently.
+But in this quarter in particular, I would say that the benefits of the acquisitions outweighed the seasonality, but the seasonality still exists in the business.
+That's very helpful.
+And then, did you guys do anything different maybe over the last quarter or two with the two acquisitions that helped accelerate them.
+Because they did close like over a year ago.
+And now, we suddenly saw, like you mentioned, the benefits.
+Did you do anything different.
+Or did it just take a year for the process to flow through.
+Yes, I think we made sure we were doing everything from a customer perspective.
+We had to build technology, we had to optimize and make sure we're testing.
+So I think it's just the typical Stamps.com.
+We like to play -- we like to be very cautious and make sure we're being customer-friendly.
+We didn't want to move people down a path that we didn't think was the right way.
+And so it's really just making sure, as we begin this process of optimizing the synergies, that we have ferreted out all the possible paths, and making sure we're on the right path.
+(Multiple speakers) yes, and I would say it's really -- Q4 was the first full quarter with all three -- or the two acquisitions under the Stamps umbrella.
+So Q4 and Q1 we spent doing what <UNK> said.
+And then, as we moved into the Q2 period, we felt comfortable trying to accelerate or enhance the benefits.
+Okay.
+And then, one final question on the share count -- took a little bit of a bigger jump, and you didn't buy back any shares this quarter.
+Would it be safe for us to model maybe similar patterns while you guys try to husband cash in front of the potential Endicia acquisition.
+Yes.
+So on the shares, just the mechanics of accounting -- the higher the stock price goes, it translates into higher fully diluted shares with your common stock equivalents.
+So it's kind of -- as you do better and the share price goes up, your fully diluted shares also go up.
+So that's why we kind of guided to the 17.5% number for the year.
+In terms of the share repurchase -- we don't comment on kind of that specifically in terms of future expectations.
+Okay, great.
+Thank you very much.
+<UNK> <UNK>, Sidoti.
+My questions have pretty much been answered.
+But I don't know if I fully heard this -- when you were talking about what factors are affecting Q3 seasonality -- and I think you said it's normally a little bit lower, but there could be, just from some of the synergies -- where do you think you stand in terms of getting these synergies, in terms of, I guess, how much more opportunity there is there.
+It seems like it's kind of early days.
+But any thoughts on that.
+Yes, I mean, I think we do feel like we've moved the ball forward quite a bit this quarter in terms of synergies.
+But we still have opportunities to continue to optimize and build on what we've done in Q2.
+So I think that our expectations are that we can continue to gain more synergies with those businesses going forward.
+If you looked at your customer adds -- can you give us some color of what percent of them came from existing Stamps.com customers, that maybe went to ShipStation and ShipWorks.
+Yes.
+I don't think we have that specific number in front of us.
+But like I said, we've really been trying to focus on moving the customers up the chain when it makes sense from a customer value prop.
+As they get bigger, as they need more of solution, we really like to move them up.
+So I think it would be the difference between losing a customer through churn and maintaining that customer in our paid customer base by moving them up into the ShipStation or ShipWorks solution.
+And just to clarify -- the customer adds include Stamps and the subsidiaries.
+So to the extent an existing customer upgrades, then that actually wouldn't count as a new customer add.
+It would be more again reflected in the potentially higher ARPU you get through that path.
+Okay.
+Thank you very much.
+I'm not showing any further questions.
+Thank you.

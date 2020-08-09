@@ -1,0 +1,156 @@
+Sure.
+So if you look at FX as an example, we have a rolling hedge program, we do that by country, we do that by product.
+So what you're seeing is the hedges we put in place, call it six to nine months ago, which were favorable as they rolled off in Q1, so there was no real impact from an EPS perspective, driven by foreign exchange.
+And then when you look at DRAM pricing as an example, that increased about 50% in the month of January.
+So again, we had some supplies built up or some inventory built up, so you don't see the full effect of that.
+So you will see both the FX and the commodity pricing flow through the rest of the year.
+Now, we're going to try to price for some of that.
+We've gone out with price increases, and it's really a question of what will the impact be toe demand and what will be the competitive response.
+So you'll see a flow through I would say in typical seasonality.
+Let me add one thing about the EPS takedown of about $0.12.
+So when you think about commodities, and you think about foreign exchange, that was about -- we estimate about $0.12 of degradation.
+And the decision we had to make is did we want to cut $0.12 more of cost out of our cost structure.
+And as you all know, we've been taking a lot of cost out of this Company over the last 4.5 years, and my view was we've got very good investments in field selling cost, in innovation, in automation, in IT, that is going to put us in very good stead for the long term.
+I did not think it was the right thing to do to absorb all of that commodities and foreign exchange degradation by cutting more costs into what I think are going to be very high return on capital and return on investment projects.
+So we decided actually that the best long term thing for the Company was to not cut into bone and meat.
+Yes, so let me take a cut at that.
+So we did guide the $2 to $2.10 as a combined Company, because again, similar to prior practices, until we actually separate, we will provide that outlook, and then we'll adjust that outlook once the transactions have closed.
+So to your one of your questions around the as-reported guide, the take down would apply to that, so the $1.45 to $1.55 would go down by $0.12 on both ends of the range.
+And again, that's primarily driven by the FX, commodity pricing, and some execution challenges.
+When you look at the $1.25 to $1.35 number, from an ongoing perspective, because obviously we are not going to report that guide on a quarterly basis, it does have the 2017 assumptions in there.
+I think you'll still get within that range longer term.
+It really depends on how those price increases that we've executed, how those take.
+So the more that they take, you'd be up at the higher end of that range.
+If they don't take, given demand or competitive response, you'd be at the lower end of that range.
+Yes so I'll address that, and <UNK>, you can jump in here if you'd like.
+So let's start with FX.
+I think to your point, we guided in October for the full year 2017 outlook at SAM, so at that point in time, the Euro was trading I'd call it $1.10, and the yen which has another significant impact was trading at about JPY103.
+When we came out on the fourth-quarter earnings call, we did highlight that there was some pressure.
+So we got a question, I can't remember who asked it, and we said yes, rates are less favorable than they were.
+I think at that point in time the Euro was about $1.06 and the yen was at about JPY110, JPY111.
+But given the fact we were three weeks into the year, given the fact that we were rolling into a new administration in the US, and we weren't quite sure how that was going to play out, as well as the fact that we had hedges in place that protected the first quarter, we decided to continue to monitor the currency environment.
+We would make some operational changes that we thought were appropriate, and then that's why we didn't change the guide then.
+As we sit here today, we're now five months into the year, and that Euro was still sitting at about $1.06 the Yen is still sitting at about JPY112, so we felt it was prudent to adjust our guide now.
+And it's really, it was a cognitive choice that <UNK> alluded to, is we had choices that we evaluated, and we decided this was the prudent thing to do, so we could continue to drive the strategy, we could continue to make the strategic investments that will drive long-term value.
+So that's the foreign exchange piece.
+And then on the DRAM piece, those prices spiked in January, about 50% in January.
+We did do some advanced purchases in the fourth quarter, but there was only so much you could buy, because everybody was facing the same thing, and there's only a limited amount of capacity.
+So again, that's why you didn't see a lot of that pressure in our Q1 EPS, because we were using inventory that we had bought at lower pricing.
+And that's something that will continue to play out in Q2, Q3 and Q4.
+It depends on how the capacity comes online, and we really don't see the foreign exchange changing drastically as we go forward as well, so hopefully that answers your question.
+Yes, okay, so let me address the growth question.
+I think you're probably right, that we've grown half the quarters since we separated, and you have to look at first what is the go-forward Hewlett Packard Enterprise, as opposed to also the whole Company, because in much of the last year, obviously Enterprise Services was more of a drag than EG was.
+But let me answer the question about go-forward Hewlett Packard Enterprise, which in 2017, which is EG plus HPE Financial Services.
+I would say yes, I think we can return to growth, but there is one caveat that I would make, and that is a single Tier 1 service provider who was a big customer of ours, who is slowing down orders dramatically.
+But for the rest of the business, ex that large single Tier 1 service provider, I think we've set ourselves up well to be prepared to tackle the future.
+I like our portfolio, we've really reshaped this portfolio, both inorganically as well as organically.
+I think you should feel very good about TS.
+Remember, over the last three or four years, there was a lot of question, could we return TS to growth.
+And orders precursors revenue.
+We've seen orders grow, and the last couple of quarters you've seen revenue grow, and orders grew again this quarter.
+So we're very confident about the TS growth rate, and of course that happens to carry a much higher margin than our infrastructure products.
+Aruba continues to do very well.
+And as I said, some of our other high growth areas.
+So I'm going to say yes with the possible exception of the single Tier 1 Service Provider, and that could throw us into slightly negative growth for 2017.
+On the cost out, so listen, we have taken a lot of cost out of this Company.
+We have improved the efficiencies, the business process reengineering.
+And by the way, embedded in our forecast for 2017 is all of the reshaping that we did around RemainCo, costs are coming out.
+We've totally reshaped how that business is run, with far fewer layers, and much more efficiency.
+So that will continue.
+I do think after we're separated there is going to be potentially some more costs to come out.
+Right now, we're carrying almost the full IT load because the IT team is doing all of the separations.
+We will skinny down IT, obviously some of IT will go to Software, some will obviously go to CSC, so I think that will help us.
+And then there's some other things we can go after, but I have to say quite honestly, the low hanging fruit is gone.
+Yes just to elaborate on that a little bit, if you look at our OpEx for Q1, we were down year over year about $340 million.
+Now granted, we had the TippingPoint divestiture, so I'll call it from an operational basis, it's roughly $220 million, so we do have a lot of cost take out in the plan.
+We're executing upon that.
+I think when we get to, when we talk a little bit about this at some point, when you get to the Q4 of 2017, we did this benchmarking as an example on all of our functions from a run rate perspective, we will be at that benchmark except for the IT and the real estate component.
+So again, it takes us a little bit of time to get through these separations and then we can really zero in on the IT and the real estate front to continue to capitalize on those savings.
+But I think our view is there's always opportunity for cost.
+It's just a question of how much and how quickly can you take that out, and right now we feel like we're taking out quite a bit of cost.
+Sure.
+So remember as we go forward as RemainCo if you will, which is EG plus HPE FS, we needed to set up EG to be a very lean and cost effective competitor, because guess what.
+In Europe, we compete against the Chinese, obviously it's a very, very competitive market.
+So we wanted to reorganize ourselves in a way that we thought would be much more cost effective and more efficient.
+And the first was we appointed Peter Ryan to be the new Head of Global Sales.
+We've actually never had a Head of Global Sales.
+He's now the Head of Global Sales, and he's got three new region heads: Jim Merritt, who used to be in Asia, and did a fantastic job for us in Asia has come back to the United States.
+And then we promoted <UNK> Isherwood to be the Head of Europe, who filled in behind of Peter Ryan, because he had been head of Europe, so I've got three new region heads, plus Peter being a new Head of Global sales.
+They are not new to HP, but they are new in their roles.
+Secondarily, we have now real plans to grow TSS, which is our Technology Services Support business as well as TS Consulting, so Scott Weller still runs TSS, Rafael Brugnini still runs TSC, but we've hired someone to take both of those businesses, and really drive growth overall in the services business, because we've got to grow our advisory and transform service, we have to grow our support services business, as we have in the past, and there's a lot of opportunity in some of the new products, particularly around flexible capacity services.
+So we hired a new executive named Ana Pinczuk, who is going to be in charge of all services.
+Scott Weller is still in place, and we think very highly of Scott and Rafael Brugnini is still in place.
+We also hired a new leader for our channel program.
+We had a fellow who was hired in a number of years ago, who actually did a very good job for us, but was really focused on selling cloud services and so we actually hired a fellow by the name of Denzil Samuels, who has a long history with the channel.
+He most recently was at GE, and so he has come in the last month or two months to run all of the channel worldwide, yet Scott Dunsire is still in place in the United States.
+And so we've got consistency there but we do have a new head of the channel.
+So I think all these folks to some degree were also doing double duty.
+We were making divestitures, we were doing M&A, we were doing separation, and Antonio was doing a lot of double duty as well.
+So I think the good news is largely that is through the pipeline or through the python if you will, and I'm feeling pretty good about people settling into their new roles.
+But quite frankly, I probably put more change into this organization in Q1 than I probably should have.
+I wouldn't -- this doesn't go under the org change category, but I wouldn't underestimate at the local level the impact on the country leaders, which obviously do a lot of selling for us.
+When you do a separation like this, you have to go out and speak with customers, you have to explain to them the ES separation from HPE, you have to deal with workers councils, if there are any organizational changes, so there is quite a bit of work that ripples through the organization.
+And we've got two separations going on now at once.
+And I'll add one more thing.
+When we separated HPI from Hewlett Packard Enterprise, it was one family.
+There was one adult that was supervising both the separation of the siblings.
+Now, we're doing separations that is a merger with a third party, and that actually adds a complexity that we knew about, but has created some complexity.
+And by the way, the most intense time for the ES separation was in Q1, no question about it, and now we're on sort of a nice glide path to March 31.
+No, I think we actually did quite a good job of intercepting that merger, and we have recruited a lot of new channel partners.
+They are beginning to ramp.
+Much as we did a good job intercepting the server move from IBM to Lenovo, we did a very good job intercepting a lot of that business, so I think we've taken advantage of that to some degree.
+Lenovo is around.
+They've got their hands full on a couple of other things, the server business and Motorola, but Dell is being very aggressive, particularly on the server side of things, and we're countering that when we think it makes the right sense.
+We aren't doing share for share's sake here, but we are being smart about it.
+And then in Europe, we actually are seeing the Chinese.
+We're seeing Huawei being more aggressive, and we're trying to avoid what we learned in the PC business, which is they do the land and expand.
+If you can keep them from landing, then that is a much better long-term strategy, so we're working hard on that, too.
+I'd also say the joint venture on China is actually working quite well.
+There's been some growing pains there but actually we're quite optimistic about that, and optimistic about the Shingwa team that is now in charge of that business.
+And given the trade situation and what may or may not happen with the administration, I'm very glad I'm part of a joint venture in China.
+Yes, so I'd say listen, the bright spot in the storage portfolio continues to be the all-flash growth, which was almost 30%.
+And it would have been considerably higher if we had more SSD supply, so we're feeling really good about our all-flash display.
+I mean our all-flash product.
+Some of the other parts of the business were weaker than probably they should have been.
+I think I will attribute some of that to execution, and some of that to market.
+So we're not happy with the storage performance this quarter.
+I'm quite happy with the all-flash situation, but there's other things that we're going to buck up as we go forward.
+And so I think that's the way I would characterize the quarter.
+It's actually both.
+It's a year-over-year comp issue and it is a different buying pattern than had been anticipated.
+And so we'll see if that corrects over the next two or three, four quarters, built into our forecast is that it does not correct, so if it does, that would be an upside.
+And again remember, these Tier 1 deals, we do make money on them, but they aren't as profitable as the core ISS, so that doesn't translate as dynamically into operating profit as it does to revenue.
+So they are facing a very competitive business, the Tier 1 business is very competitive, and we'll see what happens there.
+So <UNK>, the organic TS results were 2.5% in constant currency, so 2.5% growth in constant currency.
+So we're actually feeling pretty good about that, and it is driven by the new product acceleration, data center care, proactive care, FSC.
+And if you go back three or four years on TS, in all rights, for awhile there, that business should have been down 25% a year because it was so driven by our mission critical business.
+The TS team deserves a huge amount of credit for diversifying the product and actually having that business down only single digits.
+Now, with the new products coming online, and being actually quite successful, orders are up and we anticipate that business will grow organically, forget adding the SGI services on top of that.
+So we're feeling pretty good about that business, and anticipate we're going to see growth.
+Keep in mind that business, about 85% of those revenue streams are recurring, so that's why we're confident in the growth throughout the course of the year.
+And listen, a lot of the server business that was weak didn't have high attach to it anyway.
+So Tier 1 Service Providers has no service attached to it, so it's not a drag on our services business.
+Yes, so I think that we're going to continue to execute the returns-based capital allocation strategy.
+We feel like that's been working well for us.
+So in Q1, as an example, we'll return $750 million in cash in the form of share repurchases and dividends.
+So we're still committed to that $3 billion that we talked about at SAM, again in the form of share repurchases and dividends.
+Now I will say we are biased towards share repurchases, but we feel like that framework is working well with us, and we're going to continue to operate within that framework.
+As far as the repatriation, we haven't incorporated any of that into our plans, because we're not sure what is going to happen, to be quite honest with you.
+But if there was a one-time holiday, as a majority of our cash is offshore, we would certainly benefit from that, like many other companies.
+But I would just balance it with, even if we were to see some sort of holiday, I'm not so sure that it would change our returns-based approach.
+I'm not so sure it would change our approach or strategy towards M&A as we go forward.
+I agree with that.
+Remember what we've said, is the kind of acquisitions that have worked well for this Company are 3Com, 3PAR, Aruba, SGI is actually going to be very successful, and SimpliVity, we're excited about, it's too new to declare victory.
+We just closed on Friday.
+But what do they have in common.
+They've got reasonable valuations, they leverage our distribution channels, they are complimentary technologies, and they drive profitable growth.
+So I think the best indication of the future is the past.
+I mean I'm not entirely sure.
+What I will tell you is that they have dramatically decreased their purchasing, below commitments that they had made to us.
+Yes, sure.
+I'll just give you a total year perspective, so our guide, we're still comfortable with a negative $1.8 billion.
+We have, to your point, we've paid out the $1.9 billion in pension.
+Now there are some more payments to be made because we don't finalize everything until we close the transaction, but we do expect that those payments will be less than the $2.5 billion that we had communicated at SAM, so we will see some favorability there.
+The reason why we're sticking with our guide is because obviously, with the $0.12 takedown, that drives some earnings pressure.
+So net-net we still feel very comfortable with the free cash flow guide.
+As far as working capital, again, we have some timing elements here and there, but I would say overall assumptions over the course of the year have not changed, since the guidance we gave at SAM.

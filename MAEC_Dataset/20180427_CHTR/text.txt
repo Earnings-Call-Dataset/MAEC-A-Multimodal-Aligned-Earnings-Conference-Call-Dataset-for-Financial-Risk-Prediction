@@ -1,0 +1,334 @@
+Good morning, and welcome to Charter's First Quarter 2018 Investor Call.
+The presentation that accompanies this call can be found on our website, ir.
+charter.com, under the Financial Information section.
+<UNK>efore we proceed, I would like to remind you that there are a number of risk factors and other cautionary statements contained in our SEC filings including our most recent 10-K and 10-Q.
+We will not review those risk factors and other cautionary statements on this call, however, we encourage you to read them carefully.
+Various remarks that we make on this call concerning expectations, predictions, plans and prospects constitute forward-looking statements.
+These forward-looking statements are subject to risks and uncertainties that may cause actual results to differ from historical or anticipated results.
+Any forward-looking statements reflect management's current view only, and Charter undertakes no obligation to revise or update such statements or to make additional forward-looking statements in the future.
+During the course of today's call, we will be referring to non-GAAP measures as defined and reconciled in our earnings materials.
+These non-GAAP measures, as defined by Charter, may not be comparable to measures with similar titles used by other companies.
+Please also note that all growth rates noted on this call and in the presentation are calculated on a year-over-year basis unless otherwise specified.
+Additionally, all customer and passings data that you see in today's material continue to be based on legacy company definitions.
+Joining me on today's call are Tom <UNK>, Chairman and CEO; and Chris <UNK>, our CFO.
+With that, I'll turn the call over to Tom.
+Thanks, <UNK>.
+In the first quarter, our primary objective was to continue to integrate our operations and prepare to launch mobile.
+Our all-digital initiative is moving forward and is on schedule for completion by this year-end.
+At the end of the first quarter, approximately 20% of legacy Time Warner Cable and 60% of <UNK>right House Network continue to carry full analog video lineups, with TWC though improving from approximately 40% at the end of the year 2016.
+The whole company will be fully digitized by end of this year as we deploy fully functioning 2-way digital set-top boxes, mostly our Worldbox and all remaining analog TV outlets that we serve.
+<UNK>ut while all-digital is on track, it is disruptive, both to our operations and to our customers.
+It creates large volume of short-term activity, which is inconsistent with our long-term operating strategy of reducing transactional volume.
+The all-digital project though is clearly in the long-term interest of our business, it allows us to free up bandwidth and to realize the full potential and capacity of our network as well as further improve the video product itself.
+In the fourth quarter, we prepared the expansion of our gigabit speed offering to several new markets and launched those markets just a few days ago.
+We now offer gigabit service to approximately 23 million passings, about 45% of our total footprint and expect to have gigabit service available to virtually all of our footprint by year-end.
+Also this month, we raised the minimum Spectrum Internet speed to 200 megabits in a number of additional markets with no additional cost to customers.
+We're raising our Internet speeds faster than originally planned in order to maintain a superior competitive position.
+We've compressed our capital spend to raise speeds and to launch 3.1 across our footprint and our strategy is working.
+In the markets where we launched 200 megabits as our minimum speed in December, sales are up, churn is down, net additions have improved year-over-year, consistent with our experience with previous speed increases.
+Today, over 50% of our Internet customer subscribe to tiers that provide 100 megabits or more throughput.
+We don't offer anything less to new Internet customers and it's now a 200 megabit of minimum offering nearly 1/4 of our footprint.
+Rollout of Spectrum pricing and packaging remains on track.
+As of the end of the first quarter, 55% of Time Warner Cable and <UNK>right House customers were in our new Spectrum pricing and packaging, which reflects the pace of integration in migration prospective.
+Over time, we expect Spectrum-branded products to drive continued higher sales and longer customer lives.
+In the first quarter, we continued to see year-over-year improvement in sales in connect volumes, although higher year-over-year churn offset the higher sales volumes.
+Higher churn has been a result of some customer service system changes we've been making as part of our large and complex integration.
+While we are not executing a billing migration, last year we collapsed 13 service environments based on our billing systems into 4 using our software isolation layer.
+In 2018, those 4 service environments were moved to 2.
+That integration execution, which will result in quality, uniform services and efficiencies, impacted both our customer qualification and collection process, both resulting in higher nonpay disconnects and bad debt.
+We corrected those processes, however, and both nonpays and bad debt should be back to planned levels by the end of the second quarter.
+Despite that self-inflicted disruption we've grown total Internet customers by 1.2 million or over 5% in the last year.
+And in the quarter, we grew revenue by 4.9% year-over-year and adjusted E<UNK>ITDA E<UNK>ITDA by 6.8%, excluding mobile start-up costs.
+Turning to mobile, we remain on track to launch our new services in the middle of this year under our MVNO agreement with Verizon.
+We recently launched a field trial, which includes 5,000 employees who are going through an end-to-end sales activation of service process in May.
+And we are building out our sales channel and service capabilities, including modifying several hundred of our 700 retail stores and setting up the call center environment.
+Ultimately, the goal is to use our mobile service to attract and retain our cable-bundled multiproduct customers.
+And the partnership we signed with Comcast last week will accelerate our ability to scale our MVNO service offerings by stepping into a proven MVNO back-office platform and improve the economics of our emerging mobile business.
+While our entry into mobile is new, we're already a wireless operator today with over 250 million of syndicated wireless devices connected to our deployed small-cell network.
+Our infrastructure design provides us with the unique opportunity to build the businesses based on how consumers use the service, what I call them inside out wireless strategy.
+In addition to the continued advancements in WiFi, throughput and latency, we're testing in various bands, including 28 gigahertz and 3.5 gigahertz, which are going well and support our thesis that small cells using unlicensed and licensed Spectrum including <UNK>ig <UNK>end Spectrum like 3.5 gigahertz, working together with our widely deployed power and terrestrial network and combined with the DOCSIS products like Full Duplex and coherent optics will allow us to offer high-capacity, low-latency connectivity products, both inside and outside the home, fixed, wireless and mobile and with and without our superior video applications.
+Ultimately, our strength as a connectivity provider comes from our powerful, easy-to-upgrade network.
+Its unique design allows to the most cost-effective deployment of new technologies, which will drive massive increases in the amount of data we can drive through that network.
+And over time, we will open up opportunities for new products.
+Now, I'll turn the call over to Chris.
+Thanks, Tom.
+<UNK>efore covering our results, a few administrative items.
+First, we have reclassed all inbound sales and retention expense from cost to service customers, to marketing expense for current and prior periods.
+We already provided a pro forma change schedule in our fourth quarter materials.
+Also a reminder that when discussing first quarter customer results, I'll be comparing these results to the first quarter of 2017 results that have been adjusted to exclude seasonal program customer activity in the first quarter 2017 at Legacy <UNK>right House.
+That comparison is on Slide 6 of today's investor presentation.
+This is the last time we need to compare year-over-year quarters for these adjustments since we're now beyond the 1-year mark from the seasonal program change.
+Customer statistics that you see in today's materials continue to be based on legacy company definitions.
+And in the second quarter of this year, we'll reclass customer stats and our trending schedules using consistent definitions across all 3 legacy entities.
+The largest differences will be in TWC and <UNK>right House classification of customer types, particularly universities, moving between residential today where they're reported on the doors basis, and commercial accounts which will be reported on physical sites.
+TWC and <UNK>right House also reported SM<UNK> and enterprise-based on billing relationships, and these will convert to a physical sites methodology.
+When we report our second quarter results, we'll report on the uniform definitions for Q2 and prior periods with the reconciliation schedule.
+In the third quarter of this year, I expect we'll only report consolidated operating statistics and revenue results.
+At closing, we said we will report at least 5 quarters of legacy entity top line results following the close of our transactions.
+The second quarter of this year will be the ninth time we've reported legacy entity results.
+Finally, starting on January 1 of this year, we prospectively adopted FAS<UNK>'s new revenue recognition standard.
+There are a number of relatively small adjustments in the quarter related to the adoption of the standard, both in revenue and expenses, but in total had no material impact to revenue or adjusted E<UNK>ITDA recorded this quarter.
+Now turning to our results.
+And total customer relationships grew by 261,000 in the first quarter and grew 890,000 over the last 12 months with 3.1% growth at TWC, 3.4% at Legacy Charter and 4.6% at <UNK>right House.
+Including residential and SM<UNK>, video declined by 112,000 in the quarter, Internet grew by 362,000 and voice declined by 25,000.
+55% of residential TWC and <UNK>right House customers were in Spectrum pricing and packaging at the end of the first quarter.
+Customer connects were higher year-over-year, including our new markets.
+Disconnects were also up year-over-year, reflecting the nonlinear progression of net adds I've often spoke about.
+TWC was the largest driver of higher year-over-year disconnects, the key drivers were higher nonpay disconnects from integration-related system changes that Tom mentioned where we have since conformed to the customer qualification and collection process to our standard policies.
+And nonpay disconnect and associated bad debt should be back to normal rates by the end of Q2, which practically means the beginning of Q3.
+We also had continued roll off churn from legacy packages.
+These factors had a declining impact on our results as the quarter progressed.
+We should continue to have less of the monthly impact as we progress through Q2.
+Slide 6 shows we grew residential PSUs by 157,000 versus 338,000 last year.
+Over the last year, TWC residential video customers declined by 2.3%, video Charter declined by 1.5% and Legacy <UNK>right House video was 0.3% lower year-over-year.
+In the quarter, TWC residential video customers declined by about 90,000, with higher additions offset by higher nonpay disconnects.
+Legacy Charter lost 32,000 residential video customers in the quarter versus a loss of 13,000 a year ago.
+Additional competitive build-out and less year-over-year benefit from a struggling competitor kept sales relatively flat at Legacy Charter.
+<UNK>right House video customers were flat during the quarter versus a gain of 13,000 last year.
+In residential Internet, we added a total of 331,000 customers versus 416,000 last year, with higher nonpay disconnects, for the reasons I mentioned, responsible for all of the year-over-year decline in Internet net adds at Legacy TWC.
+Total company Internet sales were higher year-over-year and in the 17% of our footprint, where we offer 200 megabits per second is our minimum speed as of the beginning of Q1, there was year-over-year improvement in both sales and net additions.
+As Tom mentioned, we now offer 200 megabits per second as our minimum Internet speed in nearly 25% of our footprint, and we offer gigabit service in approximately 45% of our footprint and expect to have gigabit service available nearly everywhere by the end of 2018.
+Over the last 12 months, we grew our total residential Internet customer base by 1.1 million customers to 4.9%, with 4.8% growth at TWC, 4.9% growth at Legacy Charter and 5.9% at <UNK>right House.
+In voice, we lost 52,000 residential customers versus a gain of 30,000 last year, driven by fewer additions and higher churn of legacy packages and nonpay churn at TWC.
+As we've said before, our progress towards better customer growth will not be linear.
+We do, however, expect to -- we continue to expect higher sales and better retention over time as a higher portion of our base is now in Spectrum, we upgrade our video and Internet capabilities, our service delivery and platform improves and as we work throughout the integration.
+Over the last year, we grew total residential customers by 739,000 or 2.9%.
+Residential revenue per customer relationship grew by 1.6% year-over-year, given the lower rate, of SPP migration, promotional campaign roll-off and some minor rate adjustments, partly offset by higher levels of Internet-only customers and better sales we sell-in at promotional rates.
+Slide 7 shows our customer growth combined with our ARPU growth resulted in year-over-year residential revenue growth of 4.8%.
+Total commercial revenue, SM<UNK> and enterprise combined, grew by 5.3%, with SM<UNK> up 4.1% and enterprise up by 7.3%.
+Excluding cell backhaul and NaviSite, enterprise grew by close to 11%.
+Sales were up in both SM<UNK> and enterprise, with SM<UNK> PSU net adds at TWC and <UNK>right House up over 10% in the first quarter versus last year.
+Our revenue growth in the TWC and <UNK>right House market hasn't yet followed the unit growth, and it won't until we get the transition to more competitive pricing of both our SM<UNK> and enterprise products.
+We expect that ARPU offset will continue through 2018 and the revenue growth will ultimately following the unit growth.
+First quarter advertising revenue grew by 5.6% year-over-year, driven mostly by higher political.
+In total, first quarter revenue for the company was up 4.9% year-over-year and 4.8% when excluding advertising.
+Looking at total revenue growth, excluding advertising in each of our legacy companies, TWC revenue grew by 4.6%, pre-deal Charter grew by 5.2% and <UNK>right House revenue grew by 5.0%.
+Moving to operating expenses on Slide 8.
+In the first quarter, total operating expenses grew by $254 million or 3.9% year-over-year.
+Programming increased 5.7% year-over-year, driven by contractual rate increases in renewals and a higher expanded customer base and mix, partly offset by improved revenue benefit.
+Excluding the onetime benefit this year, programming would have grown by 6.5% year-over-year or approximately 8% per video customer.
+Regulatory, connectivity and produced content grew by 7% primarily driven by our adoption of the new revenue recognition standard on January 1, which also reclassed approximately $15 million of cost to this expense line in the quarter.
+Cost to service customers grew by 3% year-over-year, driven by the higher bad debt expense for the reasons I described.
+Excluding the temporary impact of higher bad debt expense, we are lowering our cost to service through changes in business practices and seeing early productivity benefits from insourcing, all while growing our customer base and investing in more insourcing and training.
+Marketing expenses declined by 1.8% year-over-year as the prior year period included certain transition cost and with or without that effect, our marketing and sales expenses are more efficient on higher sales.
+And all other expenses were up 2.7% year-over-year, driven by higher ad sales cost, enterprise and product development cost, offset by lower overhead cost.
+Excluding mobile, adjusted E<UNK>ITDA grew by 6.8% in the first quarter.
+The impact of the new revenue recognition standard and a few onetime and out-of-period items, including the programming item I mentioned, essentially offset each other.
+When including $8 million of clearly defined mobile start-up expenses, our adjusted E<UNK>ITDA grew by 6.5%.
+Turning to net income on Slide 9.
+We generated $168 million of net income attributable to Charter shareholders in the first quarter.
+Adjusted E<UNK>ITDA was higher, severance-related expenses were lower.
+We did not have any losses related to the extinguishment of debt as we did last year, and we had a gain on financial instruments from currency movements on our <UNK>ritish pound debt and the related hedging.
+Those positive drivers were partly offset by higher depreciation and amortization and higher interest expense.
+Turning to Slide 10, capital expenditures totaled $2.2 billion in the first quarter, primarily driven by higher spending on CPE, scalable infrastructure and support capital.
+The CPE spend was driven by higher connect volumes, continued migration of legacy customers over to Spectrum who were frequently provided with new equipment.
+We also incurred $186 million of all-digital spend, which falls primarily into the CPE category.
+The increase in scalable infrastructure was related to the timing of video spend and planned product improvements for video and Internet including spending related to DOCSIS 3.1 launches.
+We also spent more in the support category and in our vehicles, tools and test equipment, software development and facility spending; in each case, some insourcing, some related to integration.
+Given the pace of all-digital, DOCSIS 3.1 deployment and our overall state of the integration and planning, the ability to spending capital more consistently as compared to last year is in fact a good sign.
+For the full year, we continue to expect a cable capital intensity or cable capital expenditure as a percentage of cable revenue to be a bit lower than 2017.
+Slide 11 shows we generated $49 million of negative free cash flow in the first quarter versus $1.1 billion of free cash flow in the first quarter of last year.
+The decline was largely driven by higher CapEx and working capital timing this quarter where I provided a fair amount of color on overall working capital timing last quarter.
+The Q1 working capital headwind is primarily driven by the timing of our late fourth quarter CapEx spend, which drove early Q1 cash payments without offsetting intraquarter CapEx timing.
+We finished the quarter with $70 billion in debt principal, a run rate annualized cash interest expense at March 31 was approximately $3.8 billion, whereas our P&L interest expense in the quarter suggests a $3.4 billion annual run rate.
+That difference is due to purchase accounting.
+As of the end of the first quarter, our net debt to last 12-month adjusted E<UNK>ITDA was 4.46x, within our target leverage range of 4 to 4.5x.
+Earlier this month, we issued $2.5 billion worth of 20- and 30-year investment-grade notes, which will primarily be used to fund an upcoming maturity.
+During the first quarter, we repurchased 2 million shares in Charter Holdings common units, $683 million.
+And the fact that we started the year at the high end of our target leverage range as opposed to increase a leverage in 2017 mathematically means our 2018 buybacks will be less than 2017, same as I mentioned on last call.
+We may also reduce our cable leverage somewhat over the course of the year to ensure that consolidating E<UNK>ITDA remains at/or under 4.5x.
+<UNK>eyond starting point leverage, other factors also play a role in the amount of 2018 versus 2017 buybacks, including the early pace of our mobile product launch, working capital effects in consumer devices, and I don't expect we can achieve the same level of working capital improvement for cable in 2018.
+Within those constraints, however, we will remain opportunistic to preserve flexibility to create shareholder value.
+Turning to taxes on Slide 13.
+We don't currently expect to be a material cash income tax payer until 2021 at the earliest.
+Given the tax reform passed by Congress and signed into legislation last year, we estimated that the total present value of our tax assets reflecting a later NOL utilization against the lower rate has declined from just over $5 billion to about $3.5 billion.
+That decline is offset by the much larger value associated with net present value of tax reform, which drives higher free cash flow in perpetuity.
+<UNK>efore moving to Q&A, I wanted to reiterate the financial framework for the launch of Spectrum mobile service later this year.
+We believe that our entry into mobility can further accelerate customer growth and drive for penetration.
+The more customer growth we generate, the more incremental revenue we'll generate, mobile and from cable.
+Much of that revenue in the beginning will be device contract revenue, which is fully recognized on the contract date and similarly as cost of goods sold under EIP accounting, with the actual customer payments received over a longer period.
+As with any subscription business, there are upfront launch costs and acquisition activity, which creates OpEx and CapEx, which exceed the gross margin benefits in the short term.
+The more mobile customer growth we generate early on, the more E<UNK>ITDA and initial cash flow drag we'll experience in the early days.
+And over time, we expect our mobile service to generate positive E<UNK>ITDA and cash flow on a stand-alone basis with broader growth benefits to our core cable services.
+Our mobile business will eventually be fully integrated as just another cable product in the bundle from a marketing care, billing and service perspective, so no different than Internet and voice today, and it will not be a separate payable or segment as such.
+Through the launch phase, however, we'll be able to create transparency around cable performance by disclosing mobile revenue, mobile operating cost and, therefore, mobile effects on adjusted E<UNK>ITD<UNK>
+We should also be able to isolate the largest working capital impacts from the timing into cash flow from device costs and related subscriber payments.
+We'll provide additional details on the mobile business as we move through the year and as the business scales.
+Operator, we're now ready for Q&<UNK>
+Sure.
+On customer trends, look if -- we talked at length, the big driver is the nonpay disconnect.
+Had it not been for that, customer net adds particularly in TWC for video and Internet would have been better on a year-over-year basis.
+And so it's entirely driven by that issue.
+Sales are up across the company and across TWC in particular, which is, obviously, the largest driver.
+And so nonpay disconnect was the biggest factor.
+The second piece that I would highlight is that where we've increased to DOCSIS 3.1 not only were sales up year-over-year but net ads were up significantly year-over-year in those markets.
+And the issues that Tom highlighted have been addressed for nonpay takes a little while to get out of the system, so by the end of Q2 or early Q3 the disconnect side is expected to improve and is improving throughout the first quarter and we'd expect the same to continue through Q2.
+So yes, we expect the net adds to improve.
+The sales are moving very well, and so our expectation has been and remains that customer net adds will continue to improve.
+On ARPU, the residential customer ARPU, which is I think is what you're referring to as the most relevant metric, there is still a large amount of revenue reallocation from bundled pricing that goes on through Spectrum pricing and packaging.
+So I think the product ARPUs are somewhat irrelevant but the customer relationship ARPU is.
+The factors that I went through in the prepared remarks are, we had a lower rate, as you get more mature into the Spectrum pricing and packaging migration process you have a lower rate of SPP migration, which removes some of the negative ARPU factor that we've had over the past few quarters, meaning it's just a lesser impact.
+You have more services, better sales and so all of that's flowing through.
+And then we did have some minor rate adjustments which will carry through for the rest of the year.
+So without sitting back and giving guidance specifically by quarter, I think the ARPU headwinds that we've had through the initial SPP migration should be less going forward.
+The one big factor I'd mention is that single-play Internet sell-in is the other one, the amount of single-play Internet sell-in including -- has an impact to the overall customer relationship ARPU.
+And if we can get more of that for customers who are unwilling to take video, we will, and so I put that one caveat into the ARPU.
+Sure.
+Look, it's a brand-new business.
+We have a budget, we know what we plan to do, and I think using Comcast as a proxy is as good as any at this point.
+And -- but the biggest driver there is the level of subscriber acquisition.
+There's a lot of upfront subscriber acquisition cost and these are NPV-positive customer acquisitions once you get to steadier state growth, the business has a not only a positive E<UNK>ITDA, but a positive free cash flow contribution on a stand-alone basis.
+So the faster we grow, the more short-term pressure we put onto the E<UNK>ITDA and free cash flow.
+Now having said that, Comcast has been extremely helpful to Charter as we go through establishing back-office systems, and the JV should continue to help us do that.
+So is there an opportunity that the go-forward platform costs for companies are reduced by sharing in those expenses and that's the whole idea of getting into the JV.
+So I think on a relative basis because of how we're cooperating now, could we do marginally better maybe, I would say, that both companies should benefit from the JV that we've signed together.
+Yes, this is Tom, <UNK>.
+So I agree with Chris that both companies should benefit by the joint venture from an operating cost perspective and therefore the business is more valuable as a result of that.
+We will not have the same marketing strategies.
+And so we will diverge in terms of performance most likely and so really the impact is driven by the speed at which we'll roll the business out and how successful you are in the market.
+Well, Cathy, no.
+Simply, our vision of the business is what we expected several years ago and continue to expect going forward.
+We think that from the superior infrastructure that allows us to stand up highly competitive if not more competitive products than alternative networks, and we've been successfully selling and marketing our product but at the same time, going through a very complex integration of 3 very large companies to get to a single simplest platform.
+That integration is actually going quite well and pretty much as planned.
+It's -- it has lumpy aspects to it as we combine the companies in various ways.
+<UNK>ut generally, we are going exactly as we planned in creating the kind of future value that we expect to create.
+And since we told our initial story, obviously, we've done the acquisitions and we've done an entry into mobility, which we think is a natural fit to our existing infrastructure and service infrastructure and will create additional value for the shareholders that wouldn't be created without doing it.
+So we think the Charter story is fully intact and getting better as a result of the mobility.
+The -- in terms of capital intensity and free cash flow creation, I think, there are -- obviously, we're in a capital-intensive trend at the moment as we integrate and as we make our networks all-digital so that we can take advantage of the full capability of the network, which was planned.
+And -- but the long-run trend is less capital intensity, and significantly less capital intensity as our need to buy CPE goes away and as CPE costs come down.
+And there are some forces there that are even greater than we had thought.
+I mean, obviously, the change in video, the change in the video marketplace, essentially requires less capital intensity in video because with the competitors that we face and with our own profits in IP, you don't necessarily make new set-top boxes, you can move to an application-based delivery system in some situation.
+So we think that, along with decline in prices for CPE, mean capital intensity improves maybe marginally better than we might have thought previously.
+And the changes in the video business, they are significant and hard to predict, but we still think there's video growth capable inside of our asset base.
+It's fairly marginally insignificant though in this sense.
+There's very little margin in the video business.
+So whether you're (inaudible) by 1 million customers is relatively immaterial to our plan.
+And while we think that we will make a great video product available to our customers and that, that great video product will continue to help us drive the overall connectivity business we have, if we're asked in our forecast for that, it's not significantly financially material to our growth prospects.
+So I can't explain market reactions, but our activity and our project management is going as we expected and the kind of marketplace acceptance of our products is going as we expected.
+Maybe two quick thoughts.
+One is if you think around the timing of good quarter off quarter as it relates to net adds for somebody's model, a lot of people are looking for a linear outcoming, we've tried to do as fair as we can, but that's not going to be linear.
+And if you take a look back at the Legacy Charter experience, look at it on annual basis, it looks pretty linear.
+<UNK>ut if you go back and take a look at 2013 and 2014, in particular, it really was anything but linear.
+That applies to net adds and it applies to the financial results.
+And it looks choppy as we were going through it.
+So in some respects, market reaction, which I haven't focused on that much as of yet this morning is a little bit of a d\u0102\u0160j\u0102\xa0 vu.
+And we're turning a lot of knobs same as we did with Legacy Charter and (inaudible) integration, and there's a lot of moving parts but the trajectory remains as good as ever.
+The second one is on the impact to wireless where the conversations we've had with some investors is somewhat bifurcated.
+On one hand, there's a group of investors who get it and say, go as fast as you can from a competitive standpoint.
+It's the right thing to do.
+It does have a positive NPV, and it's an attractive business.
+And then there's another group who are very, very focused on the short-term impact to have it done free cash flow and what that might do to an overall growth rate.
+So one, we are going to isolate that impact so people can focus on the core value creation of the cable platform and the option value, if you want to call it that, on the mobility business.
+<UNK>ut that investment relative to the overall size of the Charter's revenue or E<UNK>ITDA is relatively small and the potential upside attached to that investment is significant.
+And I think that's the piece that is missing in terms of understanding and putting that upfront investment into perspective.
+And we're going to isolate it along the way so people, if they see this as a bet, they can the size up, size that bet and understand the relative materiality.
+<UNK>ut we think it's attractive.
+We think it's going to help us, not only add E<UNK>ITDA and free cash flow over time, but we think it's very constructive and helpful towards further Internet growth in particular in the cable business.
+No.
+I mean, the biggest free cash flow generation that you're going to see from 2019 CapEx when it comes down and that hasn't changed.
+This year we're doing all-digital, we're doing the DOCSIS 3.1.
+We still have a tremendous amount of integration capital that's inside these numbers and that essentially comes down next year.
+And in the meantime, despite some lumpiness on subscriber net adds from one quarter to the next, the financial results we mentioned in Q4 will be at the lower point on E<UNK>ITDA (inaudible) that's the case and the business is moving.
+It doesn't mean that it's going to be linear so not much treated that way, but we did hit the low point already on the financials and the business is moving in the right direction.
+<UNK>, it's Tom.
+Obviously, the markets move through time, our strategy moves with it.
+And we think that we have needed to change our product and our mix in order to take advantage of our assets and compete in the marketplace prospectively and we think that we can do that and are doing that, and our sales volume and our connect volume and our management of our customer base, pricing and packaging gives us confidence that we can continue to do that.
+Take data speeds, for instance.
+With Legacy Charter, when I came with Charter, our average data speeds was 10 megabits.
+And we took the minimum up over time to 30, and created most of our subscriber growth at 30.
+Today, in this new model, we've just gone to 200 meg minimum speed in a significant part of our market, 100 megabit speed in the bigger part of our market.
+<UNK>ut that's shifting as we rolled out this 3.1 technology.
+So we've taken advantage of the marketplace and the capacity of our network to change our data product so that it will continue to drive the kind of results we expected to get.
+<UNK>ut we are in the middle of the tooling of that process right now as we integrate the company.
+We have a vastly superior product almost everywhere we operate.
+And we expect to get results from that.
+And if we need to change that 2 years from now, we have the ability to do it at very little or very small incremental cost, which is the beauty of the infrastructure that we built out in this company.
+So, I guess the answer to your question is we have the same high expectations for free cash flow growth in this entity now based in the current marketplace as we understand it now just like we did 5 or 6 years ago.
+So <UNK>, I don't know when markets award you or don't award you.
+Ultimately, our job is to create a free cash flow that we expect from these assets.
+And we think we're on track to do that or on track with the plan that we made.
+So whether we'll get rewarded before that occurs or after it occurs, I don't know, but we expect to create the free cash flow.
+And in terms of the infrastructure that we have, we do think that we are the natural small-cell provider and that we have the most efficient ability to provide small-cell connectivity compared to any other infrastructure competitor we have.
+And we have 26 million small cells already connected to our network.
+We have 250 million wireless devices already connected to those small cells, and we plan to continue to build out the small-cell environment.
+How that relates to other business opportunities, it's hard to say, but we have them.
+Yes, that's a very interesting question.
+The short answer is no.
+And in fact, we think we'll be more productive.
+<UNK>ut we are in the middle of the transition, where we're moving from an outsourced environment to an insource environment.
+And we're creating a more professional workplace that is designed to provide higher-quality service which will improve subscriber lives and reduce transaction volume ultimately in our business.
+So we'll have less transactions per customer.
+If we have less transactions per customer we believe, and which we're trending toward every day as our operations improve and as the skill sets that we -- that are needed are developed inside the company.
+So if you think about what I just said, insourcing and outsourcing, at the moment, we decide to move calls from the Philippines to St.
+Louis, for instance.
+We have to stand up a brand-new call center in St.
+Louis.
+We have to build it out physically, so there's capital involved, and then we have to hire a workforce and train that workforce to take the calls.
+In the meantime, we're still outsourcing to the Philippines until that workforce is up and running and skilled.
+Once the workforce is skilled though, then the number of transactions that occur as a result of having a higher skilled workforce, goes down.
+And we think that the transaction volume goes down faster than the cost structure goes up by having it in-sourced call center.
+And when you have less transactions per customer, you actually have happier customers, and so they're -- not only are they less costly to serve, they're happier.
+And as they're -- and because they're happier, their average life extends, which means that average value per sale that you create goes up.
+And the number of transactions, connects and disconnect per dollar of revenue that you spend, goes down.
+So we're still in the middle of the transition process that has operating expense in it as part of the strategy.
+<UNK>ut our expectation down the road, which is part of a the free cash flow driver of the business, is that you get this virtual -- virtuous growth structure where you get better-served customers who have -- who cost you less and are happier.
+And that benefit is set to be realized from our activity today.
+<UNK>ut it is part of our plan and our expectation.
+And the numbers that we expect to generate today that will prove out that thesis are occurring as we expected.
+Just to add, the way that you can tie it to the P&L and the metrics, I think the metric you're using is actually not right because it's apples and oranges.
+So if you think about the Time Warner cable call center infrastructure at one point, you could have had 50%, over 50% was outsourced.
+Today, over 85% of that is insourced.
+If you're taking a look at employees, you're completely ignoring the amount of contract labor that's inside there.
+And so it's an apples and oranges comparison between the 2 types of operating models.
+If you look at cost to service customers, the other way to think about it, we have all of the investment that Tom just spoke about, but despite having all of that investment, and despite having customer relationship growth of over 3%, our cost to service customers gross is actually coming down, excluding this bad debt, temporary effect.
+So our cost to service customers, which is where the vast, vast majority where the labor cost exists, is already coming down on a gross basis and on a net basis, meaning on a per customer basis, it's actually already coming down dramatically despite the amount of upfront investment that we're making that Tom highlighted.
+So I think you have to normalize for what -- you can't just look at how's labor, you have to add in the contract labor, which has come down dramatically, and for some companies comprises a very, very significant portion of their overall labor cost.
+So on the improvement, yes, we had less of a negative impact from the nonpay disconnect issue, which has since been addressed throughout the quarter.
+The last of the systemic changes needed to make that -- for that to take place occurred inside of April.
+And so we expected to continue to ameliorate during the course of Q2.
+And it should be fully out by the beginning of Q3.
+So the trends are improving in that particular area.
+And I don't want to get drawn into guidance, but we wouldn't have said what we said if we didn't view that particular issue is -- was declining in its materiality.
+So <UNK>, yes, I think, we said that we got 200 megabits in front of 25% of our customer base.
+We have built out as of this moment 43% of our footprint to 1-gig speed capability using 3.1 DOCSIS capability.
+And by the end of the year, we'll have 100% of our infrastructure capable of 1 gig or 200 megabits or 400 megabits.
+We haven't said where we'll roll out 200 megabits.
+<UNK>ut it's in a substantial amount of markets today, and we'll -- and we're getting good results from it.
+We're also getting good results from our higher ultra-tier, which is 100 megabits.
+And it's selling in at a substantially higher rate than our previous set.
+So while I don't want to give you a forecast of where we go, from an infrastructure perspective, the entire network will be capable of this product mix this year.
+So this is Tom.
+As far as the ecosystem goes, we -- I think we're strategically complete in the sense that we think that we can execute our business plan with the assets that we have.
+So I don't think we need to own content to do better.
+That doesn't mean there aren't opportunities that might arise that are priced properly that would be synergistic with us.
+<UNK>ut I think we are fairly confident that we can execute our strategy, which, from our perspective, we're a connectivity company selling connectivity relationships.
+Video is not material from a margin or E<UNK>ITDA driver perspective, but it is -- as a stand-alone product, but it is material in terms of product attribute to the overall relationship that we create with customers.
+And so we will have access to video.
+We have -- we've launched Netflix on our network.
+We plan to integrate all the video products into our UI and make us the best place to get video of every kind.
+<UNK>ut that doesn't require us to own video assets per se.
+From a capital expenditure, okay, there was a proxy that was over 3 years ago used with our board that ended up being publicly disclosed.
+So I don't want to go back in time and start looking at that.
+Other than to say, we expect 2019 capital expenditure to be a materially lower amount of gross dollars of CapEx and in a growing new business, therefore, materially smaller amount as a percentage of revenue.
+We will still have integration activity going on inside of 2019.
+And so that means that we expected, as a percentage of revenue -- we expect to have continued solid revenue growth for many, many years to come.
+It means that your capital intensity just continues to decline.
+I think 2019 will be a big move, and I think it continues to get better as a percentage of revenue from there.
+I am speaking about cable capital expenditures as a percentage of cable revenue.
+I don't think wireless is that or mobility is that big given all the factors that I described before where it move through the P&<UNK>
+<UNK>ut I think 2019 starts to fully expose the free cash flow capabilities of company.
+Sure.
+So I'm glad you asked the first question in case I don't think I did, but in case I misstated.
+What I said in the fourth quarter is the fourth quarter of 2017 was the low point of E<UNK>ITD<UNK>
+I did not say that the first quarter was the low point of E<UNK>ITD<UNK>
+First quarter E<UNK>ITDA was actually pretty good.
+And, yes, I think it will -- it continued to improve over time, but that doesn't mean that, that will be linear.
+So that's certainly wasn't what I was implying.
+My comment from the fourth quarter 2017, which I reiterated today, was that the fourth quarter 2017 E<UNK>ITDA was the low for cable E<UNK>ITDA growth.
+In terms of managing leverage, what we're trying to make sure that we do is that we stay within 4.5x, inclusive of the short-term launch cost for mobile and any working capital impacts from the launch of mobile.
+And what that means is that you need to create a little bit of headroom on your cable E<UNK>ITDA leverage so that you can accommodate that upfront cost.
+So the faster we go with wireless means that you might just need to pull in a little bit on your cable E<UNK>ITDA leverage, and that's the only distinction I'm making to make sure that the consolidated leverage remains at/or below 4.5x.
+We're a large issuer in the debt capital markets as well and we have investment-grade -- we've made commitments to that market as well that we intend to keep, and that's to make sure that we stay in line from that perspective.
+Thanks, <UNK>rett.
+Michelle, that concludes our call.
+Thank you, everyone.

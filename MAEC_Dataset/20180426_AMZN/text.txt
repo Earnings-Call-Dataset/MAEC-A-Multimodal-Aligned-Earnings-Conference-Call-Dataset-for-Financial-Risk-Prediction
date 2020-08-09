@@ -1,0 +1,133 @@
+Yes.
+Sure, <UNK>.
+I would say, advertising continues to be a bright spot, both from a product standpoint, and also, financially.
+It was -- continued to be a strong contributor to profitability in Q1.
+It's now a multibillion-dollar program.
+You can see the -- in our supplemental revenue disclosure, it's in other revenue, and it's the majority of the other revenue in that line item.
+So we -- our philosophy there, again, is we're continuing to focus on finding valuable ways to make our advertising opportunities better for customers, showing them new products that they may not have seen otherwise, and also for emerging and established brands, helping them to reach customers.
+I think the advertisers, generally, are all shapes and sizes, and their common theme is they want to reach our customers, generally, to drive brand awareness, discovery, and eventually, purchase.
+Before I go on to the second question, I want to make a comment about the Prime program.
+Prime program continues to drive great strength in our top line, as you've seen over the last few years, actually.
+We continue to increase the value of Prime, including speed selection and digital entertainment options.
+We've been expanding FREE Same-Day Shipping and 1-day options.
+And our 2-day shipping, it's now available on over 100 million items, up from 20 million as recently as 2014.
+And we continue to add digital benefits, like Prime Video.
+The value of Prime to customers has never been greater.
+And the cost is also high.
+As we pointed out especially with shipping options and digital benefits, we continue to see rises in costs.
+So effective <UNK> 11, we're going to increase the price of our U.S. annual plan from $99 to $119, for new members.
+The new price will apply to renewals starting on <UNK>ne 16.
+Prime provides a unique combination of benefits, and we continue to invest in making this Prime program even more valuable for our members.
+As a reminder, we haven't increased the U.S. annual price Prime since our single increase, which was in March of 2014.
+Sure.
+On your first question about Prime penetration, without getting into any statistics on penetration and by country, I would say we do have other options for, if you'll notice, there's the monthly option, obviously provides more flexibility for people who want to try out Prime before committing to the annual plan.
+There's discounted student plans.
+There's also discounts for other groups.
+So we do feel it's still the best deal in retail, and we just work to make it better and better each day.
+The second thing you mentioned is a good example.
+So the ability in 10 cities to get Prime Now deliveries of Whole Foods groceries is an added benefit for people in that market using Prime -- those markets using Prime Now.
+So as far as the Whole Foods, specifically on the question of what'll -- what we'll look at as far as expanding that grocery delivery, we're going to use the 10 cities as a test and see how customers respond, just like we always do, and make sure that our deliveries are great for those people, and then we'll announce expansion plans once we digest that, the feedback we get from customers.
+Sure.
+So first, with the -- you've mentioned North America revenue growth, and you can calculate that with and without the impact of Whole Foods, I'm sure, but the general drivers continues to be Prime and the Prime Flywheel, so we see strong customer demand, not only for the benefits that we associate with Prime, we're seeing better engagement with Prime Benefits, especially Digital and Benefits, and that is always good news for eventual sales of other things.
+We're also selling more subscriptions, Amazon Music Unlimited, multiple -- Kindle Unlimited, there's a number of services.
+So there's different revenue streams that we see.
+So not much more I can add by product line to North America.
+Now I talk about AWS revenue, again, we're -- we are accelerating.
+We've accelerated for the last 2 quarters.
+The FX-neutral growth was 48% in Q1, up from 44% on the same basis in Q4 and 42% in Q3.
+And now nearly a $22 billion run rate.
+So what we're seeing is just continued strong usage, both by existing customers and signing new customers for -- see an increased pace of enterprise migrations as customers are having success with AWS and increasingly trying new services.
+We are seeing people move more and more of their workloads to AWS and at a faster pace.
+And customers are moving databases to AWS as their work continues to grow at a very rapid clip.
+So stepping back, I would say, what is driving the growth, we believe, again, it's the value that we create for AWS customers.
+We have the functionality and pace of innovation that others don't.
+We have partner and ecosystem that others don't, and we have proven operational capability and security expertise that's highly valued to AWS customer base.
+And on the question on capacity, excuse me, cap -- I'll address this CapEx and capital leases, we're still seeing strong investment there.
+If I look at the quarterly trends, you're right that this quarter was up 33% in isolation versus last year.
+I look back to last year's first quarter and we grew 82% year-over-year.
+So it was a particularly heavy quarter, particularly for investment and warehouses.
+So if I step back on the trailing 12 months though, CapEx, which is predominantly tied to our fulfillment center network, is up 47%.
+That is above the Amazon fulfilled unit growth rate, but we've combined the strength of the FBA program and the space requirements as we -- get into bigger and bigger products.
+That -- it's a representative number for that period.
+On the capital leases, which is a good proxy for the spend to support the AWS business, that's up 49% year-over-year on the trailing 12 months.
+So again, usage rates continue to exceed the revenue growth rates.
+Usage rates are strong, but we also have a number of projects underway that seek to increase our efficiency of our data centers.
+So there's a couple of things at play there that, hopefully, keep that number closer to the revenue growth rate.
+Sure.
+Yes, we came in well above our range that we had given of $300 million to $1 billion.
+I would attribute it primarily to a few things.
+First, the top line growth was -- continued to be strong coming out of Q4.
+We had great consumer business strength.
+We also had strong AWS revenue strength, where I already mentioned that we accelerated into the quarter, which is a different trend than we've seen recently.
+So customer adoption and AWS remained strong.
+And when we hit the higher end of our range or just above our range on -- with FX included, we generally see really good drop through on the incremental sales, given our -- the fixed costs we have in fulfillment centers and data centers, and quite frankly, people.
+So we saw great efficiencies at the higher level of revenue, and we're able to handle it.
+So that was generally very good financially.
+We -- at the time of guidance, we were concerned a bit about the high -- relatively high inventory we had at year-end in space utilizations.
+We were still very full in our fulfillment centers.
+But we were able to correct that due to the high sales without handling -- without having additional handling and transportation cost that you would normally see to reconfigure inventory locations.
+So that also helped and probably was a differential versus the guidance estimate.
+And then, lastly, I would say, advertising continues to be a strong contributor to profitability and had strong results this quarter.
+As far as what that portends for future quarters, for now, I want to focus on Q2 and it's incorporated into our Q2 guidance.
+So we expect a lot of the strength areas to continue, consumer demand, AWS and advertising.
+We will definitely see higher investments as we move through the year.
+For example, video content spend will increase year-over-year, and we'll continue to hire, in particular, software engineers.
+We'll have some cost in Q2 ahead of what's anticipated to be a Prime Day in early Q3.
+So -- and then as you know, Q3 is generally a lower quarter due to all the work to get ready for holiday and the hiring of people and building teams.
+So I won't go beyond Q2 at this point, but again, we're very happy with customer reception we had in Q1, and then, the income that that drove.
+Sure.
+Let me wax eloquently, try to anyway.
+So let's start with the $239 million, that is essentially where attributable to warrants that we have in companies that we've partnered with.
+We have transportation companies that we've partnered with and other technology companies.
+As the stock market increased in Q1, a lot of those companies also went up.
+So that's where we book the gain on warrants that we have with -- on investments.
+It's also -- there was a good bit of FX gain due to the shift in currency and the weakening of the dollar.
+That showed up on a lot of lines on the P&L, but that one was positive.
+On advertising, so let's step back a bit.
+It's now a multibillion-dollar program and growing very quickly.
+Our main goal here is to help customers discover new brands and products.
+So when we show sponsored products, we're trying to show people things that they had -- maybe wouldn't have seen otherwise in their normal search results.
+So we're looking for a good balance here, as we said.
+We want customers to get the benefit of the new brand and product discovery, and then, we want to let sellers, for both emerging and established brands, reach those customers.
+Those advertisers are all shapes and sizes with the main goal of, again, trying to reach our customers whether it's to drive brand awareness, discovery or hopefully, purchase.
+So we take the responsibility for that very seriously and are always balancing the helpfulness of the advertising and try not to make it disruptive.
+But you're right, there are always pressures in that we will come down on the side of the customer.
+On your question on video advertising, yes, there may be opportunities over time to have more advertising in our Video, but we choose to not do that right now.
+<UNK>, if you're still on, can you elaborate on the countries you're talking about, specifically.
+Oh, on the global store.
+Okay.
+Yes.
+Sorry, I thought you meant to some of our expansion countries.
+So yes, I don't have a lot to share on that today, but I think you hit on the main point, is selection and opportunities for sellers in -- who are with us in different countries to reach buyers outside of their home country.
+So it's a great benefit for sellers, and it only works if it's a great benefit for customers on the other side.
+Sure.
+Let me start with transportation.
+We have a great group of carriers that we use globally and you know who they are, but we're also growing our teams and capabilities to ensure that we can keep up with increased volume on our own, particularly around the holiday season.
+So that's driven a lot of our expansion of Amazon Logistics, it's driven the creation of sort centers, it's driven the purchase of airplanes to move product between points within our delivery network.
+So we will continue to operate with this combination of external partners and internal capability.
+We like what we see so far with our Amazon Logistics capability.
+It's well over 50% in some countries, particularly the U.K. It helps with, again, Prime Now and AmazonFresh and a lot of initiatives that we'll see, which again, we've mentioned that Prime Now is tied in with Whole Foods, now in 10 cities.
+So we think it's a core competency that we have and we need to have, and we'll continue to invest in that.
+Sure.
+We always evaluate the price of Prime in all the countries we're in, and we're looking for creative ways to reach the customer, as I mentioned earlier, create -- or excuse me, monthly plans, student plans, et cetera.
+So it's really nothing more than looking at the state of the program, the high benefit it's delivering.
+I mentioned that 4 years ago, when we last increased the price of Prime, if you get 20 million products within 2 days, today you can get over 100 million products within 2 days, and many, many, many, products within 1 day, same day, or 2 hours.
+So there's all kinds of new features that we've continually added to the Prime program.
+It's much different than it was in 2014.
+This is a reflection of that, that's a better reflection of the cost value of the program.
+Sure.
+Yes, I don't want to project relative proportions of the different segments, but what I can say is, that international continues to see the same level of investment as we're seeing in North America or have seen in North America.
+So when we add Benefits, Prime Benefits, we're probably adding them at an earlier stage of life in the Prime program internationally than we did in the U.S. So they have different dynamics.
+We think, at the end of the day, customers behave the same globally, and that they value low prices, selection and great customer experience.
+So we'll continue to make these investments in Prime.
+We'll continue to expand selection, continue to build FBA programs so that it increases selection even more and build great partnerships with sellers.
+We'll continue to accelerate shipping.
+We'll continue to lower prices.
+And sorry, I cut out -- the last person got cut off a bit.
+We'll continue to build device business globally including Alexa, which we think has great stickiness with -- in the home and I think creates a lot of value in the home and also allows you to access, over time, Amazon products better.
+We'll continue to invest in India where we're seeing great progress with both sellers, and also, customers.
+And we like the momentum we've seen there.
+The Prime program started in the first year in India, grew faster than any Prime -- excuse me, any Prime program we had seen in other countries.
+We're adding local content in India -- video content, excuse me.
+We're also adding other benefits, Prime Benefits.
+We are rolling out devices there, and we're seeing Indian developers developing skills for Alexa, and Alexa's up -- as you saw the press release, to 40,000 skills (technical difficulty) But it's -- it is important to us that they all are still delighting customers and growing to the best of their ability.

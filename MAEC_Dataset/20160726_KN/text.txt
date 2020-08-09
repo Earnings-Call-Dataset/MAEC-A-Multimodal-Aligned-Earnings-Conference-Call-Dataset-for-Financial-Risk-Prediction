@@ -1,0 +1,148 @@
+Thanks, Shane, and welcome to our second-quarter 2016 earnings call.
+I'm <UNK> <UNK>.
+And presenting with me on the call today are <UNK> <UNK>, our President and Chief Executive Officer; and <UNK> <UNK>, and our Senior Vice President and Chief Financial Officer.
+Our call today will include remarks about future expectations, plans and prospects for Knowles, which constitute forward-looking statements for purposes of the Safe Harbor provisions under applicable federal securities laws.
+Forward-looking statements in this call will include comments about demand for Company products, anticipated trends in Company sales, expenses and profits, and involve a number of risks and uncertainties that could cause actual results to differ materially from current expectations.
+The Company urges investors to review the risks and uncertainties in the Company's SEC filings, including, but not limited to, the annual report on Form 10-K for the fiscal year ended December 31, 2015; periodic reports filed from time to time with the SEC; and the risks and uncertainties identified in today's earnings release.
+All forward-looking statements are made as of the date of this call, and Knowles disclaims any duty to update such statements except as required by law.
+In addition, pursuant to Reg G, any non-GAAP financial measures referenced during today's call can be found in our press release posted on our website at Knowles.com, including a reconciliation to the most directly comparable GAAP measures.
+All references on this call will be on a non-GAAP continuing operations basis, unless otherwise indicated.
+Also, we have made selected financial information available in webcast slides, which can be found on the Investor Relations section of our website.
+With that, let me turn the call over to <UNK>, who will provide some details on our second-quarter results.
+<UNK>.
+Thanks, <UNK>, and thanks to all of you for joining us today.
+For 2Q, we reported revenue of $190 million, gross margins of 39.5%, and EPS of $0.13.
+Revenue was in line with our guidance, and we delivered gross margins and EPS that were above the midpoint of our projected range.
+Revenue in mobile consumer segment came in as expected.
+Sequentially, we saw higher microphone shipments to Chinese handset OEMs, offset by lower sales to North American and Korean customers.
+Sales from intelligent audio solutions were also in line with our expectations.
+Overall, revenue from MCE comprised 43% of total sales in the second quarter.
+As we look to Q3, we expect our MEMS microphone business to increase by more than 50% sequentially, driven primarily by new product launches and continued shared gains with Chinese OEMs.
+At our largest customer, based on market data we have reviewed, we anticipate a more moderate ramp in microphone sales to support their new handset launch compared to Q3 of 2015.
+Microphone sales over the course of this product cycle are expected to be roughly flat compared with the last cycle.
+We believe that we will maintain the number-one share position at this customer.
+We continue to see stable trends at our Korean customer on solid success of its latest flagship handset model, and remain cautiously optimistic on second-half sales to this customer as we maintain strong share across its platforms.
+In China, we saw robust demand for OEMs -- from OEMs during Q2, with revenue from these customers up 50% quarter to quarter.
+This strength was broad-based across a variety of platforms and customers.
+The growth was driven by new handset introductions, multi-mic adoption, higher value mics, as well as our share gains.
+We expect these trends and growth in China to continue in Q3 and Q4.
+In addition to MEMS microphones, we are excited to see initial adoption of intelligent audio solutions from Chinese customers that enable new applications and better performance by combining our high-performance acoustics with software and digital signal processing.
+On June 9, at its Tech World conference in San Francisco, Lenovo announced the launch of its PHAB family of devices, the first platforms to adopt the Knowles VoiceIQ smart microphone.
+With this design win, our smart microphones are integrated into an audio solution that includes multiple high-performance MEMS mics, best-in-class audio software and voice processing, to create one of the most advanced audio systems in the mobile consumer industry.
+Smart microphone opportunities increase our dollar content, move our gross margins higher, and place us in a sole-source position on these sockets.
+I remain optimistic that we will see continued design win success with our smart microphones in the second half of 2016 that should drive meaningful revenue contribution in 2017.
+In specialty components segment, Q2 sales were up 6% quarter over quarter, in line with expectations, with hearing health, timing, and capacitor sales all increasing sequentially.
+Specialty components represented about 57% of total Company revenue.
+We remain the world leader in hearing health solutions, which is a stable market that delivers above corporate average gross and operating margins, while also driving strong cash flow generation.
+Favorable long-term trends, like the rapidly aging population in developed countries, longer life expectancies, and an increasingly affluent middle-class in emerging markets, all point to growth for our solutions in the future.
+Precision devices sales also improved sequentially in Q2.
+We are seeing stronger booking trends, particularly in the telecom sector, and expect sales to continue to improve in the second half of the year.
+We were also pleased to formally launch our Versant advanced voice technology last week.
+This is a best-in-class audio solution for hearables and premium earphones, which allows the user's voice to come through clearly in noisy environments such as wind or crowds.
+This breakthrough technology offers significant advantages over existing approaches to capture clear voice and enable smaller, more ergonomic product designs.
+With this launch, we also announced our first design win on the Bragi Dash, which is already shipping to customers.
+Again, this solution includes multiple mics, two balanced armature speakers, and software, resulting in more than $5 of content per device.
+Knowles is uniquely positioned in the hearables market.
+And our expertise in MEMS mics, hearing aid speakers, and software allows us to offer customers a complete audio solution for their devices.
+We expect more design activity for this solution, and will update you on these design wins as they are secured.
+With that, I will turn it over to <UNK> to expand on our financial results and provide our guidance for the third quarter.
+<UNK>.
+Thanks, <UNK>.
+As <UNK> mentioned earlier, we reported second-quarter revenues of $190.3 million, in line with our projected range.
+Mobile consumer electronic revenues of $82 million were in line with expectations, as softer demand from the notebook market was partially offset by stronger-than-expected shipments to Chinese handset customers.
+Revenues from intelligent audio were in line with our expectations for the quarter.
+Specialty component revenues of $108 million were up 6% sequentially, and also in line with our guidance.
+Second-quarter gross margins were 39.5%, above the midpoint of our guidance due to favorable factory capacity utilization in our MEMS microphone business.
+Operating expense in the second quarter were $60 million, in line with our projections.
+Adjusted EBIT margin was 8.1% in the quarter, and non-GAAP diluted EPS was $0.13, with both metrics above the midpoint of our guidance range.
+Further information, including a detailed reconciliation of GAAP to non-GAAP results, is provided in the financial tables of today's press release and can also be found on our website at Knowles.com.
+Now, I will turn to our balance sheet and cash flow.
+Cash and cash equivalents totaled $47 million at June 30.
+For the quarter, cash used in operations was $10 million, which was $5 million better than the midpoint of our guidance range due to lower cash used in our discontinued operations.
+Cash flow from continuing operations was in line with expectations, and capital spending in the quarter was $10 million.
+Moving to our third-quarter guidance.
+We expect revenue for the third quarter to be between $225 million and $240 million.
+MCE revenue is expected to be up more than 50% sequentially at the midpoint, driven by higher volumes at our North American and Chinese OEMs.
+Specialty component revenue is projected to be flat on a sequential basis, with stable demand expected in both hearing health and precision device end markets.
+We project non-GAAP gross margin to be approximately 38% to 40%, down 50 basis points sequentially at the midpoint, due to higher anticipated scrap cost and a more moderate ramp in production levels to support a new product launch at our North American customer.
+R&D spending in the quarter is expected to be between $24 million and $26 million, up slightly from Q2 levels.
+Selling and administrative expense is expected to be approximately $32 million to $34 million, down $2 million from Q2 levels.
+We are projecting adjusted EBIT margin for the quarter to be in the range of 13% to 15%, and expected non-GAAP diluted EPS for the quarter to be within a range of $0.27 to $0.33 per share.
+This assumes weighted average shares outstanding during the quarter of 91 million on a fully diluted basis.
+We are forecasting an effective tax rate of 5% to 10% for the quarter.
+Please refer to our press release for a GAAP to non-GAAP reconciliation.
+For the third quarter, we expect cash flow from continuing operations to be approximately $10 million to $20 million, which includes $6 million in retention payments associated with the Audience acquisition.
+CapEx in the third quarter is expected to be approximately $15 million.
+As previously announced, we were pleased to complete the sale of the MCE speaker and receiver product line on July 7.
+Cash received, net of purchase price adjustment, was approximately $41 million.
+The majority of these proceeds will be used to pay down our existing debt in the third quarter.
+We expect to exit 2016 with our lowest net debt level since the spin-off from Dover in February 2014, which demonstrates the cash-generating capabilities of our core business.
+Lastly, I wanted to update the expectations for full-year 2016 that we provided earlier this year.
+While second-half revenues in MCE have softened slightly versus our earlier expectations, we continue to project modest full-year revenue growth from continuing operations.
+In addition, we expect full-year gross margins of 39%, and to exit the year with an SG&A annual run rate below our $140 million target.
+I will now turn the call back over to <UNK> for closing remarks, and then we'll move to the Q&A portion of the call.
+<UNK>.
+Thanks, <UNK>.
+I expect to see an acceleration of revenue and earnings in the second half of the year.
+This will be driven by new product launches, share gains in China, increased shipments of our intelligent audio solutions, and normal seasonal patterns.
+This is expected to result in full-year revenue growth.
+As we look to 2017, the continued need for clear communication and the transition to voice as a primary user interface will propel demand for high-performance audio across multiple end markets.
+With Knowles' capability in acoustics, software, and digital signal processing, we are solving critical customer problems and pioneering unique audio solutions that will drive higher margins and growth.
+I expect these capabilities will continue to have a significant impact on our future product roadmap, and I'm excited to see these early design wins starting to generate revenue in 2016.
+Operator, we can now take questions.
+Yes, I'll let <UNK> comment (multiple speakers).
+Yes, I'll take the gross margin question, <UNK>.
+You're right; historically our gross margins are typically higher in the second half and Q3, as a result of higher capacity utilization.
+This year, a little different.
+In order to level load our microphone production, we actually started building inventory for our largest customer midway or late in Q2.
+As a result, our Q2 gross margins, as I just mentioned, were a little higher and above the midpoint.
+But what is also results in, this level loading decreases the capacity utilization in Q3.
+In addition, related to our largest customer's new product introduction, we are incurring higher-than-expected scrap costs.
+We expect this to get resolved and go back to a normalized scrap level or a reduced scrap level in Q4 as we exit 2016.
+And again, I'd reiterate: full-year gross margins, we're on track with full-year margins of 39%.
+Yes, that's a good question, <UNK>.
+First thing I would just say is, we expect to maintain our number-one share position at that customer.
+Let's just start with that.
+But I think what we have to do is to take a step back and just say builds are not always aligned directly with demand.
+As we saw last year in the back half of the year, the builds got ahead of the actual demand with our largest customer, and we saw that big drop-off -- I mean, most of the vendors did -- in the first half of 2016.
+So if you start with the market reports that are out, that everybody reads, where our expectation is that, roughly speaking, that there should be roughly flat from year-over-year.
+You would expect that the builds would be slower in the early stages than they were last year, but we wouldn't have that big inventory correction in the first half of 2016.
+And that's what we're seeing in terms of the demand, how the shape of it has changed from the previous cycle.
+But we do expect our sales to this customer to be roughly flat over the product cycle.
+Yes.
+<UNK>, what I'd say is we typically have not been talking about share directly, about any individual customer.
+And I would say, going forward, it's really hard for us to project until we see the builds and we know everything that goes on.
+We're not -- I would say, overall, for our overall marketplace -- we're not seeing any major shifts in share, with the exception of China.
+Q2 was a very, very strong quarter for us in China.
+We do expect growth to continue in Q3 and Q4, but there's a lot of tailwinds for us with China that are very, very positive.
+So I think what we would say is, is overall we're pleased with our share position overall and where we're headed for the full year.
+Well, let me just start with -- from a perspective of sales.
+I think it's a little too early to start projecting sales in Q1.
+But assuming that we don't see this inventory correction we saw in the first half of 2016, I would say there's some opportunity for margin improvement if we don't see that inventory correction.
+Because that did impact our gross margin specifically in Q1.
+I don't know if you have any of the color on that, <UNK>.
+No.
+I think you hit it.
+I would say that I think the catalyst to improve margins beyond the 39% that we've talked about for full-year 2016 is really penetration with our intelligent audio, which typically comes in at a higher margin, given the software content.
+Well, we do track internally our new products as a percentage of sales.
+And typically it's been larger in the back half of the year, and the trend has generally been positive in terms of new product sales.
+I don't know, <UNK>, if you want to comment on new products sales at all, in terms of for the full year at all.
+Or do you have any data (multiple speakers).
+It's in the range of one-third of our sales coming from new products in 2016; two-thirds coming from mature products, which those are products that have typically been in the marketplace more than 18 months.
+I would expect that as we go into 2017, the same thing.
+As we make penetration with intelligent audio, that percent of sales derived from new products will increase.
+Yes.
+Let me comment first on the Versant.
+I would just say is without the Audience acquisition, we would not be where we are today in terms of Versant.
+I think what we have to realize here is that it's driven a lot of opportunity for us, with software and mics and speakers from the hearing aid side to increase the content per headset.
+And I'd give though just, <UNK>, one example.
+I have the Bragi Dash.
+I have one myself.
+And I have been driving down the road, which I've never been able to do in my convertible with the top down, going 50 miles an hour, and I can talk clearly to someone on the other side.
+It really, quite frankly, is quite amazing what the team -- which is a combination, again, of the acoustics team, both microphones, speakers, and also the software team with former Audience out in Mountain View -- of what they put together.
+Really kind of incredible.
+Our goal now is now that we've got this first design win and we have proven the technology out, is to start expanding this to, I would say, to other customers.
+Okay.
+Well, thanks, Shane, and thank you everyone for joining us today.
+As always, we appreciate your interest in Knowles, and look forward to speaking with you on our next earnings call.
+Thanks and goodbye.

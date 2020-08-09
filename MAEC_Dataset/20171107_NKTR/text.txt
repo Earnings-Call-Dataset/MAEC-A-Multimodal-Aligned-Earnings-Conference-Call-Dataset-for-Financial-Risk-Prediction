@@ -1,0 +1,109 @@
+Thank you, <UNK>
+Thanks to everyone for joining us today for our third quarter conference call
+On today's call we will review the many upcoming milestones for Nektar's pipeline over the next six months, including our plan submission of an NDA for Nektar-181 and the continued advancement of our I-O portfolio, including Nektar-214, Nektar-262 and Nektar-255. We will also update our financial guidance for the remainder of 2017. As you know, we will see many of you at the SITC Conference at the upcoming analyst event and we plan to discuss our Nektar-214 program and the rest of our I-O portfolio in more depth at the event
+So, we'll keep our comments brief today in anticipation of the important presentation with our clinical investigator panel on Saturday
+First let's review the substantial progress we've made with Nektar-181, which has emerged not only as a critically important new potential medicine to treat patients with moderate-to-severe chronic pain, but also as an important building block in our nation's effort to solve the opioid public health emergency and stem the tide of new opioid addiction
+As you know our data package for Nektar-181 includes an extensive amount of efficacy and safety data in over 2,100 patients and healthy subjects
+This includes our 600-patients Phase 3 efficacy trial, our two-human abuse potential studies, our 630-patient long-term safety and efficacy trial as well as a wide range of PK and PD studies of therapeutic and supra therapeutic doses of Nektar-181 in over 450 healthy volunteers
+Our CSO, Steve Doberstein and our Head of Regulatory, Carlo DiFonzo, recently led discussions with the agency in a Type C meeting in October to discuss our plan to submit an NDA for Nektar-181 for the treatment of moderate-to-severe chronic low back pain in patients who are new to opioid therapy also known as opioid naïve patients
+I also participated in the meeting
+We had an extremely productive conversation with the agency and they clearly recognized the opioid crisis and as a result of their input, we're planning to submit an NDA with the current extensive data package we have for Nektar-181. Since we only recently completed the meeting, we are awaiting final minutes from the agency
+The staff indicated that a single efficacy trial for approval of a new molecular entity opioid to treat chronic pain will be a review issue and the NDA will also likely go to the Advisory Committee for discussion and recommendation
+In the recent meeting, the agency also confirmed that the overall safety database is adequate for an NDA submission, the agency further confirmed that Nektar has an adequate human abuse potential assessment data package to support an abuse potential assessment review in the NDA and that both the abuse potential package and the safety database appear to be adequate to warrant a discussion of a less than C2 schedule
+As a result of these positive conversations, we've already requested a pre-NDA meeting
+To prepare for NDA submission, we are currently completing the final steps needed for the NDA which includes real-time stability studies for the CMC module
+We are on track to submit the NDA in April of 2018. The opioid abuse and addiction epidemic has clearly become a central focus of the FDA, Congress and the White House
+It is one of the few truly bipartisan issues facing our country and we've heard from our discussions with all these stakeholders
+I personally have had the privilege of meeting with the White House and key members of Congress to discuss the importance of Nektar-181 as a tool to help in the fight against the growing opioid epidemic
+In the past several months I have also participated in a number of important government-led initiatives to discuss opioid abuse topics, including a meeting of the President's Commission on combating drug addiction and the opioid crisis, which was led by Governor, <UNK> <UNK>tie and an HHS Secretary roundtable on opioids led by Dr
+Elinore McCance-Katz who is the first Assistant Secretary for Mental Health and Substance Abuse
+Steve Doberstein also has been actively involved with the leaders from the NIH and NIDA as a participant in the public-private initiative to address the opioid crisis
+In all of these meetings our scientific research and clinical data for Nektar-181 have been acknowledged as an extremely important part of the solution to help prevent the next generation of opioid addiction in this country
+As the first new full mu opioid agonist molecule to be developed in over 50 years, Nektar-181's unique inherent properties position the drug to not only help stem the rate of new addiction to conventional opioids, but also to reduce diversion of prescription pain medicines for abuse
+The comprehensive Nektar-181 data established the potency of its analgesia, its low abuse potential, its favorable safety and physical dependency profile and the strength of its molecular structure, which can't be tampered with broken or converted into a rapid acting euphorigenic opioid form
+We're also actively engaged in conversations with potential commercial partners for Nektar-181 so that this important new medicine can be made available to patients
+Moving on to Nektar-214, we're very excited about the maturing data from the ongoing trial for Nektar-214 in combination with nivolumab
+As a T-cell growth factor Nektar-214 provides an important and singular new mechanism in immune oncology
+NEKTAR-214 acts as a biased agonist on the IL-2 pathway to expand specific cancer-fighting T cells and natural killer cells directly in the tumor microenvironment in cancer patients
+It also increases expression of PD1 on these immune cells
+This positions Nektar-214 to provide clinical benefits in many patients who currently can't respond or response sub-optimally to checkpoint inhibitors
+Further Nektar-214 could be administered on an antibody like dosing schedule with an exceptionally favorable tolerability profile in combination with a checkpoint inhibitor
+There are simply no other I-O cancer treatment of its kind in development
+Many of you have already seen our press release this morning for the upcoming SITC presentations, we have seven different abstracts being presented for our I-O portfolio
+As you saw this morning the pivot Nektar-214 nivolumab abstract contains highly compelling preliminary efficacy data for the first set of 16 melanoma and RCC patients in dose escalation, which has at least one post baseline scan by the end of July
+Clearly these early data that show strong response rates in the first set of patients are exciting and earned us an oral presentation at SITC
+For Dr
+Diab's oral presentation on Saturday, November 11, he will present efficacy and safety data from the full 38 patients in the entire dose escalation portion of the pivot trial, including non-small cell lung cancer patients who are PDL1 negatives and have progressed on prior chemotherapy
+As I stated earlier, we're not going to go into much more detail today as the presentation is this weekend
+We continue to be extremely pleased with how the data are maturing and how Nektar-214 is clearly emerging as a differentiated I-O asset that has strong synergy with checkpoint inhibition, particularly in PDL1 negative patients as an area of high unmet need in today's treatment paradigm
+Nektar and Bristol are continuing to enroll patients in the expansion cohorts in the Phase 2 stage of the pivot trial across multiple tumor indications, enrollment is proceeding rapidly with approximately 50 patients already dosed in the expansion
+At SITC we'll provide more insight on these expansion cohorts and discuss how our data from the dose escalation phase of the study is shaping our planning for the future development of Nektar-214 including potential registrational trials of Nektar-214 with nivolumab or other checkpoint inhibitors
+Our objective is to position Nektar-214 as a keystone therapeutic in I-O and the emerging data from the PIVOT studies reinforces that this objective is achievable
+In addition to the PIVOT trial, we're also conducting the PROPEL trial, which is designed to show that Nektar-214 is also synergistic with other checkpoint inhibitors TCENTRIQ and KEYTRUDA
+Based on its mechanism as a T-cell growth factor we believe that Nektar-214 could be combined with many other agents beyond checkpoint inhibition as well
+For example, at ASCO earlier this year, we showed that after Nektar-214 treatment we observed an increase in ICOS-positive CD8 T cells, suggesting Nektar-214 plus an ICOS agonist could be a rational combination
+Another example that we mentioned in the past is the work we have underway with Takeda in liquid and solid tumors with five separate Takeda clinical compounds
+We expect to have our initial preclinical data from these combinations before the end of this year
+As you know in addition to Nektar-214, Nektar is developing a broad portfolio in immune oncology and we will present the development plans for this portfolio at our IR event at SITC
+The portfolio also includes Nektar-262 a TLR agonist and Nektar-255 an IL-15 candidate, which can stimulate both NK cells and memory T cells
+The preclinical data for the 214-262 combination are particularly compelling
+We are on track to file the IND for the combination trial of Nektar-262 and Nektar-214 by the end of this year in order to dose our first patients in early 2018. As a novel small molecule TLR agonist Nektar-262 was designed specifically to be administered with Nektar-214 and most importantly would give Nektar our first wholly-owned combination regimen in I-O
+Before I hand the call to <UNK> for brief discussion on our partnered portfolio and financial guidance, just a quick note on the progress of Nektar-358 with our new partner Lilly
+This morning Nektar and Lilly presented very strong proof-of-concept preclinical data for Nektar-358 at the 2017 American College of Rheumatology Annual Meeting in San Diego
+The collaboration with Lilly is progressing extremely well
+The project team composed of Nektar and Lily researchers and clinicians is working closely together to shape the development of Nektar-358 and Nektar-358 is advancing through the Phase I single ascending dose escalation trial in healthy volunteers
+As a reminder, the first Phase 1 study evaluates safety, tolerability and mechanism-based immunological biomarkers associated with the pharmacodynamics of a single subcutaneous doses of Nektar-358. Lilly and Nektar are planning to start the Phase IB trial, which will be multiple ascending dose escalation study of Nektar-358 in early 2018. The Phase Ib trial will include evaluation of Nektar-358 in both healthy volunteers and patients with lupus
+With that, I'll hand the call over to <UNK>
+And we've also broken down the data by patients who are PDL1 positive and negative
+Well look I can't comment on the expedited review because we have to -- we have to submit our NDA and then the FDA can make decisions on how they want to proceed
+I can tell you that as I said earlier, we've had discussions -- intense discussions with the White House Members of Congress and all the parties that are principally involved in dealing with his opioid crisis and I think there's a general high level of interest in Nektar-181. That said Nektar has evolved into an immuno oncology company if you look at our portfolio in immune on immuno oncology with 214 and 262 and 255 and I'm not even discussing the things that we have at the preclinical stage prior to that
+I think we clearly plan to find a partner for Nektar-181. We don't intend to become a pain company
+We're focused on immuno oncology and therefore a partnership on 181 is still absolutely in the plans
+No, that didn't come up at our meeting with the FDA and I think we recognize that at this point we have data in and chronic lower back pain on opioid naïve patients and that's what the NDA submission will be based on
+I think given the fact that there's a significant opioid crisis, I can't comment on how narrow or broadly the FDA wants to review this at this stage, but I certainly don't think they have any concern with the statistical design of the study that we run
+It could be limited to opioid naive patients, that's entirely possible, but also remember, also remember that that's the population that is directly affected by the opioid crisis
+You have patients that are already addicted to opioid and Nektar-181 is not the solution for helping them with their addiction problems
+This potentially could be, but it's not -- that's not necessarily what we looked at
+If you look at the patients who are opioid naïve, patients who have chronic or back pain for example who have not taken an opioid in quite some time, those are the patients that are subject to the problems that we see with the current crop of opioids and we hope to make a big impact there
+So, I don't see that as being an issue either way
+The partnership we're looking for would be global in nature
+Of course, there's certainly more significant opioid crisis in the U.S
+than there is ex U.S
+but the partnerships that we're looking at would span the globe
+or European-only partnership
+Well there are criteria for that and it's generally -- it's generally patients who have not had opioids in six months or taking less than 10 morphine equivalent units
+There are some guidelines for that
+So, I think opioid naïve patient doesn't mean a person who has never taken an opioid
+It means that they haven't taken an opioid recently or they're on a fairly low dose of opioids
+We used those guidelines in our trial
+So, when we studied opioid naïve patients, we follow the guidelines that the general population and that the FDA looks at for the definition of opioid naïve
+Yeah look I think -- look the FDA has to take our submission
+They have to file it
+They have to review it and then we will -- then they will engage us in discussions and as I said earlier, the issue of one efficacy trial was a review issue, it will ultimately most likely go to an ad-com for discussion
+But I think we were very pleased with the FDA clearly recognized that there is a major opioid crisis in this country and understand that we put almost all of our effort into the human abuse potential side and the safety side
+I think is very little debate that mu-opioid agonists are good analgesics
+That doesn't need a lot of scientific proof and we all know what this molecule is
+It's very well-defined
+It's very well characterized
+The real issue is, can you demonstrate that you don't cause abuse, that you don't cause likability, that you don't cause the kinds of problems associated, safety problems associated with the current opioids and I think we did that in a very meaningful way and that's where we put all of our effort into trial, into the abuse potential side and the safety side and we have an incredibly powerful safety database
+So, on a risk-benefit ratio, reward ratio there is very little risk connected to Nektar-181 and there is lot of potential reward
+And I think that's how we approached it
+In terms of scheduling, the FDA did say that they believe our data package is adequate to allow the discussion -- to allow the discussion as to whether we should have labeling that is better than C2 that would be three or four
+Obviously, that's a review issue
+They're not going to comment now on whether they believe that our data package is adequate for that, but they clearly stated that they believe we have enough data so that it warrants that discussion and quite frankly it's all going to be review issue at that point
+Look the FDA will never tell you please file it
+We're going to -- please submit it, we're going to file it, they're never going to tell you that until you get it and they review it for the first pass
+What they did say is that the issue of one efficacy trial will be a review issue
+They did say that they plan to bring it to an ad-com and they did recognize the opioid crisis and they did say that they hope to move this program forward
+And quite frankly like I said earlier, we don't have the minutes back from the meeting yet
+So, I got to review the minutes when we get those back, but you know the FDA never tells you go ahead and file your -- submit your NDA
+We're going to file it
+They don't do that
+So, it was a very encouraging meeting
+They recognized that there is a major opioid crisis
+I think everybody recognizes that the opioid agonists are good analgesics and I'm hopeful that we move this drug forward as rapidly as possible
+Well, thank you for joining us today
+I think we've been working very hard at building our I-O portfolio
+We hope to see many of you, if not all of you at SITC and it should be a very interesting meeting
+And again, I want to thank all the Nektar employees and scientists for all the incredibly hard work they put into making what I think is one of the best I-O portfolios in the business
+So, thank you everybody

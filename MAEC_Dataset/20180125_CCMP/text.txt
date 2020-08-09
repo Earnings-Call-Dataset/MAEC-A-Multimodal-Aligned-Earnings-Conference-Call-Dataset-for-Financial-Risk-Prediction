@@ -1,0 +1,246 @@
+Thanks, <UNK>.
+Good morning, everyone, and thanks for joining us.
+Before we get started, I'd like to note that on December 12, we announced Bill <UNK>'s retirement after nearly 15 years of service as our CFO and the appointment of <UNK> <UNK> as our new CFO.
+I want to thank Bill for his many contributions to the company over the years and welcome <UNK> to his new role.
+Bill, we'll definitely miss your leadership, and I want to thank you for your service to the company.
+We all wish you the best in your future endeavors.
+Thanks, Bill.
+I'm delighted to introduce <UNK>, who brings over 20 years of broad and deep experience in a range of business environments, most recently as the CFO at Stepan Company, a $1.8 billion publicly-traded specialty chemicals company supplying materials to a variety of consumer and industrial end markets.
+I look forward to the leadership and expertise that he will bring to his new role.
+<UNK> will discuss our financial results later in the call.
+This morning, we announced results for our first quarter of fiscal 2018, and we are excited about our continued strong execution and performance.
+We achieved another record level of quarterly revenue and very strong operating performance, driven by the continued successful execution of our strategic initiatives and healthy semiconductor industry demand.
+We continued our momentum from last year in 3 key product areas: CMP slurries for polishing tungsten, dielectric slurries and CMP pads.
+During the quarter, we realized record revenue of $140 million, approximately 14% higher than in the same quarter last year.
+Our gross profit margin was 52.9% of revenue, our highest level since 2002.
+<UNK>ke most publicly-traded U.<UNK> companies, our net income was significantly impacted this quarter by the onetime effects of U.<UNK> tax reform enacted in December, which resulted in a GAAP loss of $3.1 million or $0.12 per share.
+However, non-GAAP net income this quarter was a record $31 million, and non-GAAP diluted earnings per share were $1.19, both excluding the onetime impact of tax reform as well as amortization expense related to our 2015 acquisition of NexPlanar.
+Non-GAAP net income increased by approximately 33%, and non-GAAP earnings per share increased by approximately 29% compared to last year.
+In addition, we continued our strong cash flow generation trend with cash from operations of $31 million.
+<UNK> will provide more detail later in the call.
+To provide some context for our first quarter results, let me offer some perspectives on the global semiconductor-industry environments.
+As forecast by several of our customers and industry analysts, industry demand was firm during the December quarter, and our results are consistent with this as well as the expectations we discussed during our Fourth Quarter Conference Call in October.
+Reports suggest that overall semiconductor demand was driven by a continued robust memory market, generally due to the growing requirements for storage in a wide range of end-use applications as well as a healthy logic market, driven by mobile product launches.
+As for the March quarter, recall that it is historically seasonally soft, although the consensus is for an overall continued strong demand environment in calendar 2018.
+Views from various sources suggest that memory demand should remain firm, but industry participants more closely tied to logic may experience softer demand conditions during the March quarter.
+We serve all semiconductor manufacturers and have broad exposure across the memory, foundry and logic sectors.
+And through January, we are seeing continued solid demand for our IC CMP consumables products.
+As in previous years, we remain mindful of potential order fluctuations and volatility around the Lunar New Year, which this year begins on February 16.
+Later in the call, <UNK> will provide commentary on our current view on revenue for the March quarter.
+Considering a longer-term view, 2 weeks ago, our company participated in SEMI's Industry Strategy Symposium, or ISS, in California.
+This annual event early in the calendar year represents a great opportunity to compare views with other industry participants.
+The theme of this year's conference was smart, intuitive and connected semiconductor devices transforming the world.
+Discussion focused on future drivers of semiconductor demand, including: cloud connectivity, which should continue to drive strong memory demand; as well as augmented reality; artificial intelligence; automotive applications; high-performance computing; and cryptocurrencies, which should all be drivers of advanced logic.
+The event emphasized that the semiconductor industry is delivering evermore sophisticated semiconductor devices through collaboration across the supply chain, which are transforming electronics.
+Higher-performing chips with smaller feature sizes and requiring lower power consumption can only be realized through innovations in equipment, materials, design and packaging technologies.
+We believe we are well positioned to benefit from these longer-term industry trends and remain confident about the critical role highly-engineered materials and highly-formulated CMP solutions like ours will play in the semiconductor industry going forward.
+Now let me turn to company-related matters.
+During the quarter, we experienced strong demand for our tungsten and dielectric slurries and pad solutions across a wide range of applications and technology nodes.
+This drove approximately 11% year-on-year revenue growth for the quarter for our IC CMP consumables products.
+Of particular significance, we also achieved year-on-year revenue growth for the quarter of approximately 34% in China and 36% in Korea.
+Our strong positions in these countries are notable, given industry expectations for long-term overall semiconductor growth in China and continued memory growth in Korea.
+Turning to CMP slurries, during the quarter, we continued to grow with the ramp of our customers' advanced technologies, including 3D NAND and FinFET.
+As we have discussed in the past, 3D NAND and FinFET applications require more CMP steps, mainly tungsten and dielectrics.
+In particular, 3D memory requires roughly twice the number of CMP steps as 2D, and many of those steps are tungsten.
+This growth opportunity is significant for our business, given our leadership in this product area.
+We expect the industry transition from 2D to 3D memory will continue over the next several years.
+As a result, we achieved record revenue in our tungsten product area in the first fiscal quarter and year-over-year revenue growth of approximately 14%.
+Over the years, we have seen sustained revenue growth from our tungsten products, which reflects our continued leadership and commitment to this important product area.
+In addition, we achieved significant growth from our dielectric slurries with revenue up approximately 8% compared to the same quarter last year.
+This was primarily driven by demand for our ceria and colloidal silica-based dielectric solutions for advanced applications.
+We believe these CMP solutions provide benefits of higher removal rate, improved defectivity and lower cost of ownership.
+Dielectrics represents the largest application within the CMP slurries market.
+Here, we expect continued growth as we aim to displace incumbents and replace some of our own legacy solutions and continue to improve profitability.
+Turning to CMP pads.
+This quarter, we achieved record revenue and year-over-year revenue growth of approximately 16%.
+This was driven by continued strong customer pull for our products.
+We have a rich pipeline of new pad business opportunities spanning a wide range of customers and applications.
+We continue to leverage our global sales channel and technical resources to speed the qualification and adoption of our pad offerings as we have previously discussed -- and as we previously discussed, we continue to experience significantly shorter qualification times than in years past, given the unique attributes of our NexPlanar technology.
+We've recently broadened our product portfolio with a family of new pad configurations and continue to win new business for advanced and legacy applications.
+We continue to believe we can grow our pads revenue to over $100 million in fiscal 2019, which would reflect compound annual growth of at least 20%.
+I'm pleased to report that during the quarter, we were awarded a Best <UNK>pplier Award from SK hynix, a leading memory device company and a strategic customer.
+We were one of only 5 recipients and the only CMP slurry and pad supplier to be honored by SK hynix.
+This award is their highest level of supplier recognition.
+Our company was recognized for delivering best-in-class CMP slurries and pad solutions for their NAND flash and DRAM applications and demonstrating outstanding performance in technology innovation.
+We believe this recognition, along with the many other awards we have won over the years from a number of other important customers, is evidence of our long-term commitment to collaborating closely with our customers and our ability to deliver a broad portfolio of best-in-class CMP solutions to the highest standards for quality, performance and technology.
+Over the last several years, we've been very focused and committed to performance and growth in our 3 key product areas: slurries for polishing tungsten; dielectric slurries; and CMP pads, including slurry and pad consumable sets.
+Looking forward, I am confident of continued momentum in these areas, which we believe provide the foundation for continued profitable growth for our company.
+We remain focused on delivering innovative, high-performing and high-quality CMP solutions.
+We believe that ongoing effective execution in these key product areas, combined with our focused business model and global resources, capabilities and infrastructure continue to differentiate us among leading suppliers of specialty materials to the semiconductor industry and position us well to deliver another year of strong performance.
+And with that, I'll turn the call over to <UNK> for more detail on our financial results.
+Thanks, Dave, and hello, everyone.
+I'm honored to join the leadership team of Cabot Microelectronics and look forward to building upon the very strong foundation that already exists within the company.
+We have a tremendous opportunity for continued growth given the strength of our business and the industry in which we operate.
+Revenue for the first quarter of fiscal 2018 was a record $140 million, which represents an approximately 14% increase from the same quarter last year.
+This increase reflects the continued successful execution of our strategic initiatives and continued strong global semiconductor industry demand that we have seen over the last 7 quarters.
+Drilling into each -- drilling into revenue by product area.
+Tungsten slurries accounted for 45% of total quarterly revenue.
+Revenue in this area was up 14% compared to the same quarter last year, and we achieved record revenue of $63 million in the current quarter.
+Our tungsten growth was driven by strong demand from both memory and logic applications, including 3D, memory and FinFET.
+We expect this key product area will continue to drive profitable growth for our company.
+Dielectric slurries, representing the second key product area, provided 23% of our revenue for this quarter with sales up 8% from the same quarter a year ago.
+We look forward to winning more business in this area with our higher-performing, lower-cost and higher-profitability products.
+Sales of polishing pads, our third key product area, represented 13% of our total revenue for the quarter and increased 16% compared to the same quarter last year.
+This product area achieved record revenue during the quarter.
+Sales of slurries for polishing metals other than tungsten, including copper, aluminum and barrier, represented 12% of our total revenue and increased 4% from the same quarter last year.
+Finally, quarterly revenue from our Engineered <UNK>rface Finishes business, or ESF, which includes QED technologies, represented 6% of our quarterly -- total quarterly sales and was up 70% compared to the same quarter last year.
+Gross profit was 52.9% of revenue compared to 49.9% in the same quarter a year ago.
+This includes $1.2 million of amortization expense related to the NexPlanar acquisition.
+Excluding this, non-GAAP gross profit was 53.8% of revenue, which is up 290 basis points compared to last year.
+Factors impacting gross profit for the quarter compared to last year include higher sales volume, higher value product mix, partially offset by higher fixed manufacturing costs, including higher incentive compensation expense.
+Our full fiscal year GAAP gross profit guidance range is 50% to 52% of revenue, which remains unchanged.
+This includes approximately 100 basis points of NexPlanar amortization expense.
+Now I'll turn to operating expenses, which include research, development and technical, selling and marketing and general and administrative costs.
+Operating expenses this quarter were $36.9 million, including $0.5 million of NexPlanar amortization expense.
+Operating expenses were $3.5 million higher than the $33.4 million reported in the same quarter last year, primarily due to higher staffing-related expenses, including cost related to the company's CFO transition and higher incentive compensation expense.
+We currently expect our GAAP operating expenses for the full year to be between $145 million and $150 million.
+Our prior guidance range was $142 million to $147 million.
+This includes approximately $2 million of NexPlanar amortization expense.
+Recall that we typically experience an increase in expenses in the March quarter due to certain factors related to the new calendar year, such as merit salary increases, higher payroll taxes and also costs around our annual meeting in March.
+Operating income from the quarter represented 26.5% of revenue, which is 370 basis points higher than the same quarter last year, a significant year-over-year increase representing operating leverage driven by revenue growth combined with the company's ongoing attention to controlling costs and progress toward achieving our multiyear financial objective of expanding profit margins, which we introduced during fiscal 2017.
+Our reported effective tax rate for the quarter was about 108% compared to 20% in the same quarter last year.
+The significant increase is primarily related to the onetime impact of U.<UNK> tax reform, which increased our income tax expense by approximately $33 million.
+Excluding this onetime effect, our tax expense would have been approximately $7 million, and our tax rate would have been 19%.
+We currently expect our effective tax rate for the rest of the fiscal year to be within the range of 21% to 24%, including the benefit of a lower tax rate in the U.<UNK> Before the enactment of tax reform, we had estimated between 24% and 27% for the full fiscal year.
+The additional income tax expense associated with tax reform resulted in a net loss for the quarter of $3.1 million.
+But non-GAAP net income was $31.1 million, excluding this onetime impact and the previously mentioned amortization expense.
+Non-GAAP net income was approximately 33% higher than the same quarter last year and increased primarily due to the higher revenue and higher gross profit margin, partially offset by higher operating expenses.
+We reported a diluted loss per share of $0.12 this quarter, or diluted earnings per share of $1.19 on a non-GAAP basis, excluding the onetime impact of tax reform and the referenced amortization expense.
+Non-GAAP diluted earnings per share were approximately 29% higher than in the first quarter of fiscal 2017.
+Now turning to cash and balance sheet-related items.
+Capital investments for the quarter were $4 million.
+For the first -- for the full fiscal year, we continue to expect capital spending to be within the range of $18 million to $22 million.
+Depreciation and amortization expenses for the quarter were $6 million, and we generated cash flow from operations of $31 million.
+We ended the quarter with $426 million in cash and short-term equivalents and $141 million of debt outstanding.
+So net cash was approximately $285 million.
+Our strong cash generation model has enabled us to implement a balanced capital deployment strategy over the years, for which our priorities continue to be: funding organic investments to improve our global capabilities and our core CMP consumables business, paying dividends, acquisitions in closely related areas and share repurchases.
+We expect the tax reform will provide greater flexibility as we continue to implement this balanced approach with less friction in repatriating cash to the U.<UNK> I'll conclude my remarks with a few comments on demand for our IC CMP consumables products.
+During the first fiscal quarter, we saw a 3% sequential increase in revenue from our IC CMP consumable products compared to the fourth quarter of 2017.
+This is in line with the expected slight increase that we referenced during our call in October.
+Earlier, Dave talked about a range of general industry expectations for continued firm demand for memory devices and somewhat softer demand for logic devices during our second quarter of fiscal 2018.
+Within this environment, we currently expect demand for our IC CMP consumables products in the March quarter to be flat to slightly higher than the record level of revenue we achieved in our first quarter.
+This is notable since the March quarter is traditionally seasonally softer than the December quarter and sometimes includes volatility in orders around the Lunar New Year holiday.
+However, I would caution that we have some limited visibility towards near-term revenue.
+To summarize, from a financial standpoint, we've now delivered strong performance for 7 consecutive quarters and achieved another record level of quarterly revenue, along with strong operating performance and cash flow for our first quarter of fiscal 2018.
+Our expectations are for continued firm near-term demand, sustained solid gross margin performance and ongoing prudent management of operating cost.
+Based on all this, we believe we are well positioned to deliver another successful -- a year of another successful performance in fiscal 2018.
+Now I'll turn the call back to the operator as we prepare to take your questions.
+Yes, <UNK>.
+This is <UNK>.
+Good question.
+I think as you think about the P&L, we've had a number of reclasses and some moving parts within each of the buckets.
+So I think the best way to look at that for the quarter is to focus on the total operating expenses.
+And as we think about those expenses, at the December quarter last year, were $33.5 million going to $36.9 million this time with the primary item being the cost related to the CFO transition, of which the majority of that is related to cash and noncash items for the longer-term items that were related to Bill's performance over a long period of time with the company.
+So it's going to be -- it's difficult to look at those buckets, it's a good question.
+But if we focus on the total, we can drill it down to that item.
+So I'll take that, at least the first part here, <UNK>.
+And our raws are favorable year-over-year.
+And I think in the prior quarter, we talked about raws being higher based on previous contract prices, and those were working the way through our balance sheet and also ultimately through the P&L.
+So that is behind us now from an impact perspective in the total quarter.
+The largest raw material that we have are the abrasive products that you mentioned, where we have a buying agreement with the former parent company, which -- Dave, I don't -- if you have a comment about 2019.
+Yes, I think, I'll be just going -- looking beyond, I think we've been very effective to control our raw material costs, and we would expect that to continue to be the case going forward.
+Our -- you referenced the former parent, that's one of the article suppliers we currently use.
+There are several others as well.
+So I wouldn't want to put a number out there beyond 2019, but you would expect continued strong management of the supply chain as we've demonstrated in the past.
+Yes, thanks, <UNK>.
+We continue to see memory as a really important driver of growth for us.
+As we've mentioned, that transition especially on the NAND side, going from 2D to 3D, is really still in the relatively early stages.
+So you mentioned SK hynix, who -- we received their highest-supplier honor this past quarter, a really important customer of ours.
+And if you look at that overall conversion, we're still about -- we would estimate, or based on what's out there today, only about 1/3 of the 2D NAND today from a wafer start basis has been converted to 3<UNK>
+So still a lot of runway to go.
+And I also saw their comments about the kind of continued strong demand in DRAM and continued expected strong demand in NAN<UNK>
+So that's a really important part of the business for us, of course.
+That transition is really key as well because there's a doubling of CMP steps and so -- and most of those are tungsten and dielectrics.
+One thing I'd comment also is, when they talk about some of the growth rates, memory, of course, is really sensitive to the pricing.
+So when they talk about what their expectations for growth are, some of those are intermixed with what they expect the ASPs to do as well.
+But overall, we see a really strong memory growth environment.
+That was also a consensus at ISS, that memory is going to drive the unit growth in 2018, and that should position us really well for continued growth in that area as well.
+Right.
+So we've gone through many, many cycles as part of the industry, and the memory pricing from our customers is something that really, for us, when I think there's -- what we've seen historically is when there's pressure on memory pricing, it's really not as profound of an impact on materials, but they may pull in CapEx.
+So it may impact the equipment side a lot more.
+What happens with the material side is they have those really significant investments in place with their fabs, and they just continue to run them.
+So from a material side, although the CapEx or equipment side may be peaking, we see the material side is still a lot of upside going forward and not as affected by memory pricing at the end markets.
+Well, Mike, we -- we've benefited here from a great history of cash and operating performance.
+So we do sit here in a position of strength today in terms of where we're coming from and opportunities for the future.
+I think as we outline our deployment of capital priorities going forward, they continue to be as they've been in the past with spending on organic growth to drive the business; paying dividends, which we've recently initiated, and we have continued to do; M&A; and then share repurchases as a fourth.
+We won't comment a lot about the M&A pipeline, but we're very cognizant about where we sit from a capital deployment perspective, where we sit with the balance sheet today.
+We're going to continue to look at M&A.
+That is going to leverage our core capabilities, and then also, it needs to be actionable, of course.
+So there's a lot of activity going on.
+We're working very hard.
+We would hope at some point to be able to speak about some of those things, but we're going to continue with the cash deployment that has been a strength, I think, in terms of staying disciplined in the past, but we're also interested in using our capital strength to help drive the future of the company.
+Right.
+So <UNK>, first, just for context, we're coming off a record quarter for dielectrics last quarter, and we still saw year-over-year growth.
+So quarter-to-quarter, there's going to be some volatility, but we're really excited.
+We're, obviously -- about just the execution of our strategy.
+And just to remind, we're really trying to transform that portfolio.
+So we've introduced really 2 new families of products: one is ceria-based, and one is colloidal silica-based.
+Both of them offer better cost of ownership, better performance, a better defectivity.
+In some cases, we're replacing ourselves.
+In some places, we're replacing incumbents, so we've seen a lot of really encouraging growth in that area.
+And so -- and part of that strategy, of course, is also to improve our profitability in that product area as well.
+So we're encouraged by the prior-year progress.
+I think quarter-to-quarter, you could see some volatility but overall, a good trajectory for this product line.
+<UNK>re.
+So obviously, I spent quite a bit of time there, and China continues to be a really exciting area for us.
+We've always had a very strong position on the slurry side.
+We, of course, have our partnership on the pad side with KFMI, which is just starting.
+We did realize revenue in this fiscal year from that early collaboration in pads.
+I would say also, just to qualify, some of the revenue from China was also due to strong QE<UNK>
+So that could be lumpy quarter-to-quarter.
+But overall, what we see is continued strong investments in -- just the China government investing in the semiconductor supply chain, and we see a strong growth trajectory in the future as well.
+So we look forward to growing with China.
+It's a really important region for us, and we feel like we're really well positioned.
+Yes, it is unusual that we -- that we've said flat to slightly higher for Q2 revenue because historically, revenue's been down about 4% on average over a number of years.
+I think fundamentally, the business has changed.
+There's more structural factors in the marketplace now to uplift our demand as we think about memory, logic, artificial intelligence, automobiles and the -- and all of the items that go into that in terms of connectivity.
+So structurally, there's less seasonality and less seasonality throughout the year with our business.
+QED is really not a -- not much of a factor with its low percentage of our revenue right now, Chris.
+So that's not really part of the story.
+And it's a relevant question that you ask about what we've delivered this quarter in terms of even GAAP gross profit but then keeping our projection for the rest of the fiscal year, where it was at 50% to 52%.
+And I think you could just think of that in terms of: It's early in the year.
+And I think you said those words as part of your question.
+It's early in the year, so we're going to continue with the guidance that we had.
+On margin, there is a little bit of a seasonality effect because of our Q1 being the -- the December quarter.
+As we go into March, we do pick up some extra costs with merit increases and some equity grants and things like that.
+So there is a seasonality impact to the margin percentage and the margin metric.
+And with it being early on in the year, we're continuing to be comfortable with the guidance that we had.
+Yes, and Chris, just to add, longer term, we've put out there that our expectation is to expand margins.
+I think we're pleased with our performance so far, what we've demonstrated, not far from satisfied.
+But what we see is if you look at those 3 key product areas, tungsten, as you mentioned, is above our corporate gross margin.
+We see a really strong future for growth there.
+Dielectrics is -- we're transforming.
+That product area should also be positive from a margin standpoint.
+And then pads, pads is our -- a strong growing area for us.
+Very excited about that, but it is a headwind versus our corporate gross margin, obviously positive for gross margin dollars.
+So there's also some mix in there that will affect overall company gross margin, as you know.
+Yes, I think we're seeing both.
+And we look at the pipeline, there's really balanced across advanced and legacy, across the different segments: logic, memory and foundry.
+There is a distinction.
+The memory producers seem to prefer a ceria-based solution.
+That's more aggressive on dielectrics.
+The logic and foundry customers tend to prefer colloidal silica.
+So there is some segmentation by customer.
+And overall, what we're doing there is taking innovation to a space that hasn't seen a lot of innovation in the past and bringing some really innovative solutions to the market.
+So we're able to really reduce the percent solids while providing better performance, in some cases, higher throughput, so really exciting area for us.
+And so we're excited both on the legacy and advanced side and see a lot of runway.
+As you might have -- as you might know, dielectrics is the largest portion of the CMP slurries market.
+So a lot of room to grow there.
+Yes, thanks.
+We're always -- it's always going to be competitive out there.
+We've really been delighted with the growth we've seen, 17% this quarter year-over-year.
+We reaffirmed our expectation to grow the business over $100 million by 2019, which would be a 20% CAGR, so really healthy growth and continued growth from what we've seen at the start.
+What we've seen in terms of PORs is sometimes a customer will bring this pad in for one application, really see the performance benefits as well as the cost of ownership benefits and then proliferate it to other portions of their CMP process.
+So we're seeing both new POR wins and just more proliferation within the same customer, which is exciting.
+Well, we are excited about the impact of U.<UNK> tax reform, like most companies are.
+We have, as you know, 80% of our business is actually in Asia.
+So we have -- and 60% of our cash today is in Asia.
+So -- or is outside the U.<UNK> So we have a little bit less of an impact in terms of ongoing tax rate but a potentially greater impact in terms of less friction of moving cash across the world and back to the U.<UNK> So fundamentally, the less friction, the ability to repatriate after paying the deemed repatriation tax or expensing that this quarter, that should assist all of the -- ease of getting to cash in order to implement our cash priorities that we outlined.
+Yes, we follow the same things you do, <UNK>, which is to look at when the equipment sales are going in, that construction is being completed.
+So a lot of those new customers like [YNTC] and Anotron, they're still not only finishing construction, but I think an important element to China's growth, domestic customer growth, is demonstrating that they can achieve technology and an acceptable yield, right.
+So we're working closely with many of them.
+Most of the consensus would be that, that capacity comes online really starting second half of 2018, and that varies by customer.
+Of course, we've seen strong growth there already.
+So a lot of that -- some of that's coming from domestic customers that are already in production, like SMIC and [WALL-E].
+Some of that's coming from the international players like TSMC, Samsung, hynix, who are continuing to ramp up their fabs, also Intel and Dalian, very active.
+So it's not just the domestic customers, but also the international customers that are very active in China ramping up their facilities.

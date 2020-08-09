@@ -1,0 +1,120 @@
+Thank you.
+Sure.
+Let me start off saying, we just had our Strategic Advisory Board, but I also go out and see a lot of customers' containers, and thinking about how to consume and manage containers is the single biggest topic that comes up among what I think of as leading kind of technology leading, so financial services, technology and telco customers, without a doubt.
+More than frankly I even hear about OpenStack.
+And so certainly, certainly far beyond web companies.
+One public example is Amadeus is building their new platform for their new workloads around OpenShift 3 and their desire is for all their new workloads to be running [doperizing] containers on OpenShift V3.
+So it is something -- and what you actually hear is even the infrastructure people at financial services institutions, I was talking to one week ago, 1.5 weeks ago, and he was basically saying, I don't have a choice because my developers are delivering containers and I am going to have to be able to manage them.
+So Red Hat, run as fast as you can because it's not just about taking the container, as you said, it's about security, it's about management, all of the telemetry you need to understand performance bottlenecks and all of that work that still is being done.
+And so the Atomic platform that we talked about is something a lot of customers are interested in, literally every industrial, all walks.
+Again, not because the infrastructure people necessarily want it, but the developers are picking it up because it's so much more productive for developers.
+So the interesting thing about containers, I want to emphasize this over and over, is you can build a story around efficiency of running your infrastructure.
+That is not what's driving this.
+Developer efficiency is what is driving this.
+And literally I had a CIO tell me, I've lost control.
+Really.
+Developers are going to do this.
+We have to make sure that we can consume these.
+On your security point, there are several issues around security.
+The point you made about what's in the container is critically important, and virtualization does nothing to help you with that, right.
+You've got to recognize that what's in the container is basically the user space side of the operating system.
+We did an analysis where we wrote a hello world app in four different languages and looked back, what packages would need to be subsumed into each of those, we did like Java, node, so Java script, we did PHP.
+And we looked back over the last year, how many security updates have been made that would affect those containers.
+And depending on the language it varied from 30 to 50 in the last year.
+So understanding what's in the container and understanding how you can push updates into that is critical.
+Obviously as operating system vendor our ability to do that we believe is far superior to anyone else because we obviously track these packages and know kind of what -- when and how security updates need to be pushed.
+So we actually think that's, as a commercial vendor, that is a very, very good thing for us because that allows us to kind of tell a security story.
+Now, you are right.
+There's a separate set of security which does come around bare metal versus virtualized, which is around certain name spaces, ability to get to certain IO file systems and making sure those are separate.
+There's two parallel paths there.
+One is to run it virtualized, because we've had a lot of that virtualization and certainly many of our customers are running OpenShift on OpenStack as a way to resolve that, or you can run it on VMware as well.
+At the same time obviously the Linux community is driving towards bare metal solutions to that same set of problems as we continue to push that forward.
+And if you look at RHEL7.2, there's several kind of steps forward in the technology around security around containers.
+So yes, security is an issue.
+To some extent that's a good thing for Red Hat in that it allows us to shine with what we do, both in terms of manageability and security updating, et cetera, et cetera.
+Sorry.
+That's a long answer, but it's a subtle but important point.
+<UNK>, the contract duration in Q1 and Q2 was both 20.
+In terms of OpenStack, again we are still with what I would say the earlier adopters running OpenStack.
+And some of the deals are quite large because they're large implementations, but they are very lumpy as well.
+The total dollars is not of a size like the public cloud revenues.
+So until it's a little bit more of a business that -- a little more stable, has a little more visibility it really wouldn't be appropriate to share that.
+In terms of your question around when is it going to be a material chunk of revenue, we're -- hard to say.
+It's starting to pick up, but we're still a little ways away before it's a, I'll say, truly material contributor.
+On $2 billion.
+Yes, on $2 billion of revenue.
+I'll start on the breakdown and then <UNK> can get into impacts around some of the profitability.
+It is obviously highly skewed to one very large private -- or public cloud provider, as you could imagine.
+They are a large share overall, but I think our share reflect that as well.
+I don't think we're skewed otherwise relative to their share.
+But there is one cloud provider that's well ahead of the others that I think you all know.
+Beyond that, there are a few, what I'll say a collection of seven or eight cloud providers that I would say are more enterprise-focused.
+You can kind of imagine who a couple of those are who target -- these are enterprise names that target enterprise.
+Those we have much larger than, I would say, our normal share.
+And then there's a long tail of others out there that just kind of spreads out.
+We do well on the true enterprise-focus ones and then AWS, I shouldn't say, the large cloud provider on the West Coast.
+And so I don't know, probably the top 10 represent 90% of the business, 85%.
+I don't have the numbers exactly in front of me.
+As far as the profitability, we don't necessarily break out segments of the business and look at individual P&Ls but I will tell you, just on what I've learned in the last couple of months here, and this is part about the subscription business, I would not think it would be materially different, the profitability of the cloud business versus the rest because if I look at the overall margins, the subscription business, it's been pretty much in line with that 94%.
+And even as the number has been growing, it really hasn't had any material impact on the overall margin.
+So I'm pretty comfortable that's probably consistent.
+Well it would hurt cash flows.
+It hurts cash flow because, again, people are paying as they go versus upfront.
+So it would be -- if we weren't growing, it wouldn't matter but because of our growth rate, it certainly kind of, in the short run in the ramp phase, it reduces billings and cash flow a bit.
+Versus if we were to do it otherwise.
+Right.
+Just because we're charging as we go versus charging a year upfront.
+Thank you, <UNK>.
+Yes.
+I don't know if I have a good number that I could share around that.
+I mean, we have hundreds of POCs working their way through various parts of the system.
+So it's certainly hundreds, and I would say most major names that you can imagine are in some level of trial around it.
+I don't have a good number, other than something kind of in the hundreds at some point in the sales cycle.
+Not just like POC all the way through.
+So again, it's going really nicely from our perspective.
+But in terms of out the other side, a lot of production running, I just don't have a set of numbers.
+We don't quite track it that way to be able to give you a sense.
+I'll try to do better with some more numbers on that side next quarter.
+There you go (laughter).
+As far -- your question as far as the opportunity, I mean, I think I mentioned this at the Summit when we had the analyst meeting.
+And I can really say this again now, having been a part of Red Hat for three months and also looking at it when I was at Cisco.
+The key thing I see here is just the opportunity for further growth.
+I heard it, as I mentioned before, last week with some of the customers that we had at the Customer Advisory Board.
+I see it, whether it's in -- we are talking a lot today about OpenStack and OpenShift.
+We talk about our storage business, we look at middleware.
+And you look at where CIOs and companies are going to be making their investment.
+I think we have a huge opportunity from that perspective.
+And the key thing for us is going to be able to scale to meet that opportunity.
+And that's clearly where I hope to play a key role.
+Well, we want to serve our customers needs, flat out.
+So with customer demand, we will work to be where our customers want to be.
+It's hard for me to talk about a specific provider.
+We have over 100.
+We just recently added VMware, vCloud Air.
+So you can imagine Microsoft and the history around it is a different beast, but I hope we can.
+We expect to and will have our platform running anywhere our customers want to run it.
+Next question.
+I'm sorry.
+Go ahead.
+Well, I think they figured out there's a lot of amazing technology that's out in the open driven by user-driven innovation, and some of that they need to consume themselves.
+So I think they're certainly much more pragmatic around open source than perhaps they were a couple of years ago.
+And I think this is a prime example where there's a set of things they need around Azure, and it's kind of already best provided in open source.
+And so I'm actually very encouraged with -- by Satya and his stance around open source.
+We have time for one more question, operator.
+Well two things.
+First off big data, right.
+Big data has a natural affinity to Linux because of Hadoop and all of those things were originally were written and are kind of native on Linux.
+But the big one is just all of these new kind of, whether it's we'll call systems of engagement or Mode 2 in general, which are these scale-out infrastructure type of workloads, those are -- I don't want to say exclusively on an open platform but the vast majority are on an open platform.
+So again, as people are thinking about their next generation, whether it's a mobile workload, if they think about whatever that next kind of cloud or web-type workload, it's highly, highly likely that that's going to go on Linux not on Windows.
+And obviously for enterprise customers, that's very highly likely that it's going to be the Red Hat stack.
+So that's why obviously we are working hard around containers, around OpenStack because there is a natural affinity to the rest of our product suite in that.
+As customers think about mobile, and most of the mobile things out there are happening in languages frameworks, et cetera in open, we are already moving towards open, you're probably running that on open source infrastructure where we benefit.
+I would say at this point 50/50 is probably the best guesstimate that I would give right between on the subscription side versus the services, but that will change over time.
+One last thing, I just want to bring up separate from that because it wasn't asked, just so it's out there.
+The DSO number that we had for the second quarter FX-adjusted was 58 days and that compares to 60 days of Q2 last year.
+So just in case there's any questions on that, I thought I'd put it out there.
+Great.
+I'm afraid that's all the time we have left.
+We look forward to speaking to everyone later on.
+And if you have any questions, please let us know.
+Thank you, operator.

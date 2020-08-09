@@ -1,0 +1,363 @@
+Thinks, <UNK>.
+And good morning, everyone, and thank you for joining us.
+We ask that media representatives not identify participants for their firms in your reports.
+We also do not allow audio taping and ask that you respect that.
+All statements we make during this call that are not statements of historical fact constitute forward-looking statements.
+They involve known and unknown risks, uncertainties and other factors that could cause our actual results to be materially different from historical results and from any future results expressed or implied by such forward-looking statements.
+For a list of those factors, please refer to the front of our 10-Q.
+All cautionary statements that we make during this call should be understood as being applicable to any forward-looking statements that we make, wherever they appear.
+You should carefully consider the risks described in our reports and should not place undue reliance on any forward-looking statements, which we assume no responsibility for updating.
+And with that out of the way, I'm going to turn it over to our CFO, <UNK> <UNK>.
+Thanks, <UNK>.
+During the first quarter, DISH completed a transaction with EchoStar, which was (inaudible).
+EchoStar transferred to us certain assets and operations of the EchoStar technologies and EchoStar broadcasting businesses.
+These businesses and their associated IP design, develop and distribute set-top boxes provide satellite uplinking services and develop streaming video technologies.
+In addition, we received investments in high-frequency spectrum licenses, joint ventures such as EchoStar certain real estate as well as the remaining 10% interest in Sling TV.
+In exchange, we transferred to EchoStar our tracking stock, representing an 80% economic interest in the Hughes residential retail satellite broadband business.
+We believe that this transaction will give DISH more direct control over the product development of our Pay TV business, which includes Sling TV, and is projected to be modestly accretive to free cash flow due to the elimination of EchoStar's profit margin as well as other efficiency initiatives.
+<UNK>ecause the transaction was between entities that are under common control, accounting rules require us to recast our numbers as of the earliest period presented to include the impact of this transaction.
+The impact of recasting the first quarter of 2016 increased our equipment revenue by $40 million, primarily due to international set-top box sales to third parties.
+Our net income increased by $10.6 million, primarily due to the margin on those international equipment sales and the elimination of the margin on the transferred products and services we previously purchased from EchoStar.
+To build your financial models, the 2016 recasted income statements by quarter are presented in the MD&A section of our 10-Q.
+Regarding the balance sheet, the transferred assets were recorded at net book value, and the tracking stock was removed, with the difference booked (inaudible) capital.
+Also, similar to the P&L, we adjusted PP&E and inventory to remove the set-top box and accessories margin which we had previously paid to EchoStar.
+Separately, during the quarter, we entered into an agreement with Hughes, which allows us to market and install the Hughes broadband service.
+Hughes will make certain payments to us for each sale and installation.
+Please note, subscribers acquired under this agreement will be Hughes-branded retail subscribers and therefore will not be included in our broadband subscriber count.
+As a result, our broadband subscriber count related to the Hughes service will decline through customer attrition.
+More broadly, with only wholesale economics, we believe this is the right time for us economically and for our Pay-TV customers to pivot away from the wholesale model, a model in which we pay acquisition costs but have significantly lower margins relative to our competitors.
+For additional information, please see our 10-Q which was filed this morning.
+With that, Isaac, we will now open up the call for first analyst Q&A and then media Q&<UNK>
+Okay, Phil.
+It's Charlie.
+I'll take the first part.
+You never know what an auction is going to do.
+So -- but our strategy going in, we -- first, we thought it would go for materially higher than it did.
+<UNK>ut our strategy was to get one nationwide block of low band spectrum because it does so many other things for our spectrum portfolio.
+Obviously, 600 low band propagates farther.
+So in terms of penetration through walls and basements and things for your signal, that was an important part of where we were trying to go.
+Second, when you start looking at the Internet of Things and all the devices you're going to be connected in the future, low band is ideal for Internet of Things.
+And that technology is going to change quite a bit with 5G, and there's a focus there.
+The -- we were pleasantly surprised that as the auction went on, it became clear at the end of the -- at the first round to the second round, that the price was not going to go up.
+It was going to stay sub-$20 billion based on our projections.
+And we felt that was probably in excess of $0.50 to the dollar in terms of real value for the spectrum.
+So we were then able to not only get our nationwide spectrum, but also then to stay in the bigger cities where we felt that the -- particularly the Internet of Things would be beneficial.
+So one of things about auctions today is that the way the FCC does it, it's based on population.
+So everything -- every analyst and everything always quotes megahertz per pop, but the last several auctions, we've kind of looked at it -- we kind of looked at where we think things are going.
+And we looked at it on megahertz per thing, not megahertz per pop or megahertz per microprocessor.
+So whether it be streetlights or heart monitors or automobiles or drones or whatever, we've always looked at it as the megahertz per thing.
+And when you do that, obviously the more densely populated cities are quite a bit of a bargain discount if you believe our theory is right on that.
+So that was the strategy.
+We are pleasantly surprised.
+I'm pleased to be 1 of 2 companies that had -- that got nationwide blocks in the auction.
+So Steve.
+Yes, Phil.
+So unfortunately, I can't quantify the litigation impact because the settlements were confidential.
+I can say that without -- even without the litigation impacts, we would have been down year-over-year in the -- on the G&A front.
+I guess on the AWS-3 auction where we obviously participated with 2 designated entities, I think at least we were -- at least myself personally beyond depressed when the FCC ruled that they would disallow the discounts because I knew that we had followed the rules and the precedent that I know every other company had taken are -- all of our competitors taking advantage of the discounts in such a massive auction.
+<UNK>ut obviously the number was quite big.
+<UNK>ut on a relative basis, it really wasn't anything historical, and it's no different.
+And at the same time, you have an auction of airways for broadcasters where the government gave them spectrum for free and they just walked away with $10 billion and not a word was said about the fact that broadcasters walked away with $10 billion of profit for something they got for free.
+And we were buying spectrum.
+So it -- to me, I don't believe it was fair.
+And probably more disconcerting, we were never allowed to come into the FCC.
+And to the extent they had issues with it, to work through those issues with the FCC so that the outcome was fair.
+So obviously, that's in litigation today.
+That's in front of the courts.
+The courts will decide whether the FCC followed within jurisdiction or whether they didn't, and we'll live.
+Who knows how long that will go on.
+<UNK>ut look, we're going to live with -- you can always have honest disagreements.
+We have an honest disagreement with the past administration on that one, and we'll see what the courts come through.
+Having said that, we aren't giving up and we didn't give up and we're not giving up.
+And we think -- we're not going to -- and so we're really pleased to strengthen our spectrum position and our strategic position.
+And we're not going to rule anything out, and we're not going to rule anything in.
+Well, I mean, I think that there are -- look, I think there's interesting parts in this auction.
+I think it's -- I don't want to speak for AT&T, but it's pretty clear that they didn't bid -- I don't believe they placed a bid of any consequence after the first round.
+And obviously, with their first stage, excuse me, first stage.
+And obviously, with their selection in the first net sweepstakes, that may be a lower priority for them.
+So there's people, perhaps, that are in this auction that have other strategic interests.
+And there are certainly things that could happen whether it's -- where you can see, just like in football, somebody's got to get tight end and somebody needs a defensive back, and you can see things happening with any number of companies.
+<UNK>ut you got to have a portfolio to play there.
+Rich.
+It's <UNK>.
+I'm going to field this one.
+Just on your second one, we don't break out Sling numbers separately so can't answer that.
+Certainly, the second half of the year is a strong content time of year for us, given all the college and NFL football that occurs.
+So seasonally, we traditionally see stronger growth during the last 4 months of the year than we do in other periods of similar length throughout the year.
+So we can't comment on specific numbers, but that is a seasonally strong period for us.
+The other services that have launched have all really been big bundle OTT services, so largely replicating traditional Pay-TV packages.
+And so when I look at our portfolio with Sling Orange, which is at $20, the closest competitor really is about 75% higher price point.
+Plus we have this ability to pick and choose the genres you want to add on, where our Sling <UNK>lue service, which at $25 is quite attractive, has a lot of content in it.
+And obviously, it doesn't have ESPN in it.
+We know a lot of people like ESPN, but there are people who don't want to pay for ESPN.
+And so that gives us the cost advantage for that package compared to some of the other big bundles for that service that I compare to those other big bundles.
+Yes.
+So I mean there's a lot of misconceptions about 5G, but I think I want to -- if you've watched Spinal Tap, I want to announce here first and foremost that we're going to turn the volume up to 11, and we're going for 11.
+We're going to build out 11G, and we're just going to go from 5G to 11G.
+And obviously, I'm being facetious that -- but the 5G standard is not set yet.
+So there's -- you're not going to see true 5G until 2020 and probably 2021 in terms of 5G.
+And the main thing is -- 5G is going to -- it does is a couple of things but, one, it has much lower latency, which bring in things like autonomous vehicles, health care and things that -- into a network that maybe won't work ideally on existing networks.
+It certainly brings in Internet of Things in a way that with millions of devices it can connect at one time that you really can't do on existing infrastructure today.
+And of course, obviously, it's more -- it's going to bring 10 or 20 or 100x more capacity in certain areas and adds things like millimeter wave technology.
+So it does -- it is a very transitional -- it is a very big paradigm shift.
+And I think for marketing people, marketing thing, people are going to want to jump the gun and call things 5G.
+<UNK>ut I don't think you're, as an American consumer, you're going to get anything truly 5G standard just the total standard until at least 2020.
+As far as millimeter wave technology, it, I think, is very interesting technology.
+We have believed that for a long time.
+We participated in the auction, the 28-gig auction.
+Gosh, it's been like 15 years ago.
+So we own 4 cities of 28-gig technology.
+<UNK>ut we also participated in MVDDS auction with 12-gig frequencies and that we have in most of the major cities in the United States.
+And we're part of the MVDDS coalition that we believe that is a way for the government to add another 500 megahertz of spectrum into the -- that can be used for terrestrial use.
+We use that for satellite today, but we -- but we're -- and we've worked with both the past and the current administrations to explain how that can help fund some of the spectrum gap out there.
+So we're hopeful that -- we just missed getting on the rule making for spectrum frontiers last time.
+We hope for -- we hope that the current administration will put that spectrum on public notice or in a rule making so people can comment.
+<UNK>ut that's certainly a place for the government to add another 500 megahertz of spectrum.
+And again, it's technically centimeter wave technology.
+It has better propagation technique -- characteristics than 28-gig does.
+And you can imagine a lot of uses in the spectrum deficit, how you could use that.
+So we're -- I think we're very well positioned.
+If higher frequencies find a home, we think we're well positioned there.
+Okay, <UNK>.
+On the build-out, one of the things I learned long ago is we focus on the things we can control.
+So while there's going to be a lot of noise, and there's certainly going to be talk of consolidation, lots of rumors about this company and that company doing something together, the one thing we can control is our build-out.
+And we have committed to the FCC that we will build out a narrow band of IoT network vein to perfect our license by March of 2020.
+<UNK>ecause of our spectrum position with the different bands we have, now with 600 in the mix as well, there's -- there are several different ways we could build that network out.
+Ideally, we'd like to build out 600 in the IoT network.
+<UNK>ut because of the 39-month clearing schedule, it's possible that -- to meet that deadline in March of '20 that we can't necessarily use 600 in the way that we'd like to do it because that's a great frequency for that.
+So we've -- we are -- Tom and his team are now meeting with the vendors.
+And we're also talking to the industry about what they want to see in an IoT network.
+And then we'll make some decisions later this year as to the frequencies that we're going to build out, and then start the planning process and then start to build probably.
+We've got to get -- you have to get equipment and then start to build late next year and complete it by March of 2020.
+So that's the one thing we can control.
+We feel like we've -- our balance sheet can support that build.
+We believe that that's what we can control.
+In the meantime, I think -- obviously there's -- in terms of the industry, I think it's -- I think there certainly will be a lot of discussions between people in the industry, potentially people outside the industry.
+Certainly, the potential of lighter regulatory in this administration could lead to some consolidation in ways that maybe weren't contemplated in the previous administration.
+And we have a tremendous set of assets at DISH.
+And it's our job as management to utilize -- to put those assets to work in the most economic long-term model that make sense for our shareholders and for our customers.
+And that's what we'll do.
+Yes, <UNK>.
+For ARPU, you're right, Sling TV subscribers on average purchased the lower-priced programming compared to D<UNK>S.
+So therefore, Sling TV subscribers, as Sling subscribers increase, the weighted average Pay-TV ARPU will be lower.
+For D<UNK>S, we are seeing some subscribers shift to smaller, less expensive packaging, commonly, as you know, known as cord shaving.
+Seeing that these customers want less robust packages, we did add Flex Pack, which is a skinny bundle option.
+And while the Flex Pack adds pressure to ARPU growth on the D<UNK>S side, we believe the function of Flex Pack as a churn-reducing save tactic increases margins in the instances where we had previously offered customers loyalty credits.
+Yes.
+This is Charlie.
+I mean I think your thesis is generally correct.
+And I think we've been talking about that for at least 5 years that that's kind of what we foresaw that the bundle -- there's a lot of dynamics.
+<UNK>ut the bundle where programmers had a lot of leverage over the distribution path, and you're forced to take not 1 or 2 channels or the top 3 rated channels from (inaudible), but you may take 11, 12, 15 channels, of which 10 of them, maybe you don't really want to want but you got to pass those costs on to consumers.
+And the second dynamic is retransmission consent has gone up thousands of percent to the point where the cost of your local networks now exceed, for the most part, almost every channel but ESPN.
+And that dynamic is such that -- and the rate -- and in all these cases, the ratings of the particular networks, for the most part, have gone down.
+<UNK>ut in a broadcasters' case, they've gone down significantly.
+So that's the dynamic that pushes people away from Pay-TV altogether.
+And for those who stay in Pay-TV, they're going to go down to lower-cost alternatives, less advertising, more binge viewing and the kind of things that led to the rise of things like Netflix.
+So that's the dynamic that's out there.
+So one of the things that we've done is in recognizing those trends, obviously, we pivoted the company to a connectivity company and have tried to invest in those things that we think have long-term returns and invest less in our traditional business.
+So we're less likely to invest in a D<UNK>S subscriber in <UNK>oston, Massachusetts where they've got good Internet connection from multiple sources who have an advantage in bundling both broadband and potentially OTT video.
+<UNK> then set on task, it's been almost 6 years now, that <UNK> was set on the -- was set the course to come up with product that would be meaningful to consumers in that environment.
+So we think that we're well positioned there.
+We think we're disciplined.
+We think that despite the fact that analyst and headlines are about sub loss or sub gain or this ARPU or that ARPU or this quarter or that quarter, we think we're very well disciplined to take the -- one of the few companies that can take a long-term view of it and say we're not afraid of change.
+We see change happening, and how do we take advantage of the change in a way that perhaps, our competitors aren't doing or slow to react or want to hold on to what they have but don't -- aren't really going to where the future is.
+And so it's difficult, right.
+There's course studies in M<UNK>A schools.
+There's a book written about it in terms of the entrepreneur's dilemma or whatever it's called, and we're living that every day.
+I forget the other part of the question.
+Was it (inaudible)
+Yes, <UNK>, (inaudible)
+Yes.
+It's <UNK>.
+I'd say the one thing I noticed is with the launch of these other OTT services starting with DIRECTV Now, they are bigger bundle packages.
+And so we're seeing Sling customers increasingly taking more add-on packs.
+So it may be a different class of customers coming into the market spurred by the big bundles that have launched an OTT, but we're definitely seeing customers who are taking more add-on packs that is certainly correlated with that.
+Yes.
+This is Charlie.
+I mean I think strategically, when we started Sling, we were not looking to replace the cable bundle.
+We were not looking to take a cable subscriber or, for that manner, a satellite subscriber and suddenly convert them into an OTT because that was just trading -- that was adding SAC to get the same customer.
+So that's not our -- that has not been our primary objective.
+Having said that, it appears that where Hulu and YouTube and DIRECTV Now and Sony are that they all are basically replicating the cable bundle.
+And so there's no question that -- there's no question now that the -- it's game on to convert a cable subscriber to an OTT subscriber for essentially the same services.
+So all those guys have, example the Disney products with ESPN which, as you know, is most costly.
+And yet studies show, and we know from our own internal data, that the vast majority of people do not actually watch ESPN particularly year round.
+So you're ending up -- so maybe there's a different strategy in there that works long term if everybody -- if everybody's going north, maybe you should go northwest in life.
+Maybe not, or you should go north.
+Maybe you should go northwest.
+So my point is that I think the OTT model probably initially is going to be a license to lose money for people as they price things below cost.
+Eventually, it will sort its way out and there'll probably several different strategies within the OTT world.
+And <UNK> and his team are well acquainted with potential avenues they could take.
+Well, my belief is that OTT will take share away from Pay-TV.
+So satellite and cable will be smaller 5 years from now than they are today.
+So satellite, you're already seeing that reduction, right, with -- and satellite and phone companies, you're already seeing -- you've seen reductions really for the past couple of years.
+Cable, I think with the strength of broadband has been able to kind of tread water and I think actually potentially gain some subs.
+And I think ultimately, that will reverse, too, and that you will see natural evolution to an OTT product because OTT, in many ways, can be a superior product.
+It can be less expensive, it can be superior.
+The question is going to be what do those OTT bundles look like, and how chopped up does the consumer get.
+<UNK>ecause you're going to have a lot more choice.
+And when he has more choice, he's going to go different directions.
+And meanwhile, obviously, Amazon and Netflix continue to grow.
+So it's a very interesting dynamic.
+The one thing I know -- the reason I sleep at night pretty well is that all those people have one thing in common.
+They need to be connected.
+They need connectivity for those customers to receive video.
+And we know, <UNK> knows that the vast majority of sessions for people who are taking OTT services are actually not on your TV screen but on mobile devices.
+So that means that you need wireless spectrum to connect, right.
+So -- and you also -- so that's one point.
+Second point I'd make is you're in a regulatory environment where the current administration has said they're not in favor -- I don't want to do put words in their mouth, but I think, correct me if I'm wrong, they're not really favor of Title II.
+They're going to do rule making on net neutrality and that there's probably a lighter regulatory touch with that, which I would think to mean that the balance of power between distribution and content owners gets a little bit more level.
+Let me take the second part first.
+It's true that potentially OTT economics and what we traditionally see in linear could be relatively the same that the -- from an incremental customer, from incremental customer, right, in part because your SAC is so much lower for your OTT product, and you have potential for an advertising model to be dramatically better, right.
+So that has to be all proven out, but the theory there, I think, still holds.
+Having said that, you don't know what -- when people have alternative motives, if you're selling video, but you're also selling shipping services, you may subsidize one over the other.
+If you're selling wireless data plans and that's very profitable, you may subsidize something else.
+So I think there's going to be some dynamics in the industry where the models move over -- all over the place.
+We'll just have to wait and see.
+<UNK>ut again, for us, we control what we control as we have to make a technically great product, a good user interface and make sure that within our programming contracts and the way that they're offered to the consumer is both unique and economical And so that's kind of how we focus.
+And your question about Silicon Valley, I do think that -- it's not really -- I do -- let me answer broader.
+I do think that now that the quiet period is over, and for the foreseeable future, most of spectrum that is auctioned off in the United States with minor exception, that there -- that -- with technology and the paradigm shift to 5G that I think we'll see a couple of things.
+One is I think, obviously, you could see consolidation within the wireless industry today with incumbents consolidating in some form or fashion.
+<UNK>ut I do believe that the cable industry has to take a good hard look at how they participate in this industry and potentially much more so than an MVNO deal.
+And I do think that one or more people from Silicon Valley need to look at it more -- will look at it more seriously, not just because of, perhaps, net neutrality regulations being weakened, but because their business depends on connectivity.
+Facebook, Mark Zuckerberg, did his 10-year plan.
+His first slide on his 10-year plan is -- it only has 1 word for 10 years, and it's called connectivity.
+And so whether it be balloons or drones or connectivity or autonomous vehicles or health care, Silicon Valley is all over connectivity.
+And they're going to have to make sure that in a world of net neutrality, maybe Title II being eliminated, they have to make, at least I would think, they have to make sure that they're positioned so that they're not in a situation where their traffic -- their connectivity is clogged.
+So -- and then there's a third entrant that may come, which is less likely but still possible, is on the international side.
+I think that somebody ultimately is going to put together a worldwide connectivity and worldwide both on a satellite and a terrestrial basis.
+Obviously the things like OneWeb on a satellite basis with lower satellites that could do worldwide connectivity.
+And then you're going to do the same thing on the ground.
+So you're going to end up with possibilities there.
+So there's going to be a lot of movement.
+There's probably going to be a couple of phases of movement within the connectivity industry.
+And I think it -- and I'm just -- I'm pleased that we were able to participate in the 600 megahertz auction and strengthen our position in terms of where we can go and what we can do with connectivity.
+<UNK>y the way, just a thought, there is nobody who has -- there's nobody in the last 2 auctions that has risked more capital in the connectivity business than DISH and with -- along with our DEs.
+And the auction that was -- the third auction, the H-block auction, was the only one that -- we're the only major participant in that.
+So we've been the most aggressive in that.
+History will prove it's a good strategy or a bad strategy.
+<UNK>ut for the investors on the call, all your investments that you're making today, whether it be -- that you're looking at in the future, whether it be autonomous vehicles or augmented reality or virtual reality or artificial intelligence or how do we get health care costs under control or how do you get productivity in industrial manufacturing or agriculture or what do municipalities do to make their cities safer and more productive, how you do education, how you do entertainment.
+Not one of those potential investors can survive without connectivity in the future.
+Not one of them.
+So one of the things that's interesting about where DISH is today is you can actually get a piece of all those investments by investing in one company because all those -- because all those companies are going to have to use connectivity in their portfolio.
+They have to, right.
+That doesn't mean there's not more money in the value add on top of connectivity.
+Doesn't mean that sharing stuff with your friends about what you're watching or what you're cooking or whatever isn't more valuable because it might be, but you still have to be connected.
+Okay, <UNK>.
+On the network build, our focus today is to build out our network to meet our 2020 deadline with or without partners.
+So we're prepared to do it within our balance sheet and with it -- again, it's going to be a new narrowband IoT network that doesn't exist today.
+So it's going to attack the market from a little bit different way, but it's certainly very much needed in terms of the United States.
+The -- obviously I believe that there would be -- I hope that there's opportunity in the next 3 years where other people -- for a lot of different potential partnerships.
+For example, other people, and that could be -- it could be Verizon or AT&T or one of the other incumbent where they're actually going to the tower to build out some of their spectrum.
+So for example, T-Mobile's going to go build 600 megahertz spectrum maybe starting as early as later this year.
+There's opportunity there to say let's build that together.
+Let's build that at the same time and share the savings.
+AT&T and Verizon are going to have to build their AWS-3 spectrum at some point.
+There's a chance to partner when you -- with those build-outs even though you might be -- even though you might be separate companies, and in some cases, you might be competitors.
+It still might make sense because both of you save money.
+So there's opportunities.
+There's tower companies that have to look long term for new revenue sources that might want to partner in a certain sort of way.
+And then as you mentioned, there are people outside the industry who might want to protect their connectivity who might want to do things.
+So I think there's any number of combinations there.
+<UNK>ut for -- but right now, we control -- we're going to control what we can control, and that's to go out and build a narrowband IoT network by 2020.
+And I only go back to when we built satellites.
+I tried to get everybody in the world to build us a satellite when we were launching D<UNK>S.
+Nobody would do it, so we got into the satellite business and built them ourself.
+And I think we're launching our 23rd satellite this summer or something.
+So thank God nobody wanted to -- I mean thank God nobody wanted to build them for us because it would have cost us a lot more money.
+<UNK>ut part of management is to figure out how you're going to do things and to be creative on how you're going to do things and to prove the skeptics wrong.
+It does -- it could.
+I guess it could.
+For example -- I mean just a simple example, but we have some AWS-4 spectrum that's downlink only in the 2.2 gig range.
+The limiting factor of your network is typically your uplink side.
+So now that we have 600 megahertz uplink nationwide, you could see with carrier aggregation that you could partner -- you could put 600 megahertz with AWS-4 and your build-out cost could be materially less because you need less towers because you've solved some of your uplink propagation issues with 600 megahertz.
+So I can make the case that the -- that there's potential that much of the $6.2 billion of 600 megahertz spectrum actually could result in savings, both on the build-out and the future operating cost on a net present value that could equate to a number pretty close to that.
+So I'm not confident enough to say that for sure today, but my sense is that there's a -- there is probably a large savings in the build-out cost based on the 600 megahertz purchase.
+Oh, separate -- the other question was separate D<UNK>S from -- I've always felt that what we do at Sling and D<UNK>S and spectrum all go together.
+I think that our -- I think with the 600 megahertz auction and the way that, that really solidified the spectrum position we have, that it is -- it would be easier to separate some of our assets than it was before, but I still think they belong together.
+I mean obviously, one could now make the case that the AT&T D<UNK>S and the DISH D<UNK>S could go together, and there would obviously be tremendous synergy in savings in doing that, and that because of all the -- that because the competition, it wouldn't be going from 4 to 3, it would be going from 4 to 10 because of Sony and Google and Hulu.
+Now those are all real competitors to the D<UNK>S players today.
+So it's not a -- it probably is not a regulatory issue today to put those companies together.
+And clearly, there's -- those companies together would be more value for both those companies than probably the market gives them credit for today.
+What was the other question.
+So <UNK>, on -- what's that.
+On SAC, the -- on a per subscriber basis, the SAC has been relatively stable, if you will, per addition on the underlying D<UNK>S adds as well as the Sling adds.
+It really depends on the mix associated with Sling relative to D<UNK>S.
+Just taking a step back and looking at the strategy, for D<UNK>S, we have been saying for several quarters now, we are acquiring and retaining higher-quality customers by refocusing on [rural economies].
+We're more disciplined on credit, and we're executing on several cost and revenue initiatives.
+And as we've already mentioned on the Sling side, we expect to see ARPU and margin expansion as they gain scale.
+For instance, we haven't fully monetized our Sling addressable advertising revenue opportunity yet.
+And then lastly, I already mentioned this in my preamble, but for DISH Net the -- given the wholesale economics, we believe it's really time for us economically, which impacts SAC and for our Pay-TV customers to pivot away from the wholesale model.
+So you'll see less absolute dollars running through the P&L associated with the DISH Net adds as we pivot away from the wholesale model.
+Well, I guess I'd answer the question with IoT will be a huge business, and I wouldn't put the time frame at 5 years.
+I think it will be evident to everyone within 5 years that it will be a huge business, whether that will be -- just like the Internet was in the '80s, and people didn't realize that Facebook and Google are going to exist because -- I think you're kind of in the same -- I think it will go faster, but you're in the same situation where the possibility of Internet of Things is not going to be -- is going to be underestimated long term in terms of it, just like the Internet was underestimated and the cloud has been underestimated.
+And now, people are -- the Fortune 500 companies of the future have been built from those businesses.
+So I think my -- I believe Internet of Things will be huge, whether it's -- whether we're sitting here 5 years from now saying it's x or y probably won't be that relevant because it's ultimately going to be 1,000x at some point.
+It's just hard to put a time frame on it, but you do need 5G.
+So you're talking about 2021, probably 2022 to make it really work the way you want it to work.
+So I think -- and you already kind of have Internet of Things.
+I mean in a funny sort of way, Facebook is Internet of Things.
+It just connects people to their social life, right.
+<UNK>ut the -- when you can connect the city and your meters and your security and your lights and everything else, the city can be more efficient and the city can save money.
+And so they're going to do it.
+And anything that's cheaper and better, you're going to do.
+And Internet of Things, for sure, is going to be cheaper and better.
+And I can think of 1,000 things that need to get connected.
+And there's probably another million things that we can't think of that other people will think have to be connected.
+So in part of what we're looking at is our system to be open so that anybody who wants to participate in the network can invent things for the network.
+Well, I mean I think that -- I think one of the things you do when you start a business, you'd like that business to last more than 37 years, which is you'd like your business to last 100 years.
+So obviously, we think pivoting to connectivity allows us to have a much longer runway for our company.
+<UNK>ut I think the way I would answer the question is we're looking for whatever ultimately would enhance our shareholder value and our customers' and our employees' experience.
+And we think, at least today, we think that, that is somebody who's looking at the wireless world in a disruptive manner, that says the wireless connectivity in the United States is going to be different than 4 guys who you can make phone calls on and you can send a text and maybe you can stream a little bit of video, right.
+And you have an unlimited plan that's 22 gigs but they call it unlimited.
+So you have a limited unlimited plan.
+We think the world of wireless can be materially different than that.
+It can be different because there's a paradigm shift in technology, the way you build your radio, the way you're going to propagate your network, whether it be inside out, maybe inside out instead of outside in, whether your core and how you do your network, the ability to slash your network in different slices, the ability to tell other people, share your network, all those things are possible in the 5G world.
+And for somebody who shares that vision of where things can go, we can get pretty excited about.
+If somebody says we're going to just do the same thing we're doing today, we're not that interested in that because we don't think that builds long-term shareholder value for our shareholders.
+So we try to look at where things are going instead of where they are.
+<UNK>, you've known us for a while.
+We don't typically -- we won't -- we're pretty private.
+I'm certainly a pretty private individual.
+So we're not going to comment on -- in any way on discussions that take place, don't take place, rumors that are true, rumors that are not true, rumors that are outlandish, whatever.
+We're just not going to comment on that.
+And our conversations that we have with people, we keep private.
+So you're not going to read about them in the paper or a book.
+So that's just the way we do business, and we'll continue to do that.
+Obviously there could be consolidation within the industry.
+Certainly, Sprint and T-Mobile is -- Sprint and T-Mobile would a possible combination of companies.
+And if there were to be a combination of companies, we\xe2\x80\x99d take a look at it to see whether that -- we thought that combination was detrimental to the consumer or detrimental to competition and -- or not.
+And we wouldn't be opposed to any kind of consolidation just -- we wouldn't be opposed to consolidation just because it's consolidation.
+We'd only be opposed to it if we thought it had an impact on competition.
+So we haven't objected to some consolidations in the past out there.
+And we've -- and others, we have.
+And we -- I think we're kind of like the Justice Department.
+We look at each -- and the FCC.
+We look at each case individually and try to make a judgment as to how that's going to affect competition.
+I don't -- <UNK>en, it's a good -- I think it's because we've really turned our investment to the future investment, majority of our future investment to connectivity and obviously in spectrum purchases so that we can be a viable company in the 21st century.
+So the return on investment in a mature industry normally declines.
+So the return on investment from a customer that we would go out and spend $800 SAC from 10 years ago is a different profile than if we go spending $800 a SAC per customer today, given the rising cost of programming and the decline in viewership of traditional linear channels.
+So I think we're just trying to allocate our capital more precisely, and what that has led to is pretty flat revenue.
+I mean most economic metrics over the last couple of years have been pretty flat for us, but we're building for the future.
+And so you -- while you invest in the future, you're not going to get those revenues from the future.
+So we're just building out our first network.
+It's going to take us 3 years to build our network.
+So we're not going to get a ton of revenue from our investment for 3 more years, right.
+And then we think that, that jump starts a whole another growth phase for DISH.
+I'm not saying that.
+What I'm saying is that, obviously, this is a board decision.
+Somebody came in and said, here's a cash offer.
+And you look to the tax consequences, and it was more than -- that offer was more than you thought you could do with your business yourself, that's something that our board would consider.
+To the extent that you took equity for something like that, you'd want to make sure your equity was going to go up in value more than, staying your current course.
+And so those are all kind considerations that you want to have out there.
+<UNK>ut the -- most management in public companies has a hard time taking a long view, right, and making long-term investments because they get pounded by everybody if their sales go down or their earnings per share missed by $0.01 or whatever.
+So they have a hard time, which is why you see crazy offers or you can get -- I mean you could get an Apple TV box that costs $150, but you can get it for $105 if you sign up for 3 months of programming that probably costs $150.
+So in that particular case, that company probably lost $300 on every customer they got.
+Well, why would you do that.
+You might do that for strategic reasons, but you also want to make sure your numbers don't go down for Wall Street.
+Well, I prefer to save the $300 and put it into something else that's going to make money long term.
+So we're really -- we really think the wireless industry is ripe for a new way of doing things and a new way that you would build a network and new architecture, take advantage of 5G and the Internet of Things.
+And I don't doubt that there are people within the incumbents today that share that vision, right.
+Whether they can get through their boards and take long-term measures, it might be a different story.
+<UNK>ut to the extent they could, I think they'd be attractive people to talk to.
+Okay, operator.
+Thank you, and thank you for everybody on the phone for participating.

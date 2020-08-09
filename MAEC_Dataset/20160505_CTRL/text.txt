@@ -1,0 +1,165 @@
+Thank you, operator.
+Good afternoon, everyone, and thank you for joining Control4's earnings conference call for the first quarter of 2016.
+My name is <UNK> <UNK>, and I'm the Chief Financial Officer for Control4.
+With me on the call today is <UNK> <UNK>, our Chairman and Chief Executive Officer.
+Prior to this call, we distributed our Q1 2016 earnings release over the wire services, and we have posted it on our website at investor.
+Control4.com, as well as furnished it to the SEC on Form 8-K.
+This call is also being webcast, and a replay will be available on the Investor Relations section of our website for 30 days.
+Before we begin, I would like to remind you that during today's call we will be making forward-looking statements regarding future events and financial performance, including our financial outlook for the second quarter of 2016 and our revenue and non-GAAP net income outlook for the full year of 2016.
+We caution you that such statements reflect our best judgment as of today, May 5, based on factors that are currently known to us, and that actual future events or results could differ materially due to a number of factors, many of which are beyond our control.
+For a more detailed discussion of the risks and uncertainties affecting our future results, we refer you to our filings with the SEC, including the 8-K we filed earlier today, which contains our Q1 2016 earnings release.
+Control4 disclaims any obligation to update or revise these forward-looking statements to reflect future events or circumstances.
+During the call we will also discuss non-GAAP financial measures.
+Unless we specifically state otherwise, the non-revenue financial measures that we discuss today were not prepared in accordance with Generally Accepted Accounting Principles, in that they exclude expenses related to stock-based compensation, acquisition-related costs, the amortization of intangible assets, litigation settlement expenses, and certain other items that are detailed in the reconciliation of GAAP and non-GAAP results provided in today's press release and posted on the Investor Relations section of our website.
+With that, I will turn the call over to <UNK>.
+Thanks, <UNK>.
+Welcome, everyone, and thank you for joining us on the Control4 earnings call for the first quarter of 2016.
+I am pleased to report that Control4 experienced a strong quarter, with revenues that exceeded our guidance, and earnings that came in at the high end of our guidance range.
+Here are the high-level financial results for Q1.
+Revenue for the quarter was $43 million, $1.5 million above the high end of our guidance, representing a total year-over-year growth of 34%, and 24% organic Control4 growth.
+Q1 total revenue included $3.2 million of Pakedge networking products that were sold in February and March.
+Our organic revenue outperformance in the quarter was fueled, in part, by strong demand for our new entertainment and automation series of controllers, which we announced and began shipping on January 26.
+During the quarter we shipped over 24,000 total controllers, a year-over-year increase of 73%.
+Our upside revenue, combined with steady operating expenses, enabled us to deliver non-GAAP net income of $954,000 in Q1, or $0.04 per diluted share, which was at the high end of our guidance range.
+As we have noted in prior calls, Control4's mission is to be both the platform ecosystem and a premium solution market leader in the home automation and connected home market.
+Our strategy is threefold: one, to provide premium, high-quality, and durable networking and connected home solutions for homeowners and businesses, focused in the area of family room entertainment, multiroom media, intelligent lighting, comfort and convenience, and home security and safety; two, to enable consumer choice and deliver automated lifestyle experiences by integrating with a broad number of third-party products produced by hundreds of other manufacturers; and, three, to deliver our solutions to families and businesses through an expanding global professional dealer network specifically intended to deliver the highest levels of consistent end-customer satisfaction.
+On our last earnings call, I described four initiatives that are focused on strengthening our business and increasing shareholder value.
+They are expanding our profitability, introducing new products, acquiring Pakedge, and allocating our capital prudently.
+Today I will provide a brief update on these initiatives.
+First, expanding profitability: we are executing on our operating plan, which, among other things, holds our organic operating expenses to approximately 2015 levels, with the objective of delivering improved profitability and cash flow in 2016.
+Our non-GAAP operating expenses for the quarter, excluding Pakedge, were flat when compared to Q4 of 2015.
+We also held, and intend to keep, Pakedge operating expenses level, with moderate rebalancing expected as integration into Control4 proceeds.
+As noted on our last earnings call, we expect that our revenue growth, combined with a focused approach to expense management, will enable Control4 to generate non-GAAP net income between $16 million and $18 million this year, a 2X improvement over 2015.
+We are reiterating that expectation today.
+Second, on new products: on January 26, we introduced and began delivering our new entertainment and automation series controllers, along with a new version of the Control4 OS.
+Worldwide enthusiasm for our new products and software is aligning well with stronger end-customer demand which is being reported to us by our dealers.
+The pace of new product orders is smooth and growing, and we expect to build on this momentum during the coming months and quarters.
+The new EA series expands our use case and price point range above and below their predecessor HC series controllers that we launched in 2012 with two models, the HC-250 at $750 pre-MSRP for small installations; and the HC-800 at $1,500 for large installations.
+Our new EA series consists of three controller models: the EA-1 at $500 MSRP; the EA-3 at $1,000; and the EA-5 at $2,000 MSRP.
+Since their January 6 introduction, more than 19,500 EA series controllers were ordered by, and delivered to, our dealers during Q1.
+During the quarter, our dealers also ordered approximately 4,500 HC series controllers, which remain available for purchase, are very competitive versus any non-Control4 alternative, and run our most current Control4 software, OS 2.8.2.
+Total controllers ordered by and delivered to Control4 dealers were up 73% year-over-year from 13,900 in Q1 2015 to 24,100 in Q1 of 2016.
+Orders for the EA series continued to be solid during April, including repeat orders from dealers who took delivery of EAs during Q1.
+In the initial traction of the EA series provides early validation that our thesis -- that the EA-1 and the EA-5 are market expanding products for us -- notably, the EA-1 for the introductory home automation segments, and the EA-5 for the high-end and very large automation installations.
+During the initial months of EA availability, we are observing rapid adoption by our existing dealers and the beginning of a mind share shift towards Control4 for one-room AV automation and lower cost start of systems.
+Our new EA-3 and EA-5 controllers are also being well received by dealers and end customers for traditional and very large whole-home automation installations, resulting in strong order rates and unit volumes that were well-balanced between these two models.
+Control4 is committed to a single, broad-based software platform for smart device orchestration and home automation functionality, from simpler, entry-level systems to the most sophisticated and elegant.
+We are recommending the EA series for all new installations, as well as for expansion and upgrades within our existing installed base of more than 240,000 homes, each of which already integrate with, on average, more than 40 connected devices per home, with many homes integrating hundreds of devices.
+Closely following the debut of our EA series, on February 9 we announced and began delivering new wireless controlled lighting products for international markets.
+Reception to the new international form factored lighting products is also enthusiastic.
+Our dealers are beginning to specify Control4 wireless lighting in new project proposals in Europe, Latin America, and Asia.
+Since Control4 wireless lighting is new in many of these international markets, project lead times need to be taken into consideration, and we expect to see growing contribution from these international wireless lighting products in the coming quarters.
+Third, Pakedge: as we first reported during our earnings call last quarter, on January 29 we acquired Pakedge Device & Software.
+Pakedge is a leader in advanced home networking infrastructure products and cloud networking management capabilities for both wireless and wired networking solutions.
+The response by Control4 dealers to Pakedge has been positive, with over 370 Control4 dealers purchasing Pakedge products for the very first time in the three months since the acquisition.
+Pakedge dealers and distributors who are not Control4 dealers -- approximately 1,200 -- have been cautiously neutral, with some adopting a wait-and-see perspective, which we had anticipated.
+Control4 is committed to maintaining and enhancing strong relationships with all Pakedge dealers and distributors, regardless of whether they are currently marketing and selling Control4 solutions.
+We intend to grow the Pakedge networking product business and expand its sales channel of networking specialists.
+We will encourage all appropriately qualified Pakedge and Control4 dealers to explore both product lines.
+And we will be actively cross-training and cross-certifying dealers, in accordance with our existing standards of technical proficiency and business practices.
+The connected home is happening worldwide, whether it be in individual connected point products and apps, or fully orchestrated connected home systems such as Control4.
+We believe that all connected homes can benefit from more substantial and intelligent networking capabilities.
+Control4 aims to be the networking provider of choice for the connected home, and we intend to support our expanding global channel of 4,800-plus active dealers in order to do so.
+We believe one integrated platform becomes a significantly differentiated experience.
+The power of Control4 is in our ability to seamlessly orchestrate a comprehensive home automation experience, spanning entertainment, smart lighting, comfort and convenience, and safety and security.
+Networking has always been a key element of Control4 installations, but in the past dealers have procured these networking products from third-party suppliers.
+We believe that by embracing the Pakedge networking capabilities as an expanded core competence within Control4, by integrating them tightly with our entertainment and automation capabilities, and ensuring a single cloud-based reporting and management solution spans both home networking and connected home devices, that we will be able to deliver a much broader and more differentiated product line to our dealers, and to provide more reliable, integrated experiences to our end customers.
+Fourth, capital allocation: our balance sheet remains strong, with $47.9 million in cash and investments, and an additional $25 million accessible via our credit facility.
+Cash conversion from operations remains healthy, and without delay or interruption.
+From a capital allocation perspective, in order to ensure prompt product delivery in Q2 and Q3 from both Pakedge and Control4, as expected business grows, during Q1 we invested in existing and new product inventory as well as expanded fulfillment capabilities from our facility in Melbourne, Australia.
+We now have fulfillment centers in Salt Lake, Utah; York, United Kingdom; and Melbourne, Australia.
+With our solid cash balance, available credit line, and expected improvements in cash flow from operations, we will continue to explore and evaluate strategic acquisition opportunities; and, on a quarterly basis, determine if and when it is appropriate to use a portion of our cash flow from operation to repurchase Control4 shares during open trading windows.
+We are pleased with the performance in Q1, and we are confident in our ability to expand our connected home ecosystem and, thus, our business.
+We believe Control4 is centrally well positioned and expanding in the connected home and automated home landscape.
+Our ability to incorporate and orchestrate thousands of different consumer products via the Control4 platform distinguishes us from individual connected point products, as well as from other home automation offerings, whether professionally installed or self-planned do-it-yourself.
+Although there is noise in both investment and technology circles about competition from connected point products, and threats from large consumer electronics purveyors, Control4 continues to grow with newly installed homes each month; continues to strengthen our sales and installation network with new, enthusiastic, and skilled independent dealers; and continues to expand our partner ecosystem through the integration of more, and new, third-party devices into our open automation platform.
+These advances, collectively, continue to strengthen Control4 as the premium and preferred choice for homeowners and their families, custom home builders, independent connected home integrators, and consumer electronics partners.
+Wrapping up, I want to thank all of our employees, customers, dealers, distributors, suppliers, business partners, and shareholders for their continued support and many contributions to our continued progress.
+We started 2016 with rapid engagement and good momentum, and we intend to keep racing forward smartly.
+With that, I'll turn it over to <UNK>.
+Thanks, <UNK>.
+A brief reminder before I discuss our financial results: we refer to revenue attributable to sales through dealers located in the United States and Canada as North America core revenue; and revenue attributable to sales through dealers and distributors located throughout the rest of the world as international core revenue.
+Core revenue does not include revenue from our hospitality business, which is included in other revenue.
+Turning now to our results for the first quarter of 2016, total revenue for the quarter was $43 million, resulting in year-over-year growth of 34%.
+Our new networking products contributed about $3.2 million in revenue during the last two months of the quarter, meaning that our organic growth compared to the first quarter of 2015 was 24%.
+North America core revenue grew 39% year-over-year, although within this growth we continued to experience a slight decline in year-over-year revenue from Canada.
+Otherwise, nearly all of our 23 US sales regions contributed double-digit, year-over-year growth.
+The majority of our network product line revenue was also generated in North America.
+International core revenue grew 15%, reflecting modest economic rebound in many of our international countries, with the exception of Latin America, where we continue to see macroeconomic factors suppressing business.
+Our non-core other revenue, consisting primarily of hospitality business, grew 101% year-over-year, with hospitality contributing $0.5 million to the quarter.
+To continue our growth, we remain focused on three broad strategies: first, make our dealers more productive.
+During the first quarter, we continued our investment in lead generation and cultivation activities and promotion of our system upgrade program, including expansion of our inside sales team to manage a growing volume of inbound leads.
+Second, increase our wallet share: the revenue of new products and the acquisition of Pakedge has helped increase our addressable market opportunity.
+Our experience continues to suggest that our dealers prefer to source solutions from Control4 because of our status as a trusted partner, our e-commerce based ordering and delivery system, and the fact that Control4 solutions work better together.
+As <UNK> mentioned, we saw a strong adoption of our EA series controllers, which drove a significant quarterly increase in controller sales, both sequentially and year-over-year.
+In the first quarter of 2016, we sold 24,133 controllers worldwide compared to 13,931 in Q1 of 2015, and 16,964 controllers in Q4 of 2015.
+EA series controller sales indicate strong and rapid adoption, with 19,628 sold and delivered in Q1.
+Third, add more dealers to our ecosystem: in Q1, we added 99 dealers in North America, the most added in a single quarter since Q3 of 2013.
+And the total number of active dealers increased to 2,794, up from 2,748 at the end of the fourth quarter.
+Internationally, we added 44 new direct dealers during Q1.
+The number of total active direct dealers increased from 816 at the end of Q4, to 840 at the end of Q1.
+Effective April 1, we adopted a direct-to-dealer distribution model in Australia, taking advantage of existing support and facilities acquired with Nexus in 2015.
+As of April 30, 2016, we now have approximately 100 direct dealers in Australia, and we expect that number to continue to grow.
+Additionally, we are committed to supporting the approximately 1,200 unique Pakedge dealers that do not currently carry Control4 solution.
+Now, looking to several operating financial metrics.
+Our non-GAAP gross margin percentage in the first quarter of 2016 was 50.7%, equal to the first quarter of last year, and a decrease from 51.7% in Q4 of 2015.
+Variability in our gross margin percentage compared to Q4 is due to a variety of anticipated factors, including introductory programs for the EA series to facilitate rapid adoption; product mix, including high unit sales of the EA-1, which has a lower gross margin percentage than other controllers; and retail product exchanges from the HC series to the EA series of controllers.
+We anticipate seeing modest improvements in our gross margin through the balance of the year as we focus on product cost reduction, and realize synergies and fulfillment costs associated with our networking products.
+A major initiative for us in 2016 is realizing more operating leverage by growing revenue and holding our organic operating expenses generally flat with 2015.
+Total non-GAAP operating expenses in the first quarter of 2016 were $21 million, or $19.3 million excluding Pakedge expenses, or generally flat when compared to approximately $19.3 million in Q4 of 2015.
+Research and development expenses during the first quarter of 2016 were $7.6 million or 18% of revenue, compared to $7.3 million or 17% of revenue in Q4 of 2015, and compared to $7.2 million or 22% of revenue during the same Q1 period in 2015.
+The Q1 year-over-year increase in absolute dollars is due to the acquisition of Pakedge, which contributed $0.7 million in R&D expenses during the quarter.
+Sales and marketing expenses in the first quarter of 2016 were $9.4 million or 22% of revenue, compared to $8.4 million or 20% of revenue in Q4 of 2015, and compared to $6.9 million or 22% of revenue in Q1 of 2015.
+The Q1 year-over-year increase in sales and marketing investment includes $1.1 million of Pakedge expenses, and incremental costs associated with having a direct dealer presence in Australia, which became effective on April 1, 2016.
+In addition, relative to the first quarter of 2015, we increased our general marketing expenses to drive lead generation, grow our dealer and distributor networks, and deliver tools to the sales channel to support local marketing and sales lead generation.
+G&A expenses in Q1 were $4 million or 9% of revenue, compared to $3.8 million or 9% of revenue in Q4 of 2015, and compared to $3.5 million or 11% of revenue in Q1 of 2015.
+The Q1 year-over-year increase in absolute dollars is primarily due to increases in our salaries and wages and other administrative costs associated with running our business, including $200,000 in transition costs associated with the Pakedge integration.
+Our first quarter non-GAAP net income was $954,000 or $0.04 per diluted share, compared to a non-GAAP net loss of $1.2 million or a $0.05 per share loss per diluted share in the first quarter 2015.
+Our GAAP net income for the quarter was $6.6 million or $0.28 per diluted share.
+I want to highlight that during the first quarter of 2016 we recognized an income tax benefit of $10.1 million due primarily to Pakedge purchase accounting that resulted in the recognition of a $9.8 million deferred tax liability, and corresponding reversal of a portion of the valuation reserve on our net deferred tax assets.
+This had a favorable impact on our GAAP fully diluted earnings per share of $0.41.
+As of March 31, 2016, we had $47.9 million in unrestricted cash, cash equivalents, and net marketable securities, a decrease of $33.1 million from December 31, 2015.
+The overall decrease in cash and cash equivalents and net marketable securities was impacted by the following.
+We purchased Pakedge for $32.2 million in net cash and incurred approximately $300,000 in acquisition-related expenses, with an additional non-cash inventory step-up adjustment of $0.7 million.
+We established a $30 million credit line to fund strategic growth and borrowed $5 million during the quarter to help fund the Pakedge acquisition.
+During the first quarter of 2016, we purchased 233,815 shares of our stock for $1.7 million, bringing the total number of shares repurchased in 2015 and Q1 of 2016 to 1,388,295, for a cumulative price of $10.8 million.
+Our inventory increased by $12.4 million during the three months ended March 31, 2016, including $5.4 million in networking inventory associated with the Pakedge acquisition.
+And we invested $5.9 million in inventory to support growth initiatives, including the roll-out of our new EA series of controllers.
+Additionally, we established stocking inventory for our new facility in Melbourne, Australia, for direct-to-dealer fulfillment.
+And notwithstanding the acquisition of Pakedge and its accounts receivable, our total accounts receivable balance decreased from $21.3 million at December 31, 2015, to $20 million at the end of Q1.
+Our rolling worldwide six-month days sales outstanding, or DSO, was 42.9 days at the end of Q1 compared to 43.6 days on December 31, 2015.
+Earlier this year, our Board of Directors authorized an extension to our share repurchase program of up to $20 million of Control4 common stock during open trading windows, moving the original end date from May 13, 2016, to June 30, 2017.
+With cumulative share repurchases since May 2015 at approximately $10.8 million, we have $9.2 million remaining in authorized repurchase capacity.
+In parallel, we believe strategic acquisitions that are accretive to earnings are important, and we will continue to evaluate such opportunities.
+Our 2016 capital allocation decisions will continue to be governed by our desire to maintain flexibility to fund these types of strategic decisions.
+Turning now to our forward-looking guidance, our guidance includes the expected contributions from Pakedge.
+And because these networking products are complementary to our current business and will generally be sold through the same or similar channels, all results of operations and forward-looking guidance will be based on our consolidated single business segment.
+We are integrating the Pakedge business, which we anticipate will continue into the third quarter, resulting in improved operating margin in the second half of this year.
+We expect our revenue in Q2 to be between $49.3 million and $51.3 million, which points to a first-half 2016 revenue of between $92.3 million and $94.3 million, representing first-half year-over-year growth between 20% and 23%.
+We believe it is appropriate this year to consider the six-month comparisons because our Q1 2016 revenue outperformance was influenced by the EA series introduction, and the results in Q1 and Q2 of 2015 exhibited non-standard seasonality and timing.
+We expect our non-GAAP net income for Q2 2016 to be between $3.8 million and $4.8 million, or between $0.15 and $0.20 per fully diluted share.
+For full-year 2016, we are reiterating our annual guidance of $198 million to $202 million in revenue, and $16 million to $18 million of non-GAAP net income, or non-GAAP EPS of $0.67 to $0.76.
+We would now like to open the call for your questions.
+We think that Q1 was very strong.
+Its relative growth compared to last year's Q1, which was very suppressed, is a one-time situation.
+We feel good about the market acceptance, the dealer confidence in their local businesses, their confidence in our product line and the services we provide.
+And we're confident in the guidance that we provided at the beginning of the year, and what we are reiterating now.
+The feedback we are getting is that business activity to our dealers is strong; inbound interest is strong; and dealers are pretty together proposals.
+Our acquisition of Pakedge has certainly strengthened our product offering in the minds of the Control4 dealers.
+And we're continuing to support the Pakedge-only dealers fully, as first-class citizens, and we want their business and channel to grow also.
+And, <UNK>, I'd add that the two data points that we mentioned in the script, we're really pleased with the number of new dealers that we added in North America, which was the most in any quarter since 2013.
+And that gives us a lot of confidence in our guidance for the rest of the year.
+Also, we've seen, as <UNK> mentioned, rapid adoption amongst our Control4 channel, of our dealers selling Pakedge.
+We had over 370 dealers that bought those products in the first 12 weeks after the acquisition.
+So, a lot of positive reasons to believe that the momentum that we're seeing in Q1 will carry into future quarters.
+We don't share our goal numbers.
+However, as <UNK> pointed out, one of our key strategies is to expand our dealer coverage in those geographies where we see unserved opportunity.
+And we're doing so with goals per region.
+And we're adding very skilled, existing businesses with technical teams that can learn Control4 and become very confident quickly.
+We intend to do the same thing on the Pakedge and networking-only side, where there will be a networking channel that just provides intelligent home and small business networking.
+Thank you.
+Well, we thank everyone for attending our first quarter's earnings.
+We look forward to updating you again after we finish up Q2 and subsequent quarters.
+We are excited about getting started on 2016, Control4 with the Pakedge team and product line, and our advances with our software and our team.
+Thank you very much.
+Talk to you next time.

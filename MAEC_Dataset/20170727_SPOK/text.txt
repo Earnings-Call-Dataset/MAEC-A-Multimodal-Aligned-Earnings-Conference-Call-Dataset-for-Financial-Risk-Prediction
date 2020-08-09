@@ -1,0 +1,182 @@
+Good morning, and welcome to the Spok second quarter investor call.
+Today's call is being recorded.
+On line today we have Vince <UNK>, President and Chief Executive Officer; <UNK> <UNK>, Chief Financial Officer; and <UNK> <UNK>, President of Spok's operating company.
+At this time, for opening comments, I would like to turn the call over to Mr.
+<UNK>.
+Please go ahead, sir.
+Thank you, and good morning.
+Now thank you for joining us for our second quarter 2017 investor update.
+Before we discuss our operating results, I want to remind everyone that today's conference call may include forward-looking statements that are subject to risks and uncertainties relating to Spok's future financial and business performance.
+Such statements may include estimates of revenue, expenses and income as well as other predictive statements or plans which are dependent upon future events or conditions.
+These statements represent the company's estimates only on the date of this conference call and are not intended to give any assurance as to actual future results.
+Spok's actual results could differ materially from those anticipated in these forward-looking statements.
+Although these statements are based upon assumptions that the company believes to be reasonable, they are subject to risks and uncertainties.
+Please review the Risk Factors section relating to our operations and the business environment in which we compete contained in our 2016 Form 10-K; our second quarter Form 10-Q, which we expect to file later today; and related documents filed with the Securities and Exchange Commission.
+Please note that Spok assumes no obligation to update any forward-looking statements from past or present filings and conference calls.
+With that, I'll turn the call over to Vince.
+Thanks, Mike, and good morning.
+We're pleased to speak with you today regarding our second quarter operating results and what we believe was a solid performance for Spok.
+We continue to see the benefits from investments that we are making to enhance and upgrade our product development team and tools as well as our sales infrastructure and management.
+We believe these investments will yield significant future benefits with respect to our integrated communications platform, Spok Care Connect; our enhanced and upgraded sales team; and our growth potential.
+During the quarter, we saw strong performance in a number of key operating metrics.
+We made further progress towards transitioning Spok to a long-term growth model by delivering industry-leading clinical communication solutions.
+In general, our performance in the second quarter was consistent with our expectations and the seasonal trends we typically experience during the year.
+We are particularly pleased as we saw a continued reduction in the decline of our paging units and wireless revenue to record low levels.
+Software revenue was up more than 7% from the prior quarter and in line with the prior year performance.
+We believe we are well positioned for the second half of the year as software bookings exceeded $20 million and were up 3% from the prior quarter, while our backlog was up nearly 7.2% over the same period.
+Software maintenance revenue was another area of strong performance due to a more than 99% revenue renewal rate on maintenance contracts.
+Similar to Spok's wireless revenue stream, software maintenance revenue is a recurring revenue stream that provides the company with a more stable revenue and margin base.
+This quarter, more than 84% of our revenue streams were recurring in nature when you consider our solid wireless base and software maintenance contracts.
+This strong revenue base provides us with the ability to make key investments in our business while executing on our capital allocation strategy to enhance long-term stockholder value.
+In the second quarter, we also saw strong performance in a number of other key operating metrics, including solid improvements in operating expense management.
+Overall, we continued to operate profitably, enhance our product offerings and maintain a strong balance sheet while returning capital to our shareholders in the form of dividends and stock repurchases.
+Mike and <UNK> will provide details on our financial and operating performance shortly.
+But before that, I want to highlight a few key results for the second quarter.
+First, wireless subscriber and revenue trends continue to improve.
+Our annual rate of paging unit erosion for the quarter improved to a record low of 5.1%, while the quarterly rate improved 40 basis points sequentially to 0.4%.
+Our Healthcare segment increased by approximately 3,000 units in service in the second quarter.
+In addition, our annual and quarterly rates of wireless revenue erosion improved.
+Also contributing to slower wireless declines was a stable ARPU, or average revenue per unit.
+We were pleased to see the continuation of these positive trends, especially in our top-performing Healthcare segment, which now comprises approximately 80% of our paging subscriber base.
+Second, software bookings of $20.4 million in the second quarter included $10.5 million of maintenance renewals, which is a record high.
+Operations bookings totaled $9.9 million for the second quarter, in line with prior year results.
+And our software backlog grew to nearly $43.5 million at mid-year.
+Bookings included sales to both new and current customers with existing customers adding products and applications to expand their portfolio of communication solutions.
+Overall, we continue to see growing demand for our software solutions for critical smartphone communications, secure texting, emergency management and clinical alerting.
+We are proud to be working with more than 1,900 hospitals worldwide, including all of the best adult and children's hospitals, as defined by U.S. News & World Report.
+Spok continues to build an industry-leading reputation and is generating activity and momentum at conferences we attend.
+We're continuing to establish ourselves as a thought leader within the industry.
+In May, we released the second part of the company's annual mobility and healthcare survey.
+Spok has been conducting this survey since 2011 to assess mobile workflow enablement trends in hospitals across the country.
+More than 300 U.S. healthcare professionals responded to this year's survey regarding mobile strategy development, bring your own device policies, communications infrastructure and opportunities to improve mobile communications.
+Spok will continue to leverage the attention that we are receiving as a thought leader within our industry.
+Third, consolidated operating expenses in the second quarter, excluding depreciation, amortization, accretion and research and development costs, continued to improve on both an annual and sequential basis.
+We've discussed the investments that we are making in our product development and sales platforms.
+Most of that increase is reflected in our research and development category, which is up approximately 45% on a year-over-year basis.
+Mike will provide a bit more detail in a few minutes.
+But net of these expenses, we have seen improvement in many expense categories.
+Fourth, consolidated EBITDA, or earnings before interest, taxes, depreciation and amortization was $5.3 million, or 12.4% of revenue in the second quarter, 130 basis point improvement from the EBITDA margin in the prior quarter.
+Of course, margin levels will fluctuate over time, reflecting our level of investment and an aggressive hiring program in the areas of product development and sales.
+However, longer term, we are focused on transitioning to a sustainable and profitable growth model.
+And finally, again, we generated free cash flow in the second quarter, contributing to our ability to return significant capital to our stockholders in the form of cash dividends and share repurchases.
+During the quarter, the company paid cash dividends to stockholders totaling $2.5 million, or $0.125 per share.
+We also repurchased nearly 573,000 shares of common stock under our stock buyback program.
+I'll comment further on our capital allocation strategy later in the call.
+All in all, we posted solid operating results in the second quarter, and we look forward to further progress throughout the second half of 2017.
+I'll make some additional comments on our business outlook in a few minutes.
+But before I turn the call over to Mike <UNK> to review the financial highlights, let me briefly talk about a key addition we made to Spok's management team in the second quarter.
+In mid-May, we announced that Mark Costanza had joined the company in a new role of Spok's Senior Vice President of Professional Services.
+The addition of this role reflects our plans to broaden our portfolio of professional services and upgrade our enterprise delivery services and capability.
+Mark has been a great add to our leadership team, and we've already seen the benefits from the experience and talent he brings to our organization.
+With his background in building vision and cultivating relationships as well as his track record of improving the operations of hospitals and other healthcare IT businesses, Mark is the right person to join our executive team as we build for the future and growth.
+Spok has been very successful over the past few quarters in building our bookings and backlog levels.
+Mark will be laser-focused on running our professional services group to accelerate the conversion of that backlog into our revenue stream as we continue to take advantage of the large market opportunity in the healthcare IT market.
+With that, I'll turn the call over to Mike.
+Thanks, Vince.
+Before I review our financial highlights for the second quarter of 2017, I would again encourage you to review our second quarter Form 10-Q, which we expect to file later today, since it contains far more information about our business, operations and financial performance than we will cover on this call.
+As Vince noted, we were pleased with our overall operating performance for the second quarter and remain focused on executing against our business plan as we enter the second half of the year.
+In addition to the substantial progress we made toward meeting our long-term business goals, we saw solid sequential improvement in a number of key operating metrics.
+Revenue contribution from both software and wireless, combined with focused expense management, helped increase our quarterly operating cash flow, EBITDA and operating margins for the quarter as we continue to invest in our business for long-term growth.
+We also maintained our already strong balance sheet and continue to operate as a debt-free company at quarter-end.
+In the interest of time today, I will not review our second quarter performance on a line-by-line basis, since much of that information is contained in our news release, schedules and federal filings.
+If you have specific questions about our quarterly financial results, I would be glad to address those during the Q&A portion of this call.
+Instead, I would like to focus this morning on 4 key areas that I feel will give you a better idea of the drivers of our second quarter performance.
+These include a review of certain factors that impacted second quarter revenue, a review of selected items that impacted second quarter expenses, a brief review of certain balance sheet items, and finally, our financial guidance for the remainder of 2017.
+With respect to revenue, the second quarter total revenue was $42.3 million, up more than 2% from the prior quarter.
+Second quarter revenue performance resulted primarily from continued strong maintenance revenue renewal rates from our software customers and a lower rate of paging unit erosion that favorably impacted wireless revenue.
+Both sequential and year-over-year wireless attrition were at historical lows.
+Wireless revenue continues to exceed expectations, as we saw quarterly pager unit erosions slow to a record 0.4%.
+As a result, wireless revenue totaled $25.6 million, down only $200,000 from the prior quarter.
+This solid overall retention reflected another strong performance by our sales team to again generate significant wireless gross additions while minimizing churn and maintaining stable unit pricing.
+Second quarter software revenue of $16.7 million was up more than 7% from revenue of $15.6 million in the prior quarter.
+As I have noted on previous calls, our software operations revenue is now generally recognized on a ratable basis and totaled over $7 million for the second quarter, up nearly 17% from $6 million in the prior quarter.
+Maintenance revenue, the other component of software revenue, increased nearly 6% to $9.6 million in the second quarter from $9.1 million in the prior year period.
+It was also up slightly from the prior quarter.
+This increase reflects our continuing maintenance renewal -- revenue renewal rates in excess of 99% from our installed software solution base.
+Turning to operating expenses.
+We reported consolidated operating expenses, excluding depreciation, amortization and accretion, of $37.1 million in the second quarter.
+The year-over-year increase in our operating expense base is mostly due to the planned investments in our Spok Care Connect platform, primarily in the research and development category.
+Net of those planned investment costs, operating expenses totaled $32.4 million as compared to $32.6 million in the year-ago period.
+Continuous leverage of our operating platform continues to yield greater cost efficiencies across the business, including cost of revenue; service, rental and maintenance; and in certain areas of sales and marketing.
+This performance is the direct result of our cost management initiatives but has not come at the expense of our business operations as we continue to upgrade processes as well as human capital.
+Turning to headcount.
+We continue to adjust our employee levels to meet anticipated demand as well as make the necessary additions to support investments in the Care Connect platform.
+Our full-time equivalent employees, or FTEs, were 604 at June 30, 2017, versus 587 FTEs at December 31, 2016, and 597 FTEs at June 30, 2016.
+The majority of these additional FTEs are the incremental R&D staff for our software business in our Eden Prairie, Minnesota, facility and the build-out of our Care Connect platform.
+These employee levels will continue to change as we execute against our business plan.
+Turning to the balance sheet and other financial items.
+Cash totaled $107.2 million at June 30, 2017.
+Included in the $18.7 million net reduction in cash balances from the beginning of the year was the use of $20.2 million to fund dividend payments and share repurchases and $5.2 million spent to purchase property and equipment.
+This was offset by $6.7 million of cash generated by operating activities over the 6-month period.
+We expect to continue to use a portion of our cash in connection with quarterly dividends going forward.
+We exited the quarter with no debt outstanding and continue to operate as a debt-free company.
+Vince will comment further on our capital allocation strategy shortly.
+Finally, with respect to our financial guidance for 2017, as a result of the solid performance we saw in the second quarter, we are maintaining the 2017 guidance range that we provided last quarter.
+That includes total revenue to range from $161 million to $177 million; operating expenses, excluding depreciation, amortization and accretion to range from $153 million to $159 million; and capital expenditures to range from $8 million to $12 million.
+I would remind you, once again, that our projections are based on current trends and that those trends are always subject to change.
+With that, I will turn the call over to <UNK> <UNK>, who will update you on our second quarter sales and marketing activities.
+<UNK>.
+Thank you, <UNK>, and good morning.
+As previously outlined, our sales and marketing team delivered software bookings in the second quarter totaling $20.4 million.
+This performance was up on both a sequential and year-over-year basis.
+Our momentum continues, and we believe our strategy is resonating with our customers.
+Market recognition for the value of our enterprise health care communication platform is increasing, demonstrated by the level of conversations we have had with several customers and prospects, the volume of activity we see on our website and, most notably, by the stories behind our quarterly bookings.
+During the quarter, we welcomed more than 3 dozen new customers to the Spok family, primarily in the healthcare and government sectors.
+Healthcare remains a key part of our growth, comprising 88% of overall bookings in the U.S. for Q2.
+Nearly 1/4 of that business came from new hospitals and health systems that have never worked with us before.
+Among our new customers this quarter is an urban hospital in the Northeast.
+This hospital is part of a health system that is working to standardize their communication technology among all member hospitals.
+They have chosen Spok Care Connect because of our diverse capabilities.
+Spok will support a vital communications infrastructure, including contact center operations, automated caller services, emergency notifications and code calls.
+Another new customer this quarter, a midsize hospital in the Eastern United States, is looking to eliminate paper binders of on-call schedules and contact information.
+With Spok Solutions, they will be able to streamline and automate much of their code call process to save previous -- precious time during emergencies when patient lives are at stake and every second counts.
+To be effective, emergency communications must be dependable and reliable, an area that is becoming a top priority for many hospital leaders.
+We are seeing an increase in demand for our solutions based on these needs.
+For example, a Southeastern hospital health system that has been a Spok customer for more than a decade is planning to consolidate multiple hospital call centers into a single secure location.
+The first step is to centralize all of the alarms that are currently handled at each individual facility.
+To implement this, the customer requires a reliable, dependable alerting solution to ensure continuity of coverage, and they chose Spok because of our ability to meet this requirement.
+In the Midwest, a health system that has experienced a large increase in call volume over the past several years is moving and expanding their call center.
+Beyond simply adding more operators, this long-time customer also wants to ensure the continuity of vital communications in the event of emergency.
+Endurance of a system is a top priority, and this customer places their trust in Spok to deliver it.
+And at a hospital in the Southeast, a Spok customer that recently upgraded the secure messaging and emergency notification solutions is working with us to add redundancy to the communication infrastructure and update their contact center.
+This customer relies on Spok Solutions to process all of their code calls, including paging physicians from other locations.
+The final example I want to highlight this quarter is a health system in the Southeast that is upgrading all of their Spok pagers, more than 7,500 units, to our encrypted pagers with display lock and remote wipe capabilities.
+A long-time customer is already utilizing Spok Care Connect to support their communications infrastructure.
+This customer wanted to enhance the security of their network and further protect patient privacy and safety with secure messaging from end to end.
+All of these examples demonstrate the strategic enterprise-level investments hospitals are making with Spok.
+These customers are working with us to improve the reliability of their communications and capture the value that our unified healthcare communications platform make possible.
+While healthcare comprises the largest percentage of our business, public safety remains an important part of our strategic plan.
+Public safety customers around the world rely on our solutions to support critical communications as well as emergency call handling at their 911 dispatch centers.
+Another of our 6-figure deals this quarter comes from a public safety customer that serves one of the most populous counties in the Western United States.
+They want to update their system and chose to stay with us because Spoke meets all of their technical requirements, has reliably supported their dispatchers for nearly a decade, and they have the utmost confidence in our ability to also help them streamline and simplify their workflows during the upgrades.
+After an organization purchases Spok Solutions, our highly skilled professional services group gets to work delivering an exceptional experience and setting the customer up for success.
+In addition to implementing Spok solutions, these experts also help our customers optimize their communication environment.
+For example, in second quarter, one of our newer customers, a midsized hospital in the East, needed to get ready for an international sporting competition being hosted in their area.
+Prior to working with Spok, it took more than 2.5 hours to alert the emergency preparedness team at a large event.
+With Spok Solution and assistance from our professional services team, the hospital reduced the time to less than 10 minutes, helping ensure that their staff is able to assist quickly in the event of an emergency.
+Before turning this back over to Vince, I want to provide a brief update on our marketing activity.
+Ongoing investments and activities in these areas help us drive leads and fill the sales pipeline.
+Our new website that launched in January includes changes to enhance our Spok Care Connect story, improve our visibility in searches and provide a better experience of visitors on mobile devices.
+These efforts are proving to be highly effective.
+The percentage of mobile users has more than quadrupled over the past year, and our website traffic overall has more than doubled over that period, largely driven by stronger ranking in search engines.
+Additionally, our social reach continues to show significant growth and engagement with our audience, such as likes, retweets and comments, has also been more than doubled the past year.
+Marketing is also responsible for planning and coordinating Spok's presence at a large number of trade shows throughout the year.
+There were 3 notable shows for us in the second quarter, Becker\xe2\x80\x99s Hospital Review, Healthcare IT Institute and The Association of Medical Directors of Information Systems' PCC Symposium.
+We are strategically expanding our participation at these events with speaking engagements and focus groups to elevate our brand awareness among C-level executives.
+For example, at the Healthcare IT Institute's show in early June, I presented on the topic of how to bolster the benefits of an EHR by improving hospital communications.
+I received very positive feedback from the audience of healthcare IT executives.
+And our CMO, Dr.
+Andrew Mellin, got a great response at his talk about the CIO perspective on supporting clinical workflows at Becker's as well as his focus group at AMDIS symposium on clinical communication inside and outside the EHR.
+A large percentage of the audience at all of these shows is made up of VPs and C-level titles.
+And more than half of the leads we receive are from new prospects.
+These shows continue to be valuable opportunities for us to grow our brand and showcase the benefits of our integrated platform, Spok Care Connect.
+Looking forward, we expect continued market demand for our integrated communications, especially in healthcare.
+Our investment in research and development is ongoing.
+We have hired more than 3 dozen skilled professionals so far in 2017 to help us accelerate product development, meet the demand for Spok Care Connect and enhance our solutions for clinical workflow improvements and better patient care.
+And our customers continue to reinforce that an enterprise-wide communication platform fulfills their needs and is the right strategy for Spok.
+With that, I'll pass it over to Vince.
+Okay.
+I don't see any questions in the queue.
+So look, thanks a lot for joining us this morning.
+We look forward to speaking with you again after we release our third quarter results in October.
+Everyone, have a great day.

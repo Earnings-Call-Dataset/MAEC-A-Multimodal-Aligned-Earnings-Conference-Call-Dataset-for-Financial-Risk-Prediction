@@ -1,0 +1,36 @@
+Yeah.
+So our fabs are not a bottleneck in any way.
+We've benefited greatly out of -- from the merchant chip sales that we have going on out of Japan for 10 gigabit applications, or 40 gigabit applications since they use the 10 gigabit lasers.
+So we've been supplying product into that market segment.
+Quite successful in terms of revenue and margins.
+In terms of 100G, we have zero constraint from a fab capacity point of view, nor do we expect to have any.
+And so we're well set up to scale, which is one of the big levers that we have in going, I think, back to <UNK>'s earlier question about, you know, can we continue to grow the gross margins once we get past the March quarter.
+The fab leverage is enormous for us, particularly in our UK fab.
+As the ACO ramps, that will be a great margin source for us in terms of fab recoveries.
+And <UNK>, I would only connect the dot with the CapEx at $30 million to $40 million we have for the year.
+That's really for assembly test equipment, just sort of echoing <UNK>'s comment of not a constraint at the fab level.
+Sure.
+Yeah.
+I mean again, <UNK>, we don't really guide beyond the one quarter.
+We definitely see the traditional down in the March quarter, and as <UNK> commented, some of the bringing on the additional capacity.
+But from an overall momentum standpoint, we continue to have good momentum in 100 gig and, you know, I would call those are sort of the themes that I'd share with you.
+Thanks, <UNK>.
+Yeah, just for the past quarter there was little impact, if you will, for exchange rates.
+And so I don't think it's material given at least the level of volatility that was shown in the September quarter.
+I'm sorry, you mean could the demand remain strong in the March quarter.
+Is that --
+Yeah.
+No, it most certainly will and I do think it may even carry over into the following quarter.
+I think that we have to remember the March quarter is 12 not 13 weeks for China for the reason you stated in the sense that the Golden Week is more or less a week of downtime.
+But we do -- you know the demand that we're talking about is starting this quarter and will for certain carry into the March quarter.
+No, I think that what we hear is exactly what you said, that this is pent up demand but there is more demand as build outs continue.
+And the 20,000 ports, as people have talked about, is the China mobile.
+I don't have visibility as to the number of ports China telecom is talking about, but my understanding is that some of the recent releases is more than just China mobile.
+Or pending awards.
+So that would be added into the 20,000 I would think, but I don't have any numbers on that.
+Yeah, I would say -- I would say that many of our 10 gig products are legacy and basically don't see much in the way of price erosion.
+The big sellers are in the tunable side, so tunable lasers and in there, essentially there's three players, us, Lumentum, Finisar.
+And you know, it moves around in a fairly normalized way.
+No.
+Yeah, that's why we haven't been hit.
+Yeah, there were two with 16% each.

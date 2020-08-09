@@ -1,0 +1,85 @@
+Yes.
+So on the BGQ, Blue Gene/Q systems out there from IBM, not much decisions made in the quarter with those.
+In fact, I don't think any of those made decisions in the quarter.
+But there's clearly activity going on at virtually every one of those sites right now.
+And I would expect some of that business in 2016 and 2017.
+As we mentioned in the last quarter call, we're seeing a little bit more extension of those systems than we were originally expecting.
+But I think we're seeing that a little bit in general where people are holding on to their systems a little bit longer and buying a larger system at the end of that.
+We're seeing that really across the board.
+But right now we feel really well positioned for not only that IBM Blue Gene opportunities, but also the iDataPlex opportunities as those moved over to Lenovo and we continue to be engaged with those customers.
+Yes, <UNK>.
+So I think I know the company that you're referring to.
+But the way that I would put it is, we did see a slower ramp in the first quarter and we didn't see a lot of other decisions being made.
+So it wasn't that we lost a lot of business in the first quarter or anything.
+It was really just a lot of -- there wasn't that many decisions being made.
+I think the other company that you're mentioning saw very specific weakness within one government agency.
+I don't think we saw that same thing.
+I think that that's probably not an agency that we do that much work in.
+But I think the general -- we just didn't see as many people making final decisions on purchasing in the first quarter as we typically do in the start of the year.
+And it's important, just like everything else in our business, it is pretty variable.
+So you can go from feast to famine.
+And even if you went back to last year and the year before, we had some monstrous quarters and orders, and we had some quarters that wouldn't have been so high.
+And it's just a lot of timing of when certain procurements come to a head.
+We're still planning for it being operational in 2017, the new manufacturing facility in Chippewa Falls.
+We just got clearance on the land, and so we're working toward breaking ground here this quarter.
+Yes, that's a great question.
+It's interesting, because as we've kind of come out and evolved in this whole big data analytics space, I think the space itself is evolving.
+I was just talking to a customer in this area yesterday and he was telling me that the tools that they are now using are completely different than the tools that they were even using six months ago.
+So it's really important these days, because the space is evolving so quickly, that you have to be able to evolve with that space.
+And I think with the whole machine learning and deep learning coming into the big data space, that's even more aligned with more traditional kind of HPC or supercomputing style work that we're very familiar with.
+And so we are continuing to see this convergence between supercomputing and data analytics as we go forward.
+With our specific product that you mentioned around Urika, we have the Urika-GD system, which is for graph analytic, and our XA system, which is for basically advanced analytics, doing more Hadoop or Spark style analytics.
+And what we've seen more and more is customers starting -- you know, we're going after the high end of the market, as you can imagine.
+We're focused on leveraging our performance and our speed and capability to give those customers that need that capability a unique offering in that space.
+And while we've had a number of successes, one of the things that we're really starting to see is this kind of evolution of the software infrastructure and tools that's really evolving very quickly in the space.
+I mentioned that we have a new offering, both in the big data analytics space and storage space coming out later this year.
+And so that's something that we're really excited about.
+And I think as we start to get this convergence in the market we're starting to understand how to best supply our technologies into that market space and move forward.
+So we're not seeing too much yet, but kind of watch the space on that one.
+But I do think that over the -- that this whole big data area is going to start to ramp up a little bit for us over the next few years.
+Yes.
+<UNK>, thanks.
+That's a great question.
+So I would put them in two completely different buckets.
+So I think one set of issues is around the components and the technology delays that we talked about.
+And then the second is around orders.
+So I'd put those in two separate areas.
+There's a little bit of connection between those overall because a lot of people like to see the technology play out and be able to test on it before they make a business decision.
+But, I really would say that they're in pretty separate buckets overall.
+When we look at the component delays, as I mentioned, kind of all three of the processors that we've been focused on are moving to the right of our schedules.
+And we're pretty much through that with Broadwell now.
+We still have more work to go with Knights Landing which is the second one that's up.
+And then, the Pascal processor later on this year, the NVIDIA P100.
+On the orders, that's a separate issue.
+So I just want to keep -- I would say, <UNK>, they're not really connected.
+Yes.
+So, we've seen, for instance, in certain of our market segments we've seen some changes.
+So for instance in the commercial segment, the energy market is our biggest segment there.
+And clearly with the situation with oil and gas customers, we saw a pretty major slowdown in that segment in the first quarter.
+We are engaged across the segment, so there's a lot of discussions and we're very hopeful of still doing good business in that segment this year.
+But it's not clear if that's going to return this year or not.
+And I think that that's something that kind of goes toward something that's going on out there in the market that's well beyond Cray, but that is impacting Cray overall.
+On the government side of the market, I would say that we're not seeing anything specific.
+We've just seen a number of procurements that we were expecting were going to close first quarter that just didn't complete and were extended for various reasons.
+But we're not seeing a specific reason, like, budgets or not getting out there or people slowing things down for a specific maybe technology issue or something.
+We just saw kind of a general slowing across the board.
+And I think we would say we saw that pretty much around the world, not just in the US.
+So I think it's a combination of things.
+And, like I said, I think the way to track it is to really look at kind of our next quarter number, because that's really where we're going to have a much stronger headlight into the remainder of the year and where we'll be.
+So these next few months are big for us to try and close some deals and get the order book up.
+I think on each deal we do the margins differ.
+It isn't consistent on deals.
+So we just had a good mix this last quarter of the orders that came in, a relatively small sample that had a bit of above-average margins there.
+We are working to improve margins.
+They weren't the b- -- where we wanted them to be last year.
+But I think that as we view it today, first quarter was an aberration on the positive side, on a small sample size.
+My sense is it hasn't changed significantly there in the environment.
+And because we didn't have tons of activity, I wouldn't say we had a huge sample size.
+But I don't think the environment for pricing has changed in a significant way.
+It's competitive, particularly when you are selling cluster systems that are less differentiated in the market.
+Thank you.
+We're off to a good start to the year.
+Our competitive position is very strong and we're gaining momentum in each of the markets we compete in.
+Thank you all for joining the call today and for your continued support of Cray.
+Have a great evening.
+Thank you, everyone.

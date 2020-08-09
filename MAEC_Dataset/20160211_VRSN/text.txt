@@ -1,0 +1,259 @@
+Thank you, operator, and good afternoon, everyone.
+Welcome to VeriSign's fourth-quarter and full-year 2015 earnings call.
+With me are <UNK> <UNK>, Executive Chairman, President and CEO; Todd Strubbe, Executive Vice President and COO; <UNK> <UNK>, Senior Vice President and CFO; and Pat Kane, Senior Vice President, Naming and Directory Services.
+This call and our presentation are being webcast from the Investor Relations section of our VeriSign.com website.
+There you will also find our fourth-quarter and full-year 2015 earnings release.
+At the end of this call, the presentation will be available on that site, and within a few hours the replay of the call will be posted.
+Financial results and our earnings release are unaudited, and our remarks include forward-looking statements that are subject to the risks and uncertainties that we discuss in detail in our documents filed with the SEC, specifically the most recent report on Forms 10-K and 10-Q and any applicable amendments, which identify risk factors that could cause actual results to differ materially from those contained in the forward-looking statements.
+VeriSign retains its longstanding policy not to comment on financial performance or guidance during the quarter unless it is done through a public disclosure.
+The financial results in today's call and the matters we will be discussing today include GAAP and non-GAAP measures used by VeriSign.
+GAAP-to-non-GAAP reconciliation information is appended to our earnings release and slide presentation, as applicable, each of which can be found on the Investor Relations section of our website.
+In a moment, <UNK> and <UNK> will provide some prepared remarks, and afterward, we will open up the call for your questions.
+With that, I would like to turn the call over to <UNK>.
+Thank you, <UNK>, and good afternoon, everyone.
+Our fourth-quarter and full-year 2015 results were in line with our objectives of offering security and stability to our customers while generating profitable growth and providing long-term value to our shareholders.
+During 2015, VeriSign delivered strong financial performance, including reporting $1.059 billion in revenues, expanding free cash flow to $629 million, and producing full-year non-GAAP operating margins of 61.5%.
+Operationally, 2015 was another strong year for the Company.
+VeriSign processed 38.8 million new .com and .
+net domain name registrations and finish the year with 139.8 million common net names in the domain name base.
+During the year, we marked more than 18 years of uninterrupted availability of the VeriSign DNS for .com and .
+net.
+As a part of managing our business, during the fourth quarter we continued our share repurchase program by repurchasing 1.8 million shares for $150 million.
+During the full year 2015, we repurchased 9.3 million shares for $622 million.
+Effective today, the Board of Directors increased the amount of VeriSign common stock authorized for repurchase by approximately $611 million to a total of $1 billion authorized and available under the share buyback program, which has no expiration.
+Our financial position is strong, with $1.9 billion in cash, cash equivalents and marketable securities at the end of the quarter, of which $753 million was held domestically and the remainder held abroad.
+We continually evaluate the overall cash and investing needs of the business and consider the best uses for our cash, including potential share repurchases.
+At the end of December, the domain name base in .com and .
+net was 139.8 million, consisting of 124 million names for .com and 15.8 million names for .
+This represents an increase of 6.3% year over year as calculated, including domain names on hold for both periods.
+In the fourth quarter, we added 4.6 million net names to the domain name base after processing 12.2 million new gross registrations.
+In the third quarter of 2015, the renewal rate was 71.9% compared with 72% for the same quarter of 2014.
+While renewal rates are not fully measurable until 45 days after the end of the quarter, we believe that the renewal rate for the fourth quarter of 2015 will be approximately 73.3%.
+This preliminary rate compares favorably to 72.5% achieved in the fourth quarter of 2014.
+As we discussed over the last few quarters, there are many factors that drive domain growth.
+These include but are not limited to Internet adoption, economic activity, e-commerce activity, and registrar go-to-market strategies.
+Towards the end of the third quarter and mainly during the first two months of the fourth quarter, we saw higher volume of gross additions coming largely in our Asia-Pacific region, primarily through registrars in China.
+While we believe China and the Asia-Pacific region will continue to perform well, we expect these markets to return to more normal levels in 2016.
+Based on registrar feedback, the most likely contributor of the additional gross addition volume appears to have been driven primarily from domain investment activity in that region.
+Also, as we have noted in the past, the renewal rates for domain names registered in emerging markets such as Asia-Pacific have historically been lower than those registered in more developed markets.
+Considering these factors, we expect the first three quarters of the year to have roughly a similar pattern of quarterly net additions to the domain name base as we saw during 2015.
+However, we expect the fourth quarter of 2016 to be somewhat unique as the expiring domain name base in that quarter will have the largest percentage of first-time renewing names that we've seen, as a result of the strong Q4 2015 performance.
+While it's difficult to assess what the renewal characteristics of these new names will be, due to the unusually large upcoming Q4 2016 expiring base, we expect fourth-quarter deletions to be elevated.
+Accordingly, deletions could exceed additions in the fourth quarter of 2016.
+Based on these and other factors, we expect the first-quarter 2016 net change to the domain name base to be an increase of between 1.5 million and 2 million names.
+And we are forecasting the full-year 2016 domain name base growth rate to be between 0.5% and 2%.
+As noted in prior calls, updates to the domain name base are posted on our website at least once per day, and our website allows you to track the domain name base throughout the coming quarter and year.
+Finally, as an update related to the launch of our internationalized domain name versions of .com and .
+net, during December the localized katakana version of .com in Japanese launched and will be in the sunrise period until March 14.
+Now I'd like to turn the call over to <UNK>.
+Thanks, <UNK>, and good afternoon, everyone.
+For the full year of 2015, we recognize revenue of $1.059 billion, up 4.9% from full-year 2014 revenue, and delivered GAAP operating income of $606 million, up 7.4% from $564 million for the full year 2014.
+During the fourth quarter, we recognized revenue of $273 million, up 6.5% year over year, and delivered GAAP operating income of $158 million, up 11.3% from $142 million in the fourth quarter of 2014.
+The GAAP operating margin in the fourth quarter came to 58.1% compared to 55.6% in the same quarter a year ago.
+GAAP net income totaled $102 million compared to $65 million a year earlier, which produced diluted GAAP earnings per share of $0.76 in the fourth quarter this year compared to $0.48 for the fourth quarter last year.
+As described last year, our fourth-quarter 2014 GAAP net income was decreased by $26 million and diluted EPS was decreased by $0.19, primarily due to a nine US income tax charge related to a reorganization of certain international operations and a charge in estimate for US income tax charges related to the repatriation of offshore assets back in 2014.
+As of December 31, 2015, the Company maintained total assets of $2.4 billion.
+These assets included $1.9 billion of cash, cash equivalents and marketable securities, of which $753 million were held domestically, with the remainder held abroad.
+Total liabilities were $3.4 billion at year end, up from $2.8 billion at the end of 2014, primarily as a result of the issuance of a new 10-year, 5.25% $500 million debenture completed in the first quarter of 2015.
+I will now review some of our key metrics for our fourth-quarter operating metrics, which are revenue, deferred revenue, non-GAAP operating margin, non-GAAP earnings per share, operating cash flow and free cash flow.
+I will then discuss our 2016 full-year guidance.
+As mentioned, 2015 full-year revenue was $1.059 billion, up 4.9% from full-year 2014 revenues.
+Revenue for the fourth quarter of 2016 (sic - see Press Release, "2015") totaled $273 million, up 6.5% from the fourth quarter of 2014 and 2.6% sequentially.
+During the quarter, 59% of our revenues was from customers in the US, and 41% was from international customers.
+Deferred revenue at the end of the fourth quarter total $961 million, a $71 million increase from year end 2014.
+Fourth-quarter non-GAAP operating expense, which excludes $12 million of stock-based compensation, totaled $103 million compared with $99 million in the third quarter of 2015 and down from $104 million in the same quarter a year ago.
+Non-GAAP operating margin for the fourth quarter was 62.4% compared to 59.4% in the same quarter of 2014.
+Full-year 2015 non-GAAP operating margin was 61.5%.
+Non-GAAP net income for the fourth quarter was $105 million, resulting in non-GAAP diluted earnings per share of $0.79 based on a weighted average diluted share count of 133.4 million shares.
+This compares to $0.70 in the fourth quarter of 2014 and $0.78 last quarter, based on 135.9 million and 131.7 million weighted average diluted shares, respectively.
+Full-year 2015 non-GAAP earnings per share was $3.05, a 12% increase over 2014.
+We had a weighted average diluted share count of 133.4 million shares in the fourth quarter compared to 131.7 million shares in the third quarter.
+Dilution related to the convertible debentures was 21.4 million shares based on the average share price during the fourth quarter compared with 14.7 million for the same quarter in 2014 and 18 million shares last quarter.
+Operating cash flow and free cash flow for the fourth quarter were $189 million and $176 million, respectively, compared with $170 million and $159 million, respectively, for the fourth quarter last year.
+Full-year 2015 operating cash flow was $651 million compared with $601 million for 2014.
+Free cash flow for 2015 was $629 million compared with $568 million for 2014.
+Also, as we have discussed on recent earnings calls, we expect our cash tax rate to stay below the 26% tax rate used for non-GAAP calculations for at least the next several years.
+In 2016, we expect to pay cash taxes of approximately $10 million to $20 million.
+Due to domestic tax attributes, including cash tax benefits from our convertible debentures, substantially all of the expected cash taxes in 2016 are international.
+With respect to full-year 2016 guidance, revenue for 2016 is expected to be in the range of $1.110 billion to $1.135 billion, representing an annual growth rate of 5% to 7%.
+Full-year 2016 non-GAAP operating margin is expected to be between 62.5% and 64%.
+Our non-GAAP interest expense and non-GAAP nonoperating income, net, is expected to be an expense of between $114 million to $120 million.
+Capital expenditures for the year are expected to be between $40 million and $50 million.
+In summary, the Company continued to demonstrate sound financial performance throughout 2015.
+We have grown non-GAAP operating margins, non-GAAP net income, operating cash flow, and free cash flow.
+We have maintained a strong financial position and expect our strong operating cash flow generation to continue as a result of our financial model.
+Now I will turn the call back to <UNK> for his closing remarks.
+Thank you, <UNK>.
+I want to take this opportunity to update you on another item.
+On March 14, 2014, the US National Telecommunications and Information Administration, or NTIA, announced its intent to transition its historic stewardship role related to the Internet's domain name system to the global multi-stakeholder community.
+A year later, in March of 2015, in preparation for the implementation phase of the IANA stewardship transition, MTIA asked VeriSign and ICANN to submit a proposal detailing how best to remove NTIA's administrative role associated with root zone management.
+These related root zone management functions involve our role as root zone maintainer under the cooperative agreement with the Department of Commerce.
+In response to the March 2015 request from NTIA, IACNN and VeriSign submitted a proposal to NTIA describing how best to remove NTIA's administrative role associated with root zone management in a manner that maintains the security, stability and resiliency of the Internet's domain name system.
+NTIA published this joint ICANN-VeriSign proposal on August 17, 2015, noting it was anticipated that performance of the root zone maintainer function would be conducted by VeriSign under a new root zone maintainer agreement with ICANN once the root zone maintainer function obligations under the cooperative agreement were completed.
+ICANN and VeriSign are in the final stages of drafting the new root zone maintainer agreement to perform this root zone maintainer role as a commercial service for ICANN upon the successful transition of the IANA functions.
+The root zone maintainer functions performed by VeriSign are delivered via the secure, stable and resilient purpose-built DNS infrastructure that has delivered .com, .
+net and ANJ root zone services for an uninterrupted and unparalleled 18 years.
+To ensure that root operations continue to perform at the same high level during the expected 10-year term of the root zone maintainer agreement, ICANN and VeriSign are in discussions to extend the term of the .com registry agreement to coincide with the expected 10-year term of the root zone maintainer agreement.
+Ensuring that the terms of the two agreements are the same will promote the stability of root operations and will remove potential instability that might otherwise arise if the terms did not coincide.
+VeriSign's commitment to security, stability and resiliency within the DNS is the first priority and consideration in the performance of our roles as directed by ICANN and the NTIA.
+While we cannot yet determine when or if these documents will be completed, having stability with these key contracts is an important component of the stability of the core infrastructure of the Internet.
+While ICANN and VeriSign are in the final stages of preparing the root zone maintainer agreement and the .com registry agreement extension documents, there are several important steps that still need to occur, including completing the drafting of the agreements, posting them for public comment, and obtaining approvals from ICANN's and VeriSign's Board of Directors.
+Additionally, under the cooperative agreement, we may not enter into the contemplated extension of the com registry agreement without the prior written approval of the Department of Commerce.
+If the Department does not approve the extension, then the current com registry agreement will remain unchanged.
+We will provide periodic updates as appropriate on our progress toward these objectives.
+In closing, during the last year we furthered our work to protect, grow and manage the business while delivering value to our shareholders.
+The end of 2015 marks five years since the completion of our divestiture program and the sale of our authentication services business.
+Our goal then was to simplify the Company's business through divestment of non-core assets and to focus on profitability and value creation.
+Since the end of 2010, revenue has grown sequentially for five straight years.
+Annual non-GAAP EPS has grown steadily from $1.04 in 2010 to $3.05 in 2015.
+Free cash flow has grown steadily and was $629 million during 2015.
+Non-GAAP operating margin has risen steadily from 41.8% in 2010 to 61.5% during 2015.
+We have returned $3.8 billion to our shareholders, including repurchasing over 70 million shares for $3.36 billion, which exceeds our domestic free cash flow for the same period.
+We believe the long trendlines of growth in the top and bottom line, along with a consistent track record in returning generated value to our shareholders through effective capital allocation and an efficient capital structure, are what matter most to our shareholders.
+We believe that proper balance within our strategy framework, protect, grow and manage, is what makes it possible for us to deliver this type of consistent long-term result and simultaneously serve the interests of our shareholders, employees and customers.
+I'm sometimes asked what the next big thing is for VeriSign.
+And my answer is simple: more of the same, steady and efficient operation of a great business so that we can steadily and consistently create value and efficiently return that value to our shareholders.
+We will now take your questions.
+Operator, we are ready for the first question.
+Sure, <UNK>.
+So, first of all, I think it helps to just understand that we are not actually changing the terms of the .com registry agreement, and this is not a renewal.
+This is an extension.
+We are negotiating entering into a 10-year contract with ICANN to perform commercial services as the root zone maintainer, services that we now perform under contract to the NTIA.
+The contemplated or anticipated term of that agreement is 10 years.
+In order to ensure the same steady, available, uninterrupted, secure and stable environment that we have been providing for three decades as a root zone maintainer, it is also anticipated -- we are discussing the extension of the .com registry agreement for 10 years.
+So at that point, should all of these conditions that I described earlier -- for example, approval of ICANN's Board of Directors and VeriSign's Board of Directors -- no changes whatsoever can be made to the .com registry agreement without the consent of the NTIA.
+So, subject to those approvals and the transition occurring, then we would have 10-year concurrent terms for the root zone maintainer agreement and the .com registry agreement.
+So what you would see is essentially a change of the date, the term of the .com registry agreement.
+That's essentially the change.
+From an investor viewpoint, you would, instead of a renewal in 2018, you would see a 10-year term that starts with the effective date of the two changes, the root zone maintainer agreement and the extended .com registry agreement.
+So instead of November 30, 2018, you would see a date that is 10 years from the effective date of those two.
+So again qualifying all of this to say that if we conclude our negotiations, we get all the necessary approvals, the triggering event that marks the, quote, effective date would then be the IANA transition occurring.
+That process has been underway since March of 2014.
+I certainly can't say with any definite date when that will happen, but I can tell you that there is steady progress on the transition.
+The target date is September of 2016.
+That is the date of the expiration of the IANA contract between NTIA and ICANN.
+And if everything occurs at that point, and it is certainly possible all of the work that needs to be done can be accomplished by that date -- but again I can't, of course, tell you what will happen when.
+I can simply tell you that that is everyone's goal and that the community -- ICANN, NTIA, etc.
+-- are all driving for that September 2016 date.
+So that is the best date that everybody is shooting for.
+So if you wanted to know roughly when that might happen, that would be the target date.
+Well, <UNK>, this is <UNK>.
+Just to put some more clarification around it, the growth in the fourth quarter was not unique to .com and .
+net.
+The local ccTLD, .
+cn, reported increased growth in the quarter.
+We've seen other TLDs report growth.
+And so com and net have also performed quite well in that year.
+So we clearly saw the domain investment community in the emerging market perform well.
+Again, we don't have direct visibility into the end user.
+Our customers are the registrars in those regions.
+But again, based on the information that we have, we saw that the investor community performed well across the board.
+This is <UNK> Let me take the first part of your question.
+I would just reiterate again that what we are contemplating here, what we are working towards is an extension of the com agreement.
+So the terms wouldn't change in the com agreement.
+It is literally an extension so that it coincides with the new root zone maintainer agreement.
+Essentially, the goal is to make the term of those two contracts to run concurrently.
+That's the objective.
+So we don't anticipate that there will be any substantive change or any change, actually, to the terms of the agreement itself, if that helps.
+Does that answer your question.
+So with regard to your question on Q4 net adds, as discussed, net additions in the fourth quarter were 4.6 million, and they were comprised of 12.2 million new adds, new registrations, and 7.6 million deletes from prior periods.
+The 4.6 million was up about 3.8 million from the 800,000 we achieved in Q4 2014 and up about 2.9 million from the 1.7 million net adds delivered in Q3 2015.
+The Q4 year-over-year improvement was primarily a result of about 3.5 million incremental registrations coming out of our Asia-Pacific region.
+As we mentioned, that was primarily China, and appear largely to be from the investor community over there.
+Just to clarify, I wanted to make sure I answered entirely your first question.
+You were asking me about a change in terms of the com agreement.
+Did you mean to implicate at all the cooperative agreement and the terms, for example, such as the price caps on the price of .com.
+Yes.
+So let me just say that, first of all, the terms of the .com agreement will not change.
+And the presumptive right of renewal, of course, would remain in the com agreement.
+The com agreement doesn't actually address pricing; that's addressed separately in the cooperative agreement.
+The Amendment 11 of the cooperative agreement is the section that describes our contractual relationship with NTIA with respect to the root zone maintainer role.
+That is the portion that, it's contemplated, would essentially move into a new contract, the RZMA that we are negotiating with ICANN.
+Amendment 32 is a separate part of the cooperative agreement that addresses pricing with respect to our ability to seek a price change if we think it's justified by market conditions.
+So I certainly don't anticipate that that would change, that would remain.
+So VeriSign's right to seek relief from price controls based on market conditions that would warrant it would remain.
+Yes, I don't believe that's the case.
+I think the extension means that the date changes on that agreement, but any change to the agreement requires the consent of the NTIA.
+And so I can't speak for NTIA; this is their process.
+The part of the process we are involved in would be to negotiate the root zone maintainer agreement with ICANN, to present that along with a com contract that has the date extended and present that to NTIA.
+This is, of course, in response to their March 2015 request for a way to transition the root zone maintainer role and to take NTIA out of that process.
+So that would be up to them when they see it.
+So I think that's what they asked for and that's what they are looking for.
+This is not a renewal in the sense that all of the normal things that happen during a renewal would happen.
+So I don't quite see it that way.
+I see this as precisely what NTIA has called it.
+It's a parallel process to address the issue of the root and parallel to the IANA transition process which began in March of 2014.
+Yes.
+So from a sales and marketing perspective, we would expect that sales and marketing expense to be similar as a percent of revenue as it has been this year.
+This is <UNK>.
+In a word, no.
+But let me just say this.
+During my earlier remarks, I mentioned that the next big thing for VeriSign is more of the same, what we did for the last five years in efficiently running our business, providing security and stability, generating value and efficiently returning that value to our shareholders.
+That's what you're going to see for the next five years.
+So some sort of inorganic growth strategy to try to grow in other businesses or non-core businesses is not part of our plan.
+And I certainly don't see that happening.
+And we have been very consistent about that messaging.
+Now, I've also consistently said something else over the last year or two, which is that, for example, the new GTLD program could present some inorganic opportunities in our core business.
+And that's certainly still true.
+In fact, just recently, a group of observers of that marketplace who are heavily involved in it all opined that 2016 could be the year of consolidation in that business.
+And certainly, those opportunities to acquire growth in our core business would be something we would look at.
+And then we have been very consistent about all of that.
+Since completing the divestitures, our position on acquisitions is essentially unchanged.
+But again, if we see opportunities that come along, we are not opposed to looking at those, as long as they are consistent with our core business, consistent with our commitment to deliver profitable growth, again, the opportunity to participate in the consolidation in 2016 -- that's an opportunity for us.
+As a significant part of our corporate strategy for 2016, we have evaluated and we are pursuing and we will continue to evaluate and pursue acquisitions of TLDs that are currently in operation, those that have not yet been awarded, in support of our growth strategy, so long as they fit with that strategy.
+Almost.
+Yes, for the most part, you have it correct.
+But let me just point out the .com -- so the short answer to your question is yes, I don't expect any of that to change.
+I anticipate that we would have our Amendment 32 rights to petition based on changing market conditions for price relief, and also that, certainly, the agreement calls for the ability for VeriSign to seek so-called cost-justified price increases.
+And that includes things like cost of implementing consensus policies or specific threats to the DNS that are extraordinary that we have to respond to, unanticipated expenses associated with responding to threats.
+I don't see those changing at all.
+But in the front part of your question, you sort of lumped the .com registry agreement and the cooperative agreement together, and those are different agreements.
+What we are doing here is we're seeking an extension to the .com registry agreement.
+The cooperative agreement expires in 2018, and we are not seeking any change to that.
+That is up to NTIA.
+That is their process, their contract.
+So I would certainly defer to them.
+But we are not rolling up those two together for a 10-year extension.
+We're just simply ensuring that the .com registry agreement -- which, I might add, has the most stringent SLAs, the most stringent security performance requirements of any registry agreement -- run concurrently with the root zone maintainer agreement because, remember, our performance as the root zone maintainer and publisher -- essentially, you can think of it as the bootstrapping process of the Internet, which we do at least twice a day.
+And it is critically important to the secure operation of the global Internet that that process be done in an uninterrupted, secure way.
+And so, in order to achieve that, we are seeking a concurrent term for the .com registry agreement which addresses the infrastructure and the performance requirements for that infrastructure that provides the security for com and net and the roots to run concurrently with the root zone maintainer agreement, for obvious reasons, to avoid any possible instability that might result.
+The cooperative agreement, the only thing that we anticipate would change -- I'm not speaking for NTIA, but I assume at some point the Amendment 11, which talks about our role as the root zone maintainer, would, of necessity, change.
+But we have no anticipation or expectation that anything else would change.
+It expires in 2018, but it's up to NTIA to decide at that point what happens.
+Well, I think it is factored in.
+I'll let <UNK> offer you some more color on that.
+But I will just say that Q4 is a ways off.
+It is unique.
+We had basically roughly a 50% increase from the year-ago quarter in Q4 of 2015.
+I think we had eight-point-something-million gross adds in Q4 of 2014, and we went to 12.2 million in Q4 of 2015.
+So it was extraordinary in that sense.
+And it's technically possible that a wide range of outcomes could result.
+And so I just wanted to point out that one possibility certainly is that deletes could exceed adds, just because of the sheer volume of gross adds that occurred in Q4 of 2015.
+That is a mathematical fact.
+And I just wanted to point it out.
+And maybe <UNK> could add some color.
+Yes, I think that's exactly right.
+As <UNK> pointed out, last year, in the fourth quarter of 2014, 8.2 million adds versus the 12.2 million adds in the fourth quarter of this year, so a 4 million increase in the additions.
+As we historically know, first-time renewal rates are typically around 50%.
+So that would mathematically suggest that there's maybe a $2 million increase or 2 million unit increase in deletions.
+We've also said that when we look around the world from a renewal rate perspective, we do see emerging markets having a slightly lower renewal rate, on average.
+So that could impact the number as well.
+Clearly, what would dictate Q4 net adds would be the other side of that equation as to what gross adds would be.
+But, clearly, as we said in our prepared remarks, the renewing name base is going to be large.
+We had a great, great fourth quarter.
+And so we will have those names come up for renewal, and we will keep an eye on what the renewal rate is.
+But historically, our first-time renewal rate has been 50%.
+Sure, I'd be happy to.
+Last year, or in 2015 last year, we did have some expense related to a small restructuring of a portion of our international operations, and the primary difference is that restructuring amount.
+Again, from a US perspective, we have our convertible debenture that produces a tax shield.
+Last year, it was about $165 million, as we've said.
+That convertible debenture tax shield tends to grow about 6% year over year.
+We also have approximately $173 million of foreign tax credits that we expect to utilize before they expire over the next seven or eight years.
+So we don't expect to pay very much US tax based on our attributes.
+So, really, we would look to the $10 million to $20 million to be primarily foreign taxes.
+But, again, we had a small restructuring -- we talked about it last year -- where we did pay some cash taxes as a result of that international restructuring.
+Thank you, operator.
+Please call the Investor Relations department with any follow-up questions from this call.
+Thank you for your participation.
+This concludes our call.
+Have a good evening.

@@ -1,0 +1,228 @@
+<UNK>, I don't know that I can answer the valuation question.
+I can tell you the logic of why we swapped assets.
+It was almost 10 years ago when we split the companies apart.
+We had a logic to why we were doing it.
+We had a theory on where we thought the market was going to go.
+Some of those theories didn't turn out to be exactly right.
+For example, we thought that the set-top box business from an EchoStar perspective, as a separate company we could go out and get other people in the industry, cable industry in other parts of the world, and we just really weren't that successful.
+And now with OTT proliferation, and video becoming more of an app, the set-top box business is not nearly -- in terms of set-top boxes we just don't see as good a long-term future in that side of the business.
+And at the same time, DISH became very dependent on EchoStar for core services, whether it be uplink services, backhaul for local channels, technology.
+It made more sense for DISH to be in control of their own destiny for those assets.
+And then on the flip side of it, EchoStar, with the acquisition of Hughes and the success that Hughes has shown, was becoming more of a -- they really are unique in the ability to build and launch high throughput satellites with all the technology that goes around that.
+There's really only a few companies that do that in the world today.
+And they are now able to focus their resources on the satellite and high throughput and broadband satellite side of the business, which they think is a growing worldwide business.
+So, really it just aligns the resources to where they want to be, I think.
+I think there is a secondary benefit.
+You also can look out there and say there's probably going to be M&A activity out there in the future.
+It may, perhaps, the new administration is more attuned to that.
+And this probably aligns the assets in a better way to participate potentially in that, as well.
+No.
+(laughter)
+On the SAC, I'd say that SAC for Sling is very low and SAC for DISH is probably still in the historical range that it's been.
+But given that there's some momentum within Sling, that's the primary driver to bring it down.
+I think a lot depends on the ratio between Sling and DISH.
+But if it's on the current trend it's probably in that range.
+I will let <UNK> -- you should take the tax question -- or Paul, one of the two.
+Sure, <UNK>.
+Yes, cash taxes were up year over year over $400 million.
+The increase in cash taxes in 2016 was due to an increase in DISH's pre-tax earnings relative to 2015 and a sizable taxable gain that we recognized related to DISH's derivative positions.
+In 2017 without a realizable taxable gain on derivatives -- and of course we are not factoring in any potential impact of the current auction because we can't comment on that -- we do expect to pay less cash tax in 2017.
+In the long term we think that DISH will probably benefit, like most businesses, with tax reform.
+Historically, though, our cash tax rate has been lower than the statutory rate.
+So, the impact of a lower corporate tax rate may not have as big of an impact to DISH cash taxes in the short term.
+But, of course, the new tax policy has yet to be passed, so I really can't speculate on the impact to DISH.
+I would say typically we lease those pretty much to the end of the useful life.
+I don't know whether some of those satellites are actually pretty close to end of life, which means we probably wouldn't extend their life.
+But if they have life we typically utilize those.
+We do have a satellite launch scheduled later this year and that capacity may give us some flexibility.
+But I think that's an EchoStar-owned satellite.
+So, I didn't answer your question.
+I really don't know.
+If you look at our 10-K, we have one satellite that the lease ends.
+Yes.
+And we likely, given the orbital slot it's in, will not renew that lease.
+And that's probably because it's close to end of life.
+And it is close to end of life, yes.
+Yes.
+I think we talked about this in the last thing.
+There's going to be really a fundamental shift in wireless technology with 5G.
+You are reading a lot about it.
+Because it brings lower latency, a lot faster throughput, enables internet of things, in particular narrowband Internet of things, for massive internet connectivity.
+It makes logical sense for us to build a network not like the current incumbents have but with utilizing the new technology.
+In other words, we can build a network that's completely an IP network, take advantage of all the 5G technologies, and also take advantage of the virtualization of the core, for example, so that the smarts are in the cloud instead of being on the tower.
+The net effect of that is your buildout cost is a lot less and your OpEx is a lot less, and you have a modern network that has much more capacity than networks do today.
+So, that's what we are focused on.
+It would be logical for us to -- there's a couple of different elections we could make in terms of build out.
+There's either an interim, which is really coming up next month, or you can go for an accelerated buildout, elect the accelerated buildout, where in our case would be really a March of 2020 buildout.
+That would be a likely choice for us to choose accelerated buildout for 2020.
+We haven't been standing still.
+We have done a lot in preparation.
+Obviously in 3G BP you have to get your spectrum and bands that are 3GP authorized, which we have done, with bands 29, 66 and 70.
+So, most of our spectrum now is in licensed band.
+You have to do things like carrier aggregation and make sure you get different combinations where you can aggregate your spectrum.
+We've done a lot of that.
+We still have a little bit more of that to do.
+We now have sent out RFIs on the technology that we think we would utilize and are evaluating that.
+We have [multiple] for congress coming up.
+We could see everything in the world in the next couple of weeks.
+We've done some testing, both on the broadcast side for 700 and on fixed wireless.
+So, we feel pretty good about it.
+I think there's probably always going to be some skepticism, but it's not our first rodeo.
+It reminds me a lot of how we first entered the satellite television business where we decided in 1992 that we were going to build satellites, and then by 1995 we were launching those satellites.
+We launched our first satellite and we were able to cover the whole country and utilize our license.
+It was a complex three-year build of the satellite with complications with the Chinese launch.
+And we had to build uplink centers and connectivity around the country, and build a dealer network and build encryption and set-top box, and so forth.
+So, all those things had to come together.
+My experience has been that those things go a lot smoother when you spend a fair amount of your time planning and not just doing things and then changing things.
+I think we spent a lot of time planning and we feel like we're in pretty good shape to go out and have a network that can take advantage of it.
+One of the things we're waiting on, of course, is, the anti-collusion period has been off and on for the last three years.
+And there are other people who have to build out networks for different reasons.
+There's probably some opportunity to partner when the anti-collusion period is up, which we hope will be up in the next six or seven weeks.
+We obviously want to see the results of the 600 auction.
+We also want to see the results of our partners in AWS-3 spectrum with their litigation as to whether they are going to receive the discount or not in the AWS-3 auction.
+So, all those things we think are going to come together in the next couple of months.
+We're going to be communicating both to the FCC and to the Street as to exactly what we're going to be doing.
+But, obviously, we feel comfortable that we can have a very state-of-the-art network.
+And we think it can be built for materially less than current networks were built for.
+I guess I can kind of answer that.
+I think that anytime you can get new challenges you can get pretty invigorated.
+I don't think that I'm going to be -- I think that my role is a bit more of a coach than a player, or a bit more of a general manager even than a coach.
+I think we've built a good team around here to go out and execute on some of the opportunities that we see out there.
+But 5G is particularly exciting to me, particularly the internet of things, because when you start thinking about -- and, so, any time you're passionate about something, I think you just have a different set of energy.
+I am pretty impressed with our President who is a bit older than I am and seems to have more energy than people might have been younger than him in the past.
+So, I think it really depends on if you have the passion or not.
+The internet of things is so interesting because, A, the fact is that billions of devices are going to be connected -- machines or microprocessors or automobiles.
+It's healthcare, it's industrial, it's agriculture, it's entertainment, whether it be virtual reality, augmented reality, municipal, utilities.
+All those things are going to be connected with the new technologies.
+And somebody is going to lead the way.
+It reminds me, to some degree, of the advent of the internet.
+We have the core ingredient for the internet of things which is spectrum and the ability to connect things, both inside and outside the home.
+So, I'm excited about that and about what we can do as a company.
+Look, I don't know if we're going to make a big difference on how you make a phone call, but I think we can make a big difference in how you connect things.
+And part of our strategy has been in past auctions, is we look at -- the FCC always sets the pricing based on population, but in past auctions we've always maybe thought that was shortsighted in the sense that we really look at auctions as the ability to connect to microprocessors and machines and things.
+When you do that, you are not talking about 3 million population in the Denver area, you're talking about maybe 1 billion population of things you connect to, and that gives you a different focus on how you might approach those things.
+It's very similar to how we think spectrum is a bit asynchronous.
+We were probably one of the first people to think about it that way.
+So, we just think about the network a different way and that's pretty exciting because we can make a difference there.
+We can make a difference in productivity, we can make a difference in people's lives.
+So, while you hopefully make a profit, you are also increasing productivity in the United States in a number of ways.
+That's a long-winded answer.
+Because we're still going through all of our quotes and things, it's probably premature to do that.
+But it is materially -- and obviously you would build a network in phases -- but it would be materially less than networks that have been built in the past.
+You definitely can do things in 5G and with the virtual network that you just can't do in the past.
+In the internet of things, particularly in narrow band of internet of things, you can get much deeper coverage from a single tower site, so you, in theory, would need less tower sites.
+And those savings can be material.
+We certainly will share with the Street as we get a bit more detail around that.
+We're not that far away from that, by the way in terms of how we're going to build out.
+The other part of it is where you can build out with a partner, for example, they are going up and putting -- I think T-Mobile has talked about building out 600 next year.
+To the extent that they are going up to a tower and you can attach some of your product at the same time you both can share in the savings.
+AWS-3, AT&T is talking building AWS-3 and WCS, and Horizon is talking about AWS-3.
+There is the FirstNet build that is going to happen.
+So, there's going to be a lot of builds.
+[Logato's] got a build and increase their network.
+There's a lot of people out there that will be building and there's probably an opportunity to save and partnership with, where both parties reduce costs.
+The part we probably won't have as much visibility to short term.
+The way I think about that, a decade ago, five years ago, you got a bundle of channels from your pay TV operator, and that was really your only choice -- buy the big bundle of channels, get to watch everything.
+The launch of Netflix streaming, in combination with the growth of OTA, use of antennas, has created an alternative.
+And then you layer on the direct-to-consumer services that are launching.
+The way I think about bundles today is everybody creates their own individual bundle.
+You don't go to one company I am talking mostly about millennials right now, but obviously as they age up you see permeate other age groups.
+People put together their own bundles.
+They may take an antenna and Netflix and Sling.
+We see that combination over and over again.
+And then they may add on some other direct-to-consumer service that the program has had.
+That insight from the beginning is what has driven our strategy.
+Our strategy has never been just to replicate that big bundle of channels because we don't think that's really where consumers are going.
+Our strategy is to tap into the growth markets of broadband-only homes, use of antennas, people who want more a la carte-like experience with TV.
+If you look at our packaging, we have a low base price and then you add the genre mix that you want on top of that.
+So, we're trying to tap into that, what I see as a growing segment of people who are creating their own bundles.
+And I think services like what CBS is doing taps into that same mindset.
+It hasn't change that much.
+I think there's a couple of things going on.
+One of the things that 5G does with mobile video is it's going to allow you to use -- and correct me if I am wrong, <UNK>, because I'm not always the most technical person -- but it allows you to use all of your bandwidth and was called broadcast things you can use all your bandwidth in a broadcast mode when we're looking at and 4G I think you're only able to 60% of you to use all of your bandwidth in what's called the EM/VMS broadcasting.
+So, you can use all your bandwidth in a broadcast mode.
+When we were looking at it in 4G, I think we were only able to use 60% of the bandwidth within the broadcast mode.
+So, the 5G will make it incrementally more efficient.
+I think we'll also have to look and see what happens with ATS-3 and broadcasters because we do think there's some synergy potentially with broadcasters themselves as the ATSC comes out.
+You want to add something to that, <UNK>.
+I'm sure I bungled that.
+From a strategy standpoint, we still believe wireless and video are clearly converging.
+When we started talking about that five years ago it wasn't as evident as it is now.
+We've had some changes.
+When we agreed to lower the power level on the E block, that changed some of what we were able to do with 700-E.
+But, as <UNK> said, when you move to 5G the capacity is going to be so much greater that it will enable new use cases beyond just streaming video.
+One of the things, I think, that's not really understood maybe by people is a lot of what <UNK> does -- the original vision of Sling was not a consumer product, it was good to get the video in the cloud so it was prepared for a wireless network.
+But <UNK> said if we're going to do that, there's probably a business in selling that if we can get the programmers onboard to take a look at a new way of monetizing their assets.
+So, Sling became actually a product as a result of a strategy to make video available for wireless.
+But the actual start of that was to get the video in the cloud to prepare for wireless.
+There are a number of area.
+And, again, I'm probably not the most technical person.
+But certainly the network would be all IP.
+So, you're not carrying around 2G and edge and switch networks technology that makes everything much more complex, as an example.
+The second thing is, you're able to use a core.
+You can put a much simpler radio on the tower because the smarts are all in the cloud because the connectivity to the cloud is much better now.
+Most towers have fiber back to the cloud and you can do a hub-and-spoke thing.
+AT&T is probably the leader in that today.
+But they've got to redo their whole network, whereas we can start from that from scratch.
+And, finally, some of the technical features of 5G, particularly IOT features, allow you to potentially propagate and get much greater depth of coverage off of a single tower.
+And that's material.
+So, it reduces the number of towers that you might need.
+Those are just any number of things.
+Those are probably highlights but there's other things that would allow you to build a network much less expensively.
+I think that there's always been the thought within the wireless industry that consolidation may make sense.
+There's a lot of CapEx to build networks, and you can share that either through M&A or share that in another way.
+Any time you can reduce cost from a company perspective, that makes some sense.
+What that effect is on consumers and competition, of course, is a different question.
+I personally think that because people really haven't been able to have discussions over the last three years, number one, and, number two, that you have a change in administration, that potentially may be more favorable to M&A, that there certainly will probably be a lot more rumor than fact but I'm sure there will be discussions among any number of parties that are in the wireless business today and people who maybe are not in the wireless business today.
+We're not the biggest company, we're not going to drive that process, but obviously many of the assets that we hold probably could be involved in that mix.
+I don't know how the new administration will be as it relates to DISH.
+Chairman Pai was critical of the discounts that the DEs received in the auction.
+But, again, I think we just have an honest disagreement on that because we feel like they followed the rules.
+And that's now for an independent party to decide.
+Obviously we live with the decisions one way or the other.
+But the current Chairman is certainly pro consumer.
+I think he is pro-competition.
+And I think that bodes well for the things that we're doing at DISH because that's a very similar attitude that we have.
+And I think that he will be aggressive to bring new spectrum to the market, new features and new services for consumers.
+So, I think that bodes well for us because that's exactly what we want to do.
+I think that we can organically -- our baseline is that we organically will meet.
+It's only a small portion of our spectrum that we have in 2020.
+Some is 2024 and some is 2028, or something.
+But we will have an organic -- our focus has been on organic build out for the 2020 timeframe.
+Obviously, even without M&A, I think as others build out there's opportunities to do some joint things together, if, say, both companies made money.
+And obviously your production is as good as mind as to where M&A goes in the industry, other than we're not the guys that are going to drive that.
+Somebody else is going to drive that train.
+I'm definitely saying that we believe that we have a plan to build out the part of the spectrum that's due in 2020.
+We certainly have that as a focus.
+Obviously as people, as technology changes and events change, and to the extent there are events that happen in the industry, obviously things could change.
+But we certainly believe we can control our own destiny.
+We do not need to do an M&A transaction to make the buildout schedule.
+This is <UNK>.
+I think it's smart.
+I think that's a reasonable strategy.
+I think that there are probably too many channels out there today.
+And there are channels that we know are lightly viewed that consumers have to pay for.
+And with the advent of competition from Netflix and Amazon and Apple and other people who are now in the programming business, I think what Viacom is doing is wise.
+I think there's still value in some of their other channels, and I don't think they're giving up on those channels.
+I just think they are going where the eyeballs are going.
+And I think we will probably see other content providers focus on fewer channels but make them better, because if they don't they are going to get eaten up by the new entrants into the production business.
+<UNK>, this is <UNK>.
+There was quite a bit of fanfare around 28 gig a year ago this month.
+I saw recently that now there is a number of trials to be deployed later this year.
+We think it is promising, but a little early to predict where it comes out.
+And, incidentally, as part of the EchoStar transaction that we announced earlier in the month, we will pick up 28 gigahertz that they have licenses for in four markets in the US.
+So, it will give us an opportunity to test with 28, as well.
+And, then, we think in the long run bringing more spectrum to the market will serve the public interest.
+Related to that, we have the 12-2 to 12-7 500 megahertz of spectrum that has to be coordinated with DBS.
+But we think there is a path to bring that to market in a two-way fashion.
+We have implemented some filings with the FCC under the previous administration to move that forward into a rulemaking process.
+And we are hopeful that will proceed under the current administration.
+I don't know that I would say it that way, <UNK>, because once you get down from the satellite you start getting into the infrastructure.
+I think security is a core resource that we have at DISH.
+We know a bit about it.
+As an example, whether it be your home security system or whether it be video secure or whether it be a network with internet of things, people are going to want different varying levels of security.
+In some cases, perhaps a vending machine reporting in that they're out of Cokes.
+People may not care about security but you are certainly going to care about your camera on your front door being secure.
+And you're certainly going to care about your utility meter being secure.
+You're going to care about your health information being secure.
+It's just one more thing that we think we have a core competency in and it will be part of what we do in the future.

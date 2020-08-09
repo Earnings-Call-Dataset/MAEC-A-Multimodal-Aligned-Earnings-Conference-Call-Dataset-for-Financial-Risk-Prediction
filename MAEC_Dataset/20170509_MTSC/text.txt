@@ -1,0 +1,237 @@
+Thank you, James.
+Good morning, and welcome to MTS Systems Fiscal 2017 Second Quarter Investor Teleconference.
+Joining me on the call today is Jeff <UNK>, President and Chief Executive Officer.
+I want to remind you that statements made today, which are not a historical fact, should be considered forward-looking statements as defined by the Private Securities Litigation Reform Act of 1995.
+Future results may differ materially from these statements depending upon risks, some of which are beyond management's control.
+A list of such risks can be found in the company's latest SEC Forms 10-Q and 10-K.
+The company disclaims any obligation to revise forward-looking statements made today based on future events.
+This presentation may also include reference to financial measures, which are not calculated in accordance with generally accepted accounting principles, or GAAP.
+These measures may be used by management to compare the operating performance of the company over time.
+They should not be considered in isolation or as a substitute for GAAP measures.
+A reconciliation of any non-GAAP measures to the nearest GAAP measure can be found in the company's earnings release.
+Jeff will now begin his update on our fiscal year 2017 second quarter results.
+Thank you, <UNK>, and good morning, everyone.
+Thank you for joining us for our investor call today.
+We appreciate having the opportunity to discuss our financial results for the second quarter of fiscal 2017, which ended on April 1.
+We'll also discuss our outlook for the full year of fiscal 2017.
+But before I begin my discussion of our financial results and business outlook, I'd like to formally introduce our new Chief Financial Officer, <UNK> <UNK>.
+<UNK> joined MTS in 2014 and has served very successfully as our Corporate Controller since that time, gaining a good understanding of our 2 global businesses.
+Prior to joining MTS, <UNK> developed and demonstrated his financial and operational leadership skills in various global organizations, gaining valuable experiences ranging from SEC compliance, strategic planning and acquisitions, to operational execution and internal control.
+During his time at MTS, he's had an integral role in leading our efforts to implement major upgrades to our business systems, worked closely to address the requirements of our complicated Test business and had responsibility for completing various due diligence and financing activities required to complete the PCB acquisition last year.
+With his broad background and experience and his accomplishments at MTS, I'm confident that <UNK> has both the strategic and operational perspective as well as the leadership skills to ensure that PCB is successfully integrated into MTS, and that our shareholders are properly rewarded over the long term with the overall performance of our company.
+Moving then to our business updates and outlook.
+There are 3 key takeaways for the call today.
+First, we continue to enhance our overall control environment, and specifically controls in our China operations, to ensure that we conduct business in a manner fully consistent with our MTS code of conduct.
+This effort is integral to our continued success in China and other emerging markets.
+With our recognized technology leadership and continually expanding customer base, this is an exciting region of the world for MTS and we remain committed to our long-term growth strategy there.
+Second, the integration of PCB is continuing to progress into the close, which occurred at the beginning of our fourth quarter last year.
+Over the past few quarters, teams from multiple disciplines across the company have been highly engaged in combining the 2 Sensor businesses and continuing the coordination with our Test business that brings important additional growth and cost synergies to the company in the years ahead.
+The revenue and cost synergies that we previously outlined have been validated through this work, and we feel strongly that we'll be able to achieve them over the next 4 to 5 years.
+Of immediate importance, once the deal closed, was the establishment of the consolidated leadership structure for the combined Sensor businesses, which was completed earlier this year with Mr.
+Dave Hore of PCB becoming the President of our combined Sensor businesses.
+Dave's track record in driving exciting organic growth with outstanding profitability and free cash generation through an intense focus on total customer satisfaction was ideal for our combined Sensors business.
+As Dave assumed the leadership role, we took the opportunity to assess and optimize our combined Sensors operational footprint.
+Based upon this analysis, we initiated a process of closing our sensors factory in Machida, Japan and are now completing the transition of production to our other sensors facilities, with most of the volume moving into our U.S. operations in North Carolina.
+This work will be completed by the end of fiscal 2017.
+With this and other efforts that we have undertaken, we believe we'll be able to begin to deliver both revenue and cost synergies in fiscal year 2017, although they will be fairly modest in the first year and will ramp up in the years to come.
+The third key message today is regarding our second quarter performance and our outlook for fiscal year 2017, which <UNK> will then cover in more detail.
+Regarding our second quarter results, we're pleased to report that revenue increased by 41% to $193 million compared to prior year.
+Of the 41% increase, revenue from the PCB acquisition contributed growth of 31% and organic revenue growth was strong at 10%.
+This was the third consecutive quarter of solid revenue growth from our organic business, which resulted primarily from sustained improvement in backlog conversion efficiencies in our Test business, with good growth also coming from organic Sensors volume.
+Compared to the prior year the gross margin rate on a GAAP basis for total MTS increased from 32.9% to 40.8% due to improvements on our execution of our large complex Test projects.
+Our gross margin rate was also favorably impacted by an increase in the mix of higher-margin Sensors revenue due to the PCB acquisition.
+Excluding acquisition, integration and restructuring expenses, the gross margin rate for the second quarter was 41%.
+Moving onto our business updates.
+Let's -- first let's begin with our Test business end markets.
+While we were pleased with our first half performance this year, revenue for the Test business in the second half of fiscal '17 will weaken slightly in the short term as lower orders in the latter half of fiscal '16 and the first half of fiscal '17 now flow from backlog through production.
+However, with our opportunity pipeline strong and increasing clarity around customer investment timing, we expect this revenue stagnation to be short-lived and to reverse itself as we move into fiscal 2018.
+As such, we continue to retain our key technical resources in order to support our customers as they finalize their specific investment plans later this year.
+It is this longer-term outlook that's particularly important to our key customers, most of which have been loyal customers of MTS and leaders in their respective markets for decades.
+As these key automotive, aerospace and advanced materials customers face rapidly changing market dynamics and move to aggressively incorporate the most advanced technologies into their new products, their need for new, more advanced testing and simulation has never been higher than we see it now.
+To add more detail to our expectations for sales this year, we believe that we hit our low point for Test orders in the second quarter at $110 million and that the orders outlook will be strengthening throughout the second half of our fiscal year.
+More specifically, our third quarter orders for the Test business are expected to exceed prior quarter and prior year levels by roughly 5% and 15%, respectively, due to the strong broad-based product line improvements, including custom and standard products in our vehicles and structures Test business, as well as our materials Test business worldwide.
+Building further on this momentum, as we exit Q3, our fourth quarter sales, while more difficult to precisely predict in terms of timing, are expected to show strong double-digit sequential quarter and year-over-year improvements with similarly broad product line strength in custom and standard products across all our Test markets, as well as continuing growth and demand for our Test Services.
+This anticipated strength in our orders performance will expand our backlog, supporting renewed revenue growth as we move into fiscal 2018.
+Forecast orders growth partially reflects general market trends, such as growing demand for durability and aerodynamic testing of new automotive designs and increased use of simulation systems associated with automotive electrification and advanced driving assistance systems, as well as geographic growth in India and continued strength in our China markets.
+We also believe that we're beginning to see the meaningful impact of our strategy to grow services as our long-term customers invest in updating trusted but aging Test products and our focus on making customer labs simpler and more efficient from an engineering design perspective.
+As longer-term investors in our company understand, our Test markets are notoriously dynamic, as our customers adjust the timing, size or strategy associated with large orders to changing market conditions such as automotive and environmental regulations, renewable energies, currency fluctuation, and today, even the political environment.
+Their uncertainties and adjustments are magnified at MTS as the movement, addition or cancellation of large orders reverberates particularly forcefully for long lead, highly engineered custom products.
+We are, however, making focused efforts to ensure that our orders and revenue forecasting are as accurate as possible through improved algorithms, more intimate engagement with customers and their approval processes, allowing for more time for discussion of technical performance needs and including greater redundancy in our orders pipeline to allow for anticipated project timing fluctuations.
+Given the general market trends, the progress we've made in our product offerings and the improvements in our forecasting, I'm confident that the orders rise we are seeing in the latter half of this year is real.
+As those orders begin to flow into production, we should expect revenues to follow suit in fiscal '18.
+Moving on to our Sensors business.
+To provide a better understanding of the Sensors markets, it's worth noting that by its nature, order volume that flows through our Sensors business has a much shorter manufacturing cycle time, ranging from days to weeks as compared to our Test business that takes months to years to fulfill.
+This means that while Sensors, for us, is largely a build-to-order business, it carries much less backlog than our Test business.
+As such, our forecasting revenues is much more dependent on our anticipated short-term bookings outlook and our macro view of the marketplace in the quarters ahead.
+From a market sector perspective, we define 4 broad end markets for our sensing products.
+We describe these as: industrial, which includes areas such as factory automation, reliability and energy applications; test, which includes sensors used in the testing of new product such as cars, planes and trains; systems, which are complete solutions that incorporate our sensors for measuring sound and vibration; and positional, which are sensors used for precise measurement of location and displacement of critical industrial machinery and mobile hydraulic systems.
+We'll now discuss each of these 4 sectors.
+The first sector is positional sensors.
+Demand and sales execution in this sector has been strong this year, driven by resurgence in the basic materials market such as steel and aluminum processing as customers invest for future anticipated growth.
+Also, heavy mobile equipment such as earthmoving, agriculture and others are showing improvements that reflect confidence in the future for the first time in several years.
+Moving then to the industrial sector.
+We have experienced soft demand, driven specifically by one large customer in the energy market.
+This revenue shortfall is expected to cost us roughly 2% of organic growth this year versus our expectations when the year began.
+We expect the demand from this customer should rebound in fiscal '18.
+The third sector is systems, where weakness has been driven by slower-than-expected sales in China and Russia, which have been growth markets.
+We believe this softness will be short-lived, particularly in China, and that sales will rebound with a continued economic expansion.
+The fourth sector is test sensors, and general demand for this sector has mirrored the market and technological trends as those seen in our Test business unit, meaning some weakness in the first half of the year, followed by an expected strengthening in the second half.
+Of particular note this quarter, we're pleased to announce that we have been notified of a pending award for a new DoD program, which will substantially increase our business with the U.S. Military.
+With this new award, our military-related bookings this year for Sensors are expected to approach $15 million, a substantial increase over last year.
+The product developed to win this contract represents a new market and application for the company, and one in which we're very excited to participate.
+Beyond this initial contract, looking ahead, we're extremely excited about this new DoD program, which has been under development for several years and is well aligned with the investment strategy that the U.S. government and our military has publicly articulated.
+It's a new application of Sensors technology, which opens up an entirely new market for MTS within the Defense Department on mission-critical systems.
+With this new product capability and the anticipated refresh of key U.S. Military systems that have been communicated to us for planning purposes, we have the potential for roughly $300 million in new contract awards for these new products over the next decade.
+We would anticipate the orders for these products to follow on from the fulfillment of the initial order received this year, most likely materializing in late fiscal 2018 and into '19.
+In short, we view this as a game-changing product launch for our MTS Sensors business, enabled by the acquisition of PCB, and made possible by our long-term focus on technology leadership and total customer satisfaction, that the MTS and PCB brands have been recognized for, for over a half century.
+Moving onto our fiscal year 2017 outlook.
+We're reaffirming our revenue forecast of $760 million to $790 million, and our forecast of GAAP earnings per share of $0.80 to $1.20 for our fiscal year 2017.
+With an opportunity pipeline in our Test business of approximately $1 billion in front of us, we're optimistic about our ability to convert these prospects into orders.
+In addition, our Test backlog stood at $298 million at the end of the second quarter, which we're now able to convert into revenue with a high level of efficiency.
+We're also reaffirming our previous forecast for adjusted non-GAAP EBITDA, $115 million to $130 million.
+In a few minutes, <UNK> will discuss the fiscal year 2017 guidance in greater detail.
+A reconciliation of this non-GAAP measure to net income, the closest GAAP measure, is included in the non-GAAP financial measures in Exhibits D and E and sections in our earnings release, which is available on our website and the SEC's website.
+Now I'd like to turn the call over to our CFO, <UNK> <UNK>, for some additional financial detail on the quarter.
+<UNK>.
+Thank you, Jeff.
+My remarks today will briefly summarize our second quarter of fiscal year 2017, based on a year-over-year comparison.
+Quarter 2 revenue for Sensors was $70 million, up $46 million compared to the prior year, driven in part by the PCB acquisition, which contributed $42 million in the quarter.
+The remaining increase was from a 17% growth in our legacy Sensors business, driven by strengthening markets and strong sales execution.
+Moving onto Test.
+Revenue was $124 million in the quarter, increasing a strong 9% organically as we continued to efficiently convert our backlog into revenue.
+Moving on to quarter 2 gross margin by business.
+Sensors gross margin was $34 million, up $22 million, driven by the contribution from the PCB acquisition, partially offset by acquisition, integration and restructuring expenses included in gross margin of $350,000.
+The gross margin rate decreased from 51.4% to 49%, driven by the PCB acquisition.
+Going forward, we expect the Sensors gross margin to be in the low 50% range with improvements expected as the volume increases.
+Test gross margin came in at $45 million, up 35%, mainly from the higher revenue and lower cost due to improved project execution.
+Gross margin rate increased 700 basis points from 29.1% to 36.1%.
+For fiscal year 2017, we expect the Test business margins to be in the 34% to 35% range, representing a 1 to 2 percentage point improvement over fiscal year 2016.
+My next topic is quarter 2 operating expenses.
+Operating expenses increased $23 million to $63 million and were 33% of revenue.
+The increase in operating expenses primarily resulted from $700,000 of acquisition, integration and restructuring charges, $6.8 million from China Investigation expenses and incremental expenses related to the PCB acquisition.
+Excluding the acquisition, integration and restructuring costs and China investigation charges, operating expenses were 29% of revenue.
+Going forward, we expect operating expenses to be in the 28% to 30% range, excluding the acquisition-related costs, restructuring expenses and the cost of the China Investigation.
+Next, I want to discuss net interest expense.
+Net interest expense in the quarter was $7.4 million, consistent with our expectation.
+We estimate that net interest expense will be approximately $7.5 million a quarter during fiscal year 2017.
+Moving on to taxes.
+The tax rate in the quarter was 17%, due to the significant acquisition integration and restructuring expenses in the quarter.
+We expect the tax rate to be approximately 17% to 19% in fiscal year 2017, driven lower from the cost associated with the integration, restructuring and the China Investigation.
+In fiscal year 2018 and beyond, we would expect the effective tax rate to be 27% to 29%, assuming no changes from the federal government.
+Earnings per share increased from $0.20 per share in the prior year to $0.38 per share from the improved margins in Test.
+Also, the EPS was negatively impacted in the quarter by $0.29 per share, driven by the restructuring, acquisition integration and China Investigation costs.
+Excluding these charges, non-GAAP earnings per share would have been at $0.67 per share.
+A reconciliation of these non-GAAP earnings to GAAP earnings is included in our earnings release, which is available on our company's website and the SEC's website.
+Moving on to a summary of cash.
+We ended the quarter with $97 million of cash, an increase of $1 million in the quarter.
+Operating cash flow was $12 million in the quarter, driven mainly by net income generated in the quarter.
+We paid $5 million for dividends, $5 million for capital expenditures and $3 million in debt payments associated with the term loan B and the tangible equity units.
+Now I'd like to update you on our fiscal year 2017 guidance ranges.
+As Jeff mentioned in his discussion, we have reconfirmed guidance with revenues in the range of $760 million to $790 million, and GAAP diluted earnings per share of $0.80 to $1.20 per share for our fiscal year 2017.
+We are also forecasting our non-GAAP adjusted EBITDA to be between $115 million and $130 million.
+We calculate EBITDA by adding back interest, taxes, depreciation and amortization expense to net income.
+Adjusted EBITDA is calculated by adding back stock-based compensation, acquisition-related expenses, acquisition integration expenses, acquisition inventory fair value adjustment, China investigation expenses and restructuring expenses to EBITD<UNK>
+A reconciliation of this non-GAAP measure to net income, the closest GAAP measure, is included in our earnings release, which is available on our company's website and the SEC's website.
+With regard to diluted earnings per share, our guidance range of $0.80 to $1.20 includes $16 million to $18 million of acquisition, integration and restructuring charges in fiscal year 2017, which impacts EPS by $0.60 to $0.65 per share; China Investigation costs, which will cost approximately $9 million or $0.30 of EPS; incremental year-over-year net interest expense of approximately $22 million, or $0.73 per share; and higher acquisition-related amortization expense of $9 million or $0.31 per share.
+This concludes my remarks for today.
+I will turn the call back to Jeff for his final comments.
+Thank you.
+Thanks, <UNK>.
+Let's begin with a recap of our second quarter results for 2017.
+There were several positive results that came out of this quarter.
+Gross margins in our Test business of 36.1% represent the fourth consecutive quarter that gross margins have held steady in the 34% to 36% range as operational and process improvements to reduce costs and deliver better project execution on large custom projects are being sustained.
+In addition, the ability to generate strong organic growth for a third consecutive quarter through improvements in our orders conversion process demonstrates that our investments of time and capital to implement a more flexible and efficient business model are paying off.
+Our ability to manage our cash requirements continued in the second quarter as working capital remains near historically low levels.
+We have not used our lines of credits to meet our financial requirements.
+The diverse and global customer base served by both our Test and Sensors business provides MTS for the long-term competitive advantage because this has allowed us to aggregate the resources, technology and expertise required to develop the best products and services that our customers require in today's rapidly evolving environment.
+The sustained improvements in our operational performance and processes in our Test business is a critical and noteworthy achievement in order for us to provide long-term value to our customers and shareholders as this will help generate the financial resources to invest in the technologies that will drive customer demand.
+The Department of Defense contract we discussed earlier in our Sensors business is an early and important example of the long-term strategic contribution that the PCB acquisition will have in the transformation of MTS into a well-balanced test and measurement company.
+It's one of the many reasons that we're excited about our future.
+So in closing, we're confident that the underlying economic and market factors driving the demand for our Test and Sensors products are intact and that, from an operational and backlog perspective, we expect to deliver on our fiscal 2017 guidance.
+For the long term, we are pursuing multiple initiatives that will continue to advance our technology leadership position, further enhance our operational capabilities and leverage the benefits of the PCB acquisition.
+We're excited about the year-to-date achievements in fiscal '17 and the long-term opportunities that we're striving to accomplish.
+That concludes our prepared remarks.
+I'll turn the call back to you, James, for the Q&A session.
+Let me speak to the gross margin outlook, if you will, for the company in the long term.
+And <UNK>, maybe I'll ask you to speak to the operating margin question, if you like.
+From a gross margin perspective, you can think of our Sensor business as a 50-plus percent gross margin business, in general, so it hovers between 50% and mid-50s, but you can think of it as a 50-plus percent gross margin business.
+In Test, we have gone through a period the last couple of years of large custom content in our backlog so that drove margins down, but they're climbing nicely now, so they were in that 36% range.
+With an increasing mix of services over the long term and the efficiency that we're now starting to drive through our custom project execution and standard product growth, we'd like to see Test be back in the high 30s, approaching 40% kind of gross margins.
+So the overall company gross margin will be a blend of those 2.
+Again, with Sensors at 50-plus and Test, say, in the high 30s from a gross margin perspective and the mix will depend on the volume contributions from both businesses.
+Clearly, Test is -- equipment is growing and we'd say in the long-term kind of twice GDP kind of numbers.
+Sensors, we believe, is kind of a double-digit organic growth business over the long term.
+Obviously, you see variations from that year-to-year.
+But we believe that with the proliferation of Sensors in the world, that Sensors organic growth will be in the high-single to low double-digit range on a compounded annual rate over the long term.
+So over time, you'll see an increasing mix from sensors coming into our overall company gross margin.
+So that will tend to lift it over time.
+I don't have an off-the-cuff target for the full company, but that's how you do the math.
+<UNK>, any other thing you want to add.
+So overall, I guess, we're targeting in the long run of EBITDA margin somewhere in the 22% to 24% range, and that's total company.
+And that was EBITD<UNK>
+And that was EBITD<UNK>
+So 22% to 24% EBITDA margins targeted for the company.
+Just want to ask, can you maybe discuss some of the other Sensor opportunities that you see maybe in the medium run.
+Are there some new applications or new systems that you're currently spending R&D dollars on.
+Yes.
+I put them in 2 broad categories, which are impactful to the business, well, actually 3.
+I spoke to the new DoD applications that we're looking at now and that are emerging, very exciting and very new to the business.
+So while they've been worked for a long time, I expect those to be an impactful and meaningful part of that business going forward and as we move into '18 and '19.
+But in the traditional sectors that we see growth, there's 2 broad ones, in the industrial markets where you have a lot of industrial automation and an enormous proliferation of sensors.
+So our specialty tends to be in vibration sensing, so sensing when a machine -- how a machine's operating, how precisely it's being controlled, how its health is, all of those relate to the -- basically by simple vibration measurements in key components as of the equipment, as well as the position of the machine through position sensors.
+So with that, you can not only predict and mitigate health issues in the machinery, but you can control it for precision and higher yields and a safer operating environment as well as a more autonomous environment.
+Industrial equipment, we're really excited about and we see natural home for our Sensor technology for years and years to come.
+Mobile hydraulic equipment, so heavy over-the-road equipment such as earthmoving, mining, agriculture, those kind of machineries, with our position Sensors are excellent for controlling that equipment and making it less and less sensitive to the actual driver and moving towards autonomy in those systems that require sensing technology.
+They're affordable and offer value now to the customers that are unmatched in the industry.
+So we're excited about that.
+The energy market is a growing one for us for electricity generation.
+And then if you think of moving from land-based turbines to aero engines, we're moving into pressure sensors to measure the combustion process on engines.
+Again, both land-based and aero engines that can be used for real-time adjustment of propulsion systems and, specifically, combustion systems, that control not only the emissions of the engine but the efficiency and fuel efficiency of the engine.
+So we're very excited about the energy market as it relates to electricity generation and then the propulsion market for aerospace.
+What have I missed.
+Industrial equipment and, of course, testing.
+We have an extensive base of customers that are running our testing equipment now for decades across the entire global automotive industry, the aerospace industry and many others.
+Those tests -- not only do customers buy equipment from MTS and now our services for maintaining that equipment and running it well, but they also consume sensors in the operation and performance of testing.
+So it's the same laboratory, it was part of the rationale for combining MTS and PCB in the first place, is getting not only our testing equipment in labs, but getting PCB sensors more extensively used around the world and we're very, very excited about that.
+That's the source of our -- of a meaningful part of our revenue synergies as we purchased PCB.
+And we're very excited.
+That message to customers, as I go in customer labs around the world for product development, resonates with every single one of them.
+They've known PCB for decades.
+They've known MTS for decades, and they think it's marvelous that our companies are together and can buy all of that very high reliability and mission-critical equipment from one organization.
+And then maybe one other question on sensors.
+Can you just share with us some thoughts on when you had that double-digit organic growth outlook, what's the interaction between volumes, price and mix.
+So, you're probably asking more about leverage and flow through from volume impact.
+<UNK>, do you want to comment on that.
+No, so I think it's a little bit of -- I would say that the pricing side of it is pretty consistent.
+I would say more on the volume side of it.
+The mix may shift a little bit, especially as we're continuing to integrate and work with the PCB group, but I would say, mostly on a volume basis.
+And the volume leverage is terrific in that business.
+So -- and both of our businesses are low CapEx businesses.
+We consume 2% to 3%, in general, of our revenue in terms of CapEx requirements for growth.
+The inherent return on invested capital in these businesses from these high-margin products is quite good.
+So we're excited to see the volume growth and the utilization of our capital as we invest for growth.
+Yes.
+From a margin standpoint, we expect to see strong margins from program, and obviously, with increasing volume, more volume leverage as those orders flow through.
+The timing and pace of the orders is very interesting.
+Again, it is a very important -- in our opinion, a very important and critical military investment that's being made for rejuvenation of our military forces in the United States.
+It aligns fully with what the government has said and the direction they want to go and what the U.S. military has communicated through OEMs to us.
+So we're very happy about the long-term outlook for that.
+The exact pace of orders and how they'll meter out, what we see is this $300 million opportunity is the question.
+I don't expect it to be individual, a series of one-off POs.
+I think they'll, certainly, issue large multiyear purchase orders that will make up that $300 million opportunity.
+The question is how many chunks do they come in and when do they start flowing.
+What we would anticipate is this first order, which is embedded in that $15 million, as it nears completion, they'd start funding the follow-on orders in large pieces.
+Okay, so I'd be surprised to wake up one morning and have a $300 million purchase order on the desk, but I also would not expect it to be a large number of small purchase orders.
+So my guess is it will be a few divided over 2- to 3-year periods that make up the decade.
+It will span -- it's -- with the anticipated -- we've been notified that we've won the order.
+With the anticipated signing of the full contract, we'd anticipate shipments later this year and into fiscal '18.
+Just clarify a little bit too.
+So we do have other Department of Defense contracts included in the $15 million, which is our projection in this year.
+This is just 1 piece of it that we're talking about here.
+We just can't -- we can't say.
+It's a meaningful percentage of it, but for several reasons, we can't tell you the exact size.
+Great.
+Thank you, James.
+And thank you all for participating in our call today.
+We look forward updating you on our progress again in the third quarter of our fiscal year 2017.
+Thank you, and have a great day.

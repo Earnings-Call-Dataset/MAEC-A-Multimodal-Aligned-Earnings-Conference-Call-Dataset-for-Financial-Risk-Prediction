@@ -1,0 +1,219 @@
+Welcome to the Visa's Fiscal Second Quarter 2018 Earnings Conference Call.
+(Operator Instructions) Today's conference is being recorded.
+If you have any objections, you may disconnect at this time.
+I would now like to turn the conference over to your host, Mr.
+<UNK> <UNK>, Senior Vice President of Investor Relations.
+Mr.
+<UNK>, you may begin.
+Thanks, Katie.
+Good afternoon, everyone, and welcome to Visa's Fiscal Second Quarter 2018 Earnings Call.
+Joining us today are Al <UNK>, Visa's Chief Executive Officer; and <UNK> <UNK>, Visa's Chief Financial Officer.
+This call is being webcast on the Investor Relations section of our website at www.investor.visa.com.
+A replay will be archived on our site for 30 days.
+A slide deck containing financial and statistical highlights has been posted on our IR website.
+Let me also remind you that this presentation includes forward-looking statements.
+These statements are not guarantees of future performance, and our actual results may differ materially as a result of many factors.
+Additional information concerning those factors is available in our most recent reports on forms 10-K and 10-Q, which you can find on the SEC's website and the Investor Relations section of our website.
+For historical non-GAAP financial information disclosed in this call, the related GAAP measures and reconciliation are available in today's earnings release.
+And with that, let me turn the call over to Al.
+Thanks, <UNK>.
+We are now ready to take questions, Katie.
+(Operator Instructions) Our first question today comes from Dan <UNK> from RBC Capital Markets.
+I had a question around pricing and the demand environment in Europe in particular.
+There seems to be some suggestions, I think, in the market that scheme fees on the acquirers are rising pretty quickly and have been so for the past couple of quarters.
+And I'm just wondering is there a dynamic that you guys have been able to take advantage of recently.
+And then secondly, on the clearing and settlement, that sounds good that you guys are done there.
+Once you get authorization migrated, is there a meaningful opportunity from a product perspective that we should be thinking through.
+Well, first of all, Dan, on the pricing front, when we first paid the acquisition of Visa Europe, we took some pricing, we subsequently take in some pricing.
+And as I look out, I think there's pricing opportunities.
+I'm talking about Europe now, pricing opportunities in Europe looking forward as well.
+In terms of the migration, I think once we get through -- I mean, first of all, once we get through, one of the biggest benefits that is going to be available is that, VisaNet being a global system and with us having 4 data centers around the world, we're going to be able to ensure real fallback for our clients and for our business in Europe, prior it was 1 system running in 1 data center.
+So that's one big advantage that we will have in terms of backup and security.
+I think beyond that, there's going to be opportunities in some of our risk tools in loyalty for sure, where we'll be able to offer new and different capabilities to clients in Europe that they wouldn't have had on the old legacy system.
+Our next question comes from Don <UNK> with Wells Fargo.
+Al, I was wondering if you could talk a little bit about sort of how you came to the thought process on the shared single button digital wallet approach.
+I know you've been working on Visa Checkout for a while.
+And can you talk a little bit about how it will work from a logistics standpoint.
+First of all, Don, this is something that the EMVco standards body actually developed, of which we're a participant.
+We actually believe that the -- we're very excited about this.
+I think that I talked to some of you about this in the past.
+I think that there's way too much clutter in the e-commerce checkout environment.
+And it's just not good for users, and it's not good for merchants.
+It creates too much friction.
+There's consumers who don't know what to do.
+And after they actually make a decision to buy, it's too confusing for them and they fall out of the buying process.
+And that is -- that's just lost business for everybody in the ecosystem.
+So because of the simplicity, because of the security and because of what we think is going to be a much better user experience, Don, we're very excited about it.
+We're committed to it and are doing everything we can to move forward to make it a reality.
+Well, we've been committed to Visa Checkout.
+We remain committed to Visa Checkout, especially in certain geographies and in -- for certain merchants where they see value.
+But I think the ultimate future as I see it in e-commerce, and it will take time to bleed it in throughout the entire ecosystem, is to move to this EMVco standard, which creates a single button, which is much more analogous to the situation that you see in the physical world, where there's a single terminal and all products run through that terminal.
+In essence, we've had, in the e-commerce world, a moral equivalent of multiple terminals, if you will.
+And I think that's just terrible.
+It's lousy for the merchants.
+It's a bad experience for consumers.
+So we're excited about this secure remote commerce framework and standard that EMVco has come up with.
+Our next question comes from <UNK> <UNK> with SunTrust.
+I wonder, Al, if you can kind of frame up the opportunity as you see it in China and India in particular, obviously, big, well-highlighted, cash-centric markets.
+And I wonder if you can just give us a sense of Visa strategy.
+I know China has been particularly challenging, but to address, maybe India, what kind of time line you think there is for sort of material contribution from potential electronic payments growth there.
+Well, <UNK>, let me start with China.
+I mean, we continue to be very excited about China.
+We have an application in to become an international payment provider in China, and we're hoping that the People's Bank of China and the Chinese government look favorably upon our application, and we can begin the process of moving toward being ready in cooperation with the government in China to be a domestic player.
+In the meantime, we're continuing to work with our over 50 bank partners in China to continue to try to grow our coverage in China as well as obviously facilitate as much cross-border volume from traveling Chinese as they leave the borders of China.
+In the case of India, India is in a different place because we -- we're very pleased with where things are in India.
+And India, post demonetization, has really attracted a huge interest, so, and that makes sense because the cash displacement opportunity is really great there.
+The reality is we're the market leader.
+We've got over 50% share in credit and debit, and we continue to grow in 2018, despite the fact that we're growing over some huge numbers that were related to demonetization in 2017.
+We're really working with the Indian government on the Bharat QR code and scaling that.
+I think we're up in somewhere in the area of 450,000 merchants that are enabled for this standard QR code.
+We're growing overall acceptance.
+We've doubled from the fourth quarter of '16.
+We've doubled the number of POS terminals by the end of last year to 3 million.
+We're continuing to partner with our issuers there in terms of building awareness and usage and we're also we're partnering with clients there on digital solutions, tokenization, contactless, scan and pay.
+So I see China as something we're excited about, but something that's probably still a couple of years away in terms of us being a player there and being able to start to produce any kind of volumes, never mind meaningful volumes.
+But India, I see, is a long-term play, they're -- a country of nearly 1.4 billion people, and I think we've barely scratched the surface in terms of the opportunity.
+It's kind of -- as big as the numbers feel from a relatively close to a standing start.
+I think that it's an exciting opportunity for the industry, and as the market leader in India, we see it as a very exciting opportunity for us.
+Our next question comes from Jason Kupferberg from Bank of America.
+This is [Ryan Carreon] for Jason.
+I was hoping you could dive a little deeper into the international revenue growth in the quarter which came in well ahead of what we are modeling.
+Is there anything worth calling out that surprised you with the upside.
+And I would think the spread between volume growth and revenue growth also widened pretty materially.
+I'm assuming there is some benefit from FX in there, but was there any pricing benefits in the quarter.
+You have several things in there, so I'll take them one by one, Jason, if I can get to them.
+Oh, [Ryan] I'm sorry.
+Very well there, Ryan , I guess Jason is elsewhere today.
+So why was it better than -- it was better than we expected.
+Coming into the year, as you know, our inbound business to the U.S. has been a weak business for several years because the dollar was strong.
+And coming into the year, we hoped that with the weakening of the dollar, there would be some improvement in that business.
+And we projected a step-up in the growth rate.
+We were pretty much in line with our expectations in the first quarter, but the acceleration continued pretty fast into the second quarter.
+And in many ways, the inbound business to the U.S. has grown faster than we expected.
+So the recovery has been coming earlier than we might have projected.
+That's one reason.
+The other reason is the outbound business from Europe, business that is leaving the EU in total, also grew in the double digits for the opposite reason because the euro and the pound are now stronger.
+Those 2 clearly were much stronger than we expected and they're very important corridors for us.
+The revenue impact is greater because the mix of business is better, because the inbound business to the U.S. for us is an attractive business and the mix of our cross-border business certainly got better.
+There was no pricing that was any -- new or different than anything that was in place prior to coming into the quarter.
+Certainly, exchange rates got a little better, so that certainly helps that line more than other lines.
+And then overall, I mean, adding to these 2 corridors, the cross-border business, because of strong global economy, has been strong just about everywhere in the world.
+Our next question comes from <UNK> <UNK> with Citigroup.
+My question was with regards to debit volume growth in the U.S. If you could break down what's driving this increased macro or in the spend trend, any particular wins to call out.
+And also just to clarify, is Visa Direct classified here.
+Yes.
+So the debit growth was clearly very strong.
+And at this point, as we told you earlier, it's not benefiting from any conversion type benefit.
+This is real apples-to-apples growth and, therefore, quite heartening to see it as strong as it was.
+As we've dug into it, it was pretty broad-based.
+We're seeing growth, as I mentioned in my comments, across many segments of retail and across all the everyday spend categories, which essentially attest to a pretty strong consumer profile in terms of propensity to spend.
+As the business shifts more to e-commerce, that clearly also helps in many ways.
+And then as far as overall sort of the underlying sort of mix of business, that also remains very good.
+So all in all, just about every aspect of the debit business looked very good this quarter.
+Our next question comes from <UNK> <UNK> with JPMorgan.
+Just I guess I want to follow up on a couple of questions on the international and whatnot.
+I'm curious, Al, in your travels, has the nationalism sort of theme changed at all.
+I know you're making a push towards localizing a lot of the business.
+I heard your answers around China and in India, but just bigger picture, I'm curious if the whole nationalism sort of pendulum has shifted in any way in your mind.
+<UNK>, in the last 5 weeks, I've done a trip to Korea.
+I've done a trip to China, and I've done a trip to the Middle East and Northern Africa.
+I still see quite a strong nationalism theme.
+I think from my perspective, which I've said before, this business, this payments business is a very local business.
+So clearly on one hand, the solution set that we need to go to market with, our issuer clients and our merchant clients, is different market-by-market, and that's a positive thing.
+And we recognize that and we're putting more resources as we add personnel, adding more people out in the actual countries because that's where the action is.
+The negative or the watch-out of nationalism is what happens in terms of regulation and domestic processing, and does that grow around the world.
+And then what are the rules as it grows.
+There's domestic processing in a number of markets, some of them it's a very fair playing field where their government is not mandating that you must process on the local processor but it's yet just another option.
+In a couple of countries it's not quite an even playing field, and we continue to push and work with those governments to try to get us there.
+So that's what I'd say I've seen, <UNK>.
+Our next question comes from <UNK> <UNK> with Cr\u0102\u0160dit Suisse.
+I was wondering whether you would talk a little bit about whether you're thinking about any sorts of incentives, whether it's a carrot or stick-type incentives to kind of encourage the move towards that single pay button.
+And just as a related thing, since you did link in the discussion with PayPal and Visa Direct, have you ever given any kind of metrics on the size or growth rate of that channel for you.
+<UNK>, it's Al.
+We're in the top of the first inning here on the secure remote commerce and the single pay button.
+We're just getting familiar with the standards from EMVco and trying to understand exactly what we have to do and what merchants have to do in order to make it a reality in the marketplace.
+I think that our kind of immediate focus is to get very familiar with the technical aspects of what needs to happen in terms of getting it set up.
+I -- my personal belief, we'll have to see how this plays out, is that this is going to come as really, really positive news for both consumers and merchants.
+And I think that if done correctly, which we hope that it is, that adoption is going to -- the curve of adoption is going to be quite quick.
+That said, there had been cases in the past where to accelerate progress, we have thought about and used incentives, but we're nowhere near being able to make a decision on that at this point.
+And I'm hoping we don't because I'm hoping that it's such a very clear improvement in the user experience and the friction, it goes out of the system that people will adopt very, very quickly.
+In terms of your second question, which I think was around volumes related to PayPal and Visa Direct, we haven't provided any color on that as of this moment.
+I would say that we're pleased with the way adoption of Visa Direct is continuing.
+As I said in my remarks, right now, there's a few use cases that we're focused on and we're pleased with those use cases and we're trying to increase, in essence, the distribution of those use cases over time.
+We're hoping to actually look to add further use cases, which will further expand the universe of places where Visa Direct can be used.
+So I think there's a tremendous amount of upside relative to Visa Direct as we look out over the next couple of years.
+Our next question comes from <UNK> <UNK> with KBW.
+<UNK>, you talked about sort of the stronger economy driving some of the more robust trends.
+I was wondering, in the U.S., was any of it discernible from tax reform, like have you guys seen any impact as it relates to tax reform.
+And then on the shared button comments, as far as costs are concerned, are there any cost savings as a result of not having to go full force with Visa Checkout.
+Or are there other costs that we have to contemplate given the new initiative.
+Right.
+In terms of are we seeing any impact from tax reform on consumer spending, I would have to say that it's hard for us to isolate those kinds of impact.
+So I don't think we have a point of view on that, and it's probably a little too early in any case.
+So I'm not sure I can tell you anything specific on that front.
+As it relates to the button, as I've said earlier, many of these questions are relatively premature given where we are.
+In terms of Visa Checkout, we remain as focused on it as we were.
+We will use the Visa Checkout in those parts of the world where it clearly is a valuable option for people, especially outside the U.S. In the U.S., there are merchants who would see value in it.
+We would definitely use Visa Checkout as a solution there.
+Once the single button solution is available, then we'll just have to see how that plays between the Visa Checkout option and the single button.
+In the meantime, we will have to spend some money to develop the single button option from a technology standpoint and all that.
+Well, we generally don't talk a lot about what our pricing plans are.
+We obviously look -- we have a dedicated pricing team.
+We look at pricing on everything that we do from the pricing to issuers, the pricing to acquirers, plus the services that we make available to our issuer and merchant customers, and we look at the price value equation.
+We look at the competitive set and we make judgments on an ongoing basis.
+And I think that's the most I'd say about it.
+I just want to ask a question for you, Al.
+You talked quite a bit about contactless payments and adoption rates across the globe.
+Can you maybe just give us a sense about the details of your plans around the U.S..
+You talked about some enablement for -- on the merchant side, but what are you doing to get that stronger on the bank issuer side.
+Any plans you can articulate there.
+And then maybe share with us your expectations, say, maybe 2 years out about what the penetration rate could be or look like in the U.S.
+Well, Jim, I think the U.S. market, I think I've talked about this before but maybe I haven't, the U.S. market is a bit different.
+It's a little upside down in terms of how this opportunity has -- presents itself.
+Usually, around the world, the issuer side of the equation has been ahead, and we've had to kind of pull the merchant community along, which I actually think is the harder lift.
+In the U.S., we've kind of got the opposite situation, where we've got nearly 60% of the top 100 enabled.
+We've got virtually all the terminals being shipped today are enabled for contactless.
+The whole transit system push, which is happening at a fairly large clip in terms of interest is a stimulant.
+So I -- in our case, in the U.S., the reality is that we need to catch up on the issuer side, and that's a smaller constituent group versus millions and millions of merchants.
+So we're in lots of discussions with our issuer partners.
+And I think that there's a lot of interest on the part of our issuer partners to move to contactless.
+Nobody's too anxious to do mass card replacement, but I think as cards start to get replaced, you'll start to see more contactless evolve.
+That said, as I said in my remarks, this is at least a year or 2 to get this off the ground before you start to get the beginnings of movement.
+And then if the U.S. is like other markets, which I've no reason to believe it won't be, I think that, we'll, in a couple of years, we'll -- if we're in a single digit that we'll start to see real acceleration then over the next couple of years.
+And I'm hoping maybe because they -- it's really progress is more going to be driven by issuer side movement that maybe the adoption could curve -- could be actually a little bit quicker than we've seen in some of the international markets.
+But that said, I'm not going to get into predicting business right now as to exactly what level of penetration it would be in a couple of years.
+But I can tell you this, we're excited about it and we're pushing on it.
+This is Vasu <UNK> for <UNK> Faucette.
+Just 2 really quick ones, one on Visa Direct, you guys talked a lot about traction there.
+Could you maybe talk a little bit about what geographies you're seeing more traction in.
+Is it mostly in the U.S..
+Or what international geographies you're seeing more traction.
+And then from a P&L perspective, where are these volumes and revenues getting captured.
+And then quickly on just following up on the nationalism question before, recently, I think the Central Bank in India is considering some regulation that all user data needs to be stored only in the country.
+So what would that mean for Visa in terms of your ability to process transactions there.
+Okay.
+So I think there were 3 questions there.
+Visa Direct.
+So Visa Direct is a product running on VisaNet, so it is a true global offering.
+I mean, it -- because VisaNet is global, Visa Direct is global.
+And it's operating in a large number of markets around the world, including Europe now that we've got VisaNet starting to run in Europe.
+So I mentioned in the remarks that today probably P2P remains one of the bigger use cases for Visa Direct, but there are other disbursement use cases that we're looking at and are coming on stream that are also producing volumes on Visa Direct.
+I think the second question was where is it captured.
+Where do we see most of the volume.
+It's payments volume, right.
+And some of it is mostly domestic, but there are some cross-border, so it's mostly showing up in service fees and data processing.
+Right and the U.S. certainly is among the better developed markets.
+You were asking the question from a geography standpoint, and we're starting to see volume in Europe and other parts of the world.
+And as we've told you, our goal is to have 1.7 billion or so debit credentials enabled by the end of this calendar year on a global basis going all the way to 2 billion.
+And then there was one.
+.
+And then the last question on India.
+Yes, the RBI, the Central Bank of India had issued, in the last 10 days or so, data localization rules.
+We're still get -- starting to get -- trying to get our hands around them and understand what it means.
+They're looking for some form of adoption in 6 months, which is a tough time frame.
+So it's early, again, very early there.
+We're in almost daily discussions with our tech team, with the government in India, with the RBI in India to try to get a sense of what are they really trying to accomplish and what might be the best way to get there.
+So again, more to come as we continue our dialogue with the folks in India.
+And with that, we'd like to thank you for joining us today.
+If you have additional questions, please feel free to call or e-mail.
+Thanks, again, and have a great day.

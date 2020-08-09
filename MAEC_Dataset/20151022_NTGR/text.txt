@@ -1,0 +1,146 @@
+Thank you, <UNK>topher and thank you, everyone, for joining today's call.
+For the third quarter of 2015, NETGEAR net revenue was $341.9 million, which is down 3.2% or about $11 million on a year-over-year basis and up 18.4% or about $53 million sequentially.
+The sequential uptick in revenue is primarily due to our success in North America where we experienced a robust back-to-school season and strong demand for our flagship product lines such as Nighthawk and Arlo.
+Additionally, our revenue in Q3 was augmented by higher-than-normal demand from our service provider customers.
+Despite the higher-than-normal demand, our service provider segment revenue in Q3 is down $37 million year-over-year due to our decision to exit certain businesses that did not meet our financial metrics.
+During the third quarter, net revenue for the Americas was $219.7 million, which is up 13.3% year-over-year and up 27.4% quarter-over-quarter.
+We were especially pleased with the performance of the retail business unit and commercial business unit in this region.
+The retail business unit executed exceptionally well with multiple new products on the shelves during the back-to-school season.
+We are particularly pleased that our Arlo wire-free cameras continue to be more broadly distributed and have now become the clear number one IP home security monitoring camera in North America retail.
+Europe, the Middle East and Africa, or EMEA, net revenue was $77.7 million, which is down 28.3% year-over-year and up 14.3% quarter-over-quarter.
+While the EMEA results continue to be challenged by tough year-over-year comps due to the very unfavorable exchange rates, we are encouraged by the sequential improvement shown in this region.
+With new products continuously being introduced at higher price points, we expect improvement both in top and bottom line in the EMEA in coming quarters.
+Our Asia-Pacific, or APAC, net revenue was $44.4 million for the third quarter of 2015, which is down 12.9% from prior year's comparable quarter and down 8.1% quarter-over-quarter.
+Like EMEA, the APAC region's results are challenged year-over-year due to ForEx headwinds, particularly in Australia and Japan.
+In Q3, we shipped 6.1 million units.
+We also introduced 21 new products during the quarter.
+As always, sales channel development is a key focus for the Company as our sales channel remains a critical strategic asset.
+By the end of the third quarter of 2015, our products were sold in approximately 38,000 retail outlets around the world and our number of value-added resellers stands at approximately 30,000.
+Now let's turn to a review of the third-quarter results for our three business units -- retail, commercial and service provider.
+For the retail business unit, or RBU, net revenue came in at $164.1 million, which is up 24.9% on a year-over-year basis and up 24.5% sequentially.
+The retail business unit had a record quarter in terms of revenue driven by the strength of our Arlo wire-free IP camera, Nighthawk routers and gateway, as well as a robust back-to-school season.
+Arlo revenue continued to grow as we further expanded the productline's distribution during the quarter and maintained the momentum we've had since launching the product in January.
+We are now the leader in the consumer IP camera market in North America, Europe and Australia.
+I encourage you all to join us at our Analyst Day on November 4 in San Francisco where we will provide marketshare data and discuss our strategy in the Smart Home market.
+Turning to the Nighthawk line of premium routers, gateways and extenders, we recently announced the release of the Nighthawk X8, which boasts record-setting combined Wi-Fi speeds of 5.3 gigabits per second.
+The Nighthawk X8 features Wave 2 802.11ac Wi-Fi with multi-use MIMO capability coming soon.
+A 1.4 gigahertz dual core processor for faster connections, the industry's first patent-pending active antennas to boost range and three Wi-Fi bands with quad streams is the best router on the market for homes ready for increasing amounts of streaming 4K video content and gaming.
+The Nighthawk X8 is available now in the US from major retailers in stores and online at a recommended retail price of $399.
+The commercial business unit, or CBU, generated net revenue of $65.2 million for the third quarter of 2015, which is down 9.4% on a year-over-year basis and up 3.4% sequentially.
+As discussed on the prior earnings call, the year-over-year decline in CBU is primarily the result of a difficult small business market climate in Europe caused by currency headwinds.
+As we mentioned last quarter, we are also seeing a channel shift to online for many of our CBU products.
+As a result of this shift, our US distribution channel is reducing inventory, which you can see in the associated (inaudible).
+Our online channel partners carry much less stock, so this channel shift is a revenue headwind.
+We expect this channel shift to normalize as we enter the year 2016.
+The commercial business unit continues to be driven by the switching category.
+We are positioned well as the SMB market shifts towards switches with Web management, power over Ethernet and 10 gigabit speed.
+Our recent introduction of the industry's first 28-port 10 gigabit smart switch was an instant success.
+It has joined our prior 12-port version as one of our top 10 switches.
+We will discuss our success in switching in more detail at the upcoming Analyst Day.
+Earlier this month, we launched two new business-class wireless 802.11ac access points for SMBs -- K12 and hospitality.
+They are capable of operating in standalone mode or in the new NETGEAR ensemble mode management.
+Ensemble enables centralized configuration and management by the access point of up to 10 access points as a single group without requiring additional hardware, licenses or support fees.
+They are truly designed with the SMB market in mind.
+For our service provider business unit, or SPBU, net revenue came in at $112.6 million for the third quarter of 2015.
+This is down 24.9% year-over-year and up 19.9% on a sequential basis.
+We believe this Q3 uplift is a one-time event due to special promotions from some of our service provider customers.
+We expect we'll be back to the $100 million per quarter level in the coming quarter.
+As stated on our prior earnings call, SPBU revenues have declined year-over-year as we have exited or turned away certain service provider business that did not meet our profitability metrics.
+During the quarter, we announced two industry-first mobile hotspots.
+First is the AirCard [A10S] for Telstra Australia, which sets a world record of 540 megabits per second download speed in Telstra's 4GX mobile data network.
+The AirCard A10S implements the latest Cat 11 mobile data standard and clearly sets NETGEAR apart as the leader in mobile hotspot technology.
+We also introduced our AirCard 791S mobile wide for hotspots to Verizon Wireless subscribers in the United States under the brand name Verizon Jetpack 4G LTE mobile hotspot.
+This Cat 6 device is the first jetpack from Verizon that supports 4G LTE advanced technologies.
+We are excited to be adding Verizon Wireless to our list of mobile hotspot customers.
+We will continue to manage the service provider business unit by focusing on higher-margin, strategic customers where newer technologies such as 4G LTE, DOCSIS 3.1 and VDSL are key.
+As stated, we continue to believe our SPBU revenue will be around $100 million for Q4.
+In summary, we are pleased with our third-quarter results and believe that we are well-positioned for a successful holiday season in the fourth quarter.
+I would now turn the call over to <UNK>tine for further commentary on our financials for the quarter.
+Thank you, <UNK>.
+I will now provide you with a summary of the financials for the third quarter of 2015.
+As <UNK> noted, net revenue for the third quarter ended September 27, 2015 was $341.9 million as compared to $353.3 million for the third quarter ended September 28, 2014 and $288.8 million in the second quarter ended June 28, 2015.
+We shipped a total of about 6.1 million units in the third quarter, including 5 million nodes of wireless product.
+Shipments of all wired and wireless routers and gateways combined were about 2.8 million units for the third quarter of 2015.
+Moving to the product category basis, third-quarter net revenues split between wireless and wired was about 77% and 23% respectively.
+The third-quarter net revenue split between home and business products was about 80% and 20% respectively.
+Products introduced in the last 15 months constituted about 48% of our third-quarter shipments while products introduced in the last 12 months constituted about 37% of our third-quarter shipments.
+From this point on, my discussion points will focus on non-GAAP numbers.
+For a full reconciliation of GAAP to non-GAAP financial results, please refer to the third-quarter 2015 earnings release.
+The non-GAAP gross margin for the third quarter of 2015 was 29% compared to 29.9% in the year-ago comparable quarter and 27.9% in the second quarter of 2015.
+Total non-GAAP operating expenses came in at $63.8 million for the third quarter of 2015, which is down compared to $68 million in the year-ago comparable quarter and up compared to the prior quarter's total non-GAAP operating expenses of $60 million.
+Our non-GAAP R&D expense for the third quarter was 6.1% of net revenue as compared to 6.2% in the year-ago comparable period and 7% of net revenue in the second quarter of 2015.
+As always, we remain committed to driving further optimization in our sales channel, supply chain and support functions, which should result in further operating margin leverage in the future.
+Our headcount decreased by a net 8 people to 959 during the quarter.
+Our non-GAAP tax rate was 38.2% in the third quarter of 2015 as compared to 29.4% in the third quarter of 2014 and 50.9% in the second quarter of 2015.
+<UNK>oking at the bottom line for Q3, we reported non-GAAP net income of $21.7 million and non-GAAP diluted EPS of $0.67 per diluted share.
+This represents a 6.9% year-over-year decline in EPS.
+However, note that in the third quarter of 2014 it included a $0.04 diluted share benefit as a result of a year-to-date catch-up that reduced tax expense for the quarter.
+Our balance sheet remains strong.
+We ended the third quarter of 2015 with $263.8 million in cash, cash equivalents and short-term investments compared to $202.9 million at the end of the second quarter of 2015.
+For the third quarter of 2015, we generated approximately $77.1 million in cash flow from operations.
+We continue to remain confident in NETGEAR's ability to generate meaningful levels of cash.
+During the trailing four quarters, we generated approximately $157.1 million in cash flow from operations.
+We are very focused on optimizing the business and generating free cash flow, which gives us flexibility with our business needs, as well as the ability to strategically deploy cash to enhance shareholder value.
+In Q3, we spent $20.6 million to repurchase approximately 642,000 shares of NETGEAR common stock at an average price of $32 per share, which resulted in a benefit of $0.01 to non-GAAP diluted earnings per share for the quarter.
+Since the start of our recent repurchase activity in Q4 2013, we have repurchased approximately 8.2 million shares or approximately 20.9% of the fully diluted share count at the beginning of that period.
+DSOs for the third quarter of 2015 were 73 days as compared to 72 days in the third quarter of 2014 and 78 days in the second quarter 2015.
+Our net inventory in the third quarter of 2015 ended at $170 million compared to $206.5 million in the third quarter of 2014 and $188.7 million at the end of the second quarter of 2015.
+Third-quarter ending inventory turns were 5.8 as compared to 4.9 turns in the third quarter of 2014 and 4.5 turns in the second quarter of 2015.
+Let's turn to our channel inventories.
+Our channel partners report inventory to us on a weekly basis and we use a six-week trailing average to estimate weeks of stock.
+Our US retail inventory came in at 9.2 weeks of stock.
+Current distribution inventory levels are 7.9 weeks in the US, 5.3 weeks of stock for distribution in EMEA and 7.3 in APAC.
+For the fourth quarter of 2015, we anticipate revenue will be in the range of approximately $335 million to $350 million.
+We are confident in retail strength during the upcoming holiday season and believe that our new products will be a hit with customers.
+We also expect service provider revenue will step back to the $100 million revenue range from the elevated $112 million level in Q3.
+Fourth-quarter non-GAAP operating margin is expected to be in a range of 9.5% to 10.5%.
+Our non-GAAP tax expense is expected to be approximately $13 million to $15 million, which implies a tax rate of approximately 41% for the fourth quarter of 2015.
+Operator, that concludes our comments and we can now take questions.
+No, we did not.
+We can say at this point in time that we are clearly the number one marketshare holder for both product categories in the United States and we encourage you to come to our Analyst Day where we will prepare more detailed marketshare data us versus our competitors.
+Yes, clearly, we are poised to take more share in the coming quarters.
+That is what we believe and clearly that will be propelled by new products and we just introduced the Nighthawk X8 three weeks ago, so I think that would help us to gain more share in the holiday season.
+Yes, as <UNK>tine mentioned, I think we have some headwinds of our distribution channel inventory destocking and we went from roughly 10 weeks to right now about 8 weeks, so you've got two weeks of destocking.
+When you take that into account, it is actually growing more than $2 million quarter on quarter on the actual sellthrough.
+So we are pretty pleased with that.
+Sure.
+Sure.
+So CapEx for the quarter was about $2.9 billion spent for the quarter and looking internally at our inventories, I believe, given the significant increase we had in the revenue quarter-over-quarter, that brought down inventory and looking at our partners' inventories, you saw retail has gone up and they are preparing for the holiday season and during back-to-school and I think also with some of our new products and then we again saw the distribution inventory in the channel go down several weeks this quarter, which we had mentioned in Q2 we saw some of that and we think that will normalize as we walk into 2016.
+I think we are always going to balance inventory versus air freight and do customer demand and try to take the least amount of risk and yet provide our customers with the products they want.
+So we always balance that and we have a very careful process on that.
+It's the first one we did for Verizon in the last 10 years and it's the first LTE-advanced mobile hotspot for Verizon.
+No, we were not in previously and they never had an LTE-advanced mobile hotspot from any of their suppliers before us coming in.
+We're actually not going to comment on customer-specific projects, but we actually have launched multiple LTE gateways with multiple operators before.
+Sometimes it comes in a normal format like what we usually do, which is the modem plus the router in a box.
+But, recently, we actually used a different format, which is the router and the modems come in separate forms.
+So the modem is pretty much our mobile hotspot, but then the Wi-Fi router appeared in a cradle and then you slot the modems into the cradle and make it a gateway.
+So that means you kind of dual use.
+When you are not in the house, you can take the mobile hotspot around, but once you're inside the house, you can slot it and make it a household gateway.
+That format is catching on pretty well and we have sold quite a few of them in Australia with Telstra, as well as selling quite a few of them in the Middle East.
+No, I mean what we have announced -- what we are in the market was with Verizon, US Cellular and Sprint.
+Absolutely, we would like to make Arlo as the must-have Smart Home device for every single household just like Nighthawk router is and we are going to work with any popular platform of a Smart Home out there.
+We have announced before we are participating in the AllSeen Alliance.
+We have also actually b we actually went on the same stage with Samsung in the last year saying we will be on their Smart Home platform and now we are on the Xfinity X1 platform.
+We will continue to make our Arlo cameras to be available on any popular platforms of the Smart Home.
+And of course, we will be more than happy if our customers use our own Arlo platform to control our Smart Home devices.
+First is the Arlo camera.
+So we don't have any parochial preference that it must work on our platform.
+We would rather work with all the popular platforms out in the market.
+Yes, I mean, clearly, as we just mentioned we are working toward some headwinds of channel shift.
+As more and more of our CBU products are sold through the online channel, they don't use the distribution that much.
+They buy direct from us, so the distributor sees that the portion of our business that they occupy is getting less, so that's why they are destocking.
+So we have to go through this level of destocking, which we believe will last for another quarter or two.
+So if you take that into account, we are actually very pleased with the switch sales and even though it is 20% of our revenue, as you probably looked at the previous 10-Q, you will see that this particular segment is very profitable for us.
+The margin of this segment is higher than either the retail business unit or the service provider business unit, so it is a very important source of profit margin dollars and we're not going to neglect it.
+Also, if you look at the switch category where we had a tremendous huge marketshare in unmanaged switches, and we invented the Web managed switches and we also are the number one marketshare holder of the Web managed switches, we are not going to relinquish that.
+And as a matter of fact, we will give you more detail of how fast that Web managed switch market is growing and what our marketshare is and why we are winning so much marketshare, what are the next stage technology of it.
+We believe that both will move the industry as well as move our marketshare.
+So please come to our Analyst Day in two weeks time.
+Thanks.
+Sure, thank you.
+Thank you all for joining us on today's call.
+I hope that you can attend our Analyst Day on November 4 in San Francisco where our management team will discuss the future of the Smart Home and how NETGEAR will continue to be a leader in serving SMBs and further elaborate on what lies ahead for service providers.
+If you would like to attend, please reach out to NETGEAR investor relations.
+If you cannot join us in person, then please assess our investor relations website where the event will be webcast at 1 PM Eastern, 10 AM Pacific on November 4.
+Thank you very much.
+I hope to see you all soon on the Analyst Day.

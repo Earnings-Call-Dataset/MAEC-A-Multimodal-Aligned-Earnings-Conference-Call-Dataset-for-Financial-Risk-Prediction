@@ -1,0 +1,158 @@
+As to the first question, Jim -- no.
+I would agree that the number of deals is actually roughly on-pace with prior years.
+The amount of spend -- that, I'd say, $75 million -- is less.
+Gawker has nothing to do with that.
+I think as you know, Gawker was something that really materialized in the June timeframe, May-June timeframe.
+And so, obviously, there's been a lot of activity even before Gawker was a possibility.
+And as you can see, we've got more than ample cash balances to fund that transaction and still do much more.
+And if we do not win Gawker, the answer is also no.
+I mean, there's going to be a push to do M&A.
+I would say that if we win Gawker, there might be some things on the media side that we would like to defer.
+Because we're going to spend the time to absorb the Gawker properties.
+So that might change somewhat on the margin, but certainly has no effect on the Cloud business or no effect on j2's general appetite for M&A.
+As to your second question -- I think that all of the other Cloud Services remain under-scaled.
+However, the one that's closest to scale is the Backup business.
+It did tip over 50% EBITDA margins this quarter, which is one of the factors we use in terms of determining scale.
+But it's not solely determinative.
+But it is clearly marching in that direction of being a full-scale business unit that could be standalone.
+That's really more of the internal definition.
+And we expect that when those businesses meet that criteria, as a result of it, they should be at 50% or better EBITDA margins.
+So the Backup is the closest, I think, as <UNK> mentioned.
+Depending upon the pace of M&A over the next six to 12 months, it probably reaches its scale.
+Not necessarily its full potential, but its scale.
+The other units, though, remain small -- the Email Security, the Email Marketing, and the web hosting.
+Web hosting really is very, very tiny; it's about $5 million to $6 million of revs.
+The Email Marketing is about $30 million, and the Email business is right around a little over $50 million.
+So each of those three business units, to varying degrees, have to increase from a pure revenue standpoint fairly dramatically to hit scale.
+I'll try to answer you, too, <UNK>.
+There are two elements, revenue and EBITDA.
+So from a revenue standpoint, the Cloud Connect is growing slow.
+We have potential in voice, both in the US and internationally, but a slow grower.
+EBITDA is very high, mid-50s to 60s.
+On the Backup, we just reach over 50% EBITDA.
+I believe that we can improve the cash flow there.
+As we scale, we have better ways of reducing cost on our [colo storage].
+And also, we keep on introducing services that are very highly valued.
+But we don't really represent, beyond the initial investment cost, those services like disaster recovery.
+And as you know now, more companies are dealing with -- they're being compromised by hackers that lock their data and they want ransom, ransomware.
+So this service is now something that we can provide.
+If basically somebody invades your data and locks it with -- encrypts it, you can go to us and say -- I would like to go back to my last pickup, which was, let's say, two days ago, before they invaded me.
+And you can basically recover [to] companies.
+The server doesn't necessarily cost us more.
+It's just more sophistication.
+So with this sophistication, and with these services at a very highly value, the price is not an issue there.
+And it's unlike what you call stupid pickup -- smart pickup.
+I do believe that we can continue to increase the EBITDA there, too.
+On the Email Security, we're at a 40% level kind of.
+I believe that we can go up to 50% once we continue to integrate all our customer to single platforms (inaudible) platform.
+And we are making progress there.
+Email Marketing revenue, EBITDA continues to grow.
+It's a small business, $30 million.
+We see a lot of acquisition.
+Much less competition there, because the integration there is engineering challenge that we absolutely like and can do.
+And the EBITDA there is very high.
+So I hope I answered you all about the Cloud and the ability to scale.
+And same with Media.
+So I believe that with the Cloud Connect being a slow-grower, all the rest have big potential to continue to grow in the next five to 10 years.
+You're welcome.
+So excellent question, <UNK>.
+First of all, this revenue is more than half outside the US.
+So it doesn't impact inside Denmark and Norway and those countries.
+So there's some FX impact.
+Also, in these business, we are trying to migrate customers to our FuseMail product.
+We have like three or four, or maybe five, brands that we bought.
+We're all migrating into FuseMail.
+The migration cause us to lose some customer.
+But every customer that we migrate, the EBITDA doubles and triples.
+So we don't care so much about the revenue there.
+This group is focus about integration.
+But every time we integrate a customer, we are saving $0.20 to $0.25 per email box per month.
+And that's the focus.
+The focus there is EBITDA.
+And some customers refuse to migrate or have some specific.
+So the revenue growth is lower, but the EBITDA growth is really fast.
+That's a piece of it, but it's not limited to the videos.
+So we talked about over the last year, we've got a couple things going on.
+You've got a couple of additional properties that were added year over year.
+So if you recall, Offers.com was acquired in late 2015, actually 12/31.
+So we have the visits and the page views from that in Q2 of 2016, which we don't have in Q2 of 2015.
+So that's probably one of the more important contributors to that delta, as well as what's going on just in the overall core business, including the video views.
+It's been an important contributor.
+I think if you go back over the last few earnings calls, when we've talked about video, it's been in the neighborhood of 5% of our Media revenue.
+That's now upwards of 10%.
+And also a big shift to mobile, which is very important.
+So we've seen it have an increasing share, while at the same time the total revenues of Ziff Davis are growing.
+So I think that the answer to your question is yes, there's very good conversion of those video views into actual not only monetization of revenue, but it's also aiding on the EBITDA contribution.
+That's an area we've been very bullish in.
+Now, it is not, though, systemically the case across all of our web properties.
+It's heavily driven by IGN and by AskMen.
+Most of the video content comes out of those two properties, whether it is viewed on our owned and operated websites or through third parties such as a Snapchat, Facebook and Twitter.
+YouTube.
+No problem.
+Second one I'm not going to comment on.
+I don't know.
+The first one, though, is -- there are seven properties.
+And so the two tech properties, Gizmodo and LifeHacker, fit very well into our tech vertical, where we have a number of different websites catering to different audiences.
+Kotaku fits into the games area, where we actually have a much more limited set of web properties.
+We have GameTrailers now, IGN.com and, if we're successful, Kotaku.
+And then, there's three other properties that Gawker has that in our view we would combine with AskMen.com to form more of a lifestyle category.
+And that's Jalopnik, which caters to autos; Deadspin, which is sports; and Jezebel, which is women's lifestyles.
+So we would integrate these individual properties into our core verticals.
+We think that there are opportunities to both improve the top-line performance as well as the bottom-line.
+But I'm not going to get any more specific than that at this time.
+Sure.
+So the 8% notes actually became callable as of August 1 of this month, so a couple of days ago, at [104].
+So that's -- if we wanted to get rid of them, that's $260 million.
+I think as you know -- and there's obviously many different ways to either finance or refinance, but if we stayed within the high-yield markets, I would say they've had a somewhat volatile year, start off very poorly.
+Although in the last six weeks or so, that market's caught fire post-Brexit.
+And I feel pretty good that if we were to refinance in the current market environment, we clearly could lower our cost of capital from the current 8% on those notes, probably in or around the 6% range.
+And then, I think the second question is, do we have a need for more capital based upon our prospective pipeline of transactions.
+And the answer to that is maybe.
+Part of that would be influenced by Gawker, not only the purchase price of Gawker but the fact that that is likely the all-US cash.
+So when we look at our total needs, we look at the [407] [bolded] and aggregate number.
+But then we also look at the split between the US portion and the foreign portion.
+I think right now it's around [240] US and [160] overseas as of June 30th.
+So we put all that together to decide what we need to do, if anything, to prepare ourselves for the next $300 million of spend.
+Obviously, we're generating a significant amount of free cash flow as we march along.
+So we've made no commitment at this point in terms of calling the notes, or formally refinancing them.
+But it's clearly something that I'm looking at.
+Yes, we're going to do that at least annually.
+Obviously, this breaking down of the Cloud business into component pieces you see in the front part of the presentation.
+So from an operating basis, that is the way we will continue to report.
+And over time, there'll actually be even probably a further fracturing of what are called Cloud Services as these business units grow up.
+So I think the next one to break out would be the Backup business.
+At least, that'd be the current trend.
+And then, whatever is still small would be in just Cloud services.
+And at least once a year, on an annual basis, [which] you saw last quarter, you'll have the total capital spend and the implicit returns for each of the sub pieces.
+It's --
+Great, we wanted to make sure that you are really focused and you noticed it.
+And I want to take the opportunity to tell our listeners today, at this time, there are like hundred earning calls.
+And we got <UNK>, <UNK>, <UNK>, <UNK>, everybody (multiple speakers), and <UNK>.
+So we want to thank you for giving us the priority to jump on our call versus the other 90-some alternative that you have.
+And we want to thank you.
+We don't take it easy.
+A couple of --
+Go ahead.
+Adam.
+Thanks.
+Okay.
+Couple of other comments -- as you know, we do take questions by email.
+One is a comment on currency and FX, which nobody asked.
+I'll let you know that the various Brexit volatility, and its volatility surround the pound-to-US dollar, had about $1.5 million impact in the second fiscal quarter on revenues, although much more muted on an EBITDA or earnings basis.
+We continue to monitor, really, the basket of 10 currencies that matter to us, although I'd say this year, the GBP has probably been the one that's been most influential.
+Our best estimation is the back half of the year for the total business relative to last year will be about a $5 million top-line impact, but once again more muted as it relates to EBITDA of probably only around a couple million dollars.
+Next question has to do with -- and this has been an issue sometimes in how to spread the Media revenue over the course of the year.
+So as you know, we give the annual guidance.
+I think in February, when we first gave that guidance, we talked a little bit about the distribution of revenue as it relates to Q1 and Q4, but not necessarily as to Q2 and Q3.
+It is -- what you have typically seen, although there is no necessity to it, is that the Q3 median revenue is greater than Q2.
+That's been more happenstance and luck than anything else.
+Our view is that generally those two quarters are roughly equal.
+However, I would note that in the current Q2, we had the acceleration of certain licensing and business development agreements that will probably take, actually, a little bit of revenue away from Q3.
+So as a result, don't be surprised if Q3 revenue in the Media business is somewhat lighter than Q2's revenues.
+But everything remains consistent for the full fiscal year, just some timing differences between the quarters.
+And if the operator has no other either polled questions, or we don't have any other questions by email, we would just once again thank you for joining us.
+There will be a number of conferences beginning in September after Labor Day that we will be presenting at.
+There'll be a press release on those probably in late August announcing the specific venues and times.
+And so we would encourage you to attend those conferences or listen to the webcast and, if you're in those locations, to seek us out for one-on-one.
+Thank you.
+Thank you very much.

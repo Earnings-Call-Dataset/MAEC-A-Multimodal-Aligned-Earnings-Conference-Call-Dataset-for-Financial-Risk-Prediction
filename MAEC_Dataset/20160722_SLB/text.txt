@@ -1,0 +1,93 @@
+So in terms of the charge that we've taken, this is basically catching up and finalizing the resizing of the Company, which has now been dropping in activity levels over the past seven quarters.
+So this charge is linked to a number of things that we have been executing in the second quarter and should bring the Company into the shape where we are well-positioned to navigate the bottom of the market and also well-positioned to start growing again going forward.
+So we put a lot of details and scrutiny into any impairment charge that we take and we have done so as well in the charge for Q2, which is sizable.
+But we believe this is prudent, this is right and it's justified to do what we've done and that's why we did it.
+Now in terms of the outlook, like I said, we are at the bottom, but we are not expecting an immediate and sharp recovery.
+If you look at North America versus international, some of the moving parts going into Q3, North America still has significant overcapacity at this stage in terms of services and the low barrier to entry is also going to continue to be a major headwind.
+So we expect modest increase in land activity, but this is going to be partially offset by lower offshore work.
+We are significantly down in Alaska, in Eastern Canada, as well as in the Gulf of Mexico.
+We expect some improvement in pricing, but it's going to be way short of the level required to break even in Q3.
+So we don't expect any major positive earnings improvement from North America in Q3, but it shouldn't get much worse either.
+So fairly stable earnings for North America in the third quarter.
+And fairly similar in international markets.
+There's less overcapacity there due to the higher barrier of entry and it's also quite a narrowing competitive landscape.
+So in principle, it should be easier to recover some of the temporary pricing concessions that we have made, which in most cases in the international market is also time bound or linked to oil price.
+But given the limited increase in activity we see for Q3, again, we don't expect any significant positive sequential earnings contribution from international, so overall we expect flattish EPS in Q3.
+Well, if you talk about efficiencies, are you talking about their current cost per barrel because that is to a large extent driven by very low service pricing.
+And I think there's no company in North America that is able to continue for a long period of time to operate at these pricing levels.
+But if you talk about the technical performance of how efficient we drill and how efficient we frac, I agree with you there is a handful of companies that can do that and I think that number is shrinking and unless there is some pricing recovery and some ways to create more financially viable contracts for even this limited number of companies, that number is going to shrink further, yes.
+Okay, so we see that there are a number of questions still remaining and we are going to extend the call another 5 to 10 minutes.
+Operator, please can you give us the next question.
+So, we've started this dialogue and this engagement first of all internally with our senior management team during the second quarter.
+This is not a surprising playbook.
+At some stage when you do approach bottom, this is the shift that you need to make, but we have I would say done this in a concerted fashion during the second quarter.
+We have had very good discussions with the senior management team and laid out plans for how we are going to now shift the focus and how we navigate the next phase.
+And as I said earlier on, the understanding of the viability and state of the industry value chain in each of the 80 countries we operate in is extremely important to make sure that you are optimally positioned to capture the market in the countries which we believe are going to see a sustainable increase in activity where we can also generate sustainable earnings going forward.
+So we spent a lot of time internally with the team to lay out these plans and put this methodology in place, so we are in good shape there.
+We are already in the execution mode of it.
+And in terms of the engagement with the customers, it has started.
+It is still at a fairly low frequency, but that is now what we will do much more widespread as we enter the third quarter here.
+But obviously a lot of these discussions are going to be challenging.
+There is not a lot of surplus in any situation, but we believe that the temporary concessions we have made, at least part of that will need to be returned to us.
+But in return for that, we are very open to engage in different types of collaborations where we, through better management of the interface and better commercial alignment, can together drive unnecessary costs out of the system so that we can make more of the industry value chain viable in many countries around the world.
+That's certainly the objective.
+Absolutely.
+Both of those are aspects that we believe will generate total value that then can be shared between the supplier and the E&P companies.
+And also back to what we talked about earlier in the call all around the integration offering that we have and that we continue to invest into.
+Well, I think the narrowing competitive environment has some impact on this, and also I think if you look at margin performance over the past 18 months in the international market in between several of the large players, some of these players are already in the red, in which case their room to take on contracts which they might feel is challenging is very, very limited.
+So the position we have in terms of strength, both in footprint scale, local knowledge, as well as the overall contract portfolio we have allows us to be quite competitive in these tenders.
+And I think very importantly as well as to look at the difference between the contract portfolio and maybe the immediate revenue translation of these contracts.
+In the international market, it's very important to have the contracts, and we have a range of contracts today that we have won with very little activity in them, but they have potential for significant increases in activity in terms of rig additions and so forth going forward.
+So what is very important over the past year, which we have a lot of focus on, has been the tender win rate and then having the contracts and then being able to translate that into revenue in the coming one to two years.
+For that particular application, it is being rolled out on the legacy fleet.
+These are measurements that we are currently recording and we have been for quite a while.
+And it's just one example of what we can do by being able to first organize our data in a way where it's accessible and then building the right analytic applications on top of it and then providing that to our field operations.
+So over the past 18 months or so, we have been undertaking a massive reorganization of the entire database we have and the data we record on a daily basis from our operations into a cutting-edge data lake, which is then accessible for these type of applications.
+And we've also established a new applications group, which then has the ability to build these analytics and tap into the data lake and provide this type of information for our operations.
+So the example you refer to in pressure pumping is one.
+We have a multitude of similar type of applications being built and which are going to be deployed in the near future with a similar type of impact on the operation, and this is all part of the transformation program that we've been talking about for several years.
+If I could just add, this is a big part of the Cameron integration as well.
+So in Cameron, we really didn't progress the ability to collect data on our equipment and what we are doing is tapping into the expertise here with Schlumberger, and in fact more than half of our 30 integrated technology programs are around this theme of controls and predictive maintenance and reliability.
+Correct.
+So <UNK>, as you mentioned, we performed well in the second quarter despite some exceptional payments and the transformation program is helping us quite a bit.
+It's on the CapEx side, on some of the cost elements, collection of receivables.
+The transformation program is across the board on most of our activity and processes.
+So we are looking forward to not consume as much cash in the upturn because, first, we do have excess equipment and we don't think the CapEx is going to turn around in a major way.
+And, yes, the transformation program will continue to contribute as it contributed in the downturn.
+So, <UNK>, just one clarification.
+So you asked me about the savings.
+So the savings we quoted was for all the test fleets we had in South Texas.
+It was not just one fleet.
+Sorry, did I get the concern you have, or the answer that you are looking for.
+Inventory is a big part of it as well, yes.
+That's what I meant by managing the material and supplies as well.
+So just to clarify, so I'm saying that obviously our international business and the state of that and the state of the international industry value chain is in much better shape than what the North America value chain is, in which case the basis for sustainable earnings growth at this stage is much higher and better internationally.
+Now, in North America, I think you've got to separate the industry view from just how Schlumberger navigates in the system.
+I think there are some questions and challenges to be asked, right.
+How is the industry in the next upcoming cycle going to be able to operate where the entire value chain ends up being cash flow and profit positive as we enter into a complete new cycle.
+That was not the case in the previous cycle and I don't think we can go on for many cycles in a similar type of fashion.
+Now, there is a part of North America land, which is viable even at lower prices, but how big that is and how much you can step up from the core acreage I think is to be seen.
+Now how we operate in that, we are aiming to be very competitive on efficiency and in addition to that continue to bring new technology into play, which can help our customers and drive our production per well.
+And we have a very good offering already in place for that, so we will continue to operate the way we have been with a focus in both these dimensions.
+But I think at this stage, if you look at the state of the industry value chain, I can't tell you that we are going to get back to previous peak margins in North America or North America land because at this stage I just don't see how that can be funded in the entire value chain.
+Good question.
+So look, we always said that we will be opportunistic on our buyback and we use excess cash, or remaining cash normally after the business needs to return it through buybacks.
+The $11.6 billion that we have in cash obviously do reflect excess cash, but excess cash should not be looked at on one given period.
+We have to project several quarters in advance.
+And during the quarter, there were major cash movements in relation to the Cameron acquisition, the cash we pay to the shareholders, we bought back some of the debt of Cameron, so we took a decision to slow down the buyback, sit back, reassess our need of cash, given all the opportunities we have in front of us and we will go back into the market.
+We are always in the market.
+Our policy will continue to be in the market, but it is not going to be evenly spread going forward.
+It is an exceptional period during the quarter due to the acquisition and basically a reassessment of how we are going to use the cash.
+But buyback will always be a part of our plan.
+All right.
+Thank you.
+So before we close this morning, I would like to summarize the four most important points that we've discussed.
+First, we believe that we have reached the bottom of the cycle and that E&P investments now have to increase in order for the industry to meet the growing supply deficit.
+As E&P investments start growing, a large part will initially have to be consumed on supplier industry price increases in order for capacity and capabilities to be available and for operating standards to be met.
+Second, most basins around the world are today at unprecedented low levels of activity and we expect to see a broad-based increase in investments going forward funded by higher oil prices.
+The magnitude and sustainability of the investment increase will however be a function of the financial viability of the entire oil industry value chain in each basin and country which will vary significantly.
+Third, our deep local knowledge, the breadth and depth of our technology offering, together with our geographical scale, will clearly set us apart and further enable us to deliver differentiated financial results going forward.
+And fourth, the shortfall in profits and cash flow throughout the entire industry value chain can only be permanently addressed by a dramatic step change in industry performance, including intrinsic quality and efficiency, technology system innovations and more aligned and collaborative business models.
+And Schlumberger is, and will remain at the absolute forefront of this industry transformation.
+That concludes today's call.
+Thank you for participating.

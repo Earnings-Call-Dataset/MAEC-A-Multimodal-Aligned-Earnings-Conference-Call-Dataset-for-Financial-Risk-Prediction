@@ -1,0 +1,85 @@
+So I think that the spending was already higher in 2016, and so incrementally as we look to 2017, and this is assuming a fairly quick stabilization period, I think the incremental spend is only a few million dollars, $3 million to $5 million.
+Obviously, that changes quite a bit if the team stays in stabilization mode longer.
+Okay, this is <UNK>.
+So Rain<UNK>ce has Droplet Digital PCR products that are very complementary to the products we have in that space today, so it strengthens our position in digital PCR, and they have expertise in products in next-generation sequencing sample prep that will really accelerate our move into that market.
+Additionally, they have foundational intellectual property that I believe will give us maximum flexibility as we move into markets adjacent to digital PCR that are droplet based.
+<UNK>, this is <UNK>.
+So we just launched the product on February 10 and I have -- we've sold some systems so far.
+I've gotten feedback that the interaction in the field between Bio-Rad and Alumina is going very well and the cooperation and customer-facing co-commercialization teams are going very, very smoothly.
+So, we're pretty optimistic about the outlook for the product for the year.
+And <UNK>, regarding the impact on the 2017 outlook in the P&L, there are two sources of revenue from this partnership for Bio-Rad.
+One is the ability for us to sell the instrument that we develop for single cell both in the bundle, as well as -- for new customers, as well as to their installed base.
+And then, the second revenue stream is in the form of a royalty that comes to us from Alumina.
+We don't disclose to that level of detail, as you well know, but I can tell you that we've been fairly conservative in our expectation.
+In 2017, I know that Alumina is very excited and I hope they're spot on.
+I would love to be proven wrong, but we've taken a fairly conservative approach in terms of what we're anticipating for revenue in 2017.
+<UNK>, this is <UNK>.
+I'll take that.
+Yes, we've been thinking about 2017 for, let's say, more than the last couple of months, I'll put it that way.
+We've organized the approach to look at improvements across the board, starting in our supply-chain area, and we have very specific targeted projects that we've got in mind there.
+We've also taken a very detailed look at our OpEx spending and we've really tied that right down to location, headcount, and the needs in which we see ourselves in.
+So largely as we think about 2017, for me and the organization, it's to get through this go-live in Europe, which we've got scheduled for early April, get that stabilized in three months' time, and then begin the process of shedding costs associated with that and moving on to the next smaller deployments going forward.
+So those, for me, are the really key aspects of it.
+And then with respect to topline planning, accelerating growth is really part and parcel to getting our ship righted here and we're pretty optimistic, I think as <UNK> alluded to, about the coming periods.
+So I think it comes from a couple of places.
+Certainly, the sales growth, and I think, as <UNK> said, we set the course for sales growth not only for 2017, but for the next few years, and that's, of course, one of the principal drivers.
+And then as we go down the balance sheet, I think, as we've called out a number of times, our SG&A is on the high side compared to our peers, and we really circled in on very tight control over SG&A for the next few years to help drive those margins.
+So as we go forward and see and are planning now on working on how we harvest the benefit of the SAP system and some of these other investments that we've made, I think that's really where it all comes from.
+And I think in terms of how it plays out, <UNK>, and you can see this in how 2016 rolled out, there is going to naturally be some tougher versus easier to compare periods as we look to 2017, especially for life science, and we think about that strong double-digit growth they had in Q3, et cetera.
+But, overall, I think on an annual basis we're still looking for pretty solid growth.
+Okay, so I'll take that one first.
+We are a net exporter.
+It is true that we have a sizable footprint in Europe, but we also have a sizable footprint here in the United States, and on both sides of the business, but especially on the life science side, we are a net exporter.
+Regards to some of the other plans, we don't know until we know, until these plans become real, but whether it's what the Republican Party is talking about or Trump talks about from time to time, I think either way you slice it, <UNK>, we're probably going to be a beneficiary of that in terms of a lower tax rate in the US.
+And then, on top of that, we will be able to turn on a lower tax rate in Europe with the turning on of SAP in Europe.
+So if we're really lucky, we'll get a benefit in Europe, as well as a benefit of whatever they do here in the US.
+So maybe I'll take that.
+This is <UNK>.
+Obviously, these things are hard, and I think this is certainly our biggest, most complicated deployment.
+I think we've spent a lot of time thinking about what we need to prepare and getting prepared.
+You can never figure out everything down to the last detail, but I guess I'm feeling pretty confident that we are as well prepared as we can be.
+We've got people on the ground and we've got extra resources at the ready to deal with whatever issues come up, and I think we're as well prepared as we can be.
+And I would agree with that.
+We've tried to take advantage of lessons learned.
+We've created a buddy system to send our power users based here in the US to be there on site as we go live and transition over the weeks shortly after going live.
+But this is really complex because, remember, we're not just turning on some new system in Europe; we have totally changed how we run our business, as you've heard me say, do business with ourselves in Europe and changed that operating model with the advent of a European headquarters and the advent of a shared service center, et cetera, so there's a lot of change we have to manage.
+To <UNK>'s earlier question, the biggest risk to our outlook for 2017 really surrounds our ability to get through this transition fairly successfully.
+With that being said, I agree with <UNK> that I think we're all feeling pretty good.
+There's been a lot of people paying attention to this and working on it and are going to be at the ready come early April when we turn it on.
+So, then, I just want to clarify what that means in terms of stabilization.
+I think what <UNK> was talking about is the team that works on this project would like to move on to the next implementation, and we talk about this being our last major implementation and it is because with this deployment, we will virtually have almost all of our manufacturing worldwide on SAP and what's left are sales operations that will roll out over time.
+But we would want to get the team quickly not needed anymore for the transition so that they can move on to the next implementation, which under the accounting terms means all that labor is capitalized, instead of expensed, and that's kind of the risk to the P&L and the assumptions in the P&L.
+In terms of overall business stabilization, I think we've said in the past that that really takes almost a full year before people get really proficient of using SAP and taking advantage of SAP, and so some of these redundancies that we have in headcount and what we call backfill in the business, et cetera, they'll stay throughout much of 2017 to make sure that not only is the system working well, but people know how to take advantage of it.
+And we've talked about when we really start to see the benefit coming back to us is after that one-year anniversary, or the second half of 2018.
+This is <UNK>.
+So we acquired early-stage technology and the team has made tremendous progress towards reducing risk and commercialization.
+We have a few more hurdles that we have to do to finish development and we need to get in a full-on beta test, and so predicting the exact month for when we're going to end could be a little tricky.
+Late in the year.
+For the project.
+So when we think about the project, there is spend directly associated with the project, and then there's kind of this ancillary spend where we have a lot of temporary help that is backfilled while our good people are working on the project.
+And where we've been running, and as you know, is kind of that $25 million to $30 million a year for the project itself and then maybe an extra $10 million or so in the related costs, if you will.
+That doesn't include depreciation, but really more about this backfill.
+So if you add those two together, we're high 30s for 2016.
+And 2017 is pretty similar, and then it should go down from there.
+Again, the reason it's pretty similar is we're anticipating a fair amount of health in the stabilization and continuing to need to backfill as we go through that period.
+So in terms of cash spend, I don't think it goes to zero.
+There is an ongoing support cost.
+SAP is a thing -- we obviously have to support it.
+We'll be decommissioning all these old systems, so I don't think it goes to zero.
+And on a reported basis, Jeff, we're taking on a fair amount of depreciation, and as I look over the long term, that depreciation is probably going to run around $25 million a year.
+In 2016, it was already up to $15 million.
+But on a cash basis, certainly it changes quite a bit, and the spend on the project both in terms of cash running through the P&L and capital goes down pretty significantly as we look out to 2018 and beyond.
+But there will always be some sort of cost associated with this, and, again, we're going to take the rest of the deployments in kind of measured approaches, based on where we get the greatest return in each of these sales locations.
+Probably not a depreciation estimate, although, as I just kind of hinted at, I think that depreciation associated with the SAP system increases $8 million to $10 million in 2017.
+For CapEx, what I said was $125 million to $135 million, and that's versus $141 million that we spent in 2016.
+Remember in our CapEx, there's three major components.
+There's all the new investments, and that's what's been driving sizable spend the last few years and it's primarily around this SAP system.
+There's always some level of maintenance CapEx.
+And then within our CapEx, traditionally about one-third of it has been related to reagent rental and these instruments for the diagnostics business that we are placing in hospitals and labs all over the world.
+With a lot of new instruments that are just coming on for diagnostics, either we launched them late in 2016 or they are coming even more instruments in 2017, reagent rental in CapEx could go up.
+And so, you're not seeing as big of a drop from $141 million to this new range of $125 million to $135 million as maybe could have been, but the mix is definitely changing.
+Okay.
+That's great.
+Thank you, everyone, for your interest in spending time with us today, and I reiterate what <UNK> said.
+We really appreciate your patience and support and hope you share our excitement for the future.
+Bye-bye.

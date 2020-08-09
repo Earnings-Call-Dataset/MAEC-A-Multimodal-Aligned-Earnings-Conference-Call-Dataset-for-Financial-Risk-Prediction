@@ -1,0 +1,314 @@
+Thank you, Claire, and welcome to our first quarter 2017 earnings call.
+With me on the call today are <UNK> <UNK>, our President; and <UNK> <UNK>, our Chief Financial Officer.
+First I'd like for <UNK> to give the safe harbor statement.
+Next, I'll have some preliminary comments.
+<UNK> will review the details of our first quarter results and 2017 guidance.
+Then, I'll have some final comments, and we'll take your questions.
+<UNK>.
+Thanks, <UNK>.
+During the course of this conference call, management may make statements that provide information other than historical information, that may include projections concerning the company's future prospects, revenues, expenses and profits.
+Such statements are considered forward-looking statements under the safe harbor provision of the Private Securities Litigation Reform Act of 1995 and are subject to certain risks and uncertainties, which could cause actual results to differ materially from these projections.
+We would refer you to our Form 10-K and other SEC filings for more information on those risks.
+Please note that all growth comparisons we make on the call today will relate to the corresponding period of last year unless we specify otherwise.
+<UNK>.
+Thank you.
+We're pleased with our first quarter results, which provided a solid start to 2017.
+Total GAAP revenue growth was 11%, all of which was organic, and non-GAAP revenue growth was 8%.
+Recurring revenues from maintenance and subscriptions led the way with mid-teens growth and comprised almost 64% of total revenues.
+We're also pleased that we were able to expand our non-GAAP operating margin by 70 basis points, even as we invested at a high level in product development, all of which was expensed.
+Bookings for the quarter were quite robust with a 25% increase over last year's first quarter to $186 million.
+We continue to be encouraged by the progress we've made with our New World Public Safety solutions.
+Run rates are improving, and we signed as many new-named clients for New World Public Safety in the first quarter of 2017 as we did through August of last year.
+Our Public Safety development projects are well underway and on schedule, with the first half of new features targeted for release later this spring.
+We're confident that these investments will improve our competitive position in public safety, while significantly expanding our addressable market.
+Our largest deal for the quarter was with the State of New York's Department of Taxation and Finance, and the New York State Office of Information Technology Services for our iasWorld computer-assisted mass appraisal solution valued at over $20 million.
+We also continued to see an increase in the number of new multi-suite arrangements.
+The number of multi-suite contracts signed in the first quarter was more than double the number signed in last year's first quarter, including SaaS contracts with Anoka County, Minnesota for our iasWorld, Munis and Eagle Recorder solutions; New Kent County and schools in Virginia for our Munis and EnerGov solutions; and Murfreesboro, Tennessee for our Munis Financials and Incode Municipal Court solutions.
+We also signed multi-suite contracts in Clayton County, Georgia for our Munis and iasWorld solutions; in Orleans Parish, Louisiana for our New World Public Safety, New World ERP and software solutions.
+Notable new contracts for our Munis ERP solutions included license arrangements with Cobb County, Georgia; Clearwater, Florida; the Lee County, Florida Sheriff's Office; and SaaS arrangements with Athens County, Ohio and Cleveland County, Oklahoma.
+For our iasWorld Appraisal & Tax solution in addition to the New York State contract, other notable contracts included a SaaS arrangement with Crow Wing County, Minnesota, and a license contract with Butler County, Pennsylvania.
+We also signed significant -- a significant agreement with Chandler Unified School District, Arizona's third-largest district, for our Infinite Visions solutions.
+Finally, significant contracts for our New World Public Safety solutions included Ulster County, New York; Berkeley, California; Muskingum County, Ohio; and Scranton, Pennsylvania.
+Now I'd like for <UNK> to provide more detail on the results for the quarter and update our annual guidance for 2017.
+Thanks, <UNK>.
+Yesterday, Tyler Technologies reported its results for the first quarter ended March 31, 2017.
+I'm going to provide some additional data on the quarter's performance and update our guidance for 2017, and then <UNK> will have some additional comments.
+In our earnings release, we've included non-GAAP measures that we believe facilitate understanding of our results and comparisons with peers in the software industry.
+These measures exclude write-downs of acquisition-related deferred revenue and acquired leases, share-based compensation expense, the employer portion of payroll taxes on employee stock on transactions and amortization of acquired intangibles.
+A reconciliation of GAAP to non-GAAP measures is provided in our earnings release.
+GAAP revenues for the first quarter were $199.5 million, up 11.3%, all of which was organic.
+On a non-GAAP basis, revenues were $199.9 million, up 8%.
+Software license and royalty revenues increased 8.1%.
+Subscription revenues increased 17.6%.
+We added 92 new subscription-based arrangements and converted 17 existing on-premises clients, representing approximately $25.8 million in total contract value.
+In Q1 of last year, we added 65 new subscription-based arrangements and had 11 on-premises conversions, representing approximately $28.5 million in total contract value.
+SaaS clients represented approximately 45% of our software contracts in the quarter compared to 34% in the prior year quarter.
+SaaS contract value comprised 29% of the total new software contract value signed this quarter compared to 43% in Q1 last year.
+The value weighted average term of new SaaS contracts this quarter was 5.3 years compared to 6.3 years in last year's first quarter.
+Transaction-based revenues from e-filing and online payments, which are included in subscriptions, increased 16% to $13.8 million from $11.9 million last year.
+That amount includes e-filing revenue of $10.4 million this quarter, up 17.3% over last year.
+Cash flow from operations increased 16.6% to $48.2 million.
+Free cash flow, which is calculated as cash from operations less capital expenditures, was $28.4 million compared to $24.6 million in last year's first quarter.
+Excluding real estate costs, free cash flow was $36.2 million.
+Our CapEx for the quarter of $19.8 million included $4.9 million related to the expansion of our Yarmouth, Maine office facility and $2.9 million for our new -- for a new office facility in Latham, New York.
+In Q1, we repurchased approximately 42,000 shares of our common stock for an aggregate purchase price of $6.2 million or an average price of $147.30 per share.
+We ended the quarter with a total of $97.2 million in cash and investments and no outstanding debt.
+Day sales outstandings in accounts receivable were 74 days at March 31, 2017, compared to 69 days at March 31, 2016.
+Our backlog at the end of the quarter was $939.2 million, up 16.1%.
+Software-related backlog, which excludes backlog from appraisal services contracts was $904.6 million, an 18.5% increase.
+Backlog included $218.8 million of maintenance compared to $191.7 million a year ago.
+Subscription backlog was $368.2 million compared to $250.9 million last year and includes approximately $108 million related to fixed fee e-filing contracts.
+Our bookings for the quarter, which are calculated from the change in backlog plus non-GAAP revenues, were approximately $186 million, an increase of 24.8% from Q1 of 2016.
+For the trailing 12 months, bookings were approximately $917 million, a 32.3% increase over the prior period.
+Note that we have posted a spreadsheet detailing our quarterly bookings calculations on the Investor Relations section of our website at www.tylertech.com/investors, under the Financials and Annual Report tab.
+We signed 36 new contracts in the first quarter that included software licenses greater than $100,000 and those contracts had an average license of $707,000, compared to 30 new contracts with an average license value of $323,000 in the first quarter of 2016.
+Our guidance for the full year of 2017 is substantially unchanged from our previous guidance.
+We currently expect 2017 GAAP revenues will be between $844 million and $854 million, and non-GAAP revenues will be between $845 million and $855 million.
+We expect 2017 GAAP diluted EPS will be approximately $3.26 to $3.34 and may vary significantly due to the impact of stock option exercises on the GAAP effective tax rate under ASU 2016-09.
+We expect 2017 non-GAAP diluted EPS will be approximately $3.83 to $3.91.
+We expect that as in most years, earnings will be stronger in the second half of the year than in the first half, with the greatest sequential increase in earnings coming from the second quarter to the third quarter.
+For the year, estimated pretax noncash share-based compensation expense is expected to be approximately $37 million.
+We expect R&D expense for the year will be approximately $48 million to $50 million.
+Fully diluted shares for the year are expected to be between 39 million and 40 million shares.
+GAAP earnings per share assumes an estimated annual effective tax rate of 20% after discrete tax items and includes approximately $29 million of discrete tax benefits related to share-based compensation.
+We estimate the non-GAAP annual effective tax rate for 2017 to be approximately 35.5%.
+Beginning in 2017, Tyler is adjusting its non-GAAP financial income using a tax rate equal to Tyler's annual estimated tax rate on non-GAAP income.
+This rate is based on Tyler's estimated annual GAAP income tax forecast adjusted to account for items excluded from GAAP income in calculating Tyler's non-GAAP income as well as significant nonrecurring tax adjustments.
+The non-GAAP tax rate used in future periods will be reviewed annually to determine whether it remains appropriate in consideration of factors, including Tyler's periodic effective tax rate calculated in accordance with GAAP, changes resulting from tax legislation, changes in the geographic mix of revenue, and expenses and other factors deemed significant.
+We expect our total capital expenditures will be approximately $53 million to $55 million for the year, including approximately $24 million related to real estate.
+Approximately $16 million of our 2017 CapEx is related to our cloud business, which includes hosted SaaS solutions and e-filing, including assets to accommodate future growth.
+Total depreciation and amortization is expected to be approximately $50 million, including approximately $35 million of amortization of acquired intangibles.
+Now I'd like to turn the call back over to <UNK> for his further comments.
+Thank you, <UNK>.
+Our strong first quarter bookings reflect both an active (inaudible) software market and our strong competitive position within that market.
+As we noted earlier, first quarter bookings rose almost 25% over last year.
+Bookings included the $20 million New York State Tax Appraisal software deal as well as 2 other license contracts and 1 SaaS contract, each valued at more than $5 million.
+We're also off to a good start with new business in Q2, as we signed a $36 million contract in early April with Cook County, Illinois, for our Odyssey Court Case Management Software along with our Brazos, electronic citation solutions.
+With the Cook County contract, which is the largest software contract in the company's history, 7 of the 10 largest counties in the country are now Odyssey clients.
+As <UNK> detailed, our guidance for the full year is substantially unchanged from what we issued in February.
+We're also pleased that we expanded our non-GAAP operating margin as well as cash from operations, even as we invest at a very high level in research and development with an increase of 16.5%.
+We believe these investments will lead to increased win rates and could significantly expand our public safety addressable market, and we expect these initiatives will begin to affect decisions by prospects in the coming quarters.
+Finally, we're looking forward to hosting 5,000 Tyler clients at Connect 2017, our annual user conference, being held May 7 through the 10th in San Antonio.
+At the conference, which will be our largest ever by a wide margin, we will also host investors and analysts at a session on Monday, May 8 from 11:30 a.
+m.
+to 2:30 p.
+Central Time.
+In the investors' session, we will provide an update on our product development efforts as well as a deeper dive on our connected community strategy, including Tyler Alliance and TYLER NEXUS initiatives.
+If you're interested in attending Connect, please contact <UNK> <UNK> for more information.
+A live and archived webcast of the investors' session and the accompanying slide deck will also be posted to our Investor Relations section of our website.
+Now Claire, we'll take questions.
+Sure, Charlie.
+I will take the general market question and let <UNK> comment on the international business.
+The broader market probably was modestly more robust through the first quarter over the last few months than what we've seen previously.
+So it's healthy as it's been now, kind of since the recovery.
+But I would say the uptick in backlog is a result more of slightly more robust market and consistent competitive performance.
+<UNK>, I'll let you comment on the Australian business.
+Yes, sure.
+Charlie, this is <UNK> <UNK>.
+Overall, Australia, as you know, we've got the Northern Territory contract and that implementation is going real well.
+We're expecting the first go-live for the first module to be in Q4.
+And our expectation is that Northern Territory will add other product suites, as the implementation unfolds.
+I think overall, our strategy in international is, we're going to take a very deliberate approach.
+We have a long-term view, sort of like we do everything we do at Tyler.
+I think international opportunities could provide some meaningful revenues down the road, but I caution about expecting any significant revenues certainly in the near term.
+Not really anything new.
+It's kind of performing where it is.
+But -- no, nothing significant going on there.
+Yes, that's a good question and it's an important part of our business now.
+And the answer is, definitely both.
+Probably the earliest impact will be to improve our competitive position and our win rates in the market that they have traditionally addressed.
+But as we mentioned in our comments, we're clearly focused as well on significantly expanding the addressable market.
+I would characterize their experience historically as kind of the below the top, say, 20% of the market, not that they didn't participate there from time-to-time, but maybe from 20% -- 20 percentile down to 60 percentile was where their solutions were most competitive.
+And we're doing -- this project clearly has focus on moving up and down to some degree with the product and strengthening the position in geography, where maybe traditionally, they weren't as strong.
+So it is a long-term project and -- but when I say long term, it's not as if all the results are way down the road.
+They will be incrementally achieved over time.
+Again, the earliest improvement should be in win rates in the traditional markets.
+But clearly over the next, say 2, 3, years, we have an eye on expanding the addressable market that they participate in.
+And then the third part really is also when we talk about NEXUS and Alliance and these Tyler initiatives is to also leverage and take advantage of the fact that we're a very strong leader on the court side of the business and in other parts of the market that are very related to Public Safety.
+So you could kind of look at it as those 3 different things: improving the traditional market, expanding the addressable market and leveraging the Tyler relationships and the presence we already have in the marketplace with other products.
+Sure.
+We're still working through that.
+We're well under way with the implementation.
+We expect to implement it at the beginning of 2018 and do the full retrospect of adoption, so that 2016 and 2017 will also be restated and conformed to 606.
+We have expanded the disclosure regarding the impact in our 10-Q as well.
+So I'd refer people to that as well for more details and that will continue to expand as we move through the year.
+I think on the traditional license deals, the biggest impact is likely to be to accelerate revenue recognition somewhat from the way we do it today, where it won't be tied as much to billings and milestones for part of that license that the license would be fully recognized from the softwares delivered, so that would accelerate a bit of revenue.
+On the SaaS business, don't expect a significant change there.
+Percentage of completion basis, there may be also some segmentation of those contracts that would potentially accelerate part of the revenue recognition, still working through what that impact will be.
+And then lastly, the commissions expense and -- which we defer over the -- basically, the implementation period today.
+There's some indication that, that would likely be amortized over a longer period of time.
+That's still a little unclear about the practical application of that, and we're still working through that.
+I appreciate that the bookings were very strong.
+They were not guiding up.
+Some of the deals are very long term.
+As you know, larger deals tend to extend over years, rather than quarters.
+We're encouraged by the bookings.
+We're encouraged by the competitive position we're in and by the market activity.
+But the divisions reporting -- weren't reporting color that would cause us to raise guidance at this point in time.
+But in the long term, it's a positive leading indicator and these development efforts that we have and a lot of different projects we have going on in Tyler are clearly focused on getting the growth rate back to where it's been over the last 10 years or more, and we expect to see that.
+But again, at this point, there wasn't enough strength to raise guidance.
+I guess the answer is kind of both there.
+And, obviously, it will add heads over time as they do more business they'll need more resources to deliver on that business.
+But the core R&D, the way I would look at it is, kind of a need list that we've put together when we did the deal.
+We rolled a lot of that forward.
+So I would say we're -- we kind of have our R&D headcount 2 or 3 years ahead of where it would have been, and we would expect that it's crested to some degree, but I caution that.
+Obviously, if there are very sound investments to be made, we will make them.
+But yes, we would expect that R&D spend and headcount would now grow at a considerably lower rate than their overall revenue growth rate and, therefore, margins will expand within that division.
+They were higher when we bought it.
+This is a conscious decision to make an investment and become a leader in a broader segment of the market than they have participated in historically.
+And we think that's the right thing to do with this investment.
+No.
+We still expect that we have opportunity in gross margin, although our guidance has not really changed from the beginning of the year that we expect that on the gross margin line that we'll be flat to down slightly for the year and the -- on the operating margin, we'll be flat to up slightly.
+But the long-term thesis is still the same that we expect that if we're in this low double-digit growth environment, that we would expect to average somewhere around 100 basis points a year of gross margin improvement and potentially, a little better than that on the operating line.
+And we expect that, that model holds true on an average basis over a longer period of time.
+Yes, I'd say some of it is investment in -- additional investments in some of the product development, a lot of it is on the R&D line, but some of it is in the cost of sales line and some of the investments we're making, particularly in New World, as <UNK> mentioned, their margin profile was significantly above our blended margin profile and we ratcheted that back a bit with other investments, not just product development investments but investments in their organization to organizationally support growth.
+And -- so some of those in the operating expense line pulled that down a bit.
+Yes, we can.
+Probably more win rates.
+And obviously, there hasn't been a lot of delivery yet, but I think the Tyler story, genuine commitment to this product line, it's been 1.5 years now, they can see the headcount additions and the story we're telling out there.
+So it's just a little more energy around it.
+I would also say that these commitments, some of these heads, a lot of them are R&D, but some of them are quality as well.
+And open support tickets and defects and all of those things have dramatically improved since the acquisition and that's helped on the (inaudible) side of the business as well.
+We hope so, and we hope that Tyler plays a big role in causing it to be a consistent trend.
+Kind of getting away from the quarter and taking a step back and looking at the bigger picture, really in the last 15 years, as you know, we've acquired, we've built products, and we've made -- we're in a position where we have a number of individual products that are in very strong leadership positions in this marketplace.
+But to this point, the level of integration in incremental value add across our different products hasn't been that significant.
+And we haven't missed that opportunity.
+We've recognized the significant effort to become a leader in those different areas.
+We're now really transitioning into-- when we're talking about Alliance and NEXUS, that you'll hear us talk more about as we go forward-- we're entering into the chapter where these products grow much more aggressively together.
+They kind of Tylerize, if you want to look at it that way, and then we add an incremental level of value that otherwise isn't available.
+Because there really isn't another company that has such a broad range of products.
+And that's a big part of what Tyler's focused on in the coming years.
+Also upgrading, which might have been just suite applications tucked in, into leadership application, that's a lot of where this R&D spend goes and that will even broaden the addressable market more.
+So that instead of just selling a core case management system or a core financial system, that we have those ancillary products around it that add to the size of the deal, allow us to go back and sell into these.
+So it's really a big part of our comprehensive strategy over the next chapter of the business.
+It was through August, so it's 8 months.
+But some of it's a soft comp.
+Right after the acquisition, some softness there both in the market and our competitive position at the time.
+But it's encouraging, obviously, to see that change rather dramatically.
+In terms of sustainability, we're encouraged by this as we've said.
+We're excited about it.
+We think that having a strong Public Safety application as part of our whole Alliance integrated community, criminal justice area is a big deal for Tyler over the long run.
+It will be a long process.
+To grow into the addressable market that we believe is out there for us and to get to the win rates that we're looking at, could be a 4-year process, say.
+And so I don't want people to be -- set the bar too high.
+I think we will see incremental results really in quarters not far down the road.
+But, again, achieving all of that is a long-term process.
+Well, long term we do, as we've been discussing, want to add this value across different apps and make it in any jurisdiction's interest to add Tyler applications when they're already a customer.
+I think in this case, other than kind of brand awareness and reputation and the leadership position that we -- we don't have to start off explaining who Tyler is.
+But other than that, I'd call these independent deals.
+I don't know if I'd call it delay, but you can add a step in the process.
+And we've been incredibly fortunate that, especially with courts, we really haven't had any projects that [cut off the rail] to much of a degree.
+And I would call that atypical.
+In the software industry, most companies, even if they perform at an exceptional level, be the challenging implementations, very complex and it's not at all unusual, that even very well-performing companies will have challenging sites that they have to address.
+And so we like not having any.
+We've had a long run, in all honesty where we haven't had any.
+And we've got a few sites that have some challenges, and we feel we are performing well on those sites, but the challenges exist.
+And we're there as a partner to address those.
+So again, I wouldn't call them full-blown delays.
+But sure, they ask about it, we respond.
+And so it adds a step in the process, and it may cause some delay, but not like they put the project on the back burner.
+In terms of it being something they ought to be aware of and take their implementations seriously.
+Yes, that is true.
+Maine, [I'm in Maine] as many of you know, and close to that project, and they were already a site that was doing their share of due diligence, very thorough process.
+But they are aware of this, and I think it probably does draw some incremental focus by making sure that they've taken every step they can to be committed to the project, executive sponsorship and fully staffed.
+And so -- I think most of the sites do this anyways, but sure, it adds some incremental focus to it.
+Sure.
+I can talk about that.
+We've talked about growth in the mid-teens in e-filing this year, in that we expect that growth rate in e-filing to pick up somewhat in 2018, 2019.
+We have pretty long visibility on some of these projects that are either already committed to us, as a number of California counties are, but won't start e-filing until the underlying case management system is live and other places that are doing e-filing on a permissive basis that will move to mandatory at some point and increase the volume and the revenues.
+Sometimes these timelines are a bit fuzzy.
+But the general expectation is for mid-teens growth in e-filing this year.
+And we do have an acceleration in California, as we move through this year and the second half.
+But most of the growth in California, which is obviously a big market, where we have a big presence, comes in 2018, 2019 and beyond.
+Illinois is a state that we signed a statewide agreement last year.
+That has some growth this year, but significant growth next year.
+The timing of Cook County joining that project, which is obviously the biggest county in the state, is unclear at this point and we'll certainly be encouraging that -- to move as quickly as it can.
+Maine has an e-filing agreement that really will be an 2018 event, I'm sorry, 2018 and 2019 event.
+So there are a number of those that will come online, but we have solid growth this year, but expect that to accelerate over the next couple of years.
+And we've talked about that coming close to doubling from the rate we exited 2016 at to the rate over the next, say, 3 to 5 years in the annual run rate to effectively double with that growth.
+It's a whole range of things.
+Again, the product releases have not yet really contributed other than enthusiasm and, I think, credibility in the commitments that we're making that there is just more momentum around it in terms of where we're going and the deliverables that will come.
+I think as I mentioned earlier, that -- our existing customer base and the referenceability has improved.
+You've seen the investments Tyler is making.
+You've seen -- there are results there, in terms of quality and responsiveness, and that's very helpful.
+And then I think, the guys [around] the unit would tell you, the sales execution itself.
+The messaging, the messaging within the division and around that product strategy, the messaging of the more comprehensive Tyler approach to criminal justice, and even right down to product presentations, which I think has been partly collaborating with the other Tyler divisions and sharing our own best practices.
+So it's a range of different things that are all operating at a higher level.
+Sure.
+The multi-suites will normally be within the criminal justice area or within what we usually refer to as the enterprise side of the business.
+But there will be those and are those that cross the 2, but generally within those.
+The biggest change in purchasing practices is it\
+I think it's kind of a first-half, second-half thing.
+So I think the first half -- and we talked about that a little bit in the comments on the guidance.
+I'd say the first couple of quarters look more similar to each other and then there is a step-up in the second half of the year in terms of the earnings R&D does step-up; it's not at its peak level yet, so we're still adding heads there.
+So that -- a number of those come on in Q2.
+So I think that puts a little pressure on Q2.
+We do expect revenue growth to accelerate in the second half of the year and earnings to grow with that.
+So it's really kind of a first-half, second-half thing.
+So I'd expect to see first half look -- second quarter look more similar to Q1 and then there to be a nice bump in the second half of the year.
+Sure.
+We are -- from an R&D standpoint, we have Tyler-wide projects underway.
+We have oversight from the team that Jeff Green is leading to make sure everybody is implementing as much Tyler types of technology they can and adding levels of integration.
+The integration of the sales force that happens over a long period of time, the integration of all these organizations.
+We now have 2 groups, right.
+So we have criminal justice group with Courts & Justice and Public Safety and all that related applications, and then we have the enterprise group.
+And the leadership in those areas came up through those divisions and they think comprehensively.
+They see the whole market as a single market and they drive those sales forces that way.
+That said, you will always have some distinct Tyler sales channels.
+The skills involved in selling the State of New York an appraisal system and the skills involved in selling a criminal justice system versus a financial system are different.
+So where through acquisitions, we probably have acquired 30 sales channels over the years, we really get down to maybe 3 or 4 different skill sets.
+So that's a tremendous amount of integration, but it really will be skills dependent and what the domain expertise needs to be in those different marketplaces.
+But you take what was the Munis sales channel on the enterprise side now.
+They are selling all kinds of different applications from acquisitions and organic builds that we've done over the last 10 years.
+I'd say it's more of the latter, the timing.
+For this specific year, the timing has fallen with 2 large deals in the first half of the year.
+I'd say the pipeline has a good -- the longer-term pipeline has a good mix and an increasing mix of larger deals, and we've continued, obviously, to build our presence there, particularly in the courts and the property tax areas.
+But continuing to win larger deals in the ERP side and moving in that direction in Public Safety.
+But as we look at the pipeline for this year, I'd say these are the 2 biggest deals of the year have happened in the first half.
+I think over the long run, we expect it to continue to shift more towards Saa<UNK>
+When you look at the number of SaaS deals, I would say there is a large number of relatively small SaaS deals that have happened in the last couple of quarters, particularly with the new product we have at Versatrans, on the school business transportation side, doing a lot of SaaS business, but with relatively small individual deal sizes.
+And I think that if you look at the number of SaaS deals that skews it a bit.
+But we expect that we'll continue to see this gradual shift, but certainly it bounces around a lot from quarter-to-quarter.
+I'm wondering if you can highlight how long you think it will take the investments in NWS before you see stronger win rates that I think are the premise for those investments.
+And also when do think you will be able to move upstream with a stronger product and compete for larger jurisdictions.
+I think we've seen it, right.
+The first quarter we said win rates were better and as many deals as through August of last year and really that's not on tangible improvements on the product other than maybe quality.
+It's more on the momentum and the enthusiasm around, I think, the whole combination of the companies.
+We will have some deliveries this spring.
+I think that will be important for those that maybe like the messaging.
+But want to see some deliverables and results.
+That will initially, I think, probably only impact the market [they've] traditionally been strong in.
+I think it's reasonable to think that maybe a year from now, maybe a little sooner, you will see more deals on the high end of that historical range and maybe some deals that start to creep up that ladder a little bit.
+There certainly have been some encouraging exchanges between the channel and the marketplace and people have been enthused by what they see us doing.
+So we'd be pleased if the balance of this year, we continue to see some incremental improvement in the traditional market, and we'd be pleased if, say, a year out, we start to see some more deals on the high end of the traditional size and start to see some deals upside that range, and we think that's reasonable.
+Great.
+And then my follow up.
+If you look at the courts and criminal justice market, clearly you've dominated that for many years.
+Are there any new entrants in the market.
+Or is your competitive position really unchanged.
+Basically, I'm wondering is anyone making significant investment to try to compete with you in any of these markets.
+Not really.
+There are still fragmented segments of the market out there.
+And some of them make a cost-related decision -- but this really doesn't (inaudible) is really a [product across] Tyler, which is -- we look at every loss, and we have losses.
+I think some people think our rate, we win almost everything.
+We don't.
+We certainly have losses in all segments of our business.
+What we really look carefully for is when there are trends.
+When we're having a number of losses for whatever reason.
+Somebody's got a release that jumped over ours.
+Somebody's got a better value proposition.
+And really across the company, there are no consistent themes on the losses that we're experiencing.
+There are all kind of very fragmented one-off types of losses.
+I guess, there's 2 parts to that answer.
+We are never just aggressively looking to do a deal.
+We're always opportunistic, and I'd say our general impression of the market right now, like a lot of -- like the value of a lot of assets these days, are that they're pretty richly valued.
+So that's part of the focus you're seeing on the organic investment, that certain things we think would be important to add to our offering are just very richly valued in the marketplace, and we feel an organic build that's done on the same platforms as our other products and comes out of the box Tylerized, if you will, makes sense.
+The second part of the answer would be, we are doing a lot of research, and we have a number of folks, senior folks involved in really doing, what we call, comprehensive (inaudible) study, which is looking at every segment of the market where something contiguous could expand our addressable market and to the extent that can be acquired at a reasonable valuation, we'll be aggressive in those areas.
+So a little bit of a long-winded answer.
+In the current climate, again, we're doing a lot of research to see what we really think would qualify as the best investment for us.
+But the lack of a lot of M&A since New World is really just a function of the valuations in the marketplace.
+Okay.
+Thank you, Claire.
+And thank you, everybody, for joining us on the call today and your interest and your questions.
+If you do have any further questions, feel free to reach out to <UNK>, <UNK> or myself.
+Have a great day.

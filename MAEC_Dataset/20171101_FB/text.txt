@@ -1,0 +1,156 @@
+Thanks, <UNK>, and thanks, everyone, for joining us today
+Our community continues to grow, now with nearly 2.1 billion people using Facebook every month and nearly 1.4 billion people using it daily
+Instagram also hit a big milestone this quarter, now with 500 million daily actives
+And we saw good results in the business, where total revenue grew 47% year over year, and we had our first ever quarter with more than $10 billion in revenue
+But none of that matters if our services are used in a way that doesn't bring people closer together, or if the foundation of our society is undermined by foreign interference
+I've expressed how upset I am that the Russians tried to use our tools to sow mistrust
+We built these tools to help people connect and to bring us closer together, and they used them to try to undermine our values
+What they did is wrong, and we are not going to stand for it
+Now for those who followed Facebook, you know that when we set our minds to something, we're going to do it
+It may be harder than we realize up front
+It may take longer and we won't be perfect, but we will get it done
+We're bringing the same intensity to these security issues that we've brought to any adversary or challenge that we've faced
+The first step is doing everything we can to help the U.S
+government get a complete picture of what happened
+We've testified in Congress over the past couple of days about the activity we found in last year's election
+We're working with Congress on legislation to make advertising more transparent
+I think this would be very good if it's done well
+And even without legislation, we're already moving forward on our own to bring advertising on Facebook to an even higher standard of transparency than ads on TV or other media
+That's because in traditional media, there's no way to see all the messages an advertiser is showing to different audiences
+We're about to start rolling out a tool that lets you see all of the ads a page is running and also an archive of ads political advisers have run in the past
+We're also working with other tech companies to help identify and respond to new threats because, as we've now seen, if there's a national security threat involving the Internet, it will affect many of the major tech companies, and we've announced a number of steps to help keep this kind of interference off our platform
+This is part of a much bigger focus on protecting the security and integrity of our platform and the safety of our community
+It goes beyond elections, and it means strengthening all of our systems to prevent abuse and harmful content
+We're doing a lot here, with investments both in people and technology
+Some of this is focused on finding bad actors and bad behavior
+Some of this is focused on removing false news, hate speech, bullying, and other problematic content that we don't want in our community
+We already have about 10,000 people working on safety and security, and we're planning to double that to 20,000 in the next year to better enforce our community standards and review ads
+In many places, we're doubling or more our engineering efforts focused on security
+And we're also building new AI to detect bad content and bad actors, just like we've done with terrorist propaganda
+I am dead serious about this
+And the reason I'm talking about this on our earnings call is that I've directed our teams to invest so much in security on top of the other investments we're making that it will significantly impact our profitability going forward, and I wanted our investors to hear that directly from me
+I believe this will make our society stronger, and in doing so will be good for all of us over the long term
+But I want to be clear about what our priority is
+Protecting our community is more important than maximizing our profits
+So security and the integrity of our services will be a major focus
+Beyond this, our focus is on building community
+I talked about this last quarter when we changed our mission to focus on building community to bring the world closer together, and that's more important now than ever
+This gets into our roadmap for the next three, five, and ten years
+Over the next three years, the biggest trend in our products will be the growth of video
+This goes both for sharing, where we've seen Stories in Instagram and Status in WhatsApp grow very quickly, each with more than 300 million daily actives, and also for consuming video content
+We recently launched the Watch tab, where you can discover shows, follow creators, connect with people watching an episode, and join groups with people with similar interests to build community
+But as video grows, it's important to remember that Facebook is about bringing people closer together and enabling meaningful social interaction
+It's not primarily about consuming content passively
+Research shows that interacting with friends and family on social media tends to be more meaningful and can be good for our well-being, and that's time well spent
+But when we just passively consume content, that may be less true
+When done well, video brings us closer together
+We've found that communities formed around video like TV shows or sport create a greater sense of belonging than many other kinds of communities
+We found that live videos generate 10 times the number of interactions and comments as other videos
+But too often right now, watching a video is just a passive consumption experience
+Time spent is not a goal by itself
+We want the time people spend on Facebook to encourage meaningful social interaction
+So we're going to focus our products on all the ways to build community around the videos that people share and watch
+That's something Facebook can uniquely do
+Moving along, over the next five years, I expect us to make some good progress on several newer initiatives
+In messaging, today already more than 20 million businesses are communicating with customers through Messenger
+Now we're starting to test business features that make it easier for people to make the same kinds of connections with businesses through WhatsApp
+We rolled out <UNK>etplace to Canada and 17 countries across Europe, giving people the ability to discover, buy, and sell things in their local communities
+Today, more than 550 million people are using <UNK>etplace and buy-and-sell groups on Facebook to connect with other people for transactions
+We're also seeing good progress with Workplace, helping companies connect their own teams internally through their own versions of Facebook
+It's been less than a year since we launched Workplace, and today more than 30,000 companies are using it
+This quarter, we welcomed on Walmart, the largest employer in the U.S
+Over the next 10 years, we are working on the foundational technologies needed to bring the world closer together
+I'm proud of the work we're doing with AI
+We're now using machine learning in most of our integrity work to keep our community safe
+When Hurricane Maria hit Puerto Rico, we used AI to look at satellite imagery and identify where people might live and need connectivity and other resources
+Progress in AI can unlock a lot of opportunities
+This quarter we opened a new AI research lab in Montreal, and we're building another lab in Paris as well
+This quarter we held Oculus Connect and we announced Oculus Go, our first-ever all-in-one headset that's great for feeling like you're present with someone when you can't physically be together in person
+It's great for playing games, watching movies, or hanging out with friends
+And at $199, we think it's going to help us bring great virtual reality experiences to more people
+It ships next year
+At Connect, I also showed off our new Santa Cruz prototype, which is the first time any company has shown the full experience of positional tracking in a standalone headset and controllers
+It's a major technical achievement, and I'm looking forward to getting this into developers' hands next year
+In order to support our community's growth, we need to keep investing in our infrastructure
+This quarter we broke ground on our New Albany [Ohio] data center, and we announced that we'll build our 11th major data center in Henrico County, Virginia
+As always, all our new data centers are powered by 100% renewable energy
+These long-term investments are important for our community's future
+We can do a lot to help people connect through phones and computers, but so much more will be possible in a world where everyone has Internet access, where AI improves all our services, and where we can basically teleport anywhere or be with anyone anytime we want
+With all the issues we've faced, it would be a lot to just invest in addressing those
+But we know that we also have a responsibility to deliver these fundamental technical and scientific advances to fulfill the promise of bringing people closer together
+So we're going to keep making significant investments looking ahead towards the future too
+We've made some real progress this year
+Across the board, we have a lot of work to deliver on our mission of bringing the world closer together, but we're committed to rising to the challenge and doing what we need to for our community
+Thanks to all of you for being a part of this journey, and I'm looking forward to the road ahead
+And now here's <UNK> to discuss our business
+So the strategy here around helping people connect reflects more on what we do around the videos than some of the content itself
+So hopefully, the experience on Facebook will not just be that you come and watch a video and you get informed, you feel entertained, and that's it
+We think that the most valuable thing that people do are help build relationships with other people on the platform
+So to the extent that video can serve as a touchstone for building community and helping facilitate interaction, then that's the thing that we feel like we can uniquely do
+So we're going to continue investing heavily in video content for Watch that is centered around people, that is centered around the things that people want to talk and connect around, that give people a sense of pride and bring people together
+But we're going to invest as much in just making sure that we build out the community features around that
+And that I think is going to be the thing that differentiates this over time
+I think it might be useful to talk a step back and first talk about why we're funding lighthouse content and Watch overall
+So video is growing incredibly quickly on Facebook
+And today, most of that is in News Feed
+But most people who come to News Feed and who come to Facebook today in general are trying figure out – they're trying to see what's going on with their friends, see what's happening in the world
+They're not coming necessarily to engage in a specific type of video or specific community around video
+So the Watch tab is mainly – it's a way to give people a tool to do that
+When they want to specifically come and engage around video or communities around that, they can go to the Watch tab
+So the intent there is different
+Now in order to build that up, we think it makes sense to first invest in a bunch of lighthouse content, some that we may produce or some that we may license, to get to your question
+We're pretty agnostic on how that goes
+We just want to start the flywheel going, so that way there's content and communities that are there that support this use case of people coming to Facebook specifically to engage in that
+Long term, our hope is that the business here will primarily be through revenue shares of videos that normal creators and businesses put into the system rather than ones that we proactively go out and license ourselves
+So that's a look at where we're trying to get on this
+But first, we need to build this behavior where people want to come intentionally to engage with this content
+I'll talk about video engagement, and then Dave can jump in on some of the stats
+So one of the important points here that I tried to communicate in my comments up front is that connecting with friends and family and having those meaningful interactions is more important than just consuming content
+So video is growing incredibly quickly, and that goes across both social content and more passive public consumption of content
+And they create different dynamics in the system, and I think that's an important thing to understand
+When your friend posts something and you get to engage with it, it might inform you and entertain you
+But you also, if you interact with it, you're building a relationship with that person or you feel closer to that person, and that is a really important part of what social networking is supposed to do
+Whereas when you engage with public content, you might get informed or be entertained, but it's not necessarily increasing social capital in the same way or building relationships between people
+So we really differentiate what the core thing is that we're trying to do, which is help people connect with each other and build meaningful relationships
+And that's why on a lot of these calls, I emphasize products like Instagram Stories or WhatsApp Status, which are very video-based products, but they're improving social interactions
+And we're going to focus a lot more on helping people share videos of their moments in their lives
+Because in a lot of ways, I think if you take a video of yourself and your family out trick-or-treating, that's more engaging than a photo and a better representation of that than writing it out in text
+But overall, I would say not all time spent is created equal
+That's why I tried to stress up front that time spent is not a goal by itself here
+What we really want to go for is time well spent
+And what the research that we found shows is that when you're actually engaging with people and having meaningful connections, that's time well spent, and that's the thing that we want to focus on
+So out of this big video thing that's growing very quickly, I think that is the real opportunity and product area that we should be focused on more
+And to the extent that there is going be a lot of public content, which there will be, a big part of the focus is going to be around building community and interactions around that content
+Yes, and I can speak to that
+Let me be clear on this, that people do not want false news or hate speech or bullying or any of the bad content that we're talking about
+So to the extent that we can eradicate that from the platform, that will create a better product, which will also create a stronger long-term community and better business as well
+So the reason why we haven't been able to get these things to the level that we want today is not because we somehow want them on the platform
+It's that it's a really hard problem
+And we're going to invest both in people and technology because we think that both are really important parts of the solution here, to go after all different parts of these problems
+And that was what I tried to stress earlier on
+We're going from 10,000 people working on safety and security to more than doubling that to 20,000. We're building – we're doubling – in some cases more – our engineering teams focused on security
+We're building AI to go after more different areas of harmful content and finding fake accounts and other bad actors in the system
+And I expect that all of these things will make our product better over the long term, but we will incur the expenses a lot sooner as we ramp up these efforts
+And I also just think that going forward, we're going to be investing in these things at a much higher level because we realize that this is important, not only for our community and this company, but it's part of our responsibility to society overall
+Well, I think the answer to that is we don't know all the answers around what kinds of content are going to work and are not, so we will probably experiment with a number of different things
+I do think your point is right that not all kinds of content can be supported by ads, no matter how effective we make that
+That said, the current model that we have for at least getting some of the lighthouse content onto the platform is to pay up front
+And what we would like to transition that more to over time and what an increasing amount of the content is, is revenue shares for ads shown in the videos
+And as we do better and better on the monetization there, that will support people with higher production costs and doing more premium production and bringing their content to the platform
+And we've certainly found on the Internet and YouTube and in other places that there are whole industries around creators with different cost structures than traditional Hollywood folks who can produce very informative and engaging content that a lot of people like and enjoy and that builds communities and that helps people connect together in a way that definitely can be supported by this ad model
+So I think the answer is we're going to try a bunch of things
+That's a bunch of what the budget is
+I'm very optimistic that a lot of this stuff will be able to be supported long term, but you're certainly right that not all of it will be able to be supported by ad models alone
+One clarification on your question two is that the 550 million people is across both <UNK>etplace and buy-and-sell groups, not just the <UNK>etplace tab
+So that's the total amount of activity that we're seeing there across both of those things
+Sure, I'll speak to the safety and security investment, and then Dave can speak to the other question
+So we need both technology and people for this
+And the best articulation of this that I can make is that today, AI has different strengths than people do
+So the AI tools that we've built can enable a system to look at millions of pieces of content and make rough assessments on them and figure out what to flag for people
+But ultimately, if you want to get those high-quality judgments today on sensitive content and you want to do it quickly when the stakes are pretty high in terms of taking down content or leaving things up, and we take that extremely seriously, you want people to be looking at that
+So earlier in the year, when we were working on problems like seeing issues when people were going live, there was this really serious issue around people with self-harm and in some cases suicide on Live, and we made an investment in AI tools and in dramatically increasing the staffing of the team that was working on that and brought the amount of time to review those Live videos down through a combination of those things to – I think it's under 10 minutes now
+That might still be a conservative estimate, and we're continuing to work on that
+So now what we're trying to do is just increase the SLAs that we have across all of these different types of content and security threats that we might see
+So that way, through a combination of the AI tooling that we build and having people to look at these things, we can get it right faster for more of the types of content
+And you're definitely right that a lot of the AI research that we do is applicable to multiple areas, but we still need to build those tools
+So it takes a lot of engineering investment, and we will be prioritizing that, in some cases by adding people to teams and in other cases by trading off and doing more security work instead of other product work that we might have done, but this is really important and this is our priority

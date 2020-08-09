@@ -1,0 +1,84 @@
+Again, fair question.
+I'm not going to go there.
+At this point, our priority is working to satisfy the closing conditions as it relates to the Unis investment including getting through the CFIUS process.
+To speculate at this point as to what happens if the US government considers it to be a covered transaction -- it's a little bit early to do that so I'm not going to dare do that at this point.
+So, relative to the visibility of demand we have some improving insight actually as these businesses mature to plan for data center buildouts and what is going to be required to do that and what our proportion of that might be.
+We continue to refine our engagement with those customers such that we get a more insightful view into it.
+Relative to our drive lead times, it depends on the type of drive that we are talking about.
+Anywhere from four to eight weeks would be a good planning number.
+Larger capacity being a bit longer, and that's due to test time.
+Yes, and suffice it to say that given the market volatility that we have seen, the anxiousness that has been out there.
+We are clearly taking a -- as well as our customers are taking -- a very cautious view with regards to the demand outlook, particularly here in the near-term.
+We believe that's the prudent thing to do.
+But, as always, in terms of the way that we manage our business, if demand happens to be higher than what we would expect, we will be there to meet that opportunity.
+Yes, we don't necessarily have any specific data on that other than to indicate we think that inventory levels are pretty healthy.
+And, what I mean by healthy is relatively lean and in pretty good shape.
+In other words, we don't think that there is any, call it, excess inventory.
+We had seen that through calendar-year 2015 particularly with some of the -- in the PC market.
+We believe that that's worked its way through the system.
+And so, in that regard -- this is a positive statement.
+We don't believe that there is an inventory overhang that we or the broader industry need to deal with.
+I don't have a good sense for that.
+I don't think we have a call on that right now.
+I hope you're right.
+I'll put it that way.
+(laughter)
+That I'm not going to speculate on.
+I don't really know.
+I don't know what Toshiba's plans are.
+That is obviously a question for them.
+What would they do.
+Would they sell them.
+I don't know.
+That's not a question that I'm going to speculate on.
+So, if you look at -- we had $270 million of revenue last quarter.
+I believe a year ago we had about $230 million of revenue so we've got a tough compare.
+Obviously, we are still in the midst of the quarter.
+But, it's possible that we might see our year-on-year revenue down a bit going into calendar Q1.
+But, as far as the fiscal year, we would prefer not to be short-term focused in terms of that.
+But, it's really -- when we talk about exceeding industry growth rates it's over a longer period of time.
+It's a little bit too early to say whether or not our growth this year will accelerate or decelerate versus that.
+That's not really an indication one way or the other.
+But, I'd prefer not to comment on that specifically.
+<UNK>, just to clarify you must be looking at units, right.
+One of the things that we need to continue to focus on is the petabyte growth as opposed to the unit growth.
+Obviously, as we ship higher capacity points, we're going to ship, all things remaining equal, fewer units.
+And so, as <UNK> indicated, we continue to see strong petabyte growth.
+The number that we are estimating is 32% which is pretty -- well, longer term 35%.
+This past year for us was 32% which is pretty consistent with our expectations.
+The exchange ratio and the price has been fixed.
+I believe it was [$79.60] (corrected by company after the call).
+Let me take client first.
+We see that continuing trend toward client SSDs particularly in commercial-class notebooks.
+It still remains within our planning guidelines so we don't see it accelerating beyond our expectation, but it is steadily increasing and it is certainly factored into that outlook.
+Relative to the enterprise, we do see as evidenced by our own SaaS enterprise SSD strategy, we do see the beginnings of the incursion of enterprise SSD into what is traditionally performance enterprise.
+And, the way to think about that is it starts at the top.
+First with 15,000 RPM drives as being the first area for that conversion to begin, and then later on it will be in others.
+But, we do see incursion in both those segments.
+All of which is happening within the rate of -- that we have planned in our outlook.
+So, that would be the color I can give you.
+It's still the correct number.
+Sure.
+Just to remind everybody as part of our due diligence as it relates to the SanDisk acquisition is that we did extensive technical due diligence related to where SanDisk/Toshiba was with regards to the 3D NAND transition.
+That we were very comfortable with where they were at and continue to be very comfortable with where they are at with their transition and are particularly encouraged by the recent announcements that they made in conjunction with their earnings announcement which indicates that they are now commercially shipping their 3D -- 48-layer 3D NAND product into the marketplace.
+Relative to -- I'll have <UNK> address the enterprise refresh.
+But, in terms of PCs, we have not been bullish on the PC market for a while.
+We would see, generally speaking, the rate of decline in the PC market to be a bit less than what it has been this past calendar year.
+And, maybe something in 6%, 5% -- something like that kind of range on a full-year basis.
+As I indicated, we continue to be not particularly optimistic from an overall perspective regarding what's happening in the PC market.
+And, our financial plans and future plans are not highly contingent on that.
+<UNK>, enterprise outlook.
+I think on an enterprise outlook basis -- I sort of referenced it.
+On the capacity enterprise segment, we see that continuing to progress.
+We see an increasing adoption of helium-class drives as the people deploying infrastructure realize the benefits of the TCO that that technology offers.
+We articulated that growth rate we would expect across that total segment.
+Relative to the performance category, I just talked a little bit about that.
+We do see the continuing penetration of flash-based products into that marketplace.
+We see that continuing through the balance of the year as evidenced by a number of people and their systems announcements most recently.
+We would expect that to benefit from that obviously with our strategy of being media-agnostic as we move forward with the completion of the SanDisk acquisition.
+Thank you for joining us today.
+In summary, we continue to execute well in a challenging environment.
+And, we are taking proactive steps to maintain and extend our cost leadership in the HDD industry.
+We are also pleased with our progress on our strategic efforts to diversify and strengthen the Company for the long term including the acquisition of SanDisk.
+We look forward to keeping you informed of our progress on all fronts.
+Thank you for joining us.

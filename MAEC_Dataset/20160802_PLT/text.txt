@@ -1,0 +1,65 @@
+Thanks, Lathavia.
+Joining me today are <UNK> <UNK>, Plantronics' President and CEO, <UNK> <UNK>, Executive Vice President and Chief Commercial Officer, <UNK> <UNK>, Plantronics' Senior Vice President and CFO and Rich Pickard, VP, General Counsel and Corporate Secretary.
+The information presented and discussed today includes forward-looking statements which are made under the Safe Harbor provisions of the Private Securities Litigation Reform Act of 1995.
+The risks and uncertainties related to such statements are detailed in our most recent 10-Q, 10-K and today's press release.
+For the remainder of today's call, we will be providing only non-GAAP metrics related to gross margin, operating expenses, operating income, net income and earnings per share.
+We've reconciled these measures in our earnings press release and in our quarterly analyst metric sheet, both of which are available on the Investor Relations page of our website.
+After the conclusion of today's call, the recording of the call will be available on our website.
+Plantronics' first quarter fiscal year 2017 net revenues were $223.1 million.
+Our GAAP diluted earnings per share was $0.62 compared with $0.55 in the prior year.
+Our non-GAAP diluted earnings per share was $0.76 compared with $0.67 in the prior year.
+The difference between GAAP and non-GAAP earnings per share for the first quarter consists of charges for stock-based compensation and restructuring charges all net of the associated tax impact and tax benefits from the release of tax reserves.
+Please refer to the full reconciliation of GAAP to non-GAAP in our earnings press release.
+With that, I'll open the call for questions.
+Sure, I'll -- this is <UNK>, I'll start out with the answer on these.
+So, first of all on the stereo side, yeah, we've benefited both from a buoyant market which was growing but also obviously we grew above that with some brand new products doing extremely well in terms of expanding our position in the market.
+You know, just to give you a rough sense I would say probably about half of it represented buoyancy in the market and about half of it represented market share gains.
+I think you asked about the mono side as well.
+There we don't think that the market is doing that well and we think this is primarily market share gains on our side due to a new product.
+On the gaming side, and I forget exactly the question there, but clearly we had some new products that were well received.
+Having said that, we're still at a fairly nascence stage in our business, we'll be adding more toward our portfolio later this year and continue to ramp this over time.
+I may have -- there may have been enough items to your question that I may have missed one or two, so if I missed something, please let me know what I missed.
+Sure.
+Sure, well first of all let me just say honestly we, you know, when you sell a headset right now you get all of the revenue right away.
+In this case you know, what you're dealing with is a monthly subscription so consider the financial impact to be very modest over time and it actually requires, therefore, apparently large portfolio but having said that, there's no downside after you've sold the initial unit, you're continuing to get revenues and it is extremely high margin revenues and as we broaden that out to more and more customers, we do expect to have a very nice addition to our profitability and, of course this is the other part of it, adding significantly more value to our customers business and being a more valued partner.
+Yeah <UNK>, this is <UNK>, I'll take that one.
+On our guidance, what I would do is our Q2 guidance that we're offering is very similar to our Q1 results so there's only a small dip in revenues and I expect our revenue mix for Q2 to be pretty similar to what we did in Q1.
+So, you know, we will have strong -- we do expect to have strong year-over-year growth in consumer for another quarter and growth in enterprise as well, enterprise being maybe flat to up a little bit with growth there coming from UC.
+You know, our actual belief is that this is going to be a positive, and let me just explain why.
+Number one, in fact, a lot of the people that are focused on that model whether you call it managed services, Cloud hosting type of stuff, for them this is a fantastic fit.
+I think for businesses, you know, they've learned that Office 365 represents a wonderful, scalable, flexible opportunity for them to deploy the technology.
+I think for the Microsoft sales force, this represents, kind of like I was talking about with our monthly subscription, also a need not to back end load their quarters and their fiscal years, they have to get that out there.
+I think across Microsoft they're very interested in converting some of those licenses which are only active on IM and Presence and not yet active on voice.
+So we actually believe this will be positive.
+Now, having said that, that doesn't mean that it's instantaneous like a switch and going to be a sudden mountain but nonetheless, we think this is going to be positive over the course of the year.
+-- if I could mention, I mean, it also is a perfect reinforcement for our SaaS businesses.
+Sorry, go ahead.
+So we do think it's positive, obviously it represents a different replacement so I'm going to let <UNK> talk to that a little bit and <UNK>, just FYI, we -- because he's still slightly new on the calls, we won't confirm or deny things that we know even if they are, you know, semi-public.
+Yeah, thank you very much for that <UNK>.
+Essentially <UNK> already gave the way we feel about that.
+Clearly we see the ability to add more value when it's a wireless connection or a digital connection as opposed to an analogue connection like a 3.5 millimeter jack.
+So, net/net, a move away from a 3.5 millimeter towards something digital and intelligent actually should be overall positive for Plantronics as an industry direction.
+Sure, so let me try to answer both of those questions.
+First of all, you know, the primary driver was both a great new portfolio of products we had but also a very, very good market for stereo so clearly the growth was strongest in stereo during the quarter.
+You know, I think that the short answer to your cross-over is ironically we actually had growth in the mono side as well largely behind a new product even though the category there is not buoyant and so we have not yet reached the cross-over point even though we did have revenue growth so mono is still larger than stereo.
+In terms of what to model going forward, we actually do expect the stereo business to grow which doesn't mean that there weren't some initial loads in the quarter, there were, but nonetheless there are still new products coming and we're seeing very good sell-through so we're still expecting to see growth from this level.
+I'll try to answer these questions.
+Again, we're not going to go too much into this because it's really premature and we're going to share our business model and more on the go-to-market following our fiscal year end conference call which I think will probably be the beginning of May of next year and really it will be <UNK> sharing at that point in time.
+I'll give you a few pieces of color on this right now.
+First, we do think it is a unique technology.
+We do think it is a dramatically better solution, it is not fatiguing like those other solutions are and at the end of the day for most companies who we have talked to, we represent the only solution that they see that could really do what they want allowing them to save a huge amount of real estate, cost [through densification] but to their minds even more importantly improve the productivity of their people and the kind of collaborative environment they want to have for their key talents.
+So we view this as absolutely a premium offering and there's much more to it as well, the system is dynamic, it's adaptive, it's self-diagnostic, it's going to be upgraded through additional features and so we view it as night and day different.
+You know, in terms of route to market, it is going to go, it is going to have to be, not direct -- well, we will support it in the initial phases, we will need channels that are experienced in this sort of thing to install it and so we will be, we will absolutely be maintaining our channel driven overall business model.
+So I don't know if we're disclosing that, I'm going to ask <UNK> if we're disclosing -- we're -- I'm sorry, we're not disclosing that at this time.
+Yeah, so <UNK> I'll start, <UNK> might have more to add on this but in terms of gross margins I think we've talked a long time about the fact that our UC products have an average product margin that's right in line with our long-term target of 50% to 52%.
+So, with the percentage of UC revenues increasing over time that shouldn't be a problem for us, that should just keep us on track to our long-term target.
+Pricing and margins in UC have been very steady and we watched that carefully over time, it's been very steady for us.
+Okay, so I just -- I was going to make an added comment.
+I think that, you know, while the -- what <UNK> said is true, when we add in businesses like SaaS and like soundscaping, we think that those represent significant high margin additions to our business that over time represent upside.
+Yeah, so our guidance would assume that UC growth, year-over-year growth rates for Q2 are similar to what we experienced in Q1 and for UC for the rest of the year, <UNK> do you want to address that question.
+Well, I mean, as always we believe that UC can be a little bit erratic.
+Having said that, as you say we do think we're in a fundamental secular growth situation.
+As I commented earlier, relative to Microsoft, the same can be true with other vendors, we're continuing to see growing (inaudible) of these sorts of solutions, they represent faster, better, cheaper at the end of the day for companies; better flexibility, lower cost, better features and performance, increasingly easier to manage and so we continue to expect further increase of adoption which over time, again, will grow our business.
+Thank you very much.
+Thanks everyone again for joining us today, if you have any additional questions, we'll be available afterwards.
+Thanks.

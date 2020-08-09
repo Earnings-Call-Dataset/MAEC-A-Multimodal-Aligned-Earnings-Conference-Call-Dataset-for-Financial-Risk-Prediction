@@ -1,0 +1,185 @@
+Thank you and welcome to ScanSource's earnings conference call for the quarter ended March 31, 2016.
+With me today are <UNK> <UNK>, our CEO, and <UNK> <UNK>, our CFO.
+We will review operating results for the quarter and then take your questions.
+A slide presentation that accompanies our comments and webcast is posted in the investor relations section of our website.
+Certain statements made on this call will be forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.
+These statements are subject to risks and uncertainties that could cause actual results to differ materially from such statements.
+These risks and uncertainties include, but are not limited to, those factors identified in the release and in ScanSource's SEC filings.
+Any forward-looking statements represent our views only as of today and should not be relied upon as representing our views as of any subsequent date.
+ScanSource undertakes no duty to update any forward-looking statements to actual results or changes in expectations.
+We will be discussing both GAAP and non-GAAP results during our call and have provided reconciliations between these amounts in our slide presentation and in our press release.
+These reconciliations can be found on our website and have also been filed with our Form 8-K.
+<UNK> <UNK> will now begin our discussion with an overview of our results.
+Thanks, <UNK>, and thank you for joining us today.
+As you can see on slide 3, we increased net sales 5% year over year and non-GAAP EPS 23% year over year.
+For the quarter, we delivered non-GAAP EPS of $0.64, within our expected range, while our net sales of $798 million fell below our expected range.
+The biggest miss in our sales forecast was the lower volume of big deals throughout most of our business.
+Lower big deals than expected resulted in higher gross margins, which is what we would normally expect to see.
+Overall, we had a higher seasonal sales decline for the March quarter versus December, which is historically down around 10% quarter over quarter.
+However, this year it was a 20% decline, led by weakness in Europe and more seasonality for KBZ.
+For the June quarter, we anticipate big deals more in line with our typical trends, with gross margins reflecting that expectation.
+We were very pleased with the financial performance and strategic contribution of our three acquisitions, Imago, Network1, and KBZ, which we completed during the last 19 months.
+We still believe that these acquisitions will continue to be key areas of growth for ScanSource.
+With that, I will now turn the call over to <UNK> to discuss our financial results in more detail and our outlook for next quarter.
+Thanks, <UNK>.
+Turning to slides 4 and 5, net sales for the current quarter increased $798 million, compared to $763 million a year ago.
+The dollar impact on sales due to foreign currency translation was a negative $23 million.
+Net sales in constant currency, excluding acquisitions, declined slightly year over year for the quarter or organic growth of 2.3% for the nine-month period.
+Our third-quarter 2016 gross profit was $84.5 million, or 10.6% of net sales, compared to $80 million, or 10.5% of net sales, a year ago.
+As shown on slides 6 and 7, both segments experienced an increase in gross margins year over year, due to a more favorable sales mix.
+SG&A expenses, excluding amortization of intangible assets and acquisition costs, were $59.2 million, or 7.4% of net sales, compared to $55.8 million, or 7.3% of net sales, in the prior-year quarter.
+SG&A expenses were higher year over year due primarily to the addition of the KBZ acquisition and higher bad-debt expense than a year ago.
+Additionally, for the quarter we recorded an estimated sales tax assessment of $700,000 related to 2012 and 2013.
+Our third-quarter 2016 non-GAAP operating income was $25.3 million, or 3.2% of net sales, compared to $24.2 million or 3.2% in the prior-year quarter, reflecting a 5% year-over-year increase.
+Non-GAAP operating margins for both segments increased 10 basis points year over year, due to higher gross margins.
+Our effective tax rate was 34.2% for third-quarter 2016 and 34.7% for the prior-year period.
+For the nine-month period, our effective tax rate totaled 34.5%.
+Third-quarter 2016 non-GAAP net income was $16.5 million or $0.64 per diluted share, compared to $14.9 million or $0.52 per diluted share for the third quarter 2015.
+GAAP EPS increased 20% and non-GAAP EPS increased 23% year over year.
+Total shares outstanding as of March 31, 2016, were 25.7 million, a decrease of approximately 10% from a year ago from share repurchases.
+Average diluted shares for the third quarter 2016 totaled 26 million, down 10% from the year-earlier period as a result of share repurchases.
+Now shifting to the balance sheet and capital allocation plan, we generated $65 million of operating cash flow during the March quarter, which is typically a strong cash flow quarter, and $72 million for the trailing 12-month period.
+Our working capital measures are referenced on slide 8 in our presentation.
+Our DSO at 59 days are higher than our typical range.
+There has been no change in our underwriting standards and the higher DSO reflects the lower sales for the quarter.
+Inventory turns are lower than our typical range, from strategic inventory purchases and lower-than-expected sales for the current quarter.
+Likewise, paid for inventory days were on the high end of our range.
+We believe that our inventory levels are appropriate, given our sales forecast for the June quarter.
+Turning to slide 9, at March 31, 2016, we had cash and cash equivalents of $41 million and debt of $80 million for net debt of $39 million.
+We used $27 million of cash for share repurchases during the quarter ending March 31, 2016.
+Our leverage totaled approximately 0.31 times trailing 12-month EBITDA.
+Our balance sheet remains strong.
+We continue to execute our capital allocation plan, investing in growth areas of our organic businesses, as well as remain disciplined and focused on acquisition opportunities that are strategic, accretive to EPS, and increase ROIC.
+Our return on invested capital totaled 12.3% for the quarter and 14.5% year to date.
+As of March 31, 2016, we have repurchased over 3.3 million shares for approximately $117 million and executed over 97% of our $120 million authorization as part of our planned capital allocation strategy.
+We have now repurchased over 11% of our outstanding shares.
+Now turning to our forecast on slide 10, we expect net sales for the quarter ended June 30, 2016, to range from $900 million to $950 million and non-GAAP diluted earnings per share to range from $0.70 to $0.74.
+We expect foreign currency headwinds to slow down, with foreign currency translation to negatively impact sales by less than $10 million.
+The foreign exchange rates used in our forecast are summarized in our presentation slides.
+I would now like to turn the call back over to <UNK>.
+Thanks, <UNK>.
+We have two reporting segments and I will start with worldwide barcode and security, which represents 67% of overall sales.
+Net sales of $533 million increased 10% year over year, including the addition of KBZ.
+It was a strong quarter for big deals for our POS and barcode business in North America.
+This was one business where we had higher big deals than expected and we had good sales growth over the prior year.
+We had another record quarter for our payments terminal business and related key injection services.
+Our payments business growth would have been even better, but there is a backlog in the SMB point-of-sale software companies getting their EMV, which is our chip and PIN program, certifications as EMV adoption expands from large enterprises to smaller businesses.
+Turning to Europe, our net sales in our barcode business was disappointing, with fewer big deals closed than expected and we saw sales decline year over year.
+Our team is working on incentive programs to grow our SMB business so that we are less dependent on big deals.
+We will be expanding our local sales teams to reach more customers.
+For example, we have announced the opening of new sales offices in Poland and Spain.
+Our Latin America POS and barcode business had good sales growth, but fell short of their plan.
+A key growth strategy for the region is to increase the run rate business and to add more sales resources in the key countries of Colombia, Mexico, and Chile.
+In Brazil, net sales increased 10% year over year in local currency, but declined 18% when translated into US dollars.
+In our POS business, new solutions continue to drive growth from the fiscal printer transition.
+A significant amount of our products are imported and purchased based on US dollar pricing.
+These imported products have continued to become more expensive and certain customers are postponing purchasing decisions there.
+Our business in Brazil, however, is doing remarkably well, despite the general uncertainty from the country's political and economic challenges.
+Our networking and security business in North America had good video surveillance camera growth.
+Our team was recently named distributor of the year by Samsung and Sony.
+We had lower sales than expected for our wireless networking business, which has been a strong growth area for many quarters.
+We believe the lower sales were from delays in product upgrades, delays in E-rate spending, and some market-share losses as we face more competition.
+As a top provider of video, voice, and data for Cisco, our KBZ team performed well this quarter, with good growth with collaboration products and continued success with our ZCare services offerings.
+As we mentioned earlier, we had fewer large deals this quarter than expected and we are still learning how to forecast the KBZ business.
+Now to our second segment, worldwide communications and services, which represents 33% of our overall sales.
+Net sales of $266 million decreased 5% from a year ago.
+Overall, sales in North America and Europe declined slightly year over year, while we had good growth in Brazil in local currency.
+In North America, we had solid growth with our top customers, who are focused primarily on enterprise customers.
+We did lose market share with certain lower-value product lines, due to competitive pricing pressure.
+We increased sales focus on recruitment and enablement of new resellers for unified communications and collaboration vendors.
+We believe Mitel's recently announced acquisition of Polycom can be a positive for us, as it may bring additional revenue opportunities in the future.
+Turning to Europe, our integration across the businesses is now largely complete and we have extended our vendors' offerings to our additional offices.
+We are expanding the ScanSource cloud solutions there, including new as-a-service voice and video offerings.
+In Brazil, Network1 had good local currency growth with another strong SMB and service provider quarter.
+Network1 does well with some vendors, which we have established uniquely in Brazil, such as Microsoft and Dell, and we sell these solutions with value-added margins.
+It was a challenging quarter for our enterprise business there, with large users delaying purchases, given the uncertain political environment and foreign exchange volatility.
+In Latin America, we continue to make good progress with our unified communication vendors.
+We will now open it up for your questions.
+Yes, so let me talk about the segments there.
+So it was pretty equal, <UNK>, the segments on the miss to forecast.
+I think those were pretty equal there, so no one segment more than the other.
+And as far as the guidance for the revenue, as <UNK> alluded to in his comments, we were expecting the big deals to normalize in the June quarter, so in the forecast we are showing an increase in sales year over year, with a slightly positive organic growth in those numbers.
+Yes, that is correct.
+In the quarter on the forecast miss, KBZ was part of that, of which you are right.
+We -- just learning to forecast them more, due to their larger deal volume that they have and larger dollar deals, yes.
+<UNK>, it is <UNK>.
+I think historically we have always said that we want to sell based on our value add and we are willing to sell at lower margins if we deliver lower value-added services.
+So, gross margin has always been a barometer for where our investments in SG&A are.
+And if someone is trying to buy a discrete product from us and not a solution, and all they want is price, then many times we have a floor under which we won't compete.
+Now our vendors know this, so our vendors understand where we need to be from a profit margin on product lines, and if we feel like the vendors and the market are at too low of a margin, we will walk away from that business.
+So in some cases, though, we have got some new competitors in some of our markets.
+Some of this is due to some of the vendor consolidation that has been going on for a couple years, and some of those new distributor competitors might act irrationally, if you will, when they are new with a vendor to show that they can sell volume.
+And so, our history has been that we would rather wait that out, let -- certainly we will complain about it.
+We would expect the vendors to respond and make sure that if we are creating demand and providing value that we get appropriate margins.
+Yes, so that really hasn't changed.
+Our priorities are investing in the growth areas of our organic business, making the strategic acquisitions, and then, finally, the share repurchase program.
+So, it was very much opportunistic buys in the quarter that we executed on and we're pretty close to having completed that.
+Yes, I think -- this is <UNK>, <UNK>.
+We have seen weakness in Europe for us for a few quarters, so I think it is somewhat of an execution issue on our side, and what we have learned, and we learned some of this, frankly, after we acquired Imago, is that our customers and our vendors have always preferred that we have more business local than not.
+We have historically done really well with the larger VARs and resellers in Europe.
+They're willing to buy from us from Brussels and have a relationship with us where we are not always in their country.
+But as we tried to grow our base of business with SMB smaller customers, they really have preferred local distributors.
+So if you remember, in Europe we still have many distributor competitors, many more than in the US.
+So with each of our vendors, there are distributors still in every country, and what we are learning is that we have not been able to take some market share in those areas.
+And matter of fact, we have lost some market share.
+So we announced a few weeks ago in a press release, I believe it was locally to Europe, and I mentioned it today, that we are opening an office in Poland and Spain to put some sales people in the countries where we see growth that we are not getting today.
+So we really think that is something that is more on us than it is different.
+There has been certainly weakness from currency, from macro, and we saw the price increase on products last year this time and we saw some changes maybe in some buying behavior, but we took all that in consideration and still believe we can do better.
+Yes, this would be additional bodies to what we have today.
+So we would have people already today, for example, in Brussels who serve Poland customers, but this would be additional bodies in country and they would still use the central distribution center that we have in Belgium.
+We still have our back-office shared services approach, so yes.
+This is salespeople.
+There might be one or two other type of functions, such as -- dependent on the country, the size of the market, there might be some additional resources, maybe business development, as we call it, which would be more field-based salespeople than just someone inside.
+Yes, that's correct.
+That would be the expectation.
+Yes, you know, <UNK>, we have not had our team tell us anything positive about additional spend from the Olympics.
+And, frankly, we didn't get a lot of spend out of the World Cup.
+I think where we are focused, our teams and our markets down there, we're not getting access to a lot of that business.
+Typically, it comes from government spending and we have some of that, more on the Network1 side than we do on our barcode CDC side, so I would say we see a little bit of that from our network vendors, but not moving the needle, to your point, beyond the already challenged issues with political and economic and all that.
+So we are finding ways to grow, but definitely it is challenging.
+Yes, isn't it amazing.
+You got to remember, everybody forgets how many different retail organizations there are and how many of those companies are small businesses, and they are not going to purchase new gear until they have to.
+So there is a long tail to these businesses when you try to upgrade them over time.
+You bet.
+I am surprised they took a credit card where you live.
+Yes, I think you will.
+I think most of the small retailers that our channel services -- it's not the Targets and the Wal-Marts and all those guys, and so the smaller guy says, what thief wants to steal access to my few customers.
+And so, most of them are going to roll the dice for as long as they can.
+And so, what we are seeing happening is it really is -- and what I tried to reference today was even if some of the smaller retailers are ready, the small retailers use software that is smaller companies and they are not ready.
+They are not ready to implement the EMV.
+They have to get certified by this banking group before they can implement the EMV.
+So, there is -- again, this long tail to this cycle that is going to play out for many years to come.
+Well, I think what we're learning is that the VAR channel that we have historically did not service all of those customers.
+It was done by banks through their independent sales organizations and other channels.
+But I think what's happening is this requires such an integration with their point-of-sale software than the old systems did that our channel is more engaged now than they were years ago.
+So it is a new opportunity for most of our customers.
+That's right, and my guess is we will have credit cards or some form of payment other than cash forever, and so once you sell a terminal and some systems, you will get that recurring purchase again when those technologies are obsoleted or replaced, yes.
+So we see it as a good -- that's why we invested money for the last couple of years in our infrastructure to support this EMV system and we are seeing the benefit of that.
+<UNK>, let me -- I'm not sure I understand the question.
+Could you repeat it again.
+You are talking about the March quarter.
+What we are -- what we have looked at is really the big deals that just did not come through as expected, and so, and as <UNK> pointed out, that was through most of the business that had these large deals that just did not materialize.
+And <UNK>, to that point, they typically do happen -- more of the large deals happen late in the quarter.
+You are right about that because the customers are trying to either try to get a better discount, better deal, and it depends on the vendors to how they try to incent the behavior, right, on those large deals.
+So, yes, they are generally late in the quarter, so you don't have visibility early, so when we are giving you guys guidance, which we gave February, whatever date that was, that is before you have almost any large deals already booked -- or back-end loaded.
+That is something we have never been able to predict well, so what we did this quarter was we asked our teams, forecast your big deals.
+Don't -- like you normally would, don't try to convince people, hey, was there something you missed that you might get again.
+We did not bake into our forecast deals from last quarter and this quarter, so we are not doubling up on them.
+We're assuming that whatever happened last quarter is not being pulled into -- pushed into this quarter.
+We are not assuming that.
+Right.
+We think over history that's a better way for us to plan, and if they come in, that's great.
+We don't think that forecast is necessarily that much higher than historical.
+We looked at that exact stat.
+It's what have we normally seen from March to June and is that the case.
+What's new for us.
+And this is what we referenced in our call is KBZ is still the wild card.
+KBZ for us is -- December, as you know, we had one very large deal that for us historically is -- can move the numbers.
+And so, we're still learning, and frankly, they are learning being part of ScanSource, is how confident can they be in forecasting their large deals.
+So I would say the question mark, if anything, would be on why we feel confident is we like the business that KBZ with their Cisco business is doing.
+We think it is well regarded in the marketplace.
+That's why we bought the company, and so we feel good about their forecast, but there is some -- there is a chance that they are still not perfect on that and that some of those deals -- because, remember, a lot of the KBZ business is through the government -- to the government.
+And so, those things can move on the reseller because of government agencies pausing or delaying or waiting to get a better deal.
+So, that's probably the X factor for us, <UNK>, is KBZ in that forecast.
+Thank you for joining us today.
+We expect to hold our next conference call to discuss our June 30 quarterly and year-end earnings results on Thursday, August 18, 2016.

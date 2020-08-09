@@ -1,0 +1,162 @@
+Good afternoon.
+During the course of this conference call, we shall make forward-looking statements, including statements regarding future growth and profitability, future gross margin, continued operating leverage in 2018, changes to our long-term model and our guidance for revenue and earnings per share for the second quarter.
+We wish to caution you that such statements are just predictions and that actual events or results may differ materially.
+We refer you to the documents the company files regularly with the Securities and Exchange Commission, including the company's annual report on Form 10-K, filed February 22, 2018.
+These documents contain and identify important factors that could cause our actual results to differ materially from those contained in our forward-looking statements.
+With that, I will now turn it over to the Chief Financial Officer of National Instruments Corporation, <UNK> <UNK>.
+Thank you, <UNK>.
+Good afternoon, everyone, and thank you for joining our first quarter 2018 earnings conference call.
+Today, I will begin with an update on our financial performance.
+Then <UNK> <UNK>, Executive Vice President of Global Sales and Marketing, will share insight into our platform success.
+And Alex <UNK>, our President and CEO, will share his thoughts on the business and outlook for 2018.
+Our key messages today are record revenue for our first quarter, 26% year-over-year growth in non-GAAP net income and strong quarter of double-digit year-over-year revenue growth for our software and data acquisition products.
+For Q1, revenue was $312 million, up 4% year-over-year and a record for our first quarter.
+This is slightly below the midpoint of our guidance, with weakness concentrated in a small number of accounts in the mobile devices supply chain, which was especially apparent in Taiwan and Korea.
+From an operational perspective, non-GAAP gross margin and operating margin results were both the highest for our first quarter in 7 years.
+Non-GAAP gross margin in Q1 was 76.6%, up 130 basis points year-over-year, driven primarily by the strength of our broad-based software and data acquisition products as well as favorable currency exposure.
+Our non-GAAP operating margin was 12.9%, increasing 140 basis points from a year ago.
+Record Q1 revenue and deliberate expense discipline drove a 26% year-over-year improvement in non-GAAP net income.
+Q1 non-GAAP net income was $34 million or $0.26 per share, which was at the midpoint of our guidance.
+The Global PMIs held relatively steady to last quarter, indicative of a supportive growth environment.
+The diversity of our data acquisition and software products across a wide range of industries and applications has long been a strength of NI, and we were pleased to see strong year-over-year double-digit growth in these products in Q1.
+This helped offset the weakness in the mobile devices supply chain where we tend to see more volatility.
+Moving to the balance sheet and capital management.
+We ended the quarter with cash and short-term investments of $415 million at March 31, 2018.
+During the quarter, we paid $30 million in dividends, and the NI Board of Directors have approved a dividend of $0.23 per share for Q2.
+Now looking at Q1 orders.
+The value of our total orders was up 5% year-over-year in US dollars.
+Orders with a value below $20,000 grew 2% year-over-year in the first quarter.
+As an indicator of the strength of our system sales, we saw all orders over $20,000 up 7% year-over-year.
+Now, I would like to take a look at Q2 2018, which will include forward-looking statements.
+As you're aware, the release of LabVIEW NXG was a refresh of our 30-year strong software platform.
+LabVIEW NXG provides a modern infrastructure, including robust built-in self-test capabilities for future code development.
+To take advantage of this and accelerate the development of new software features, in Q2, NI will be using agile project methodology.
+This means our software team will be able to release much more frequent updates, providing even greater responsiveness to customer needs.
+Because the self-test capabilities dramatically reduce the need for extended customer testing, we expect capitalization of agile project development to be immaterial.
+This will apply to a significant majority of our software development efforts.
+Starting in Q2 2018, we will remove all capitalized software and amortization from our non-GAAP results, which will provide greater transparency into our R&D spend, improve predictability of our P&L and enable P&L comparability.
+As a result of this change, we are adjusting our long-term model for gross margin upward by approximately 200 basis points and increasing our R&D expense model target to 18% of revenue.
+These changes are built into our Q2 2018 guidance.
+We are optimistic about delivering leverage in 2018.
+In Q2, we want to deliver on our growth and profit goals while increasing our backlog to improve efficiency and visibility.
+We currently expect revenue in Q2 2018 to be in the range of $320 million $350 million.
+We expect GAAP fully diluted earnings per share will be in the range of $0.15 to $0.29 for Q2, with non-GAAP fully diluted earnings per share expected to be in the range of $0.23 to $0.37.
+For these forward looking statements, I must caution you that our actual revenues, expenses and earnings could be negatively affected by numerous factors, such as any weakness in global economies, foreign exchange fluctuations, expense overruns, manufacturing inefficiencies, adverse effect of price changes and effective tax rate.
+In summary, I am pleased with the discipline to our operating model that enabled us to deliver on our operating income target this quarter despite lower revenue.
+I want to thank our employees for continuing to execute on our key business strategies while managing expenses.
+I believe our employees drive the culture and the value of our brand, which has been and continues to be a major differentiator in our space.
+Together, we will continue to focus on our growth and profitability goals into 2018.
+We look forward to seeing you at our Investor Conference on May 22 in Austin, Texas.
+As usual, this will be held in conjunction with our annual user conference, NIWeek.
+You will have the chance to hear from NI leadership about the strength of our software differentiation and our strategy to drive focus throughout our company while leveraging our platform investments within our key industries.
+You will have access to customers to help you better understand our value and the competitive advantage that our platform provides to help them win in their space, and we will speak to our long-term operating model and capital structure.
+I will now turn it over to <UNK> <UNK>.
+Thank you, <UNK>, and good afternoon.
+I will now provide additional commentary on our performance in Q1 as well as some insight into our sales channel evolution.
+Starting with our regions, we saw the strongest performance from EMEA, driven by broad growth across our product and account portfolio.
+Our Americas region saw slight year-over-year revenue growth, with strength in aerospace and defense and challenges from direct U.S. government spending.
+Within our APAC region, our revenue was flat year-over-year, with weakness in several large accounts in the mobile device supply chain, particularly in Taiwan and Korea.
+Double-digit revenue growth in China and Japan helped offset this weakness.
+Turning to industry performance.
+While our semiconductor business saw headwinds from the slowdown in the mobile device supply chain, broad-based demand for our platform and semiconductor characterization and production tests remained strong.
+In particular, we saw continued adoption of our platform for testing 5G devices.
+For example, engineers at Qorvo, a leading provider of RF solutions, used LabVIEW, PXI and the vector signal transceiver to test their new front-end module targeted for early 5G mobile devices.
+Paul Cooper, Director of Carrier Liaison and Standards at Qorvo mobile products, said "The wide bandwidth, excellent RF performance and the flexibility of NI\
+Thank you, <UNK>.
+While our revenue came in slightly below the midpoint of our guidance for Q1, we continue to drive operating leverage.
+Our revenue this quarter was negatively impacted by weakness in the mobile device supply chain, which was partially offset by improved growth in our broad-based business.
+As <UNK> mentioned, at the midpoint, we are guiding to record revenue and record non-GAAP net income for our second quarter.
+The strong growth of software bookings during the quarter helped us to deliver a significant year-over-year increase in our gross margins in Q1.
+We believe our software platform is our most crucial differentiator and value driver, and its growth signals strength in our market position.
+We believe the reception to LabVIEW NXG and the increase in LabVIEW adoption that we've seen across our customer base validates the investment in our software platform.
+I'm also very pleased with the performance of our broad-based data acquisition portfolio.
+These products provide measurement capabilities to systems across almost every industry.
+We believe the performance of these hardware products, along with strengthened software, demonstrates the broad health of our platform across a diverse set of customers and applications.
+This has long been a strength of NI's market position.
+2018 has already been an exciting year in technology with the first standards for 5G communication coming out of the 3GPP, a new autonomous functionality rolling out of the lab and onto public roads.
+Each new milestone in technology adds more and more complexity to validation and production tests.
+Using a platform-based approach helps ensure the test -- ensure the test costs and test time don't outpace product design.
+Our customers have shown that our software-based platform is critical to managing the test challenges of rapidly evolving technology.
+At Mobile World Congress this year, we released a significant number of announcements, including our plans to collaborate with Samsung on test environments for 5G new radio to help test interoperability of next-generation base stations and mobile devices.
+Our extensive work with innovators in this space has helped us bring 5G-capable technology to our platform quickly and positions us to meet the testing needs of these next-generation wireless products.
+As the standards evolve and these companies bring innovative products to market, our platform will help ensure that they can scale from research to production and meet their cost, quality and time-to-market goals.
+We're only 4 weeks out from NIWeek 2018, where we'll bring together thousands of users, decision-makers and NI engineers to discuss technical challenges, gain insight into new technology trends and to lead with new solutions.
+At NIWeek, you will see the continued expansion of NI's 30-year investment in our software-based platform and tangible examples of customers leveraging decades of investment in hardware and software.
+These investments deliver value to our customers through integration of the whole software stack, of drivers, test development software and test management software.
+At NIWeek, we will demonstrate how we are adding more value to this platform through new capabilities and by leveraging software advancements like analytics and cloud computing to support the latest technology trends.
+I'm excited to celebrate the impact our customers are having on the world and to see our teams unveil the latest products that will further differentiate our platform for existing customers and to expand the number of users that we can serve in the future.
+I would close by thanking our employees and reiterating the importance of focus.
+Our multiyear platform investments in hardware and software, coupled with a multiyear evolution of our sales channel, have positioned us well to capitalize on the complexity created from new and emerging technology.
+I'm excited to see us deliver these new technologies and processes to drive further adoption within our target industries and applications.
+Aligned execution from product development to system delivery will help us further differentiate our platform in these areas and deliver high-value systems to market faster.
+Once again, I look forward to seeing you at NIWeek, and we'll now open up for your questions.
+Yes, I have a question and a quick follow-up for -- on <UNK>.
+Alex, my question is around the segments.
+You operate in academic research here or defense, electronics, communications, industrial.
+Any color you could give us in terms of how these individual segments are performing both currently and then just a forward-looking view into the second half.
+And then, <UNK>, agile development you said, quite interesting.
+Would that have any impact on software OpEx or any of the testing OpEx that goes with these frequent software releases.
+So, <UNK>, thanks very much for your question.
+Yes, let me kind of deal with the broad context and then <UNK> will get into the details of the specific kind of industries that we serve directly to give you some color there.
+Broadly, we're seeing the success and reaping the benefits of the investments we've made over multi-years in our software platform and in our broad-based data acquisition and control products and very pleased to see the positive reaction there.
+We did see, as we said, some slowdown or weakness in the mobile device supply chain.
+And unfortunately, that turned what would've been a really great quarter into just a good quarter.
+So we're glad to see record revenue in Q1 and deliver on our profitability goals.
+When we look at that particular area for Q1, that mobile device supply chain account had been more volatile than our normal business over the course of many years, and so this provides a little bit of a speed bump for us as we enter into 2018.
+But on the good news side, the revenue year-over-year from that set of accounts is down about 2/3.
+So their ability to have a negative impact on our go-forward expectations is pretty low.
+And if that does return, then that'll be a tailwind for us in the second half of the year.
+Yes, I'll just chime in, <UNK>.
+This is <UNK>.
+So yes, the strength in software and data acquisition cuts across all the industries and customers that we serve.
+So we're very pleased with that in the quarter.
+From an industry color point of view, transportation and aero defense were both strong for us in the quarter.
+And then as Alex commented, semiconductor is kind of a tale of 2 sides.
+It was approximately flat where these few accounts, less than 10 accounts in the mobile devices supply chain, were particularly weak.
+And the rest of the industry in general was good, was strong in terms of our business in validation labs as well as in production tests, and those roughly offset themselves in the quarter in semiconductor.
+Okay.
+This is <UNK>.
+I'll take the question on the software OpEx.
+We're pretty excited, as you mentioned, about the ability to move to this agile methodology and leverage that for our customers to deliver these features much faster.
+And so the guidance that I provided was that we will be increasing our target for R&D.
+We were running at a target of 16%, and now that will go up to 18% to align with that new view of non-GAAP R&D transparency.
+And obviously, we expect our gross margin to move up correspondingly.
+So you'll see 2 areas in our model that will move, substantially offsetting, as we provide that, I think, really more transparent and industry-norm view of our -- both our R&D and our gross margin.
+And we'll be talking about our -- evolution of our long-term model at NIWeek.
+So we'd be happy to get into it in more detail at that point.
+Just a couple of comments about this.
+As we reflect NXG for us, the LabVIEW NXG in particular, has been a multiyear, very-large investment.
+And we've been looking forward to the opportunity as that -- we drive adoption of NXG completeness.
+It's been a very stable release.
+I'm excited that the R&D team now is able to transition to a much more rapid development process so we can bring features to market for our customers much more quickly.
+And I'm glad that we'll be able to align with what's more common industry practice as we move forward.
+Obviously, from a year-over-year point of view, we did have revenue from those guys last year, Rob, as you mentioned.
+Obviously, we've always kept that kind of range consistent.
+So the real thing I think to focus on is the midpoint.
+From a sequential point of view, given the decline we saw on those accounts in Q1, I don't really anticipate that they can have an impact on our ability to hit our guidance in Q2.
+From a guidance point of view, we will be looking to build some backlog if we can.
+And obviously, we've been very successful in terms of delivering on the profit element here.
+So we'd like to have a little bit more backlog to be more efficiently able to manage the business.
+So going forward, from a Q2 guidance point of view, that set of accounts, as <UNK> mentioned, handful in the mobile devices supply chain, unlikely to have any substantial impact on our ability to hit our guidance for Q2.
+Yes, I'll take that, Rob.
+It's <UNK>.
+Yes, in APAC, I'd characterize it as sort of broad success in the narrow set of challenges.
+So those small number of accounts concentrated in a couple of countries really were offset by double-digit growth in the areas that I mentioned, in China and Japan, and so that's what added up to the results in APAC, which was approximately flat in U.S. dollars.
+And then similarly, just a little bit more color on Americas.
+It was up 1%.
+A little bit of that mobile devices impact comes into the Americas as well.
+And then the -- as I mentioned in the prepared remarks, the U.S. government continues -- the direct sales to U.S. government and things like the National Labs continues to be a challenge offset by strength in areas like automotive and aerospace in particular was stronger in the Americas.
+On the salesperson transition point specifically, Rob, we will be -- a part of our Investor Conference will have a session where we're going to walk through the evolution of the channel.
+It's been a 18-month to 2-year journey to [reorient our sales force].
+We really tried to do that in a staged fashion to minimize the disruption.
+I want to really, as <UNK> said earlier on, congratulate the teams on going through that transformation without any significant disruptions.
+Yes.
+No, that's been a weakness for some time.
+Of course, as things are weak over some time, they become a little less impactful.
+So I don't.
+But I will say, it was good to see the aero defense, which is commercial aerospace and a lot of defense contractors, for that business to start to strengthen.
+We just haven't seen it in the direct U.S. government and places like National Labs yet.
+Thank you very much for joining us today.
+Encourage you again to join us either in person or over the web for our Investor Conference at NIWeek.
+We look forward to an exciting event and to building on our momentum as we go through the rest of 2018.
+Thank you.

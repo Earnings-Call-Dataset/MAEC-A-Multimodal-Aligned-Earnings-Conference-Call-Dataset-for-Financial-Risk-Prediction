@@ -1,0 +1,229 @@
+Thanks, <UNK>, and thanks all of you for joining us
+Our second fiscal quarter once again reflected strong momentum across the business
+QuickBooks Online subscribers and online ecosystem revenue demonstrated continuing acceleration from prior periods
+As a result, we now expect third quarter QBO subscribers to be roughly 2 million, which had been the low-end of our original guidance for the full fiscal year
+Looking beyond Q3, we now expect to exit the fiscal year with 2.2 million subscribers, which had been the high-end of that range
+I'll talk more about what's driving these results in a minute, but given its tax season, let's focus there first
+Despite the slow start to tax season, we remain confident it's simply a shift in timing, with the do-it-yourself software category and TurboTax performing well season-to-date
+This timing shift did lead us to update our outlook for the quarter while reaffirming our full-year guidance
+Each tax year is different
+This one's no exception
+The IRS data released this morning showed total e-filed returns are down 13% with self-prepared e-files down 11% and assisted e-files down 16%
+When you compare these results to the data that we released today, the conclusion we reach is that do-it-yourself category is performing better than assisted and we are performing well within the do-it-yourself category
+So it's helpful to put our season-to-date results into this context
+Now, let me take a minute and remind you the four main drivers for the consumer tax business
+The first is a total number of returns filed with the IRS
+The second is the percentage of those returns filed using do-it-yourself software
+The third is our share within the do-it-yourself software category, and the fourth is the average revenue per return
+Total returns filed with the IRS have grown on average 1% per year over the last five years
+Now, we've grown quite a bit faster than that by focusing on growing the do-it-yourself software category and then growing our share within that category
+So despite the slow start to this season, do-it-yourself software is once again growing faster than other methods and our volumes suggest that we are performing well within the category
+Now, the question on everybody's mind is what's behind the slow start to the filing season? There could be several reasons
+The IRS suggested in its release that the PATH Act has led some to delay their tax filings
+Now, as a reminder, the PATH Act is new legislation in service to fighting tax fraud that delayed refund processing to February 15th or later for anyone who is filing for the earned income or additional child tax credit
+Now, regardless of the root cause, we remain laser-focused on making sure we have the best offerings and an awesome end-to-end experience for our customers
+Now there's no question this is a fiercely competitive tax season with new entrants joining the completely free category
+Free offerings are not new to the category and they're not new to us, and our strategy to win with free remains unchanged
+We are firm believers that not all free products are the same
+Having the best free offer and a delightful end-to-end experience is what sets us apart
+With Absolute Zero, we continue to believe that we have that winning experience
+It's an alternative that is innovative for than 60 million people who file a simple return and may be overpaying for this service somewhere else
+In fact, roughly 30 million of these 60 million Americans visit a tax store or a tax professional simply because they have a nagging question
+In the end, they pay hundreds of dollars to file their taxes
+This is where SmartLook comes in, providing access to an expert at the touch of a screen for a much lower cost
+Now this is simply one of the many innovations that our tax team delivered this season
+Other innovations include improving data import through taking a picture on a smartphone, while continuing to expand available W-2 and 1099 forms for direct download
+We've also been applying machine learning and artificially intelligent algorithms to the data to get maximum deductions in less time
+We're transforming TurboTax from an application to a platform, with our first partner, providing the ability for customers to refinance their student loan at a much lower rate
+And we're delivering a free credit score to all TurboTax customers
+On top of these innovations, we also introduced TurboTax Self-Employed this season
+This offering includes a 12-month subscription to our QuickBooks Self-Employed accounting solution, connecting our market-leading QuickBooks platform to TurboTax
+So to put a bow around the tax season to date, we remain confident about the plans we have in place
+When it's all said and done, we know taxpayers will still need to file by April 18, so we're focused on executing with excellence
+On the ProConnect side, we continue to focus on winning with multi-service accountants who do both books and tax
+We're off to a strong start, and our important accountant relationships are helping to drive QuickBooks growth opportunities
+Shifting to Small Business, we continue to be pleased with the growth in our QuickBooks Online ecosystem
+Subscriber growth is accelerating, driven by product and platform innovation, improved product market fit outside of the United States, and a further expansion of our addressable market by targeting the self-employed segment
+Total QuickBooks Online subscribers grew 49% in the quarter, up from 41% growth in the first quarter, and now shows more than 1.8 million subs
+Outside the United States, our subscriber base grew 61% year over year to approximately 370,000 paying subscribers, which is up from 50% growth in Q1. We saw a notable pickup in markets where our product market fit meets our test of readiness, including the UK, Australia, and Canada
+In fact, both the UK and Canada surpassed 100,000 subscribers in Q2. We introduced several innovations on the QuickBooks Online platform this quarter, including a complete re-imagination of QuickBooks
+com and the QuickBooks Online first-time use experience; all in an effort to increase awareness, trials, and conversion
+This is complemented by a new matchmaking service that connects small businesses with an accountant
+In addition, we're also building momentum behind QuickBooks Self-Employed
+Roughly 180,000 of our QuickBooks Online subscribers are using QuickBooks Self-Employed, up from 110,000 subs last quarter and 50,000 subscribers just one year ago
+In the quarter, we expanded QuickBooks Self-Employed to Canada, adding another major geography to the current distribution that we have in the United States, the UK, and Australia
+Finally, we launched a new QuickBooks Self-Employed and TurboTax experience as well
+While it's early days for all of these innovations, the accelerating growth gives us confidence that our strategy is working
+In fact, online ecosystem revenue posted 30% growth in the quarter, up from 26% in Q1. To continue this momentum, we're investing, investing to improve the experience for customers and partners while getting the message out to more potential customers through events like QuickBooks Connect
+Our first QuickBooks Connect conference outside the United States will be held in the UK in March, with Australia and Canada soon to follow
+So with that overview, I'm going to hand it over to <UNK> to walk you through the financial details
+Thanks, <UNK>
+To recap, we're pleased with our performance in the first half of fiscal 2017. We're in the heat of another competitive tax season but there's a lot of time left on the season but there's a lot of left on the clock
+We remain confident in our ability to compete and win, driven by our laser focus on a delightful product experience that puts more money in our customers' pockets
+We're continuing to gain momentum in our QuickBooks Online franchise as well, with strong growth in the U.S
+and select markets around the world, driving acceleration in subscriber growth and in online ecosystem revenue
+We're also expanding the category with QuickBooks Self-Employed and our new TurboTax Self-Employed offering connects our TurboTax and QuickBooks platforms, providing further runway for growth across our ecosystem
+That's the halftime report
+And with that, let's open it up to you to hear what's on your mind
+Latif? Question-and-Answer Session
+<UNK>, this is <UNK>
+I just want to add a couple of points for you
+As we've talked about these emerging markets, one of the key indicators is lifetime value to cost to acquire a customer, LTV to CAC
+As you know the FASB standard is anything north of 3 to continue to invest
+Right now in the United States, our QBO LTV to CAC is 5.5. If you add in desktop it's 6.9, and if you actually do a worldwide blended number, it's 4.5. So we feel good that we have a proxy and know that we're driving towards good profitable growth
+And the second thing is <UNK> and I worked with the businesses and we have a guideline for the Small Business Group that's keeping that business unit contribution while we're in this investment phase around 40%
+It may go up or down a point or two based upon choices we make, but that's a very good healthy margin for a business that's in good growth but also continuing to deliver the kind of rigor we want on the bottom line
+So I just wanted to add that to the two pieces that <UNK> just put out there as well
+Thank you, <UNK>
+I'm going to have <UNK> and the team here reconcile it with the table
+But as you know, one of the things we try to do is translate our unit growth into e-files sent
+And you know the noise here
+You followed the business for a lot of years
+A desktop unit has an average of two e-files each, and then a TurboTax unit is one-for-one
+So what we try to do is since the IRS reports the number of e-files received, we try to then tell you how many have we actually processed
+And what you saw with the IRS data released this morning is that self-prepared e-files were down about 11% year over year through February 17. Our data shows that we're down about 10% through February 18. And so the net-net on that is we're basically holding to slightly up in terms of our share in the category
+Now, looking at the table, is there something in the table that we need to clarify?
+Yes, so, <UNK>, right now what the headline is units are down 5%
+Our e-files, if you translate that into e-files, are down 10%
+And then the IRS on an apples-to-apples is down roughly 11% for the self-prepared category, which basically says what Dan's quote is, we feel good about how we're performing thus far season to date
+No, thanks for the question, <UNK>
+Actually we have reconciled against the IRS, and the answer is it does not change materially the outcome that we just described, which is we're performing slightly better than the DIY category and certainly better than the overall IRS returns and much better than assisted
+So no real material difference there in that 1-day difference
+Thanks for the question, <UNK>
+The answer is we're seeing strength across the board
+What's really driving is the U.S
+is up about 36%, outside the U.S
+, you just mentioned the acceleration from 50% last quarter to 61%
+And then you add on top of that QuickBooks Self-Employed, which in the quarter added about 70,000 active users and that's more than all of last year's 60,000. But the real driver behind it is product market fit
+As you know, we have a test of readiness, which is in every market, are we able to deliver the benefit the customer says is most important and is our ability to deliver that benefit better than the best alternatives in the market? And once we see that light go green, then we lean in to the accountant channel and we'll start to make more increased investments in advertising
+So the product is really driving the acceleration of velocity and then we put topspin on it by putting more marketing into those markets because we feel good about the product market fit
+And that is currently in Canada, the UK, and Australia
+And we've mentioned to you, we haven't taken our eye off of the ball in India, France, and Brazil
+And we see a springtime window for those to go green and then we'll start to lean in there as well
+So overall, it is accelerating velocity
+So retention continues to look healthy for us even with this influx of new users, we're still looking at that first year cohort of around 70%
+As they anniversary off that first year, it's pushed out of that high 70s and now it's tickling the 80% range
+So it continues to get healthier
+ARPU for us is no different than what <UNK> shared at Investor Day
+We continue to see the cohorts of QBO or non-U.S
+QBO or Self-Employed continue to remain healthy
+When you put them in the mix, it looks like ARPU is coming down a little bit
+That's why we say this is more about staying focused on the ecosystem revenue growth, which went from 26% up to 30% and we think that's the best indicator of the long-term health of this business
+Thank you, <UNK>
+I think, <UNK>, the first is, this is a competitive season but it was not unanticipated
+I mean, many of us were talking in the off-season and we knew that everyone was going to be coming after the market aggressive
+But as I shared in my opening comments, free offerings are not new to the category and certainly not new to us
+It comes down to who has the best end-to-end experience and product experience and we feel good about our position right now
+The other thing that we talked about going into the season, and Dan Wernikoff did a wonderful job at Investor Day, is we're looking to add more value to our product lineup to attract higher value customers into the category and ultimately into TurboTax's franchise
+So SmartLook right now is focused on those customers who've historically paid hundreds of dollars to go to an assisted method and we're bringing them into our category
+The other thing is TurboTax Self-Employed right now is at an $89 price point
+And by hooking that up with QuickBooks Self-Employed, we're getting more of those kinds of customers as well
+So I think you're going to see price realization continue to be a little healthier, if we continue to bring these higher value customers into the category while we remain competitive on free on the low end
+So at the end of the season, we'll have a better read on that
+But that's our strategy going in is winning more share of dollars, while also continuing to extend our lead in share of units and that's our multi-pronged approach
+Actually, I am excited to say that that team has really leaned in to the product experience
+In fact, they prioritized really making the first-time use experience from new-to-the-franchise customers amazing
+They've had goals they put in place to get to a first P&L in five minutes or less; the ability to send an invoice quickly
+They've spent a lot of time looking at what the best indicators are to someone who'll turn into an active user
+And that's really what's driven the growth, not only in the U.S
+but around the globe
+It has not been increased promotions or anything else
+It really has been the product
+Thank you
+Yeah, actually, <UNK>, we have a relationship with Uber already in the United States and we simply expanded it into Canada
+We have been working with Uber over the tax season last year and then more aggressively in the post season to try to make sure that we're helping them with their drivers, be able to separate their personal from their business expense, to be able to keep a mileage log that was up-to-date and active and have the ability for them to file their taxes
+And on average, they're saving about $4,300 in tax savings by using our product
+The other thing is the benefit for Uber is many times last year, the number one call they got from those who were driving for their service was hey, how do I – what do I owe for taxes? So the partnership is a win for them, it's a win for the driver and it's certainly a win for us
+And the relationship has been in place in the U.S
+and obviously, you mentioned the one in Canada as well
+And we look to continue to expand that and many other relationships as we focus on the Self-Employed segment
+<UNK>topher <UNK> - Credit Suisse Securities (USA) LLC Great, that's helpful
+Just to clarify also, a quick follow-up maybe on the SE number
+Is there any chance you could split that out between U.S
+and international, just to get a cleaner sort of QBO U.S
+Take care
+<UNK>, it's across the board
+I think everyone continues to lean in and put their best game on the field and that's good for the category
+If you go back and look over three decades, any time a lot of players either get more competitive, they're already in the game or new entrants come in, everyone leans into the advertising and marketing muscle and that gets more people to raise their head and say, hey, I'm paying hundreds of dollars to go to this service, why don't I try that instead? I think this is going to be net-net good for the category
+It's going to get more people into the do-it-yourself category, and then it comes down to who has the best offering
+But right now, of course, you've seen H&R Block, a really worthy competitor, someone we have respect for out there, and they've been aggressive this year
+You've got new entrants coming in
+and of course, we've been out there banging the drum as well
+So I think net – we're getting a lot of people excited about the do-it-yourself category, which is good news for the long term
+We may have shared – we'll have to go back and see
+I'm trying to go from memory, if we actually sized that in our Investor Day materials
+I can't remember off the top of my head how many of the 400,000 firms are multi-service firms
+I'm thinking it's somewhere in the two hundred and some thousand, but did we size that?
+I'm going to be guessing, <UNK>
+Let's get that answer and then we'll make sure we get that out to everybody
+But I thought in Cece's section that she had sized it in the ProConnect update
+Okay, sorry about that
+It's a good number
+It's a healthy number
+All right, thank you
+<UNK>, we've had a pretty consistent set of guiding principles out there, and then I'll add the asterisks onto this year, as we shared at Investor Day
+So the principles are the four main drivers are the number of units or the number of returns filed with the IRS and then what percent of those are actually going into the do-it-yourself category
+Underneath that, we fight for share and then ultimately we try to get a good revenue per return
+As we were going into this year, we always say we like to see units grow faster than revenue and we like to see the category grow faster than the alternative method because that sets up a good lifeline for future monetization
+Now, what we did this year in addition to that – so nothing has changed in our strategy
+What we've done in addition to that is we've leaned into higher value opportunities
+So SmartLook is trying to get these higher paying customers out of the assisted method, and we've also leaned in TurboTax Self-Employed
+So we'll see what that does to return at the end of the year and ultimately what that does to revenue, but we're still striving to have healthy unit growth
+And in a good situation, we'd like to have units outpace revenue
+I'd say, <UNK>, it's early days this year
+We're getting a lot of good learning, and this is the first of a platform strategy you saw play out in QuickBooks that we're now bringing to TurboTax
+So I think it's going to be fairly immaterial this year, but I think we're going to leave here with a wiser set of ideas and thoughts as we enter into next season, and we're playing that one for the long game
+So I'd say it'll be relatively immaterial this year
+You're welcome, <UNK>
+Hey, <UNK>
+I appreciate the questions as always
+Let me start first with we have a lot of respect for all of our competition
+As I mentioned a few minutes ago, everyone out there is being aggressive
+Let me talk specifically to IBM Watson that you referred to
+We've been talking about machine learning and artificial intelligence for some time
+In fact, it's not new, and we've been leaning into it aggressively since 2010. To give you a couple of stats, we have over 100 patents pending right now on machine learning and artificial intelligence technologies
+We have 30 already in the market
+These are algorithms
+These are machine learning capabilities that do things like helping somebody in TurboTax understand quickly whether they should just go with the standardized deduction or do itemized deductions
+And that could save as much as 40% of the time it takes to do the return
+In QuickBooks, we have this thing called Smart Sort, which is the ability to automatically categorize whether something is a personal or a business expense, which allows you to basically make the right kinds of decisions when you file a Schedule C
+And there's a whole host of other things that we're doing with artificial intelligence
+So we are excited about the capabilities, we're always leaning into the future
+And for us, this isn't a new announcement, we've been talking about it for some time
+And it's been showing up, we believe, in not only our product scores, but also in our market share gains
+The second is on the website
+Right now, we haven't broken down our funnel metrics
+We'll do that and we always do that pretty transparently at Investor Day
+We don't tend to do it midseason
+But you heard us reaffirm our confidence for the full year
+So that gives you some insight into how we're feeling about her funnel metrics, which include conversion and retention
+I think beyond that, at this point, we need to see how the full season plays out
+<UNK>, thank you for that question
+I think the solace that we all take some comfort in is that everyone has till April 18 to file
+So whether they've jump in right now and it's coming back at the pace we hope, or they're going to wait until April 13, April 14, April 15 and dive across the finish line
+We're prepared for any of those scenarios
+We're out there, as <UNK> said, making sure that our message is out there today as they're making decisions
+But we're going to stay in the game all the way to April 18. I think there's a lot of pace that's going to have to pick up between where we sit today and April 18. But that deadline is coming and so I think it's just a matter of when
+No, you're welcome, <UNK>
+I didn't mean to interrupt you
+I was going to say we came in anticipating pretty aggressive season and we knew that there were going to be players that were going to mirror our Absolute Zero
+And so we haven't had to tweak anything from a product perspective
+As <UNK> did suggest though, we did start to make some adjustments to how we get our marketing message out there since the season got started a little later than we had anticipate
+But we've been able to reallocate resources and kind of self-fund that, so that's really been the adjustment
+Now, you might imagine we have a lot of contingency plans in place, if-then scenarios and those are sort of still on our back pocket
+And we'll just keep an eye on the competition and we'll make the right kinds of decisions as things move
+Okay
+I did have one – I realized, <UNK>, I did not mean to not answer one of your questions
+This is for <UNK> <UNK>
+You had asked about RAs, the refund advances
+I think that we talked about this in the past that we exited that refund advance or refund anticipation loan business about a decade ago
+We didn't feel that that was the right approach for families who were looking to get money in their pocket
+And so ultimately, we haven't had that offering for some time and during that period of time, the do-it-yourself category has grown and we've gained market share
+So we don't feel we're at a disadvantage this year any different than we have been for the last decade
+We think the category is still going to grow and we're still going to gain share
+Yeah, I'll be happy to do that
+First of all, we want to thank everybody for your questions today
+Obviously, we're still on the midst of this peak season and we do like the momentum, we're continuing to build in Small Business and you heard us reiterate our confidence in the game plan for tax
+We all know there's a lot of time left on the clock and your questions suggest there's still a lot of time for people to get their tax filing in
+We know that's going to have to happen between now and April 18. So we're looking forward to staying laser-focused and executing and we'll catch up with you on the after calls as well as talk again at the end of tax season
+So thanks, everybody and have a good weekend

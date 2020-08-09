@@ -1,0 +1,183 @@
+Good afternoon, ladies and gentlemen.
+My name is Sheika and I will be your conference operator today.
+At this time, I would like to welcome everyone to the Q2 fiscal year 2016 quarter earnings conference call.
+All lines have been placed on mute to prevent any background noise.
+After the speakers' remarks, there will be a question-and-answer session.
+(Operator Instructions) Thank you.
+Mr.
+<UNK> <UNK>, you may begin.
+Thanks very much, Sheika.
+Welcome to Plantronics' second-quarter fiscal year 2016 financial results conference call.
+Joining me today are <UNK> <UNK>, Plantronics' President and CEO, and <UNK> <UNK>, Plantronics' Senior Vice President and CFO.
+The information presented and discussed today includes forward-looking statements, which are made under the Safe Harbor provisions of the Private Securities Litigation Reform Act of 1995.
+The risks and uncertainties related to such statements are detailed in our most recent 10-Q and 10-K and today's press release.
+For the remainder of today's call, we will be providing only non-GAAP metrics related to gross margin, operating expenses, operating income, net income, and earnings per share.
+We have reconciled these measures in our earnings press release and in our quarterly analyst metric sheet, both of which are available on the investor relations page of our website.
+We've also reconciled constant currency in the investor presentation.
+Note that we have changed the format of our call this quarter to Q&A, and that the quarterly prepared remarks on our second quarter from <UNK> and <UNK> are available on the IR section of our website.
+A replay of this call will also be available with dial-in information on our press release.
+Unless stated otherwise, all comparisons of the second-quarter fiscal year 2016 financial results are to the same quarter in the prior fiscal year.
+Plantronics' second-quarter fiscal year 2016 net revenues were $215 million, which includes a charge of $3.6 million for an increase in revenue reserves.
+Plantronics' GAAP diluted earnings per share for the second quarter was $0.52 compared with $0.65 in the prior year.
+Non-GAAP diluted earnings per share for the second quarter was $0.70 compared with $0.77 in the prior year.
+On a constant-currency basis our non-GAAP EPS was $0.81 and, excluding the revenue reserve made in the quarter, our adjusted non-GAAP EPS was $0.89.
+The difference between GAAP and non-GAAP EPS for the second quarter consists of charges for stock-based compensation and purchase accounting amortization, both net of the associated tax impact and tax benefits from the release of tax reserves.
+Please refer to the full reconciliation of GAAP to non-GAAP in our earnings release.
+With that, we'll open the call to questions.
+<UNK> <UNK>.
+Just had a question about the strong performance in the enterprise segment.
+Can you just maybe give a little color on what was driving that.
+And do you think there was any kind of catch-up or pent-up demand from the introduction of Skype for Business.
+And do you expect that to lead to maybe a fall-off in the coming quarters as that gets worked through.
+Thanks.
+Okay.
+And looks like the guidance is implying sequential increase in OpEx and a little decline in the margins.
+Could you just run through what's driving that.
+I'd make one other comment on the Q3 and Q4 pattern for this year, which is unusual.
+Q3 -- and this happens to us because we're on a 52-week fiscal year and then this happens to be a 53-week year.
+That means that the Q3 in this case is actually shifted a little bit forward, so it's got a lot of favorable dates.
+Q4 will actually have 14 weeks in it, although it's slightly unfavorable dates.
+This happens to be a fiscal year with two Easters in it.
+And we'll get an Easter at the end.
+And of course the first week of the quarter is the last week of the calendar year, which is not a very strong week for us typically.
+Okay.
+But in terms -- I think the guidance is implying like a sequential increase in OpEx.
+Could you just address that, and why it's up --
+-- sequentially.
+<UNK> <UNK>.
+Thanks.
+Can you talk just a little bit about -- I mean, obviously the consumer business probably trends up in the December quarter.
+But do you see enterprise growing a little bit sequentially potentially.
+Yes, your right.
+The consumer business does typically trend up a little bit in the December quarter.
+We are expecting to have a pretty good December quarter as well, both on UC and on the core business.
+I'd make one other comment.
+That's kind of a currency-neutral statement.
+Well, I think that we've seen more and more of the cloud models get implemented and many companies are very interested in moving to that type of model for a variety of reasons.
+So, to the extent that we have a good solution in the market, or another good solution in the market, that is attractive to people it can be a positive in terms of market growth and adoption.
+I would say that in general those sorts of solutions are also prized by people who are very interested in mobility.
+And that tends to be a positive it terms of the selection of use of headsets.
+I think it fits very well some of the models that we've put into place to work with the system integrators in the other channels from a customer standpoint.
+So I think we'd see this as fairly advantageous.
+That said, to your other point, can anything create a delay in the market also that's new.
+Yes, it can.
+I mean, people can always evaluate something for a period of time before they decide what they're going to do.
+And then I guess just on the -- I'm just curious.
+I know you don't give us sort of a definitive number, but the ASP for your enterprise business, can you sort of generally talk about the pattern that's followed over the last year or so.
+[<UNK> <UNK>].
+Great quarter.
+I understand you've made a move recently to authorized Plantronics dealers only.
+Could you tell me what the business objective was for that.
+Okay.
+And with respect to Amazon, for example, how does that affect Amazon.
+Are they signed up as an authorized dealer, then.
+So, I don't want to go into particular customers and answer particular questions, except to say that it is a very broad program that we have in place.
+And, again, it is intended to preserve the return that those people have in making marketing and other development efforts on our behalf.
+Dave King.
+This is <UNK> <UNK> on for Dave King.
+I had a jump on late so forgive me if I ask any questions that have already been asked.
+I just wanted to ask about your 10% reduction you guys are targeting in the supply chain over the next three years.
+I guess I just want to know how we should be thinking about it in terms of how it's going to flow through to EPS maybe versus being reinvested in growth and new products such as UC.
+So, let me make sure I understand the question exactly.
+How we're going to take returns from our supply chain into -- whether it's going to be invested into R&D or whether it's going to shareholders.
+Was that the question.
+Correct.
+Okay.
+So we don't allocate specifically where profit dollars are coming from that they are dedicated to a particular source.
+We have set a overall model based upon the revenue levels that we have as to what we intend to invest in sales and marketing and R&D.
+And then we make it a little bit more tangible within that broad framework as to the right levels of investment that we think are appropriate based upon what we see in a particular fiscal year.
+It's always subject to error, in [my case] of what the actual revenues turn out to be, to volatility as in the case of foreign exchange, which has hit us quite a bit.
+And then ultimately the profits, as we've said before, particularly as it relates to cash flow generation, we intend to pay out 60%, two-thirds in terms of share repurchases, one-third in terms of dividends.
+Thank you.
+That helps.
+And just one more thing, and sorry again if I missed it.
+Your December quarter guidance, can you talk about what it assumes for enterprise and, more specifically UC, as well as the consumer business.
+Perfect.
+That's all.
+Great quarter, guys.
+(Operator Instructions) <UNK> <UNK>.
+I have a few questions.
+The first question relates to the comment you made that your income is shifting from lower tax jurisdictions.
+Can you talk about what is driving that and how we should think about that going forward and the impact on your forward tax rates.
+And then the second question is, the dynamics that you talked about for the mono Bluetooth across the markets, it seems that that's just happening in the US at the moment.
+And it would be good to get some color on your expectations for the ex US market, whether that's something that's going to come later that we should think about.
+And then, the third question also (multiple speakers) --
+<UNK>, let's just go one question at a time.
+I'll let you keep going (multiple speakers) --
+Okay, sure.
+We can do that.
+So if you could start with those two, that would be great.
+So, <UNK>, why don't you take the first one.
+I'll take the second one.
+And then we'll hear what the third one is.
+Okay, and then, <UNK>, I think your (multiple speakers) -- sorry.
+Well, we always --
+So this is really heavily driven by currency when you get down to it.
+That's what's, at the end of the day, decreased the amount of revenue and profit that we are generating internationally where are tax rates is lower.
+And that's what's shifted it into the US.
+We still have, systemically on the long term, higher growth rates expected outside the US than in the US.
+So that's kind of the driver to it.
+Can I proceed with your other question or not.
+Okay.
+And I just want to make sure I got it, because I think what you said was a question related to the growth rate of the voice Bluetooth market outside the US.
+Is that correct or not.
+So, let me make sure I understand this.
+You're talking about the US catching up with what.
+Sorry.
+The significant portion of it internationally is simply attributable to foreign exchange rates.
+Wel --
+So, let me just say that, first, we don't know because it is kind of a future item.
+And we were actually surprised by the size and scope of the decline of the market in the US.
+I think that there is certainly a risk of additional reductions in international markets.
+Certainly in the case of France there was a change to their regulations that no longer permitted you to use a headset in a car while you're driving in order to make a call.
+They switched it to other hands-free devices.
+That's not something that helps out.
+I think that the mono voice market is likely to continue to decline for a period of time and that there is certainly some risk that the international markets will decline further.
+We've certainly seen that the much broader adoption that we had for the category in the US was heavily affected by people using smartphones where they frequently wanted to both only pay for and only carry one audio device to go with it.
+And as those became content delivery for music and other streaming content, increasingly that meant a stereo device rather than a voice devoice.
+That adoption was not as high overseas.
+And therefore I think the correction to that market should be lower overseas.
+But, again, we're dealing with a speculative area on this a little bit.
+So is there some downside risk to the category going out next year.
+We think that there is.
+And I don't know for sure how big it would be.
+You know, <UNK>, I would just assume that it's similar to the full revenue split between domestic and international.
+We don't provide that level of detail in our revenue categories.
+So I would assume, you know, roughly 60/40 split, like total revenues are.
+Sure.
+Let me first say -- is it a risk.
+Of course it's a risk because everything is a risk and possible.
+And there will undoubtedly be some people who'd elect to buy a less expensive product.
+However, what we're actually seeing in the market has been very encouraging.
+We've just, as you know, launched the Voyager Focus UC.
+And I did cover it in the prepared comments that we sent out, but this is a remarkable product.
+This allows people who are, whether they're consumerized and buy it on their own or whether their company pays for it, getting a product that is one that provides, for sure, fantastic audio experience, great integration into the UC solutions that they're using at the workspace.
+But this is also one that releases them from all the noise, allows them to focus, allows them to listen to music if they want to, allows them to be a lot happier.
+Now, the truth is that in consumerization, this means that the individual is more likely to have an influence on what they choose, what they pick.
+You've already seen in many cases that if it's important to people, they'll pick products they really want.
+Consumerization doesn't necessarily always mean that the consumer will actually have to pay.
+It simply means that they are going to be able to choose.
+Sometimes they may have allowances.
+Sometimes they may be able to directly bill the company.
+Sometimes they may indeed decide that they want to pay for the product.
+But in this case audio, comfort, the sound quality that you get when you communicate, we know these are important to people.
+And we've repeatedly seen that people are willing to pay for Plantronics quality.
+And that, at the end of the day, is why we have a leading position in the consumer market today, as well as a leading position in the business market.
+It's in line with the enterprise pricing.
+It's actually -- I mean, it's a new product with some advanced capabilities, so it's a slight premium.
+I do want to say this is brand new, and we've just started shipping it.
+But, again, it's being extremely well received.
+Well, by our calculations that wasn't really the case.
+But I would say that your point about noise is valid.
+I think that most of the things that influence them are the same ones that influence us.
+Mono to stereo, just to be clear, <UNK>.
+Well, no, I mean for us it is primarily being distributed in the same channels --
+-- although it can be a different location or buyer in that same channel.
+Well, I would say there's definitely been a change, although I would call it more over the past year than certainly over the past quarter.
+We've been seeing a steady increase in the portion of the business that is coming from small and mid-size businesses as UC adoption begins to hit those organizations.
+More of the channels have begun focusing on it.
+There's more of the born-in-the-cloud services available to those and that's definitely increased adoption in that part of the market.
+Thanks very much, Sheika.
+And thanks, everyone, for joining us today.
+If anyone does have any other questions we'll be around this afternoon.
+Thanks again.

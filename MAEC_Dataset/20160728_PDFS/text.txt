@@ -1,0 +1,131 @@
+We are pulling forward some R&D.
+We still expect it to be available in [scanning lifers and office facility] early 2017 and shipping in the second part of 2017, which is on our original plan.
+In terms of the market opportunity, we do believe and as we talk with our fabless customers, they see the opportunity for new project introduction when you bring in the product into a fab to more quickly bring that product up as well as we believe there will be process control applications.
+We are -- we don't know what fraction of the process control market this represents.
+We believe it would be a meaningful part of it, but we don't know exactly what that is down until we understand where customers (technical difficulty) .
+It's not really -- we are pricing -- it's a very different type of inspection, right, so it's really allowing for new information.
+So at this point, we don't fully know how people will use it.
+Just like we didn't expect people to really use the eProbe-150 in the way that they're using it.
+They found applications for it that were in process R&D that we had not anticipated.
+And that's why we are meaningfully spending on the eProbe-150 and expect to deploy more of them than we have so far.
+That would be a new customer.
+That is correct.
+So our current plan is to not break that out.
+The reason for that is in many of the engagements, these will be sold as either a direct part of an ongoing yield ramp deal or be merged with several of our other competitors for a business, like Exensio Big Data.
+It would be hard to kind of break out the elements.
+So you won't see that, although we will give you color on the scale of the business and the growth rates as we proceed through.
+And what was the second part of your question.
+We actually saw quite a number of engagements get booked this quarter, particularly in both the DFS side of the traditional business, but also across all the nodes: 14, 10, and 7.
+As we said, we are seeing some early interest in 5 nanometer also.
+Yes, we are expecting R&D expense driven by the DFI program to increase from Q2 to Q3 and Q4 by 3% or so per quarter.
+<UNK>, it's a great question.
+So yes, it is on multiple fabless and fabs.
+I have lost track of the number now, but it's over five or so fabless companies and a similar number of fabs at this point.
+You know, now there's two machines out there that can measure.
+We also have capability in our clean room here in Silicon Valley and at this point, wafers do come back to us and other fabs are scheduling to ship -- fabs and fabless -- are scheduling to ship wafers to our facility where we can demonstrate the kinds of information that you can generate from these instruments.
+Remember, that's really what drove the first two systems was in the summertime 2015, we had wafers come from those first two fabs to our facility here in California.
+And we showed them what kinds of information you could get.
+So, some of those tape-outs will go through -- most of those tape-outs will go through one of those few machines, the ones that are non-facility as well as the ones that are in the existing customers.
+Also for our fabless customers, once they put this into their design flow, then it becomes a standard operating procedure and every tape-out has these instruments in there.
+And they recognize, and we talked with our fabless customers, and we recognize that in order to get fabs to adopt, if you tell a fab, I have a new inspector and I can just use regular wafers, they can make a decision about an inspector or not worry about what the fabless do.
+But our approach is you put something on the wafer to make the inspection problem much easier.
+So when we go back to the fabs, we need to be able to point to a community of designs and wafers that have these instruments.
+And now what we have got with a couple of customers now doing this on all of their tape-out, built into their flow, foundries can get comfortable with the fact that they are -- there will be tape-outs that are coming into their factories that are fully instrumented.
+And therefore this methodology is possible.
+This is a chicken and egg problem, right.
+We are actively going fabless to adopt and then turning back to them and showing them what benefits they could get.
+And the fabless are helping us with the fabs with this.
+You know, if somebody says well, does my fab have a machine to -- does my foundry partner have a machine today.
+And in many cases, the answer is no.
+So well, where am I going to do it would be a response you get from a fabless company.
+What we see with the leading edge fabless -- and they're very enlightened about this -- we know that it is very hard to see the problems that limit our new product introduction.
+We think we know what product layout patterns are tricky to build.
+We want to give instruments for our foundry companies that can make this problem easier for them.
+So that's the dialogue that starts.
+And they put those instruments down and then literally they go to their foundry partners and say, we have done this work.
+We'd like you to work with PDF to inspect these.
+And we've had that happen with numerous fabless now across multiple foundries.
+And the first two foundries are a result of those fabless companies bringing this up to their foundry partners.
+Yes, you know.
+Because we run electrical test vehicles on every flavor of 10 and 14 that's out there, we have a lot of insight about what instruments you would like to put on a wafer to make the process controlled problem easier.
+And we also -- our layout software runs through those both for our fabless customers run through most of the major tape-outs on application processors and graphics chips, etc.
+So we have a good handle on what patterns are tricky in their layouts.
+So when you marry those two data sets together, you [can] build an on-chip instrument that has good sensitivity to customer specific problems.
+Well, what we have seen on the fabless side and we have talked about one of the engagement side in the last quarter was 10 nanometer for a Chinese fabless -- DFM for Chinese fabless.
+so on the system and the design companies' side, we see a very accelerated use of advanced nodes.
+Now of course whether designing at 10 nanometer or 7, they are not using foundries inside China that are Chinese-owned foundries in China.
+They're working primarily with our customers in the US and the rest of Asia.
+And again, part of the value that PDF can bring them is we run vehicles in those facilities all the time, so we have a lot of expertise about helping them characterize their overseas suppliers.
+Now what's happened in the last couple of quarters is those fabless companies are also trying to use that 28 nanometer and then I think on future nodes in internal capacity inside China.
+And again, because PDF has business with many of those companies, we are able to provide them an infrastructure to make that a more smooth on boarding process as well.
+We expect the ramp of 14 nanometer in 2016 and early 2017 to be a big driver.
+And as you get out to 2017, the second wave 28-nanometer customers to also become an important factor.
+No.
+I think we do believe and we have seen in our foundry partners an uptick in volumes that would drive the third- and fourth-quarter Gainshare.
+Yes, so generally, your description is right, <UNK>.
+I don't think you need an EE degree; you're doing just fine.
+What happened was that our original thought was the 150, we were going to put a couple of them in the world for collecting data to verify the on-chip instruments worked, and to give -- because <UNK> brought up a very good question for fabless.
+People will ask, hey, are there machines out there that could measure these things.
+We knew it would take a while to develop the 250 platform and so we thought, well, while we're doing that, we have got one or two of these out there to create some data sets for our staff and fabless customers to gain confidence in the instruments and learn how to use the data.
+And that's why we said, if you remember on our previous calls, we think there would be a small amount of revenue at the end of 2016.
+And what's happened is as the data sets tended to be more valuable for our foundry partners than we thought, fabless customers are also putting more of them on their test vehicles than we initially anticipated.
+And they are seeing good application for the data.
+And you know, it's still R&D, so you're moving a little bit from the lab to the R&D process inside the fabs.
+And we are starting to find some applications that could leverage the 150 even for production, even though it's still very early in proving those out.
+And we started to realize that the 150 had to place separate than the 250 for a different set of applications.
+And it's a very -- we were able to strike up relationships with customers that were very compelling for them and for us a profitable business, so something that we could afford to bring out.
+And now, we see other customers wanting that same capability, so now we are making plans, and this is part of the reason why the expenses have gone up, to continue to develop applications and capacity for the 150s while we continue to develop and explore the development of the 250.
+And we think they are going to complement each other in the field rather than our original intention, which was to replace the 150s with 250s.
+So you know, we have not gone out and asked for orders or solicited orders on the 250s, but we have gotten folks to express their interest in that -- that wafer could do what we said it would do.
+And primarily they are different applications.
+If I kind of alluded to my prepared remarks, for our fabless customers that express interest in the 250, they are quite interested in the new product rampup because being able to scan billions of on-chip instruments in an hour is kind of an out of the imagination capability, at least 100 X faster than what you could do alternatively.
+And they think that that would greatly shorten their learning [curve].
+And that is a little bit different than the 150 application, which really is getting around process window verification and more IP pattern development as opposed to full product bring up.
+The pipeline is really those tape-outs that are out in I think at this point five different foundries.
+We anticipate generating -- or getting wafers in our facility in Q3 and early Q4 from other foundries, as well as the existing two, kind of digesting what the initial capability can be.
+We are not looking to push it so hard that we trip over ourselves, so we would be excited if we had an additional system by the -- in the second half of 2016 with kind of an on-ramp or an up-ramp in early 2017.
+But we don't need to get to a big number in this year.
+And also remember that the model that we use for this is a ratable revenue model.
+It's almost like a time-based license on software.
+So the machines that we ship are still generating revenue.
+When you're in a capital equipment model, once you ship and recognize revenue, you start again from zero on your revenue for machines for the next quarter.
+Whereas for us, we build off the base of what's already been established.
+So we don't need to ramp them up very quickly in order to sustain ourselves.
+And we will ramp it up at a rate that we feel comfortable we can meet customers' expectations and exceed them.
+So if we can get one more in this year, that would be super, and then ramp into early 2017 would be great.
+And that would meaningfully impact our revenue.
+That's reasonable.
+Yes.
+If we think about 2016 maybe being in the mid to high teens level, it's probably rational.
+When you look at 2017, it's hard to call because, as <UNK> pointed out, we may be expanding and ramping additional machines on the 150 series overlapping with going to early -- late development early production on the two series, which is a significantly more expensive capability.
+So we have got a variety of potential projections depending on timing of those things, but I would expect that a similar to slightly more spending in 2017 than in 2016 at least.
+Correct.
+Yes, and you know, that's driven by the fact that our plan is to not actually sell any of the machines associated with this business.
+They will be treated as capital goods and then depreciated over probably five years.
+Yes, I believe the number was 23, although we are going backwards and looking.
+I'm sorry -- it was 27 that we booked new or extended deals with in the quarter.
+27 customers.
+That number can vary quite a bit quarter to quarter because of the software business.
+But it has been growing is a good way to think about it.
+I can go off-line and get you last quarter's number.
+It's quite significant.
+Yes.
+I think, <UNK>, you and I have talked about this before.
+I think you would continue to see the solutions margin improve slightly quarter to quarter.
+Now there's some timing that will follow their, but on a happier basis, if you're thinking up a point or 2, driven -- on the good news side being driven up by increasing mix of the software business and now even some of the 150 series business.
+Offsetting that we will be as we ramp up business in China, it takes a while for those margins to get back to full levels.
+Yes, margins should go up, but only by a point or 2, I think.
+Yes, it's a great question, <UNK>.
+We right now charge nothing to fabless who want to put instruments on the wafers.
+They then generate a key in effect, which is where the instrument are located within the design.
+And PDF has the right to distribute the key to the foundries.
+So really the strategy here is to -- the fabless put these on as a way of making their design easier to bring up and control.
+And we right now monetize the foundries.
+And that will be the model for the near term.
+Thank you so much for the question.
+Unfortunately, we really can't comment on our customers' contracts with their customers and tend to not have much visibility into that.
+We will probably see those things when the customers are required to file their SEC documents.
+Would be about the soonest we'd see it, other than hearsay.
+Thank you, everyone.
+We look forward to talking with you at the end of Q3.
+Have a good day.

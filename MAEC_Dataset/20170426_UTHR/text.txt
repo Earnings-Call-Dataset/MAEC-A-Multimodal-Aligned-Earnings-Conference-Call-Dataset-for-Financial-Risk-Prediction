@@ -1,0 +1,104 @@
+Thank you, operator.
+Good morning, everyone.
+Welcome to United Therapeutics First Quarter 2017 Earnings Call.
+My name is <UNK> <UNK>, I\
+<UNK>, the guidance we give is that the -- that we have a group of products that we call in the nearer term guidelines, in the nearer term pipeline.
+And the only guidance that we're providing are that, these products which are in the near-term pipeline will be launched in the 4-year period 2018, '19, '20 and '21.
+I don't have the whole list of them, but certainly, FREEDOM EV, which we go by the product name, Oreni Plus, because it's a Orenitram plus background therapy, that's the study design.
+That's something that will be launched in the 2018 to 2021 pipeline.
+And it's just too arbitrary to be able to parse the particular launch timeframe within a quarter or even within the break of an annual year.
+So with regard to the launch of Oreni Plus, that would be near term, sometime between 2018 and 2021.
+Yes, <UNK>.
+We're not content.
+We, at United Therapeutics, look at ourselves as like a restless engine, and we are always on the prowl for new opportunities.
+In fact, we find a lot of companies want to work with us and even would like to be acquired by us, because the culture and the atmosphere at UT is so awesome.
+I know you're like a big statistics guy, like 1-stats figure, is that the voluntary turnover at United Therapeutics is way less than it is at other biotech companies and pharma companies in our peer group.
+So people definitely want to be acquired, and we're interested in acquiring new technologies, new therapies.
+We're interested in both early stage assets such as those that are active in the thromboxane, serotonin pathways, we're interested in more advanced methods of current pathways.
+During the past quarter, we closed a deal with a terrific company named Respira, who once referred to us by one of the leading pulmonary hypertension physicians, Dr.
+Adaani Frost, down in Houston, and we're really excited about this [Ibard] therapy, as I mentioned it in my prepared remarks.
+In addition, we are -- I think we're liked a lot by all of the major banks, including your's, Goldman Sachs.
+And as a result, the investment banking side of those firms bring to us these beautiful binders, they are like, at least an inch thick.
+And in them are pages upon pages of different companies that would they think could be good opportunities for us to acquire them.
+And we are in a very nice situation because we have the best and brightest minds from Goldman and JP Morgan and Wells Fargo and Citibank or what have you, have the best and brightest minds bringing us all of their cool ideas for acquiring companies that would range anywhere from the smaller ones, like I've mentioned, Respira, up to companies that would require, say, an acquisition price in the $1 billion to $2 billion range.
+All of these are fair and interesting gains for us.
+And I see that we are now active in 5 therapeutic areas, we're active in pulmonology, of course.
+Also now with SOUTHPAW IN cardiology, also now with your IRONS study within the field of hematology.
+And as well, you can see, with the 3D SYSTEMS deal that we announced, we also have some very good activity in transplant science.
+So all of these different areas are -- have valuations which are, generally, a little bit more modest than those that you would see in the fifth area, which we're also very keen about, which is oncology.
+But as I know, you folks know at Goldman, valuations right now are sky-high in oncology, that's not to say that we wouldn't make the right oncology acquisition.
+And it would, I think, be a beautiful thing to add to United Therapeutics family of companies, a large acquisition, whether it was revenue generating in the hundreds of millions, or just on the cusp, maybe late-stage, Phase III, promising.
+Nevertheless, something that could justify a very large valuation.
+All of that is very much for our gain and within the of scope of are M&A dashboard that we operator right now.
+Next question.
+Yes.
+It's a step-by-step process.
+And what I like about it is that it's now an engineering process.
+It isn't something that any longer requires fundamental breakthroughs in physics, something that doesn't require new inventions, it requires a step-by-step improvement of the engineering of our current technology.
+So for example, today, we have literally, an assembly line of porcine lung decellularized scaffold.
+And when I say an assembly line, we are decellerizing over 500 scaffolds a year.
+So that would be, once cellularize that, that would increase the supply of lung transplant to 25% in the entire country right now.
+We also have a parallel assembly line in another lab where we recellularize these scaffolds with allogeneic cells, that is with human cells.
+So when the final organ is completed, it looks to the patient recipient just like a human lung even though at its collagen skeleton, if you will, it's -- these are proteins that were originated in the -- by instructions from a pig's DN<UNK>
+Over time, they will get completely replaced by human DNA, directed, collagen will be a completely human lung.
+So these same technologies of scaffold management and recellularization of these scaffolds are exactly the same technology that will apply to the 3D-printed scaffold.
+Of course, the great benefit of the 3D-printed scaffold is that we can make these in any size and shape that is necessary for different patient's chest size.
+And another great benefit is that we can scale up the number of scaffolds far greater than we can do with the porcine decellularization process.
+And finally, it looks to us, like it would be much less expensive as well.
+So the process is to begin printing the scaffolds with our partners at 3D Systems.
+Basically, branch by branch, there are, roughly speaking, 15 to 20 branches of vessels and airways in the human lung.
+So we print these branch-by-branch, they go down to finer-and-finer resolutions.
+As we are printing them in parallel, we are cellularizing them.
+And when we cellularize the reprinted branches, just as when we recellularize the decellularized scaffolds, we test for gas exchange.
+And in fact, it's a magical thing, <UNK>, to watch, we hook up the scaffolds to basically, a kind of an ecmo machine, and the scaffolds themselves breathe in the cells that they are being recellularized with.
+Until finally, in this little bioreactor, the lungs are able to breathe on their own.
+And it's virtually an embryonic type of process.
+So it is the -- the stuff is going through the xeno process with the decell/recell, while the 3D folks are building up their 3D printing, and then mapping over our recellularization technology from the decell/resell onto the 3D printing.
+Finally, on yet a third parallel track, there's some remarkable work being done with successfully teasing out precise cell lines from IPF cells.
+And the types of cell lines that we're most interested in, differ by organ for the lung, there are different types of epithelial cells and a general family of endothelial cells to the predominant cell lines.
+We, at UT, have mastered the technology to expand these cells now into the tens of billions of cells, and which is by the way the amount that you need to recellularize an organ.
+So the IPF cell development activity at UT will ultimately be mapped onto the 3D systems printed scaffold.
+So that rather than having a scaffold recellularized with allogeneic cells, as we're doing today and as we would do at the interim step, the 3D scaffold will be cellularized by the intended patient's own cells.
+And that means, of course, that, that patient will not be obligated to take any immunosuppressants, which is the major factor keeping most people off of transplant list.
+It will be a huge benefit to the patients and to the healthcare system as well.
+Now there will always be people who cannot wait to have a 3D-printed lung, cannot wait to have their IPS cells expanded and regenerated.
+We have a lot of interest from, for example, people who are in first responder type of situations, militaries type of situations, acute lung injury type of situations, where what you need is a very rapid transplant.
+And in those situations, the work in our xenotransplantation group is a perfect solution.
+We plan to move organ transplantation from a paradigm of scarcity, where it is right now with a viciously managed transplant list that keep 99% of the people in need of an organ off the list to a paradigm of abundance, in which organs can be constantly produced and available for people who need them as a result of car accidents, or fire, or other traumas, as well as having those custom-designed for patients that can wait 2 or 3 months for their transplant.
+Because I believe, that there is enough demand, <UNK>, for all of these different organ transplantation technologies we're developing.
+And I really look forward in the 2020s to our biological products being a harbinger of a paradigm of abundance in the field of a transplantation science.
+Sure.
+I'm glad to.
+And this will be the last question, operator.
+So the -- it's not a kind of a thing that you could be super precise about because we're in the realm of human affairs, and there's thousands of patients on these AMBITION therapies.
+But what can be said, largely because we're dealing with relatively large numbers of people, is that about 15%, say, 1 out of every 7 patients or so, who are on combination therapies, experience some morbidity or mortality event each year.
+Now that does not ipso facto automatically mean that, that patient is going to be immediately moved on to an advanced therapy.
+I think in the best case, at the largest treatment hospitals, that would ordinarily be what one would do because it definitely is a bad sign to be suffering these morbidity events, which are things like requiring hospitalization, dropping in New York Heart Association functional class, significant decrement in fixing a block distance, or are significant deterioration in cardio hemodynamics.
+But there are thousands of patients with PA, they're seen all over the country, and many people live in rural areas, not everybody can like get switched to a new therapy right away.
+So in real life, sometimes the rate of patients moving on to the more advanced therapies may be a little bit slower.
+On the other hand, in clinical trials, patients submitted are monitored very intensively and are basically under a kind of, I would say, a subliminal encouragement to remain on therapy.
+Whereas what's usually the case in the real world is patients do worse on therapies than they do in clinical trials.
+So that's a factor kind of tending to move patients more to our therapies more rapidly.
+I have a chart that was prepared for me, it's really interesting, it showed that from the launch of Uptravi, the number of patients on United Therapeutics, declined gradually, small, slow but declining.
+Until the fourth quarter last year when it flattened.
+And then the first quarter of this year, it's an upward slope.
+So obviously, as a CEO of a company, I'm happy to see that more patients are clearly coming on to our therapies, and that what has been a temporary decline in the history of our company since the launch of Uptravi, has now pretty clearly been reversed.
+Now, I've heard there was just a big International Society of Heart and Lung meeting in San Diego, and staff came back and told me that the reports from physicians are that, Uptravi is not working as well as they thought.
+Well, as I mentioned, it's usually the case that in the real world, things don't perform as well as they do in a clinical trial.
+Some people were referring to it as prostacyclin lite, like L-I-T-E.
+I mean, that could be just -- that could be a good and a bad thing.
+Because, prostacyclin does have side effects and perhaps, it's good to have something with lighter side effects.
+But if you need prostacyclin therapy, it's maybe not the time to have the lite one, it's the one -- time to have the real one.
+And so I think these are the kind of factors that are underlying this bottoming out and then upturn in the number of patients on our therapies.
+Whether the revenues will reflect that within 1 quarter or 2 quarters' lag, it's really, really hard to predict, Remodulin and Orenitram, in particular, patients start at low doses because of the side effects profile, I mentioned, and ramp up gradually.
+So you're always going to see a several-month lag between patients and revenue, a patient growth and revenue growth uptick.
+For Tyvaso, there is less of a lag.
+There is some argument that the patients are basically holding on to the orals too long, and then they need to go directly to Remodulin.
+And we're really agnostic.
+We -- all of our sales reps know that their job is to educate physicians on Orenitram, Tyvaso and Remodulin.
+Once patients are on their therapeutically ideal dose, we are really revenue-agnostic in terms of whether they are on Orenitram, Tyvaso, Remodulin.
+All 3 of those drugs were designed to be pretty much priced equivalent to each other because they all have the same active pharmaceutical ingredient.
+So the bottom line is that the prospects for UT are super good.
+There's never been a larger backlog of patients who require our therapies and therefore, the prospects for continued growth and significant revenue growth across all 3 of our therapies have never been better.
+Thank you very much.
+Operator, you can conclude the call now.

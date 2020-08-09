@@ -1,0 +1,226 @@
+Thank you, <UNK>
+Good afternoon, everyone
+We delivered good year-over-year revenue and earnings growth in the June quarter
+Total revenue was $1.309 billion at the high end of our guidance range, with growth driven by record revenue in Switching and continued strength in the Cloud vertical
+We delivered strong profitability metrics, with year-over-year growth in operating margin, operating income and diluted earnings per share
+I'm pleased with our overall performance as we continued to benefit from our diversification strategy
+We're executing on our strategy to lead the transformation to the cloud, and I'm happy with the continued strength in our cloud-oriented solution across our key focus verticals
+Enterprises continued towards digital transformation by adopting hybrid cloud and SaaS models
+Top of mind for many of our customers are security and visibility of data and workloads in a multi-cloud environment
+Telcos are going through a significant transformation as trends such as SD-WAN, 5G, IoT, and overall broadband growth are driving the need to evaluate Cloud-grade architectural shift in order to increase automation, reduce costs and enable greater service speed and agility
+In the quarter, we unveiled Cloud-Grade Networking to accelerate agility and innovation in the cloud era
+Cloud-Grade Networking builds on carrier-grade reach and reliability and enterprise-grade control and usability, bringing cloud-level agility and operational scale to networks everywhere
+This announcement includes two new foundational products: Junos Node Slicing and Universal Chassis, which reduce operational overhead and create an environment for operational agility to thrive
+Junos Node Slicing is a critical technology in the transition to Cloud-Grade Networking and in particular, the movement to disaggregated networking at the edge
+By enabling the ability to run multiple isolated services at the edge, combined with a powerful and efficient data plane, service providers and enterprises can optimize their infrastructure while offering differentiated services with enhanced operational and administrative isolation within a single chassis
+This is enabled by converging multiple concurrent services on the same physical routing infrastructure
+This differentiated technology has already enabled a Tier 1 service provider network win for us, and we expect that we'll have broader impact as our customers learn about its powerful benefits
+Universal Chassis is a breakthrough system allowing customers to standardize on a hardware platform across their data center, core and network edge
+It is designed to provide customers with the ability to adapt to ever changing business requirements with a common hardware platform that supports a continuum of optimized switching and routing use cases across their network
+Universal Chassis can create significant value for our customers by enhancing their ROI through reduced qualification and logistics cost along with greater investment protection
+Now, I would like to summarize the highlights across Switching, Routing and Security
+In Switching, we saw continued momentum with year-over-year and sequential revenue growth across all verticals
+Two effects continued to see strong year-over-year growth in cloud data center, driven by the industry's migration towards 100-gigabit infrastructure and as our customers adopt end-to-end solutions with Juniper's ToR and spine portfolio
+We also saw year-over-year and sequential growth in our EX products
+In Routing, the MX had good year-over-year and sequential growth
+And we also saw strength in our PTX products within our cloud customers and new insertions in telecom in the second quarter
+In Security, we announced enhancements to our Software-Defined Secure Networks platform and expanded our public cloud offering with the introduction of virtual SRX 4.0. Our SDSN enhancements deliver pervasive security across multivendor environments, public clouds and private cloud
+Juniper's SDSN platform and its ecosystem help organizations unify security for their networks, giving customers a streamlined way to integrate products and manage their security operation regardless of the vendors they choose
+In addition, we continue to add new logos to our Sky ATP customer portfolio
+In the quarter, we continued to see momentum with Contrail and had several new customer wins, including a large Strategic Enterprise customer in APAC and a large telecom customer in EMEA
+AppFormix and Contrail have been integrated for seamless operations management of Juniper's hardware and software
+This allows us to bring the powerful machine-learning capabilities of AppFormix to our entire portfolio of products, and we are now applying this capability in various customer use cases
+We had another strong quarter in our services business, where we saw strong renewal and attach rates of support contracts and an increase in demand for professional services
+To summarize, I'm pleased with our execution and the continued momentum we are seeing in our Cloud vertical and our Switching business
+I am proud of the strength in our product and services portfolio and excited about the opportunity we have in front of us
+We saw good momentum in the first half of the year, and we anticipate delivering revenue and non-GAAP earnings growth for the full year
+I would like to extend my thanks to our customers, partners and shareholders for their continued support and confidence in Juniper
+I also wanted to thank our employees for their continued hard work and dedication to successfully execute on our strategy and create value for all of our stakeholders
+I will now turn the call over to Ken, who will discuss our quarterly financial results in more detail
+Actually, Rod, let me start
+And then Ken, why don't you weigh in? So on the first question around growth, goes without saying we're pleased with what we've seen in the first half of the year
+We're off to a strong start for 2017. It certainly gives us confidence that we can meet our objective of achieving revenue growth and earnings growth in 2017 all up
+Having said that, with respect to the specific verticals, remain optimistic about Cloud vertical
+A lot of focus inside the company at maintaining the momentum in the Cloud
+However, we've always said that the Cloud vertical is going to have some lumpiness
+There's going to be a timing of deployment factor that we need to weigh into our overall outlook on a quarter-over-quarter basis
+Telco, it's going to be more of the same
+I think nothing really changes all that much either in the positive or the negative direction
+The engagement level with our telco customers is very high
+And it's all very much around new architectures, new ways of driving service revenues, et cetera
+But the new mode of operation, the new build-out that drive these new modes of service delivery are just going to take some time
+So we're not expecting anything materially different in the short term
+Enterprise, there actually in Q2, we saw some good momentum with the exception of the federal government
+And there, we have to see how the federal government spending plays out for the rest of the year
+But generally speaking, we've done a good job in compensating for weakness in federal government with the broader enterprise
+So all up, we remain optimistic about the year, and we're off to a solid start in achieving both revenue and margin growth for the full year
+Sure, <UNK>
+I'll start with the question about Routing
+And then we'll address the first question or the point of clarification you're asking about
+The routing market is largely driven by the Telco vertical and the Cloud vertical
+And those are a little bit of a tale of two cities right now where the Cloud is really spending quite a bit on their wide area networks, making sure that their customers for their Cloud services continue to get the optimal experience
+And that involves investments in their wide area network
+That's somewhat offset by weakness in the Telco vertical, all up, which is obviously significant factor in Routing
+So yes, traffic is growing
+But there are sort of other factors at play that results in Routing from a revenue standpoint or total addressable market standpoint not growing all that well
+Having said that, I think that there are some things that are going to be happening at some point in the future around metro buildouts, around new modes of delivering services to enterprises that leverage things like new Cloud-managed solutions to connectivity and security that we are very much engaging with our customers on today, difficult to tell exactly when that will result in actual revenue growth for us
+But that said, we're doing everything we can right now to participate in those new modes of spend when they become a reality in the market
+The last thing I would say about Routing is there is a big geographic component to this
+China is a country that's still investing quite heavily in routing today
+They're driving a lot of the world's sort of wide area traffic growth
+And in order for us to participate effectively in that market beyond the level that we are today, we need partnerships
+And there is a, as you know, quite a bit of focus right now by the company on creating partnerships such as the one that we have with Lenovo today, that will enable us to tap into that market as effectively as possible
+And just to add some color on the first question, <UNK>a, I appreciate the question
+Juniper has always been a company that has derived much of its success by focusing on those that operate the world's largest, most scalable networks
+And that's certainly true for our service provider on our Cloud vertical
+So, in some sense, due to reasons of strategy where we're focusing as a company, where our strengths lie, and the concentration of where spend is happening in our industry, concentration in our business is not new
+I think the timing of deployments just so happened that resulted in a little bit more concentration than usual in the Q3 timeframe
+I'm not prepared at this point to provide any additional details just for reasons of confidentiality about the specific customer though however
+So, <UNK>, I appreciate the question
+We're just off to a really solid start this year
+I think, as you saw in the Q2 timeframe, we sort of hit the high end of our revenue range
+Part of that had to do with sort of just timing of deployments of big projects that we have been working on
+There is no change to our confidence in terms of our strategy, our ability to execute, our products that we have in the market today and the products that we're working on that we know that will be out in the market in the future
+And also our vertical focus, so the Cloud vertical continues to be a really important vertical for us
+I don't think that there's going to be any material slowdown in terms of their need to invest in their networks to keep ahead of the traffic that they are seeing on a yearly basis
+But we just have to factor into all of this the timing of those deployments and the timing of the projects
+And I think you also mentioned Switching
+Obviously very happy with the Switching performance that we have demonstrated well ahead of our long-term model
+I think we've said in the past, and I'll say it again just now, that expecting that level of ongoing outperformance at Switching is probably unrealistic only because the numbers start to get big
+But that said, the new products are doing really well
+Our customer adoption is excellent
+The feedback that we're getting from our customers and our partners is also very, very encouraging and there is a lot more room for us to grow and take market share in the Switching business
+Sure, Jeff
+Let me start
+On the question around Switching, we have expected and we have seen that Switching is in fact the main growth driver for the business
+I expect that to continue with the comment I just mentioned around the fact that expecting these levels of outperformance relative to our long-term model in Switching to – at some point they're going to moderate
+But that said, that's not a comment at all that I think you should take that would demonstrate a lack of confidence in the product, the technology and the market focus
+All of that I would say is working really, really well for us right now
+And on the point around spine switches, the main intent of our spine switching products has been to enable us to participate in and compete for net new Switching business, especially in the data center
+And that's exactly what they're doing
+So even in opportunities where we're coming in with the spine switches and, of course, our top of racks, the bulk of the revenue that we'd see could be in other areas of our portfolio like in the top-of-rack switching but we would not have an ability to compete or to win without the breadth of that portfolio
+So it's as expected and we're very pleased with the momentum thus far
+And I think it will continue in terms of being a growth driver for us for the rest of the year and for the foreseeable future
+Let me address that
+So Cloud-Grade Networking includes a number of different sub-products
+One of them is really around this concept of a Universal Chassis
+Ken just talked about how we as a company are operating and executing with far more efficiency
+It's true in our engineering group, it's true in other parts of our organization as well
+Well, one of the ways in which we're achieving that is by developing fewer products that address a broader market opportunity
+This concept of a Universal Chassis has the ability to address a number of routing or switching use cases
+And it adds tremendous value for our customers because it gives them an ability to evolve their deployments, their investment protection to address a variety of different use cases as their business requires it
+The Universal Chassis, the first iteration of it is in the market today
+It's a product that supports both routing and switching, and eventually will also support edge routing capabilities as opposed to just core routing capabilities
+And while it's still early, typically these things take a couple of quarters, maybe nine months to get to revenue, I do expect revenue for this first iteration of Universal Chassis in the second half of this year
+And of course, the innovation engine continues to crank
+So across Routing, Switching and Security, you can expect that there's going to be a number of new products that will continue this ongoing cycle of refreshes, and of course that will help us in maintaining the momentum that we've seen thus far over the last couple of years
+Thanks, <UNK>, both good questions
+First on the appointment of Bikash Koley as CTO, very, very happy with this hire
+Just as a reminder, Bikash hasn't actually joined us yet, but we anticipate that he will in the next month
+What he brings to the table are a number of different things, but I'll just sort of summarize it in a couple of different ways
+First and foremost, you know that we have over the last couple of years, really honed in our strategy on what we believe is the biggest trend that is impacting our industry
+And that is the Cloud
+It's by no means saying that this means that it's just around the hyperscalers or the cloud operators
+Cloud is in fact an architectural evolution that's becoming a way of life across every vertical that we participate in today
+And all of our customers in these verticals, whether they be Telco, Cable, Enterprises, government and of course the hyperscalers are looking for real leadership from a product direction, from a services direction that helps them to make this transition to a cloud architecture that helps them become far more agile and to save money, just as the hyperscale providers have demonstrated can be possible
+And of course, Bikash has been a part of that at his current employer, Google
+Secondarily, I believe and I've always believed that having real technical knowledge, not just in the products themselves, but in the operation of products and the operations of networks, allow you to develop better solutions for your customers
+And Bikash has that as well
+I mean, he has now spent a number of years running what is a large network
+And that knowhow helps us in developing better solutions, I think, for all of our customer base
+Moving on to the question around Security, so yes, we would look to both organic or inorganic
+But quite frankly, the focus right now on Security has been on achieving stability and returning to growth
+And that means a lot of organic work execution that's necessary to turn around this part of our business
+We continue to enhance our product offering with recent emphasis on the enterprise and the mid-range where we actually start – have started to see some momentum
+We are getting positive data points from customers, from partners
+We're seeing some geo specific momentum so, whereas, EMEA was a bit of a challenge for us in the Q2 timeframe
+Actually there was momentum in Security in EMEA, which gives us some confidence that we're innovating in the right way
+And very importantly, Security has become a critical element of some of these future modes of engagements with our customers
+So as we talk to our customers around SD-WAN, for example, one of the really differentiating attributes of our SD-WAN solution is that it has Security embedded
+So while we're starting to win opportunities in the SD-WAN space, we haven't yet seen the revenue that will help the Security number, which I anticipate we will start to see in the future
+Once we get the stability, I think, yeah, there is certainly a possibility for us to start to look at inorganic approaches to accelerate the momentum in our business
+But we're taking a deliberate, methodical approach right now to this part of our business
+Well, so if you look at – what we've done just historically, we've made a couple of acquisitions in the optical space
+We believe there is an architectural inflection point where customers can achieve vast levels of cost efficiency by managing and operating their networks across packet and optical
+And then the last one was a company called AppFormix, which is around automation, in particular, in the cloud data center, but has much broader applicability than that
+And that would be sort of indicative of what you might expect in the future as well
+I just mentioned Security
+Even in the domain of Security, I think any sort of inorganic activity that we would contemplate or explore would be more around the new modes of security, not so much of around sort of the physical perimeter firewall which is current mode
+New mode is around enabling customers to migrate to public clouds or to hybrid cloud offerings without compromising their data, their users, their workloads
+I think, there's quite a bit of innovation right now in the industry in that domain and that would be an area that we would consider as well
+<UNK>, first, I want to understand a little bit more about your first question
+When you say dual sourcing, are you talking about the intent of cloud providers to dual source their
+I mean, the Cloud vertical for us is not a new vertical
+I mean, we have been in this vertical now for as long as I can remember
+And we have been, sort of, intimately tied down at the engineering level with our cloud customers now for a number of years
+And it's always been a very competitive environment
+So, by no means do I ever feel like there – that we don't need to be on our toes
+We're always having to demonstrate to them how we're innovating in ways that are very, very specific to the kinds of network that they're building out, the operational models that they want to deploy, the telemetry capabilities that they want, et cetera, et cetera
+And yeah, some of them do have sort of an internal strategy to go to dual vendor – dual vendors to procure that technology
+But even in those circumstances, our goal is to always get the lion's share by demonstrating that we can perform better or innovate in a more appropriate way for their business
+On Security, and I think, the question was around whether we're driving Security products in the Cloud vertical
+And that certainly is the case, but I will say that different cloud providers have very different security requirements and security models that they deploy inside of their networks
+In some cases, they believe in the big iron that sits at the edge of their data centers, for example, and secures traffic going in and out of those data centers
+For that, we have a fantastic product, our high-end SRX
+But that business will be very lumpy from quarter-to-quarter depending on where the deployments are
+In other cases, it's really more around securing through micro segmentation inside of the cloud network
+And that's really more around a software approach to security, and that's more of an emerging opportunity for us at Juniper
+Maybe, <UNK>, it's worthwhile just summarizing the areas of focus that we currently have with respect to gross margins
+First, there is opportunity when it comes to value engineering
+And there is a concerted effort right now in the company to optimize our products for cost of goods sold in a way that will help gross margins
+Secondarily, I mean, Ken has mentioned how we've gone after strategic customer insertions in particular in APAC, and we need those to pay off over time
+Third, there's innovation
+And one of the questions I was just asked around where are you contemplating inorganic moves, one area I did not mention is the area of silicon photonics
+The primary reason is because we believe that there is an opportunity there through innovation to achieve better cost of goods sold from an optical standpoint
+And last but not least, it's around business models and it's around software
+It's around selling the value through Contrail, virtual security, SD-WAN
+All of these emerging opportunities I think have the ability to not just help top line, but to also help gross margins
+But they're largely going to be gated by how fast the industry moves
+Now, we're out there sort of really selling the value to our customers
+We're encouraged by the wins that we're getting, but it's sort of the timing of the benefit is not 100% clear at this point
+<UNK>, let me start with the Security question first
+So, I outlined the main areas of focus
+I also provided some of the data points that we are now picking up on that give us some confidence that the work that we are putting in is going to pay off for us
+I believe the second half and in particular Q4 would be sort of a quarter that I would expect to start seeing some year-over-year growth in the security market
+So that's how I view the opportunity right now in Security and how we are expecting the rest of year to pan out
+And Ken, do you want to talk a little bit more about gross margins?
+Okay
+<UNK>, let me start with the second one, the Tier 1 versus broader Cloud
+We don't break it out, first of all, but I will say the following
+Our penetration in the Tier 1s from a Routing standpoint is one that has been in place now for a number of years
+So we've certainly had way more runway and way more of an ability to achieve the kinds of penetration across our Tier 1 Cloud customers in the Routing space more so than we've had on the Switching side of things
+In Switching, we view it as more of an opportunity
+We certainly have a strong Tier 1 presence in Switching, but we have less market share and penetration than we do in Routing
+And, therefore, that's certainly a potential growth area for us
+In the meantime, I think what I have said on this call in the past is that there is a broader opportunity in the cloud space, not necessarily with the hyperscalers, but the broader cloud market when you look at SaaS providers, regional cloud providers, telco cloud that's here now that we are benefiting from
+I mean, a lot of our business momentum in fact is from that tier of cloud provider
+And I think that's a very healthy thing
+Price erosion, again, is not something that is easy to describe without a whiteboard and some slides
+We can certainly do something like that maybe at our next Analyst Day
+But it's the nature of this business that we're in
+Every time a new port speed is introduced into the market, as it achieves mass adoption, you will expect, as we would do, that pricing will start to go down and it offsets the benefit that you would get from the traffic growth alone in the market
+So all up, the Routing space is roughly a sort of a flattish type of total addressable market from a growth standpoint, but traffic is growing at 40% plus year-over-year
+So that would give you an idea of the price erosion that we're seeing in that market space
+In the data center switching side, there of course, there is price erosion just as there is everywhere
+However, I think that market is growing at a faster clip than in the data center and that's why we are so focused on data center switching as part of our strategy
+Thank you, Steve
+First from the standpoint of hyperscalers, I think we acknowledge that this is a competitive market and especially as we demonstrate the momentum and the success, we can expect that the competitive levels to only intensify
+Having said that, I think it really is just a matter of execution for us, execution from the standpoint of how we engage with them, execution from the standpoint of our innovations and on all fronts, I feel good about where we are and where we're going relative to the hyperscaler opportunity, in addition to the broad Cloud opportunity that is before us
+And as far as Cisco's announcement, I have been now for two or three years talking about automation as being the next big thing in networking
+There's a very important reason for that
+If you think about what our customers across every vertical want more than anything else, it is the ability to move fast, to innovate quickly and to do so with a certain level of cost efficiency
+You achieve that by first, providing them with innovative Routing, Switching, and Security products that outpace Moore's Law from an economics of traffic movement standpoint
+But importantly, considering that most of our customers invest far more in the cost of operations than they do in CapEx, the only way to address that problem is through automation
+And for that reason, we've always had a lot of automation capabilities across our platforms, whether it be the automation capabilities of our systems themselves, the API driven nature of those systems, Contrail has a way of automating Cloud operation, AppFormix has an ability to provide machine learning capabilities to create visibility inside of a Cloud data center, our NorthStar Controller is essentially an automation platform for our wide area
+So I think it's good to see our peers in the industry recognize the importance of this trend, and it has been and will continue to be a huge area of focus for us
+Yeah, thanks
+I appreciate the question
+In Switching, this is pretty consistent with what we've done historically
+We don't necessarily break out the performance of all of our specific product lines
+And we didn't do that for QFX in Q2. However, I think it's safe to say that we would not be able to post this type of overall Switching momentum without strong QFX performance
+So we're very happy with the performance of our QFX product line in the Q2 timeframe
+It's a result of a deliberate strategy and some really solid execution by the team, which I am very proud of
+EX is more of a campus-focus product, although it does see some data center and combined campus data center type of converged build-outs
+And we saw good momentum there in the Q2 timeframe as well
+Our primary strategy is on the data center, the Cloud, and these larger enterprises that are building out their campuses as on ramps to the Cloud
+And for that, you need a high degree of performance, operational simplicity and automation and I think the EX from all three of those dimensions is an extremely competitive product

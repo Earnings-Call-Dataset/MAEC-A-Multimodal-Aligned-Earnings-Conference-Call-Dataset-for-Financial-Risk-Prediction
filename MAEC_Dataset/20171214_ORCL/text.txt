@@ -1,0 +1,118 @@
+Thanks, <UNK>
+Good afternoon, everyone
+I’m going to focus on our non-GAAP results for Q2. I’ll then review guidance for Q3 and turn the call over to Larry and <UNK> for their comments
+As you can see, we had another excellent quarter
+Customer adoption of our Cloud products and services continues to be very strong and what we have called our on-premise business remains robust
+Bottom line, our transition to the Cloud is going well
+Despite the currency benefit being less than my guidance, total revenue was more than the high end of my guidance range and earnings per share was at the high-end even at a higher tax rate than expected
+Cloud SaaS revenue for the quarter were $1.1 billion, up 47% from last year
+Fusion Cloud revenue was up 56% for the quarter
+Cloud PaaS and IaaS revenue for the quarter was $398 million, up 20% from last year
+But just as a reminder, part of the Cloud PaaS and IaaS business is our legacy hosting services which don’t share the same high growth characteristics as PaaS and next-gen IaaS services
+This portion of PaaS/IaaS saw growth of 46% in CD and 49% in USD, while the traditional hosting services, which we are de-focusing, were down nearly 10%
+As traditional hosting services become a smaller part of total PaaS and IaaS, the underlying growth of PaaS and next-gen IaaS will be more visible
+I want to also take a moment to review the announcements we made in October of bring your own licenses, what we call BYOL and autonomous database
+Unlike the applications business where customers move to SaaS subscriptions, stop buying upfront licenses and shelve application support, BYOL customers can leverage their years of investment in Oracle database and technology software and bring those licenses to the Oracle cloud infrastructure instead of cancelling their licenses and support and moving to rent new licenses
+With BYOL, we are seeing a strong increase in our technology installed base as customers renew their unlimited license agreement, invest in more licenses and options and renew support
+Because BYOL is now available and customers better understand their transition options to move to the Oracle Cloud, technology new software license revenue is dramatically improving from the declines we were seeing previously
+We expect this trend to continue as we roll out Autonomous Database as customers license the options and technology they need
+We expect to continue to take share in database
+Now, total cloud and software revenues were $7.8 billion, up 7% in constant currency and up 9% in U.S
+dollars
+In fact, we’ve consistently overachieved our software and cloud revenue forecast the last seven quarters
+I focus on these numbers, which we refer to as the ecosystem revenues, because that is where all of our software assets come together and you can start to see the powerful dynamics of the business, especially with our BYOL model
+Total cloud revenues in the quarter were $1.5 billion, up 39% from last year
+Total on-premise software revenues were $6.3 billion, up 1% from last year, reflecting stable software license and continued high attach of software support and renewal rates that reflect the stability of our installed base of customers
+GAAP application total revenues which is new licenses and support and SaaS, were $2.7 billion, up 13% and GAAP platform and infrastructure total revenues, which includes new license and support and PaaS and IaaS, were $5.1 billion, up 4%
+As for cloud margins, our SaaS business continues to scale and grow and the gross margin has expanded to 66% up from 59% last Q2. We expect to see further improvement in FY 2018 and we remain committed to our goal of 80% SaaS gross margins
+The gross margin of PaaS and IaaS was 40%, down from 44% last quarter as our geographic buildout goes forward in response to demand but ahead of the bulk of new revenue recognition
+When we are at scale, I expect to see major improvement in PaaS and IaaS gross margin
+Hardware revenues were $940 million, down 9%, and service revenues were $856 million, essentially unchanged in constant currency
+Total non-GAAP revenue for the company were $9.6 billion, up 4% from last year and 6% in U.S
+dollars
+Non-GAAP operating income was $4.2 billion, up 8% from last year, 10% in U.S
+dollars
+The operating margin was 44%, which was up from 42% last year
+The operating margins have now increased year over year for five consecutive quarters and while I can’t promise this will happen every quarter, I do expect that operating margins will continue to expand
+The non-GAAP tax rate for the quarter was slightly higher than expected at 25.2%
+As a result, EPS was $0.01 less at $0.70 a share in U.S
+dollars, up 14% in U.S
+dollars, 12% in CD
+The GAAP tax rate was 22.1% and GAAP EPS was $0.52. Operating cash flow over the last four quarters was $14.6 billion, up 2%, and free cash flow over the last four quarters was $12.5 billion
+Capital expenditures for the quarter were $599 million
+I expect the cloud CapEx spending would be driven by our ARR growth and the PaaS/IaaS buildout that I mentioned earlier
+Obviously, should we see higher than expected ARR growth, we’d expect to see higher CapEx investments as well
+Now we have more than $71 billion in cash and marketable securities but net of debt our cash position is $10.9 billion
+The short-term deferred revenue balance is $8.1 billion, up 6% in constant currency
+This quarter we repurchased nearly 41 million shares for a total of $2 billion
+Over the last 12 months we’ve repurchased 74.5 million shares for a total of $3.5 billion
+We also paid out dividends of nearly $3 billion
+The Board of Directors increased the authorization for share repurchases by $12 billion and again declared a quarterly dividend of $0.19 per share
+Now to the guidance for Q3. My guidance is on a non-GAAP basis and in constant currency
+However, there has been some currency movement and assuming current exchange rates remain the same as they are now, currency could be as much as 3% positive on total revenue or $0.03 positive on EPS
+So, for Q3 in constant currency, Cloud revenue including SaaS, PaaS and IaaS are expected to grow 21% to 25%
+Total revenues is expected to range from 2% to 4%
+Non-GAAP EPS in constant currency is expected to be somewhere between $0.68 and $0.70. That puts the USD earnings per share at $0.71, and $0.73. This assumes a non-GAAP tax rate somewhere around 24%
+Of course with the current and very real possibility of tax reform, the Q3 tax rate could easily end up being very different especially to the extent that there is repatriation
+With that, I will turn over to <UNK> for his comments
+Well, I think our capital expenditures will be very similar to last year
+As I mentioned to you last year, we spent about $1 billion in kind of CapEx associated with the cloud
+We spent about $1 billion in our real estate expansion
+And the way that CapEx works really is there’s a certain amount when we open data centers, and that cost quite a bit to just get started
+And then the buildout is a little bit less because there’s abasing starting block
+So I think we -– and what happens is you start to get really major economies of scale as you – once your setup is basically set up, straight and ready to go
+So I see it like last year
+A lot of growth, about half of it is in real estate which I don’t expect to continue necessarily as much on that side
+So no, no deceleration, just trying to get some economies of scale as we build out
+We’ve got some plans but nothing
+Now the revenues are coming in so that’s why we’re having the improvements in margins
+Yes, absolutely
+So it’s not only BYOL
+It’s also in preparation for Autonomous Database
+So understand that to get the benefit of Autonomous Database in the Oracle cloud, you bring your own license, but you may also, you will also need depending on which service you need, you’re going to need some of the options in addition
+And also, as you bring your own database licenses, you’re going to want to have app server licenses and middleware licenses in order to work with your database
+So all of that, that BYOL is a fundamental change and is significantly different from how SaaS works
+And that’s what I try to explain
+In SaaS, you are now doing a SaaS subscription, you’re no longer using your license
+You don’t need to buy more licenses, and you shelve your support
+With BYOL, you buy additional licenses, you bring them to our cloud and you continue to pay support
+And that is going to be very significant going forward
+And it’s already, you already see it in this quarter already
+And we announced it in OpenWorld
+The mechanics are not automatic, so let’s actually set this up
+What has clearly happened, and I could already see this even at OpenWorld in talking to customers, they now understand that they will want to have more licenses
+So as their unlimited agreements are starting to expire, they could have historically pick up
+I’m going to rent all my licenses going forward, there’s no point in owning them, they would’ve certify those licenses and stopped buying additional and renewing unlimited agreements
+So what they’ve now seen is there pathway with BYOL gives them complete flexibility of when they are ready to move to the cloud, but that there’s a benefit in owning your licenses and buying more and renewing support
+So customers moved to the cloud when it makes sense for them
+Autonomous Database, which is coming out in a little while here, that’s going to be an enormous driver for customers to actually move there important workloads to the cloud
+You understand? The two are related, but not the same
+Larry, I don’t if you want to
+So there are a few things going on here
+Remember, when you bring your own license to Oracle IaaS, the service you purchase is more expensive than the basic IaaS because you get all of the autonomous – all of the capability you wouldn’t otherwise get, first of all
+But you cannot divorce the margin of just IaaS without remembering that both licenses are being purchased, and support is continuously paid
+That’s why you heard me say, maybe you heard me say, the so-called on-premise license, because it’s actually now that we’ve launched BYOL, it is actually a misnomer because the customer – it’s currently categorized on our income statement as on-premise software and support, for that matter
+Those are called on premise, but there’s nothing on premise about them
+You can bring them to the cloud
+So you have to understand how much money in that pool because with SaaS on the applications side, remember, we don’t sell you a new license, you no longer renew your support, and you start renting SaaS licenses and the service all bundled together
+So in this case, to the extent that - and, by the way, I just want to be clear, customers have the option if they don’t want to bring their own license, to buy, to rent licenses through PaaS
+That’s also available to them
+But financially for both them and us, it actually works out best if they bring those licenses and those with unlimited agreements can bring an unlimited amount of licenses to our cloud as well as continue to use whatever they’ve got still on premise at their own state while continuing to pay support and buying additional licenses
+So the math is more complete and very profitable for both us and the customer
+Well, to the extent that repatriation is part of the final bill, and to the extent that whatever is the rate for the cash that we bring back, either what we actually have or the deemed repatriation, that will make available to us under $60 billion, depending on the tax of cash that we can use for whatever would be available for us
+We haven’t made any decisions about how we would use it
+I believe that it is mandatory repatriation
+So, a tax will be due on all cash outside the United States for all of those companies, and I believe we’d need to book it, or at least book an estimate for it in the quarter that the tax law changes
+That will make our tax rate look sort of strange, but, of course, I’ll disclose the amounts and all that
+I’m not sure that the final rate has been set, and, whether it will actually stay in the bill
+So, we hope it does
+We hope they do move to a territorial system
+It will make us more competitive, and we look forward to that
+For your first question, yes, I think that operating income is going to grow faster than revenue because we get economies of scale, we have margin improvement, and the business is growing
+And when it grows, we get economies of scale that allow us to grow income, operating income faster than revenues
+And I’m quite sure of that
+I think you should not confuse bookings with revenue, and PaaS and IaaS forecast looks good
+I’m not giving you – I’m not breaking them down for you, but I expect them to be positive and consistent with what you would have seen
+And just as a reminder, the PaaS/IaaS includes a piece that is not growing and a piece that is growing
+The piece that’s not growing is like 200 something, 240 – I can’t remember
+No question because the PaaS/IaaS that we care about, the one we’re focused on is growing 40 something percent

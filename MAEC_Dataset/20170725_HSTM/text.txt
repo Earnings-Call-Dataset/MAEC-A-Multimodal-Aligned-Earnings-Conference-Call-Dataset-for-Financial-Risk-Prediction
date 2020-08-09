@@ -1,0 +1,318 @@
+Good day, ladies and gentlemen, and welcome to HealthStream's Second Quarter 2017 Earnings Conference Call.
+(Operator Instructions) As a reminder, this conference is being recorded.
+I would now like introduce your host for today's conference, <UNK> <UNK>, Vice President of Investor Relations and Communications.
+Ma'am, you may begin.
+Thank you, and good morning.
+Thank you for joining us today to discuss our second quarter 2017 results.
+Also in the conference call with me are <UNK> <UNK>
+<UNK> Jr.
+, CEO and Chairman of HealthStream; and Gerry <UNK>, Senior Vice President and CFO.
+I would also like to remind you that this conference call may contain forward-looking statements regarding future events and the future performance of HealthStream that involve risks and uncertainties that could cause the actual results to differ materially from those projected in the forward-looking statements.
+Information concerning these risks and other factors that could cause the results to differ materially from those forward-looking statements are contained in the company's filings with the SEC, including Forms 10-K and 10-Q.
+So with that opening, and I'll turn it over to Bobby <UNK>.
+Thank you, Bobby, and good morning, everyone.
+I'll provide some additional information about our financial results, including certain items that impacted the quarter.
+For the second quarter, consolidated revenues were up 12% to $65.1 million.
+$61.5 million.
+I'm sorry, $61.5 million, excuse me.
+Operating income of $2.9 million was up 23% versus operating income of $2.3 million in last year's second quarter.
+Net income was $2.3 million.
+Earnings per share was $0.07 versus net income of $1.4 million and $0.04 per share earnings in the second quarter of 2016.
+Adjusted EBITDA was up 25%, as Bobby just mentioned, to $9.9 million or $7.9 million in last year's second quarter.
+During the second quarter, the Morrisey Associates acquisition, which closed in August of 2016, contributed approximately $2.6 million of revenue and incurred an operating loss of $416,000, primarily due to the deferred revenue write-down accounting convention.
+Now let's look at the 4 areas of the income statement: segment revenue, gross margin, operating expenses and operating income.
+Revenue.
+Revenues from our Workforce Solutions segment increased by $4.1 million, while overcoming the $2 million year-over-year decline in ICD-10 readiness revenues in the second quarter.
+Now let's take a look quick look at the Workforce ARIS.
+For the second quarter of 2017, HealthStream's Workforce ARIS was $38.16, which is up when compared to last year's second quarter of $35.70 and this year's first quarter of $37.68.
+So we grew ARIS both quarter-over-quarter and sequentially.
+ARIS, as we discussed in previous quarters, is also subject to movements that can seem counterintuitive.
+For example, adding a highly desirable number of subscribers can actually drive the ARIS down if the amount sold to each subscriber does not equal the -- or exceeded the actual previous quarter's ARIS.
+Similarly, losing subscribers who pay less than the previous quarter's ARIS can drive ARIS up.
+It's also important to keep in mind that ARIS does not include a complete look at our business, as 2 of our 3 business segments, Patient Experience and Provider Solutions, are not included in ARIS at all.
+We continue to evaluate new metrics that encompass all of our business.
+Revenues from our Patient Experience Solutions segment in the second quarter of 2017 were $8.6 million compared to $9 million in the second quarter of 2016.
+Revenue from Patient Insights surveys declined by $140,000 and continued the trend towards greater adoption of online patient surveys, which carry lower price points than phone surveys but produce higher margins for us.
+For example, for the first 6 months of 2017, the volume of phone-based patient surveys declined 28%, while online patient surveys increased by 12% in the same period.
+However, the Patient Experience gross margin has increased by 400 basis points over the first half of this year.
+Revenues from other Patient Experience Solutions, including surveys conducted on annual or biannual cycles, decreased by $266,000 compared to the second quarter of last year.
+This decrease is primarily due to the timing of engagements compared to the prior year.
+In the second quarter of 2017, revenues from our Provider Solutions segment increased by approximately $3 million, with Morrisey Associates acquisition representing approximately $2.6 million of that increase.
+Now let's look at gross margins.
+Our gross margin was 57% this quarter versus 59% in last year's second quarter.
+The impact of the Morrisey deferred revenue write-down and the final rule on office closure cost are the primary reasons for this lower gross margin.
+This quarter does represent continued sequential improvement as the gross margin has increase from 55% in the fourth quarter of 2016 to its current 57%.
+Let's turn our attention to operating expenses.
+Operating expenses for the quarter were up 8% over the second quarter of 2016.
+The combination of capitalized software investments and product development expenses grew by 8% year-over-year, even though the product development category on the income statement showed a year-over-year decline of $200,000.
+Sales and marketing expenses increased mainly due to higher commissions costs.
+Depreciation and amortization also increased 29% over last year's second quarter, reflecting increased levels of capitalized software development amortization and the amortization of acquired intangible assets from the Morrisey acquisition.
+G&A expenses in the second quarter of 2017 were relatively flat but improved as a percentage of revenue to 13.9%, which compares to 15.6% in the second quarter of 2016.
+It's important to note that the G&A expenses are subject to increase in the second half of this year as we incur implementation and compliance costs related to the new GAAP [rev] -- recognition accounting standard known as ASC 606.
+We anticipate that this expense will be approximately $1.3 million over the next 6 months.
+Operating income.
+Operating income was $2.9 million in the second quarter of 2017 compared to $2.3 million operating income in the second quarter of 2016.
+The increase in operating income reflects leverage on our product development and G&A expenses, while we overcome the $1 million margin loss from the decline in ICD-10 revenues, the Morrisey deferred revenue write-downs and the higher depreciation and amortization expenses I just mentioned.
+Now our balance sheet.
+Our cash position and the overall balance sheet remains strong.
+Our cash balance at June 30 was approximately $116 million, a $30 million increase since December 31.
+A significant contributor to this cash balance has been improved collections.
+The sequential drop in DSO to 71 days at December 31, 2016, to its current 57 days resulted in a $7.5 million reduction in accounts receivable balances.
+We have no outstanding debt, and our full $50 million line of credit capacity is available to us.
+We believe our overall capital position is likely to support our organic and inorganic growth opportunities and support other capital structure optimizations and true [value] maximization strategies as may be appropriate.
+Cash flow from operations on our cash flow statement has improved to $23 million in the first 6 months of 2017 versus $285,000 for the same period in 2016.
+So before I assess guidance, I'll describe the fluctuation in our effective income tax rate.
+Effective January 1, 2017, we've adopted a new GAAP accounting standard that applies to book income tax accounting.
+Specifically, the new standard flows the tax benefits, the stock option exercises through the income statement as part of the income tax provision.
+In past years, that transaction went directly to the balance sheet, bypassing the tax provision.
+The most important thing to note is that there's no change to our federal income tax position for our cash flows.
+We have already taken this adoption with the (inaudible) of federal income tax liabilities.
+Yesterday's earnings release contains updated guidance for the 2017 full year.
+We anticipate that consolidated revenues will grow between 8% and 10% as compared to 2016, and the growth in our 3 operating segments will be as follows: Workforce Solutions, 4% to 6%; Patient Experience Solutions 3% to 5%; Provider Solutions, 47% to 51%; (inaudible) ICD-10 revenue -- (inaudible) revenues will be approximately $1 million in 2017 versus $9 million in 2016, approximately an $8 million decline during this current, 2017.
+We continue to anticipate that our full year operating income will increase 50% to 65% over 2016.
+We anticipate that our capital expenditures will be between $15 million and $17 million and our effective income tax rate will be between 32% and 36% for this current year.
+This guidance does not include the impact of any acquisitions that we may close during the remainder of this year.
+Thank you for your time.
+I'll turn the call back to Bobby.
+Thank you, Gerry.
+I think what I'd like to do is to dive in the segments in a little more detail.
+I'll give some business updates on each of them.
+So let's start with Workforce Solutions.
+At the end of the second quarter, around June 26, we announced that our current agreements with Laerdal Medical for the HeartCode and RQI products will expire, and they will expire on December 31, 2018.
+It's important to note that HealthStream retains the right to and expect to continue selling HeartCode and RQI for the next 1.5 years.
+And importantly, we'll provide uninterrupted service to our customers for the duration of their contracts.
+Those contracts could be extended through December 31, 2020.
+As we stated, this news does not affect our financial guidance for 2017.
+And so related to that, we are committed to broadening the scope and utilization of our simulation technologies as a method of validating a wide range of clinical competencies, including and beyond resuscitation skills.
+Next-generation mannequins, virtual reality and augmented reality are among the innovative and disruptive technologies we plan to bring to market.
+Those technologies will enable us to deliver choice, lower cost and more effective simulation-based training solutions in the future.
+To this end, we are in active negotiations with a number of strategic partners.
+In fact, just last week, we signed a long-term agreement with a new partner.
+This agreement will feature unique integrations with HealthStream's platform, including HealthStream's emerging technologies such as our credentialing systems, the EchoCredentialing systems, and ePortfolio, a newly announced product.
+In the coming months, we expect to introduce a number of new partners and technologies as part of our expanded approach to using simulation technology for a broad range of clinical areas, which will include multiple clinical specialties, nurse onboarding and beginning in January of 2019 resuscitation skills.
+I'd like to turn our attention to the Patient Experience segment for just a moment.
+We continue to anticipate improved margins from this segment, particularly in the second half of the year.
+For example, during the quarter, we continued to see an uptake in new clients purchasing online surveys, as Gerry mentioned.
+These have a higher margin than phone surveys, and existing clients are converting from phone to e-mail and SMS text surveys.
+We've now converted about 1/3 of all surveys capable of being converted from phone to online surveys, and we expect this conversion trend to continue throughout the remainder of the year.
+As you know, we closed our Laurel, Maryland, interview center in June and consolidated operations to our Nashville interview center, which is a newer center.
+And the cost of those -- of that closure was borne in the first and second quarters, and so we expect to have those costs out of the system in the second half of the year.
+Both of these developments, the shift to the higher-margin products and the closure of the Maryland office, should continue to have a positive impact on Patient Experience margins for the remainder of the year.
+In our Provider Solutions segment, we are focused on switching to the software-as-a-service model and shortening implementation cycles.
+In previous calls, we've talked about an implementation backlog, and so a brief update on that.
+Over the last 3 quarters, we've made meaningful improvements in our Provider Solutions segment, which are resulting in moving customers forward in their implementation process.
+In the second quarter, the backlog of unimplemented customers on our EchoCredentialing solution was significantly reduced to levels that we consider to be routine and sustainable.
+The backlog accounts currently remain for our Morrisey acquisition solutions, but we expect to replicate the success we enjoyed with Echo across the Morrissey customer base, applying the same methodologies, protocol, procedures and now experienced staff and correcting these backlog issues.
+So we expect improvement over time the next few quarters in the Morrissey-associated backlog.
+Earlier this month, we announced several exciting changes to our senior leadership team.
+And I want to highlight a few of those before we turn it over to questions.
+Jeff Doster was previously in the role of our Chief Technology Officer.
+He was named Chief Information Officer, a new position at HealthStream.
+We also announced that <UNK> Fenstermacher was promoted to Vice President and Head of Sales, which will make him our top sales leader, overseeing sales in our Workforce and Patient Experience segments.
+And finally, with the move of Jeff Doster to CIO, we added Jeff Cunningham.
+Jeff Cunningham joins us as Chief Technology Officer, so having split this role to accommodate more rapid development and evolution of our platform security, reliability and scalability, now having both a CIO and a CTO.
+We congratulate Jeff Doster and <UNK> Fenstermacher on their promotions.
+And Jeff Cunningham, we like to welcome to our leadership team at HealthStream.
+At this time, I'd like to turn it over for questions.
+Yes, <UNK>.
+Let me try to characterize some of that.
+I mean, it's -- we came off a strong fourth quarter and then a strong first quarter, first quarter having exceeded our expectations in many categories, be it internal quotas and budgets that we set.
+And so we moved into the second quarter with some optimism, but we did see a slowdown and particularly in the workforce product sets.
+And no particular products, we just had high expectations across the set of products, even compliance, which is outperforming, was a little below expectation.
+So our clinical products that we've talked about in the past were also below expectation.
+Again, this is probably a function of having high expectations.
+But we did miss our internal goals.
+And I don't know if I can attribute it to macro conditions.
+There are a few internal issues.
+We are behind in our open sales divisions.
+We have about 15 open positions, some of this is attributable to the fact that we have elected to do direct hiring instead of through the recruiters.
+So it's slowed down our hiring a little bit.
+So that was a contributor of it.
+Also, on an individual production basis, we just didn't meet expectations and, again, predominantly across the Workforce Solutions segment.
+I'm not willing to say that it was macro conditions.
+We're 1 quarter in.
+And so it was just sales productivity issue and maybe too high expectations, as we've recalibrated around now and, unfortunately, had to adjust our guidance, reflective of lower expectation and lower results in the second quarter.
+So the combination of variables, I really can't pin it on any one thing.
+The individual productivity was lower than expected across Workforce, I would say, broadly.
+And we are down headcount, about 15 from our plan.
+And we're trying to fill those but at a different rate.
+We're not going to just out and use recruiters and have really high costs.
+We're going to be more selective and try to bring in the right people.
+And there was a little bit of deal push, but we'll see how we pick that up in the third quarter.
+So I'm not going to give any specific attributions except to say we're disappointed in the results and we had to recalibrate our guidance.
+About [$110,000] $200,000.
+Yes, we're going to lay all that out over time.
+I mean, the first thing to note is that we have 1.5 years to focus on the current relationships with both Laerdal and AHA and successfully take those products to market as we've done for many years.
+And so I think the first thing to notice is to -- it is our hope and expectation that many of these relationships will last all the way to 2020.
+And so we're talking about things in the future.
+And so the nature of our strategy to combat the loss of Laerdal is comprehensive and evolving.
+And we just announced, for example, one new partnership related to it.
+In this segment and solution group in our business, we hope to expand the use of simulation technologies beyond what has historically been a single use around resuscitation.
+So the first thing to note is just strategically we'll be announcing and working with more types of partners that enhance our simulation-based form of competency evaluation across a broader set of skills.
+And so we won't be backflowing resuscitation with just resuscitation.
+You did mention an AHA card.
+It is true it is not required or a legal requirement that it's an AHA card.
+It's really what's important I think in the market are the standards of the training.
+The AHA card has become historically the leading credential in this space and certainly the most important way to recognize compliance standards or compliance with the standards.
+The standards are set by international bodies.
+One is called ILCOR, which AHA is a member of, and then ILCOR publishes standards in the U.S. So there are alternatives, but the market has become used to and accept -- most accepting of the AHA credential.
+And so our strategy over the next couple of years maybe to embrace alternative credentials and it maybe to try to work to bring the standard credentials back in.
+So again, it'll play out over many years.
+And the only thing we're going to announce today is the strategic broadening of focus on competency-based validation through these new technologies, including mannequins, and then we have signed 1 definitive new partnership that takes us in that direction.
+Sure, sure.
+As we reported, they all have sales in the first of the year.
+We also reported that they wouldn't have an impact on '17.
+So they're all brand-new products.
+We're excited because they do leverage our network and our platform, and we think that some of them are important to our new partnerships that are being formed where they'll leverage some of the technologies and capabilities.
+Some of them that I'm excited about because they carry different price points and involve broader partnerships, for example, our Nurse Residency Pathway, which is a higher value add.
+It helps hospitals onboard new nurses and organize their first year of development when they come out of nursing school.
+And so we share the same optimism.
+We continue to have sales on the products.
+And we expect and hope for them to have material contribution in the future, probably beginning in '18, as we get our wheel down and get organized on all of these products.
+So we remain just as excited.
+We continue to have sales on them.
+In fact, one that I didn't mention that is kind of equally exciting is the -- comes from the acquisition of PBDS.
+We acquired a market -- a skills and knowledge assessment tool and also a reasoning and judgment assessment tool for nursing last year.
+And we just had a major sale on that brand-new product after it's been resurfaced and reskinned to reflect the HealthStream look and feel, and that product is in a resurgence.
+And so we're excited to see that new clinical reasoning product take off and have a big win in the first half of this year.
+The product was historically called -- a PBDS product, and we're excited about that one.
+I would add that to this list of 6.
+Maybe that's the seventh one to watch.
+I think we're getting the penetration because that's reflected in the ARIS, right.
+So the ARIS has been moving up because we're continuing to do good cross-selling and upselling, and we're pleased with that.
+The subscriber count growth rate has slowed down a bit.
+There's a little bit more natural churn and scale on some of the base product, but we aren't adding as well.
+And so the new business development teams are out adding and bringing new subscribers in.
+It's more in keeping with what we used to articulate as our historical goal in norms of 20,000 to 50,000 per quarter net new subscribers.
+And so we've been pushing right at that envelope.
+We've just had so many exceptional periods.
+We also have a little bit of drag on the number from the final roll-off of the ICD-10-only subscribers.
+And so there's a little bit of roll-off still in the last couple of quarters, which is kind of adding effectively to the churn, but some of those ICD-10-only subscribers, again, there's a little bit of roll-off.
+We're almost done with that though as we -- the second half of this year probably won't be much more of that.
+Yes, sure.
+We declared that vertical a few years back, and it's been a consistent part of our growth story.
+The mix of adding new customers in the post-acute settings and pre-acute settings has been solid contributor to our growth story.
+And so it continues to perform.
+And we're learning more about which of our products can be best carried in that vertical, and we're seeing some good uptake of some of the core content products in those areas as well.
+So overall, just a solid report of progress and nothing remarkable, but solid, steady incremental improvements.
+Well, we do expect that.
+The relationship with Laerdal was very successful, and it essentially was -- although our agreement was only with Laerdal involved third parties like AH<UNK>
+And so the margins were some of the lowest margins in our entire portfolio.
+And I think in these new agreements, we're taking the opportunity to try to restructure and make sure that the full value of what we bring to the equation is in place.
+So we will expect and do expect and in fact the first agreement reflects an improvement in margins in these go-to-market products.
+But again, this is a long play.
+It's going to take several years.
+And it's important to reinforce, again, both to our customers and to Laerdal and AHA, that we are partners until January 1, '19, and potentially beyond.
+We plan to carry those products to market, service our customer, our joint customers with great excellence and make sure that they get the full benefit of these excellent products from AHA and Laerdal.
+And so we continue to be a key player in the role for the next 1.5 years.
+And we hope and expect that many of our customers will actually extend those agreements through 2020.
+And so again, we're talking about, in that case, 3.5 years of supporting the existing portfolio of products and generating revenue for them.
+And so that's all the color we can provide this time.
+There are many sequential steps over the next 1.5 years to try to rebuild and strengthen the loss of this Laerdal relationship.
+Yes, kind of like the resuscitation market, there would be new and enhanced ways of affecting change and measuring competency and skill.
+So in some cases, they require increased investment but certainly have higher IRR and I think will be more relatable to better clinical outcomes or better business outcomes, like our residency program that we mentioned.
+We believe that a curriculum like that could affect first year turnover rates and lower them down and have a great economic benefit in doing so.
+And so I think that some will require a little bit of increased investment from the hospitals.
+But I think these are going to be higher IRR solutions that really move the needle on competence and quality, and so I think they'll be very investable.
+Sure.
+So we're still looking off a lot of inherited issues.
+The implementation backlog is the most predominant issue, but also the switch to selling SaaS software.
+Remember, we had expected -- both companies that we acquired had installed software.
+And we had models and expected some continuation of selling installed software, whereas our teams made a much faster shift to selling the SaaS or on the subscription models, which spread the revenue more over longer-term periods.
+And so as you know, in models that have made switches from installed software to SaaS software, it depends on the rate of change in the customer base on the ability to deliver revenue growth.
+Getting an installed software sale fully recognized in the first period you sell it versus spreading something over 36 months, it's a trade-off.
+We think it's an important and valuable trade-off for the long run.
+So what I would say is that the trade-off is occurring faster than we incurred, meaning that we are selling, I believe, almost no installed software now and selling things on the subscription and SaaS model approach.
+And so without bringing any installed sales, the revenue growth looks a little lower than maybe we had initially thought we would deliver.
+But in my view, over a 3 or 4-year period, that's all good news.
+It's just a faster migration to a more consistent and recurring revenue stream.
+So there are kind of 2 issues there.
+The first was a true ops and execution issue.
+We inherited some fairly immature implementation processes, and we're professionalizing them.
+I really truly feel that those are at hand.
+We -- the team understands them, has worked through a full set of them, has normalized them at least for one of the businesses, the Echo businesses, and is now applying those principles to Morrissey.
+I feel like that, while we reported last couple of quarters, will not be an issue that persists much longer.
+Another quarter or 2, and then we'll have really good operations.
+Yes, yes.
+So I mean, first, we feel really good about our new leader.
+And he's a veteran of HealthStream, so he's familiar with our methodologies and ways.
+So it's a little different from bringing in an outside person, so the amount of change will probably be a little less.
+Secondly, there probably won't be significant change.
+We tend to do changes to our structure and commission plans and how we approach the market on an annual basis, really towards the very end of the year and into the January-February time frame.
+So I imagine and expect that, that will also be true of <UNK>, the new Head of Sales.
+I mean, he makes -- he may make some adjustments here and there to how it's organized.
+But in general, we make the larger changes and address incentive and readjust markets and opportunities usually once a year, around the January time frame when we have our national sales meeting.
+So I think we have the right person in the spot.
+Of important note that <UNK>'s background is in the clinical areas, and clinical for us is an important driver of our growth.
+In some ways what we just talked through on the resuscitation products and expanding the scope of operations there also plays to <UNK>'s background.
+So I think we have the right leader in place.
+I do not expect a lot of disruption this year.
+Regards to the current performance, clearly, we were disappointed.
+We had higher expectations for growth.
+I'll point out that we're -- these are -- they're all growing.
+We've just -- we've missed our expectations and had to recalibrate.
+So while we're disappointed in that, we're going to figure out which parts are working and tune those as we enter next year with our new leader.
+Yes, sure.
+So in each of our segments, we're making moves to improve margin and leverage what we call our ecosystem and our platform.
+And some of those moves are more overt, like the ones we've talked through on our Patient Experience segment, where we actually had an office closing, centralizing services and double down some of the higher-margin products.
+In other areas, it's a recalibration of what we're selling.
+We're focusing on some of the more completely owned products that have -- that carry a higher margin and so success in some of our areas of compliance as it becomes one of our leading growth story.
+It was really interesting to look back over the last year.
+The lead products where the most sales momentum has shifted a few times across a couple of key clinical products.
+For a while, it was the resuscitation product for about 3 quarters.
+And lately, it's been our compliance products, so the ones that are -- and they happen to be higher margin as well.
+And so within the businesses, there's a bit of shift in emphasis towards the higher-margin products.
+We did adjust incentive a bit to improve the focus on what we call our higher-margin product sets as we entered into this year.
+I think we'll see the benefit of that in some of the business units in the second half of the year.
+So just -- I'll just say more a key focus on EBITDA generation and margin and leveraging assets that exist within the company is what's going to drive the enhanced EBITDA and operating leverage.
+I really can't attribute things to that uncertainty, Vince.
+I -- our buyers have compliance needs that they have to meet.
+They have needs for retaining their staff.
+Almost irrespective of the payment system, they have to compete with the hospital across the street.
+And so they need to invest in these solutions to help them retain their staff and develop their staff and avoid risk.
+And so (inaudible) they're in a tough spot.
+They need to make capital investments to retain their staff and develop them, so they don't have the kind of risks that no one wants to pay for anymore.
+And so I think there's a strong rationale for buying our compliance-oriented solutions and the ones that generate better clinical and business outcomes.
+And -- but then -- but it also is fair to acknowledge that they're under growing increasing uncertainty and pressure from all of the activities of both our government and their competitive landscape.
+So I don't like to attribute things to the macro condition.
+I like to assume responsibility to figure out what we can do better.
+We always have products that we can sell in any macroeconomic condition, and we're going to do our best to figure out those products and sell them.
+I do think that technologies and the measured impact they can have on outcomes, the general acknowledgment of how they're utilizing other industries to have real outcomes and impacts, just continued growth and awareness of the favorable impact that they can have on learning and development and therefore on outcomes -- business and clinical outcomes.
+And so I just think we're further than the curve.
+Also, the technologies themselves are advancing.
+And we've seen emerging technologies from new corners of the world and out at Silicon Valley and other places that I think are another wave of disruption coming from the traditional mannequin-based approach.
+And you'll see us leaning into those technologies as well.
+So I think they provide both more educational benefit and potentially easier adoption and more intuitive utilization and lower cost.
+So I think it's just -- the steady advance technology, I think, we'll get to an inflection point in the next couple of years.
+Revenue was $2.6 million and an operating loss of $468,000.
+From what -- what was the question, Vince.
+The contribution of Morrisey was your question.
+Yes, sure.
+So we always are actively looking but obviously been more active in prior periods than in the last, say, 2 or 3 quarters.
+Some of that intentional where we've developed the pipeline for M&A but don't pursue deals as we work through.
+We've got a lot to work through here with the closing of Laurel, the improvement of margins in PX, the implementation backlogs from prior acquisitions.
+The difference is I'm feeling more comfortable that all those issues are at hand, and we're on the -- clearly on the backside of all those curves.
+And we do have a strong capitalization of $116 million in cash and $50 million line of credit.
+And always, acquisitions have been part of our strategy.
+In fact, the last time we had this kind of challenge, we effectively -- I think management effectively swapped the ICD-10 50% gross margins business, which was nonrecurring, with 2 acquisitions to build a whole new different segment that has a higher recurring nature and a higher gross margin with the acquisition of Morrisey and HealthLine and putting them together.
+And so I would say that it will be part of our strategy to increase our activity and search.
+We were always active in M&<UNK>
+It's always a part of our management team's core confidence.
+We had a little bit of a breather here, a couple of quarters, to settle in on all these -- the prior acquisitions and tune them up.
+As I mentioned, one of our smaller acquisitions, PBS, we had nearly a $1 million sale on those products recently.
+And now that I feel really good about how all those are progressing, are operationally in hand, we do expect and plan to deploy capital into M&A in the coming months and years.
+Yes, I'd say, as you did point out, we work on 3-year plans with our board.
+We roll out 1-year plans to the market where we talk about our capital allocation strategy early in each year, around February.
+And so just kind of -- to reiterate, for this year, we are very comfortable with our investment levels and CapEx levels to build and launch in support of new products that we're bringing to market.
+And we're going to let those 6 or so new products we mentioned plus 1 that I mentioned earlier today, a count of 7, from the acquisition find their way into the market over the next several quarters and then announce a new capital allocation strategy and investment strategy next year.
+But at least for the next couple of quarters, as we've mentioned through the reiteration of guidance, we expect continued operating leverage and are comfortable with our levels of capital investment and expense investment and product development.
+Effectively, we had a really nice wave of new products coming out.
+And we've slowed down the adding of teams in development, while we stabilize and support the products we've already taken to market.
+And that's a cycle here for at least this year.
+We'll evaluate it again as we enter next year.
+Thank you very much for listening in on our quarter earnings conference call.
+We look forward to reporting the next one.
+And thank you to all employees who are keeping the ship steady and growing the business.
+We look forward to reporting our third quarter call in near and upcoming months.
+Thank you all.
+Goodbye.

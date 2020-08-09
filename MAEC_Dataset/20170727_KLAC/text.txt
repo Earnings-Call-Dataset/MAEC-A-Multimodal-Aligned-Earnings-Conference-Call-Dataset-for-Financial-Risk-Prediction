@@ -1,0 +1,106 @@
+Thanks, Rick, and good afternoon, everyone
+As Rick highlighted in his opening remarks, the June quarter represented another outstanding period of financial performance and operational execution for KLA-Tencor
+Shipments were a record $971 million, finishing above the range of guidance, and revenue and GAAP and non-GAAP diluted earnings per share each finished above the midpoint of the range of guidance in the quarter
+This result was driven by strong demand across our product portfolio as well as solid execution in cost management in our engineering, manufacturing and service operations
+Revenue was $939 million in the June quarter; GAAP diluted earnings per share was $1.62 in the quarter; and non-GAAP diluted earnings per share was $1.64. In our press release, you will find a reconciliation of GAAP to non-GAAP diluted earnings per share
+With the exception of when I explicitly refer to GAAP results, my commentary will be focused on the non-GAAP results, which exclude the adjustments covered in the press release
+Now, turning to highlights of the June quarter demand environment
+Although we have discontinued guiding quarterly orders, beginning this quarter, we will begin to offer greater detail on our shipment results and guidance to provide more information and color on the current business environment to give investors insight into industry trends and KLA-Tencor's performance
+For historical shipments mix data, please refer to the supplemental information posted with today's press release on our website
+So as a reminder, the following details are related to shipments: total shipments in the June quarter were a record $971 million, up 7% on a sequential basis and finishing above the guidance range
+Foundry was 64% of shipments in June, driven by an anticipated broadening of the customer base for investment in 10-nanometer production and 7-nanometer development, and by continued investment in legacy technology nodes
+We are currently modeling foundry shipments to be approximately 42% of the total in the September quarter
+Memory was 32% of shipments, with delivery evenly split between DRAM and NAND
+We are currently modeling shipments to memory customers to be about 43% of the total in the September quarter, with NAND representing about half of the memory mix
+Logic was 4% of shipments in June and is currently forecasted to be approximately 15% of the September quarter total
+In terms of the approximate distribution of shipments by product group, wafer inspection was 50% of shipments; patterning was 25%, patterning includes orders from our reticle inspection business
+Non-semi, which includes our back inspection business, was approximately 4%; and service was 21% of shipments
+Looking forward, we are modeling September quarter shipments to be in the range of $945 million to $1.025 billion
+Current build plans are supporting quarterly shipment levels of $900 million to $1 billion, and we expect this trend to continue into calendar year 2018. This outlook has strengthened since the earnings call back in January, consistent with the upside in orders we've experienced year-to-date
+In fact, compared to the outlook we provided back at our earnings call in April, the CY 2017 order forecast is over $225 million higher than three months ago, and shipments for the second half of calendar year 2017 are expected to be up mid-single digits compared with the first half, inclusive of the stronger-than-guided performance in the June quarter
+Turning now to the income statement, revenue was $939 million in June, finishing at the upper end of the range of guidance
+We expect revenue to be in the range of $910 million to $970 million in the September quarter
+Non-GAAP gross margin was 63%, in line with expectations for the quarter
+The strong gross margin performance in June is consistent with recent margin trends in terms of mix of product business and operating leverage in our manufacturing and service operations
+Looking forward to the September quarter, we expect gross margin to be in the range of 62.5% to 63.5%, flat at the midpoint compared with June, as we expect a similar mix of product revenue with slightly higher manufacturing costs, offset by an improved service mix quarter-to-quarter
+Total non-GAAP operating expenses were $238 million in June, and non-GAAP operating margin was 37.6%
+This operating margin result is in line with the updated target model for annual revenue levels in the $3.6 billion to $3.9 billion range as we outlined earlier in this quarter
+We are modeling operating expense levels to be approximately $250 million in the September quarter due to increasing R&D head count and prototype material expense for current programs as well as approximately $2 million to $3 million of incremental operating expense associated with the acquisition of Zeta Instruments, a privately-held company that designs and manufactures optical profilers and defect inspection systems for the advanced wafer packaging, LED and data storage industries
+We completed this small transaction in early June
+Our non-GAAP effective tax rate was 21% in the quarter, just below our long-term planning rate of 22%, reflecting the higher mix of revenue from products developed or manufactured offshore and other discrete items impacting the tax rate
+We are modeling the September quarterly tax rate at 20% due to a non-recurring tax benefit expected in the quarter
+<UNK>wever, you should continue to model a long-term tax rate of 22% going forward
+Finally, non-GAAP net income for the June quarter was $259 million, and we ended the quarter with 158 million diluted shares outstanding
+I'll turn now to the highlights and the balance sheet and our cash flow statement
+Cash and investments ended the quarter at $3 billion, an increase of $313 million compared with the March quarter
+Cash from operations was a record $463 million in June, and free cash flow was $452 million
+As mentioned earlier, we completed the acquisition of Zeta Instruments in the June quarter
+Total purchase consideration was approximately $37 million, including cash paid of almost $32 million at closing
+And finally, during the quarter, we paid an aggregate of $85 million in regular quarterly dividends and dividend equivalents for fully vested restricted stock units
+In conclusion, KLA-Tencor's results in June reflect our market leadership, the critical nature of process control and our customer's growth strategies at the leading edge and in legacy design rules and our industry-leading business model
+This, fueled by record total backlog of $1.8 billion as of the end of the June quarter, position the company for another year of growth in a strong and stable overall WFE industry environment
+This performance demonstrates the company's market leadership, the strong customer acceptance of our portfolio of solutions addressing the most critical yield requirements of leading edge, and our focus on operational execution across our business
+With that, our guidance for the September quarter is: shipments in the range of $945 million to $1.025 billion; revenue between $910 million and $970 million and GAAP diluted EPS of $1.48 to $1.72 per share; as well as non-GAAP diluted EPS of $1.50 to $1.74 per share
+This September quarter EPS guidance range assumes a 20% tax rate in the quarter
+This concludes my remarks
+I will now turn the call back over to Ed to begin the Q&A
+Yes, <UNK>, it's <UNK>
+I think the only thing I would add to that is we're still waiting for these products and that contribution
+But we have from a 3D NAND perspective, from planar NAND, we have seen intensity improve
+If you think about the peripheral products around their wafer inspection and in metrology, where wafer flatness is really, really critical to advance layer developments, 3D NAND, film measurements, CE measurement, laser scanning, opportunities around defect inspection
+Some of the bigger challenges are still out there that these platforms hopefully will address
+But we're encouraged by what we're seeing so far, and as Rick said, it's a big part of our calendar 2017 view
+Thank you
+It was pretty high
+I mean, as you know, free cash flow can be pretty lumpy
+But the linearity of shipments enabled our record collection quarter, so that was a big part of it this quarter
+So we're real pleased with it and
+Well, it's a great question and I think as our business has been so stable at these levels, we're not having to make significant investments in working capital
+Obviously, we invested a lot in ramping inventory to prepare to be able to ship it, $900 million to $1 billion where we are today
+And, so now you're seeing modest increases in inventory to support that activity
+So then as a result of that, given our capital position and so on, we see a fair amount of the operating margin dropping through
+So the way I think of – I mean, when I look at calendar 2017, I probably see free cash flow probably in excess of $1.1 billion, and we're talking about revenue levels of $3.6 billion to $3.7 billion if you take our guidance and expectation around the December quarter
+So you're in that 30th percentile ranges I think if I do the math quickly
+So I think that's probably how we ought to think about it
+I think if you see an inflection, obviously we'll have to invest into that
+But the resiliency of the model is pretty strong
+The margin profile of the business is good
+And I think that a lot of the trends that I've outlined around gross margin is, I think, is fairly sustainable going forward
+So, we feel pretty good about the model going forward, and the cash flow generation that comes from it
+Yeah, <UNK>, I think the only thing I'll add to that is, is that the first part of – well, all of 2016 and part of 2017 was very foundry-centric
+We thought most of the memory bookings we would start to see in calendar 2018. And I think one of the things that we've been encouraged by, is the strength of what we've seen from an order perspective, both in the June quarter but also what's in the funnel over the next couple of quarters
+So those are tools that are slotted to ship early in 2018. So from a shipment and revenue perspective, they're into next year
+But as Rick said, those projects are clearly real and are moving quickly and we're preparing to ship into that in the first part of next year
+Thank you
+Yes, C
+J
+, I mean, it's a little early
+I mean, given the backlog position we have and what we expect in terms of the order outlook over the next six months, we'll see where WFE is
+I think we've got a view that a lot of the dynamics that are driving the industry today continue into next year
+Obviously, NAND flash will probably be a higher level of investment next year
+China's probably bigger
+DRAM is probably flat to a little bit lower
+Foundry is probably on the margin a little weaker
+So, I think as we look at all of that, we see sort of this continuation of these trends
+And so we're sizing the company and modeling similar levels of output
+So I don't think it's – right now, I'm not seeing anything that leads me to believe that it's not flattish or a little bit better than that
+Yeah, Patrick, it's <UNK>
+It is a different business than our process tool peers
+And so what you typically have is – so 75% of that revenue stream is contract, right? So we have customers that buy service contracts with different levels of coverage across either certain tools or broadly across a fab
+And so most of that revenue is repeatable, and it allows us to test and right-size those fabs to maintain good utilization, but also to get pretty good predictably about part failure and so on
+But what we end up selling is, we replace parts, right? And so, then there's parts and as those parts fail over time, and you have lasers that have lives, useful lives and so on, so that's really the biggest part of the business
+But it isn't traditional break and fix and that – it's billable
+It's really contract
+So it really works for us and works for customers, because we can keep the tools up and keep them optimized and run preventative maintenances, and those kinds of checks on them over time to keep them running, and it works out on both ends
+Yeah, one other interesting attribute of our business environment – we looked at this recently – the concentration from the top customers is actually down
+We actually have broader customers
+When we look at the top 10, the percent they make up of the business has decreased in this calendar year
+It was slightly down last year and we anticipate that broadening
+So the good news is, I think we have more customers in more locations and more offerings for them
+I mean one thing about next year is, it looks like next year's WFE mix is a little more memory-centric
+And as you know, the process control intensity in memory, while it is getting better, isn't near foundry
+So $1 billion of WFE depending on the segment is not created equal for us
+But we've seen some improvement on the memory said, which we're encouraged by
+I think these new products, given the timing of when they'll ship and go to market, and we'll actually start to see revenue given the valuation process and so on, I think in the second half of the year, we might see some revenue, but I think it will be a pretty small amount
+But as I look at our plans for next year, I look at the funnel, I don't see any reason why KLA shouldn't grow in line with – at least in line with the market, as we move into 2018.
+Thank you

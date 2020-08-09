@@ -1,0 +1,153 @@
+Let me add one thing, <UNK>, it's <UNK>.
+While the PC market is weaker than we anticipated, we are actually doing better in some of businesses, like industry standard servers.
+So while the cash flow might be slightly lower in PCs, depending on how the market evolves, we're actually going to more than make that up.
+And you can see in our earnings per share, which obviously, we are holding our earnings per share guidance.
+I think it's also important to think about the PC business as, yes, there has been incremental pressure on profits.
+But we have done a great job of executing in the PC market.
+And in fact, have continued to gain really strong share across all of the regions in the world, including China on a year-over-year basis, and have outgrown many of our competitors.
+Thanks, <UNK>.
+Sure.
+So <UNK>, we are not intending that GAAP is code word for cash.
+Because there can be GAAP-only charges that are not cash, but these ones are expected to be all cash charges, and so you've got that right.
+And then, in terms of the timing, we really see these cash outflows related to these charges, to be taking place over three years.
+So it will be a little bit more front-end loaded to offset the dis-synergies.
+But we would expect them to be -- both the $1 billion related to separation, as well as the up to $2 billion for the Enterprise Services business streamlining, to be over three years.
+So <UNK>, what we do is, at the point of time we provide an outlook, we take that kind of beginning of that month set of rates, and we forecast the rest of the year.
+And if you actually compare the currency rates at the beginning of May, to those at the beginning of February, when we provided the outlook for the year of $3.53 to $3.73, they are roughly the same.
+They are not materially changed.
+Thanks, <UNK>.
+Next question, please.
+Boy, <UNK>, I'm trying to follow all those numbers for you.
+But let me first clarify, that Aruba is not in our guide.
+It just closed the other day, and it is not in our guide for the year.
+Secondly, in terms of how to think about the cash flow model for FY16, I can't validate all those puts and takes that you have given.
+But I will throw out the following for you to think through.
+First, we think that the cash-conversion cycle will be less of a headwind going into 2016, than it was going into 2015.
+You do want to take into consideration the fact that the 2012 program restructuring charges will be coming down pretty materially.
+But, of course, we will have the offset to the incremental GAAP-only charges that we've talked about today.
+We will have significantly lower separation kind of impact to cash flow from separation across -- basically taxes that we need to pay, the incremental costs associated with that in the CapEx.
+And then, I think currency is a little bit of on -- a complicated topic, for sure.
+But you need to, obviously, think about what you think the currency is going to do.
+But also take into consideration, the implications to cash of our broad hedging programs, our balance sheet hedging programs, which I talked a little bit about.
+But also some the benefits that we are getting from our revenue hedging programs.
+And then, of course, that's all on top of, kind of what you think outlook is for earnings.
+Thanks, <UNK>.
+Question, please.
+So we will have an Analyst Day, as we approach the separation.
+We haven't exactly set a date yet, but it will be early to late fall, and we will lay out the operating profile of both companies.
+Both not only from an operating profit, but also a capital structure Because you will recall, around October 6, when we announced, we thought that HP Inc.
+would be more yieldco, because of the strong cash flow from printing business.
+And Hewlett-Packard Enterprise would be more targeted to growth at a reasonable price, or GARP investors, and the capital structure will reflect that.
+Also I anticipate both companies will actually be doing acquisitions, but probably more so on the Hewlett-Packard Enterprise, as that market is growing a bit faster.
+So we will lay all that out for you at the security analyst meeting, and then actually we will probably be on a road show to investors, to make sure that everyone has a chance to understand, in as much detail as we can provide, what the outlook looks like for each Company.
+I don't know, <UNK>, if you want to add anything to that.
+So I wouldn't add anything more, other than to say that we will be filing our Form 10 on in the July timeframe.
+And in that, while it will not have all of the information that I am sure you will want, in terms of kind of FY16 forward-looking, it will have a preliminary cost structure review -- I'm sorry, capital structure, sorry, capital structure review.
+So you will get a first glimpse of that in the early July timeframe.
+Thanks, <UNK>.
+Next question, please.
+Sure.
+So in terms of the potential GAAP-only charges that we've been talking about, they will be a bit front-end loaded.
+But you should think about them as being over three years, and that from a cash flow perspective from the savings, the savings will lag that just a little bit.
+I think the insight into FY16 that we've provided, is that the dis-synergies of $400 million to $450 million will be more than half offset in FY16.
+And so, we will obviously get some cash flow benefit from the actions that we will take with these GAAP-only charges in 2016.
+And then entirely, the $400 million to $450 million, we believe will be entirely offset in 2017.
+And a bit more than that.
+But we likely won't get to a full run rate savings, from the gross savings from these actions, until probably the run rate exit of FY18.
+In terms of industry standard servers, we are seeing very strong momentum.
+I think driven by a couple of things.
+First is, I think it's our best-ever product line, and very, very solid sales execution that is actually playing into a pretty healthy market as well.
+I mean, as I said, ISS revenue grew 11% year over year as reported and 17% in local currency, and we expect to gain share when the Q1 results are out.
+And I think it's our products like Gen9, which is off to a very fast start.
+Cloudline and Apollo are resonating well with customers that are purpose-built for specific workloads to deliver business outcomes.
+So we've got the workload and the business outcome lined with the right infrastructure.
+And then, there's another little tailwind, which is the Windows Server 2000 and refresh -- our 2003 refresh, the ramp of our Foxconn partnership, and improved win rates, frankly against Lenovo, as they take over the IBM server business.
+And I'll say one thing, we haven't talked much about cloud on this call because there was so much to cover here.
+But we're pretty pleased with the results of our cloud business.
+And what you have to remember, it shows up.
+The success of cloud shows up in four places, in the -- three places in the HP P&L.
+One is industry standard servers, because we are by far and away the leader in private cloud, whether it's Gartner or IDC or whoever.
+So that shows up in ISS.
+Our virtual private cloud or managed cloud services shows up in Enterprise Services.
+And then, CSA, the cloud service automation and orchestration software that knits it all together, shows up in software.
+So we may, over time, break out or run alongside sort of overall cloud revenues, as opposed to just having it show up in the individual businesses.
+But for the moment, probably through the end of this year, we will report it in the different businesses.
+So I just thought I would say word about that's another reason that ISS is strong, is private cloud
+And let me just add a couple more things.
+On the quarter, the win rate that <UNK> talked about is up relative to the previous quarter low double-digits.
+So really strong improvement there.
+We are bringing on hundreds of new customers, that haven't bought from HP in the last 12 months.
+So we are making really good progress, against kind of the Lenovo line-up.
+And then in terms of the rest of the year for ISS, we've got a really nice wind at our back.
+We've got -- we are going into the second half with a strong backlog, so a better backlog, frankly, than we normally see going into Q3.
+As <UNK> says, we do have the Windows Server 2003 also coming up.
+And as you may recall that is expiring in -- I think it's July of this year, and then <UNK> mentioned the Gen9 momentum.
+Thank you, <UNK>.
+Yes, I think there's a couple things going on in our Enterprise Services business.
+First is, we are making progress towards the long-term goal of 7% to 9% operating margin.
+But the ITO industry challenges have accelerated and are driving risk in the sustainability of this profit level, if we don't do further cost reductions.
+And I'd say there's a couple of sort of large-scale secular trends that are impacting that ITO business.
+First is, the government austerity programs have forced a business-model transformation, both here, as well as in Europe.
+And basically the public sector business has gone from buying -- in a fixed-fee model to a cost-plus model.
+So that put some pressure on.
+And then secondly, there is a definitely accelerated move to a consumption model, which is going to require us to make a faster labor mix shift to low-cost resources, and frankly, the transformation of the physical data center footprint to a much more streamlined footprint that are far more automated.
+So there's real market shifts going on here, and basically the additional savings plan that we mentioned, today, would derisk our plan for ES to reach that 7% to 9% operating margins.
+But more importantly, would enable us to sustain that level of profitability over time.
+So we've got more aggressive labor, pyramid shifts that have to take place, onshore, offshore locations, to make sure that we stay competitive in that market.
+And the market is changing dramatically.
+That said, our apps business, and our business process outsourcing business, and our strategic Enterprise Services businesses are looking healthier.
+But remember, ITO is a big chunk of our Enterprise Services business.
+Let me just give some, I guess, some data that supports that.
+If you look at our ITO business in this quarter, it was down 20% year over year, and it had about 6 points of currency.
+So it was still down 14% on a constant currency basis.
+Now there is an impact from the top-three runoff, but it is still a lot softer than what we had been seeing.
+And so, we are definitely starting to see the pressures in the ITO space.
+On the app side, we really -- we saw declines of 8% as reported in revenue, but only 2% in constant currency.
+And if you adjust for currency, we had a couple of our regions that actually were flat to slightly up, and we see that progressing as we go into the second half.
+So it really is much more of an ITO challenge and the change in the market dynamics.
+And <UNK>, let me -- you kind of asked a strategic question.
+I'm going to interpret it as sort of, how do services fit.
+And if you pull your lens back, let me give you my perspective on this business.
+As our customers are requiring business outcomes solutions as opposed to a migration, which used to be -- they used to buy on a point product solution basis -- we are going to have to lead with services.
+Because our customers are asking for transformation services, for business outcomes, for cost, efficiency, better return on invested capital of their assets.
+And both our services businesses in ES, as well as our TS consulting businesses are becoming more strategic to the future of the Hewlett-Packard Enterprise.
+And my view is, that if we don't have healthy services business, that will actually compromise our overall business as we go forward, because increasingly services is becoming the tip of the spear, and how we go to market.
+Not only to direct customers, but frankly our partners and [VARs] are seeing the exact same thing.
+So the combination of ES plus TS consulting is going to be a really important strategic weapon, I think, for HP going forward.
+Thanks, <UNK>.
+Next question, please.
+So, <UNK>, we are going to be their distributor for all the networking products in the rest of the world.
+So they will not be selling any of their products that are developed in China to the rest of the world, except through us as distributor.
+Exactly.
+So the real point of this JV is in China, for China, for the Chinese market.
+And obviously, the networking products, we will distribute globally, as <UNK> said.
+Thanks, <UNK>.
+I think we have time for one more question.
+Sure.
+Look, I think in the consumer segment, we obviously are expecting and are hopeful that Windows 10 will provide some stimulus for the marketplace.
+I think that will be ahead of some tapering off of demand, just ahead of the Windows 10 launch.
+In the commercial segment, we see slower acceptance always in new operating systems, as evidenced I guess, by the XP migration, which was largely completed towards the end of FY14.
+Therefore, we don't really anticipate a significant impact on the commercial business, either positive or negative.
+Yet on the consumer side, we expect that towards the back end of this year, it will provide some stimulus.
+Look, we obviously don't guide by segment, but I think it's fair to say that this is a transition, just like similar transitions that we've seen in the marketplace.
+There's a consolidating market going on at the moment.
+We believe that it will remain a competitive marketplace.
+We think we are outperforming our competitors, and that profitability will run according to that
+Yes, yes.
+And the profitability in Q2 was heavily impacted by currency.
+But offsetting some of the currency benefits were really strong operating efficiencies.
+Because <UNK>'s businesses are also very much focused on streamlining and staying maniacally focused on cost, as well as a favorable commodity environment, and we do expect that commodity view will persist into Q3.
+And then, the other thing that I think I should have pointed out before, is that the XP refresh kind of peak quarter was Q3 of last year.
+And so, the entire market is going to come up against very tough compares, when you look at our numbers in Q3.
+Especially like markets like Japan.
+Yes.
+So let me answer the IP question.
+So we develop IP in China, and have for some time in the context of H3C.
+And then, as we move our server and our storage business, obviously into this new JV, we will have an OEM agreement from HP to H3C Tsinghua JV, and obviously, have been very focused on protecting the IP.
+I think we've got an excellent framework agreement.
+We're not naive, but we've got an excellent framework agreement, and I think -- I will say I think, Tsinghua in this regard is a very, very good partner.
+So we are optimistic about it, and I think it is going to accelerate the business in China.
+Thank you.
+Thanks, <UNK>, and thanks, everybody, for your questions.
+I think we are done with the call.
+Thank you.

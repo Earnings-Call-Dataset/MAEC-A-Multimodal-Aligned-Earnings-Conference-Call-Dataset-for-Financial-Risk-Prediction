@@ -1,0 +1,142 @@
+Okay, and then <UNK>, so your question kind of boils down to is it organic or is it M&A and where do we see deploying fiber.
+So just for everyone else on the call, we have done some M&A.
+XO had a fair amount of fiber and WideOpenWest had fiber that we did by M&A.
+But we also announced our deal with Corning, which is a multiyear deal where we are doing 12.5 million miles of fiber per year for the next 3 years.
+So that would tell you we are sort of tilting toward organic.
+And our priorities are really what can we do to get off of others' lease services to meet our 4G cell densification needs, then 5G, and then our enterprise customers.
+We are out in markets now obviously placing fiber, but it's a market-by-market analysis of the three factors that I just talked about.
+And frankly, the cities, the meetings that we're having with the cities and what access they will give us to street furniture and conduit and those sorts of things factor into the equation.
+So it's a bit fluid at this point.
+And I wouldn't tell you that if an opportunity came up to accelerate it through M&A, we would do it.
+But most of the fiber companies were built for different purposes.
+They were point-to-point enterprise sort of services and they don't fit the architecture that we're building today, which is multiuse fiber for our intelligent edge network.
+So I hope that's clear enough for you.
+But certainly leaning toward organic builds to meet Verizon needs to drive our costs down and our performance up.
+Thanks, Mike.
+So I will start off with the wireless phone question and <UNK> can get onto fiber.
+Look, we had a great year on the wireless performance.
+The net adds were very strong.
+As I mentioned, our smartphone net adds at 1.8 million for the year, up 34% year over year.
+So we really saw a significant change the day we launched unlimited back in February of last year.
+And from that point forward, we have competed very effectively in the marketplace.
+And it really allowed customers to have a similar currency to compare different carriers on and the value proposition is resonating.
+And despite all the noise that you hear from other people and the claims you hear from other people, the network quality matters.
+We saw that numerous times throughout the year.
+And we see that in the performance we had on net adds, whether it be the new activations coming in or the churn that we've had.
+So each of the last three quarters of the year, phone churn was below 0.8%.
+And I think that tells you how much customers enjoy being on the Verizon network.
+So you ask about the MSOs.
+We are happy with what we've seen so far.
+Obviously, Comcast is on and Charter has said they expect to be on later this year.
+And as we have said consistently, we like those agreements and we signed them in 2011 and we are happy to be doing them today and we will see how they play out.
+But everything we've seen so far is in line with our expectations.
+And we are glad to have that traffic on our network and monetizing that traffic based on what those companies are doing with those agreements.
+And in terms of what the competitors are doing, look, they've bundled a number of things into their services during the course of last year and our numbers have stayed very consistent.
+So at the end of the day, the quality of the network that the device is on is of fundamental importance.
+And overall, when you look at our value proposition, it continues to resonate strongly.
+And as I say, we are very happy with the results we had last year and starting off 2018 on the front foot.
+Okay, Mike, let me take where do we want to head from an infrastructure and a vision perspective.
+Look, I think it's very clear here whether you look at what's going on today with customers or what you are anticipating that you saw at CES and others from what's next that there is an insatiable demand for broadband.
+And it's not mobile and it's not fixed.
+Customers don't care, and I think who wins is going to be able to provide them the service that they can move seamlessly from fixed to mobile.
+We have been a much stronger mobile company over the years.
+But the way we are positioning our fiber deployment and the way we are positioning 5G, we will be able to disregard geography and deploy those broadband services at a much lower cost than we have ever seen at least during my career.
+Now, for us, to complete the vision, you need to be able to provide the Internet information services.
+And video drives an awful lot of that.
+And we've talked at length about taking the Oath assets to be that information source around news, sports, finance, and entertainment and lifestyle.
+We think that the assets that we have will provide what customers need.
+And you look at the applications going forward, whether it's medical and healthcare services, whether it's smart cities, whether it's education, whether it's autonomous cars and transportation systems, you are going to need that sort of seamless high-bandwidth.
+And we lump that under the title Humanability.
+So our focus is around giving all of our customers the capabilities to embrace these applications of the future that are going to make their lives so much better.
+So our investments, they are all about providing the assets and the platforms to deliver that.
+Well, <UNK>, I'll take that and then <UNK> can jump in.
+I guess you could accuse us of being boring, but you at least should give us credit for being consistent.
+We have been extremely disciplined, and then when we see an opportunity we go hard.
+And you saw that in 3G, you saw that in 4G, and you are going to see it and you are seeing it in 5G and placing fiber.
+We see a real opportunity here.
+We were the ones that stood up and said two years ago when everybody said we were way too early, but we've been deliberate about it.
+We have gone out, we have done the field trials, we have developed the ecosystem, we have worked with partners from Korea as well as the infrastructure providers.
+We are out there, as I said, with 200 cell sites today learning.
+And we are going to see what commercially happens in these three to five cities.
+Then we will make the decision.
+So to us, it's very inconsistent that just because tax reform comes through, we are all of a sudden going to draw the line at a different place or lose that discipline.
+What tax reform does do is gives us great flexibility that once we prove to ourselves that we can get a reasonable return on invested capital, we can accelerate very rapidly.
+And that gets to <UNK>'s point about we want to early on strengthen that balance sheet to give us the flexibility.
+But the strategy is there.
+We are sort of like a spring ready to expand very quickly if we need to.
+But we have to get through another couple of hurdles here before we make those decisions.
+And we are not ready to say that in January of 2018, but I certainly hope by fourth-quarter results next year we are accelerating because we've got such a great story to tell.
+The only other thing I would add to that, <UNK>, and I kind of come back to the comments that Hans Vestberg made earlier this month.
+That in our industry, the nature of the way that we spend money, having significant increases and decreases is inefficient in the way we deploy CapEx.
+So we are certainly looking at, given, as you say tax reform, can change some of the return math.
+But we will be methodical about it.
+And there is a lot of planning that goes into our capital spending before we get to it.
+And so that's why you see us making the comments we do.
+We certainly look forward to having the right opportunities in front of us, but you will see us do it methodically and do it in the way that creates the greatest value.
+Why don't I take the spectrum question.
+As you say, <UNK>, the inevitable question.
+Look, there's going to be an awful lot of noise around deployment of 5G.
+If you recall back when we deployed 4G, there was a big scramble for everybody to try to get 3G to look like 4G.
+And we called it faux G, F-A-U-X, and you are seeing some of the same stuff right now.
+In order to do 5G -- and this is right out of the standard, which we certainly agree with -- you need at least 100 megahertz of bandwidth to provide the latency, the reliability, the throughputs that really are the 5G promise.
+I can take 5G and I can put it on 10 megahertz of PCS if I want to.
+It won't perform like 5G.
+It will be the technology, but it won't have the reliability, it won't have the throughput, and it won't have the latency.
+So you are going to get a lot of this well, they need this or -- depending on whether you are selling spectrum or what you've got in your basket of spectrum today.
+But I wouldn't change positions with anybody out there.
+I have got plenty of low band spectrum.
+That works great for 4G.
+It's going to service for years to come.
+But in order to put all of the aspects of 5G into play, you need hundreds of megahertz of bandwidth.
+The only one who has that in a big way in the marketplace is us.
+So I will just add one other piece to that.
+I agree exactly what <UNK> said about 5G.
+And as you think about 4G network, we've always said there's three things: it's spectrum, it is the densification in the architecture, and then the technology.
+And I can tell you over the past few months, there's been a number of technology upgrades to the network and you are seeing that in the network performance.
+A number of those were deployed in the backend of the fourth quarter.
+So significant amount of additional capacity being added to the network as we head into 2018.
+Again, without having to go acquire additional spectrum.
+But I do expect you to ask that question on most calls going forward.
+It would be kind of amiss if people didn't.
+In terms of your question on how much we pay in backhaul fiber, that's not a number we've disclosed.
+We really don't break out the income statement by individual line items and we are not going to start doing that now.
+But I would just say as we think about fiber, we look at the most economic way of getting it, irrespective of where it shows up in the financial statements.
+And we will continue to do that.
+Thanks, <UNK>.
+Let me take the first one on the $10 billion number over the next 4 years that <UNK> mentioned in September.
+And we've talked about it a little since then.
+Look, every area of the business is where we are looking and we believe that there's opportunities across every area of the business.
+Obviously, network costs are a significant part; distribution is something we're taking a close look at.
+Customer care, all the back-office type activities.
+Essentially there is no area of the business that isn't going to get examined as part of this exercise.
+Because it's imperative we make sure that we are as efficient a Company as we can be as we go forward.
+From a timing standpoint, I can tell you we've embedded the 2018 targets for this activity in each of the business units' operating plans for the year.
+And I look forward to discussing the results that we achieve on this as we go forward in 2018 and into the future.
+And then, <UNK>, I guess my answer on the fiber competitive advantage is throughout my career, I've always believed and it's been reinforced many times that if you've got a critical component of your success, you better own it and control it.
+And that fits with our direct distribution.
+It fits with a lot of our customer service.
+We don't outsource sales.
+We certainly wouldn't outsource critical components of our network.
+As Hans has come in and put in our architecture for intelligent edge, owning that fiber asset is important to our financial performance as well as the performance of the network.
+And as we have seen time and time again, network competitive advantage drives customers, which ultimately drives financials.
+So you won't see us outsource much in the way of network unless someone has a huge scale advantage and we could negotiate very strong performance and very consistent financials that would go along with it.
+That's all the time we have for questions.
+Before we end the call, I'd like to turn it back over to <UNK> for some closing comments.
+Thanks, <UNK>.
+So just a couple of final points from me.
+I don't come on these calls very often.
+I like to save that for when we've got significant changes in the business.
+And obviously tax reform and our use of those funds was important for us to clarify.
+But there was a second reason for me to come on.
+And I have been in this industry for 30 years and I think we are breaking into one of the most exciting times that I've seen in my career.
+We are on the cusp of what I call the Fourth Industrial Revolution as we see smart city applications, the changes in medical, the changes in transportation and education.
+All of those are fueled by a strong telecommunications infrastructure.
+So I think this is a great time for our industry overall.
+Obviously, I think Verizon is the best positioned to deliver that future.
+We've had a long history of strong operational and financial performance.
+We are investing in the media platforms and the fiber assets and the network and in the new technologies to meet the needs that are coming forward.
+And I think, as I said, that will be a major change in the way people live, work, and play.
+So I'm very excited about 2018, what lies ahead for us.
+I look forward to sharing the results and the successes as we move forward in this year.
+And coming on a call next year at this time and recapping one of the best years in our history.
+So with that, we will close the call and we appreciate all of your time today.

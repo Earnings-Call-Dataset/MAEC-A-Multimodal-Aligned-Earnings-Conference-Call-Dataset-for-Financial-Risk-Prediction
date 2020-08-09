@@ -1,0 +1,159 @@
+Thank you.
+Welcome, everyone, and thank you for joining the Insight Enterprises Earnings Conference Call.
+Today we will be discussing the company's operating results for the quarter ended March 31, 2018.
+I'm <UNK> <UNK>, Chief Financial Officer of Insight, and joining me is Ken <UNK>, President and Chief Executive Officer.
+If you do not have a copy of the earnings release that was posted this afternoon and filed with the Securities and Exchange Commission on Form 8-K, you will find it on our website at insight.com, under our Investor Relations section.
+Today's call, including the question-and-answer period, is being webcast live and can be accessed via the Investor Relations page of our website at insight.com.
+An archived copy of the conference call will be available approximately 2 hours after completion of the call and will remain on our website for a limited time.
+This conference call and the associated webcast contain time-sensitive information that is accurate only as of today, May 2, 2018.
+This call is the property of Insight Enterprises.
+Any redistribution, retransmission or rebroadcast of this call in any form without the express written consent of Insight Enterprises is strictly prohibited.
+In today's conference call, we will refer to non-GAAP financial measures as we discuss the first quarter 2018 financial results.
+When referring to non-GAAP measures, we will refer to such measures as adjusted.
+Adjusted measures discussed today will exclude severance and restructuring expenses recorded in all periods and acquisition-related expenses recorded in the first quarter of 2017 as well as the tax effects of these items as applicable.
+You'll find a reconciliation of these adjusted measures to our actual GAAP results included on the press release and the accompanying slide presentation issued earlier today.
+The slide presentation also includes a reconciliation of adjusted free cash flow.
+Also, please note that unless highlighted as constant currency, all amounts and growth rates are discussed in U.S. dollar term.
+Lastly, we adopted ACS 606 (sic) [ASC 606] effective January 1, 2018, on a modified retrospective basis.
+This means that we have not re-presented the 2017 results shown in our earnings release or presentation materials issued earlier today.
+Finally, let me remind you about forward-looking statements that will be made on today's call.
+All forward-looking statements that are made during this conference call are subject to risks and uncertainties that could cause our actual results to differ materially.
+These risks are discussed in today's press release and in greater detail in our annual report on Form 10-K for the year ended December 31, 2017, and other reports we file with the SEC.
+With that, I will now turn the call over to Ken, and if you're following along with the slide presentation, we will begin on Slide 4.
+Ken.
+Hello, everyone.
+Thank you for joining us today to discuss our first quarter 2018 operating results.
+I'm pleased to report that we have started the year with strong top and bottom line financial results as our global team executed very well against the current market opportunity and maintained operational discipline across the business.
+In the first quarter, we delivered double-digit sales growth and gross profit growth by tightly controlling expenses, which drove adjusted earnings from operations up 69% year-over-year and adjusted EFO margin up 80 basis points compared to the same period last year.
+Specifically, in the first quarter of 2018, consolidated net sales were $1.76 billion, up 19% year-over-year, reflecting double-digit growth across our hardware, software and services categories.
+Net sales were up 16% in constant currency.
+As a reminder, we acquired Datalink January 6, 2017, so all this growth is organic.
+Gross profit was $240 million in the first quarter, up 15% year-over-year and up 12% in constant currency.
+Gross margins were 13.6%, down 50 basis points year-over-year due to lower mix of fees from enterprise agreements and fewer professional service engagements, partly offset by the positive effect of the acceleration of certain partner incentives that were fully earned in Q1 that would normally be earned over the full year.
+And consolidated selling and administrative expenses were $188 million in the first quarter, up 6% year-over-year and up 4% in constant currency due to modest investments in headcount across the business.
+All of this led to adjusted earnings from operations of $52 million, an increase of 69% year-over-year, with each of our operating segments contributing positively to our results.
+On a GAAP basis, earnings from operations were $50 million, up more than 100% compared to Q1 2017, and adjusted diluted earnings per share was $0.94, another first quarter record for us.
+On a GAAP basis, diluted earnings per share was $0.90.
+Last year's first quarter results were very strong as well with adjusted EFO growth more than 100% compared to the prior year.
+So on a tough compare, we're particularly pleased to deliver another exceptional quarter financially, reflects our continued strong execution in a stable and growing market.
+Moving on to Slide 5.
+In North America, we executed very well in the first quarter, reporting top line growth of 18%.
+By client group, our top line results include double-digit growth with large, SMB and public sector clients in the quarter.
+We benefited from the continuation of the device refresh cycle and also grew sales in the data center categories of networking servers and storage.
+Gross profit in North America grew 11% in first quarter.
+Gross margins decreased 80 basis points to 13.4% due to lower technical services projects in this year's first quarter and lower gross margins on hardware sales to large clients.
+Despite the lower gross margins, double-digit growth profit, combined with operating expense growth of only 1%, drove adjusted earnings from operations up 57% year-over-year to just under $43 million.
+Our execution has been consistent as these outstanding results represent our seventh consecutive quarter of double-digit adjusted earnings growth in North America.
+In the first quarter, we continue to gain critical market share in North America according to third-party data, particularly in the device category but also in servers and storage solutions.
+Demand has been strong for devices for the last 6 quarters, and the partner community has noted that they see this device refresh cycle continuing through at least the second quarter.
+We share this view but expect device demand trends will revert to low single-digit growth rates in the back half of the year.
+Moving on to Slide 6.
+Moving on to first quarter results in EME<UNK>
+Net sales increased 7% year-over-year in constant currency in the first quarter of 2018 with solid top line results across each of our hardware, software and services categories.
+Gross profit grew 16% year-over-year in constant currency, and gross margin expanded 100 basis points year-over-year due to the acceleration of certain partner incentives that I mentioned a moment ago.
+Adjusted earnings from operations were $7.5 million, up from $2.4 million reported last year.
+We've integrated Caase into our operations in the Netherlands and remain excited about the opportunity to scale these services to our clients across the balance of 2018.
+On Slide 7, you'll see that Asia-Pacific first quarter net sales increased 47% year-over-year in constant currency, driven by growth with public sector clients.
+The public sector business has historically been seasonally stronger in the fourth quarter, but recent contract renewals in the education space have shifted some of that business to the first quarter.
+Gross profit grew 20%, and earnings from operations increased 76% to $1.6 million.
+Across markets where we operate, we continue to see clients migrate key workloads to the cloud.
+As a global software provider with strong integration services and application development capabilities, we're well positioned to help our clients make this transition to the cloud.
+Today our public cloud sales drive approximately 14% of our consolidated gross profit.
+With expected increased demand for as-a-service solutions around devices and infrastructure, we believe our software DNA, strong data center capabilities and long history of supply chain expertise will help us serve our clients well and grow our share in this category.
+Finally, the first quarter demonstrated yet again that global demand for IT solutions remains healthy with opportunity for share gains and growth.
+We're executing well on the sales front and are focused on controlling costs and improving the scalability of our business for the future.
+To that end, we're investing in automation and other operational initiatives to decrease the manual process in our business, optimize our cost structure and enhance our clients' experience with Insight.
+We look forward to updating you about these initiatives on future calls.
+I'll now hand the call back over to <UNK>, who will discuss additional aspects of our first quarter financial results.
+<UNK>.
+Thank you, Ken.
+Beginning on Slide 8.
+Ken covered the key highlights of our very excellent first quarter results, so I'll use my time to update you on other matters.
+Our effective tax rate in the first quarter was 26%, similar to the rate reported in the first quarter of last year.
+In the first quarter of last year, we reported $2 million of tax benefit on settlement of employee share-based awards in accordance with the new accounting standard.
+For the quarter -- for the current quarter, our rate reflects U.S. federal tax reform enacted in late 2017 and the related impact on state income taxes and the limitations on deductibility of certain operating expenses and interest expense.
+For the balance of 2018, we expect our effective tax rate will be between 26% and -- 26% to 27%.
+Also, our results in the first quarter included the effect of acceleration of certain partner incentives into Q1 that would normally be earned over the full year.
+We earned them fully in Q1 due to changes to the program and estimate that the accelerated Q1 benefit was approximately $5 million.
+This acceleration was a significant driver of EMEA's performance in Q1.
+As we noted earlier, we adopted ACS 606 effective January 1, 2018, on a modified retrospective basis.
+This means that we have not restated the 2017 results presented in our materials today.
+In our 10-Q to be released earlier this week -- later this week, we will provide a reconciliation from the results under the new 606 rules to the previously used accounting methodology.
+Moving on to Slide 9.
+As expected, the adoption of ACS 606 did not have a material effect on our top or bottom line results reported in the quarter.
+However, the impact on certain balance sheet items was more notable.
+In particular, after all the puts and takes associated with ACS 606, accounts receivable increased $81 million, while net sales increased only $12 million due to increased sales reported net, which is affecting our DSO calculation for Q1 and is expected to have a similar effect on this metric for the balance of the year.
+With respect to our cash flow metrics overall, our cash conversion cycle was 35 days in the first quarter of 2018, up 6 days year-over-year as a result of higher DSO of 4 days and approximately 1 day each in DPO and DIO.
+Just as -- as just discussed, the increase in DSO was primarily due to the impact of ACS 606 in our results for the first quarter of this year compared to the prior year.
+Operationally, we're very pleased with the decrease we drove in aged accounts receivable balances, which reflect our Q1 cash -- which is reflected in our Q1 cash flow generation, and we will continue our efforts to reduce those balances over the rest of 2018.
+Rounding out our cash flow performance, in the first quarter of 2018, our operations generated $151 million of cash compared to a use of cash of approximately $152 million last year.
+As discussed on recent calls, our Q1 2017 cash flow results were impacted by the effect of a timing difference between the collection of a single large receivable in Q4 of 2016 of approximately $160 million for which the payment to the supplier was due and paid in January 2017.
+Adjusted free cash flow, which we define as cash flow from operations less capital expenditures plus the change in the balance of our inventory financing facility, was $54 million in the first quarter of 2018, up from a negative $166 million last year, including the $160 million timing difference I just discussed.
+We're pleased to see the positive shift in adjusted free cash flow generation year-over-year as we have been heavily focused on improving our cash collection cycle.
+This full year, we expect adjusted free cash flow to be between $85 million to $120 million.
+At the end of last year, we gave you a range of $100 million to $140 million for the full year 2018 cash flow from operations.
+We expect to achieve this range but also wanted to provide guidance around free cash flow as we're using more of our inventory financing facility due to growth with certain vendors, and we believe that our cash flows are best viewed when combining cash flow from operations, CapEx and the inventory facility.
+In Q1, we invested $5 million in capital expenditures, down from $10 million last year, and we used $8 million to repurchase approximately 221,000 shares of the company's common stock in this year's first quarter.
+As of today, we've used $22 million in 2018 to repurchase a total of 637,000 shares and do not expect to make any further repurchases in the second quarter.
+Based on the timing of repurchases in Q1, there was no impact on diluted EPS.
+We did not make any acquisitions in the first quarter 2018, but in comparison, we used $181 million to acquire Datalink in the first quarter of last year.
+In addition, we did not repurchase any shares in the first quarter of last year.
+All of this led to a cash balance of $100 million at the end of the quarter, of which $81 million was resident in our foreign subsidiaries, and $259 million of debt outstanding under our revolving and our term debt facilities.
+This compares to $184 million of cash and $371 million of debt outstanding at the end of Q1 2017.
+I will now turn the call back to Ken to review our 2018 outlook.
+Ken.
+Thank you, <UNK>.
+Moving on to Slide 10.
+With respect to our 2018 outlook, for the full year 2018, we now expect to deliver sales growth in the mid- to high single-digit range compared to 2017.
+We're also increasing our adjusted diluted earnings per share outlook for the full year of 2018 to between $4.35 and $4.45.
+This outlook assumes an effective tax rate of 26% to 27% for the balance of 2018, capital expenditures of $15 million to $20 million for the full year and an average share count for the full year of approximately 36 million shares.
+This outlook does not reflect the repurchase of any additional shares that may be made under our currently authorized share repurchase program, assumes no current year acquisition-related expenses, and excludes severance and restructuring expenses incurred during the first quarter of 2018 and those that may be incurred during the balance of 2018.
+Thank you again for joining us today.
+I want to thank our teammates, clients and partners for their dedication to Insight and for the hard work that resulted in our record first quarter.
+We're very excited about the momentum of the business and look forward to a strong year.
+That concludes our comments, and we'll now open up your line for your questions.
+So <UNK>, first, it turns out that the $5 million actually is reflected in COGS, so it did impact gross margin.
+Ultimately it's not in our OpEx.
+But ultimately, just if you think about it, we did take an action at the end of 2017, I think, ultimately.
+I don't think we talked about what the impact of that was, but we anticipate getting some benefit of that coming through in Q3 and Q4, primarily because our expenses ramped throughout 2017 going into 2018.
+The delta is not as great in Q1 and 2 as it would be in Q3 and Q4 from an operating expense perspective.
+Yes.
+Thanks for the question, <UNK>.
+Yes, you can definitely see that we're certainly moving in that direction, which has been a stated objective of ours.
+So I think you can certainly see what's occurring there for us.
+Certainly, the accelerated growth is having a certain -- a big impact for us as well as controlling our OpEx pretty nicely across all the regions.
+So that's -- those are the main drivers.
+We're still working diligently on the service portfolio, which we believe has a lot of leverage in it for the solutions we provide and, of course, as well as been helping expand the gross margin in that scenario that we're very focused on to really help us there.
+So it's not just at the backs of having to hit top line growth.
+We believe we also need to work on improving the margins.
+So those things aren't completely in sync right now, but directionally, we're making good progress towards that objective.
+Yes.
+The -- certainly, we're well aware of what they commented on there.
+We haven't really seen that.
+Of course, there are, as you said, puts and takes, dependent upon the partner itself, where that occurs.
+And we've been managing and balancing that over the last few quarters where that's become an issue in the channels.
+That has not contributed to any real decline for us.
+We're certainly cognizant of it.
+For us, mainly the gross margin decline had to do more with the fact of not hitting the services objectives that we've stated as well as some large enterprise hardware deals that are still very accretive on the ROIC basis, which is why we do those deals, but still lower gross margin.
+And they're pretty significant size, and that's what's degrading the gross margin a bit.
+But at this stage, we wouldn't say it's coming from partner incentive changes.
+Even excluding the $5 million that we talked about.
+Yes, even excluding the $5 million acceleration, that's correct.
+Yes, <UNK>, so we have third-party data that helps sort of solidify a lot of that information on the hardware front.
+Software is much more difficult.
+But on the hardware front, we basically certainly picked up share.
+And notebooks were, by the way, were really strong across the whole channel, and we picked up further share by the data that we get on a weekly basis.
+There was also pretty substantial growth in the categories of servers and storage in the channel as well, and we picked up considerable growth in both of those areas.
+So those are the primary areas, and of course, those are all really big segments of the business in regards to hardware.
+Those are the main drivers.
+It's, basically, it's devices is #1, networking products are 2 and then server storage being 3.
+So those are the categories.
+On the software front, we can state that Microsoft, of course, being the largest provider of software in the channel play, and we're -- we get pretty good information from them on a quarterly basis, showing that we're continuing to maintain our #1 status globally with Microsoft.
+So I think, <UNK>, by our calculation, the -- we didn't have any share repurchases in the original guidance that we gave you when we gave you the range of, I think, $3.90 to $4.00 originally.
+So part of that is reflecting the benefit in the Q2 through Q4 of this year regarding the share repurchase that's about $0.05 to $0.07 ultimately.
+There's a little bit of reduction, a small reduction in the overall tax rate that adds a couple of cents ultimately there.
+And I think we -- there's a little bit stronger sentiment in the -- we believe, in the second half of the year with regard to the benefit we'll get from some of the cost reductions flowing through.
+And that's offset by the $5 million acceleration coming forward, which is about $0.10 for us.
+Ultimately that was contributed to Q1.
+That's not going to be there in the second through fourth quarter.
+So I guess there's a level of confidence in our execution for the remainder of this year.

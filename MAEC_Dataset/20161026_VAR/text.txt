@@ -1,0 +1,80 @@
+Well, yes.
+You always, every year if you go back, you see seasonality.
+Q4 is always our largest quarter with the highest operating margin typically.
+So it's not uncommon for the operating margin to step down from Q4 to Q1.
+When you run your model through, what I am showing at the midpoint is that we will increase our operating margin by about 1 point to 18% on a non-GAAP basis.
+Again, oncology's gross margin will be between 44%, 45%; imaging components in the low 40%s.
+So it looks closer to an 18% operating margin.
+And again, <UNK>, that does include -- I want to make sure everyone understands, it includes some duplicative costs in Varex, as we're hiring people to gear up for this spin.
+We cannot take those costs out to be non-GAAP, and it's between $0.01 and $0.02 in Q1 for those duplicative costs.
+Yes.
+Thank you.
+That's a good question.
+I'd say from a very high level, we've got about 1,500 TrueBeams in the installed base of, I'll call it 7,500 machines.
+Now when you look at some of the capabilities, the interesting thing and when you talk about HyperArc, it's -- HyperArc is available on every one of those TrueBeams.
+So this is our first, really -- we've had some other smaller upgrades that we've offered on TrueBeam, like some imaging improvements and some other things over the last few years.
+But the HyperArc, for some of the stereotactic radiosurgery applications that Dr.
+Khuntia talked about at ASTRO will be available on the Edge and TrueBeam only, so very excited about that.
+I think that will probably drive some of the other install base to trade out to TrueBeam as well, so very encouraged about that.
+We're -- I'd say when you look at the past quarter, Americas was almost virtually 100% TrueBeam, VitalBeam.
+Might have been one or two that weren't, but pretty much everything in the Americas, well North America for sure, was TrueBeam, VitalBeam.
+In rest of the -- and I'd say of those, in terms of the capabilities they had in the fourth quarter, maybe halfish had SRS/SBRT capability.
+When you look at the installed base, big opportunity there.
+Most of them do not have that capability.
+And so I think this bodes well for us next year in two ways.
+One, it's an upgrade opportunity and two, it's going to help us on pricing on TrueBeam.
+It's going to -- we're going to be able to maintain or grow price on TrueBeam, and I think that it's a little bit of the -- we're doing very well on the cost side.
+Where is this margin rate improvement coming from.
+We're doing very well on the cost side.
+The operational team has done a fabulous job getting costs down on TrueBeam.
+But then as well, we're seeing a really nice mix of these advanced capabilities that are giving us some price support on the pricing side.
+I think, if anything, it will be a little faster because of some of the reimbursement pressure.
+Having said that, clinicians are going to want to make sure there's a really responsible clinical comparison done, so our customers are sensitive about that.
+I think one of the exciting things to us is in some applications, the hypo-fractionation trend is going to bring more patients back to us.
+So for example, in prostate cancer, over the last half dozen years, we've lost a little bit of share to robotic surgery.
+But I think now as those start to go hypo-fractionated, we get a lot of those patients back.
+The results are as good or better than surgery, and that's well documented.
+And then as well, I think the other big opportunity from a clinical growth perspective here is metastatic disease.
+This capability really enables a very precise dose deposition, and we think that there are, in the US alone, 300,000 patients that we could have opportunity to go after with this capability and bring some new folks into the radiation therapy paradigm.
+So we're excited about the capability that this opens up.
+Let me just say for year-to-date 2016, service was just low 40%s, so it was about 42% of the total revenue for oncology.
+So call it 60/40.
+And clearly, as both service and software grow faster than the hardware, it does have an upward bias on gross margin.
+And in fact, that has been helping us the last couple of quarters.
+Software is roughly 10% of total oncology revenue.
+Our revenues in service were up 7%, revenues in software were around the same.
+I think the -- as we look forward in the service funnel, I'd say it looks very good.
+We had a little bit of currency last year.
+We had a little bit of timing.
+I think on the year, we would like to see that number be a little bit north of 7%, and that's what we are stretching the team for, but service business continues to be solid growth for us.
+Software, we had a very good year in treatment planning, and again, we talked about that in the script with all of the RapidPlan orders.
+I think this next year with the improvements that we have with our InSightive analytics and with our 360 Oncology product, that's going to be very exciting.
+We're curious a little bit to see how that goes, because 360 Oncology is going to be cloud-based.
+So the financial impact is going to be a little more back-end loaded as we accumulate sites, do the billing, and collect the orders on that basis.
+I think it's going to be a little -- it is a little bit of a transition as we go from an annual license model to a software-as-a-service model.
+So having said that, one of the really cool things about the 360 Oncology product is it can play not just in ARIA Varian sites, it can play in every radiation oncology site in the world.
+And just really a great opportunity for us to get some penetration in sites that we don't have today.
+So I'll answer the first part of that question, <UNK>, as it came up earlier on the call.
+Our cash flow from operations was down year over year.
+We ended both Q3 and Q4 on a strong note, but we were in a hole in the first half of the fiscal year on collections of AR for a couple of reasons: moved the collection staff, we had an IT implementation, et cetera.
+So we're very focused on cash flow, particularly AR, as we move into FY17.
+And on a consolidated basis, our expectation would be that we could get back to around the $400 million level in cash flow from operations.
+CapEx has always been relatively stable.
+And then in terms of share repurchase versus M&A, I think we would always love to prioritize M&A if the right targets come along, and that's the beauty of our share repurchase program, we can turn it on and off and at various levels, depending on what activity in M&A that's there.
+Just as a comment, it's going to be strategically driven.
+How can we strengthen our oncology franchise.
+I don't see us going way out on the edge and doing something, for example, maybe in chemotherapy, to pick one.
+But are there image guidance technologies, are there radiation technologies, are there software technologies that can reinforce our core and give us some higher growth segments to participate in.
+That's what we'll look at.
+In terms of revenue.
+Very little.
+It would just be service revenue, so about $1 million or so.
+It was small.
+Yes, it's somewhere between an annualized $14 million to $16 million market for us, and it's a growing market.
+So we feel very good about Poland over the next several years, and one of the reasons that the timing was right to make the acquisition and go direct.
+Thank you.
+Thank you for participating.
+A replay of the call can be heard on Varian's investor site at www.Varian.com/investor where it will be archived for a year.
+To hear a telephone replay, please dial 1-877-660-6853 from inside the US, or 201-612-7415 from outside the US and entering confirmation code 13647671.
+The telephone replay will be available through 5 pm this Friday October 28.
+Thanks very much.

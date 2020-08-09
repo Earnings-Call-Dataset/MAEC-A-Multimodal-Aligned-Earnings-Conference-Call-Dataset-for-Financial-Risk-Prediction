@@ -1,0 +1,102 @@
+<UNK>, can you say that again.
+Did you say deferred revenues.
+Or did you say ICD-10 revenues.
+What did you say.
+The best way to describe that is the last year, the impact in the first quarter of 2015 -- sorry, the second quarter of 2015 was a reduction in revenues of about $2.7 million, all related to the HealthLine acquisition.
+This year's second quarter, that number is only $439,000.
+So, what I was referring to was the increase in revenue is related to the change in that level of deferred revenue write-down in the different periods.
+So, it's roughly a $2.2 million swing.
+Does that help answer your question, <UNK>.
+Maybe I'm -- .
+Oh, balance sheet.
+The biggest driver there is last year we saw quite a bit of ICD-10 contracts in the balances of deferred revenue.
+Those have all been amortized into revenue.
+That's why that balance is down on the balance sheet.
+It's just been a steady contributor as part of our subscriber account every quarter.
+And this quarter we highlighted one particular account that has over 20,000 subscribers.
+That was great to see.
+I would characterize it as a nice steady pipeline and we're learning to target the middle and upper and lower -- the whole spectrum of that market which has smaller organizations in it.
+You've got to learn to sell those and then obviously we delivered one system-level client this quarter.
+And so I would say we're just getting better at taking our suite in and finding what parts of our suite that we've sold for over a decade to the acute care market is applicable to the post-acute settings.
+And we're just getting a little bit better at that.
+Thank you.
+Yes.
+It's spread over multiple years.
+So, when we think of our internal measures, it's the total contract order value and so that's correct to say that if we sign a two or three year contract, we have multiple ways to look at it but the one we're referring to was the total value of orders, the total contracted value of orders in this first half of the year was greater than ever before.
+I think on average that's a fair statement, yes.
+I think because it actually was post-acute and without naming names it was a competitive situation.
+And we lost to the competition on the renewal.
+So, it was an existing account and we'll work hard in a few years to try to bring it back in.
+And they'll remain a customer for some of our other product service sets.
+So, it wasn't a loss of the customer.
+It was a loss of the customer for the patient experience business.
+And we'll fight hard and try to win them back.
+But it was just a head to head competition and we lost.
+We're always cross selling but at this point the rate that they are dropping off is probably faster than our ability to predict how many we'll save by cross selling.
+So, we've kind of modeled them effectively all coming out by the end of Q1 next year.
+We have a lot of -- as it gets smaller and smaller we get more confident in the scale.
+And what we're seeing now is the next two quarters, being the one we're in now third quarter and fourth quarter, we expect about $1.1 million in this quarter and a little under $1 million in next quarter.
+The reason it's kind of flat is a lot of the extensions we've signed carry people through to January and February of next year and then we expect it to go ahead and drop off.
+In this particular product category we call ICD-10 readiness, probably close to zero through Q1, a rapid drop off after that.
+So, we're pretty confident in this run out and what we're working on is the offsetting revenue from the new product called DNA and we continue to sell that as an offsetting product as well.
+But we are fairly confident that the numbers for your model will be about $1.1 million and a little under $1 million for Q3 and Q4.
+You know, I'm not sure that I'm seeing valuations get any better but we're pretty select in what we've been doing lately.
+You can see from our last couple, we brought in some assets and people that we think are really leveragable across our network.
+So, that's an exciting new area.
+And I would say that the pipeline is active for all three segments.
+So, we're not looking at any one area.
+We have a couple of ideas in each area and we're going to chase them all down and keep investing in this area because we do think that we have a strong network and part of a network is to deliver a network effect in the long run for shareholders.
+And so there are definitely more technologies and assets that can lever the breadth and scope of our network.
+Well, these last two were just that.
+If you think of content more broadly as data or database or in this case tests and databases and benchmarks, so what we're really excited about with these two acquisitions that we just announced is they have historical data sets that allow for proprietary benchmarking and the tests themselves are a form of proprietary content.
+So, both the test questions and the test answers which we have a lot of history on now will form a new type of content for us that I'm pretty excited about.
+I don't think I have those numbers in front of me.
+I should have them but I don't.
+We might have to save that for next quarter.
+But the business had been around for almost 30 years and it sold all forms of software in its history, including purely installed software.
+And along the journey they moved to a subscription selling model and then a web-hosted subscription selling model.
+And increasingly of course we're selling at every turn we can the subscription based web delivered model.
+But there's still a little bit of a legacy installed revenue recognition and some installed sales but at a lower rate.
+So, I don't have the magnitude of those shifts.
+And that's something we can make a note of and talk about in the third quarter.
+The really nice thing about the sales were there were no huge single deals that carried that record and they were spread across a lot of exciting areas.
+So, for example, our new KnowledgeQ product which you can think of as the third generation of our OSHA mandatory training product which is really what put us on the map, is starting to get some traction.
+So, what was it -- a couple million in orders.
+Is that about right.
+A couple million I orders on the new KnowledgeQ product which you remember we own wholly.
+So, we own the content, the data, the platform, it's a fully vertically integrated product.
+So, it will have high gross margins as well.
+So, it's fun to see a little traction in the -- in that particular product.
+Some of the use-based products that involve control centers, which that one, the KnowledgeQ is one of them or getting in the market and so we're seeing steady contribution to the clinical area.
+I mentioned that as well.
+CECenter while not breaking any records has been steady.
+The clinical association content has performed well.
+We mentioned the 22% growth rate across the clinical product portfolio.
+Really, we -- and we had that big win, that really solid win in the post-acute setting where they bought across the entire portfolio.
+So, it was really a nice balanced selling quarter.
+Now, I wish it was balanced across the first six months of the year.
+It all seemed to occur in the last 50 days of the two quarters and so it didn't quite happen the way we had hoped but it did happen.
+Some of it is dependent on the customers in all these cases, when you sell this type of service software and solutions.
+And so we try to carefully weight that with our historical ability to execute.
+And we have some new execution areas like in the provider solutions segment where they've been working on improved and enhanced implementation processes for the last several months that we think will come to fruition in the next coming quarters.
+So, it is an execution challenge but I think we're up for it.
+We've got good teams that are aware of the challenge.
+And it gave us the confidence to deliver guidance.
+So, we try to assess all the risks involved with that and we still feel like we're going to deliver it.
+They'll have a small contribution to revenue in the remaining two quarters but it does represent a new investment area.
+To be clear, these are two small platforms and we'll want to reengineer parts of them and add technologies to them.
+Like we do expect those technologies to leverage our investments in Juice Analytics.
+We'll be building new analytics capabilities wrapped around those products.
+And so it will take a little time to integrate but we'll see some small revenue contributions, even in the second half of this year.
+I'm not going to provide color going out into 2017 and 2018 and 2019.
+I think we clearly had some challenges this quarter that kind of converged on us and the timing of things didn't happen as planned and we spent more on a big enterprise infrastructure system.
+But we dug deep and thought hard about the second half of this year.
+And we feel good about our guidance.
+I think you know, <UNK>, we go through a really detailed planning process in the remaining four months of every year and we'll come back out and share the plans for growth and opportunity 2017 forward.
+We always do that around February.
+Thank you to everyone following our company, the analysts in particular who work hard to convert our annual guidance into quarterly guidance and quarterly modeling which I know is difficult.
+We clearly had some challenges for the quarter but there's some optimism all throughout the company and all the segments.
+So, we're going to work really hard to deliver the second half of this year as we've just guided.
+We look forward to reporting our third quarter and thank you to all the employees working so hard through this period to put all these new systems, software, infrastructure, and execute the implementations that we need to deliver the second half of the year.
+Thank you.
+Look forward to next quarter earnings report.

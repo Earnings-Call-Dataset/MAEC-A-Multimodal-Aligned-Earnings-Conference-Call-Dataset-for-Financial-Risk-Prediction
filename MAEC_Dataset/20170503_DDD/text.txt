@@ -1,0 +1,153 @@
+No, we are not going to break it out for you.
+We're not going to break it out for you, but the materials segment was.
+.
+This is true.
+But Vertex is part of the materials, but it's not -- our core business material growth is not flat.
+So I'm giving you 2 facts.
+(inaudible)
+You're looking at the wrong number, my friend.
+You are.
+It's $38.5 million in materials last year.
+And $42 million this year.
+They're both in the [Q].
+So a good $4.4 million.
+So that's a separate question, yes.
+So in Vertex that we acquired, some of them are conventional materials, and some portion is the 3D printed version of it.
+The 3D printing version of our materials for the NextDent is very similar margin profile as ours, but the conventional ones are not.
+So that's the one core reason.
+And the second core reason, there is a mix there.
+Just mixed within our own materials.
+I wouldn't worry too much about it.
+Yes, we did.
+I don't think we want to talk more about that stuff but I think we have -- all the opportunities are incremental.
+I'm very, very confident to say that.
+I'm talking about in general.
+Yes.
+You can see a lot of people -- when I showed the total cost of operation comparison just with our SLA machines, just look at that.
+What we are talking about that -- let's go to the chart because that's important to really understand the chart that for a traditional SLA, you will -- with a 1 Figure 4 with 16 engines, you have 225 more printers you need when it is a traditional SLA.
+Just look at that.
+So the productivity of this machine with 16 engines is so far different that the kind of capability that we are talking about.
+And that's the reason.
+A lot of people talk about other company technologies.
+There is no comparison here when you have 16 engines and then you have automation.
+You're going to do the productivity -- 1/3 of cost, of a traditional SLA.
+And the reason I did this thing is because I'm comparing with my own technology, so I know what I'm talking about here.
+So I don't have to give any other comparison with other technology.
+So I just want to be clear that when you have that kind of an improvement in productivity and total cost of operation, you're going to have completely new use cases.
+So just want to be clear, this is all going to be new use cases, and that's why I'm very excited about it, not just replacing our existing technology.
+Once you get to this type of total cost of operations, it's an accelerant for our ability to move out of the manufacturing into applications spaces that wouldn't make economic sense or haven't made economic sense historically.
+So this -- you should think about this incrementally, for sure.
+Yes.
+I think -- I'm not going to comment specifically on where our OpEx is going to end up or what our margins might do for the balance of the year.
+But I do think you have to look at -- you got to look at linearity here in terms of -- we said earlier in the conversation that our linearity first half to second half, from an earnings point of view, will be very similar and will have similar linearity from a revenue point of view, first half to second half.
+So our first quarter results were within our planning parameters for Q1.
+So one of the -- so we're trying to help a little bit.
+We're not giving quarterly guidance, but we're trying to help a little bit in terms of expectations [first/second] half here.
+And our plans and the results reflected in the first quarter are reflective of our OpEx plans as well.
+So there's no concern there.
+I don't think we are concerned at all.
+We fundamentally believe that the cost structure we want to do on the cost of sales, again, is very important.
+I want to state that.
+And not really rely on OpEx to drive the EPS growth, and the revenue growth has to come from the innovation we are doing, the moves that we are making in terms of really driving the new product introductions and the coverage model that we are working on.
+So I think you look at the top line growth, the cost structure, what we are doing in cost of sales and I think you will get to the same point that we are guiding.
+Yes.
+And we'll provide color along the way relative to OpEx vis-\u0102\xa0-vis our own expectations and where we can talk about elements that could move it around a little bit throughout the course of the year.
+But we're investing in IT.
+That has started at the beginning of the year.
+We've made near-term investments in go-to-market, which we already believe we're benefiting from.
+So we'll talk about that throughout the course of the year in our quarterly results.
+But we're not ahead of ourselves from an operating expense point of view.
+We're -- our Q1 results were very balanced relative to our expectations.
+Yes.
+So I think there are 2 key applications.
+This is -- that's very similar to any area of manufacturing, right.
+If you have a complex part, and then you want to take it into production, then the Figure 4 will be a great technology.
+And the second one is custom parts, and that's where the dental is.
+Because I said there are 7 billion human beings, and they have 32 teeth.
+So 210 billion custom parts business.
+So I really think those are the 2 core applications I believe, and when you have production volume, Figure 4 will be the right kind of a technology.
+I also believe, in some cases, where -- so I'll give you another use case.
+So we find a start-up, and I need 1 million units.
+And I don't want to do a molding version of that.
+I want to go directly to the production process.
+Because of that kind of a volume, Figure 4 will be also a very good technology to be in a production line because now, you're going to reduce the time to market.
+So you can go from prototyping to production in a compressed time.
+You can save probably 16 to 24 weeks of the development process time.
+And for a start-up, that's a big deal.
+So I think my view is -- those are just simple use cases I've been telling you.
+What I'm finding is more we connect with the customers, more use cases that we are finding whether Figure 4 will be applicable.
+And the reason I'm very excited is the total cost of operation because up to now, in plastics, the technologies were there, good for prototyping, but this conversation on production doesn't happen with the design engineers, it happens with the manufacturing managers.
+And manufacturing managers are going to talk about what's the footprint, how much space it's going to take.
+What's the labor content.
+What are the -- how many operators we need.
+And showing the total cost of operations, I really believe, is the only way to be able to convince the manufacturing manager on the floor, say this is the production technology.
+And for the first time, with Figure 4, we have production technology.
+And we've spent -- the team spent a lot of time building the analytical capabilities to do end-to-end TCO-type modeling, and we can bring that into discussions with customers and be able to evaluate how this would look like for them in a Figure 4-type environment.
+Because traditionally, people are just talking, I'm 16 times faster, around 10 times faster.
+[That's the limit].
+It's a batch process.
+You've got to really talk about saying, okay, how many machines you need to do million parts.
+And if you need 225 machines, that means it'd be kind of millions of dollars of capital that you need.
+So the whole conversation needs to be a complete conversation on total cost of operation.
+And that's why I'm excited.
+Yes.
+It's not -- I'm focused on applications, not on agnostic on applications because it has to be something which makes sense for additive manufacturing.
+We are not going to just replace some molding machine for a traditional parts because then the volumes and the cost structure is very different.
+But it's a complex part that they need in volume, and they can't do it or the traditional processes, their yields are very low.
+And we have a very, very good application here.
+Also, the custom parts, because usually you can't afford to create a mold for every custom part that you need.
+And then third part is the time to market.
+So I think what we are doing is, we are looking -- we're having a conversation customer by customer and understanding their need, the part volume that you need and then figure out the material that you need and then build out using 1 engine, 2 engines, 4 engines, 16 engines for automation post processes.
+And that's the process.
+Not really.
+I think the focus I have on really understanding the total cost of operations because materials is very important component of it but not everything.
+And my view is we should look at the overall equation, one.
+Two, I think that our current material pricing is in line with what I believe what we need to have.
+So there is no real need in looking at material pricing.
+Yes.
+So I think there is one distinction.
+Figure 4 really works when you have a small part, 2 inch by 4 inch.
+I just want to be clear -- 13 inch.
+So when you have a big part, then SLS and SLA technologies are the right technology.
+So I think that's the beauty of really having the technology focused on small parts.
+And that's why SLS and SLA are long-term technology because my view is, the positioning is very clear.
+If you want very good quality part, big part, then SLA is a great technology.
+If you want a functional part, big part, then the SLS is the right technology.
+If you want a small part, which can do both great quality of the part, durability and the functional part, and then productivity is the key, then the Figure 4.
+So I think that positioning is very important.
+So that's why all these 3 technologies will coexist.
+And my view, we will be able to really drive, based on the right kind of application, a right kind of a technology.
+Now our MJP technology, MultiJet printing technology, is also important because they are very much into production into certain key verticals, like jewelry.
+In jewelry market, essentially, we are the leaders.
+And these SLS, SLA technology will not be as applicable.
+But certain applications that we have where people are trying to get an entry-level product for prototyping, the MultiJet printing is also very, very important.
+So the way I would look at it is based on the customer need we need to have the right technology.
+Absolutely, absolutely.
+So think about it.
+When it's the prototyping, you're talking to the engineering department.
+You're talking to design engineers and you're creating more shapes, more ways.
+But when you say, aha, I have a technology not only does the great thing in prototyping, but we can take it to the production, that conversation can't be just with the design engineers.
+Because the production manager or the factory manager, they need to really say, aha, this thing, now I can put it.
+You see a lot of technologies that we had, why they'll not enter production that easily because there is a different kind of measures that you're going to have when you want to make into production-ready technology.
+And they look at the footprint.
+The capital.
+The capital budgets are going to be huge.
+They need to look at in automation.
+Will it fit into my ERP.
+Meaning, you also need to make that into industry 4.0, meaning you need to have the right kind of uptime-based technology.
+And that's why -- this is not just about the printing technology.
+You've got to have the right software workflow and then connecting them with their ERP systems.
+So you need to really look at the connectivity and the IT-based approach that you will take, which is very different.
+That's the reason we are having this conversation with the production managers and IT managers when we talk about implementing Figure 4 into that environment.
+Yes, we are not giving that.
+I think essentially, what I said was Figure 4, materials and our metals are going to be our growth driver.
+And of course, healthcare and software is already.
+But they're going to be the additional growth drivers for 2018.
+My view is, we got to grow in 2018, and double-digit growth in '18 is something that we are looking for, for our revenue.
+We are not breaking it down specifically on that.
+I think what I fundamentally believe, and I think I've talked about it, right, that we need to bring our printer revenue into the positive territory, we need to bring our on-demand manufacturing into the right kind of a growth rates.
+And then continue to grow our healthcare and software and materials business.
+And we are very confident that we'll be in the 2% to 8% kind of numbers.
+Thank you for joining us today and for your continued support of 3D Systems.
+A replay of this webcast will be made available after the call on the Investor Relations section of our website at www.3dsystems.com/investor.
+Thank you.

@@ -1,0 +1,183 @@
+Thank you, and good afternoon.
+Joining me on today's call is <UNK> <UNK>, Cirrus Logic's President and Chief Executive Officer; and <UNK> <UNK>, our Director of Investor Relations.
+Today, we announced our financial results for the second quarter of FY16 at approximately 4.00 PM Eastern.
+The shareholder letter discussing our financial results, the earnings press release, including a reconciliation of non-GAAP financial information to the most directly comparable GAAP information, along with a webcast of this Q&A session are all available on the Company's Investor Relations website at www.investor. Cirrus.com.
+This call will feature questions from the analysts covering our Company, as well as questions submitted to us via e-mail at www.investor.relations@cirrus.com.
+Please note that during this session, we may make projections and other forward-looking statements that are subject to risks and uncertainties that may cause actual results to differ materially from projections.
+By providing this information, the Company undertakes no obligation to update or revise any projections or forward-looking statements whether as a result of new developments or otherwise.
+Please refer to the press release issued today, which is available on the Cirrus Logic website and the latest Form 10-K and 10-Q, as well as other corporate filings made with the Securities and Exchange Commission for additional discussion of risk factors that could cause actual results to differ materially from current expectations.
+Now, I'd like to turn the call over to <UNK>.
+Thank you, <UNK>.
+Before we begin taking questions, I'd like to make a few comments.
+For a detailed account of our financial results, please read the shareholder letter posted on our Investor Relations website.
+We are pleased with our Q2 FY16 results, as robust demand for our 55- and 65-nanometer smart codecs and boosted amplifiers drove revenue up 9% sequentially and 46% year over year.
+FY16 continues to be an outstanding year, as share gains and content increases drive strong growth.
+We are very encouraged with the progress we made this past quarter towards our strategic initiatives that we believe will fuel continued growth in FY17.
+In the handset market, we have successfully expanded our content and existing customers, captured new smart codec sockets at a leading manufacturer and are actively engaged with numerous other market leaders to further broaden our customer base.
+The Company continues to invest substantially in R&D, as we target rapidly growing markets where our ultra low power sophisticated analog and mixed signal processing components add value and an ability to differentiate.
+With a comprehensive portfolio of audio and voice products and an extensive road map, we believe our technology is particularly well suited for smartphones, digital headsets, smart accessories, and the connected home.
+We are keenly focused on growing our content at our top three smartphone customers, while expanding share with other market leaders.
+We remain actively engaged with leading OEMs and are encouraged by their desire to provide compelling audio and voice solutions across a variety of flagship and mid-tier platforms.
+Longer term as features such as noise cancellation and always-on voice moved beyond smartphones, we believe there is a significant potential for our disruptive smart codec technology in the digital headset and smart accessory markets.
+As a leading innovator in audio and voice technology we are well positioned to capitalize on these market opportunities and deliver growth in the coming years.
+Before we begin the Q&A, I would also like to note that while we understand there is intense interest related to our largest customer, in accordance with our policy, we do not discuss specifics about our business relationship.
+Operator, we are now ready to take questions.
+Well, I mean, the precision that we get around giving guidance and all of that, I would say is very similar.
+We're a proprietary supplier of pretty complicated devices.
+Customers have either designed us in or not at this point.
+And so to some extent we're at the -- rather to a large extent we're at the mercy of how good of a job they have done with their forecasting.
+We're blessed frankly in that regard to work with really remarkably good customers that do a great job with their forecasts.
+I -- frankly, it's fairly amazing how well some of them do at predicting what they are going to need in a particular quarter.
+But there is a reason we don't go out past the -- any further past a quarter when it gets to specifics.
+It's difficult to get it real precisely.
+But I would say visibility-wise, generally pretty similar to what we've had in the past.
+Some customers, a little more predictable than others, but generally speaking, our visibility is similar and really very good, frankly.
+No, that's not something we're ready to break out, but it's definitely moved way up the chart, and we expect that node to be a work horse for us for many years.
+We don't think we'll be nearly as late getting to 28-nanometer as we were getting to 55-nanometer.
+But nonetheless, I think for the Smart Codecs, 55 is really a nice node.
+The analog capabilities that we have there, combined with the ability to differentiate with a lot of memory and a lot of signal processing capability is -- really makes that a nice sweet spot for us.
+So, yes.
+Specifically what we've developed over the last couple years is a noise-canceling headset chip for the general market.
+We've been out promoting that to various different customers.
+There's a lot of interest in it.
+We'll see who gets to the finish line first.
+But it really enables a pretty remarkable experience that isn't quite so dependent on form factor.
+It's a pretty heavily digital signal processing adaptive solution.
+It really delivers incredibly compelling performance, and a lot of customers are interested in that and figuring out how to adapt their product plans to incorporate the device.
+So, we feel good about that as really one of the first meaningful opportunities that is emerging in what we would call the smart accessory space for the types of things that we develop.
+We don't think that's the last of those things that will emerge, by any stretch.
+But it is something that's probably sooner rather than later.
+Thanks, <UNK>.
+Well, I mean, inventory corrections are something that we're thankfully not hugely exposed to in most places.
+Obviously, our customers can have inventory in their channel, and we have no ability to control that or any visibility into it, frankly.
+But generally speaking, distributors are a pretty small part of our business.
+Most of our large OEM customers manage their inventory very carefully and very well.
+So it's rare that we end up having any sort of meaningful impact of too much of our inventory prior to having been consumed by a customer.
+So no real issue there.
+We're excited this past quarter to launch and ramp into three, or into a handful of new handsets with the Smart Codec devices, which is, as we've talked about before, a pretty sticky device and a pretty compelling type of a product from us.
+Those phones were really well received, very well reviewed.
+So it's something we're real proud of.
+There's a lot of audio and voice features that are really showcased in those devices.
+As far as products that haven't yet been launched, that's -- it's not really our place to get out in front of our customers and do their PR for them, but we feel good about our opportunities going forward.
+Well, it's really more of the same.
+We see good opportunities for our Smart Codecs continue to do well.
+Amplifiers is a great business for us that we've been able to grow really since that product line's inception a few years ago.
+It's now a big and growing business for us.
+We see really good opportunities for that to continue to grow in the next, really next year and beyond.
+The headset thing is a little bit of, a little bit of a question of when people start latching on and shipping it and all of that.
+But the technology is so compelling that we really feel like that's something that is, is something that our customers are going to get behind and want to differentiate around.
+So we're out shopping that to a number of people, as I mentioned before, and I feel pretty confident that somebody's going to latch on to that in a big way.
+It's -- I've been flying around with the demo set of them myself, what we've created, and it's just such a neat thing to have.
+They are really compelling.
+So that's the number of areas for growth.
+Really, as I look around, I see growth opportunities pretty much everywhere for our product lines.
+Thanks.
+Well, it's -- I mean, Smart Codecs are a big investment by a customer and it's a pretty sticky socket.
+It takes a long time for any of our customers to design that type of thing in.
+You can find more -- I think there's tear downs that are out there just recently so you can probably find a little more detail on that.
+But I would say the design cycle is -- you could use the rule of thumb we've given in the past of ballpark of a year from the time a customer really engages to the time they can launch a device, give or take a little bit here or there.
+And in particular, if there's going to be a lot of software involved, a lot of voice and audio-based features, then it can be a bit longer than that.
+But the great news is that makes it pretty sticky.
+As far as high end and mid-tier, I don't want to cast aspersions on anybody's product line.
+But characterizing it as mid-tier, I think the handsets that we're talking about are all very good.
+They are very well received and reviewed.
+They are connected to a range of third party apps processors, so this is a broken bundle type of a product.
+In a couple of cases, it's with a flagship applications processor, and then there's one device with what I think people would probably characterize as more of a mid tier apps processor.
+But frankly, coupled with our device the features and functions that are delivered are things that are people are really more used to associating with a flagship phone, which is a trend that we've been seeing coming for a while, is that even in the mid-tier, people are wanting to deliver voice features and functions that are more traditionally associated with the flagship devices.
+So it's a big win, one we've been working on for a long time, and something we're very proud of.
+Well, these are general market devices that we can sell to really anybody that they are a good fit for.
+So, they are not custom devices.
+There's not a lot of hardware tweaking in that sense.
+The algorithms, the libraries that we provide that we provide access to from third parties and as well as the tools and drivers and all of that that we deliver along with our device so that they can be easily integrated in an android handset with whichever applications processor the customers choose, there is a lot of custom work that is done there on the firmware side.
+And that's a really nice advantage in that market, because that's the kind of time line that most of the android handset manufacturers are able to move along with.
+Most of them aren't as much willing to sit around and think about what they might want two or three years from now.
+But as far as what we want to execute on now and what software is needed to make that a reality, where we can pull that in in a much more limited timeframe, that's kind of where the differentiation customer by customer comes in.
+Well, I mean, we're certainly in a quarter that is, for most of our customers, typically a pretty strong one.
+Obviously, there's some new product introductions that then lay on top of that seasonality.
+I view our business is a little bit more product cycle-related than it is seasonal per se, although obviously our customers time their product cycle as they see fit relative to the seasonality.
+So they are obviously related.
+As far as product cycles and things that we're expecting to be in coming up, again, I don't know that it's our place to telegraph what our customers are planning and exactly when.
+But nonetheless, we feel very good about our opportunities to grow this year and to continue to deliver growth next year as well.
+Well, it's a number of different factors that drove that.
+I mean, that's -- the Q2 is a pretty typically strong season for those product lines in general.
+I don't know that there's any major takeaways to be had there other than just the market is in reasonably good condition.
+Although various prognosticators of doom and gloom, notwithstanding, things are actually holding out pretty well, and people are buying stuff, and we're in good shape as far as the customers we're aligned with.
+So it's a variety of things that drove those numbers.
+Again, obviously, the bulk of the growth that we've seen and the largest piece of revenue from the Company overall in any event is portable audio.
+So that's really the story.
+We did see growth across a number of other product lines, but obviously the needle mover is portable audio and that's what people should be focused on if they are thinking about Cirrus Logic.
+No, that's just, that's just us -- it's difficult a little bit sometimes to predict your customers' product cycle, in particular when we're talking about what would essentially be a new product on the market.
+We're out promoting it to this particular device to a number of, a number of potential customers for it.
+Lots of excitement about it.
+It's a demo that is really pretty impressive frankly.
+Every customer we've shown it to has pretty much said one word is wow.
+It's, it's a pretty interesting thing for our customers to think about and what kind of impact they could have on the market there.
+So there's a number of other -- there's just a number of factors in play that make it a little bit difficult to predict exactly when somebody will come to market with it.
+But it's something we feel good about that it will actually happen.
+No, it typically -- well, it certainly could be -- if we had a handset manufacturer that wanted to make noise canceling device that went with the handset, then that could happen, I suppose.
+But no, it really -- you could connect -- this is a headset that you could -- this chip essentially is supposed to be the brains in a noise-canceling headset that you could connect to a laptop or your home computer or a phone or any number of things.
+So there isn't necessarily a direct connection to the Smart Codec that would be used in, say, a handset.
+Sure.
+That's a category of application that is continuing to mature and develop.
+The device we're shipping in a watch, frankly, is a device that is also a DSP-enabled device with a fair bit of analog on it as well.
+It was something designed specifically for wearables.
+It's a pretty interesting bit of DSP really trying to implement functions like the always on voice and some, obviously some subset of what we would do in a flagship device in a phone.
+But we'll see how well it's received, and hopefully it will do well in the market.
+I've seen the watch.
+I think it's pretty cool looking.
+We'll see how it does over the long-term.
+It's an application space that we're excited about over the long-term.
+We're engaged with the right customers.
+We certainly want to continue to invest in that space.
+And along with automotive in the connected home over the long-term, we really think it's a great opportunity for Cirrus because we're developing all these technologies for handsets, which is a very high volume market.
+We can afford to spend the R&D to deploy these things initially in handsets, and then as these other areas of the so-called Internet of Things or smart accessories or the connected home become a reality, then we're in the right place at the right time with technology ahead of time.
+You bet.
+Yes, it's a range.
+It's a range of factors that you touched on all of I think.
+Certainly mix gets into it.
+There are supply chain improvements that we have from time to time, and so it's a little bit of -- quite a number of things go into delivering that result and something the team's done a good job on delivering.
+Well, we -- we've telegraphed that we, we think our model in the mid-40%'s works well relative to what we need to spend on R&D and our stated goal of delivering 20% operating.
+And that's really the goal.
+Obviously the margin goal is as high as we can get it without making our customers mad.
+Their goal is generally zero, and so we try to find the happy-medium somewhere in the middle and so we think as a long-term metric, mid-40%'s is a reasonable spot.
+There's other big companies that supply the handset space that are in that range, so it's defensible from that perspective.
+But it can move around by a few percentage points.
+There's ebbs and flows throughout the year, and I will keep you updated one quarter at a time, I guess.
+No.
+We -- I mean, you know us well enough to know, we don't get ahead of ourselves in terms of talking about meaningful design wins.
+But we're definitely talking to the right folks in that space.
+People are doing really interesting stuff with audio and voice in the connected home environment.
+It's an area that's been ripe for innovation for a great many years, but in order for that innovation to really take hold, somebody needs to defragment the infrastructure that's in the home.
+And you really see that now, whether it's the folks at Microsoft with their whole Kortana stuff.
+There's a number of other folks in the bay area that are working on defragmenting the home and providing a wide array of devices or a framework for a wide array of devices to connect in a home.
+And that's really outside of our purview.
+But once some of those network infrastructures within the home are in place, that gives customers of ours a really good opportunity to innovate and deliver value into the home that is in the form of audio and voice differentiation.
+So that's what we're positioned well with.
+We think we're talking to the right folks.
+And we're excited about that as it unfolds over the coming years.
+And again, it's another -- it would be a difficult thing to invest in today if that's what you were going after solely.
+But given that it's the same sorts of features and functions that we're already delivering in a handset, it's a really nice way to take our existing technology and deploy it in a new market.
+So that's something we're really excited about.
+Appreciate it.
+Sure, a little bit more.
+We did two small acquisitions, I suppose what you would characterize as tuck-in acquisitions that are pretty different.
+The one that we referred to specifically in the headset area in the shareholder letter was related to enhancing our software capabilities in the speaker protection space.
+So we had the opportunity to acquire a team that has some technology that's already in the market that is well regarded among a number of different customers.
+A little bit different approach than what we've had internally at Cirrus, and once we met the team and realized really how capable the people involved are and how mature the technology they already had was, we were very excited about getting them on board, and so we're a few months in.
+But they are getting along and working very, very closely with the existing team within Cirrus.
+And I think that's moved us -- moved us forward pretty well.
+The other one is a little further out on the time horizon.
+It's -- so I'll be a little bit less specific about what we're working on there.
+But it's really more of a research effort that is targeted towards some of the biometrics that we could conceivably get involved with as far as voice is concerned.
+So identifying people simply by having access to their voice rather than necessarily a recorded pass phrase or things of those sort.
+So that's not something to bake into any revenue models in the short-term, but it's something that felt like it's very squarely within our wheelhouse, and it's a pretty intriguing concept of things that we could do with that down the road.
+All right.
+Thank you.
+In summary, we are very pleased with our financial results for the second quarter, as sales of our 55- and 65-nanometer smart Smart Codecs and boosted amplifiers accelerated.
+Cirrus Logic's substantial investment in R&D, diverse product portfolio spanning the entire audio signal chain and innovative strategic road map have positioned the company as an industry leader.
+We continue to be very excited about our outlook for growth in FY16 and FY17 as demand for our audio and voice products continues to gain momentum.
+I would also like to note we will be presenting at the NASDAQ conference in London on December 2 and the Barclays conference in San Francisco on December 9.
+A live webcast of these events will be available at www.investor. Cirrus.com.
+If you have any questions that were not addressed today, you can submit them to us via the ask the CEO section of our investor website.
+I would like to thank everyone for participating today.
+Good-bye.

@@ -1,0 +1,214 @@
+Thanks, <UNK>, and good morning, everyone, and welcome to our FY16 first-quarter earnings call.
+We had strong core operating results during the quarter in spite of the difficult macro environment, especially in commodities.
+Total segment net income was up 26% with very strong guidance from securities and global payments segments offsetting declines in our commodities related segments.
+This strong growth in aggregate segment net income was offset by mark-to-market losses on our portfolio of interest rate instruments held to our enhance our return on our segregated client assets.
+This is a reversal of prior gains recorded in the preceding quarter.
+Excluding the impact of these mark-to-market adjustments, our core operating earnings were significantly ahead of the same quarter a year ago although still slightly behind our record fourth-quarter results.
+As we mentioned previously, we have invested in a laddered portfolio of Treasuries to enhance the interest earnings from our client segregated funds.
+Under this program, we don't actively trade in such instruments and intend to hold these investments to the maturity date.
+The impact of this approach has been to enhance our cash interest earnings on these assets by some $7.2 million per annum using the current run rate.
+However, since merging the FCM with the broker-dealer, we now have to mark these and other investments to market which resulted in positive unrealized earnings impact for the immediately preceding fourth quarter and a similar unrealized negative impact in this current quarter.
+We have always managed business to achieve the best long-term commercial results and believe that this is the correct approach to monetizing our interest earnings from these client assets.
+While volatility in the interest rate market may cause some short-term noise in our quarterly earnings, our medium-term earnings and cash flow is enhanced.
+Our operating revenues were up 10% driven by strong gains in securities and global payments offset again by weaker revenues in the commodity related segments.
+We continue to see very strong growth in our global payments volumes and smaller steady volume gains in all other areas except exchange traded instruments and physical gold.
+We reported net quarterly earnings of $8.8 million or $0.46 per share, down 6% from a year ago.
+This resulted in an ROE of nearly 9% despite the impact of the negative mark-to-market adjustments mentioned above.
+Our trailing 12-month earnings declined slightly to $55.1 million while our trailing EBITDA increased slightly to just over $104 million.
+As we mentioned last time, during the fourth quarter we took the decision to exit from our investment banking advisory activities and that should largely be completed during the upcoming quarter.
+I will now hand you over to <UNK> for a discussion of the financial results.
+<UNK>.
+Thank you, Sean.
+I would like to start my discussion with a review of the quarterly results.
+I will be referring to slides in the information we have made available as part of the webcast.
+Specifically starting with slide number 3, which represents a bridge between operating revenues for the first quarter of last year to the current year fiscal first quarter.
+As noted on the slide, first-quarter revenues were $151.3 million which represents a 10% increase as compared to the $137.5 million in the prior year.
+Looking at the performance in our operating segments, the most notable change was a $31.6 million or 184% increase in securities segment operating revenues.
+The largest driver of this increase within this segment was the performance of our debt trading business, which added $26.3 million in operating revenues versus the prior year.
+There were two main drivers of this performance with the first being the acquisition of G.
+X.
+Clarke & Company at the beginning of our second fiscal quarter of 2015, which added $12.8 million in incremental operating revenues.
+In addition, strong performance in our Argentina debt trading business resulting in a $11.9 million increase in operating revenue primarily as a result of hedging gains realized and overall market volatility following the devaluation of the Argentine peso.
+Also within our securities segment, these market conditions in Argentina drove a $3.5 million increase in asset management operating revenues.
+The other driver of our increase in operating revenues was our global payments segment, which added $3.1 million in incremental revenues to $18.3 million, albeit this was down from the outstanding performance achieved in the fourth fiscal quarter of 2015, which was driven by strong spreads in the global foreign exchange markets.
+An increase in payments from financial institutions drove transactional volumes to increase 39%, however, our average revenue per trade declined to $191 per payment.
+Difficult market conditions in the global commodity markets drove a $13 million and $600,000 declines in operating revenues in our commercial hedging and physical commodities segments respectively.
+Tempering the declines in operating revenues in the commercial hedging segment was the fact that customer volumes actually increased year over year with the exchange traded volumes growing 9% and OTC volumes growing 8% versus the prior year.
+A 42% decline in the average rate for contract in the OTC business led an $11.2 million decline in OTC revenues which was the main driver behind the overall decline in commercial hedging operating revenues.
+Finally, CES segment operating revenues declined $1.4 million with exchange traded commissions and clearing fee revenue declining $2 million as a result of a 7% decline in volumes.
+This decline is partially offset by a $500,000 increase in customer prime brokerage revenues as volumes in this business increased 7% over the prior year.
+Moving on to slide number 4, which represents a bridge from first quarter pretax income in 2015 to the current period, overall pretax income declined 11% to $12.1 million in the first quarter of 2016.
+As mentioned by Sean and disclosed in our earnings release and 10-Q filing, the biggest contributor to the decline in pretax net income was the mark-to-market loss on investments held in our interest rate management program.
+In our corporate unallocated overhead segment, we recorded a pretax unrealized loss of $6.7 million on US Treasury notes and interest rate swaps held in this program.
+This was nearly a complete reversal of the $6.9 million unrealized gain that we had recognized in the fourth fiscal quarter of 2015.
+Slide number 7 on the slide deck shows the after-tax effect of these unrealized gains and losses by quarter.
+Securities segment income increased $20.2 million and global payments segment income increased $1.8 million as a result of the increases in operating revenues in these segments.
+The segment income in commercial hedging decreased $9.9 million as a result of the decline in operating revenues and a $1.7 million increase in bad debt expense primarily related to a customer account deficit in our energy business.
+Slide number 5 shows the realized interest income in our exchange traded business which holds our customer segregated balances and encompasses our interest rate management program.
+The continued implementation of our interest rate management program led to an underlying increase in interest income shown here of approximately $950,000 versus the prior year period.
+Overall customer segregated deposits declined 12% versus the prior period primarily as a result of lower margin requirements due to lower commodity volatility.
+Overall, our portfolio of treasury and money market fund investments averaged $1.4 billion over the first quarter which combined with $375 million in interest rate swaps earned $2.4 million in interest income for an average yield of 66 basis points.
+The overall portfolio including both US Treasuries and the swaps had a weighted average duration of approximately 20 months at the end of the period.
+Moving on to slide number 6, our quarterly financial dashboard, I will just highlight a couple items of note.
+Variable expenses represented 56.9% of our total expenses for the quarter, and non-variable expenses which are made up of both fixed expenses and bad debt expense increased $7.4 million or 15% driven primarily by the G.
+Clarke acquisition and an overall $2 million increase in bad debt expense.
+Net income from the continuing operations for the first quarter was a $8.8 million versus $9.4 million in the prior-year period which resulted in 8.8% return on equity versus 10.7% in the prior year.
+Finally, in closing up the review of the quarterly results, the trailing 12 months results have led to a 13% increase in book value per share closing out the quarter at $21.18 per share.
+With that, I would like to turn it back to Sean to wrap up.
+Thanks, <UNK>.
+We believe that we continue to report strong cooperating results despite challenging markets.
+While our results were less uniform across our different segments, our diversity in products, capabilities, and regions allowed us to continue to grow while most others in our industry struggled.
+We continue to believe that we are delivering a best-in-class performance.
+There has been much press coverage recently on commodities in China.
+Some of this turmoil has affected our short-term results.
+However, we believe that this will likely lead to a faster and perhaps deeper consolidation of the industry, something we welcome and that we see as an opportunity.
+As we said last time, we are uniquely placed in our ever changing financial services industry able to provide execution, market intelligence and advice, and post-trade clearing services in nearly every asset class and market globally.
+With that, I would like to turn it back to the operator to open the question-and-answer session.
+Well, I think we pretty consistently have been telling people for probably the better part of six quarters now that we anticipate that the revenue per contractor per trade in global currencies will decline at a steady rate.
+The reason for this being that as we get more of the bank transactions onboarded, these tend to be smaller in size than our traditional NGO segment, and the result of that is we make less per trade.
+We did have an anomaly which I think we discussed last time in the fourth quarter that Q4 had actually went up.
+I think I was pretty clear and signaled to everyone that was an anomaly.
+That was really a result of kind of dislocation we're seeing in some of our key markets where the spreads in the currencies really blew out.
+And it was good for us, but not a sustainable situation.
+So in summary, I think you should assume that we would see a small but steady decline in transaction per trade on the global currency side -- global payment side.
+Okay.
+Well, let me start off with my thoughts on market volatility.
+And these are longer-range kind of thoughts, and you know, clearly quarter-to-quarter or month-to-month, you can have aberrations up or down, I guess.
+But my thought is, we are heading for a period of increased volatility generally in all asset classes which I think will go on for a long time.
+The reason for that is twofold.
+One, from a very macro point of view, the central bank intervention that we have seen over the last seven or eight years has had one of its purposes to reduce volatility in financial markets.
+And as the Fed and perhaps some of the other central banks eventually start pulling out of the markets, that is going to cause volatility to increase, and I think that's what we've seen here in the US.
+We haven't experienced that yet in Europe or in Japan, but I think as that situation normalizes and it's just started in the US and it may take a long time, that is going to drive volatility higher.
+So that's I guess the first point.
+The second point I would make is, regulations that have been implemented over the last five or seven years have had the effect of taking out a pretty large portion of the risk capital that used to support the markets.
+And with the Volcker Rule and banks pulling out, there is just much less liquidity and much less risk capital to provide liquidity in these markets and the result of that is, even small trades can push markets pretty significantly.
+So those two factors together I think are going to cause much increased volatility.
+And if you look at any volatility index, the last seven years has been abnormally low versus what we had prior to the financial crisis.
+I think we may find a situation in due course where volatility is actually higher than what it was prior to the financial crisis because some of the structural changes in the financial markets.
+So that's my anticipation.
+I think it will take a while, but it's going to be a steady increase in volatility with perhaps blips of more and less volatility along the way.
+That scenario for us is a very good scenario.
+Volatility is good for us.
+We are in the business in some of our segments of providing liquidity to our clients.
+As liquidity decreases and risk capital gets extracted, the premium you can earn for providing liquidity to clients will increase.
+So we see both a potential spread expansion and we see more client activity with this volatility.
+So it's not going to be sudden, and it can -- it may not be a steady trend, but I think in the long term we will see better market conditions for us.
+So I hope that answers your question.
+Acquisitions has never been part of our strategy.
+It looks like it has, but it really hasn't.
+We have never gone out and said, we would like this business or we would like to acquire this asset.
+We have a vision of what we want to be, and we want to be the premier financial services company serving midsize customers across all asset classes and in all markets.
+And we are building that.
+We opportunistically looking at acquisitions that come across our desk, and if something fits that strategy and is priced correctly for our shareholders, we will seriously consider it.
+I think we are in a place where we are starting to emerge as one of the larger, more profitable, potentially more dynamic midsize players and as a result of that we are being shown an awful lot of opportunities.
+But a lot of them don't fit with our client-first, client-centric type approach.
+Some of them are just bad business models and then some of them are just priced to the point where they make no sense for us to acquire them.
+So we will continue to evaluate opportunities, but don't think that acquisitions are part of our strategy.
+Our strategy is to build our business, drive our client base, and control our costs.
+That's our strategy.
+If something comes along that fits, we will look at it and plan accordingly.
+Operator, do you have any other questions.
+Hello, <UNK>.
+How are you.
+I don't think we said that.
+<UNK>.
+Do you have any guidance.
+About pre-tax $3.1 million, after-tax $1.9 million.
+This is the last quarter -- well, we did G.
+X.
+Clarke transaction January a year ago, so from next quarter on, it will be in the comparative every time.
+It's only related to the interest rate laddered program.
+It has nothing to do with the G.
+X.
+Clarke business.
+That's factored into their results.
+So the thing we are highlighting was just the interest rate management program.
+Okay.
+So if you -- I think the best proxy to look at if you wanted to make some determination on what this mark-to-market impact could be is probably to look at the two-year Treasury because we run an average duration currently of about 22 months.
+So that's probably the best proxy.
+So if you have a look at September results, the two-year rate -- and this is from memory so I could be off a little bit, but the two-year note was trading around 80 basis points and that's because we brought all those instruments in and I think up until September, probably the interest rate declined about 15 basis points, 20 basis points from close to 100 basis points.
+That gave a rise to about $4 million after-tax gain.
+Then we went into the Fed tightening cycle and at the end of December, it was 102 basis points, and we are now sitting at about 74 basis points.
+So we have seen a total sort of reversal of everything that's happened over a three-quarter period.
+<UNK>, the earnings release we put out yesterday, we kind of put something in there that shows the pre-tax and after-tax for the last five quarters.
+There's only been a meaningful impact for [five quarters].
+Just to be clear, the G.
+X.
+Clarke business, their intent is not to hold any of that inventory to maturity.
+Those are trading assets of being an institutional fixed-income dealer.
+This is solely related to the interest rate management program where our intention is to hold the swaps and the Treasury notes to their ultimate maturity.
+The average maturity on them is 20 months.
+I don't think we've ever not done that since we've done this.
+So that is on this.
+Well, the G.
+X.
+Clarke business was always a very profitable business.
+It's a great franchise.
+They've done really well.
+I think we have indicated to you previously that they have outperformed our expectations and have done a lot better than we thought.
+I don't think that's necessarily being driven by market volatility, although that helps.
+I honestly think just having clear direction.
+They were for sale for a long period of time.
+I think putting that behind them, getting focused back on business, being able to recruit people, all of those sort of psychological factors I think had a big impact.
+Additionally, as we are seeing in every one of our businesses, just continual retrenchment from the big banks from these market segments.
+And it's kind of amazing in some areas how we are able to step in where these banks are just not servicing the customers.
+And it's providing a really good runway for us.
+So I think those are kind of the factors that have affected G.
+Clarke more than necessarily market volatility.
+But market volatility for all our businesses does help.
+No doubt.
+You had -- I mean, you had about -- there was a pickup in bad debt.
+There was some trail over for variable comps but then you also had variable comp related to Argentina business.
+The executives down there running the business, they had a tremendous quarter down there.
+So there's a pickup in some of the overhead there as well.
+And also G.
+X.
+Clarke overhead as well which wasn't there a year ago.
+Right.
+Yes, I think, <UNK>, you were asking Q4 to Q1, right.
+If you're going Q1 to Q1 then, yes.
+G.
+X.
+Clarke, that's about a $2.5 million of additional overhead.
+And there was a $2 million provision as well.
+Not their legal and compliance and accounting.
+All the kind of administrative functions are not necessarily included in segment income.
+Segment income is going to be all the front office revenue, front office expenses, and then the operations costs.
+So the people that are settling trades, making payments, everything related to doing that specific business is going to go into segment income.
+But they did bring with them a compliance team and accounting team, more overhead related to the business.
+And we are slowly integrating that business into our business.
+So that would be an incremental $2 million of bad debt increase plus the roughly $2.5 million from G.
+X.
+Clarke.
+And then the remainder, the biggest chunk of that is going to be $6.7 million mark-to-market loss on the interest rate management program.
+That all flows through the corporate unallocated because the real realized cash interest we pushed down to the segments on those customer segregated deposits in the program, but the mark-to-market fluctuations we just keep in corporate allocated because, like Sean had said, those are temporary fluctuations.
+We ultimately are looking to hold the investments long term.
+So we don't want to view or judge our segments based upon temporary fluctuations in market prices related to something we're going to hold to maturity.
+Good morning.
+It's really, really difficult for us to get clear sort of auditable data from the exchanges or the markets we are active in.
+But we do internally try to track those as best we can using what we consider to be the best proxies.
+So internally we look at that.
+Given that is not an exact science, it's not possible for us to make those public.
+And most indicators we are looking at show us over the last 18 months, let's say, having increased market share in almost every single one of our businesses.
+In some areas, we are a pretty dominant player.
+So for example, the equities business you spoke about which is the unlisted ADR so foreign companies that trade ADRs that aren't listed on NASDAQ or the New York Stock Exchange, being a business we've been in for a long time.
+That business we probably by far the biggest in the market.
+We have dominated -- and you can go look on the pink sheet volume stats there.
+So that's pretty easy to pick up.
+We are bigger than Jefferies, we're bigger than all the big investment banks, and we have a very large market share there.
+Some of the other areas, we may end up with sort of between 5% and 7% market share but that may still make us a tier 1 player just because the industry is so diverse and lots of players in the industry and fragmented.
+So anyway, we track it internally.
+That's I guess the answer but very hard for us to give that information publicly.
+We are doing both.
+I think we really focused on the big banks just because the underlying pool of transactions there is so large and to a certain extent we have good visibility on what's there.
+As I said last time, we feel we are in the third inning of that.
+But we are also onboarding new customers, both on the NGO side, although our run rate there is probably somewhat limited because we have such a huge market share in that space.
+But we're also adding some sort of second- and third-tier banks.
+And also actually starting to deal with some payments companies that don't have despite their sexy front ends really don't have the capability to do anything internationally.
+So we are adding those customers.
+In aggregate, they are smaller than one of the top 10 banks in the world, but it's all incremental, it's all important, and we're going after all of it.
+Thank you.
+All right, operator, it doesn't look like we have any other questions.
+So let's close the call.
+I would like to thank everyone for participating, and we will speak to you all in three months' time.
+Thank you.

@@ -1,0 +1,179 @@
+Thank you.
+Hello, everyone.
+Joining me today are Chairman and CEO, Joe <UNK>; and Executive Vice President of Finance and Chief Financial Officer, <UNK> <UNK>.
+This call will contain forward-looking statements, which reflect Masimo's current judgment, including certain of our expectations regarding fiscal 2018 financial performance.
+However, they are subject to risks and uncertainties that could cause actual results to differ materially.
+Risk factors that could cause our actual results to differ materially from our projections and forecast are discussed in detail in our periodic filings with the SEC.
+You will find these in the Investor Relations section of our website.
+Also, this call will include a discussion of certain financial measures that are not calculated in accordance with generally accepted accounting principles or GAAP.
+We general refer to these as non-GAAP financial measures.
+In addition to GAAP results, these non-GAAP financial measures are intended to provide additional information to enable investors to assess the company's operations in the same way management assesses its operations.
+Management uses non-GAAP measures to budget, evaluate and measure the company's performance and sees these results as an indicator of the company's ongoing business performance.
+The company believes that these non-GAAP financial measures increase transparency and better reflect the underlying financial performance of the business.
+Reconciliation of these measures to the most directly comparable GAAP financial measures are included within the earnings release and supplementary financial information on our website.
+Investors should consider all of our statements today together with our 10-Q for the first quarter to be filed with the SEC in order to make informed investment decisions.
+In addition to the earnings release issued this afternoon, we have posted a quarterly presentation within the Investors section of our website to supplement the content we will be covering this morning -- this afternoon.
+I'll now pass the call to Joe <UNK>.
+Thank you, <UNK>.
+Good afternoon, and thank you for joining us for Masimo's first quarter 2018 review.
+We achieved record product revenue of $204 million with non-GAAP earnings of $41.9 million and EPS of $0.75.
+Our results reflect demand for our breakthrough technologies and solutions and the effective execution of our plan to achieve at least 8% to 10% product revenue growth and 150% of that rate in earnings growth.
+We're expanding operating margins over the next 7 years.
+We saw strong performance in both our U.S. and international business.
+We're realizing gains across the health care spectrum from internationally recognized institutions to community hospitals as the value of our solutions is increasingly recognized by clinicians and administrators for improving patient outcomes and reducing the cost of care.
+For the first quarter, our worldwide shipments of noninvasive technology boards and monitors rose to 53,600 units, which reflects an increase of 12% over the prior year quarter.
+The growth is attributable to both our direct and OEM business.
+We will see some noteworthy CE and FDA clearances during the quarter, including a clearance for home use of our new Rad-97 telehealth monitor with 2-way audio and video capabilities.
+I'll discuss these with some additional business updates later in the call today.
+Now I'll ask <UNK> to review our Q1 results in more detail and provide you with an update to our 2018 financial guidance.
+<UNK>.
+Thank you, Joe, and good afternoon, everyone.
+Before I get started with the financials, I want to take a moment to discuss the new accounting standard, ASC 606, which we adopted in the first quarter 2018 using the full retrospective method.
+Although these changes had a modest impact on our first quarter 2018 results, the adjustments to our historical results were much more significant.
+At a high level, the most significant impact of the new accounting standard is that ASC 606 changes the accounting for 2 primary types of transactions here at Masimo.
+Number one, product revenues related to sales to our just-in-time distributors will be reported going forward and have been adjusted in prior periods to reflect revenue recognition on a sell-to method under ASC 606 as compared to the sell-through method that we had previously -- had historically reported under ASC 605.
+Number two, nonrecurring revenues related to our partnership with Philips will be reported going forward and have been adjusted in prior periods to reflect revenue recognition on a percentage of completion method under ASC 606 as compared to the completion of milestone method that we had historically reported under ASC 605.
+The implementation of the new accounting standard has resulted in adjustments for prior periods that had the effect of increasing our Q1 2017 product revenues by approximately $4.3 million and our Q1 2017 nonrecurring engineering revenues by $6 million.
+As a result of our first quarter of 2017, total revenues were increased by $10.3 million.
+Also, our Q1 2017 non-GAAP earnings per share were increased by $0.11.
+These adjustments to our Q1 2017 numbers have reduced our apparent growth rates for Q1 2018 despite delivering very strong results this quarter that significantly exceeded our expectations.
+For further information regarding the historical adjustments related to the new accounting standard, ASC 606, please refer to the supplementary financial information in the Investor Relations section in our website.
+Now moving on to our financial results for the quarter.
+As another reminder, the financial measures that I will be covering today will be on a non-GAAP basis and will also be based on the new accounting standard, ASC 606, unless otherwise noted.
+For the first quarter of 2018, we reported total revenue, including royalty and other revenue, of $213 million.
+Our product revenues were $204.4 million for the quarter, which reflects growth of 12% or 9.9% excluding the impact of FX.
+As I mentioned previously, the prior period adjustment related to the new 606 accounting standard resulted in the addition of approximately $4.3 million to our product revenues from what we had previously reported in Q1 2017.
+Excluding the prior period adjustment in Q1 2017, our first quarter 2018 product revenue increased by approximately 14.8% or 12.6% on a constant currency basis.
+Just to be clear, this is a comparison of product revenue for the first quarter of 2018 under ASC 606 versus what we had previously reported in the first quarter of 2017 under ASC 605.
+We did not prepare our first quarter 2018 results under ASC 605 since we adopted the new standard using the full retrospective method.
+Royalty and other revenue was $8.6 million for the quarter compared to $14.2 million for the first quarter of 2017.
+The current quarter results included $8.1 million in royalties compared to $8.2 million in the prior year quarter.
+In addition, the current quarter included approximately $400,000 of NRE revenue related to the integration of various Masimo technologies and to Philips monitors compared to an adjusted $6 million in NRE revenues in the prior year quarter.
+The prior period adjustment related to the new 606 accounting standard resulted in the addition of $6 million to our NRE revenues from what we had previously reported in Q1 2017.
+Now let's turn to the rest of the P&L.
+For the first quarter of 2018, non-GAAP gross margin, including royalty and NRE revenue, was 67.5% versus 67.4% in the prior year period.
+Our product gross margin for the first quarter increased 70 basis points to 66.2%, which was in line with expectations.
+We remain positive about the potential to realize increasing gross product margins due to manufacturing efficiencies as well as the favorable mix benefit that we will realize from customers upgrading to the newer RD sensor line.
+Non-GAAP selling, general and administrative expenses increased 8% to $70.9 million in the first quarter, which was well below the rate of our product revenue growth, illustrating a clear improvement in operating leverage.
+Non-GAAP research and development expenses increased to $18.6 million or 8.7% of our total revenue, due to increased staffing levels and higher project-related costs as we continue to invest in delivering innovative technologies to the marketplace.
+Our first quarter non-GAAP operating profit margin was 25.5%, which reflects the stronger revenue and profitability we typically see in the first and fourth quarters of our fiscal year.
+Moving further down the P&L.
+Nonoperating income on a non-GAAP basis was approximately $500,000 compared to $300,000 in the same period last year.
+Now turning to tax.
+Our non-GAAP tax expense in the first quarter was $12.9 million, resulting in a non-GAAP effective tax rate of 23.6% compared to a non-GAAP effective tax rate of 31.6% in the year-ago period.
+The lower tax rate reflected the recent changes in U.S. tax laws.
+Our weighted average shares outstanding for the quarter was approximately 55.6 million, essentially level with the year-ago period.
+We repurchased 196,000 shares during the quarter for approximately $16.5 million at an average price of approximately $84 per share.
+First quarter 2018 non-GAAP net income was $41.9 million or $0.75 per diluted share.
+In comparison, first quarter 2017 non-GAAP net income was $36.2 million or $0.65 per diluted share.
+As I mentioned previously, the prior period adjustment related to the new 606 accounting standard resulted in the addition of approximately $0.11 to our non-GAAP earnings per share from what we had previously reported in Q1 2017.
+Excluding this adjustment, our Q1 2018 non-GAAP earnings per share increased by more than 30% in the first quarter.
+Once again, for further information regarding the historical adjustments related to the new accounting standard ASC 606, please refer to the supplementary financial information in the Investor Relations section on our website.
+Our days sales outstanding improved from 55 days at the end of last year to 45 days in the first quarter of 2018 primarily due to improved cash collections from outside the U.S., where we generally have longer payment terms.
+Our inventory turns were at 3.0 for the first quarter, which was in line with our performance at the end of last year.
+As a result of our strong earnings and working capital improvement, our cash and short-term investments increased by $54.2 million during the quarter to reach $369.5 million.
+Now I'd like to update you on our full year 2018 financial guidance.
+For 2018, we are now projecting total revenue, including royalty and other revenue, to be approximately $846 million, which represents an increase of $10 million from our prior guidance.
+We are now increasing our product revenue guidance from $810 million up to -- or sorry, from $808 million up to $818 million, which now reflects 2018 over 2017 growth of approximately 10% on a constant currency basis.
+Our guidance for royalty and other revenue remains unchanged as we are still anticipating approximately $28 million for the year, which is still comprised of $3 million in NRE revenues and $25 million in royalty revenues.
+Our expectation for non-GAAP gross margins, including royalty and other revenue, remains unchanged at 66.8% for the year.
+Our non-GAAP product gross margin guidance remains unchanged at 65.8%.
+And our total non-GAAP operating expense guidance remains unchanged at 42.4% of total revenue.
+Based on these assumptions, we are continuing to project total non-GAAP operating profit margins of approximately 24.4% of total revenue.
+We still expect to generate $4 million in net interest income in 2018.
+And based on our expected mix of U.S. and OUS profits, we are now estimating that our non-GAAP tax rate will improve to approximately 24%, which is 100 basis points lower than our prior guidance of 25%.
+Also, we are still estimating that our weighted shares outstanding for the year will be approximately 56 million, which does not reflect any additional share repurchases for the remainder of this year.
+Based on all of these assumptions, we are now increasing our non-GAAP EPS guidance to $2.88 for the year, up from our prior guidance of $2.80.
+And from a GAAP perspective, we are projecting a GAAP tax rate of 20.2% and GAAP earnings per share of $3.01 for the year, up from our prior guidance of $2.90.
+Included in this projection are $8 million of excess tax benefits from stock option exercises and approximately $1 million of after-tax foreign exchange gains, which were offset by acquisition-related depreciation and amortization expense of approximately $1.3 million net of tax.
+With that, I will turn the call back over to Joe.
+Thank you, <UNK>.
+Our Q1 results clearly illustrate the expanding adoption of our innovative technologies around the world as we realized SET pulse oximetry sales growth well above the market growth rate for pulse oximetry products once again.
+Our newer product lines, including rainbow and noninvasive blood constituent monitoring, NomoLine Capnography, SedLine Brain Function Monitoring and O3 Regional Oximetry delivered another strong quarter of performance and are adding to our growth rate.
+As <UNK> just described, we now expect to realize product revenue growth of 10% in 2018 and deliver earnings growth for our core business that is even faster than our product sales growth this year.
+In the first quarter, we were happy to renew some important customers, including Rush University of Chicago and the Long Beach Memorial Health system with multiple hospitals in Orange County area.
+In addition, we won a significant multiyear contract with the John Peter Smith Hospital network in Texas.
+Overseas, we secured a substantial contract for Rad-67 Spot-check SpHb with the blood donation program of the transfusion center of the region of Valencia in Spain.
+Through a large U.S. Defense Department contract awarded to one of our OEM partners, ZOLL, we are providing the Air Force, Army and Navy with rainbow Pulse CO-Oximetry technology in a big way.
+As we move through 2018, we're excited about our recent product launches and new product pipeline.
+In January, we received CE mark for our RD rainbow Lite sensors, which enabled the use of our revolutionary Oxygen Reserve Index and RPVi, which is an improved rainbow-based version of PVi but in a less costly sensor than the rainbow sensors.
+We expect to see a growing body of clinical data that supports the use of ORi and RPVi for improving patient outcomes.
+In a recent reported study from the UC Davis School of Medicine, the potential clinical utility of ORi as an early warning of impending arterial hemoglobin desaturation in obese patients was investigated.
+The research has concluded that the study demonstrates the ability of ORi to provide advanced warning of arterial desaturation as an adjunct to SpO2 in this high-risk patient population.
+This additional warning time can potentially translate to improved patient safety by allowing earlier calls for health assistance from a more experienced person or modification of airway management.
+In another recent study, researchers at Children's Medical Center in Dallas concluded that ORi could provide clinicians with a median of 31-second advanced warning of impending desaturation in pediatric patients with induced apnea after pre-oxygenation.
+Masimo's Eve application for helping clinicians screen newborns for critical congenital heart disease, or CCHD, received a CE mark for inclusion in our new Rad-97 Pulse CO-Oximeter in February.
+Eve incorporates a proprietary pre-ductal to post-ductal comparison algorithm designed to reduce calculation errors in the screening process for this dangerous condition, which affects approximately 8 newborns per 1,000 live births and requires intervention soon after birth to prevent significant morbidity or mortality.
+Eve also allows clinicians to incorporate perfusion index into screening, which has been shown to increase sensitivity for the detection of CCHD in infants with pathologically low perfusion.
+In a study of over 122,000 infants, the largest CCHD screening study to date, CCHD screening sensitivity increased from 77% to 93% with the combined use of Masimo SET pulse oximetry and clinical assessment.
+Another study evaluating perfusion index as a biomarker indicated that it would be a useful additional tool in CCHD screening.
+And a recent 2017 study concluded that when PI is included, the sensitivity of CCHD screening can be further improved.
+Masimo's application allows perfusion index to be incorporated into the Eve screening protocol.
+A notable new product announcement during the first quarter was for Replica, our application for smartphones and tablets that works in conjunction with Masimo Patient SafetyNet.
+Replica is a supplemental remote monitoring and clinical notification system that allows clinicians to view continuous monitoring data for multiple patients as well as view and respond to alarm and alerts all from their smartphones or smart tablets regardless of location.
+Replica also displays data relayed from connected bedside Masimo and third-party devices, such as ventilators and patient monitors, while also enabling the display of the high-fidelity data, such as waveforms, in near real-time to the smartphone screen.
+Perhaps most importantly, Replica features intelligent 2-way alarm and alert notification technology derived from Patient SafetyNet's existing capabilities that offers significant advantages over conventional systems, which send notifications without the confirmation of delivery.
+Clinicians can respond to notifications from the app, choosing to accept or forward and see if other clinicians have already responded, thereby improving their alarm response workflow.
+ORi or PVI, Eve and Replica are just a few examples of the product innovation at Masimo.
+We expect to launch a number of other new products during the remainder of 2018, which will further help clinicians improve outcomes while lowering the cost of care.
+In closing, we're encouraged by the steady gains we're achieving for increased adoption of our differentiated technologies.
+Masimo is dedicated to helping health care professionals improve their patient care practices and associated outcomes, all while reducing cost of care.
+With that, we'll open the call to questions.
+Operator.
+Well, thank you, Rick.
+The Philips relationship really at all levels has been excellent, perhaps even better than we had expected after years of being in the courts with each other.
+I believe while we haven't done all the things that we said we're going to do together, the numbers that we're seeing from the volume of technology adoptions through Philips customers have been ahead of both of our anticipation.
+And I think that's one of the reasons despite trying to give you our best account of what the future holds, we'll keep exceeding our numbers.
+So as far as what's next and the programs ahead, we're excited about new technologies that are going to be introduced by Philips from Masimo and some of the marketing initiatives that we're going to be jointly doing that have begun, to some extent, in some of the countries but still remaining to take shape in other countries.
+So hopefully, we'll continue not just doing what we say we're going to do together and expediting some of the plans we had together that may have not exactly gone at the speed we both hoped, but hopefully we'll -- despite that, we'll continue seeing results that are better than both sides had anticipated.
+Well, Rick, the general ward market really is in a way dumbfounding because it's a no-brainer.
+By monitoring patients from a general floor with Masimo technologies, hospitals have over and over and over again have shown dramatic reduction in costs and dramatic reduction of some elimination of preventable deaths due to opioid overdose.
+So while we can brag about over 1,000 systems that have been implemented in the last few years in different general floors around the world with Patient SafetyNet and the SET technology, it's still a drop in the ocean.
+So we see the general floor market as potentially 3x to 4x the size of the intensive care unit and operating room market, and yet the business coming out of the general floor is a small fraction of the critical care, intensive care market.
+So when will every hospital say enough is enough, this is something we have to do, it saves us lives, it saves us money.
+I don't know.
+We saw the Joint Commission recommend it.
+We saw Anesthesia Patient Safety Foundation recommend it.
+Even CMS a couple of years ago recommended it.
+And it may unfortunately eventually come to maybe some laws that get everybody to do it.
+All right.
+Thank you, Rick.
+Just sticking on the first point, on the manufacturing efficiencies.
+Where we saw those where over the course of the last year, in 2017, we were kicking off a lot of unfavorable manufacturing variances, where we're trying to vertically integrated a second -- another plant, a manufacturing plant.
+And that basically, we knew -- we felt going into the year that, that was going to get behind us.
+We're starting to see that turn into more favorable variances, so we're starting to get the absorption that we need out of those fixed overhead costs, and we're seeing positive variances for the first time in a while.
+So that's one thing.
+And of course, we've got strong volumes.
+Our underlying volumes of our business, our sensor volumes have been very strong and that's helping us to absorb more of those costs.
+On the RD sensors, we're still in the early innings of RD conversions.
+We've mentioned this before that it's going to take next several years as we work through converting new customers and renewing contracts with that new sensor line.
+But it's definitely still very early innings, and we've got a lot of opportunity there to drive to a much lower cost but also a much higher quality.
+Sure.
+Thank you, Larry.
+Well, I think last summer, we were looking at acquiring something that kind of fit very tightly to the parameters we had.
+And while they have been short-term dilutive, we thought it would be long-term quite accretive.
+But some assumption changed on the 11th hour of that acquisition, and we ended up not doing it.
+Since then, we haven't found anything like the parameters I had explained to what we were looking for.
+So while we are looking at some tuck-ins and small M&As, there's really nothing out there that unfortunately fits what we were looking for.
+So we'll continue looking, but for the foreseeable future, I don't see a significant M&A in our horizon.
+Well, I like the Apple announcement today.
+Stock buyback doesn't seem like a bad idea, so we're going to look at that.
+I think you noticed we did buy some more shares today, but we might get more aggressive with that in the future.
+Yes, of course.
+We had another really strong quarter with rainbow and SpHb specifically.
+I think -- no, we decided to not break down everything for you, but it grew over 100%, so it's a nice, nice quarter.
+As far as the flu season, the flu season was probably one of the worst from a health perspective and probably one of the best from a pulse oximetry sensor revenue perspective, and so some of that certainly helped in our numbers.
+The good news is as indicated by our guidance, we not only increased our guidance for the year based on the additional revenues we saw in Q1, but we even raised it slightly above that because we do continue seeing the very solid outlook, positive outlook, short-term, midterm and long-term.
+No.
+It's really -- I mean, I'm sorry, I don't have that number on the tip of my hand.
+But what I can tell you is that generally strong -- very strong flu season may add about 1% to our quarterly numbers.
+I don't think they're that significant, especially because of the growth we continue to have in our total business.
+I think if our business was most -- more flat and more falling to oximetry business growth, the impact might look larger.
+Thank you so much.
+It looks like you and Rick have not looked outside your window.
+It looks like the weather is really nice in New York and Boston.
+So I think you guys are our only 2 questioners today.
+The rest of the analysts are out playing.
+So thank you all for joining us, and we look forward to our next quarter report.
+Thank you.
+Bye-bye.

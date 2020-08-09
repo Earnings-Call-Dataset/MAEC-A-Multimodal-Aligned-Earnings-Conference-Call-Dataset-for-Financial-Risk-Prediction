@@ -1,0 +1,72 @@
+I guess the only thing that I can think of, <UNK>, maybe by the nature of my hesitation here, is it is not much.
+I think about commodities, and in particular oil and some sovereign wealth funds that have downward pressure based on a $45 to $50 a barrel oil pricing and the need to continually fund ongoing operations.
+That's probably the place that it binds mostly and I would say it is a discrete set of customers; important, but I would say in the overall scheme of things, our exposure to commodity prices directly is not that material.
+Let me start with ETFs and then I will broaden it out.
+Our ETF strategy is, we have come from a place where most of our -- originally our business was more institutionally oriented and we're moving to more retail oriented business which requires that you hire wholesalers in this country in intermediaries in Europe in order to distribute that product.
+We've made pretty big investments over the last 18 to 24 months to increase our distribution sales force in the US and we're doing something similar in Europe.
+So the strategy is multi-fold.
+One it is to, in addition to the institutional world, orient towards the retail world and with that, bulk up our distribution.
+That distribution would be to financial planners, advisors, broker dealers, private banks.
+The other leg of the strategy is really around the product side.
+You noted in the beginning of your comment that we've introduced quite a few products.
+The orientation of the new products that we are bringing to market have characteristic -- have the characteristic of less pure beta, more involved strategies and therefore higher fees.
+So the one that I spiked out in my comments was the product we did with DoubleLine.
+We have several other products, one with Blackstone, a bank loan fund.
+We're orienting towards maybe more sophisticated and higher-yielding products.
+The last point I would make is we have been open and continue to be open to package somebody else's investment expertise in our ETF structuring here and distribute it through the distribution force that I just mentioned.
+I guess if I broaden the question out, the other main emphasis of the SSGA strategy that I would put a bright light on is the whole solutions world, which for us 401(k) has been a big area of success over the last couple years.
+Ron has a big history on that and even more broadly, just packaging solutions for not only the institutional but the retail world and we think with our combination of beta and many flavors, ETFs as vehicles, that were well-positioned to succeed in both ETF and the solutions world.
+Yes, appreciate the question.
+Broadly, we have been, even though we don't talk about a lot on these calls, we haven't lost our way with regard to continuing to invest in things that will be the future growth drivers of the business.
+The one I like to point to, enhanced custody, four or five years ago, a vision that took a couple years for it to incubate, and now, as you know, it's driving most of the growth in our securities lending business.
+That's one example.
+There several examples around.
+If I go to the third pillar of the strategy, the data and analytics business, which we launched two years ago now, there's several strategies that we are focused on there.
+At the core, it is this data aggregation piece so if we are dealing with an asset manager or an asset owner, the ability to aggregate up data, not only our own data but data from other sources through a data warehouse, cleanse it, make sure that it is available real-time, is the foundational stage of that business.
+And then on the back of that, risk tools, we recently introduced a stress-testing tool for fund products where it is really a big data application where we see subscription and redemption history.
+We know the characteristics of the underlying funds.
+We can predict or allow a customer to predict how much liquidity is required given the likelihood of redemptions.
+Interestingly, the SEC and increasingly other regulators are leaning into the asset management industry to get more sophisticated about liquidity stress testing and fund products, so that converges nicely with that.
+That's just one example, <UNK>, but it is clear as day to me that the future is going to be defined by who wins that space, who can digitize their data and who can develop those analytic products that are the value add to customers in addition to all the custody and operational activities that we conduct.
+Sure, <UNK>.
+First on the revenue side, at this point, and I acknowledge that things can change in the future.
+At this point, I don't expect other second-order impact from the deposit actions other than the lost NIOR on the excess deposits themselves.
+At this point, again, we are not expecting, for example, to lose client relationships over this, although again, it is something we are very sensitive to and that's why we've taken the measured approach that we have.
+As it relates to the hedge fund and private equity deposits, as we've talked about before, while historically a chunk of those have -- we've considered to be operational deposits because they are, in fact, a part of the normal operations and part of the custody relationship and we do believe to be sticky, they don't count under the LCR rules as being operational deposits.
+A portion of those we have seen decline, so it portion of the excess deposits for those clients are included in the deposit reduction that I mentioned, but as you would expect, a portion have remained sticky and we do expect that they will remain sticky going forward and will continue to look at the all-in economics of those relationships, but expect them to be sticky.
+No, it does not.
+We view that as a very attractive segment.
+<UNK>, it is <UNK>.
+First of all, you are asking the kinds of levels of detail that we intend to cover as part of our Investor Day presentation and I suspect we will give some overview on the Q4 call.
+I just think it is better laying out the entire plan to then talk about some of the specifics around things like equity market help or the market interest rate environment.
+I think it is better handled over the course of a multi-hour Investor Day than on this call.
+In some respects, <UNK>, it doesn't matter the asset type, the asset class, the geography.
+To me, it is really reflective of this pretty cumbersome Western world financial landscape that we've created.
+What we are talking about enhances the value of a passive fund, an alternative fund, a private equity fund, if we can move things through here without human touch, it benefits everybody.
+To the point of -- this is where the world is going, not just financial services.
+Everybody's looking at digitize their environment and it is hard to do and I think that we have a huge benefit in that we're a large global Company, but we have laid the foundation long ago -- common systems, common processes to get there first.
+Today's announcement is really a reflection of needing to pull it in so that we can get there first because of somewhat the environment, which puts pressure on cost.
+I think has the attendant benefit of cost saves at the same time it accelerates our product strategy and should make us a more valuable counter-party to our customers.
+I'd rather not go into a huge amount of detail, but it is fair to say that we did have a processing error related to a significant, once in many, many years, maybe decades, kind of class-action situation.
+So as result, of course, we reimbursed the funds that were impacted so that it was our loss, not theirs.
+<UNK>, I would say that losses or gains get extreme scrutiny around here, not just to -- well, to do two things, to figure out what happened but also to make sure that it can't happen again.
+We take great pride in our record of low operating losses so when an event like this happens, we turn the place upside down to make sure that everybody understands what happened and why it won't happen again.
+Sure, <UNK>, this is <UNK> and <UNK> can add to this.
+It is very much a bottoms-up exercise.
+We have hundreds of people and hundreds of work streams that are looking at -- I'll take the simple one.
+When an electronic trade comes in, that end-to-end process, how many breaks are there in it, what technology needs to be applied, what process needs to change in order to affect what outcome.
+We have measured the breaks, the outcomes, the cost saves, the people, the systems.
+It is an a lot of detail and very much bottoms up.
+You can't just dictate top-down a number and expect that people are going to figure it out.
+We have spent the better part of a year and doing the analysis that leads to today's announcement.
+<UNK>, you want to add anything.
+What I would add is that remember, this does build off the backbone of the IT and ops transformation program.
+So one of the infrastructures that was created as part of that is as we moved to, for example, centers of excellence and as we did the detailed process improvement work from that program, as <UNK> indicated we got very specific, very granular on our unit costs for providing different services along the chain.
+As <UNK> indicated, the $500 million stems from a review of those different links in the chain, if you will, and how much we expect to save through particularly applying additional technology to those various links.
+Again, the piece that is specifically we are going to focus on over the next three months will be the pacing and sequencing.
+Again, I know several of you are interested in, well, what does that mean for 2016 and that is work that we need to do some additional vetting around.
+Then there will also be some additional investment cost restructuring programs, et cetera, that we've got some additional detail to build up as well.
+Thank you.
+Thanks, Stephanie.
+I want to thank everybody for their questions and attention today and we look forward to speaking with you after the fourth quarter.
+Thanks.

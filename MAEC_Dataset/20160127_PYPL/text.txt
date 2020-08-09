@@ -1,0 +1,91 @@
+Look, there's a number of already stuff going on in browser.
+And so I think you're exactly right.
+Like the day that I came here to PayPal was the day that Apple Pay was announced.
+Those two things are etched in my mind.
+It's been 18 months, right.
+In the last 18 months what's happened.
+We've added 25 million-plus net new active accounts.
+We have more engagement than we've ever had in our base.
+We have accelerating TPV, accelerating revenue.
+And why is that.
+Honestly, it's because payments is really hard.
+And it is hard to crack.
+And the other thing is that there are value propositions out there that focus on a piece of payments.
+And we have a very comprehensive value proposition.
+And I will say this, we are not standing still.
+I have operational reviews every single month with my team, and the last thing that I said to the consumer and the merchant team is: I truly believe that what they've done and where those teams are going will widen the distance in terms of our value prop.
+And I hope to be able to -- I think you can see some of that with One Touch.
+I hope you'll see other things as we move forward.
+We basically -- this has not been an easy journey for PayPal.
+We've had to fully upgrade our technology platform, but we've done most of that.
+And because of that, really for the first time, the innovation that's always been here but just not able to get through our pipeline, is now actually coming into the market and innovating at scale.
+You've seen the backlog of sales that we have right now.
+That's because of demand, and demand for the value proposition that we have on the Braintree side.
+One other thing I would just say.
+At this point the more announcements that come out, actually the better off I think it is for us.
+It is so confusing out there for a customer.
+You have another announcement coming out.
+There's a lot of Balkanazation going on, a lot of confusion.
+You can only use this pay in this retailer, this pay with this technology, this pay with this device.
+And we've got a real trusted brand.
+We have a base of almost 180 million customers right now.
+And I think that the more confusing it is out there, the more people turn to brands that they can trust and that work across any OS, any device, any POS technology out there.
+And I actually think at this point, although I respect every one of those competitors greatly and we watch everything carefully, our biggest competition is our ability to execute against our game plan right now.
+We have a good game plan.
+We have a really good road map to increase our value proposition for both merchants and consumers.
+And we just need to stay focused on that and get those things out into the market.
+And our results hopefully will continue to do the same thing that we've done over the last 18 months.
+Thank you very much.
+<UNK>, that's a great question.
+So you're right.
+We had Paydiant, Modest, Xoom.
+Modest, you're starting to see some of that already with what we've been able to do on Pinterest, what we've been able to do with Facebook, what we've able to do with contextual commerce.
+And stay tuned on that front.
+We've got a lot more coming out on that piece of it.
+Xoom just closed.
+We're obviously moving to integrate that, put that onto the PayPal platform.
+When we're able to do that instead of it just being US send out, we'll start to integrate other countries, other corridors, cross-sell.
+So we think there's a tremendous leveraging that we can do on the Xoom side.
+Paydiant, we've spent a bunch of time now integrating Paydiant into the PayPal and Braintree stacks, and just had a review again last month.
+We're largely complete with phase one of that.
+And what that really allows us to do is take a platform that -- a white label platform.
+Just think of our -- a lot of our offline movement is to provide a white label platform to allow merchants to write their own apps, because merchants understand their consumers better than we will ever do that.
+And they know their consumers.
+They know the value prop that a consumer will respond to.
+They drive people to that value prop.
+Like Subway is a great example, right.
+They can customize their sandwich.
+They can define the pick-up time.
+They can come in, skip the line, get immediate rewards.
+Then decide to pay with those rewards right at the time of the sale or split tender that.
+All of that is power through our unbranded platform.
+So it's not just payment types, but rewards, and offers is paid.
+That's sort of the ultimate way that we're thinking about it.
+And we are really -- I think we are going where the trends are going.
+We're not trying to react to, let's NFC over here, or whatever it may be.
+That doesn't mean we won't have NFC as part of our [platform].
+We don't think that's a winning strategy, just substituting tapping a phone for swiping a card.
+What we think is a winning strategy is allowing merchants to use the power of mobile to get closer to their customers.
+And we want to help power the difficult plumbing of that, all the payment processing of any payment type, rewards, offers, et cetera.
+And we are having substantially different conversations with our merchant base as a result of that platform.
+Much more strategic in nature, much more about where the industry and the nature of commerce is going as opposed to, as <UNK> said in his remarks, as opposed to just being a tender type, a part of checkout in which really, that's really a commodity, or increasing commodity element versus the digitization of commerce going forward.
+And so I couldn't be happier actually with that Paydiant acquisition.
+It is the engine piece of that in-store element.
+You connect that, which I think was really the leading in-store platform player with us, PayPal traditional, which I think was like a leading player in online, and Braintree which is a leading mobile player.
+Combine those together, it's a very -- and combine, then almost 180 million consumers that we can bring to light up that platform by doing credentialization of identification, et cetera to take friction out of the sign-up process; and it's a pretty strong set of assets that we bring to the offline market.
+That's a tremendously large opportunity for us, but we are just starting here.
+I don't want to oversell it at all.
+I love the set of assets we bring to it.
+But it's very, very early innings on that.
+Operator, we have time for just one last question.
+So the first one is that is an accurate [assessment].
+We are just beginning on those conversations across the ecosystem, but the answer to that is, yes.
+And more to come on that as we move forward.
+In terms of Apple Pay and Android Pay, we don't release that information.
+But as we talked about in other conferences or calls, when Apple Pay first announced, half the brands that they announced were integrated through the Braintree platform.
+When Android Pay first announced, half those brands were integrated through our platform.
+So we have a really good insight as to those different services.
+But we wouldn't release those publicly.
+I think that's it.
+Thank you, operator.
+Thank you everybody for joining us this afternoon.

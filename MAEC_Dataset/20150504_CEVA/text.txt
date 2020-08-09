@@ -1,0 +1,157 @@
+So thanks for the question.
+I think they are -- these are important questions.
+First of all, in terms of cycle time from design to royalty payout.
+It depends on the product line that we are offering.
+When it comes to Wi-Fi and Bluetooth, because we are offering a package with hardware and software -- it's basically a black box that people can put there -- the cycle time can be relatively short.
+It could be between -- at about a year.
+If you compare it to the baseband, baseband is usually two years so it's almost half of it.
+We have vision it can be between 12 to 18 months and --.
+Base station.
+And base station is even longer.
+But I think when it comes to non-baseband, you're going to see Bluetooth and Wi-Fi licensing getting into the market first and then vision and the rest of the stuff.
+Just remind me what was the second question.
+The idea for the rationale of acquiring RivieraWaves was to find a company that has a strong technology focusing now and has big market potential, basically agnostic to all the -- to different SOCs.
+And we are with the connectivity -- Bluetooth, Wi-Fi -- and we are hitting their 20 billion, 30 billion total addressable market.
+We have modest expectations for now and we see things beyond it, much beyond it.
+But we are very extremely happy with this acquisition because it's not just a matter of the business that we are making.
+The team is extremely competent and we are working fantastic with them.
+Sure, <UNK>.
+I think we have managed to demonstrate pretty nice control over the expenses, even post the acquisition.
+If you look at the last three quarters in a row, the non-GAAP OpEx were about $10.9 million.
+I don't anticipate that to change or to go up.
+It could go maybe for one of the next two -- third quarter or fourth quarter slightly down because of some timing of R&D grant payments.
+But other than that we are for now, for this year confident with these types of levels.
+And I think we have taken all the measures already and do not anticipate any surprises from that point of view.
+Okay.
+You need to be almost a magician in order to guess all these factors and there are quite a few of them, both from the industry perspective, market share perspective of our customers, and the pace of adoption.
+I think we could go and try to tackle this a little bit slower and maybe focus more on the second quarter.
+We will give you some data around that and then see how you could extrapolate that on an annual basis even for next year, because I think that is a bit too much to answer.
+Not to ask, but to answer.
+For Q2 we are getting some interesting data.
+We're talking about -- we are breaking down the baseband and the non-baseband.
+Why.
+Because the non-baseband, especially Bluetooth, are becoming significant volumes.
+I think <UNK> mentioned earlier, last quarter it was about 20 million Bluetooth devices.
+Next quarter we're looking for somewhere between 25 million to 30 million, so the pace of growth is pretty significant.
+The ASPs, of course, is much lower.
+On the base -- and this is why we are separating it.
+On the baseband stand-alone feature phone, smart phones, new LTE design wins that we have talked about, Q2 this year versus Q2 last year there will be a 25% growth in ASP just for baseband.
+Because the mix is more favorable with higher ASPs into the smartphones, and as you so correctly distilled, the majority of the volume -- for example, this quarter 140 million out of 200 million -- were feature phones.
+So the more we moved to smartphones, including the LTE, that number should increase over time.
+It does increase and it is increasing in the last two quarters quite significantly.
+Q1 8%, Q2 we're talking about 25%.
+If I look at the total blended ASP of the Company and now adding the low-cost, but high-volume Bluetooth and the like devices, Q2 year-over-year we are looking at about 10% or slightly above 10% improvement in the overall ASP of the Company.
+To try to guess how this is going to look like by the end of the year it's very difficult, because again there are too many factors here.
+We need to break each one down.
+I think we try to each part of that and the most interesting in the near term has caused the ramp-up in the LTE models and the 3G, the broadband CDMA.
+I would say let's be smarter, a little bit smarter next quarter and we could probably give more guidance and more insight for the upcoming quarter.
+Maybe when we get closer to the year and have a little bit more feeling of the year.
+I don't feel comfortable guessing, but giving you factual numbers for this next quarter based on the royalty reports that we have received so far.
+Not all of them, but a big portion of them.
+This is <UNK>.
+I wouldn't, at least for the coming year, go to a non-baseband and baseband seasonality.
+By the way, non-baseband it could be pretty straightforward, at least for the coming years.
+[Christmas, post-Christmas].
+In handsets you have basically two low seasons, Q1 meaning Q4 -- and this is mainly because this is the time when Samsung do deals with their inventory.
+They are, by the way, different than others.
+And Q1, which is the real post-Christmas low season.
+Now it has become a bit complicated with CEVA because we are in LTE and 3G outpacing the number, outperforming.
+So that's what happens in the coming -- this is our guidance.
+In LTE and 3G we are outpacing; we are doing more than the market is doing.
+And it happened to be that in 2G it was we did -- it was an undershoot because of inventory in China, which could be in a post-Christmas area.
+But in general, it's framework.
+In terms of reporting on royalty, Q1 and Q2 are seasonally weak.
+Q3 is the maximum.
+Q4 is a bit lower than Q3.
+We have pretty good understanding.
+We don't have all of them, but we have, I think, a pretty good picture on the numbers.
+For going forward --.
+You mean, the guidance.
+The guidance or the Q1.
+Q1 overall ASP, on a year-on-year basis, went up just about 10% I believe.
+Just, sorry, 8%.
+It went down.
+It went down, because last year in Q1 we had $3 million Bluetooth devices and this year we have 20 million Bluetooth devices.
+So that mix changes completely.
+If you recall, last year we had 20 million, 21 million non-baseband.
+This year we're looking at 32 million non-baseband; 3 million a year ago Bluetooth, 20 million this year Bluetooth.
+So that takes down ASP for non-baseband quite significantly, but as we talked in the past, it opens up the markets for billions of units in Bluetooth devices.
+For us, for now hundreds of millions over the next couple of years.
+I think we need some of the new market.
+The old markets, like that you remember from years ago like DVDs or hard disk drives, that's pretty much dead.
+The new markets of non-baseband, other than the ones that <UNK> mentioned around connectivity are of course the imaging, the division, the surveillance cameras.
+These have much, much higher ASPs than Bluetooth or even the average of the Company for baseband today.
+2x that amount, more or less.
+And that should kick in as late as this second half of the year and then mainly into 2016, the bigger numbers.
+Yes, we include audio.
+The audio non-baseband will be Bluetooth.
+It is the design cycle is very short and Wi-Fi, audio, vision, and last is base station.
+The longer lifecycle; design cycle and lifecycle, by the way.
+Not sure I follow the question.
+You mean 2014 or 2015.
+That's a good question, because Q1 last year was a spike because of consolidations of companies.
+There was two of these last quarter.
+So if you compare license revenue Q1 this year and last year, you will see it was just like 1%, but it's not a good reflection of the situation last year.
+It was a spike quarter.
+Usually we are at the $5 million to $6 million.
+Now we are speaking about $7.8 million licensing and many more deals.
+So that's a good point.
+No, no, no.
+I don't recall that we have a consolidation.
+We have one small one.
+Small one.
+Yes, one of the Bluetooth players.
+No, I think it was windowshopping.
+Usually these companies pay us on time.
+We didn't have these types of DSOs, as you recall for many, many quarters and this time we got it two weeks after the quarter end.
+So I would think it's something more windowdressing on their end, but we already got out of that $11 million.
+$7 million has been paid in the first three weeks, so that would be my guess.
+That's a good question.
+Surprisingly, we are expecting licensing revenue coming from all over the product line.
+Also in baseband, because last quarter we signed a company in Asia elaborated in the prepared remark, (inaudible) which is like the Verizon [locally].
+I think China newcomers from SOC, people that want to go to tablet and understand that it should be LTE connected and they are doing -- looking to integrate LTE.
+I've seen many companies in China also looking to machine to machine, what is called (inaudible) and they need LTE.
+So I see LTE also as baseband activity is coming.
+Of course, even in the non-baseband tier Bluetooth and Wi-Fi it's hollow.
+It's all over the place.
+We are -- we were saying in the prepared remark about Bluetooth 5.0.
+This standard is coming and people want to go into this one because it has a substantial feature set.
+So I cannot pinpoint one area; it is all over the place.
+That is the reason that we are optimistic.
+I think it's a temporary pause.
+I don't see any other way for companies, for China not to go to LTE big time.
+I see Qualcomm and others pushing strong, even carrier obligations for next generation.
+What we see in the design wins and expectation for customers is LTE is big time this year in China.
+When it comes to what we are seeing in vision is we see the automotive market is a big potential.
+It's not just the size of the market and the complexity there, but also we believe that what is going in [this area] will dictate next-generation feature phones -- excuse me, smartphone and other areas.
+So we're investing in automotive grade type of LTE (inaudible) or vision DSP.
+We are investing in machine to machine, which is part of IoT.
+We believe [cut zero] will be big time.
+We think that (inaudible) of LTE advanced for handsets is a potential.
+We think that our software-defined radio approach is something that will appeal, even to incumbents that don't use our DSP today.
+So these are, more or less, the areas that we are looking.
+There are a few things that we are looking from the M&A side, a contextual awareness and stuff like this, but we can elaborate these later.
+In 3G handsets, I think the pricing that people are speaking about, $30 to $40; it's pretty much the pricing that we are going to see in this here.
+Bear in mind one thing: there is no difference between 3G and LTE in terms of the application, of the user experience.
+LTE is lower end and 3G the low end, so there shouldn't be -- the screen is pretty much the same.
+The AP is the same.
+You had Wi-Fi and stuff like this, so there shouldn't be that big difference between 3G and LTE.
+With this pricing it's elastic, meaning volume should go up.
+By the way, I mean just to remind you and everyone that 3G, in a sense, we sort of missed.
+When Intel went out of this and when Broadcom decided to bail out of that market, the market in China sort of skipped the TD-SCDMA, the local 3G, and they are all jumping almost from feature phones to LTE and higher-end smartphones.
+That is the demand there.
+So it's not that we had a big portion of that market and this is a headwind for us, all that I think a lot of it is behind us and now what we are gaining share is the market share from Qualcomm that cannot compete at these prices, as you alluded to.
+On the 3G part and the 4G, it's all new design wins that we have talked about in the last hour.
+So I'm not sure we're that much affected from the 3G market.
+In terms of potential, it has been eventually higher there.
+And as I said in the prepared remarks, our expectation is go with this vision technology.
+ADAS is basically object detection, and to expand this or take advantage of it because here is where the activity right now is coming, to expand it to smartphones and tablets and [medical] and robotics and drones and stuff like this.
+So that's one thing.
+With whom we are competing, the incumbent there is a company out of Israel, Mobileye.
+They use their own DSP.
+We are partnering with many companies and there are many companies coming from different angles, from the Samsung side, from SOC side and they need a vision DSP.
+By the way, they use us not just because of the DSP, because CEVA has -- and I elaborated in my prepared remarks -- we are also providing algorithms for providers there.
+Thank you and thank you, everybody, for joining us today and your continued interest and support of CEVA.
+We will be attending the following upcoming conferences and invite you to join us there.
+On May 10 we will be at the Oppenheimer Israeli Conference in Tel Aviv and on May 28 we will be at The Benchmark Company One-on-One Investor Conference in Milwaukee.
+Thank you and goodbye.

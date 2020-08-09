@@ -1,0 +1,168 @@
+Thanks, <UNK>, and good morning, everyone
+Thank you for joining us on the call today
+I'll start with some key points for the quarter, so please turn to page 3 in the slide deck
+This was a good quarter for us
+Organic growth was 7%, which was better than we expected
+Growth was broad based across most regions and industries
+Globally, transportation was particularly strong
+We also saw signs of improvement in certain verticals within heavy industries
+Overall, the economic environment has improved
+From a regional perspective, our largest market, the U.S
+, grew over 5%, continuing the trend we saw in Q1. We saw growth in most verticals, led by strong performance in automotive
+We also saw growth in some of the heavy industries in this region
+As expected, EMEA returned to growth and was up 12% year-over-year
+Growth in the region was strong in both developed and emerging markets
+OEMs in this region are adopting our latest midrange technology
+We then saw double-digit growth in Asia
+The transportation in consumer verticals continued to perform well
+Heavy industry saw growth, except in oil and gas, where capital spending remained soft
+Most countries in the region were up, including China, which again grew double digits
+Latin America declined 3%, as growth in Mexico was more than offset by declines in Brazil and the rest of the region
+I'll make a few additional comments about the quarter
+Our recent acquisitions continued to perform well, and contributed almost 2% of sales growth
+Our Process Business improved, and was up 3% year-over-year organically
+If you add our recent Maverick acquisition, Process was up double-digits
+Architecture & Software had a very strong quarter, with almost 14% organic growth
+Within this segment, Logix was up 13% compared to last year
+I'm also pleased with double-digit EPS growth in the quarter
+<UNK> will elaborate on Q2 financial performance in his remarks
+Let's move on to our outlook for the balance of fiscal 2017. The macro outlook continues to improve
+Recent projections of industrial production growth have been adjusted upward and rates are expected to improve over the course of the year
+We expect continued growth in the consumer and transportation verticals
+We now expect heavy industries to be slightly up for the year, even with continued softness in oil and gas and mining
+Turning to guidance
+Taking the macro outlook and our strong first half into consideration, we now expect fiscal 2017 organic sales growth in the range of 4.5% to 7.5%
+Including the impact of acquisitions and the smaller headwind from currency, we now project fiscal 2017 sales of approximately $6.25 billion at the midpoint of guidance and are increasing the adjusted EPS guidance range to $6.45 to $6.75. At the midpoint, this guidance represents 11% EPS growth for the year
+<UNK> will provide more detail around sales and earnings guidance in his remarks
+Before I turn it back over to <UNK>, let me add a few comments
+We're obviously pleased with our results through the first half of fiscal 2017. The Connected Enterprise is gaining traction, and we are increasing the number of pilots across industries, applications and geographies
+As we move forward, we will sharpen the focus of our investments to expand the value we provide in the Connected Enterprise
+We are confident that our differentiation will continue to fuel attractive returns for our share owners
+I also want to highlight two additional accomplishments during the quarter
+We are very proud to have received the Ethisphere award for the ninth time, naming us as one of the world's most ethical companies
+This recognition is a testament to our strong culture of integrity
+We are also proud to have been one of the 2017 Catalyst Award winners
+The Catalyst Award honors innovative organizational approaches that address the recruitment, development and advancement of women, and have led to proven measurable results
+We are thrilled to receive this recognition from Catalyst for our culture of inclusion journey, demonstrating our commitment to our employees, customers and community
+Our people are the foundation of our company's success and we're committed to creating an environment where employees can and want to do their best work every day
+Our employees, partners and suppliers continue to make the difference at our customers, the dedication and enthusiasm creates a loyalty that sets us apart
+With that, I'll turn it back over to <UNK>
+Who, as you know, recently joined my senior leadership team as CFO; many of you know <UNK> from his former role in Investor Relations
+<UNK>?
+Good morning, Shannon
+We really don't see this as an unusual surge that's going to quickly go away and the reason that we have the confidence in that is that, the growth is somewhat broad based
+These aren't one-time big projects that we've been tracking
+The diversity and the relatively small size of the projects that we're seeing lead us to believe that this isn't a surge or a catch-up from deferred spending in the main part
+Shannon, our recent experience make us very confident in our strategy
+So the combination of our technology, our domain expertise and the partners that we're bringing into bear on these customer problems across a variety of industries and across the world make us more optimistic than ever that we're on the right path
+The other important point is that the concept of pilots of taking these in tangible bite-sized chunks to start with is really resonating with customers as opposed to telling them that they have to rip down everything they already have across their enterprise
+So that step-by-step approach, recognizing that customers all started different places on the journey is really resonating with the people we're talking with
+Thank you, Shannon
+I'd say, the majority of it is retrofits and upgrades
+There's some new capacity in certain industries, fairly diverse set of industries represented there
+So we saw semiconductor, metals, infrastructure, power, chemical, even outside of the Maverick acquisition, so fairly broad based
+And again, the work that we're seeing, these aren't large one-time projects as much as they are more moderate-sized projects and flow business
+Thank you, <UNK>
+Good morning
+We still believe that the 30% to 35% conversion on incremental volume holds
+So, there will be some hiring in certain places, particularly in customer-facing activities, so for services and sales
+But the basic conversion on the incremental sales remains as we've discussed before
+Thank you
+Good morning, Steve
+Semiconductor also contributed to the growth in China
+Sure, a couple of comments on that
+First of all, there's no question that there's a pervasive optimism among most manufacturers about the prospects for more competitive environment going forward
+We haven't seen large evidence of wholesale re-shoring
+We have some anecdotal evidence that certain of our customers have slowed or delayed any moves that they might have been considering to move manufacturing out of the U.S
+And we certainly see manufacturers, both U.S
+-based manufacturers and manufacturers from the rest of the world optimistic about the power of the American consumers
+So you see new tire plant and so on that are being located in the U.S
+I don't think anybody is factoring in tangible changes
+I'm trying to guess what the form of any (31:19) might look like at the end
+But there's a general optimism there
+Yeah
+Usually we do
+I mean, some of our strongest customers are U.S
+based multinationals who have a large footprint around the world
+We go after everyone regardless of where that plant is
+Yeah
+Just to clarify, support for the PLC-5 will go on for many years, so you won't be able to buy a new one forever, but we'll continue to support the PLC-5 for a long, long time
+That being said, I would say that the upgrade cycle of customers moving to Logix or CompactLogix technology has maybe ticked up a bit, and that takes several forms
+So that could be a complete project that one of our services and solutions businesses undertakes
+It could be an offer to make it attractive to get the newer hardware
+And many times, the engineering is performed by our system integrator network
+So that presents itself in a variety of ways
+We see customers doing that to get the performance from newer processors, and also to be able to take advantage of the information management capabilities of those
+So, this is very much a part of the overall Connected Enterprise value proposition, it's not just the higher level of software and services; it begins with that solid foundation of smart connected products
+So transportation is expected to be up high-teens for the full year with automotive higher than tire when we look at those together
+Consumer will also be – will be strong for the full year
+And within that, food and beverage is strong, Life Sciences, although smaller is really very strong, continues a trend that we've seen for some time, and then home and personal care a little bit weaker
+A little better than (37:04)
+(37:14) the prior guidance
+Rich, I think that's a safe assumption, and that's kind of the normal run rate that we do every year
+Yeah, there's – and we've talked before in the heavy industries and in particular oil and gas and mining, there are parts of the world that we've seen a little bit of additional orders uptake, but on balance, that's not expected to have a big impact on shipments in the full year
+So, there's increased quoting activity, but we're not seeing wholesale evidence that we have hit an inflection point in those components of the heavy industries
+The slightly improved forecast for heavy industries is really driven by some of the other areas, which are in themselves significant, things like metals and infrastructure and chemical and power
+Thanks, Rich
+Good morning
+We are
+We think it's several components that contribute to share gains in that area
+Obviously the technology is a piece of it as PlantPAx continues to mature and gain in functionality
+But as important is the domain expertise and that's on the part of the people representing our offering, as well as the people delivering it
+We certainly got a big boost with the Maverick acquisition, not only in their specific business, but in the help they can provide us around the world and we think that we've taken some steps to invest in that expertise, as well as in the market access
+So we're pleased with the development of our process capabilities and we do think that that's going to be a significant contributor to our growth going forward
+One of the things we've talked about before with process is because this is a relatively newer part of our growth strategy; we don't have the very large installed base of annuity services in that area
+So we have that as less of a hedge against project downturn
+But that is certainly an important part of [Technical Difficulty] (40:41)
+Sure
+So, we remain primarily an organic growth company first and foremost, but we do look at M&A, as we've talked about to add a point or more of growth a year
+Importantly, it's to accelerate the execution of our strategy
+So we look first at acquisitions, for their ability to add to our technology innovation, our domain expertise and/or our market access
+And we do have a good pipeline, it's got little targets and it's got some big targets from around the world
+So we're looking at that, and our intention is to increase the positive impact of acquisitions
+Well, we think that it is translating into share gains
+We think some of the areas of particular strength for A&S are, of course, Logix
+So including ControlLogix as well as CompactLogix, where we're seeing continued success in winning new OEMs with our midrange offering
+We're also seeing motion as a strong contributor, and that's certainly a product family that's in high demand by OEMs, material handling and packaging OEMs. So those are a couple of the highlights
+We think there's no question that the macro is helping, but we think we're taking share because we're offering new products that are what the market wants
+So, transportation was strong in EMEA and as well the midrange gains, which are often at consumer machinery builders or a couple of places
+We're seeing activity among the tier suppliers within automotive, and some of that activity is driven by certainly powertrain, as well as electric vehicle activity
+Well, Process – and <UNK> will come back and size the overall business for us
+What we typically are talking about in Process is the control portion
+So there is a significant amount of business that we enjoy that we're not tracking as closely that goes into Process applications that's more power centric
+So what we're really talking about is where we're beating DCS suppliers to do the basic process control
+If you take kind of the two ends of the spectrum, at one end you have primary process control in a refinery, which is not a target application for us
+At the other end, you had batch or hybrid control, which may very often sit in a customer that also has discrete packaging
+And that's one of the most available areas for us that we're doing a lot of today, where a customer finds it valuable to have a single control platform that is used in the wet end and the dry end of the plant, so to speak
+There's a number of applications that do fit into continuous process control that are available to us
+We see some aspects of chemical, like the specialty chemical business for instance, Life Sciences, where we have good solution for those applications
+So there's a continuum
+That also changes in time, as we add functionality to PlantPAx in a very deliberate way
+We have the technology and the expertise to address those applications, we bring in another set as part of our targets
+Well, the one I mentioned
+So the primary process control in a refinery is not one that we would invest time in
+In a given refinery, there is typically quite a bit of Rockwell installed base of intelligent motor control products
+There is also a lot of process safety that we can participate in for emergency shutdown and fire and gas safety, but the primary process control is not a focus at this time
+Thanks, Rob
+Mexico continues to be a source of strength for us
+And it's across a variety of the industries
+It's just not enough to more than compensate for the geopolitical uncertainty throughout most of the rest of the region
+So between Brazil and Venezuela, just as a couple of them, Mexico wasn't able to keep the overall region in continued growth
+Thank you, Andy
+Good morning
+Operator, we'll take one last question
+So, solutions and services would be most impacted by heavy industries
+And so, you've seen the relatively weaker performance of solutions and services versus products, primarily a function of depressed resource-based industries over the past couple of years
+The pilots that we've been doing, if I understood you correctly, are really a combination of both products as well as solutions and services
+So, we're looking at new value from information solutions with MES software, as well as services
+And while sometimes we're providing the engineering there, other times customers are looking for some consulting help from us, and then they're applying the products their-selves
+So, I wouldn't look at the pilot as exclusively a business that goes into solutions and services
+It's really broad-based across our entire portfolio
+And as I mentioned before, customers are in different stages of their journey
+Some of those pilots have converted into orders, to be sure, others have completed their first pilot and are digesting the results and making plans to roll it out, and others are in earlier stages
+But we're happy with the development, and we expect that to continue where you'll see pilots in very different phases as part of an overall healthy funnel
+Sure
+Well, there's strong competitors out there
+But even with these recent moves, we intend and expect to continue to gain share
+We've got a platform that combines real-time control and information, it brings value to machinery builders, and that same platform is able to bring value to the end-user as well, once the machinery is integrated into a line, we think it's somewhat differentiated and the fact that we use a common platform for both discrete and Process is somewhat unique
+Thank you

@@ -1,0 +1,106 @@
+Thank you for joining us to review CorVel's September quarter.
+Revenues for the September quarter were $124.5 million, up just slightly versus the revenue for the September 2014 quarter.
+Earnings per share for the quarter ended September 30, 2015 were $0.41 a share, up 10% over the same quarter of 2014.
+In the quarter, our Enterprise Comp TPA product continued to add accounts and to implement our next generation claims management platform.
+The trend toward integrated programs in worker's compensation favors CorVel's proprietary service continuum.
+As I indicated in the June quarter call, we're also steadily transitioning our operations to incorporate our workflow management processes.
+We made progress on that in the quarter.
+Turning now to our markets, the market for our worker's compensation services remains active and evolving.
+As the labor market improves, worker's compensation expenses become more problematic, which in turn slowly improves our market.
+The slow recovery from the great recession created an understandably soft worker's compensation market.
+The worker's comp market lags the economy but should gradually improve as has the economy.
+Private equity ownership in our industry has largely completed the phase where such firms can resell their properties to one another, and would seem to be entering the distribution phase of their involvement.
+As we've discussed on previous calls, the leveraged financings for such firms create incentives to cut costs and to look for short-term sales gains.
+CorVel had a lot of customer renewals over the last 12 months.
+We retained a high percentage of them and yet we did lose one public entity, which impacted our revenue in the September quarter.
+The private equity owned firms compete on price as they look for short-term gains, which can support a sale of their leveraged positions.
+Our investments in technology are creating a steadily strengthening business model.
+We have sought to match pricing in the softer markets and yet to maintain our pace of investment in further product development.
+Over this time, our strategy has permitted CorVel to gradually improved our competitive position.
+Over any short period of time, we can have either wins or losses that create some unevenness in our result.
+The September quarter results demonstrate our organization's ability to adjust to soft spots.
+I am particularly proud of the work our associates accomplished.
+Our product development goals and related operating strategies require almost constant adjustments to our operations.
+These in turn require a dedicated team prepared to deliver good service, while also implementing a steady stream of enhancements to the service process.
+Our customers, as has been well documented, are dealing with a difficult period of hostile government actions and regulations.
+This has caused companies to be less inclined to make investments, and to take additional business risks.
+This includes not wanting to move their administrative programs between vendors, such as for example their worker's compensation programs.
+A more friendly administration in Washington would definitely improve employers' willingness to invest for the future by making changes in their programs.
+The broader healthcare market is increasingly important to CorVel's overall results.
+The health market has the two substantial mergers going on among the top five group health insurers, and understandably, that has consumed a lot of their operating management's time.
+Both large and small carriers continue to also adjust to the ripple effects of the implementation of the Affordable Care Act.
+In addition, carriers are learning how to substantiate payments integrity when new forms of review are added to both network provider contracts and also out of network transactions.
+The package of actions required to facilitate improved review of hospital bills is becoming more well defined, which improves the acceptance of CorVel's CERiS services.
+CorVel's CERiS line of hospital bill review programs is also evolving as we learn more about the individual segments within healthcare.
+I am referring here to the differences in the services required for Medicare, Medicaid, and the subsets of group health.
+CERiS has implemented the appropriate product configurations for the private sector and thus management has extended its efforts into the Medicare segments of the total market.
+One segment of the Medicare market is made up the MACs.
+These are the Medicare Administrative Contractors that handle claims processing for CMS.
+We are introducing our reviews to the Part A MACs.
+Our service will first be piloted to establish its efficacy for these entities.
+So the sales cycle in this segment is likely to be long.
+During the quarter, we continued our expansion in the long-term care insurance market, another subset of the health market.
+This segment values our case management and our medical evaluation services.
+By adding these services to our offerings in the health insurance marketplace, we are expanding the foothold CERiS established with its hospital bill review services.
+We should have a better sense of the opportunity in this segment by the middle of the coming year.
+We had a good quarter, I'd say, in product development, the integration of our various managed care capabilities continues.
+Effectively interfacing our integrated environment to the claims professionals operating on insurance company claims systems is one of the goals of our development program.
+This will continue the improvement we've made in the past and the effectiveness of our outsourcing services in the insurance industry.
+Components of this effort include the implementation of next generation servers, improvements to our wide area network, web service capabilities, ease of access tools, the conversion to ICD 9/10, our new backup data center in Nevada, and new clinical modeling tools.
+During the quarter, we implemented the first two instances of our web service interface with carriers.
+Web services, for those not familiar with this phrase, refers to a technology that streamlines the interface of outsourced information processes to the customer's internal systems.
+Expanding the use of workflow software has been a multiyear project.
+During the quarter, we expanded the development of our rules engine in the management of claims.
+Moving from traditional claims management models to one employing workflow concepts is a large project.
+Implementing such changes in our production environment also requires meaningful field resources and effort.
+Progress continues.
+This will be a multiyear effort, but incremental improvements are expected each quarter.
+Technology is progressively reducing lags and inefficiencies in both the treatment of patients and in the related financial transactions.
+Real-time interactivity between managed care and claims management is critical to this progress.
+Workflow techniques allow us to integrate CorVel owned managed care activities in a more productive manner than can be accomplished by our competitors, who must interface to subcontractors and the variety of their different systems.
+We are continuing to expand the features for our mobile app for claimants, as well as to the provider portal for healthcare professionals.
+These are integral components of the CareMC ecosystem.
+Each has practical current uses, but each will also require a lot of work to reach their ultimate roles in the interfacing of healthcare to insurance management.
+Another implication of the steady expansion of our workflow management software is the increased use of call centers within our organization.
+Local service has always been and remains a core tenet of CorVel's service philosophy.
+Providing local branches and staff has allowed the Company to build longstanding partnerships with its clients.
+As one customer has somewhat bluntly put it, they feel it's nice to have a throat to choke across the street.
+We continue to seek local presence, and yet increasingly are able to provide components of our service from specialized service centers.
+This combines local responsiveness and relationships with the power of sophisticated and specialized centers.
+This is a transition in our internal organization structure that has been going on slowly over the last 10 years and which will continue well into the future.
+While it has been enabled by our investments in technology, we believe it is also important to prepare us for the competitive environment likely in five to 10 years.
+As our operating model has evolved, we have increased our use of operations metrics and are building the technical capabilities to provide service at greater scale.
+Our operating management and development staff have been doing a nice job with each stage of implementation.
+This is a bit like renovating a plane while still having to fly it.
+Now, I'd like to discuss our product line results for the quarter.
+Patient management continuing to evolve into what we might think of as patient engagement includes third party administration, that is TPA services, and traditional case management.
+Revenue for the quarter was $68 million.
+Gross profit increased 19% from the June quarter.
+TPA services continue to be an important driver of overall Company results.
+We've had some nice wins both during the quarter and subsequent to the end of the quarter.
+As I mentioned earlier, we did not renew a large public entity account, causing a short-term reduction in our total volume.
+We continue to implement new features in the software supporting this service as well as to evolve our service centers for claims management.
+Our claims manager branding is increasingly recognized by the brokerage community, allowing us to be involved in more bidding opportunities.
+However, brokerage relationships are longstanding in the insurance industry.
+So we'll be building our position with them for some time to come.
+Case management sales were up sequentially and annually, and gross margins were up more than 30% sequentially and 17% annually.
+Nonetheless, results in this segment remain below the levels we believe we should produce.
+During the quarter, we continued to expand case management service volumes in the group health market.
+This had a favorable impact upon our margins.
+Following this launch, we will seek other opportunities in the group health marketplace.
+Network solutions revenue sold in the wholesale market -- that is, outside our TPA activities -- for the quarter was $56 million, flat annually and sequentially.
+Gross margins were down 4% sequentially but were up 9% annually.
+CERiS hospital bill review services were sold -- are sold primarily in the health market and are included in our network solutions totals.
+CERiS prospects are active and we continue to expand the market segments into which we sell this product.
+Now, I'd like to cover a couple of additional statistics.
+The quarter ending cash balance was $25 million and our DSO, that is our days sales outstanding, in receivables was 43 days compared to 44 days a year ago.
+Just under 300,000 shares were repurchased in the quarter for $9.7 million.
+We have returned $379 million to shareholders in the last 18 years, repurchasing 33,550,000 shares.
+Shares outstanding at the end of the quarter were 19,787,000.
+Diluted EPS shares were 20,063,000 for the quarter.
+Shares outstanding were reduced 4.7% this last year.
+Now, I'd like to turn the call back over to our operator for the question and answer session.
+Thank you.
+Thank you, Tim and I'd like to thank everyone for joining us for the quarterly earnings call.
+We'll look forward to speaking to you again after the current quarter.
+Thank you.

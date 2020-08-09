@@ -1,0 +1,131 @@
+Good afternoon everyone
+Our company began 2017 with strong performance in oncology systems, continuing growth momentum in Imaging Components, and a $76 million GAAP charge related almost exclusively to the California Proton Treatment Center or CPTC in San Diego without which we would have handily beaten the high end of our earnings guidance range for the quarter
+To summarize, our first quarter results we are reporting, strong oncology global order growth of 10% together with a four point improvement in its gross margin rate
+Imaging Components gains in both orders and revenues, company-wide revenues of $763 million up 1% in both dollars and constant currency
+GAAP net earnings of $0.22 per diluted share, after reporting $0.64 per diluted share in charges related almost exclusively to CPTC
+Non-GAAP net earnings of $0.75 per diluted share, after recording $0.34 per diluted share in charges related almost exclusively to an accounts receivable reserve for CPTC and Board approval of the spinoff of Imaging Components into a new public company Varex Imaging in the next few days
+Focusing first on Oncology Systems, orders totaled $586 million for the first quarter up 10% in both dollars and in constant currency
+Broad-based demand for new equipment as well as software and services drove strong order growth across all geographies during the quarter
+First quarter orders in the Americas grew by 5% in dollars and constant currency, orders in North America grew by 7% growth in both dollars and constant currency
+The trailing 12 month order growth rate in North America is 6%
+First quarter oncology orders in APAC rose by 29% in dollars and 24% in constant currency while EMEA grew orders by 8% in dollars and 10% in constant currency
+In India we booked $18 million for a multi-linac project with a customer that will total $35 million over the next 10 years
+This is our first combined hardware and software as a service deal in the region and it demonstrates our ability to meet the growing need from customers for a cloud hosted software solutions
+Elsewhere in EMEA we continue to perform strongly in Poland
+As you will recall we acquired our distributor there last year
+During the quarter we won the majority of tenders and booked more than $20 million
+The highlight in our APAC region was China, where we achieved 25% order growth during the quarter with sizable gains in both equipment and services
+It appears that competitor protests to tender wins in this market are diminishing and are being resolved more rapidly
+We grew orders in Japan where we're seeing positive signs of a market recovery
+We supported an SBRT focused luncheon seminar at Jastrow [ph] the Japanese radiation oncology show, where TrueBeam and HyperArc created a real buzz
+Several hundred people attended our sessions on SBRT and TrueBeam
+Emerging markets in Asia were also active with good orders performance in South Korea, Indonesia, Vietnam and the Philippines
+Turning to North America our order growth was driven mainly by healthy software and service gains as we expected potential changes to the Affordable Care Act did not appear to impact market performance in the quarter
+Touching on our service business, global orders and revenues rose by about 7% in dollars in constant currency with gains in all territories
+On the software side we saw growing interest in our newly introduced 360 oncology software platform particularly from customers in Western Europe
+You may recall this offering which was introduced at the ESTRO show in October is a first of a kind software tool that enables clinicians on Tumor Boards to more effectively coordinate patient care among the numerous specialties involved in cancer treatment
+We have also continued to have a very positive market response to our RapidPlan and InSightive Analytics software products that help improve the speed, quality, and cost efficiency of treatments
+We have now taken more than 700 orders to RapidPlan since its launch and 380 systems are installed at customer sites around the world
+Sales of our InSightive product are also ramping up nicely
+During the quarter we received our 100th order for the VitalBeam treatment system
+Half of these orders have come from customers in North America which demonstrates the appeal of this scalable solution even in developed markets
+Comparing revenues on a trailing 12 month basis we believe we gained market share
+Margins which <UNK> will discuss in a few moments also benefited from ongoing efforts to reduce product cost
+I will now turn to our particle therapy business which recorded first quarter revenues of $30 million
+As I mentioned at the outset of the call, Varian took a $76 million GAAP charge in the first quarter in response to certain actions in January by CPTC and its loan agent or its capital markets to address liquidity issues caused by lower than expected patient volumes that are insufficient to support CPTC’s capital structure
+This led us to reserve $38 million in accounts receivable and to impair $38 million of our $98 million loans to CPTC of which $29 million was accrued interest
+These charges and the associated limited tax deductibility reduced our earnings in the first quarter by $0.64 per diluted share on a GAAP basis and by $0.34 per diluted share on a non-GAAP basis
+We are reporting additional information on this matter today in the Form 8-K filing with the Securities and Exchange Commission
+We believe this center can get on a more solid financial footing by serving a broader patient population with additional health care providers both locally and regionally
+We remain confident and committed to supporting all of our customers and to building a profitable proton business based on leading technology that is treating many patients and performing at a high level
+Of Varian's 15 proton projects we participated in the financing of only three
+As of today our outstanding proton loan balance totals $131 million for CPTC and two other large regional centers in the U.S
+Stepping back from the financing issues, we are generating revenues and are continuing to make good progress on 13 installations
+Our sales funnel continues to look promising
+Now I'll turn it over to <UNK> for his discussion of the Imaging Components business
+Thank you
+Beginning with our fiscal second quarter Imaging Components will be reflected as a discontinued operation for the first four months of fiscal year 2017. The company is guiding for continuing operations for the second through the fourth quarters of the fiscal year 2017. For the balance of the fiscal year we believe Varian revenues from continuing operations will grow in the range of 4% to 5% bringing revenue growth for the full year to 3% to 4%
+Non-GAAP earnings per diluted share from continuing operations for the second through fourth quarters of the fiscal year will be in the range of $2.94 to $3.06. For the second quarter we believe Varian revenues from continuing operations will grow in the range of 4% to 5% and non-GAAP earnings per diluted share will be in the range of $0.84 to $0.90. To summarize the first quarter, we have demonstrated strength in our oncology business with strong orders that will support future revenue growth
+We have successfully set up Imaging Components for continued expansion with an important acquisition in life as a new public company Varex Imaging
+And while it was painful, our exposure to particle therapy financing has now been significantly reduced
+We are continuing our drive for profitability with over a dozen projects and a healthy sales funnel
+Varian is poised now to focus exclusively on providing the world with the technology it needs to beat cancer and our product pipeline has never looked better
+We're very much looking forward to the rest of fiscal year 2017. We're now ready for your questions
+Question-and-Answer Session
+Hi <UNK>
+You know on the quarter we had good product mix, good geographic mix, and then something we've been talking about last four to five quarters, we've had very good cost performance and variable cost performance on the product cost and installation warranty
+<UNK> can walk us through some of the guidance impact but those are the big drivers on the quarter
+Well we unfortunately have not seen any new incremental government stimulus spending
+That's what really drove this market three to four years ago
+So, we haven't seen that but we have seen kind of a stabilization of the market with a little bit of growth
+So, and that's two quarters in a row now
+So we connected the dots
+I mean I think it's still early but our funnel looks pretty good and that market has come down pretty substantially from where it was two to three years ago
+But we're starting to see some turnaround
+Our shares have been good there too
+You know the protests piece was anniversary and so in fact what you're really looking at is growth
+So we feel good about that
+The market is strong and funnel remains good, the team is executing very well
+I'd say that we continue to do very well especially at the high end of that market and get orders -- good orders there so, good execution in a good market
+Hi, <UNK>
+Great questions
+So the total exposure as I said is $130 million
+We've got $60 million remaining to CPTC in San Diego
+We've got $50 million outstanding sub debt to Maryland and we've got $20 million of sub debt to New York
+So those are the three that we have outstanding
+I'd say feel very good about New York and Maryland and where they are
+Large centers, Maryland is coming up to speed very, very quickly, fastest ramp
+We believe in Proton Therapy, they're now doing 60 to 70 patients
+They've got one more BeamLine coming on next month which should reduce the patient volume again a little bit more
+In terms of appetite for more of these, these are all very large centers
+I'd say that we don't have much appetite for large centers but we still look to use the balance sheet where there is a lower breakeven point, a smaller center, where we're a partner with reputable financing partners, where we're not the largest lender and where we're working with clinical partners who are leaders in their markets
+So, for example in the case of both New York and Baltimore we are working with local leaders in their markets and that makes a big difference
+And then of course we want I think the deal structure on this one was a little bit unique
+We did it in 2011. So our first probing, show site, and in any case I think we want to make sure that we've got a local partner with some skin in the game
+<UNK> you have anything to add there
+Sure
+Yeah, I mean I think when we look into the funnel we still have a good funnel
+Indiana was a very specific case with some extremely old technology that's been a little blown out of proportion
+But that center was 20 to 30 years installed and installed as frankly as kind of a research center with a little bit of clinical lad on
+So I think its failure has been a little overstated in the marketplace
+There were some procure issues in the market a couple years ago
+Now San Diego I think the transition from these really, really large centers to small center, something we've been talking about on our call is very much going on in the marketplace
+I mean this center would be very viable as a two or three room center financially and so it's got a tough capital structure
+It maybe a little bit over built for the market in the market position
+We do think that as it regionalizes and has opportunity to bring some more customers in especially in the San Diego area, that it can be viable
+So I think there are some very specific things about San Diego that made it that way
+We're still, of our 15 customers, 12 are cash paying
+So we've got the three that I talked about and we feel very good about where two of those are
+And clearly nobody is proud about this but we feel pretty good about where things are headed
+You know everybody is watching what happens in Washington but I'd say at this point in time we're not seeing a change in our funnel shape or size
+And as I said in the call our -- in the script our rolling 12 month performance in North America is 6%
+I would say that's pretty good for 12 months and from a funnel point of view we're not seeing that change
+Clearly who knows what's going to happen in Washington and everybody is watching
+But it's not changing behavior in the short-term
+Yes
+I'd say this is very much an issue in San Diego
+So, first of all about 15 orders I have top -- count off top of my head but at least 10 of them are outside of the U.S
+So there tends to be, it's not true in every case but it tends to be sovereign government purchases
+So those are in pretty good shape
+You know one or two of them are not, one or two of them are private but the vast majority of them are sovereign government purchases, backstop that way
+So should be very good from a credit point of view
+In the U.S
+, I mean New York the lead customer there is the top cancer center in New York City
+They're already sending very significant numbers of patients to other centers
+So as they build their own center they'll pull that volume back to this center
+So we feel very good about the viability of New York
+Baltimore is ramping very nicely
+Little bit of a slow start but they've gotten to 60 to 70 patients and now they open in February last year
+So just in a year they've ramped up very nicely
+Good reimbursement environment there and I think this is really kind of about some of the very specific contractual things and market conditions that were in San Diego
+I mean, it is not even clear how we've built the guidance on the revenue side is when you look at our last two or three quarters in oncology they've all been very good
+So we have certainly had the orders
+I mean just in this quarter alone the oncology backlog was up 6% or 7%
+So we've got a very good backlog there and the margin position in the backlog as we've talked about looks very good
+Q - <UNK> <UNK> But you know -- yeah, go ahead
+Thank you and thank you all for participating
+A replay of this call can be heard on the Varian investor website at www
+com/investor where it will be archived for a year
+To hear a telephone replay dial 1-877-660-6653 from inside the U.S
+or 1-201-612-7415 from outside the U.S
+and enter confirmation code number 1365-1576. The telephone replay will be available through 5PM this Friday January 27, 2017. Thank you

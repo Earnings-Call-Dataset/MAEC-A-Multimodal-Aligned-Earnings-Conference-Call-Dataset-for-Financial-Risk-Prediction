@@ -1,0 +1,119 @@
+<UNK>, let me start with the technicalities and <UNK> could mention about the licensing pipeline environment.
+Demand hasn't changed.
+We still have a single use and a multi-use.
+You're right that for new users and new first-half customers we would see probably more single-use type of deals.
+They want to check out the technology; they want to come up with a chip.
+If that chip and roadmap is successful, whether it's some of these deals that <UNK> mentioned, even that we find now in Q4, a vision-based technology for the ADAS market or surveiling, and if that chip is successful of course those customers will come back for the next-generation chip or even for [few chips].
+The after one or two additional use we see a trend that if this technology is successful within that semiconductor payroll, again they may choose to move their multi-use agreements.
+And then every few years they could come and renew either that agreement or come and license the new next-generation type of core.
+So that hasn't changed.
+Because the companies are much more diversified, new players, smaller players than the traditional vendors that they were in the baseband business, we see the strength and this is why the deal count has also increased over the last 18 months or so because we're tackling many more -- some small, some even big, but many more designs and many more SKUs.
+One thing that I would add; I think <UNK> covered most of the things that you are asking, but since the Company has a broader portfolio we are leveraging on the fact that we have already customer relationships to license other products.
+So a customer, a DSP customer knows us; we have credibility there and we will license Bluetooth or Wi-Fi.
+This usually goes together.
+This is the difficult part.
+We may call you to help us out in those analyses because that's the tougher part of the business.
+The way we do it: of course, you have the different regions, each region is focusing and has more capabilities and expertise in different areas.
+You see some markets that are much more focused on vision versus Bluetooth or Wi-Fi connectivity.
+We will do what <UNK> explained: bottom's up.
+We look around for the markets, the customers; we align them.
+We talk with the local salespeople, get their input on what could be closed earlier or later, or what product lines are more mature, customers are more or less mature, and we come up with a number.
+If you look historically, you'll see that our licenses on a many-year type basis has been pretty flattish before we went to RivieraWaves and before we went into this non-baseband.
+And from there on we came up with a much higher level of -- whether it's $28 million or $30-million-ish this year, million dollars per year -- and of course this is where we want to continue going forward, which will be also basis of potentially much higher royalties.
+So I don't think we're going to change the model.
+It's probably going to be every year a different number in licensing, but we will do our best efforts to keep that licensing number on the very healthy side, like we have seen in the last year and we want to see this year.
+I don't think we're going to change the strategy specifically because of the stock price right now.
+There are two factors, but we look whether it's accretive for us of course and where we think the Company could grow EPS-wise and earnings-wise over the next couple of years.
+And coming out of the recent numbers and guidance for the rest of the year, we feel comfortable that we are on the right track here.
+Now there is dilution and want to try to keep shareholders undiluted from option exercises and the like.
+And I think we will take those two into consideration whatever price, stock price we have.
+Taking again a little bit of a historic look.
+If you look at the last couple of years, what we have started to do five years or so, we've bought back more than $80 million worth of shares.
+I think it's about $5 million overall.
+So we have been active in the past and I believe we will continue to be.
+One quarter could be stronger than the other, but we still think that there is a lot of accretiveness even in today's prices.
+The share gains that we are expecting is due to the fact that the growth in China and now moving to India.
+We spoke about it for a while; here we have key advantages due to our technology (inaudible) and the customers that are targeting into this space.
+If you see -- our customers you will see that this is their main focus, low- and mid-range smartphones.
+By the way, just if look at the numbers and there are quite a few market datas out there, I think the smartphone is anticipated to grow for somewhere in the neighborhood of just over $1 billion-and-something last year to over $2 billion in 2020, for example.
+So you do see an increase in -- specifically in the smartphone space over the next couple of years and that's where we of course take a significant play these days.
+You know, you have to have a certain size to take this kind of decision to internalize the modem.
+We see by the way other companies smaller in the size that are internalizing vision and audio and application processors.
+And we have a few companies in the pipeline and already in designs, OEMs that use our vision technology.
+Again, when it comes to (inaudible) and we know Samsung is now doing it and Huawei is doing it and of Xiaomi.
+So we'll have to see along the way how we do.
+By the way, when it comes to China, because we have a strong relationship with Leadcore, they are -- they are today the only viable solution provider for LTE modem.
+Today SoC for smartphones and you know that spread term is growing great also in tablet, a natural evolution will be IOP.
+So it's not just the modem itself, it's a full system.
+We have an audio iLink.
+We have the vision iLink.
+Of course, you have the connectivity and the Bluetooth.
+All these things are applicable to spread term and many others today in the market.
+In the past, even today Mediatech is using us for CDMA type of things.
+So all the portfolio that we are offering today are a candidate for any customers SoC.
+You put it right and I think I [felt] to it in I think the first question.
+What you see today is you have the low segment and this is usually -- when it comes to LTE this is India.
+The mid-range segment is a replacement cycle that you go in China.
+And there are differences between the chips that goes to the low end or the middle end.
+The differences are not necessarily on the LTE side, but more in the AP, application processor, side.
+So for us, we are kind of agnostic between the two markets.
+Of course, the neighboring side will grow faster towards the advanced like the high-end stuff.
+So the pricing difference between the low and mid-range relates to the fact that they use ARM Version 7; we run Version 8, which is smaller in die size, but not necessarily for us.
+The reason we stopped is not because the business environment was worse for us or royalty decline.
+The reason we stopped is that our customers and even OEM customers do not give.
+If you ask Intel, at the time Broadcom was of course [spread through] or Leadcore or any of these customers, public or private, for their guidance on the handset space, you won't get any answers.
+So for us go and to leapfrog and to guess where the industry is going to be at, I think we have our own internal costs and we do all that homework and we have a pretty good understanding of it, handset market and the different players.
+But to put that in front of numbers that Intel talks about or does not talk about would be a little bit strange from our point of view.
+And I think this is the only reason we stopped giving annual guidance.
+We did give this year qualitative data on an annual basis, just to remind you both on licensing and of course in the beginning of the year when we had no LTE ramp-up, nothing.
+We just knew that where our customers are; we knew that for the last three years they were not able to gain any significant market share.
+We came up and said 10% to 30% growth in royalties and this is Q1 with only 4 million LTE devices.
+Q2 is up to 11 million.
+And only now, really the end of this year, with 27 million and a very strong Q4 we are looking at finally just the second half of this year of this real LTE ramp-up that we've been talking about for the last couple of years.
+So we will see what we will do at the end of January at the next call.
+We don't have an idea yet, but I think we did try to share as much, as we can, a pretty wide range.
+Maybe we will try to do the same for next year, but give us a few more months to see how this evolves and we will come back to you with an answer.
+The Wi-Fi market size, by the way, is very big and from the serviceable addressable market, from our standpoint, it is as big as the Bluetooth.
+Now the reason that we don't see Wi-Fi progressing as fast as Bluetooth because the Wi-Fi system is much more complicated.
+It takes more time to customers to get there, but we do have a design win and we do have coverage.
+I don't recall now substantial royalties coming from this, but as I said in an answer to the prior question, we expect to see it in 2016.
+One customer that we did announce in the past -- and again it takes time to get to production -- is [Veritas].
+For example, they've given our Wi-Fi to a smart metering systems so it's all pretty new and the Wi-Fi shipments this year ago was essentially zero.
+This year we will be seeing a smaller number, maybe a few hundred thousand, but still very small compared to Bluetooth, which you were already in a run rate of -- an annual run rate of somewhere between $100 million and $200 million just on the Bluetooth side.
+There's nothing that came to our attention that anything changed.
+We're just in the infancy stage of ramping these products out.
+A year ago Bluetooth was a few handful of million, now we are up to 30 million a quarter.
+We're just starting.
+When we do get to those, or close to those 700 million to 900 million units, non-baseband units a year, I think that question may be relevant then.
+It's completely immature for now, just because the volumes are so small and we're just making our first steps.
+It's all of the above.
+In China, we feel acceleration moving -- the reason it's just moving our customers are moving from the low end, which goes now to India, to the mid-range, which is the market in China.
+They are rolling out with new products, 64 bits, ARM -- that is by the way, ARM has been (inaudible) already -- they see this trend.
+And then we see at Samsung, Samsung is -- they are shipping about 86 million to 90 million units a quarter or points a quarter and they are by themselves now putting more attention on the mid-range segment.
+And this, the forms that you mentioned, there and the fact that they have now this single chip help them to address the markets there.
+I don't recall.
+We didn't review the report.
+They just came last night, a few of them, so we didn't have a chance to thoroughly review the report.
+But definitely the chip is available and they should -- if they didn't ship already, they should do it next quarter.
+I think they are mass production, but we don't know the numbers either.
+We have one design already started to ramp up production.
+I don't think it's a matter of timing; for now, it's a matter of volumes production.
+So the good thing is that we have now chips available in the market that are in hands of customers.
+We have customers in drones and we have customers in surveillance and we have customers -- one customer in the smartphone side.
+And whether it's -- these are long cycles, these are next-generation products.
+And the question when are we going to see a size of it.
+You're going to see them next year in the market.
+How big is the market.
+This is something that we will have to see.
+They are in the -- they have the silicon now, which they are testing, and they -- when they would be in production I think this is more 2017.
+Yes.
+That, by the way, we did cover some new press releases in the last two weeks companies like SocialNext and NovaTech.
+These are some of the examples that companies that have designed us in already and these are the examples that <UNK> referred to also as soon as they get into production.
+And hopefully we could see some chips in 2016, specifically the ones that are more mature.
+These will be the first (inaudible) contributor with these higher royalty levels and new markets.
+It's not just Bluetooth, but the new interesting markets in non-baseband.
+Thank you very much, operator.
+Thank you, everyone, for joining us today and for your continued interest and support of CEVA.
+We will be attending the following upcoming conferences: the ROTH Technology Corporate Access Day on Wednesday, November 18, in New York; the Raymond James 2015 Technology Investors Conference on Monday, December 7, in New York; and the Barclays Global Technology, Media, and Communications Conference December 9 in San Francisco.
+Some of these presentations will be webcast, so please visit the investor relations section of our website for additional information on this.
+Thank you and goodbye.

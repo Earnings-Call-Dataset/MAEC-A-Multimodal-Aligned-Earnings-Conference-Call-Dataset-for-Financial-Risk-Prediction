@@ -1,0 +1,146 @@
+Sure, <UNK>.
+We remain very bullish in the opportunity in the programmable US voice market.
+You cited in your question many of the elements of how we are attacking the market, whether it is, as we push the brand and market more aggressively, the product itself, which has a higher quality, ability to deliver voice at lower cost, the way we are pricing it on a per-second basis versus our competitor on a per-minute basis our customers are finding to be a fairer solution.
+But the market is vast and we really haven't been in it very substantially, so we think there is a great deal of upside there and we're just attacking it very methodically.
+I think you should read into something about the growth in developer registrations.
+It's a very positive sign because for that -- for us that is the top of the funnel; that is what begins the long-tail Business customers for us.
+They have to start initially registering as a developer.
+Yes, it is behind us.
+There isn't anything any longer named iCore.
+It's simply they had a direct salesforce; now we have built a core direct salesforce.
+That direct salesforce is selling today our UCaaS products across Vonage Essentials and Vonage Premier.
+We have expanded the number of salespeople, the number of sales territories, and then we are continuing to press, as I put it in my prepared remarks, forward on improving processes, integrating systems, training, etc.
+, etc.
+Let me start and then I will turn it over to <UNK>.
+Nexmo pursues a hybrid distribution model.
+So we have a direct sales effort, which is comprised of salespeople in-market and inside sales and sales engineers and account managers; sort of a classically-organized direct sales model.
+We also work or generate business as a pull, so it's not being pushed by salespeople.
+It's a pull so that developers out there in companies large and small everywhere will come to our website, pull down the API, and then begin to play with it.
+Embed it in their application, into their website, what have you, because we have this desire to embed communications into their solution.
+As I mentioned on the earlier question, that's the top of the funnel for us for that long tail with Business customers.
+They have to initially register as a developer.
+They have to, therefore, be aware of us as a solution.
+Nexmo's footprint was much more of a global footprint much more oriented towards SMS and now we're pushing things to balance it out into voice and domestically.
+So we have to build that awareness and that's some of the value of the Vonage brand.
+Again, getting greater numbers of developers is an important element to us because that's the top of the funnel.
+<UNK>, you want to add to that.
+Yes, sure.
+I would like to add that we doubled the rate of inbound leads since the acquisition, so that's actually the sign-up plus the contact sales on our website.
+And that's as a result of the increasing awareness and marketing investment we are making around the developer community.
+The developer persona is important in our business because what we offer is programmable objects that require to be built by a developer, whether that developer is in a start-up company where there are more influential in making decisions or they are in an enterprise setting where they are being asked to develop distribution.
+So overall we continue to invest in increasing and developing our awareness within developer community and we already see early result of that since the acquisition.
+So the inbound leads that sign-up on our website and start using our platform, meaning it has the APIs and you can consider that a download, but essentially, they don't download anything.
+This is not a piece of software you view; you install on your computer.
+It's really an API, which means that you are connecting to the platform and interacting with the platform to build the communication application you want to build.
+They are intact.
+In fact, we talked last quarter about accelerating investment into Nexmo and we continue to do that, whereby Nexmo -- if you think about our EBITDA guidance for the year, within that Nexmo is going to be negative in the $5 million to $7 million range as we talked about on the last call.
+So our OIBDA is actually up more than what's implied in the guidance that we updated.
+That delta is coming from Consumer and it's really two areas.
+It's slightly less spend in consumer than we earmarked, because we were able to put that into Business and then the spend in Consumer being much more efficient than we had planned.
+And so we are just getting more bang for the buck.
+So in Consumer there's a little bit less revenue in there and a lot more cash flow.
+And part of that revenue was also USF, as I talked about.
+So there's no change to our capital allocation plan.
+Yes, it was.
+<UNK> can provide any color, but, yes, it was --.
+We talked about our strategy is to diversify the customer base and diversify the product and geographic mix, and that strategy is going to take time to execute but we are trying every quarter to lengthen the tail.
+Our competitor, Twilio, has talked about this base versus variable revenue concept and we clearly see that.
+Once a customer gets to be very large, they are sophisticated and they tend to look at this as a dynamic business.
+So what we saw consistent with that is continued volatility amongst those very large sophisticated customers, although they did grow in the quarter on a sequential basis, and much higher growth than the average in the everybody else category.
+If you think about Twilio, which is a pure-play, which I think has done a very good job of kind of defining this, they talk I believe about variable revenue sub 20%.
+Using the same definition, on a dollar size basis, we have the same dynamic: sub 20%, very large accounts that again approach the business differently with our strategy to make the other part, the tail, longer and more stable.
+Yes, it is a mix difference, so it's SMS where we are 90% SMS and it's outside the US where we are about 70% outside the US.
+We have no intention of pulling back at all on SMS or outside the US.
+It's really about creating that counterweight and that diversity in voice globally and a presence in the US across the products that we think will lead to gross margin increase over time as we execute the strategy.
+We also feel like our advantages on the peering side and termination side, they play to the US market.
+They don't really play to the international SMS market.
+I think I will turn it over to <UNK>.
+You said what's the gestation period between --.
+We've disclosed in the past that we have roughly 5,000 business customers, so we don't break it down specifically between a developer who registers and -- if we had 100 developers registered today, who's paying and who is not.
+It's more think of it as the top of the funnel that are going to convert an element of those over time into paying customers.
+So when we bought the company it was 130,000 roughly registered developers and about 5,000 business customers.
+We are certainly working on improving those ratios, but that's an over time phenomenon.
+<UNK>, you want to add to that.
+I'd like to add that we are going to start measuring the time to first payment.
+Typically it's -- you can sign up online and start testing today and we give you free credits and then when you [redeem these free] credits you could go and pay online to replenish your quota essentially.
+And that time could be as short as a day, but depending on how the customer is testing and how long they need to test, it could take over months from sign up to first production paid transaction.
+<UNK>, excuse me, you clipped at the beginning.
+Why don't you start your question again.
+This is <UNK>; let me take that.
+I think we are still singing the national anthem.
+We have even started the game yet.
+Clearly, on the VAPI release we have integrated it in with our industrial-strength network and that's proving to be very, very effective.
+But the opportunity of an integrated solution, that is still being planned and won't begin being executed probably in meaningful pieces until the next year.
+That is sort of in the physical integrations of the platforms.
+From a lead-gen point of view, however, it is becoming very, very important.
+One, we are viewed evermore as a thought leader.
+Our customers we find very, very frequently use CPaaS tools in addition to a UCaaS-based solution.
+We cited one example on the call of an initial -- an existing UCaaS company who now has switched from our competitor to us because they wanted to buy it from a single vendor.
+So very early days.
+But we are seeing all the right indications that we have done is the exact right thing from an acquisition perspective and how we are going about executing this are the right things as well.
+So very, very hopeful about it.
+Let me have <UNK> answer that.
+Sure.
+Thanks, <UNK>; I will.
+First, when you look at the combined Vonage and the Nexmo platform with the voice API provides a unique offering to the US market specifically.
+Because in the past customers needed to make a trade-off: either they go with easy-to-program platform or they go with a carrier-grade, heavy, old telco.
+Now, together with Vonage, we offer the best of both.
+We offer the easy-to-program voice and backed by the underlying carrier-grade network, which has five-nines uptime, 16 billion minutes of voice terminated a year, so customers don't need to make a trade-off anymore.
+That's one of the key advantages the combination of the asset provides.
+But specifically, even without the combination, the new voice API provides higher level of programmability and a much easier way.
+It's built on more modern web framework -- we call it JSON -- and it has a number of full-control objects that provide this higher functionality for the developer and enable any developer -- you don't need to be a telco developer to be able to build the next-generation of voice application.
+And, thirdly, would be the international reach.
+The new voice API has two times more inbound reach, so you can provision a phone number in two times more countries than any other close competitor in the market.
+Yes, it was close.
+Second quarter was high teens.
+<UNK>, why don't you take that.
+I think it's still too early to say.
+Clearly, we are seeing anecdotal evidence of the ability to cross-sell quickly by putting the product into the -- the suite of Nexmo products into the sales bag of the salesperson.
+But we are going through our planning process now so it's -- we are not a position to comment how much will come from that.
+I would also just note; we talked about bookings and I think that is a good shorthand for it, but it does -- it's not as subscription business.
+It does tend to be more volatile than a booking, both up and down and usage based.
+<UNK>, why don't you handle that.
+Yes, sure.
+So the text messaging market is as big as the programmable voice market and we see similar growth rate in both markets when you look at it from a CPaaS point of view.
+There's really three levels of growth, if you think about it.
+There is the existing business, the expansion in the existing business and that there is twofold, which is the natural growth of these companies and also the competitive win as well, when you specifically own the top accounts that have multiple vendors.
+And then you have the new business, the new accounts.
+Today we see growth across the board.
+There is the volatility that <UNK> mentioned on the top accounts and that volatility is being replenished by the natural growth of the other accounts and also the addition of our new business.
+Overall, we continue to see growth in the business on SMS and the new business is an important driver to manage the volatility in the existing business on the top accounts.
+Thanks for your question, <UNK>; this is <UNK>.
+We have a completely national footprint right now.
+It is an omnichannel approach, so clearly our inside sales group sells nationally.
+Our channel sales group sells nationally.
+Our enterprise group sells nationally.
+Within our field sales teams, which has grown dramatically both in terms of numbers of salespeople and numbers of sales territories, we often speak about it as we want to be in all the NFL cities, which is roughly 30.
+I was get in trouble with people from St.
+Louis when I say that, but the -- roughly 30 cities.
+And we're in about half that today and growing.
+Our focus, in terms of cities, has been more East Coast and Southwest, but we are pushing West so you will see more of that in the coming quarters.
+Well, it is a land grab in the sense that we are -- it is a land grab and we are competing against the other cloud players.
+Let me break that down.
+The land grab is that we are stealing share from the on-prem solutions that are out there.
+In the midmarket in the enterprise, you are almost always seeing the names you would expect that you would compete against because those mid-market enterprise customers are certainly not going to go with the first vendor who knocks on the door.
+Down market, though, is very different.
+Down market, where the lead gen generally starts from a buyer doing a Google search, it's the person who -- so, therefore, the buyer is generating demand intent.
+It's the vendor who gets there first who generally wins, because they don't usually do a competitive process.
+And we have found, given the strength of the Vonage brand, that has given us the ability to source those leads less expensively than others because we have so much domain authority in our space.
+And that's why the down-market side of our business, the small company start of our business continues to grow so well.
+If you look at the total numbers, the percentage of business above 50 seats, 250 seats, and 1,000 seats, the percentage of total revenues is comparable, but the total base is growing.
+And that's because we're growing at both ends.
+We have made a lot of improvements and I think we talked back in the first quarter about integration.
+We talked about rationalizing the salesforce and all that stuff is behind us, so we are seeing the benefits of that.
+I would say, though, that I don't see the model that we are pursuing today growing at 30%, just given again in the midmarket and up market it is a longer sales cycle, it is a more sophisticated sale, and it's a longer install cycle.
+And that market continues to tip to the cloud, whereas in the SMB market it already has.
+So it's going to take time for the average to go up, given the factors that I talked about in the up market.
+I think the growth that we are seeing is where we are right now.
+Yes, there's no change to the way we're looking at 2017.
+As I mentioned, we are in the budgeting process and there is capital to grow that business as fast as possible.
+We talked about the long-term strategy, but there's no change to the view right now for 2017.
+Thank you very much.
+Great.
+Thanks, David, and thank you, everyone, for joining us this morning.
+We appreciate your support.
+We look forward to speaking to you again next quarter.
+Thank you.

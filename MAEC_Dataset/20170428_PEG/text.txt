@@ -1,0 +1,112 @@
+Thank you, <UNK>, and good morning, everyone
+Thanks for joining us this morning
+As <UNK> said, PSEG reported non-GAAP operating earnings for the first quarter of 2017 of $0.92 per share versus non-GAAP operating earnings of $0.91 per share in last year's first quarter
+On slide 4, we've provided you with a reconciliation of non-GAAP operating earnings to net income for the quarter
+We've also provided you with information on slide 8 regarding the contribution to non-GAAP operating earnings by business for the quarter
+And in addition, slide 9 contains a waterfall chart that takes you through the net changes quarter-over-quarter in non-GAAP operating earnings by major business
+I'll now review each company in more detail, starting with PSE&G
+PSE&G, as shown on slide 11, reported net income for the first quarter of 2017 of $0.59 per share compared with $0.52 per share for the first quarter of 2016. PSE&G's first quarter results reflect the ongoing successful execution of its growth initiatives and control of operating expenses
+Growth in PSE&G's investment in transmission improved quarter-over-quarter net income comparisons by $0.03 per share
+Revenue recovery of investments made to replace gas distribution mains under the Energy Strong and Gas System Modernization Programs improved quarter-over-quarter net income comparisons by $0.02 per share, and the reduction in O&M expense also improved quarter-over-quarter net income comparisons by $0.02 per share
+PSE&G implemented a $121 million increase in transmission revenue under the company's FERC-approved formula rate on January 1, 2017. Our transmission revenues are adjusted each year to reflect an update of the company's investment program
+PSE&G's investment in transmission is expected to grow to represent approximately $7.6 billion of rate base at the end of 2017 or 45% of the company's year-end 2017 consolidated rate base
+Gas distribution revenue increased by $16 million, with the completion of gas main replacement work approved under Energy Strong and GSMP
+Under Energy Strong, electric rates are adjusted two times during the year in March and September and gas rates are adjusted each year in September
+And under the Gas System Modernization Program, gas rates are adjusted each year in January to reflect the investment made during the prior year
+Annual revenues in 2017 under both of these programs are forecasted to increase by approximately $55 million
+Actual and weather-normalized electric sales increased about 1.5% in the first quarter compared to the year-ago period
+The increase is due to a spike in industrial use from one customer that use PSE&G service in 2017, while the dedicated generation plant that normally serves the customer was out in an outage
+So, the improvement in sales to this customer did not lead to an improvement in margin and actual and weather-normalized from gas sales increased about 3% on the quarter, and the high volatility of the weather experienced over the last few winters challenges the weather normalization calculations
+But over the trailing 12-months period, we view weather-normalized electric and gas sales as essentially flat
+As <UNK> mentioned, PSE&G filed with the New Jersey Board of Public Utilities in March of 2017 for approval to increase its investment in existing and new energy efficiency programs
+The programs, if approved, would represent a capital investment of $74 million
+As part of the petition, PSE&G is also seeking recovery of additional administrative and other costs, including costs associated with the enhancement of the information technology system
+The petition has been deemed complete, which starts a 180-day clock to complete a decision on the filing
+And this is expected during the third quarter
+PSE&G invested $752 million in capital expenses during the first quarter of 2017 and is on track to invest $3.4 billion in 2017 on transmission and distribution infrastructure
+And we are maintaining our forecast of PSEG net income for 2017 of $945 million to $985 million
+Moving to Power, PSEG Power reported non-GAAP operating earnings for the first quarter of $0.30 per share and adjusted non-GAAP EBITDA of $359 million
+This compares to non-GAAP operating earnings of $0.36 per share and non-GAAP adjusted EBITDA of $409 million for the first quarter of 2016. Non-GAAP adjusted EBITDA excludes the same items as our non-GAAP operating earnings measure, as well as income tax expense, interest expense, depreciation and amortization expense
+The earnings release and slide 17 provide you with detailed analysis of the items having an impact on Power's non-GAAP operating earnings relative to net income quarter-over-quarter
+And we have also provided you with more detail on the generation for the quarter on slide 18. PSEG Power's net loss for the quarter reflects the impact of incremental depreciation and other expenses of $564 million pre-tax associated with the decision to retire the Hudson and Mercer coal-fired generating stations on June 1 of this year
+Power's results in the second quarter will also be impacted by incremental depreciation expense associated with the early retirement of these units
+A decline in the average price received on energy hedges reduced Power's quarter-over-quarter non-GAAP operating earnings by $0.09 per share
+The non-GAAP quarterly operating earnings comparisons are also lower by $0.01 per share due to a decline in generation output and by $0.01 per share increase in the reserve-related to a FERC investigation of Power's cost-based bids that began in 2014. The impact on non-GAAP operating earnings from these two items was offset by a $0.02 per share improvement in off-system gas sales
+A reduction in O&M as a result of cost control efforts at the nuclear stations improved non-GAAP quarter-over-quarter operating earnings comparisons by $0.03 per share
+Power's O&M for the remainder of 2017, particularly the second half of the year, is expected to compare favorably into 2016, given a reduction in pension expense, a decline in major maintenance expense at fossil, the absence of a refueling outage of Power's 100% owned Hope Creek nuclear station, and of course, the June 1 retirement of Hudson and Mercer, as I previously mentioned
+Now, let's turn to Power's operations
+Output from Power's generating stations declined 2.8% in the first quarter from year-ago levels
+Quarterly comparisons were affected by one fewer day of operation this year versus last year, due to leap year, and also reflect the adverse impact on energy pricing and volatility from above normal temperatures during the first two months of the year
+The nuclear fleet operated at an average capacity factor of 100% in the quarter, producing 8.4 terawatt hours of energy
+Power's combined cycle fleet experienced a decline in its average capacity factor during the quarter to 41.8% from 51.7%
+For the quarter, the combined cycle fleet produced 3 terawatt hours of energy as the coal-fired fleet produced 1.4 terawatt hours of energy
+During the first two months of the year, the power markets were characterized by warmer than normal weather, reducing overall demand and lowering price volatility
+The impact on realized energy pricing from the decline in our average price on energy hedges was notable in the first quarter of 2017 versus 2016. As previously disclosed, our average hedge price on energy for 2017 is expected to decline from $51 per megawatt hour in 2016 to $46 per megawatt hour in 2017. The impact on realized energy prices in the first quarter of 2017 reflected a larger decline than the average for the year, contributing to the $0.09 per share impact from recontracting I mentioned earlier
+This quarter-over-quarter decline was related to higher seasonal pricing on contracted basis in the eastern PJM region realized in the first quarter of 2016. For the remainder of 2017, we anticipate a more modest decline year-over-year in energy pricing than what we experienced in the first quarter and a lower decline than what we are forecasting for the full year
+Although Power's access to low-cost shale gas continued to provide a benefit to its margins relative to the market, power did experience a compression in spark spreads during the quarter, which had an impact on output from the gas-fired combined cycle fleet
+The market has sustained higher prices since the end of February and the improvement can be attributed to higher gas prices and a reduction in congestion with the completion of some transmission work in the area
+Based on the milder weather to-date, Power's forecasting output for 2017 of 49 terawatt hours to 50 terawatt hours and the forecast is modified slightly from our prior forecast of output for the year of 49 terawatt hours to 50 terawatt hours
+The change in output is primarily the result of a mild winter and the impacts on output on the combined cycle fleet
+The nuclear fleet's full year forecasted capacity factor is unchanged at 92%
+Salem 2 is currently in a refueling outage that's forecasted to be longer than normal, given the decision to proactively address any needs related to the unit's baffle bolts
+Approximately 90% of production for the remainder of 2017 is hedged at an average price of $46 per megawatt hour
+Power has hedged approximately 55% to 60% of its forecasted production for 2018 of 52 terawatt hours to 54 terawatt hours at an average price of $41 per megawatt hour
+And for 2019, Power has hedged 20% to 25% of its forecasted production of 58 terawatt hours to 60 terawatt hours at an average price of $42 per megawatt hour
+Power continues to assume BGS volumes will represent approximately 11 terawatt hours in 2017, which is consistent with 2016 volumes
+Power's average hedge prices don't include any anticipated future benefit from its retail marketing efforts
+We continue to forecast non-GAAP operating earnings for Power in 2017 of $435 million to $510 million
+And the forecast of non-GAAP operating earnings represents an adjusted EBITDA of $1,080 million to $1,210 million for the full year
+Now, I'll briefly address the operating results from Enterprise and Other
+For the first quarter, Enterprise and Other reported a net loss of $15 million or $0.03 per share for the first quarter of 2017 compared to net income of $17 million or $0.03 per share for the first quarter of 2016. The net loss for the first quarter of 2017 reflects the impact of a pre-tax charge of $55 million associated with the continuing liquidity issues facing NRG REMA
+The charge reflects our current assessment of the ongoing matter
+Non-GAAP operating earnings for the first quarter of 2017 of $17 million or $0.03 per share were unchanged quarter-over-quarter from the first quarter of 2016 and reflect contractual payments associated with the operation of PSEG Long Island and certain tax items at PSEG Energy Holdings
+And we continue to forecast full-year 2017 non-GAAP operating earnings from Enterprise and Other of $35 million
+With respect to financings, PSE&G closed the quarter with $193 million of cash on the balance sheet and with debt at the end of March of 2017, representing 47% of our consolidated capital
+Debt at PSEG Power represented 30% of its capital at the end of the quarter
+In March 2017, PSEG Power and PSE&G extended the expiration dates on $4 billion of credit facilities to March of 2022. At the end of March, total available credit capacity was $3.6 billion
+We remain in a position to finance our five-year base capital program of $15 billion without the need for the issuance of equity
+And we remain in a position to finance an expansion of our investment program also without the need to issue equity
+Power's cash flow is forecasted to improve following the completion in 2018 and 2019 of construction of the three new combined cycle units, with the decline in annual capital spending at Power to $200 million a year from 2017's capital budget of $1.2 billion
+PSE&G's internal generation of cash is expected to remain strong throughout the forecast period
+We continue to forecast non-GAAP operating earnings for the full year at $2.80 to $3 per share
+That concludes our prepared remarks and now I'll turn the call back over to the operator for questions
+Question-and-Answer Session
+Good morning, <UNK>
+<UNK>, I think we're in a good place right now
+The best information that we have is what we have booked to, really based upon what we know about the liquidity issues at REMA, the issues surrounding the facilities themselves, and basically the alternative outcomes through our discussions with them
+So, we think based upon what we know right now, to the best of our information, we've recorded to where we think things will be when all is said and done
+Between Keystone and Conemaugh, there's about $55 million of total investment that remains on the books
+So, as you know, this has been an issue that's been around for a while and 2014 is when it began, and there was that $25 million charge that was taken in 2014. We are moving forward with it
+There's still a fair bit of uncertainly that remains, but based upon where we are right now within the investigation and discussions, the lower end of the range of our exposure as we've seen it has raised to $35 million from that $25 million number that we had
+And that was the driver behind the reserve that we know
+That's exactly right
+Okay
+Your first question was on BGS or BGSS?
+So frankly, as we look that product in particular, most of what we'll see throughout the year takes place in the first three months of the year
+So, I would say that the BGSS component of our business really will have minimal impact until we get into December, so not a whole lot of variability that we would anticipate until we get adjusted to the fourth quarter there
+We have seen some delay in pipelines
+I agree on that front, but we have seen some movement within the basis as well
+I think that over time as we continue to see more takeaway capacity built, we will see some levelization of gas prices over time
+That's all it is, Greg
+I'd say the most solid impact is what we've seen year-to-date on the winter
+So, the lower end of that range stay the same
+We just took the top-end down by 1 terawatt hour
+Maybe two ways to think about that, <UNK>
+One is – I don't know that I would say that we are necessarily hedging the highest prices earlier and then moving down the scale
+There's on-peak and off-peak hedges that get put on without a particular pattern necessarily
+So, I would diffuse you of your first thought that it's definitely the higher prices
+That said, as we look to the outer years of our disclosed hedge prices and into 2019, given that we've had some BGS auctions that have rolled through, some of that 2019 volume is based upon BGS and we decomposed the BGS price and pull out the capacity components, but there are some other non-energy components that are in there that give a little bit of a lift to that price
+So, maybe not so much the fact that it's the higher price or the on-peak prices that have been hedged, but more so that some of the BGS volume that rolls into 2019 shows that price to be what it is
+I mean, I think the one that we would point to is we have our Sewaren plant that's coming in, but maybe I would say you have the RPM auction that has happened for the past couple years
+You can see what has come forth from the standpoint of new capacity there
+And in the last auction, there was nothing that was in EMAAC
+But that's your best indication as to what's going to happen in the near term, near term being three years out coming out of the capacity auction given indication
+So, you'll be able to see what supply and demand has committed to the market three years out
+And then, the other thing that we look at that we talked about briefly before is just overall supply of gas and pipeline capacity in the region
+And then, <UNK>, this all will be a public process
+So, as it progresses over time, you will be able to see the discussions that are going on and how it is going
+Not resolved
+Next week is the beginning of the process
+I believe there's – you may see some more discussion around it next week that would give more of an indication
+But I think as far as when it would end is we don't know right now
+I'm going to hope that it's done this year, but we don't have a control over that schedule

@@ -1,0 +1,162 @@
+Thanks, Jacqueline, and good morning, everybody.
+Today's call, like all of our events, is subject to both safe harbor and forward-looking statements.
+You can find a full text of both statements on the first and final pages of our presentation deck today, a copy of which is available on our website as well as with the SEC.
+On this morning's call is Phil <UNK>, our CEO; and <UNK> <UNK>, our CFO.
+With that, I'd like to turn the call over to Phil.
+Thanks, <UNK>, and good morning, everyone.
+I'm pleased to report our first quarter financial results were ahead of our expectations and a strong start to 2017.
+First quarter revenue of $231 million was up 10% compared to last year.
+We also generated $42 million in EBITDA, which was a 68% increase over last year and operating free cash flow of $76 million, which was 157% from last year.
+In the quarter, we signed some important contracts across a range of solutions and geographies.
+We signed an important contract with Jack Henry to help bring immediate payments for a wide range of their financial institution customers, notably, customers will have connectivity to the clearing house and sales networks, real-time systems allowing consumers and businesses to send and receive payments and data instantly directly from their accounts at their financial institution.
+We also continue to make progress with our universal payments and retail payments solution initiatives, signing important renewals, including 2 with large national switches, one in the Middle East and one in Asia.
+These customers plan to use our flexible Universal Payments technology to gain competitive advantage and functionality, such as Apple Pay acceptance and ATM surcharging.
+Further, we're seeing that transaction capacity requirements are growing faster than customers expected in terms of both newer wallet and micropayments as well as traditional usage.
+In our fast-growing e-commerce segment, we continued to sign contracts from traditional merchants that increasingly appreciate our industry-leading omni-channel solutions and endpoint connectivity.
+We're also signing customers pursuing new use cases, including end console payments in the gaming vertical.
+Looking ahead in our pipeline, we're making progress with several customers that are interested in leveraging the power of UP in significant and transformational way.
+We hope to have more to say later in 2017 about this.
+Following the successful Investors Day in March as well as several customer-focused events across key geographic regions, we remain extremely optimistic that we have positioned ACI to benefit in the coming years in the evolving electronic payments landscape.
+In summary, ACI is off to a good 2017.
+We are firmly on track to achieve our financial targets for the year and are fully committed to our longer-term growth goals.
+With that, let me turn the call over to <UNK> to provide details on our first quarter and 2017 guidance.
+Thank you.
+Thanks, Phil, and good morning, everyone.
+I first plan to go through the highlights of the first quarter, and then provide a reminder of our outlook for the full year 2017.
+We'll then open the line for questions.
+I'll be starting my comments on Slide 6 with key takeaways from the quarter.
+Now overall we had a solid start to 2017.
+Our renewal bookings were particularly strong, up 34% over last year.
+This was offset by a decline in new bookings, mainly given the timing and the particularly strong comparison in Q1 2016, when we saw nearly 50% growth.
+We continue to expect full year new bookings growth to be in the high single digits.
+Our 12-month and 60-month backlog declined $6 million and $23 million, respectively, from Q4, 2016, again, mainly due to the timing of new bookings.
+We saw strong growth in revenue, up 10% over the prior year quarter and given our relatively fixed cost structure, this revenue growth delivered adjusted EBITDA growth of 68% compared to the prior year quarter.
+We saw strong growth in operating free cash flow, coming in at $76 million and more than double the prior year quarter.
+And while we don't officially guide the cash flow for the year, we're clearly tracking ahead of our original forecasts.
+We ended the quarter with $100 million in cash and a debt balance of $710 million, down $43 million during the quarter.
+And lastly, here, we have $78 million remaining on our share buyback authorization.
+And one thing of note, as we mentioned at our Analyst Day in March, we have updated our financial statement disclosures and our Form 10-Q to reflect our new 2 P&L organizational structure and have presented our revenue and profitability for our ACI On Demand business, which consists of our Software as a Service and platform as a service in our ACI On Premise business, which consists of our traditional license, maintenance and professional services operations.
+So you will see that when we file our 10-Q.
+Turning next to Slide 7 with our full year outlook.
+We are reaffirming our full year guidance for the full year 2017.
+We expect revenue to be in a range of $1.0 billion to $1.25 billion.
+And we continue to expect adjusted EBITDA to be in the range of $250 million to $255 million.
+And we expect new bookings growth to be in the high single digits.
+For Q2, we expect revenue to be in a range of $225 million to $230 million.
+So overall, a strong start to the year and one that positions us well to achieve our financial targets in 2017.
+That concludes my prepared remarks.
+Operator, we are ready to open up the line for questions at this time.
+Our pipelines are very, very strong.
+Almost everyone around the world is either in planning to upgrade or in the process of upgrading, as electronic payments have redefined themselves much more with how electronic real-time payments take place are burgeoning around the world.
+As a matter fact, in a lot of places, whether be in India, the Far East, the places that are just growing their consumer economies, they're growing much more rapidly on the e-commerce side than they are in the more traditional -- what we view is the traditional way.
+Well, traditionally, the growth in e-commerce transactions, even for our traditional customers who are renewing, and we've had a tremendous success with our RPS program.
+So what's come with that is, people are not only renewing their traditional business with us, we're getting a very healthy growth in incremental transactions that they are purchasing going forward.
+That's what we meant there.
+I think we saw in the fourth quarter of -- I think we saw it accelerate towards the end of -- we saw an acceleration towards the end of last year, which is continuing.
+Well, I would say, generally our -- I would say, we apply for historical uses of cash.
+Obviously, we have the scheduled term repayments.
+We would look at tuck-in type acquisitions as well as we still have nearly $80 million left on our share buyback authorization.
+So I think the overall uses of cash will generally be along those lines.
+Well, what is live on the UP platform.
+We don't have that many customers that are totally live on -- we probably have a dozen or so RTS, those that have bridged customers that are live.
+We have some very big projects that are finishing phase 1.
+On the retailer side, we have some big projects: railroads, retailers and I'm missing a third category.
+Hotel.
+What.
+Hotel.
+Hotel, right, that are just coming live.
+You don't see the impact of those yet.
+And we have some -- from a pipeline standpoint, we have not a few, but several transformational UP deals that are in the pipeline, <UNK>.
+So I've never felt, this has been a labor of love for over a decade.
+I've never felt more comfortable about us than I feel right now.
+Well, I think the best thing we've heard and that we're both pleased and we're grateful is that the immediate increase in dialogue and pipelines that came from that, I believe, was our greatest -- what I think it was our greatest affirmation.
+And then I also believe, having demonstrated real time, both the day, financial analyst day.
+But we also did it the day before, demonstrating our -- the UP capabilities and the (inaudible) that UP is not this hardwired hub type structure, but it's a highly orchestrated, very variable, an Erector Set, so to speak.
+That really struck a chord with several of the people that follow our industry that hadn't attained that level of comfort before.
+So that was very positive for us.
+Yes, I wouldn't say there's anything in particular.
+I think most of our cost structure is generally the same.
+Any year-over-year difference could be attributable mostly to timing of certain professional fees.
+Yes.
+I mean, we are -- thanks for asking that question.
+We're within 1 quarter of taking these 20-something data centers down into 4 data centers.
+And I think you know, we said we have invested in the very recent past, $100 million in capital in costs.
+And some of that costs is continuing to build a highly leverageable infrastructure that today, we're equally balanced between our ability to support North America and our ability to support the European/Middle East/African continents.
+So we're within 1 quarter of concluding that effort.
+Well, the license side, by its nature, has a pretty significant -- a lot of that is not recurring.
+So it has seasonality to it.
+Part of the beat in the first quarter was higher-than-expected capacity revenues, which can be -- it's really -- it\u2019s based on the number inside the customers that need capacity in a given quarter.
+So part of that beat was higher capacity, which, in last year, came later in the year.
+We are very -- our business has a natural shape to it, of which you have the first 3 quarters and then you have the fourth quarter, right.
+And the first 3 quarters can look a lot more lumpy year-to-year against each other because they're not that significant to the fourth quarter.
+I suppose we could get out over our skis and whatnot and be more aggressive.
+We are a little more aggressive as it relates to the cash that we're going to bring in.
+But other than that, this gives us the luxury of bringing on as high-quality set of deals as we can.
+So it certainly makes our guidance more comfortable for us.
+But we're not -- we don't think there's any value in increasing at this point.
+<UNK>, do you want.
+Really, I would agree with that.
+I think it certainly de-risks what would typically be a pretty heavy fourth quarter.
+So great way to start the year.
+We're comfortable with where we're at guidance.
+If you look at what we\u2019re doing (inaudible) we have significantly increased bookings in our business.
+And in the bookings, it takes, at the short end, 180 days.
+At the long end, it takes us almost 500 days to install these bookings.
+And so if you ask me if I felt a lot better about '19 and second half of '18, I do feel a lot better about it.
+But we don't sell pizza.
+We can't convert it right away to our revenue line.
+You'll see most of those revenues next year.
+No.
+No, we'd be disclosing their proprietary information.
+So no, we don't do that.
+Not necessarily.
+I think (inaudible) on one of the bigger ones is Jack Henry so that will likely begin on next year.
+On some of the contracts that are in our SaaS and platform businesses have shorter time to install.
+So we can begin to see those recurring revenues kick in before we exit 2017.
+But not a pretty significant contributor this year.
+A lot of the sales that we get in any particular year are going to build our backlog and really contribute to future years' revenue.
+Well, I'd say, again, Q1 had -- and I said in my prepared comments, the comp of Q1 last year, if you look back, was nearly 50% growth.
+So we had a very strong Q1 last year and essentially maintained our full year guidance.
+I wouldn't look at Q1 as anything other than a tough comp.
+And the backlog is also a factor that in a quarter in which you have as much revenue as we did.
+It's again, a timing issue when we have the new bookings because it's the new bookings that fill backlog.
+And so again, I think they're both a function of timing in the year as we get into Q2, 3 and 4, and we start to see those new bookings pick up, that's ultimately going to feed the backlog and contribute to future revenue.
+Yes.
+Brad, this is Phil.
+I just think -- I don't want to overly make -- bookings by quarter, fourth quarter's big enough that you can really have a good year-on-year.
+What will probably happen in second quarter is, we'll do tremendously versus the previous year.
+And I wouldn't want to overly celebrate that too, right.
+It just has to do with the way it comes.
+Certainly, the first half of the year, the way it comes in.
+We are -- I could not -- I am more confident than I was 3 months ago about our ability to make our full year bookings.
+But I don't want to make too many excuses about the first quarter.
+And I'm not going to pretend second quarter that we're the Second Coming because we had such a great year-to-year comp.
+It kind of -- year-to-year, we sell capital-oriented items and whatnot, whether someone buys at the first quarter, or they buy at the third quarter.
+That's not that big a deal.
+What we like about selling it earlier in the year, is it gives us more discretion towards the end of the year.
+But we are very, very comfortable.
+The momentum is here.
+I think we told you, we are not renewing deals prematurely, unless there's some customer need for it to take place.
+And that throws off the year-to-year a little bit.
+We signed very little in a way of renewal that wasn't time appropriate to do.
+So I'm very, very -- the net is, I'm very comfortable where we are.
+And we're not going to take more credit than we deserve, say, next quarter, we blow it out of the water, we're not going to take credit for that because the sum of the 2 quarters against the full year commitment.
+Well, I think you know that UP powers everything we do.
+So UP powers our immediate payments capability.
+I think that -- just my personal, a lot of decades in the payments business, I think we are underestimating the power of immediate payments the same way 30 years ago we underestimated the power of credit cards.
+And I think we'll be amazed.
+I think real-time commerce deserves and requires real-time payment.
+And whether the world collectively understands what they're putting together, it's happenstance but suddenly, all the governments around the world and their central banks become enlightened that real-time payment -- and I think you're going to see under UP infrastructure that real-time, that wire and immediate payments are going to become coupled cousins.
+And you're going to see a lot more sophisticated ways that companies, big and small, and there's no way they're going to hold the individual out of the benefit of immediate payments.
+I think immediate payments is huge.
+First, you have to build the infrastructure, then you have to build its usage.
+But so much of the world is coming on board at the same time.
+And so many of us, people are thinking globally about how the schemes should work.
+And it's just making a lot of -- I couldn't be more enthusiastic about immediate payments.
+And we're seeing it in the marketplace.
+I mean, our customer base is certainly getting it.
+The ones that are [seeking] us out, they certainly get it.
+And I would say that the retailers understand and the e-commerce understand immediate payments.
+Maybe they may see more benefit to us than even the financial institutions and financial intermediaries.
+Well, thank you all for dialing in and we look forward to catching up with everybody in the coming weeks.
+Have a good day.

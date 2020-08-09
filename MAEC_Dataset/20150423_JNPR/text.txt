@@ -1,0 +1,161 @@
+Okay, let me start, <UNK>, and then I'll pass it over to <UNK>.
+The outlook that we had provided on our routing business over the next three years was essentially 3% to 5% in revenue growth.
+And I believe that's achievable because of a number of different things.
+First, just based on the merits of our product portfolio.
+The dynamics in the routing business are such that, in order to grow, you need to take market share, and in order to take market share, you need to have better products.
+We just introduced a router that has three times the performance of anything else that's out there in the industry, today.
+At a time that traffic is growing substantially, and our customers care about the economics of routing.
+We have a product that truly demonstrates to them what we're capable of doing, in moving that amount of traffic cost effectively.
+That's why I think we have confidence in our ability to achieve these projections.
+And then, as far as the restructuring cost that you are talking about, let me just start, and I'll pass it over to <UNK>.
+The most important thing that I think you need to understand is, yes, last year was a year of restructuring for us, but going forward, I think we're going to make sure that the investments we make in OpEx are going to be commensurate with the revenue growth.
+We're not going to get ahead of ourselves, as we have done in the past, quite frankly, in terms of how we invest in the business.
+We have to see the growth that will give us the freedom, if you will, to invest in the business, not the other way around.
+<UNK>, do you want to add anything.
+Yes, thanks, <UNK>.
+Firstly, I'm very pleased with cost performance in the quarter, and also the year-over-year declines that we've actually achieved this quarter in terms of the costs.
+I think also, just amplifying what <UNK> said, clearly we put out in October that 25% is still our goal in terms of operating margin over this next three year period, and we are focused on doing that in a balanced way.
+We want to make sure that we continue to invest in the future of the Company, which is obviously the innovation that we're delivering to market.
+And we will, as <UNK> said, grow OpEx outside of this year slower than we grow revenue, and so that's how we will continue to expand operating margins, just like we did in the first quarter, on a year-over-year basis.
+So that is our strategy, and we're continuing to do that.
+So the other side of that, <UNK>, is that we are always looking for cost improvements.
+A lot of those will be invisible because you have to actually take costs out to even keep its flat in any sort of environment.
+So, we are very focused on the cost side, but in a balanced way.
+Yes, thanks, <UNK>.
+Last year was a busy and a tough year, quite frankly, because we have to make some difficult decisions about which particular product areas we're going to remain in, and which ones we would divest, and which ones we would unwind.
+That work is effectively behind us at this point in time.
+So, I feel very good right now, that we are not stretching ourselves too thin, that we are investing in areas, and investing sufficiently in those markets that we are playing in, in order to differentiate, to compete, and to win.
+It's that simple.
+So, at this point, the focus really is on -- the focus in our strategy that we have to grow topline, and we'll go from there.
+We're in execution mode.
+And if I can just add, as well <UNK>, the work that Vince did on the go to market side is also, obviously, yielding results.
+And if you look at our strategy more deeply, in terms of the vertical focus that we have, it's obviously clearly focused on those customers that differentiate the network or run their business on the network across cloud, cable, carriers, as well as on strategic verticals in enterprise and government.
+And so, we're very pleased with that, and partnering is a key element of making sure that we continue to get the growth rates from a revenue perspective, and continue to drive operating margin expansion as well.
+Yes, <UNK>.
+I think cash flow generation is a core strength of the business model that we have here at Juniper.
+I think that operating cash flow in particular does follow the operating margin and the expansion of that will obviously lead to more cash per revenue dollar being generated.
+And so, we're very pleased with our cash flow, and for the first quarter, and even for the whole of last year.
+And that enabled us to continue to drive the investments that we made, going forward, and also deliver a healthy return for our shareholders in terms of the capital returns that we've been committed to.
+Let me start, and then I'll see if <UNK> wants to add anything.
+I'll just go back to the commentary we had made.
+We do expect, just based on the two factors that we've outlined, service provider spend in general -- and I'm talking telco spend, in general and specifically here in the United States, should improve in the second half of the year, and then also, the further diversification of our business across the different key verticals that includes cloud, that includes cable.
+Based on that, we do anticipate the second half to be better than in the first half, and also better than the second half of last year.
+<UNK>, anything else.
+I agree with, obviously, everything <UNK> said there.
+I would also point out, and I mentioned it in my CFO commentary, that we actually had a good routing quarter in Q1 in enterprise, as well.
+And that just speaks to not only the diversification of the revenue, but some of the key strategic pivots that we made last year around the data center.
+So, obviously in enterprise as well as in cloud data centers and the service provider world, there's an element of routing that's in those solutions as well.
+And so, we're pleased by that performance, we saw some good wins and some good revenue on the enterprise side of routing, as well as the SP side.
+But to confirm, we do expect service provider routing to improve through the year, as well.
+Yes, <UNK>, you're absolutely right.
+There is a transformation that's happening right now in the industry, where the packet world, if you will, and the optical world are moving closer together.
+You're also right about the velocity at which that's happening.
+It's not happening very fast, there are all sorts of non-technology barriers that are in the way that will prevent it from moving very fast.
+As far as our own strategy, we do have a small, but very effective optical team in-house at Juniper that I do expect will grow over time, that has the capability of taking off-the-shelf optical components that are available to anybody, really, and integrated them into our routing products.
+But I also do believe that, where most of the innovation is going to be on the packet optical convergence topic, it's going to be in software.
+It's going to be around the ability to look across layers, and to make optimal decisions how to move information from place A to place B, leveraging optical and packet technology as efficiently and effectively as possible.
+And we have now a product called the Northstar controller, which is essentially our WAN SDN controller that does exactly that.
+Honestly, I think we have some the best minds in the industry right now, that have developed algorithms that have the ability to optimize these paths across layers in ways that's very meaningful to our customers, and we are engaging with a number of different customers on these products.
+It's still early days, early stages, but I'm encouraged by the progress that we are making.
+Yes, thanks <UNK>.
+So, our goal for this year, as I stated last year, sorry, last quarter, is around stabilizing the security business.
+If you take a look at our SRX business in Q1, it was more or less flat with Q4.
+The part of the business that's in decline, and that will continue to be in decline, is going to be the legacy screen OS business.
+We're still in work-in-progress mode, if you will, on security.
+I did mention that we pivoted our strategy.
+We're now working on a security strategy that's very highly aligned with the rest of our product portfolio, and offering domain level solutions that have a strong security element to our customers, and we are executing on a very high leverage engineering strategy.
+So, just last week in fact, we announced the industry's fastest firewall.
+That's 2 Tb/s for cloud operators that are trying to protect massive cloud infrastructure, and for mobile operators that are trying to protect their mobile users, their mobile infrastructure.
+That's very, very meaningful, and it's only possible because of the silicon innovations that we've already developed in-house for our other product lines, and it just demonstrates the power of the synergies, if you will, from a cost standpoint that exists in the organization.
+So in summary, we're focusing on a narrower part of the market, it's the network security space, tightly aligned with the rest of our products, and we believe we can in fact innovate to differentiate and win there.
+It's just going take a bit of time.
+Well, as CapEx improves for service providers, I expect that to help all of our business.
+I don't know whether it's specifically for the second half, it will have an effect on security.
+We haven't broken it out in that way.
+The enhancements that we are making right now to our Junos Space security products, I want to make clear, are certainly very compelling for the service provider space, but is also compelling for large-scale enterprises.
+So, those that are building large enterprise clouds will benefit from the performance and scale that we are adding.
+And of course, it doesn't stop there.
+We are also continually enhancing our virtual security products and assets, which is very meaningful for the enterprise space, because at the end of the day breaches will always happen.
+You're always going to be able to overcome any security barriers you put at the perimeter.
+Once that happens, the key is to prevent the spread of malware inside of the enterprise, and our virtual security products are now being used by enterprises to do exactly that.
+So yes, our strategy is very much around SP and enterprise.
+The scale in performance helps both, certainly more on the SP and the cloud infrastructure space, but also in the enterprise side.
+And finally, virtualization is something that will certainly help both SP and enterprise
+And just to underscore that, I made the comment before about routing and data center and the enterprises.
+The same was true in the quarter for security.
+The high end was up; again, nothing to write home about yet, because it was flat overall -- SRX flat overall, sequentially.
+However, the area that did grow nicely was actually the data center space, in the enterprise in the first-quarter.
+So it's early days, but our overall aim for this year is to create stability in that business this year, and then go from there.
+Hi <UNK>.
+We haven't broken that out.
+We can consider doing that at some point.
+I will say that the fact that we are seeing strength in cloud and cable and government is not an accident.
+It's a deliberate part of our strategy.
+So we are, in fact, listening very closely and making sure that we weave in the requirements from all of the customers in these verticals into our products, and I feel good that that's going to continue.
+I will tell you again, that the products that we have just announced that will be shift throughout this year, were all developed with a deep understanding of specific requirements in these verticals, that others that might not have the strategic relationship that they have with these customers would have implemented.
+So, I expect that that part of the business will continue to do well, and certainly the telco side will do well, as there is improvement in the CapEx environment there.
+I just want to add one more point, <UNK>.
+I think the diversification of the revenue is a core strength of ours.
+This quarter one of the stats I'll leave you with is, of our top 10 customers in the quarter, 5 were carriers, 3 were outside of North America.
+We had 4 customers in the top 10 that were either cloud or cable, and one enterprise customer.
+So to me, that is -- it's really good in terms of the diversification and it's not something that happened overnight.
+That's been a work progress by the team for quite some time.
+It speaks to the strength on the go-to-market side, as well as the relevance of the products across multiple customer types.
+So we're pleased with that progress.
+Yes.
+So, OpEx as we talked about before, for this year, for 2015, we set a goal of $1.9 billion plus or minus $25 million.
+As we move forward, we said earlier that we're committed to the 25% operating margin over the next three years.
+As we grow revenue, OpEx as a percentage of revenue will start to come down.
+And so, we've talked about that for quite some time.
+The structural actions that we took last year, and the cost areas that we continue to work on are a testament to that.
+So, we're committed to doing that in a balanced way, so that we can continue to grow the business over the long term.
+Yes, sure.
+Thanks <UNK>.
+On the switching side, let me sort of try to break out the business, and then probably shed some light on some the observations that you've made.
+There is a service provider and enterprise component to our switching business.
+The service provider side, especially as it pertains to cloud, has actually performed quite well.
+And that includes performance in the Q1 timeframe, the quarter that we just wrapped up.
+The enterprise side is a bit of the mixed story, which is what you're seeing right now, or observing right now in the numbers.
+Cloud, as it pertains to enterprise, so private cloud type deployments as well as enterprise IT data centers, has actually done quite well.
+So that area of the business, I think because of the focus and some of the newer product introductions, has helped us grow in that area of the business.
+On the campus side, you have to understand that we've just sort of done a bit of a campus pivot in our switching business, or in our strategy all up, that includes taking some of the products that we had in-house, take our SSL VPN business, our Pulse business, the wireless LAN business, and we pivoted there to a partnership approach.
+And I think that strategy needs to play out over a number of quarters before we get to some sort of stability and return to growth, if you will.
+Once that happens, I think that will create the environment, if you will, for all up growth in switching.
+Last but not least, clearly we have been competing even in the data center without a complete portfolio of products, which we're just about to plug, if you will, with the innovations and the QFX 10K product line that we have just announced that we'll start to introduce into our -- for our customers in the middle of the year.
+That gives me more confidence, again, that I think that switching can be a good growth engine for the Company, going forward.
+Manny, are you still there.
+We don't break it down, but I will say that they both represent pretty meaningful portions of the overall switching business, <UNK>.
+Well, I mean, at the end of the day, these are just words, and it's the number that are going to have to prove our thesis, if you will, of our competitiveness in the space.
+But, all I'll tell you is that we have learned tremendously, tremendously from the lessons of introducing the products into the market that are in the market today.
+Whether they be on the EX side or the QFabric side and so forth, and we have taken all of those lessons and applied them over the last couple of years as we were developing this new product into the development of those product lines.
+And we have now been talking to many of our customers about this product line for quite some time, and so far what we've heard from them, and in fact some of them have had early access to the products in terms of an ability to actually kick the tires on them.
+The feedback has been quite encouraging.
+Now, we have a lot of work to do to finish up testing, ramp up production, and get these products into the market.
+We're doing exactly that, right now.
+But I feel really good about the prospects of this product line.
+Yes, well, look, fortunately I don't consider this a hole, at least not right now.
+Now, things could evolve in certain ways, but at this point in time, I'm very close to the Aruba executive team, I've talked to their CEO.
+That partnership continues.
+The foundation of that partnership is one that is based on open interfaces between our technology and their technology.
+So, having the ability for our customers to choose best of breed technology is fundamental.
+Anybody that loses sight of that will lose just because our customers will not accept anything else, and I think that's the thing that makes this solution, A, long-lasting, but more importantly or just as importantly, it gives our customers the ability to interchange, either Juniper or the Aruba side with different types of technologies.
+I think we have time for one more question.
+Okay, thanks, <UNK>.
+Let me start.
+So, we're pleased with our enterprise performance at least from a sequential standpoint.
+There are couple of dynamics here.
+First and foremost is, from an industry vertical standpoint, government is actually helping, here.
+We are seeing good strength in some projects that we have with government agencies, and this helps us in switching, it helps us in routing.
+It also helps us to some extent in security as well.
+Beyond that, the focus that we have on this transformation that's happening towards cloud-based service delivery is very important.
+So, we are working right now with a large Fortune 500 company in building out their cloud infrastructure around the globe, and that is a testament to the strength that we have in our MetaFabric architecture, in the switching product that we've introduced into the market.
+It's also a beautiful example of how security ties in really effectively to complete the cloud solutions that we offer to our customers.
+I expect that to continue.
+It starts in the second quarter, but it actually goes throughout the second half of this year.
+Thank you, Manny.
+Thank you, everyone, for joining us today.
+We appreciate your participation and your great questions.
+Before I close, I just want to give a shout to the Juniper IR and FP&A team that worked on the new format for today's call.
+We hope you found it helpful, and we'd love to hear your feedback.
+Thanks, everyone.
+<UNK>k to you soon.

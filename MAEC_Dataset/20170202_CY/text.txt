@@ -1,0 +1,75 @@
+I'll just say that the 2017, 17% is -- I'm very comfortable with that today, and obviously as we move through the year, and we see how the end sell through will happen, we'll talk about different trajectory, if any.
+Overall, in the channel, it's fully deployed.
+I would say that IoT products and solutions were fully deployed, before we even closed the acquisition.
+We had our complete sales force was trained, our distribution channel -- regional and every branch were all trained.
+Our technical experts were up to speed on WICED.
+We hit the ground running, and that's the reason we are able to really quickly take those products and solutions broadly.
+Like I said, we're seeing the results of that.
+Maybe, I will just add one other thing on the channel side.
+A number of our channel partners now have already implemented and hired specialized, centralized training to help take this broad.
+So, they're making a big investment in the IoT space, as well, with us.
+There was some auto business that has historically been reported into the PSD, a small portion of it.
+It just got cleaned up, and moved over into the memory side.
+That's a great question.
+It's actually a combination of the two.
+It's the second half of 2016, we said would be breakeven for the IoT acquisition, after you burden it with the interest expense.
+We were actually slightly accretive in that business coming out of 2016.
+As we go into 2017, obviously there is accretion that we talked about, but there is opportunity for us to reallocate some of the dollars through our restructuring plan that we implemented in Q4, to move those dollars into that IoT group to capitalize and spend more on R&D, to capitalize on that fast-moving market.
+It's really a combination of the two.
+I don't think you're going to see a dollar for dollar fall through because of that incremental spend on R&D, but you are going to see leverage as that grows, falling through to the bottom line.
+<UNK> if you remember, I've always focused on market and we are going to play to win.
+If there's an opportunity, and there is, for us to play to win in IoT, we are not going to let it pass us by.
+We will invest, and we will win, and we will dominate or maintain our dominance in that market.
+We are, obviously, doing cross-selling already, since we closed the acquisition.
+If you look at the industrial segment, the design rate, as far as our design latency from design into revenue -- think of it as being 18 months to 24 months, the comment I made earlier.
+That's going to put some revenue from cross-selling towards the end of 2017, but primarily, it will hit in 2018 as we convert the funnel into revenue.
+That's typical design-in and we have good visibility on that activity moving forward.
+The same as in automotive.
+Just a few years earlier.
+It's an emphasis for the company.
+We've actually been reducing our burn rate on the share count, and obviously, it takes a while for that to catch up through the stock-based comp, the way that's calculated from an accounting perspective.
+If you think about the share count, we plan a 2% to 2.5% normal dilution per year, and that's what you should be thinking about for 2017.
+Obviously, we would love to be buying that back and offsetting that.
+For 2017, right now, the focus is the debt pay down, but we are not planning out a lot of a lot of delusion.
+We are managing it very tightly, and you will see that slowly start to catch up through the stock-based comp charge that comes through.
+There are a few questions in that.
+I'll target first the position for USB-C in the market.
+We have a leadership position, today, but if I compare Type C today from USB 2.0 today, it's the fragmentation that you have not seen in the USB-C, yet.
+To illustrate it, standard USB -- there are very segmented end market employers.
+The number one and number two player are -- let's say 11% or 12% each.
+We are number two in that market, and then you go to 7%, and then it tails decimal point percent market share.
+That's the market in USB 2 that happened over time.
+Type C today, you have a handful of players that matter, but as that market expands and as that market matures, I expect the same segmentation or fragmentation to happen at the supplier base, also.
+We are focusing on the integration and programmability side of it.
+As the commoditization of type C will happen at the low end, which I expect the cables to be the first, then we will just not participate in that, and we will focus on where we believe the gross margin dollars and innovation is going to happen.
+We already started that focus with our HDMI first to market approach, where we integrated HDMI and a single chip.
+So that's the behavior you are going to see us do and keep in the future.
+Then, your next question is do I expect USB type C to proliferate beyond consumer.
+Yes.
+The answer is yes.
+It will start catching up in the ecosystem as the connector of choice becomes USB Type C for all of the video, audio, and specifically power.
+You are going to start seeing the ecosystem catching up, while they go through their design cycle.
+You are not going to have a USB adapter in your car, that is the old USB connector that you want to plug your USB type C phone into it, given that the phone needs a reciprocating connector on it.
+Those will start happening.
+There is some design activity happening there, and those will follow their own latency from design into revenue.
+So, you're talking about three to four years in auto, the two years I talked about in industrial, but that activity is happening.
+It not going to be just on consumer.
+Yes.
+It's <UNK>.
+I mentioned the memory, right, over a multi-year period, I think that is going to be declining.
+You can think about that declining low to mid-single digits.
+There's going to be puts and takes each quarter, each year.
+Over a multi-year period, that's what you should plan.
+On the MCD division, which is the auto, the IoT, the MCU connectivity, you are going to see higher than market growth there.
+When I think about a combination for that, it should be high single digits.
+Some markets are going to grow faster, some of the sub segments in auto are going to grow faster than that.
+I think when you think about that division, it's going to be high single digits.
+That should put us in a position to outgrow the market, that's really what we are shooting for.
+Thank you all for joining us today.
+We're pleased to once again report results that were in line with our expectations.
+In 2017, we're focused on growing faster than the overall semiconductor market, driven by automotive, connectivity and USB-C.
+We look forward to providing more detail at our Analyst Day on March 28.
+We have an exciting day planned.
+Let's just say you are not going to recognize this company when you walk in the door.
+We hope to see many of you there.
+Thank you.

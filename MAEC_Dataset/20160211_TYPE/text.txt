@@ -1,0 +1,98 @@
+A great question on web fonts.
+So, I'll back up for a second and say we are thrilled at how the Web Font adoption has gone.
+And just to remind folks who haven't been with us for that long, we originally thought that web fonts could be a $30 million to $50 million opportunity just solving the website problem.
+And this year, ending the year at $21 million, we are about half way there, and that feels really good.
+One other point I would make is, in order for us to really capture the second half of this Web Font growth, we had to see a transition from people just coming onto our eCommerce site, licensing web fonts at $10 a month or maybe a micro site, and we really had to see this transition over to the enterprise.
+And we've certainly done that and it really what's been fueling our growth.
+Our enterprise sales force is doing terrific, and that NIKE example we gave in the script is really being repeated across lots of enterprise customers.
+So we certainly feel we are on track to hitting our original goal.
+We are not going to be forecasting out web fonts any longer from an individual component perspective.
+One of the things we've done, and you've heard us talk about, is we are now signing up large enterprises for customized deals.
+There are so many use cases that we can now solve for a brand, and the good news is that they are inviting us in and they are sharing their print plans with us.
+We're talking about their websites.
+They are going through their app strategy and now we are beginning to talk about digital advertising.
+And what our goal is is to create a customized license for an annual fee that has certain governors on it.
+And so at this point, we are no longer going to be speaking to it in particular.
+What we do is still a huge driver that enterprise strategy.
+And that's a big catalyst on what's fueling the Creative Professional 15% to 20% growth.
+It's the early days.
+We don't have very much money built in, but the next wave here would be HTML 5 advertising.
+So it's taking that same Web Font value proposition now and extending it to the digital ad use case versus the website use case.
+We just launched a new subscription model called Monotype Library Subscription that we think can be an interesting thing longer-term.
+This isn't a replacement for our desktop offering, but it's a next generation offering that we are offering in addition to the perpetual licensing.
+I think Swyft is another catalyst within that CP portfolio where we would expect growth.
+And then there's also the Internet of Things.
+I don't think it's as high as a percentage of revenue from a growth perspective, but we are seeing some nice traction within the Internet of Things and some of the adoption of our Spark technology.
+Yes.
+So, I think we are now actually up to working with 14 manufacturers.
+I can't list them out specifically, what I will tell you, a few years ago, when we talked, most of our activity was here with the US-based manufacturers.
+And today as we sit here three or four years later, we've got really solid representation in the US, in Asia and in Europe.
+So that business has been a nice growth catalyst for us.
+It's in excess of $5 million today.
+It seems as though our pricing, which is $0.50 ballpark per car, is continuing to resonate.
+And I think we've got enough breadth of customers signed up today, I think the next wave of growth is going to be dependent on our ability to get those individual customers to ship us in more units.
+So if you looked across those 14 customers, we may ship in anywhere from 5% to 50% their unit.
+And what we've got to do now is continue to show our value and hopefully, as they bring more screens to all of their models and they unify the brand, the look and feel that's on that screen across all of their models, it presents an opportunity for us to now spread out within those accounts.
+So that's still a big focus area for us and we are really pleased on where we are so far.
+So ,from an ISV perspective, that's categorized in our OEM business.
+And we've talked about that as a long-term grower at about 3% to 5%.
+There are times when there are quarters or years where that can have a really nice impact on our business as some of the major players invest in their operating systems and their platforms.
+So obviously the bigger players are the folks like Google and Microsoft and Apple, but we are also working with a whole host of software folks.
+So, that's been a really nice boost for us in the second half of the year, and it's really important strategically.
+So whether or not you're talking about the big operating systems guys or folks like SAP and Oracle or even folks that are creating apps because, in some ways they look a lot like ISVs or gaming folks, it's important for us to be across all of those different customer accounts because those are the folks that put fonts in the hands of the everyday user every day.
+And so by working with them, we ensure that billions of people, whether they know it or not, are working with Monotype IP.
+And the other big thing that drives it there is we are also able to make significant improvements to them by adding different tools to help them within their workflow.
+So hopefully that gives you some color.
+So, yes, we would.
+When we go and do enterprise deals -- and I'll give a shout out to Doug here.
+It's the first time he is not on the call.
+But Doug ingrained in the Company years ago that, when we are doing these broader licenses, that we should only be licensing for things that we specifically see today.
+So we usually do not grant license rights for different use cases that may come down the road because then, to your point, we reduce the opportunity to drive more value as they're getting more value from us.
+So the strategy of our enterprise sales team as they do these deals is to first identify what are those specific use cases where the fonts will travel, and then we will create a customized agreement to give them the flexibility to do their best work across all of those use cases.
+So, in an example like this, if we had done a deal two years ago, we would've not given them the rights to do digital advertising because that was still an unknown quantity.
+Pricing was unknown.
+How the technology would be used would be unknown.
+The different people that would have to play in the system would be unknown.
+So the first thing we have available to us, <UNK>, is as new use cases come online, those can be additive to that customer agreement and can drive the value.
+The other thing that we look at is that some of these things are being priced based on a per use basis, per download or per user.
+Those governors typically still exist.
+So in many cases, we will still, if we are licensing for X amount per year, that will be up to so many downloads or up to so many users.
+So if their businesses double, it creates an opportunity for us to grow with the customer.
+Does that make sense.
+It sure does.
+It's very helpful.
+And then just a quick follow-up on the display ad side then.
+You talked a little bit about pricing.
+I think previously on the enterprise side anyway, you guys typically aimed for kind of a $0.04 per 1,000 impression type metric.
+As you now have these eight partners signed up and you had that first inbound deal, how do you see pricing holding up relative to what you saw on the enterprise side.
+Yes, I still think it's too early to tell.
+I wouldn't be surprised in the beginning if it holds up at the same pricing as websites.
+It's almost analogous to when brands first tested web fonts and adjusted it on a micro site.
+It's likely that we may get our first engagement with the brands maybe through their agency, just on one or two small campaigns.
+So that feed us may be $800; it may be $10,000.
+I think when we're going to be able to test the pricing is similar to when web fonts or websites went across the entire enterprise.
+Now you're talking to someone at a VP or C level within NIKE that says okay, you're going to put this everywhere, what should the pricing be.
+So I think that's still on the come.
+We are assuming in the models that we've talked to you folks about, <UNK>, that there's a 5 X impression, 5 X to 10 X compression in pricing.
+But we will see.
+And we will keep you updated as we go.
+It seems like a reasonable piece.
+I do just want to make the point, because we've talked a lot about HTML 5 because it's so important to our long-term, in this 2016 guidance, there's very little built in for HTML 5.
+There are still a bunch of unknowns and our hope is now that it appears that the logjam is broken in the marketplace, that each quarter we can give you more data points of actual activity within our four walls with customers.
+This is <UNK>.
+If we look at the EBITDA, and we've talked about in 2015 our investments in areas of growth, which we are excited about because we are seeing those areas of investment giving us good indicators and performance.
+And as we have been saying, we are continuing in 2016 to invest in those same areas, investing in our sales and marketing efforts, investing in our infrastructure.
+And the same types of investments we've been making we are continuing to make.
+And we think it's important for the growth of the Company to keep that investment going right now.
+It's <UNK>.
+It's really an interesting time.
+I mean, if you look at our business, we've got a wonderful printer business, but it's a mature -- it's an annuity business for us.
+And what we are really focused on is everything else.
+So I think, in periods where printers are growing modestly, all of the financial metrics are going to look just fine.
+In years that printers struggle, it's going to put pressure on us from a profitability perspective because, to <UNK>'s point, all of the new money and investment is going on all the rest of the business, which what we are happy from an investor perspective is if you look at our financial statements, we've demonstrated our success in those markets over the last five years, certainly on the early days in displays and now big-time with Creative Professional.
+So we will continue to keep the pedal to the metal there because that's the right thing for us and the shareholders long-term.
+Great.
+Thank you, and thank you for joining us today.
+We had a solid year capped by record fourth quarter.
+We enter 2016 in a stronger position to capitalize on multiple opportunities on our path to empowering expression and engagement.
+Thanks again and have a great day.

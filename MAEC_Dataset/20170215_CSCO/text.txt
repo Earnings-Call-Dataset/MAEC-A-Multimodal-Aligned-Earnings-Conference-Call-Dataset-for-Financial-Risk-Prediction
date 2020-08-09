@@ -1,0 +1,115 @@
+Thanks, <UNK>
+So I'll start with an overview of our financial results for the quarter, followed by some comments about our capital allocation and the Q3 outlook
+Overall, Q2 was a solid quarter with revenue of $11.6 billion, down 2%, and non-GAAP EPS of $0.57, flat year-over-year
+We continued to make progress on our strategic growth priorities while maintaining rigorous discipline on profitability and cash generation
+As part of our strategy to drive long-term profitable growth, we're prioritizing key investments, both organically and inorganically, such as the intended acquisition of AppDynamics
+Today our board approved an increase of $0.03 to the quarterly dividend, bringing it to $0.29 per share, a 12% increase, representing a yield of approximately 3.5% on today's closing price
+We remain firmly committed to our capital allocation strategy and returning value to our shareholders
+Let me provide some more details on our revenue breakdown
+Total product revenue was down 4% and let me walk through each of the product areas
+Switching declined 5%, driven by weakness in Campus partially offset by strength in the ACI portfolio, which was up 28%
+Routing was down 10%, although we did see growth in orders
+Collaboration grew 4% driven by ongoing solid performance of WebEx, unified communications and TelePresence
+We saw good momentum again in the transition to subscriptions and SaaS offers with deferred revenue growing 14%
+Data center declined 4%, impacted by the continued market shift from blade to rack, though last week we announced expansion of our UCS portfolio by offering the Microsoft Azure stack on UCS via an integrated validated system that enabled organizations to deliver Microsoft Azure services from their on-premise data centers
+The joint Cisco and Microsoft solution provides the tools for enterprises to grow and modernize their applications in a highly flexible and scalable hybrid cloud environment
+Wireless grew 3%, with ongoing strength in Meraki and the continued ramp of our 11ac Wave 2 portfolio
+Security grew 14% with deferred revenue growth of 45%, as we offer more solutions to customers with increasing software content that result in greater recurring revenue
+We had very strong performance in our advanced threat security of 65% as well as strength in unified threat management and web security solutions
+Our focus continues to be developing a best-of-breed portfolio while offering customers the benefit of deep architectural integration spanning the network cloud at endpoint which we believe is outpacing our competitors
+Services continues to execute well, growing 5% with a strong focus on renewals and attach rates
+Overall, we drove 13% growth in total deferred revenue with product up 19% and services up 9%
+We continued to build our product deferred revenue related to recurring software and subscription businesses to $4 billion, up 51%
+We made good progress on increasing our recurring revenue, with 31% of our total Q2 revenue generated from recurring offers, up from 28% a year ago
+In terms of orders, total product orders growth was flat with book-to-bill greater than 1. Let's take a look at our geographies, which is a primary way we run the business
+We're seeing continued strength in the Americas which grew 4%
+EMEA was down 4% and APJC was down 5%
+Total emerging markets declined 7% with the BRICs plus Mexico down 5%
+In terms of customer segments, enterprise grew 1%, commercial grew 3%, public was down 6%, public sector was down 6% and service provider declined 1%
+From a non-GAAP profitability perspective, total gross margin was 64.1%, down slightly by 0.1 points
+Our product gross margin was 62.4%, down 0.9 points and service gross margin was 68.8%, growing 2.1 points
+Operating margin was solid at 31%
+We're maintaining our discipline and driving productivity with an ongoing focus of cost improvements and operational efficiencies, making the necessary trade-offs to drive operating margin
+At the bottom line, we delivered non-GAAP EPS of $0.57 and GAAP EPS of $0.47. We delivered operating cash flow of $3.8 billion and ended Q2 with total cash, cash equivalents and investments of $71.8 billion with $9.6 billion available in the U.S
+From a capital allocation perspective, we returned $2.3 billion to shareholders during the quarter that included $1 billion for share repurchases and $1.3 billion for a quarterly dividend
+To summarize, we had solid performance in Q2 and managed the business well
+We're making the investments we need to deliver shareholder value over the long term, and we are being very disciplined in driving continuous cost efficiencies
+Let me now reiterate our guidance for the third quarter
+This guidance includes the type of forward-looking information that <UNK> referred to earlier
+As a reminder, the third quarter of last year included an extra week, which resulted in higher revenue of $265 million and higher non-GAAP cost of sales and operating expenses of $150 million, netting into $115 million of non-GAAP operating income
+The guidance for the third quarter is as follows
+We expect revenue in the range of minus 2% to 0% year-over-year
+We anticipate the non-GAAP gross margin rate to be in the range of 63% to 64%
+The non-GAAP operating margin rate is expected to be the range of 29% to 30%, and the non-GAAP tax provision rate is expected to be 22%
+Non-GAAP earnings per share is expected to range from $0.57 to $0.59. My guidance does not reflect any impact from AppDynamics
+I will now turn it back to <UNK> for some closing comments
+No, I think just to add to that, I think we do feel good about what we're seeing from macro in the U.S
+certainly, and in commercial and enterprise
+And I'd say to your point, <UNK>, when you do adjust for that extra week last year, our guide, we always call it like we see it
+And it does show a bit of improvement there on both the top line and bottom line
+So I think – like <UNK> said, I think the U.S
+is solid, and again we're still cautious on outside the U.S
+and Europe and Asia
+No, yeah, I think what I say is between 1% and 2%, right
+So we're in that 1.5% to 2% range
+Well again, as we continue to accelerate the growth, as we're continuing to grow it like we have been growing it, I referred it may get even more until it evens out, but in the last few quarters it has been in that range
+Yeah, we don't share gross margins by business unit, but I can tell you, the margins are growing in our security portfolio overall between the mix of the growth in these areas and the acquisitions and the SaaS businesses we've been adding
+So it's very accretive to the Cisco average
+Hi, <UNK>
+Yeah, that's a great question, <UNK>
+So actually product as a percentage of my total product revenue, it's up to 10% now this quarter for the first time, so we're happy about that
+And we are trying to make that shift in the core part of the business
+Cisco ONE is an example of where we are taking our ELAs and our big cross enterprise ELAs that really are a core networking business to do that
+So we're trying to find ways to find other offers
+I'll just point to another example though like the Spark Board that <UNK> mentioned
+It's a great new innovation and extension of TelePresence, but it's a great example of where we're selling that
+We used to sell it always as a system
+Now we're selling the equipment, but we're selling it with a subscription
+So that's an example of how we've been able to kind of to drive new offers that had been traditionally just pure system or hardware
+And again, the teams are driving hard to find more ways to accelerate new offers that way
+Thank you
+Yeah, on the deferred, <UNK>, I mean that is part of why we're trying to make this shift to software
+It's our customers want those offers and to have easier way to run their IT departments
+But it clearly enables us to get higher margins, for sure
+And it's not only just the gross margin coming out of deferred revenue, but we're looking at our whole end-to-end operations, and how we go to market, how we drive operations in the back end here
+And there's real opportunities to drive both gross margins and operating margins
+So that's why we're so focused on it
+That's why we're looking at acquisitions to add to it, and it will continue to help improve our mix on the margins line
+I'll take that one, and a great question
+Gross margins, we've been – again continue to operate well
+I'll say there were two specific kind of headwinds that we faced this quarter
+And to your point on APJC, I'll refer back to a year ago, we were benefiting from a national program in China where they were rolling out set-top boxes to tier 2 and tier 3 cities
+Not our set-top boxes, but we were providing the smartcards to go with that, which they're basically for secure access and it was very, very high margin
+So we had, if you go back a year ago, SP video in Asia was extremely strong because of that
+That program has dramatically slowed down
+And again, that pure margin just isn't there anymore, and you're seeing that flow through both the margins and the year-over-year revenues for both SP video and APJC
+The other item that's a headwind for us this quarter is we are facing a significant cost increase to our memory costs, our DRAM memory costs that we're paying
+It's a very tight supply right now and we're seeing dramatic increases there
+So that's hurting us quite a bit as well
+But other than that, I'd say the color's in the same line
+Our pricing is in – it's in the ranges that we've been the last six to eight quarters
+I'd say a little on the higher end, but in line with where we were Q3, Q4. A little worse in (37:06) last quarter, but we were very low last quarter
+So in the normal ranges
+But really it's those two specific things
+And I will say that I do anticipate those two headwinds to remain there next quarter as well as we had very strong SP video, that China program, in Q3 as well
+I'll start on the supplier component issue
+So yeah, those articles are out there
+We have had an issue from a supplier come out, and we did book a reserve for $125 million, you can see in our GAAP results and in the press release, to cover that
+We always, and continue to stand by our customers through any situations like this
+This is very proactive
+This is a failure rate that will happen over time, but we're working with our customers to work through that
+So we're not anticipating any impact from that from a top line perspective
+Sure, so yeah
+So that 51% growth is year-over-year growth of over $1.3 billion and everything's growing in that space
+I'd say from a pure size, collaboration and security and Meraki are the biggest pieces of that, because they have just continued to grow their businesses significantly
+And they're all growing huge double digits
+But I will also say my switching, my routing, as well as data center and we've done Cisco ONE bundles as well as big enterprise license agreements
+They've also been growing huge double digits as well
+So at the end of the day, the year-over-year increase is across the board
+Everything is up massively to drive to that 51%
+And again, just the biggest chunk of it between collaboration, security and wireless, they are two-thirds I'd say of the balance, but the other pieces are rapidly -
+Yeah, wireless being Meraki, yes
+Hopefully that gives you the color you're looking for
+Not as of right now
+Again, we're working very proactively with our customers and in terms of how quickly and where they want to do their replacement
+So we're working very, very closely, but as of right now we have not seen and don't anticipate any massive revenue impact from this

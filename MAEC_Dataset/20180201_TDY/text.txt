@@ -1,0 +1,195 @@
+Ladies and gentlemen, thank you for standing by.
+Welcome to the fourth quarter earnings call.
+(Operator Instructions) Also, as a reminder, today's teleconference is being recorded.
+At this time, we'll turn the conference over to your host, Mr.
+<UNK> <UNK>.
+Please go ahead, sir.
+Thank you, Tony.
+Good morning, everyone.
+This is <UNK> <UNK>, Senior Vice President, Strategy and M&A at Teledyne.
+I would like to welcome everyone to Teledyne's Fourth Quarter and Full Year 2017 Earnings Release Conference Call.
+We released our earnings earlier this morning before the market opened.
+Joining me today are Teledyne's Chairman, President and CEO, <UNK> <UNK>; Chief Operating Officer, Al Pichelli; Senior Vice President and CFO, Sue <UNK>; and SVP, General Counsel, Chief Compliance Officer and Secretary, Melanie Cibik.
+After remarks by <UNK> and Sue, we will ask for your questions.
+However, of course, before we get started, our attorneys have reminded me to tell you that all forward-looking statements made this morning are subject to various assumptions, risks and caveats, as noted in the earnings release and our periodic SEC filings.
+And yes, actual results may differ materially.
+In order to avoid potential selective disclosures, this call is simultaneously being webcast, and a replay, both via webcast and dial-in will be available for approximately 1 month.
+Here's <UNK>.
+Thank you very much, Sue.
+We like now to take your questions.
+Operator, if you're ready to proceed with the questions and answers, please go ahead.
+Sure.
+The -- there are 2 parts to that.
+One is our Marine businesses and the other is our environmental and electronic test and measurement businesses.
+In the Marine businesses, our margins declined somewhat, primarily because we are still continuing to consolidate some of our operations.
+As an example, we're relocating a operation from the United Kingdom to Florida.
+And whereas a consequence of that and some charges that we took, our margins declined to 8.3%.
+That's in the Marine businesses.
+On the flip side, the rest of Instrumentation has really good margins.
+Environmental has margins of 19.8%, and test and measurement margins were up 75 basis points to 14.8%.
+So it's the combination of the 2 that lowered the overall margins to 12.3%.
+But I think, going forward, with the marine charges behind us, the marine margins, hopefully, will increase to double-digit again.
+Yes.
+There are 2 things, Greg that we should be cognizant of.
+The first is, what the guidance is for future charges in pension benefits.
+What's happened is that, first, our legacy pension program is very healthy.
+It's at a 100% overfunded, and it's been close to new hires for over 14 years.
+Nevertheless, there are some new accounting guidance that has been issued that requires, in 2018, we split pension expense into 2 components.
+One, service cost is now going to move above the operating income, which will lower operating margin.
+Other income components will be below the operating line.
+EPS won't change compared to our current financial statement.
+But this change in pension accounting will cause about 45 basis points contraction in the margin, going forward and of course, we would respect the prior periods for comparability, okay.
+Having said that, I expect that our overall margin for next year will -- if we were to keep the current accounting system for pension, would improve about 45 to 50 basis points as it's done in the current and prior years.
+However, because of the change I just noted, and there's some effect from stock options.
+Because we didn't issue any stock options in 2015, now we have 3 years of stock options hitting our earnings.
+All in all, I think we will give back the margin improvement and end up next year in the new accounting system with about a 13% margin versus 12.9% this year, recognizing that we're taking a 45 basis point contraction from just a pension accounting (inaudible), but we restated 2017 for comparison.
+That's the broader margin, going forward.
+Did you have any other questions on margins that I can help with.
+It was approximately about $1.5 million.
+Maybe a little more.
+I think we're seeing CapEx growth among our customers that is projecting CapEx growth.
+We have generally been very cautious with our capital.
+Except this year, we have 2 or 3 projects that are very important for us to invest in, in capital investments.
+The first one is, our MEMS foundry in Canada -- in Vermont, Canada, is under capacity constraints right now.
+We have so much work that we're not able to put -- meet all of our customer needs.
+So we're going to invest somewhere between $10 million and $15 million more next year and expand that facility by another, at least, 10,000 square feet.
+Second, in our X-ray businesses, in our detector businesses, which are for medical and dental applications, in our CMOS X-ray, we are, again, capacity limited.
+We do most of that work in Canada, near Toronto.
+We also have another operation in the Netherlands.
+We're going to take over part of a former Phillips clean room facility to also start making detectors in Europe to expand our capacity to meet needs.
+And then lastly, we bought e2v, it has been -- some of the operations there have been starved for capital investments.
+And we'd be making some serious capital investments to upgrade our facility, especially in [Charlesbourg], where we make a lot of our products.
+So for us, there'd be the normal CapEx expenditures, which are approximately $50 million to $65 million, with these additions, we think that our CapEx, we move another $20 million to about $80 million.
+No.
+This year's organic growth 2017 or '18, which one are you asking.
+2018.
+Yes, you're right.
+I'm estimating currently, we are estimating currently, about 3%.
+Partially, it's because we don't expect Marine to grow much, we think 2019 would be the year it will grow, based on everything that we see.
+The other side is that in environmental and test and measurements, we're expecting about 3%.
+DALSA should do better than that.
+Our Digital Imaging, over 4%.
+So overall, we think 3% organic growth, add another 3% acquisition impact.
+Total, right now, at this moment, we're looking at about 6%.
+I am not -- I'm still fairly positive about Digital Imaging.
+Our book-to-bill at the end of the year is about 1.16 for all of 2017, when we ended the year.
+So that bodes well going forward.
+We think that the only problem with that business is that some of it is very short-cycle businesses.
+It could be better, but I'm being conservative, okay.
+I'm positive about it, because we have a lot of new products that are -- we've introduced and are doing very well in the market.
+The U.S.-based Digital Imaging market is estimated right now to grow about 14%.
+We -- overall, I would say, I'm positive about Digital Imaging, both because we're introducing new products, but we also have some new products in the infrared domain.
+And then finally, as you know, we do have a part of Digital Imaging that is here in Thousand Oaks area, in Camarillo, where we do government infrared imaging business.
+We're getting traction, really good traction, in some classified programs.
+We don't show all the margin improvements there, because as you know our research lab, which is located here, which we acquired in 2016, we've -- we reinvest all the income in that business to develop new products, and we've done that since 2006.
+So all in all, we think Digital Imaging will do well.
+But where we think there's going to be some tough comps, as you put it, it means in the other areas, especially in the A&D section -- segment in avionics because of record work that we have in aftermarket products.
+So Digital Imaging, I'm very positive about, maybe a little conservative.
+I'll try.
+I think for the company, it's closer to 1 for the quarter.
+Going back to Digital Imaging, for the quarter alone, is about 1.12 in the Instruments area, overall, it's about 0.9 with Environmental and T&M being closer to 1, Marine being below that.
+AD&E, which is our Aerospace and Defense Electronics, is a little over 1.
+And Engineered Systems will be -- right now is below 1, but for the whole year, it's 1.04.
+As you know, that's a lumpy government business.
+So you got to take a longer term view of that.
+So overall, for the quarter, we're close to 1.
+If you look at overall.
+If you look at whole year, we're about 5% up, so it's 1.01.
+5.
+I am sorry 1.05.
+<UNK>, first question.
+Aerospace and Defense, and I hear you say that you're a little bit more cautious on that segment, offsetting the optimism in Digital Imaging.
+Yes, a little bit.
+There's 2 parts to that, <UNK>.
+One part has to do with avionics, which is our data acquisition and communication systems that go on commercial aircraft and some defense aircraft.
+We are a little cautious in that domain, because we have such a great year this year, especially in the aftermarket.
+The flip side, we are more positive about our microwave products in the defense portion, partially because investments, even with the sequestration or continuing resolution, I should say, the electronic warfare budgets are moving up because of the problems that we have with our adversary.
+So we expect an uptick in the rest of our Defense -- Electronics businesses.
+So combining the 2 together, we think it's going to be -- if up, relatively modestly up.
+I should also note that in Defense Electronics, we do have some serious opportunities for growth next year, which are not defense related.
+This have to do with our products that are going into the new satellite systems, like, in OneWeb.
+There, we have -- we ship the channelizers, which, essentially, permit the signal to be divided in 16-or-so channels.
+And we're expecting -- we provided all the engineering products, and we expect a large contract, therefore, in the long future.
+And as you know, that's going to be over 1,000 satellites that would be launched sometime in 2018 and forward.
+Got it.
+And then looking at Instrumentation margins, you talked about how they were down this quarter due to some one-time charges in relocation.
+If I go back, looking at, like, 2012, for example, where the Instrumentation module was 18%, is there anything tied to that margin level that requires oil prices to be, say, over $100 a barrel.
+Or is that margin achievable at $70 or $80 or $85.
+I'm just trying to get an understanding of how much the equipment might be tied to companies purchasing that can be justified when oil is very expensive, but perhaps, not so much when it's at a $70 level.
+Yes, that's a good question.
+The years you mentioned, our marine margins were about 18%.
+As you recall, 2 things happened.
+One, our Marine revenue between 2014 and 2016 went down over $200 million.
+And it went -- in 2014, it was $655 million.
+We finished 2017 closer to $430 million.
+So that's a serious contraction.
+The contraction, primarily happened in our oil and gas exploration and production business.
+The rest of our Marine businesses have remained fairly good.
+But in order to maintain content on our offshore platforms, we'd have to reduce price significantly by about 20% to 25%, which has affected margins, but at the same time, it has enabled us to get long-term majority commitments for majority of their products to be bought from us.
+So coming back to the oil prices.
+By the way, concurrent with all of that, of course, we've cut costs significantly and taken out almost 800, 900 of our employees.
+On the oil price, as you know, Brent hit a 3-year high this year, close to $70.
+We see signs of commitments to offshore production.
+They take anywhere from 12 months to 24 months to become realized.
+We see some improvements in Christmas trees, which are the equipment that go on the oil head in the bottom of the ocean.
+2016 was very low.
+2017 doubled from 80 to 170, 2018 is projected to go to 236; and '19, to almost 300 Christmas trees.
+Now remember, the years you mentioned, going back before 2013, the average was about 400.
+So I don't think it's going to get up there.
+But I don't think oil has to be at $100 for that -- those businesses to get traction, partially because everybody's reduced their breakeven costs.
+And some of the deepwater offshore production is now profitable at less than $50.
+And so while volume, we expect will begin increasing in 2019, our margins, would go for what was in the Q4, less than 10%, should go above 10%.
+Whether they'll ever get to 18%, I don't know, but they'll certainly improve somewhere between where they are now and where they were then.
+I hope that answers your question.
+Yes, it does, <UNK>.
+And my last question is, e2v was -- has been -- just proven to be a home-run acquisition, and it's fundamentally changed the margin structure in the Digital Imaging segment.
+Is that a function of their products just being fundamentally more profitable.
+Or have you been able to significantly improve those operations.
+And I'm thinking, can you bring that IP into other segments of Teledyne.
+Yes, I -- let me just answer the first part.
+It's been a great acquisition by any measure for us.
+But you know, if I go back and look at our other large acquisitions, DALSA, when we acquired it in 2011, it had relatively compressed margins.
+Now e2v has good margins.
+But DALSA, this year, enjoyed margins approaching 20%.
+E2v, on the other hand, while it has good margins, please recall that overall -- their margins are lower than DALSA, partially because we have intangible amortization.
+In the Digital Imaging, for example, e2v's -- amortization for this year 2018, is about $11 million.
+So that compresses the margin.
+And consequently, e2v's overall GAAP margins are lower than DALSA.
+Going forward, I think because of the intangible compression e2v would roll the overall margin for Digital Imaging.
+Having said that, DALSA used to have a compressed margin, but its margins have more than doubled.
+The same thing with LeCroy.
+When we bought LeCroy, it had very low margins.
+It has more than doubled since our acquisition.
+And if we do what we did in those domains with e2v, I think our margins will improve with time.
+They're also -- you asked the question of how some of those products may carry over to other segments.
+First, in the space imaging domain, we have between DALSA, Teledyne Imaging here and e2v, we practically own the visible and the infrared businesses for astronomy, and we're making now some large inroads in defense programs.
+And some of e2v, because e2v has not had access to the U.S. defense market, we expect that we'll be able to introduce some other products into our defense markets here, which is an, of course, a bridge across to our other products.
+Also, we've inherited some really outstanding high-performance analog-to-digital and digital-to-analog conversion devices that cut across all of our businesses, between what they bring and what we have, I think would have a significant overlap and I certainly hope in all of our other segments.
+So it's been a great acquisition.
+It doesn't have the margins DALSA has.
+But DALSA didn't have the margins it has now when we acquired it.
+But it does have healthy margins.
+It's got mid-double-digit margins, even with amortization of intangibles that I mentioned.
+Yes, I think, I think, the valuation of course is problematic to a certain extent, but it's not a very good excuse in a lot of ways.
+If we find the right thing, and we pay the right price, even if it's a little over what we would have paid 2 years ago, we would acquire businesses.
+Our focus right now is in 2 areas.
+Obviously, Digital Imaging and anything related to that domain would be very attractive for us.
+And the other half of it is in the environmental portion of our Instrumentation business.
+We make a lot of different products there, ranging from water quality monitoring, air pollution monitoring, particulates in air, and we made one small acquisition, SSI, in midyear, this year.
+And we would like to do that, so -- more of that.
+So we will make some acquisitions.
+The size, of course, we prefer it, it was significantly larger, so it moved the needle.
+But we expect to -- we have the money, we have the financial resources, as I said.
+Our debt-to-EBITDA ratio is, right now, about 2.3%, was 3% when we acquired e2v.
+Our debt is -- net debt is about $1 billion.
+If we even generate the cash we did this year, which is over $300 million, that was significantly down this year.
+And we have anywhere from, right now, about $600 million to $700 million capacity to buy things.
+And by year-end, that should more go up by another $300 million.
+So we buy things if we can find the right products.
+Digital Imaging being first, environmental being second, in terms of our preferences.
+Thank you, operator.
+I'll now ask <UNK> to conclude our conference call, please.
+Thanks, <UNK>, and again thanks everyone for joining us this morning.
+If you do have follow-up questions, please feel free to call me on the number on the earnings release.
+And of course, all our news releases are available on our website.
+Tony, if you could please conclude the conference call and provide replay details for the audience, we'd appreciate it.

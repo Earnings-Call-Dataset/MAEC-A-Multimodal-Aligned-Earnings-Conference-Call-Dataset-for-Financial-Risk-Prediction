@@ -1,0 +1,111 @@
+Welcome, everyone, and thank you for joining us this morning.
+<UNK> will begin today's call with a discussion of our strategy, technology and market.
+I will go through the first quarter of 2018 results at a high level, <UNK> will conclude our prepared remarks and then we'll be happy to take your questions.
+I would like to remind everyone that during today's call, taking place on Tuesday, May 8, 2018, we will be making forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995.
+These statements are based on the company's current expectations, projections, beliefs and estimates and are subject to a number of risks and uncertainties that could cause actual results to materially differ from [those] forward-looking statements.
+Potential risks include, but are not limited to, demand for our products, operating results of our subsidiaries, market conditions and other factors discussed in our most recent annual report on Form 10-K and other documents filed with the Securities and Exchange Commission.
+The company undertakes no obligation to update the forward-looking statements made during today's call.
+And with that, I'll turn the call over to <UNK>.
+Thank you for joining us this morning to discuss our first quarter results.
+Strength in our military operations primarily drove performance in this quarter.
+As we have talked about in the past, our displays and optics have been developed initially for military, meeting its demand for quality and reliability.
+So the military has always been a key market for Kopin.
+In Q1, we have the continued ramp of the F-35 fighter jet program, where Kopin is the sole supplier of displays for the pilot helmets.
+In addition to our current purchase agreement, we have been notified that we will be receive -- we'll receive shortly follow-on orders through 2019.
+After quarter-end, we received the initial production authorization for the FWS-I program consisting of 5,000 eyepieces to be delivered over the next year, with shipments beginning in this August.
+The second part of program, the FWS-C, is also tracking on plan in the initial phase of development.
+At the same time, we're moving through the early development process on the armored vehicle program we won the last quarter.
+And we're pleased that the program was just expanded to include the development of additional eyepieces, scopes, increasing the potential total value of the program for Kopin from $40 million to $80 million.
+Finally, our new Brillian LCD microdisplay product line, which was created specifically to meet the extremely high brightness requirements of the next-generation avionic AR applications, that they have been well received by our customers.
+We expect follow-on orders as development continues on the new helmets using this new display.
+We're also seeing good in -- uptake in the industrial enterprise AR business.
+Many of our partners have indicated strong reception for their new industrial products.
+In addition, we're excited to report a major design win with a global USA Tier 1 company for a new AR smartglass for enterprise applications.
+Perhaps, it is appropriate for us to discuss briefly the current status of AR and VR headsets.
+Without any doubt, the developments of our AR/VR headsets have been undergoing major adjustments, winners and losers.
+So there should be no doubt that the transformation of our handheld smartphones to hands-free wearable will certainly happen.
+There are major disruptive transformations, there will be many twists and turns along the way.
+It always has been our belief, the adoption and transformation will start with the military.
+Their move to enterprise industrial applications, where the benefits are clearly substantial.
+In this respect, Kopin has been very successful as we are dominant providers of critical displays and other components to both military and enterprise markets.
+The adoption of smartglasses consumer has also began.
+We're excited about the reception of our SOLOS smartglasses, which start shipping tomorrow.
+SOLOS has been called the world's lightest and most advanced AR smartglasses for sports and consumer fitness.
+And it was designed using Kopin's unique insight into AR forms and functions.
+We're targeting cyclists, triathlons and trainers with those smartglasses, which contain a heads-up see-through Pupil display optics module so athletes can see real-time updates, such as speed, power and pace and measure their progress.
+This generation of SOLOS added new features, such as music, voice control, group chats and phone calls.
+SOLOS includes our Whisper Voice Chip so that users can make phone calls or communicate with others in their group, benefiting from our unique noise-cancellation technology so loud noises do not ruin their audio experience.
+We anticipate rolling our SOLOS through a number of distribution formats during 2018.
+Last month, we announced US (sic) [USA] Cycling Association has teamed up with SOLOS to train for their 2020 Olympic games.
+We have high expectations for SOLOS.
+And this is the one AR glass available that satisfy main rules for developing AR glasses.
+For VR, we had been working with the military for many years.
+And for the past 12 months, we have been working on consumer products, including advanced VR glass headsets such as ELF, which utilize Kopin's Lightning, the world's largest 2k x 2k OLED displays.
+We believe we have gained much insight and experience and plan to discuss these insights in my keynote address in the coming AWE conference in Santa Clara, California at the end of this month.
+Well, let's discuss the status of OLED on silicon microdisplays.
+It has been our conviction that successful transformation for smartphones to hands-free wearables headsets requires small, high-resolution, low-power consumption microdisplays.
+For AR applications, we believe LCD microdisplays will be effective for these applications.
+And both our military and enterprise customers certainly have adopted our LCD displays.
+For VR applications, we believe only our silicon offer many performance advantages, including -- especially in speed and image quality.
+With the focus on providing such OLED displays for the VR world, including developing towards leading 2k x 2k 1-inch display to establishing a supply chain through a joint venture with BOE, the world's leading smartphone display supplier.
+We're delighted that the world's largest OLED silicon factory has broken ground in Kunming, China, and we expect it to be operational by the end of next year.
+In summary, we continue to be excited about the opportunities for AR and VR.
+As we discussed last quarter, we believe the continual ramp of our military displays, the growing adoption of AR system for industry and enterprise, and the demand for SOLOS, along with other new product offerings, will allow us to increase revenue in 2018 by 25% to 40%.
+And there is no change in our expectation that revenue for 2018 will be between $35 million to $40 million.
+In addition, we remain confident that the anticipated increased demand for our products and components should allow us to achieve breakeven profitability by year-end 2019.
+As always, we're careful in utilizing our capital.
+So over $60 million in cash now and no debt, we continue to move forward on our global vision for AR and VR.
+Now I'll let Rich provide the details.
+Thank you, <UNK>.
+As you may have seen in our press release, Kopin has adopted ASC Topic 606 using the modified retrospective approach, meaning the standard was applied only to financial results of the first quarter of 2018, with a cumulative adjustment to retained earnings.
+Under this transition method, we applied the standard only to contracts that were not complete the initial adoption date.
+In the press release for comparative purposes, we also provided results that would have been under ASC 605.
+All right, so turning to the results.
+Beginning with the results for the first quarter of 2018, total revenues were $5.7 million compared with $4.4 million for the first quarter of 2017.
+The increase in quarterly revenue year-over-year was primarily driven by military applications.
+Cost of sales for the first quarter was 80.5% of product revenues compared with 79.3% for the first quarter of last year.
+Gross margins decreased due to lower utilization in one of our facilities, which was partially offset by the increase in military revenues, which have higher gross margins as compared to our other products.
+R&D expense in the first quarter of 2018 was $4.5 million compared with $4.3 million in the first quarter of 2017, essentially flat.
+SG&A expenses were $6.9 million in the first quarter of 2018 compared with $5.6 million in the first quarter of 2017, reflecting incremental SG&A of $0.6 million from our acquisition of NVIS in the first quarter of 2017 and an increase in sales and marketing compensation expenses, partially offset by lower professional service fees.
+The incremental SG&A for NVIS for the 3 months ended March 31, 2018, primarily relates to the amortization of intangibles resulting from the acquisition.
+Other income expense was income of $5 million in the first quarter of 2018 as compared with an expense of approximately $400,000 in the fourth -- in the first quarter of 2017.
+The first quarter of 2018 includes approximately $200,000 of foreign currency gains as compared with approximately $1.2 million of foreign currency losses in the first quarter of 2017.
+The first quarter of 2018 includes $1 million gain from the receipt of insurance proceeds related to our fraud in our Korean subsidiary and a $3.6 million noncash gain from the exchange of certain intellectual property for an equity investment.
+In the first quarter of 2008 (sic) [2018], we contributed certain patents valued at $3.6 million and $1 million in cash for a 12.5% equity investment in the joint venture located in China.
+Turning to the bottom line.
+Our net loss attributable to controlling interest for the quarter was approximately $4.8 million or $0.07 per share compared with a loss of $7.9 million or $0.12 per share in the first quarter of 2017.
+Turning to our 2018 guidance.
+We continue to expect 2018 revenues to be in the range of $35 million to $40 million.
+We expect the revenue ramp to be second half-loaded, corresponding with the introduction of new products.
+We believe operating expense will remain largely flat compared to 2017.
+We concluded the quarter with approximately $61 million of cash and marketable securities and no long-term debt.
+The amounts we just discussed are our current estimates and will be continuing to evaluate Topic 606 and the equity investment accounting.
+So I would remind our listeners to review our Form 10-Q for the first quarter, March 31, 2018, when filed for all final amounts.
+With that, operator, we'll take questions.
+You're talking about the OLiGHTEK line, which is obviously in Kunming, China, the line is running, and I think it will start operational third quarter this year.
+Jeff, I'm afraid I cannot comment on it.
+It's suffice to say, it's a very large global company.
+It would nice to be -- if we say Silicon Valley company, I think.
+Yes.
+That's a market we're talking about using display for 3D morphology.
+The market is still growing very well.
+I would say, they're growing about 30% a year.
+We're now beginning to penetrate the Chinese market.
+And if that happens, hopefully happen this coming quarter, you'll be very excited.
+Sure.
+So we obviously have facilities in Scotland, down in Reston, Virginia and here in Westborough, Massachusetts.
+And so in a typical semiconductor model, we have a high fixed cost.
+And so utilization in one of our plants was lower than we had anticipated.
+So the fixed cost per unit was higher, which negatively impacted gross margins, but the other facilities did well.
+So it's -- for the most part offset, we were off -- up 0.8% on the gross margin.
+Yes.
+Yes, we thought some orders were going to come through in the first quarter, that didn't materialize.
+But the -- I understand are showing up in the second quarter so.
+.
+Yes, thank you, operator.
+I would like to remind everybody that tomorrow morning, we have our annual meeting at 9:00.
+That's our Annual Kopin Meeting.
+Please, hopefully, you can attend the meeting.
+With that, I' will see you guys next quarter.
+Thank you.
+Bye-bye.

@@ -1,0 +1,74 @@
+On a growth rate basis, the capacity growth rate for flash exceeds that of disk, and so that trend continues.
+That's been ongoing for some time.
+And that's really specifically related to hyperscale deployment.
+Rich, it still begins with the work load and then the cost per bit that optimally supports that workload.
+So going forward, we don't see a convergence to an all-flash world anytime soon, frankly anytime in our planning horizon.
+So what we do see is continued growth of capacity enterprise that we articulated.
+That's going to be long into the future.
+Although flash revenue and flash bits on a proportionate basis is growing faster.
+So from that standpoint, that's the trend we would point you to and they have very different purposes in the hierarchy.
+So we continue to obviously work closely with those that are innovating around data center architectures and we intend to deploy our technology and our products in an optimal way to those trends.
+It varies depending on performance requirements etc.
+, but it would run between 5x and 10x.
+Let me talk about sort of the supply demand environment.
+We said publicly and will reiterate here that we see constraint supply in the NAND side of our business through calendar year 2017 and that's primarily driven by two things, end market demand for that class of technology and the rate and pace of the industry's conversion to 3D NAND.
+Relative to the hard drive market, I think at this point we would see that as a normal or balanced environment.
+And then, <UNK>, with respect to the decision to exclude stock-based compensation expense from our non-GAAP results, we really had two primary drivers.
+One was just the way we run the business.
+And our stock-based compensation expense actually has some elements of it that are either short-term in nature or are variable.
+And as a result, it injects some variability that undermines our ability to demonstrate or track the improvements we are making from a synergy realization standpoint.
+So that's the first driver.
+The second driver is that we are more and more focused on our cash flow generation and looking at our results from a cash standpoint, particularly given our balance sheet.
+And by excluding the stock-based compensation, we are better able to highlight and track the cash flow impacts of our operating decision.
+One thing, <UNK>, that I will add to that -- this is <UNK> -- is that we fully recognize the fact that there is an impact in the form of dilution from stock-based compensation, and we remain not only aware of that, but sensitive to that.
+And if you look at our proxy statement in terms of compensation philosophies and that sort of thing, there is no change in that regard, in terms of what we are doing.
+It's more a matter of excluding those figures to provide more meaningful analytical information, if you want to call it that, to the financial community, but I don't want people to think that we don't recognize the fact that there is a dilution component as it relates to our existing shareholders.
+And <UNK>, I think as you know, part of the calculus was looking at the comparable peers and what they do to try to provide easier basis for comparison.
+Okay.
+So we've talked about sort of the cost reduction domain of three generations or three periods in the NAND industry.
+Very early on, it was running at around 50% annualized rate.
+The next period was running at about a 30% rate.
+Frankly that's now ending as we come to the conclusion of plain or NAND.
+As we move fully as an industry into 3-D, once we're through the transition, we expect around a 20% per year cost reduction capability.
+So that's the way we would guide you to think about that.
+Obviously there is some perturbations as we transition from 2D to 3D, but that's the way to think about it from a long-term modeling perspective.
+It will be 64-layer.
+And I think we have -- what's the right number for exit rate on 2017.
+It's around 40 bits but it's wafers out.
+Okay.
+So not bit output.
+It's just wafers out.
+So the 40% is wafers out.
+Correct.
+And the other comment I will make just to clarify, 48-layer we've talked about is really a learning node for us.
+So just to reiterate what <UNK> said, the volume as we exit next calendar year will be predominantly the 64-layer.
+<UNK> can help you with this as well.
+But I think that one of the things that has really happened over a period of time because as the hyperscale guides grow, and they get bigger, and as they need to add capacity and their growth is accelerated.
+And so, you just get into, call it the law of large numbers.
+We have to do a much better job working with the hyperscale guides on longer term capacity planning.
+And so, we believe we've done a good job on that.
+Because we don't, they don't want to ask is for product and us not have it, and then clearly, we don't want to gap out on them.
+So it's driven, in effect, a much more close knit planning process, longer term planning process, which the good side of that is that it allows for a little bit more predictability in terms of what's going on that side of the business because there was a time, it can still happen.
+But there's been conversations about the lumpiness of the business.
+And that can still occur, but because of the dynamics that we are seeing, we're actually getting into a little bit more longer term planning and a little bit more predictability in terms of what's happening from a demand perspective.
+<UNK> can kind of add to that.
+Yes, I will reiterate some of the reasons this is.
+So we've talked about this long-term growth rate of 35%.
+We've been, as an industry, achieving that with a number of efficiency factors flowing through.
+We've highlighted in the past both technological as well as operational.
+So technologically things like erasure coding, are widely deployed now in that infrastructure.
+So the efficiency gains technologically, although we expect some in the future, the largest magnitude of that will run its course.
+The other one is operational efficiency.
+And that underpins what <UNK> said, they are maturing as operational units.
+Their ability to sort of do things like manage inventory and repurpose and re-utilize their fleet, those processes are maturing.
+So really what we now see and perhaps one of the reasons we're seeing a bias up on the exabyte growth rate is we're working through those things and we're starting to approach a more natural storage deploy requirement.
+So that's something we will continue to monitor and see how that trends.
+At this point, we will stick with 35%, but as I said, I think our bias would be up from there going forward.
+I will say this.
+I think the general view of us now as we put together this broader set of assets is we're more relevant, we're more strategically important.
+And our engagement is changing with the broader marketplace.
+So things along those lines and other strategic things are all sort of more possible now.
+Thank you.
+I want to thank you all for joining us today.
+We look forward to seeing many of you at our Investor Day on December 6.
+Have a good day.

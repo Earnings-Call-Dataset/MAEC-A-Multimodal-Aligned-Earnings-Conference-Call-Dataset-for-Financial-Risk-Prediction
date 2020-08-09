@@ -1,0 +1,188 @@
+Good morning.
+My name is <UNK> <UNK>, CFO of INTL FCStone.
+Welcome to our earnings conference call for the fiscal third quarter ended June 30, 2016.
+After the market closed yesterday, we issued a press release reporting our results for the fiscal third quarter.
+This release is available on our website at www.intlfcstone.com, as well as a slide presentation, which we'll refer to on this call in our discussions of our quarterly and year-to-date result.
+You'll need to sign on to the live webcast in order to view the presentation.
+Both the presentation and an archive of the webcast will also be available on our website after the call's conclusion.
+Before getting underway, we're required to advise you and all participants should note the following discussion should be taken in conjunction with the most recent financial statements and notes thereto, as well as the Form 10-Q filed with the SEC.
+This discussion may contain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934.
+These forward-looking statements involve known and unknown risks and uncertainties, which are detailed in our filings with the SEC.
+Although the Company believes that its forward-looking statements are based upon reasonable assumptions regarding its business and future market conditions, there can be no assurances that the Company's actual results will not differ materially from any results expressed or implied by the Company's forward-looking statements.
+The Company undertakes no obligation to publicly update or revise any forward-looking statements whether as a result of new information, future events or otherwise.
+Readers are cautioned that any forward-looking statements are not guarantees of future performance.
+With that, I'll now turn the call over to Sean O'Connor, the Company's CEO.
+Thanks, <UNK>.
+Good morning everyone and welcome to our fiscal 2016 third quarter earnings call.
+This is one of our strongest set of results from a core operating point of view, with good growth in almost all areas of our business.
+This quarter saw some significant market turmoil over Brexit, and generally a somewhat elevated level of volatility across most of our products.
+Once again, our revenue diversity and the fact that our business model is not dependent on taking a directional view continues to serve us well.
+We recorded net income of $14.6 million or $0.78 a share, up 26% from a year ago, this was boosted slightly due to our recent share buybacks.
+Net income and EPS was roughly in line with the sequentially prior quarter.
+This resulted in return on equity for the quarter of 14.1%, close to our long-term target of 15%.
+Our core operating results for the third quarter, as represented by aggregate segment income, was up 20% versus the prior quarter, while the year-to-date results were up 13% over the prior year.
+Overall, net income was positively impacted for the quarter by mark-to-market gains on our portfolio of interest rate instruments held to enhance the return on our exchange-traded client deposits.
+However, this gain was more than offset by gold inventory held in Singapore and Dubai over the quarter that was not mark-to-market, while the related hedges were.
+On a year-to-date basis, our earnings was $37.9 million, up 10% from a year ago, and EPS was $2 a share, up 12% from a year ago.
+Our ROE for the nine months period was 12.4%.
+On a segment basis, the third quarter performance was summarized as follows.
+<UNK> will go into more detail later.
+Much stronger results from commercial hedging, thanks to a nice pick up in both the exchange-traded and OTC volumes for the grains group in US, London and Brazil.
+Continued good growth from securities with a 58% increase in our fixed-income revenues, offset by a slight 5% decrease in equity market making revenues.
+Clearing and execution services posted solid gains, and we saw a nice positive result from the physical commodity segments.
+Global payments recorded flat revenues and a slight decline in net segment income, despite a 43% increase in payment volumes.
+This was due to the high bar set by exceptionally positive market conditions in the prior year.
+During the quarter, we managed to hit a couple of notable milestones.
+A record trailing 12-months EBITDA of $116.5 million, best quarter for our rates business.
+June was a record month for our domestic grains group.
+Best quarter in recent history for our precious metals business, and one of the best quarters we've had for our in clearing and executions group.
+Comparing the nine-month results of the prior period, the securities income has provided the lion's share of the growth in revenue and segment net income, offset by lower revenues and income in commercial hedging with the other segments being roughly unchanged.
+This was another active quarter in terms of share buybacks, where we repurchased approximately 350,000 shares at an average price of $26.23.
+In aggregate, over the last five years, we have now repurchased over 2 million shares at an average price of $21.90, which is now below the current book value of $22.59 and less accretive and also below the current market price.
+A couple of strategic items to comment on.
+During the quarter, we closed the Sterne Agee acquisition.
+We have discussed on many of these calls, our desire to complete our product offering by adding securities clearing.
+This acquisition was an excellent opportunity to do this and we now believe we are uniquely placed as a mid-sized financial services firm to execute and clear all asset classes for our customers.
+The securities clearing business has consolidated rapidly over the last five years or so, providing a good opportunity for a well-capitalized credible, mid-sized clearer to become a significant player in this segment.
+We see the same consolidation happening in futures, although probably a few years behind the securities market.
+Some details on this acquisition.
+This business was acquired for tangible book value.
+The total net assets in the acquired companies was approximately $48 million, the bulk of which is surplus cash.
+The clearing entity requires less than $10 million of regulatory capital and some additional working capital to operate.
+Our intention is to apply to FINRA to merge this entity into our broker-dealer FCM to allow us to better realize operational and capital synergies, and of course to release that surplus cash.
+The clearing business currently has 50 clearing relationships.
+In addition to the clearing entity, we acquired an independent wealth management platform that is a significant customer of the clearing entity.
+Together, this brings $11 billion in client assets and over 100,000 accounts to our platform.
+In aggregates, all of these businesses are currently running at losses of around $3 million to $5 million pre-tax per annum.
+We believe that we'll be able to attain a breakeven or better run rate within 12 months or so.
+Longer term, we believe that this capability will be a significant driver of incremental earnings and will achieve our target return on allocated long-term equity.
+Some of you might have seen the day before yesterday that it was announced by the UK anti-trust regulator, The Competition and Markets Authority, that we have been approved as a suitable counterparty to take on ICAP's oil trading business.
+This is still subject to final approval by the regulator and a number of other conditions precedent.
+This is driven by the sale of ICAP's voice-broking business to Tullett and in terms of this arrangement they were required to divest of the energy business to an entity that would retain the pre-existing level of competition in the industry.
+This is a well-known team and with a significant and well-known clients base.
+So with that, I'd like to hand over to <UNK> <UNK> our CFO for more detailed discussion of the financial results.
+<UNK>.
+Thank you, Sean.
+I would like to start my discussion with the review of the quarterly result.
+I'll be referring the slides and the information we have made available as part of the webcast.
+Specifically, starting with slide 3, which represent a bridge between operating revenues for the third quarter of last year to the current year, fiscal third quarter.
+As noted on the slide, third quarter revenues were $175 million, which represents a 15% increase as compared to $151.6 million in the prior year.
+Looking at the performance within our operating segments, the most notable change was a $9.7 million or 16% increase in commercial hedging segment operating revenues.
+Driving this improved performance was a 17% increase in both exchange traded volumes and corresponding revenues, primarily in our domestic grain business, as well as with agricultural customers in our London operation.
+In addition, commercial hedging OTC revenues recovered, adding 15% over the prior year period to $29.2 million as a result of increased revenues and our interest rate swap in Brazilian grain business.
+The second largest increase in operating revenues was in our security segment, which added $5.1 million or 14% versus the prior year.
+Within securities, the highlight was our debt trading business, which had a record quarter, adding $8.7 million in operating revenues.
+This gain was partially offset by both a $800,000 decrease in equity market making as volumes declined 20% versus the prior year, and a $2.9 million decline in investment banking revenues, following management's decision to exit the domestic investment banking business in the fourth quarter of last fiscal year.
+Next, clearing and execution services operating revenues increased $3.8 million or 13% as a result of a 7% increase in exchange traded volumes and an increase in interest income.
+Physical commodity operating revenues added $3.6 million or 88% over the prior year, as volatility in precious metals have a widening of spreads in customer activity and onboarding, both picked up in our physical ags and energy business.
+Physical commodity operating revenues were tempered by a $3.1 million unrealized loss on derivative positions held against precious metals inventory carried at the lower cost of market value in our non-broker dealers subsidiary.
+This unrealized loss will reverse in the fiscal fourth quarter of 2016 as the inventory was sold at its then prevailing market value early in the month of July.
+Finally, global payments segment operating revenues were relatively flat, adding $200,000 over the prior year to $18.4 million.
+While operating revenues were relatively flat, the number of payments increased 43% versus the prior year period.
+Moving on to slide 4, which represent a bridge from third quarter pre-tax income in 2015 to the current period.
+Overall pre-tax income increased 24% to $21.4 million in the third quarter of 2016.
+Similar to the discussion of operating revenues, the largest contributor to increase in pre-tax income was the performance of the commercial hedging segment, which increased $6.7 million versus the prior year.
+The $4.8 million negative variance in corporate unallocated overhead, primarily driven by higher fixed compensations, related to the build-out of our IT department, as well as higher variable compensation related to improved company performance.
+Partially offsetting these increased expenses was an increase in revenue in the corporate segment.
+During the current year, we recorded a pre-tax unrealized gain of $2.7 million, and US Treasury notes and interest rate swaps held in our interest rate management program.
+The bottom of slide 8 of the presentation shows the after-tax effect of these unrealized gains and losses in this program by quarter.
+In the prior year comparative quarter, we had recognized a $1.2 million gain on the sale of InterContinental Exchange.
+Finally, all of the other segments recognized incremental changes in pre-tax income in line with the change in operating revenues versus the prior year with the exception of the global payments segment, which declined $300,000 versus -- despite the growth in operating revenue.
+This is as a result of increase in non-variable direct expenses, including trade system costs and hosted conference expenses.
+Slide 6 shows the interest income on our investment in our exchange traded futures and options business, which hold our investable customer balances and encompasses our interest rate management program, excluding the mark-to-market fluctuations I just mentioned.
+The continued implementation of this program, an increase in short-term interest rates and a 26% increase in customer deposits led to an underlying increase in interest income shown here of approximately $900,000 versus the prior year period.
+Moving on to slide 7, our quarterly financial dashboard.
+I'll just highlight a couple of items of note.
+Variable expenses represented 60.6% of our total expenses for the quarter, exceeding our target of keeping more than 50% of our total expenses, variable in nature.
+Non-variable expenses, which are made up of both fixed expenses and bad debt expense increased $4 million or 7%, driven primarily as a result of increased compensation and benefits related to our expansion of our IT department, and an increase in depreciation and professional fees.
+Net income from continuing operations for the third quarter was $14.6 million versus $12.2 million in the prior year period, which resulted in a 14.1% ROE, which was near our target of 15%.
+Finally, in closing out the review of the quarterly results, our book value per share increased 12% to $22.58 per share, driven by both the trailing 12-month results and our share repurchase program.
+Next, I'll move on to slide 9 for a discussion of the year-to-date results.
+This slide demonstrates strong revenue growth in our securities segment, which added $46.2 million in operating revenue.
+Primarily in debt trading, which added $38.6 million and equity market making, which added $5.7 million.
+The increase in debt trading was a result of the acquisition of G.
+X.
+Clarke, our institutional fixed income dealer, which had a record quarter.
+And since it was acquired on January 1, 2015, only contributed operating revenues beginning in the second quarter of the prior year period.
+The physical commodities and CES segments increased operating revenues of $4.5 million and $4.2 million respectively as a result of increased customer activity, while global payments added $2.3 million in operating revenues versus the prior year, on a 31% increase in the number of payments made.
+These increases were tempered by a $13.3 million decline in operating revenues in our commercial hedging segment with a $6.2 million increase in exchange traded revenues more than offset by a $19.3 million decline in OTC revenues as a result of lower customer volumes in the global agricultural and energy market.
+Moving on to slide 10, which represents a bridge from pre-tax net income in the prior year-to-date period to the current year.
+Similar to the growth in operating revenues, the largest driver of the growth was the securities segment, which was partially offset by weaker performance in commercial hedging.
+Physical commodity segment declined $1.6 million, primarily as a result of increase in bad debt and interest expenses.
+These gains were partially offset by $12.5 million increase in unallocated overhead which is primarily incremental cost from the acquisition of G.
+Clarke, higher variable compensation, the expansion of our IT department, and an increase in meetings and hosted conferences.
+These increases were partially offset by lower professional fees, primarily legal expenses.
+Finally, moving on slide 11, the year-to-date dashboard, I'll highlight just a couple of metrics.
+Net income from continuing operations has increased 10% over the prior year-to-date period to $37.9 million, which represented a 12.4% ROE for the current year-to-date results.
+In addition, we've exceeded our internal target for the year-to-date period in average revenue per employee, which increased -- which reached $523,000 per employee in the current year.
+With that, I would like to turn it back to Sean to wrap up.
+Thanks, <UNK>.
+We continue to see that our diversified and customer-centric approach delivers a best-in-class return to our shareholders.
+We continue to organically grow our client base, drive cross-selling where appropriate, we discussed this in detail on the last call and add capabilities to strengthen our position in the changing financial services landscape.
+We are now able to provide execution in clearing services for our customers across asset classes and markets in an environment where customers are looking to reduce the number of counterparties and better manage their collateral and exposure.
+So with that, I would like to turn back to the operator and open the answer and question session if there are any.
+Heather.
+Okay, thanks, Heather.
+So, no questions.
+Thanks everyone and enjoy the rest of the summer.
+We will speak to you in three months.
+Hold on, I think we do just have a question that's popped up.
+So, we will take it quickly, if that's right, Heather.
+You got in just under the bell, <UNK>, so that was good.
+The price was, let's say, tangible book value.
+There were a lot of intangible and arguably somewhat valuable assets that we wrote-off in the process.
+So we think we got kind of a good pricing on the transaction.
+But effectively, our purchase price was reflected almost entirely with cash on the other side.
+So, there'll be no book value impact at all on this acquisition and although the purchase price was high in the $50 million range, almost all of that represents cash and a big proportion of that is surplus cash.
+Unfortunately, that's in a separate broker-dealer.
+So that cash is trapped.
+If you remember, we went through a similar situation at G.
+X.
+Clarke when we acquired that 18 months ago.
+So our idea would be to merge that into our big broker-dealer, and once we do that, we can address those kind of issues, so -- but no impact on book value.
+We have taken on a small loss, which we hope to (multiple speakers).
+Okay.
+So, I think actually this has come up on a couple of calls previously, where people have asked us, what would we like and what are we missing, and I think we've consistently said that, securities clearing sort of the last piece of the puzzle [weak].
+We are probably the only midsize financial services company now that can clear every asset class.
+We're clearing FCM.
+We swap deal and we can clear you in any swaps.
+We do FX, we clear our own payments.
+Securities was the missing piece.
+So, something we've been looking at.
+It is a big lift to do this organically, and was something we were thinking about is, do we hire all the people that we need to do this.
+Do we buy the systems and do we organically grow it.
+And that wasn't a very enticing prospect for us, because it is a big lift and this is a long-term business.
+Little bit like the payments business in a sense that to move someone's clearing relationship over to you is a long, long process.
+So, that wasn't a very interesting option for us.
+I think at some point, we might have done it.
+So the last three or four years, we've been looking at opportunities in the marketplace.
+The reality is, in the midsize securities clearing space, there are handful of players and some of them have been trying to sell themselves.
+Some of them are held by private equity firms, some of them are just too small to be successful and want to sell, a whole variety of reasons.
+We've looked at some of those over the years, but just could never get to terms with price and what we were buying.
+And then the Sterne Agee deal came across, so again, not -- nothing is ever perfect when you are looking for acquisitions, but this was, given the price and what we're getting and our desire to fulfill this need, we thought that was a pretty good solve for that problem.
+So, we're really glad that finally we have this in.
+We think long-term that -- in the short term, I don't think this is going to change our results materially one way or the other, honestly.
+I mean, even if we ramp this business up significantly, it has such a long lead cycle that is going to take a while, before that actually makes an impact.
+So I just want to caution everyone, I don't think this is something that is going to have a material impact in the short-term.
+Longer term, though, I think this could be a very significant and valuable piece of real-estate that we've claimed in the industry.
+As I said, there's a handful of sort of midsize and smaller clearers, the industry has rapidly consolidated and our view is that the industry needs a credible midsize clearer, and we aim to be that.
+So, we would hope that we'd be sitting here in three years' to five years' time telling you we've achieved that objective and that this business is a material contributor to our bottom line.
+The other thing that's going to be harder to measure as we go forward is our view that having a multi-product capability drives business to you in other areas.
+We feel that we will win business, say, in futures clearing, because people know they ever needed someone to clear their securities, we can do that as well and vice versa.
+So, the fact that we do have the full menu, I think has a valuable sort of spin off effect on all the businesses, it's very hard to value that specifically.
+So, anyway, that's our thoughts and I don't know if I answered your question, <UNK>.
+Unfortunately, it's kind of a very curious process, driven largely by the regulators.
+At this point, we're not able to give you any insight, but this is a well-known business, I would say a franchise business for ICAP.
+I mean, it's been around for a long period of time, there are significant participants in that subset of the industry.
+They have a very good name in the market and they deal with very significant customers and are well known broadly in the energy space.
+So, this would be a nice add for us, it is a voice-broking business, which basically means that there is limited need for capital and system support in this business.
+So that's the plus, the offset is normally have compensation ratios.
+But we think it would be an interesting business, if we could do it on terms that are acceptable to us and we have agreed the terms with ICAP, but there are other considerations related to the mandate from the competitions authorities that we have to fulfill.
+So, we should know more about that or sort of definitively about that certainly within a month.
+And so look for -- as then when we can give you numbers and details, we'll do so.
+Thanks.
+Thanks very much.
+All right.
+I don't see any other questions up.
+So with that, thanks very much.
+As I said earlier, enjoy the summer and we'll speak to you in a couple months.

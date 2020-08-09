@@ -1,0 +1,191 @@
+Thank you.
+Welcome everyone, and thank you for joining the Insight Enterprises conference call.
+Today we will be discussing the Company's operating results for the quarter and full year ended December 31, 2015.
+I'm <UNK> <UNK>, Chief Financial Officer at Insight.
+And joining me is <UNK> <UNK>, President and Chief Executive Officer.
+If you do not have a copy of the earnings release that was posted this afternoon and filed with the Securities and Exchange Commission on Form 8-K, you will find it on our website at insight.com under our Investor Relations section.
+Today's call, including the question-and-answer period, is being webcast live, and can be accessed via the Investor Relations page of our website at insight.com.
+An archived copy of the conference call will be available approximately two hours after completion of the call, and will remain on our website for a limited time.
+This conference call and the associated webcast contain time-sensitive information that is accurate only as of today, February 10, 2016.
+This call is the property of Insight Enterprises.
+Any redistribution, retransmission or rebroadcast of this call in any form without the express written consent of Insight Enterprises is strictly prohibited.
+In today's conference call we will refer to non-GAAP financial measures as we discuss the fourth quarter and full year 2015 financial results.
+You will find a reconciliation of these non-GAAP measures to our actual GAAP results included in the press release issued earlier today.
+Finally, let me remind you about forward-looking statements that will be made on today's call.
+All forward-looking statements that are made on this conference call are subject to risks and uncertainties that could cause our actual results to differ materially.
+These risks are discussed in today's press release and in greater detail in our Annual Report on Form 10-K for the year ended December 31, 2014.
+With that, I will now turn the call over to <UNK>.
+<UNK>.
+Thank you, <UNK>.
+Hello, everyone.
+Thank you for joining us today to discuss our fourth quarter and full year 2015 operating results.
+For the fourth quarter of 2015, consolidated net sales were $1.4 billion, down 4% year over year in US dollars, and down 1% in constant currency.
+By operating segment, year over year we saw growth trends soften in North America, while EMEA and Asia Pacific businesses reported low-single-digit declines in sales, all in constant currency.
+Gross profit was $181 million in the fourth quarter, down 1% in US dollars, but up 3% in constant currency, reflecting gross margin expansion in all three of our operating segments.
+Gross margin increased 40 basis points year over year to 13.0%.
+This increase was primarily due to a higher mix of services sales, which are transacted at gross margins notably higher than our corporate average, and an increase in performance-based partner funding across core product offerings.
+Consolidated selling and administrative expenses were $147 million in the fourth quarter, up 3% in US dollars, and 6% in constant currency, reflecting investments in sales, technical and services headcount across the business.
+Earnings from operations, excluding severance and restructuring expenses, decreased 13% to $33.5 million.
+On a GAAP basis, earnings from operations decreased 13% to $30.5 million.
+And diluted earnings per share, excluding severance and restructuring expenses, increased 4% year over year to $0.57.
+On a GAAP basis, diluted earnings per share were $0.50, also up 4% year over year.
+Within these results, the North America business reported 1% top-line growth in constant currency.
+In the hardware category we continued to see solid growth in client devices and displays.
+This growth was partly offset by lower service sales resulting from the end-of-life Microsoft Windows Server 2003, and the completion of certain multi-quoted network deployments.
+In the software category, public sectors clients increased their spending for business productivity solutions, but our reported software sales declined year over year, due to a higher mix of maintenance sales, which are recorded net in our financials.
+And in the service category we added BlueMetal, and interactive design and technology firm, to our portfolio of service offerings on October 1st, which led to a 4% improvement in sales in that category in the quarter.
+Gross profit in North America in the fourth quarter grew slightly faster than sales, but the effect of SG&A investments made over the past few quarters led to a decline in earnings from operations year over year.
+As we look back at our North America business in 2015, there are quite a few areas that we're excited about.
+Hardware sales grew 7% for the year, ahead of our internal expectations, and outperformed the market according to third-party data.
+Our software business in North America performed well in 2015, growing 5% overall, including particularly strong performance in the public sector space, where we grew more than 30% by adding new clients and continuing to cross-sell and grow within our existing portfolio.
+And our services sales grew 20% in 2015, reflecting the benefits of expanding our solutions capabilities and investing in the right talent over the last two years.
+And as part of our continuing efforts to deliver client-relevant technology solutions, we completed the acquisition of BlueMetal in the fourth quarter of 2015.
+Integration activities are underway, and we're excited about the ability to bring BlueMetal's application design, mobility and big data solutions to our clients.
+From a profitability perspective, gross margins in North America in 2015 were pinched by a higher mix of device sales to larger enterprise and public sector clients, and the effect of lower fees earned on software enterprise agreements.
+But our team executed well to optimize partner funding under core partner programs, and increased the mix of higher-margin services gross profit in the portfolio, which helped mitigate some of the margin compression.
+And as committed, we invested in sales and technical resources in 2015, adding more than 100 selling resources to the business that we believe will position us well to continue to grow in 2016.
+In EMEA, net sales decreased 4% year over year in constant currency in the fourth quarter, reflecting lower software sales to large enterprise clients that were partly offset by a 29% increase in services sales.
+But gross margins expanded by over a 100 basis points, and the team controlled expenses, which drove non-GAAP earnings from operations up 7% year over year in the quarter.
+Our EMEA business is stronger today than in recent years.
+Our management team has matured.
+Our sales execution has improved.
+And our strategy to transform to a solutions and services based selling model is showing progress.
+For the full year of 2015, our EMEA business grew top line by 2% in constant currency terms, and gross profit by 3 times that rate, due partly to over 20% growth in cloud and other services sales.
+We delivered improved financial performance in France and Germany, where we've struggled in recent years, and continue to execute well in our strongest businesses in the UK, Italy, Nordics and Netherlands.
+Currency exchange rates dampened our reported results all year.
+But we're pleased with the performance of our EMEA business overall, where 2015 non-GAAP earnings from operations grew high single digits in constant currency terms.
+In Asia Pacific, fourth quarter net sales decreased 4% year over year in constant currency.
+During the quarter we saw increased demand in Australia and New Zealand, and softness in China and Singapore.
+In addition, the top line results were affected by a higher mix of [netted] software sales year over year.
+Gross profit dollars increased in the fourth quarter of 2015, which drove earnings from operations up in constant currency terms.
+Q4 represented a solid close to a tough year for our Asia Pacific business.
+For the full year of 2015, the softer economy drove our top line down by 5% in constant currency, compared to 2014.
+And our APAC business, which is mostly comprised of software sales, received $4 million less in incentives due to partner program changes in this category.
+Our team continued to execute our strategy to grow cloud and professional services capabilities, and expand hardware sales in the portfolio, but could not offset the effects of the economic downturn of the region and the program changes.
+I will now hand the call back over <UNK>, who will discuss our full-year 2015 financial results in more detail.
+<UNK>.
+Thank you, <UNK>.
+For the full year 2015, consolidated net sales were $5.4 billion, an increase of 1% year over year in US dollars, and 6% in constant currency.
+North American net sales increased 7% to $3.8 billion, with growth reported from all three categories of hardware, software and services.
+In EMEA, net sales decreased 11% year to year, and to $1.4 billion in US dollars.
+But in constant currency, net sales increased 2%.
+Hardware and software sales in EMEA grew 2% and 1% respectively, while services sales grew nicely at 24%, all in constant currency.
+In Asia Pacific, net sales of $178 million decreased 16% in US dollars, and 5% in constant currency.
+Full year 2015 consolidated gross profit was approximately $716 million, up 1% in US dollars, and up 5% in constant currency.
+Gross margin in 2015 was 13.3%, down 10 basis points year over year.
+This decreased was primarily driven by partner program changes in the software category, which resulted in approximately $8 million in lower gross profit in our software category, about half in each of EMEA and APAC.
+Selling and administrative expenses for the full year of 2015 were $585 million, an increase of 1% year to year in US dollars, and 6% in constant currency.
+In North America, SG&A increased $24 million year over year.
+The prior year results include a $5.2 million non-cash charge related to our Illinois real estate asset recorded in the second quarter of 2014, compared to $800,000 recorded in the third quarter of 2015.
+We also invested significantly in sales and related headcount in North America, and incurred higher variable compensation on higher gross profit.
+In EMEA, SG&A expenses were down year to year in US dollars, but up 5% in constant currency in 2015.
+The increase in constant currency was due to increased investments to support services and cloud growth across the region.
+And in Asia Pacific, expenses increased 3%, also in constant currency, due to an increase in teammate-related expenses.
+And as a result of additional restructuring activities in EMEA and the continued review of resource needs in North America, we recorded severance and restructuring expenses of $4.9 million in 2015, compared to $4.4 million in 2014.
+Earnings from operations were $127 million in 2015, a decrease of 3% from 2014.
+Excluding severance expenses and the non-cash real estate charges, earnings from operations in 2015 were $132 million, down 6% year to year.
+Our effective tax rate in 2015 was 36.4%, compared to 39.1% in 2014.
+The decrease was primarily due to reduced operating losses in certain foreign jurisdictions in 2015.
+And finally, diluted earnings per share came in at $1.98 on a GAAP basis.
+Excluding severance expenses and the real estate charges, diluted earnings per share were $2.11, up 6% from $2.00 reported for 2014.
+Moving on to cash flow performance, for the year ended December 31, 2015, our operations generated [$181 million of cash] (corrected by company after the call), up 64% year over year.
+These results exceeded our historical average annual cash flow generation of $80 million to $120 million, due to a single significant receivable received from the client in the fourth quarter, but for which the payment to the supplier as a result of timing only, was due and paid in January.
+In 2016 we expect the payments to the supplier in January will have the opposite effect on our 2016 cash flow results.
+We invested $13 million in capital expenditures in 2015, up from $10 million in 2014, reflecting technology and facility enhancements made in 2015.
+And we spent $92 million in 2015 to repurchase 3.3 million shares of our common stock.
+And as discussed in the last conference call, we also purchased BlueMetal in the fourth quarter for a cash purchase price of $41 million, net of cash acquired, and the assumption of $3 million of debt that was repaid at closing.
+All of this led to a cash balance of $188 million at the end of 2015, of which $159 million was resident in our foreign subsidiaries, and we also had $89 million of debt outstanding under our debt facilities.
+This compares to $165 million of cash and [$61 million] (corrected by company after the call) of debt outstanding at the end of 2014.
+And from a cash flow efficiency perspective, our cash conversion cycle was 20 days in the fourth quarter of 2015, a decrease of four days year to year, as a result of the higher DPOs in North America, driven by the single payment I just mentioned.
+One more item before I turn the call back to <UNK>, this week our Board of Directors approved an authorization to repurchase $50 million of our common stock.
+These share repurchases will be made on the open market through block trades or through 10b5-1 plans.
+Subject to market conditions, we plan to commence this program during this quarter.
+Over the past three years we have repurchased over 8 million shares of our common stock, deploying [$200 million] (corrected by company after the call) of cash under this initiative.
+Our capital structure remains healthy, with sufficient capacity to support our internal investment plans and this repurchase program in 2016.
+I will now turn the call back to <UNK> to review our 2016 operating priorities and outlook.
+<UNK>.
+Thank you, <UNK>.
+Moving on to our 2016 operating plans, across the markets where we do business, industry analysts expect flat-to-low single-digit growth in hardware sales in 2016, and low-to-mid single-digit growth in software and services sales.
+Our plans for 2016 are focused on driving growth and excess for the market across our operating segments.
+However, given continued weakness in major global currencies against the US dollar, we expect that our reported growth in US dollars will be in the low-to-mid single-digit range.
+The IT industry is healthy and constantly changing, which provides opportunities for Insight to continue to bring value to our clients, partners, teammates and shareholders.
+We believe that the investments we've made over the past few years, combined with our global scale, strong data center, software and services capabilities, position us well to compete in the marketplace in 2016.
+In North America over the past two years, we have invested in sales and technical resources in the business, particularly in support of large corporate and public sector accounts across the region.
+As we head into 2016, we're highly focused on helping our new reps improve their productivity and drive the return on our investments.
+Our strategy in the large corporate space in 2016 is to leverage our expanded salesforce to earn new clients and more business with existing clients through our core competencies around supply chain, software and cloud, and to bring additional value to our technical and consulting services capabilities.
+In the public sector we intend to expand our footprint in the K-12 space, leveraging on network and expertise in new markets.
+In the state and local space we'll continue to grow our capabilities around public safety.
+While on federal space, a business largely built around software, we will leverage newly-won contracting vehicles to garner our share of the hardware spend by federal agencies.
+In addition to our strategies in large corporate and public sector markets, we have a number of initiatives underway to scale and expand our small-to-medium business go-to-market capabilities.
+In 2016 we will look at all facets of the SMB sales engagement model, including hiring, training, development and compensation; as well as sales enablement for digital marketing, web automation and cloud aggregation; and look forward to updating you on this initiative throughout 2016.
+In EMEA, we'll continue to expand on the momentum that we gained in 2015 around our two-prong strategy.
+First we'll continue to drive sales excellence in our core business, and look to expand our client portfolio with cloud offerings and consulting services.
+And second, we will continue to grow our services capabilities, focusing primarily on licensing optimization services, cloud assessment and deployment services and modern workplace collaboration solutions.
+This strategy is critical to our long-term transformation into a client-centric solutions company.
+Finally in Asia Pacific, our plans are focused on penetration in the mid-sized and enterprise markets and the development of more specialized software services capabilities, particularly in the areas of software licensing optimization services, cloud assessment, migration and management.
+Moving on to our outlook for 2016, for the full year of 2016 we expect our business to deliver top-line growth in the low-to-mid single-digit range in US dollar terms.
+We also expect diluted earnings per share for the full year 2016 to be between $2.25 and $2.35.
+This outlook reflects the adverse effect on gross profit; our previously announced partner program changes in the software category which the Company expects to be between $5 million and $10 million; an effective tax rate of approximately 37%; the completion of a recently-authorized share repurchase program of up to $50 million, leading to an average share count of approximately 36 million shares for the year; and capital expenditures of $10 million to $15 million.
+This outlook excludes severance and restructuring expenses.
+Thank you again for joining us today.
+I want to thank our teammates, clients and partners for their dedication to Insight.
+That concludes my comments.
+And we'll now open your line up for questions.
+Yes.
+Thanks <UNK>, for the comment.
+On the North America side, as you saw, the revenue in constant terms was 1% growth.
+On the hardware category, we did actually see good growth on notebook category and tablet category.
+So we did see continued growth.
+That led to a little bit of margin compression with some of our larger clients where it's a little more competitive.
+But we did see good growth there.
+What we did see is the networking category was challenged, as well as other aspects of the data center, being the server market.
+Some pretty tough compares, year over year as well, but all in all that's where we saw some of the softness in that regard.
+We're confident in that what we're proposing as far as the 2016 outlook, and that sort of mid-single-digit growth for the revenue side of the equation.
+That's what we're seeing.
+So we think it's certainly a function of what we saw in some softness is Q4.
+Going into Q1, we do think that the revenue numbers are there.
+We'll see a little bit of still some margin compression for us, as we go into Q1.
+But we do believe that we'll see growth in the hardware categories as we forecast into Q1, and obviously throughout the year.
+Correct.
+Yes.
+And as you know, we've been sort of experiencing that sort of now for a quite a few years, the last three years, certainly that kind of number.
+So that's sort of now become almost built in.
+We do hope that that will run off this year.
+But that's what the number calls for this year in the software category.
+I think your analysis is correct.
+When you look at the overall mix of business, we would anticipate the 5% to 10% expansion in overall EFO margin is about where we would come out.
+We're going to get some benefit ultimately from services with regard to higher margins there.
+And it does have a higher growth rate associated with it.
+However, the base of business is actually the hardware and software business.
+That's larger, significantly larger than our services business.
+And we're anticipating a little bit of-- not margin compression, but still margin pressure.
+So we're not expecting significant expansion in margin in the hardware and software categories.
+And that we have that software effect that's 100% gross margin that impacts the overall margin profile.
+So your analysis was spot on.
+So it was we-- there's a program that went into effect that is a carryover going into 2016, just based on the timing about how the contracts that were impacted end up rolling over ultimately.
+There's a very minor change in the program that's driving a little bit of that.
+But in general, we anticipate that it's going to be between the $5 million to $10 million range, and likely closer to the $5 million range at this stage.
+And it is-- partners make changes all the time, not just one partner, ultimately.
+So as we-- as I was talking to <UNK> about in his analysis, I think that that 5 to 10 basis point improvement at the EFO margin is a realistic number and assumption that you could use going forward.
+When you look at the investments that we made in 2015 and 2014-- not 2014 so much as the ones in 2015-- those are actually kind of anniversarying at different stages in Q1 through Q3 primarily in 2016.
+So some of that SG&A is incremental in 2016 as well.
+We assume that we're going to get some incremental profitability out of the overall investments that we've made.
+One other factor a little bit in the overall revenue growth, we're anticipating kind of low-to-mid single-digit US dollar growth.
+And we're anticipation mid-single-digit constant currency growth.
+Because there's a little bit of impact in terms of currency related to the euro, the GBP, the Canadian dollar and the Australian dollar primarily.
+I'd say it's pretty normal from what we've seen, <UNK>, going back.
+So I haven't seen a real-- a significant change there.
+The decline in Q4 was-- a lot of it has to do with sort of the [netting] effects.
+As you can see, the European business did deliver a nice GP dollar growth, as well as EFO growth.
+So in the software business we tend to really look more at the GP dollars than even the top-line revenue growth.
+So I don't think that was an indication of any real softness overall that we're seeing in the European market.
+So again, as we've stated, we're pleased with the progress that we're making.
+The team is very stable, and continues to make good progress.
+So I would say overall that the competitive environment to me seems very much the same.
+I don't see any significant differences in that environment.
+And I think also, on a year-over-year basis, <UNK>, there was some very large deals that we had in Q4 of 2014 that didn't reoccur in Q4 of 2015.
+And that's part of the driver ultimately in EMEA between the growth on a year-over-year basis.
+I would say that if you had excluded-- if we hadn't received that-- collected that receivable from our client, our cash flow would have been in a normal range, towards the high end of our normal range.
+That $80 million to $120 million that we've given you.
+I would just also say that relative to the first quarter-- I meant to make this as a commentary on <UNK>'s question when he first asked-- we anticipate that our first quarter is going to be a little bit softer, just coming out of the fourth quarter that we've had and the indications that we're seeing right now.
+So as we think about our guidance for the year, I would just want to let you know that from our perspective, our first quarter is going to be a little bit softer than a normal seasonality would imply.

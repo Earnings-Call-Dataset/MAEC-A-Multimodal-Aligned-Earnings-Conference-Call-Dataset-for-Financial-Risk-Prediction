@@ -1,0 +1,224 @@
+Good day, ladies and gentlemen, and welcome to the Monolithic Power Systems, Inc.
+Q3 2015 earnings conference call.
+(Operator Instructions) As a reminder, this conference is being recorded.
+I would like to introduce your host for today's conference, Ms.
+<UNK> <UNK>, Chief Financial Officer.
+Ma'am, please begin.
+Yes, thank you.
+My first question on your Consumer business.
+I know the high-value segment has become a larger and larger percentage of that business.
+Could you give us a ballpark on where you are with the high-value as percentage of the Consumer bucket.
+It's more than one-third of our Consumer revenue, approaching 40%, I would say in the third quarter.
+Yes, the applications, <UNK>, the application is a variety of internet things, okay.
+If it's related to internet, and also some wearable stuff in sports cameras and that kind of things.
+And we see a lot more activity in recent years.
+Very good.
+And the strength you're seeing in Server storage, it sounds like that's primarily SSD-related.
+So when we think about the opportunity you have in the server market, especially on things like core power, that hasn't even started, right -- just yet, right.
+The core power, we have a few customers from last year.
+We start to ramp, and the bulk of a core power ramp would be end of the next year, the early 2017s.
+Okay, very good.
+And <UNK>, I think you mentioned that distribution inventories were down again this quarter.
+Could you maybe add some color there.
+How low can they possibly go and what types of visibility discussions are you having with some of your end customers at this point.
+Sure.
+As we have done in the past, anytime we hear any suggestions of macro weakness, we typically hold inventory in the channel, and that's what we have done now for two quarters in a row.
+And as you are aware, if we continuously keep it down there's sometimes panic of shortage.
+So we'll continue to watch inventory in the channel and manage it as low as we can without generating any panic.
+Hey, guys, this is actually <UNK> on Ross' behalf.
+Congrats on the great results as well.
+I want to ask you about the coms market.
+I know that it was mentioned that softness in the traditional gateway market happened in 3Q.
+But if you extrapolate a little bit further on that, just to get a better idea of how long the weakness is expected to persist and could catalyze its rebounding.
+Most of the traditional market is -- the traditional gateway market is something that's got lower gross margins.
+So it's not a market that we pursue aggressively.
+So if the demand is lower, we just let it play out.
+We are more strategically focused on other markets which have higher gross margin profile.
+Duly noted.
+And the OpEx plans, it was mentioned last quarter that there's a little bit of a step-up given the ramp in the fourth foundry.
+I just wanted to calibrate that for the fourth quarter.
+Should we still expect -- or heading into 2016, rather, should we still expect a little bit of elevated OpEx heading into 1Q or has something occurred to change that.
+No.
+One of the things you would have noticed is we have reduced our OpEx a little bit this quarter on the fourth foundry, and you will see that spill over into the first half of next year.
+So we continue to invest in our fourth foundry.
+Excellent.
+Thanks very much.
+Great.
+Thanks a lot.
+And my congratulations on pretty good results in a pretty tough environment.
+I was hoping you could comment a little bit on how you think about seasonality going into the first calendar quarter.
+I mean, you have a very nice guide here, which to me looks better than seasonal.
+So does that mean we should be a little bit more cautious on the March quarter before you got some big ramps next year.
+At this point we don't give guidance for Q1.
+So we tend to look at -- seasonally we are typically down 5% to 10%.
+Then it's a question of how much growth do we have to offset it, and more importantly what's the macro.
+So at this point I can't give any color on Q1.
+I think the growth will be accelerating, and if not 2016, will be in 2017.
+And we are really targeting more than 20% growth.
+And you see the results, just the recent result, this is at the beginning.
+And since last couple of years we released the right product to the right customers.
+And the result in two or three -- in a couple of years, in about two or three years since last year's, and that will really accelerate MPS growth.
+The motion-controlled products we'll release in the first half of next year.
+And this is the product, not the same as what we do before.
+And before we always have a fixed products, and you have a design wins and once when the product is ready.
+And now is all -- is a solution-based, and a lot of them is based on the FPGAs.
+And even before we have a product ready and we could engage with a lot of those customers.
+And so we have a lot of tremendous design activity going on now.
+Thank you very much.
+Could you give us some idea as to how your R&D expenses might trend over the next few quarters and what your highest priorities will be in terms of new projects that you're investing in.
+So in terms of R&D as well as sales and marketing, we will continue to invest, because everything that we do in terms of resources we bring onboard next year actually sets us up even better for growth a year or two out.
+So we will continue to do that.
+But we expect at the end of the day there will be leverage to the bottom line.
+Places where we will spend on R&D, one is going to be the fourth foundry to bring up the foundry.
+The second is going to be on differentiated products which are targeting at different markets, some of which we have discussed in the past, some of which we will be discussing over the next year or two.
+Overall the R&D growth, okay, and expenses of growth will be much less than in the revenue growth.
+And you see our history.
+Hi, guys.
+Let me echo my congratulations.
+Wanted to come back, <UNK>, looking at the breakout by end market.
+The Compute was up nicely and teleco down to the lowest level in probably five or six quarters.
+Just trying to get a sense on the Compute side, do you think that SSD strength continues, or was there sort of some one-time business that you were able to take advantage of in the quarter.
+And then similarly on teleco, I know that the teleco market has been fairly weak, especially in some of the wireless com structure, but some of your peers have started to say they are starting to see some uptick in com infrastructure.
+Wondering if you're seeing any pickup there.
+Sure.
+When we look at Computing, in storage, SSD storage, we had a new design win that started ramping up for us in Q3 and that was part of the growth.
+In Q4 as far as storage is concerned, I see two things playing out.
+We typically sell our SSD products both to enterprise as well as high-end client.
+And there's usually seasonal weakness in both Q4 and Q1 on the high-end PC side of it.
+The second I think overall there is some softness in both HDD and SSD, particularly as we go into Q4.
+In terms of our Communications, a lot of the weakness that we are seeing there has been in our gateway business.
+These are things like modems, routers, line cards that are sold to the home and the home office.
+There's also a little bit of weakness, I would say, in the networking and telecom side of the business.
+And there it's a mix of wired markets as well as wireless.
+So we are seeing a little bit, but I would say more of the weakness is in the gateway side of the house.
+And then just for two follow-on questions.
+Can you give us any sense what percent gateways might be of the overall com bucket.
+And then if you take a step back looking out at the broader business across all end markets, obviously the economy seemed to take a little bit of a breather over the summer.
+We saw a lot of the analog mixed signal group indicating order softness.
+To the extent that you saw that slowdown late summer, would you say things have stabilized now, or order lead times fairly short and difficult to predict.
+A couple of your peers have said they think we're through the worst of it.
+Wondering if you might be able to make a similar comment.
+In terms of the order momentum, we typically quote six to eight weeks lead time to our customers, except for a few new products which might have a slightly longer one.
+And we have not seen any change from that standpoint.
+I mean, we -- I guess we are in so many different markets that we never feel comfortable quite calling the macro.
+We depend upon our larger, more stable competitors to call the macro for us.
+So if I were to say markets where we have seen some weakness, I would say it's in the traditional gateway business for the home, home office.
+I would also say there's some in storage.
+Beyond that, I couldn't really comment about the macro.
+That's the beauty of the MPS, we are in a position, we don't know.
+Everything is a good opportunity for MPS.
+Sure.
+Our typical range is about 30 days to 45 days of inventory, and we typically prefer to hold in the upper half of that.
+So we have not seen any particular push from distributors to hold less.
+This has been more something that we have actively managed, and we have done in prior years as well.
+Whenever we start seeing signs of a macro weakness, we start managing the inventory and the channel to the best we can so that the days come down, and that's what you see played out for the second time.
+Add onto that, in terms of the inventory, the internal inventories that we hold, we are now at about 147 days.
+Internal model is about 135 days to 155 days.
+And we expect in the next few quarters will be more around 150 days for all the reasons that <UNK> talked about, particularly the new products, as well as inventory needed to support our strategic customers.
+So when we look out into 2016, I would expect to see growth in Computing, Consumer and Industrial market.
+Communications I'm guessing is going to be mostly flat.
+And all the revenue drivers are essentially all the different drivers we have talked about in the past.
+I continue to believe that Industrial is going to see strong growth next year with automotive markets leading the way, but you would also expect to see growth in smart meters, in security, in power sources.
+In Consumer we expect to see the newer high-value markets continue to grow.
+And in the Computing section it would be SSD servers as well as high-end (technical difficulties), and our module business would also continue to grow.
+And AC/DC, which is distributed among all these markets would also be growing next year.
+So we expect to see multiple areas of growth.
+Okay, Thank you, <UNK>.
+Hey, thanks.
+<UNK>, you mentioned strong design win momentum for E-motion.
+Can you talk a little about the number design wins, or quantify the number of design wins you guys have so far.
+I know it's a new product and it's early days, but just to give a sense of maybe what that equates to in terms of dollars of backlog, or any kind of color around that you could give.
+Yes, so far as you know, we talk about, we have a separate chip now -- okay.
+And a real E-motion chip that we are going to release next years.
+And those we use -- now use a programmable third-party product, and that's FPGAs to do the feasibility study for our customers' systems.
+And so it's hard to quantify the dollar and the dollar in a sense, in it, but the sense of portion of it, we have a -- we generate revenues, and I don't know what is the revenue numbers now.
+It's not small.
+Well, small means, okay -- it's still not small means it's still some millions, okay.
+And for the entire next year's.
+That's a very sensitive (laughter) -- it is a sensitive question, and let me answer in that way.
+Our long-term shareholder, everything what we do is affect us three, four years out.
+So for the long-term investors, and that's have the same kind of a length.
+And so then our Company's goals is perfectly lined up with our investors.
+But other long term is shorter than three or four years, like one to two years, then it's not quite aligned with it.
+So the Company we put -- we published the models and we are going to grow the OpEx in a slightly less than half of a revenue growth, which is to me doesn't quite make sense, and but we brought our shareholders interests.
+Thanks.
+Hey, guys.
+Congrats on the great results.
+Couple questions.
+On the auto side, <UNK> and <UNK>, can you remind us how much is the contribution as part of Industrial.
+And also with the recent controversy on Volkswagen, does that have any impact.
+I know you guys are very small of this overall market, but would love to hear some feedback on that, because we get questions by clients on that.
+We are very small and second, we are not in the engines, okay.
+(Multiple speakers) It doesn't really affect on us, okay, in terms of automotive.
+We are more into lighting, infotaintment, and more the lightings, all kinds of lightings.
+You have a security -- okay, you have lightings and illuminations, and also the dashboards.
+And we have -- the other one is the camera side.
+So we have a lot of design activities, and it really doesn't affect.
+What is the contribution, <UNK>, of auto to the overall Industrial.
+I would say among the four growth drivers in Industrial, it is the biggest.
+I mean, we have seen it be one quarter, like we did last year.
+The two years prior to that, it was each two quarters.
+Before that, it has been three.
+Again, we -- when it comes to macro weaknesses and stuff, we don't feel comfortable.
+I can look at it afterwards and say what we saw.
+I want to emphasize again that the gateway business is low margin, and we just play it opportunistically.
+So we don't spend time doing any soul-searching in the space.
+They are, I think they do some current sensing.
+The current sensing, and I don't know if you refer that one.
+I know there's a product release and there's a current integrated with a current sensing.
+The current sensing of the moto driver, we released it two years ago.
+Our sensing is the same thing, the rotor of the models, and that's the same thing as the technology.
+So it's entirely different.
+So the E-motion product we're talking is much more advanced than the products that you were just talking about.
+Thank you.
+I think it's a combination, right.
+I mean, we have multiple growth drivers, we are playing in different markets.
+Some markets, we are growing market share.
+So as a result of all that, we have actually continued to see growth.
+I mean, that is the key reason why we were focusing so much on diversification.
+It helps us at a time like this.
+Yes, we see weakness in a few markets, but we kind of see growth in a whole lot of other markets.
+And that's, I think, what's really helping us at times like this.
+It really showcases the strength of the diversification model.
+Yes.
+Well, <UNK>, I'm (inaudible) and I'll give you a longer stories.
+Four years ago we set up this model, two years ago we -- and four years ago we are changing -- we change our focus, and then we start to knocking on the door for these new customers.
+And two years ago, we were in the door.
+And two years later, we have a lot more product.
+And what I see is why we are -- why we are now in a grow 15%, 18% a year, why not faster.
+And all the products that we release in the last couple of years, it will indicate in 2017 and 2018 we'll grow faster.
+So this is at the beginning.
+So we actually had a positive effect to interest income line from foreign currency.
+This is more on payments to subsidiaries.
+There's a foreign exchange difference, and it turned out to be positive.
+So typically when we give guidance, we guide it to a $0 of gain or loss because we don't know until each quarter plays out whether it's a gain or a loss.
+We have had quarters of loss and we have had quarters of gain.
+So what we guide to is specifically the pure interest income portion of it.
+You're welcome.
+I think you will see the seasonality play out in the gateway portion of Communication.
+You will see some seasonal impact on the SSD for the high-end computing, Consumer, of course.
+Industrial I think will relatively have less of a seasonal play, and that's the best I can describe at this point.
+As you know, with such a distributed revenue base, we are actually dependent on the resales reports we get to actually pinpoint which markets we sell into.
+Lighting has -- is one of those markets where we haven't seen seasonality play in before in the fourth quarter.
+And it's a market where we continue to do well because we play in the high end of the market with very good dimming solutions.
+And so we continue to see that play out.
+So what we are seeing is mostly revenue that we got from design wins that we got about four years ago.
+And since then, every year we have increased the pace of our design wins here.
+We started with infotainment and then we have gone onto safety and --
+Lighting.
+Lighting and a whole bunch of other products.
+So like <UNK> said, we are not under the hood, thankfully, at this point.
+But we are seeing on an annual basis there are more and more design wins.
+So when we look at revenues for automotive, we're increasingly confident that we will see higher revenues each year looking at next year --.
+Actually, we have in Analyst Days, that we have a slide, and we have a couple of slides.
+And now I think it will -- is online, right.
+And you can look at our product and our design cycles.
+Four years ago we start to knocking on doors and with existing product.
+And again, then two years ago we are in the door and we engage with all these auto customers, and we design specifically for automotive.
+These products will be -- since two years ago will be four years later, which is 2016/2017, and 2016/2017 we are getting to productions.
+So these are very predictable and very sustainable revenues.
+Okay.
+Thank you.
+I'd like to thank you all for joining us on this call, and look forward to talking to you again at our next earnings call in February.
+Thank you and have a nice day.
+Bye-bye.

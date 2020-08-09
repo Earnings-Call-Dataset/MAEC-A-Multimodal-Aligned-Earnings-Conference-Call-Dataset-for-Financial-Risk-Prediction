@@ -1,0 +1,260 @@
+Good morning, and welcome to Blucora's investor conference call to discuss second-quarter 2016 earnings.
+Before we begin, I'd like to remind you that during the course of call, Blucora representatives will make forward-looking statements, including but not limited to, statements regarding Blucora's expectations about its products and services, outlook for the future of our business and growth initiatives, and anticipated financial performance for 2016.
+Other statements that refer to our beliefs, plans, expectations or intentions, which may be made in response to questions, are also forward-looking statements for purposes of the Safe Harbor provided at the Private Securities Litigation Reform Act.
+Because these statements pertain to future events, they are subject to various risks and uncertainties, and actual results could differ materially from our current expectations and beliefs.
+Factors that could cause or contribute to such differences include, but are not limited to, the risks and other factors discussed in Blucora's most recent Quarterly Report on Form 10-Q on file with the Securities and Exchange Commission.
+Blucora assumes no obligation to update any forward-looking statements, which speak only as of the date the statement is made.
+In addition, during this call, our management will discuss GAAP and non-GAAP financial measures.
+In the press release, which has been posted on our website and filed with the SEC on Form 8-K, we present GAAP and non-GAAP results, along with reconciliation tables and the reasons for our presentation of non-GAAP information.
+We've also provide supplemental financial information to our results in the Investor Relations section of our corporate website at Blucora.com, and filed with the SEC on Form 8-K.
+Now I'll turn the call over to <UNK> <UNK>.
+Following his comments, <UNK> <UNK> will review second-quarter results and full-year outlook; then we'll open up the call to your questions.
+Thank you, <UNK>.
+Good morning, everyone.
+And thank you for joining our call today.
+I would like to begin by simply expressing my appreciation to the entire Blucora team, our customers and our shareholders, for their support as I lead Blucora through our transformation to a strong and growing technology-enabled financial solutions company.
+After a little over 100 days as CEO, I am pleased to provide an update on the exciting positive changes going on at our Company, and my views on how we'll create long-term value.
+When I first joined Blucora in April this year, I knew the Company had significant potential.
+Over the last few months, I've had the opportunity to watch our business evolve and to see the hard work of our teams begin to affect positive change across our operations.
+I've been consistently impressed with the efforts of our people who are fully focused on delivering great value to our customers, clients and advisors.
+It's exciting to be part of a company that is so committed to doing everything possible to assist those that depend upon us in the markets we serve.
+As we transform Blucora, our commitment to shareholders is to deliver reliable financial performance that generates attractive returns.
+The full team is focused on this commitment.
+In these updates, you can expect me to share a balanced perspective on the Company, both in terms of what's working well, along with challenges we need to overcome to meet that commit.
+Last quarter, I shared our near-term focus on the four Ds: divest, delever, deliver, and drive.
+Each D represents an element of our action plan to reconfigure our capabilities and create a more streamlined, effective and efficient business model that delivers near-term performance while positioning the Firm to capture long-term growth opportunities.
+Today, I'll report on the progress we have made on these elements.
+As I discussed during our first-quarter earnings call, we reaffirmed our commitment to divest our InfoSpace and Monoprice businesses.
+Since then, we've made substantial headway in these efforts, having earlier this month, announced a definitive agreement to sell InfoSpace to OpenMail for $45 million.
+This transaction, which we expect to complete in the coming weeks, marks an important step in our transition, and will enable us to monetize a non-core asset, to pay down debt, and reduce our operating expenses.
+Additionally, we're focused on the sale of our Monoprice business and, although the process is taking longer than we hoped, the process is competitive, with multiple parties interested and actively conducting due diligence.
+We're optimistic that we will enter into a transaction in the coming months.
+Second, we remain focused on our efforts to delever our business by paying down debt, and are well on our way to achieving our goal of 3X net leverage ratio.
+During the second quarter, we retired $20 million of debt, bringing our total debt reduction for the first half of the year to $88 million.
+Our ability to quickly and consistently delever demonstrates our strong cash flow generation capabilities at both businesses.
+Looking to the third quarter, we expect to pay down more than $40 million of debt with the net proceeds we will receive from the sale of InfoSpace.
+In addition, by delevering, we will be better able to tap into the benefits of our substantial NOLs.
+Third, we delivered strong growth and adjusted EBITDA of 36% over prior-year and within our expectations.
+This growth is fueled by very strong performance from TaxACT, counterbalanced by shortfalls, versus our revenue expectations at HD Vest.
+I want to spend a few moments discussing our results in more detail while sharing context on the operating environment.
+Starting with Tax Preparation, TaxACT completed this year's tax season in the second quarter and delivered another strong performance, with revenue and segment income up 18% and 21% for the full season.
+This was an important year for TaxACT, as we successfully pivoted our strategy to one focused on driving profitable share growth.
+The changes we made to our go-to-market strategy better positioned the business for long-term growth.
+One key reason for this is our price points now align to those of the volumetric leaders, enabling consumers to see our substantial price value advantage.
+From a market perspective, we're pleased to see the DIY category growth overall, and view the enlarged pool of DIY filers as future opportunity for TaxACT.
+Before I move on to Wealth Management, I want to thank JoAnn Kintzel for her valuable contributions in building TaxACT into the successful business it is today.
+Earlier this month, we announced that she will be stepping down as President of TaxACT once a successor is named.
+Thanks in large part to JoAnn's leadership over the past five years, TaxACT is in a strong position to take advantage of the significant opportunities ahead for the business.
+Turning now to Wealth Management.
+Revenue performed below our expectation at $76.1 million, down 6% compared to the prior year.
+Segment income came in within guidance at $9.9 million; it was down 7%.
+Now let me share more insight into the revenue shortfall.
+Advisor-driven revenues were down year-on-year in each primary area of fee-based trailers and transactional.
+Transactional revenue is the largest driver, and was also down sequentially.
+Here we're seeing two developments.
+One, in June, we experienced an unforeseen decline in new investments in variable annuities.
+While the product line has historically exhibited variability, the dip in June was unusually large, and centered on smaller average investment amounts.
+As you can imagine we are watching this extremely closely.
+For July, new investments have rebounded versus June, but early indications suggest we will continue to lag prior-year.
+This challenge seems to be industrywide, as the market has been in decline from its cyclical peak in mid-2011.
+Our internal analysis also indicates that variable annuity demand, we'd normally experience post-tax season, was pulled into Q4 2015 and Q1 of this year, driven by the launch of a new sales automation tool that accelerated the closing of business, as well as the unique situation created by the buyout of a well-adopted annuity by a large insurance company.
+Two, compounding the softness in new investments, we also experienced declines in commission rates.
+Here, the product mix has gradually moved toward product options with lower upfront fees, but with higher trailing commissions paid out over time.
+This is reducing our short-term revenue in exchange for higher annualized revenue.
+Generally, we like this trend as it moves toward more recurring revenue.
+However, it has been, and will continue to be, a headwind.
+The good news is that this is a gradual shift, and we should begin to see some relief, as trailer commissions typically kick in one year after the initial investment.
+In addition, we have seen softness in fee-based net flows, which is affecting revenue performance.
+Given the continuance of A largely sideways market since early 2015 combined with greater market volatility, advisors are finding it more difficult to convert clients into, and retain them in, a professionally-managed, fee-based arrangement.
+Simply put, well-diversified portfolios have not delivered strong absolute returns, resulting in sluggish net inflows.
+Global uncertainties and macroeconomic issues have not helped, as these also weigh heavily on many investors, and have consumed advisor bandwidth on handholding versus business development.
+Lastly, given market volatility and uncertainty, we have reevaluated our assumptions for the rest of the year and are revising our outlook to assume a flat equity market and no Fed funds rate increases.
+As a result of these, we are lowering our full-year guidance, and <UNK> will share more details in his prepared remarks.
+Now, given the financial model of the business, we expect to achieve solid annual segment margin for HD Vest around 14% for the year.
+Bigger picture, while we are disappointed with the revenue performance this quarter at HD Vest, we believe in the attractive potential of this business.
+Net, the headwinds we face have become more clear; we are committed to taking the steps necessary to fight through these challenges; and we are focused on near-term execution to begin to regain momentum.
+One such execution focus is making it simpler to process annuities by simplifying and streamlining operations.
+We know that making it easier to do business with us drives greater advisor productivity and product usage, and should enable us to take advantage of second-half opportunities, including end-of-year tax planning season.
+A second key execution focus is helping our advisors better engage with clients.
+In June, we hosted our annual national conference in Washington, DC with record attendance.
+A major focus of the conference was in recently-developed tools that advisors can use to build their business regardless of the operating environment.
+Usage of these technology-enabled tools drives growth in assets and high-quality revenue, and we are delighted to see this usage increase.
+We are especially pleased with the adoption of VestVision, our retirement planning tool facilitating client personalized plans, which grew 22% versus the second-quarter 2015.
+And June was the strongest month of plan creation in VestVision since its launch in 2014.
+Importantly, it was also the broadest month of plan creation as measured by unique advisor use.
+We anticipate continued growth in the use of planning tools, as advisors seek to better meet client needs, as well as look ahead to fiduciary duties with respect to the new DOL rules.
+This adoption is important, as advisors who work with clients on the basis of a plan, drive more assets and create monetization through increases in fee-based relationships.
+It's a win for clients, too, as they benefit, over time, from being in a well-diversified portfolio managed by a professional acting as a fiduciary.
+A brief comment on DOL.
+As we continue to evaluate the new DOL rules, we believe we have an effective investment advisory platform, which will be available to satisfy the DOL requirements.
+We also continue to educate our advisors and encourage them to get their advisory licenses.
+Thus far in 2016, we are pacing ahead of last year's record number of new advisory licenses obtained.
+That said, we are still assessing the impact of DOL, and will be sharing more details in the near future.
+Finally, to our fourth D, our teams remain focused on driving long-term growth.
+We have a path to creating a more streamlined business and opportunities to create shareholder value.
+I'd like to share my current thoughts with the benefit now of being on the job for nearly four months.
+Tax Preparation -- I like the hand we're playing in this business.
+The largest competitor in the digital do-it-yourself space is growing the category by attacking the outdated and low-value storefront model.
+For those that prefer or are considering DDI1, TaxACT offers incredible value.
+Right now most people that are filing with larger players could come over to TaxACT, get a great experience, and pay a lot less.
+And the largest player churns more filers annually than we currently serve in a given season.
+So we perceive substantial opportunities to drive growth through, one: sharpening our differentiation versus competitors.
+Two: getting the credit we deserve for our superior price value.
+Three: tightening our marketing focus while better utilizing data.
+Four: improving the client experience, which will be an ongoing focus.
+Five: additionally, we continue to be well-positioned to grow in areas outside of the US consumer tax business, including professional, small business and international.
+We have only begun to scratch the surface of these opportunities.
+Wealth Management -- our long-term view on HD Vest continues to be positive as well.
+I like businesses in this space that feature, one: revenue streams that are migrating towards more fee-based and recurring revenue.
+Two: value to clients through a quality trusted relationship.
+Three: where there is upside over time associated with the increased valuation of publicly traded securities.
+Four: that offer greater revenue as interest rates rise with strong flow through to the bottom line.
+And five: where there is upside to key levers that drive long-term value creation.
+HD Vest checks the box in all five of these areas.
+So while it's clear the IBD sector faces a number of challenges, I believe HD Vest will be the one to beat in the IBD space.
+This is not just because of the aforementioned, but because, in addition, we offer a better mousetrap.
+Our grow-your-own approach to adding new advisors creates a significant net revenue advantage versus others in the sector, and there is real value added for the client.
+It's better for investors to work with an advisor who has an eye on tax alpha, because he simply can't assume away tax implications and properly advise the client on their investments.
+Yet it's the very thing the majority of wealth managers and brokers do.
+Regarding the fifth point around value-producing metrics, we continue to see significant opportunity in each key value lever, including increase the number of advisors in our network.
+We currently have 4,600 advisors out of an addressable market of approximately 250,000.
+Increasing the breadth of Wealth Management inside of tax provider practices.
+Today, our advisors average about 25% penetration among their tax client base, and increasing the depth of penetration of their Wealth Management clients by getting rid of wallet share and increased adoption of fee-based solutions.
+Additionally, these two businesses make sense together.
+There is an opportunity to tap into TaxACT's 20,000 professional customers who are not yet HD Vest advisors, and to better serve TaxACT's 5 million consumer tax filers by leveraging HD Vest capabilities to offer wealth management services.
+Supporting these strategic initiatives is our new operating model, which is centered on the idea of Blucora as one company.
+We are in the process of transitioning from a portfolio holding company operating model with separate operations, to a more unified and collaborative structure.
+Inherent in this is a shift in the role of corporate functions from adding value through M&A to being directly accountable to help the business units grow profitably.
+Moving to this model will help us attract the right talent to build our team and create a more flexible nimble Blucora.
+I'm committed to building the best team in the business -- the one everyone wants to be on.
+Inevitably, there will be some new folks brought in over time in order to meet this commitment.
+While we are undergoing positive change at Blucora, I believe we are laying the foundation for long-term growth and value creation.
+With that, I'd like to turn over to <UNK> Emmons to discuss our financial performance over the past quarter.
+Thanks, <UNK>.
+Today, I will cover the second-quarter results, and then provide third-quarter outlook and update our full-year outlook.
+Our consolidated results and year-on-year pro forma growth for the second quarter are as follows.
+Revenue of $120.1 million, up 7%; adjusted EBITDA of $35.3 million, up 36%, reflecting year-on-year segment income growth of 30%; and non-GAAP net income of $23.4 million, up 61%; and EPS of $0.55 per diluted share.
+GAAP net loss for the second quarter was $14.4 million, or a $0.34 per share loss, and reflects impairment charges associated with our discontinued operations.
+Turning to the balance sheet, we have cash, cash equivalents and short-term investments of $82.1 million.
+As <UNK> mentioned, we paid down $20 million of term loan B, bringing our net debt down to $437.2 million.
+Net leverage exiting the quarter was 4.5 times, down from 5.2 times as of March 31, 2016.
+In the third quarter, we expect to utilize 100% of the net proceeds from the InfoSpace divestiture to pay -- to further pay down debt, as we remain focused on reaching our net leverage goal of three times in 2017.
+Shifting to segment performance starting with Tax Preparation.
+Second-quarter revenue was $44 million and segment income was $29.8 million.
+For the first half of 2016, which encompasses the entire tax season, revenue was $132.5 million, up 18% versus the first half of 2015, and segment income was $77.4 million, up approximately 21%.
+Segment margin for the first-half of 2016 was 58.4%.
+As we discussed during our first-quarter call, we pivoted our offering this year to better position us for future growth, and we were pleased with the performance and future potential of the business.
+In the back-half of the year, we are making investments in technology and marketing to set up the business for a successful 2016 tax year and beyond.
+We are gearing up this off-season, focusing on revitalizing our value leadership position in consumer DIY.
+We look forward to sharing more on our 2017 outlook in the coming months.
+Closing out on 2016, we expect full-year revenue of $137.5 million to $138.5 million, and segment margin in the 47% to mid-47% range, which reflects increased investment as we spend back a portion of our 2015 tax season overperformance.
+Second-half 2016 revenue will be slightly weighted toward fourth-quarter, as will segment loss as we begin to ramp up our investment leading into tax season.
+Transitioning to Wealth Management, second-quarter revenue was $76.1 million, down 6% versus the prior-year and below our expectations for the quarter.
+As <UNK> mentioned, the revenue miss was largely driven by an unforeseen decline in the back-half of the quarter in our variable annuity transaction revenue.
+To provide some context, June variable annuity investment volumes were down over 35% versus June 2015.
+This, coupled with declines in commission rates, as advisors have gradually shifted to our product options with lesser upfront fees, has pressured transaction revenue in the quarter.
+<UNK> noted that, thus far in July, volumes have bounced back on a sequential basis, and we are also seeing commission rates holding steady sequentially and are up year-on-year.
+Touching quickly on assets, advisory AUM grew 2% sequentially versus the first-quarter 2016, but was down 1% versus the second-quarter 2015.
+Advisory net flows were up $11 million, as advisors continued to battle client sentiment driven by volatile market swings.
+Total AUA was up 2% sequentially, driven entirely by market.
+Segment income for the second quarter was $9.9 million, down 7% year-on-year, and consistent with our outlook, as the team managed costs to offset the revenue shortfalls.
+Turning to the third quarter and full-year 2016, we have reset our advisor-driven revenue outlook, acknowledging the headwinds the business is facing.
+Our revised expectations take into account the following factors: second-quarter performance versus the second quarter outlook; transaction revenue, rate and volume variability, and market volatility.
+As it relates to market volatility, we have removed all market-related upside from our 2016 outlook.
+We are holding the S&P 500 flat through the end of the year, and have also assumed no Fed fund rate increases for the remainder of the year.
+Our previous outlook range had included S&P 500 appreciation in the back-half of the year and one Fed rate increase.
+As a reminder, a 25 bp increase is approximately $500,000 to $600,000 of revenue in segment income per quarter.
+Lastly, given environmental considerations, we have adjusted down our net flow expectations for AUA and AUM for the remainder of the year.
+Our third-quarter outlook for Wealth Management is revenue of $74.6 million to $78 million at a segment margin range of mid-12% to mid-13%.
+For the full year, we expect Wealth Management revenue of $303 million to $313 million at a segment margin range of mid-13% to low 14%.
+Finishing up on second-quarter performance with unallocated corporate operating expenses.
+Second-quarter expense was $4.5 million, down 4% from the prior year.
+This included approximately $900,000 in nonrecurring costs, including a severance charge of approximately $400,000.
+As we think about the rest of the year, we are increasing our full-year corporate cost expectations to a range of $19.5 million to $19.8 million.
+This increase is primarily the result of increased second-quarter severance costs, legal fees associated with ongoing and potential litigation matters, and recruiting related expenses.
+The key takeaway is our run rate expenses are in line with our expectations, and we have a path to the $12 million annual run rate goal in the first half of 2017.
+However, there are likely to be some one-time costs to achieve the reduction in run rate, and we will share these once they become more clear.
+For the third quarter, we expect unallocated operating expenses of $5.2 million to $5.4 million.
+With that, let's turn to consolidated outlook for the third quarter and an update to our full-year outlook.
+For the third quarter, we can expect revenue between $77 million and $81 million; adjusted EBITDA between a negative $2.3 million and a negative $200,000; non-GAAP net loss from continuing operations of $15 million to $12.6 million, or a $0.36 to $0.30 loss per share; and GAAP loss from continuing operations of $16.2 million to $14.8 million, or a $0.39 to $0.36 loss per share.
+For the full year, we are lowering our outlook as follows: we expect revenue between $440.5 million and $451.5 million; adjusted EBITDA between $85.8 million to $90.5 million; non-GAAP net income from continuing operations of $35.8 million to $40.9 million, or $0.84 to $0.96 per diluted share; and GAAP loss from continuing operations of $5.5 million to $2 million, or a $0.13 to $0.05 loss per share.
+To reiterate, our lowering of our full-year revenue outlook is driven by headwinds in our Wealth Management segment, which captures both increased variability in our transaction revenue trends, evidenced by the second-quarter revenue softness, and environmental factors associated with increased market volatility.
+Full-year outlook for adjusted EBITDA and non-GAAP net income have been lowered to reflect gross profit declines associated with the lowering of the Wealth Management revenue, as well as an increase in nonrecurring unallocated corporate expenses.
+With that, let me turn to call back over to <UNK> for his closing remarks.
+Thanks, <UNK>.
+In my short time with the Company, we've made substantial progress towards our transformation objectives.
+Our focus on the four Ds is already beginning to yield results, and we are excited about the future of the new Blucora.
+We will now move to Q&A.
+Hi, <UNK>.
+Good morning.
+Thanks for the question.
+Appreciate that.
+So, in terms of the order of your question, I'll sort of answer going in the same order.
+There are definitely some cyclical issues in this business that are not unique to what we have in HD Vest.
+As we've shared, we feel good about the future potential of that business over time.
+In fact, we had -- as we'd sized this business up as the year unfolded, we had felt that we had largely avoided some of the sector issues.
+They caught up with us a bit last quarter.
+We see some of these elements stabilizing.
+And we still believe very confidently that the impacts around the sector will be less over time on this business.
+Now to your point on the shift, we are definitely experiencing some short-term headwind around that shift.
+We love -- and we discussed this -- we love businesses that can be moving into a more recurring sort of revenue stream.
+It's stickier revenue; it's higher quality revenue.
+And the sorts of offers that clients end up in tend to be better for them over time.
+So there is an element of that.
+And we are encouraged and delighted, really, when we make that shift.
+Now in the short-term, though, there is some pain.
+We've done the math, and had done the math earlier, around -- do we like the trade from an economic point of view on top of liking the trade from a consumer point of view.
+And the answer is definitely yes.
+So we are going to continue to push on that.
+In fact, we'd like to see acceleration in the move to fee-based offers.
+We feel good about our offers.
+There's a lot of room to grow there, and that's the linkage in the conversation that I just led earlier around focusing on advisor engagement.
+And though the markets have not been generous and kind to anybody, we've got to focus on the things that we can control, and that's getting advisors more and more engaged with their clients, using the tools that we've built, because we know that they turn into future revenue.
+So, decidedly less at risk.
+If I have the option -- door one -- businesslike HD Vest, tax professionals, deep relationships with clients, used to being a fiduciary.
+Door two: typical IBD stuck in the trade-day broker business or rent-day broker business where you're paying for practices and looking to grow through that fashion.
+Sometimes you are in that mode, you are tempted to try to seek to generate -- to sort of drive your business by getting more and more tempted around buying and overpaying for practices.
+So we are not in that model.
+Now what it does, clearly, is put more pressure on us to get more creative on who we can find out of the 250,000 group of taxpayers that we can convince to become a wealth advisor.
+And there's a long -- there's a longer sales cycle on that.
+And then we've got the added need to be really good, and never better, at convincing people to move through that funnel to pass the test and become effective.
+Now the good news there is, first of all, we're not going to get tempted and do a bunch of dumb things around sort of manufacturing advisor growth.
+Second thing about that is, we are looking through that entire process -- Roger and the team are very focused on adding ever more science to that process so that we can generate net growth in advisors over time.
+We see no structural reason why we can't do that.
+But I think it's actually going to -- for me, it's very clearly an advantage, <UNK>.
+You get some issues short-term when it becomes more difficult to recruit; it looks like it's hard to do Wealth Management and that sort of thing, but it's a far better model than the alternative.
+And, over time, it's a good model.
+<UNK>, it's <UNK>.
+Look, I think it's just the dynamics of a sales process.
+And as <UNK> touched on in his comments, we're pleased that the process remains competitive and with multiple parties continuing to do work, and -- you know.
+Best intentions to get those done by today, but obviously we also want the best execution for our shareholders.
+So that's what we're focused on.
+And pretty much what <UNK> has said in his comments is really the update we can give at this time.
+Thanks.
+Thank you.
+<UNK>, why don't you grab the latter one and I'll come back to the first question.
+Sure.
+You know, <UNK>, we haven't given a lot of color on either InfoSpace or Monoprice, and we are going to continue not to.
+What I would say is, it's not really a end-year performance issue as it relates to the process; it's just the dynamics of a deal process, and trying to get folks to the finish line and get the right deal for shareholders.
+So I wouldn't read too much into the timing versus the performance.
+Obviously, we know the business has performed since we've owned it, so that creates its own challenges in a process.
+But as it relates to end-year, that is not our primary issue now.
+It's just getting folks to the finish line.
+<UNK>, do you want to take the first question.
+Yes.
+Thank you.
+And then thanks for the question.
+So, no -- I mean, big picture is absolutely no new strategy that would have generated that sort of delta in that month.
+It is a highly variable part of the P&L; more variable than we had anticipated actually.
+But, at the same time, that was the sort of dip we had not seen previously.
+It's fair to say, as I had shared upfront, though, that there have been some operational things that we've deployed, one of which we've actually brought forward some volume relatively significantly.
+There's another factor that brought forward some volume as well.
+And it seems to us that that had been a factor not necessarily just in June, but in the last couple of months, as advisors have absorbed new ways of working with us around annuities, which are going to be pluses over time, but also given the fact that they were able to close business much more quickly drying -- in Q1, and to some in Q4, drying up a bit the pipeline for us in Q2.
+So, <UNK>, I think what I would say is, you think about the revenue lines, fee-based and trailers are much more stable than transactions.
+Transactional revenue is based upon sales that are happening.
+And, quite frankly, we had something in June that we -- as we went back and looked over multiple years that we hadn't seen around variable annuities in that time period.
+So it did catch us a little off-guard.
+What I would say is, it has given us an appreciation around the variability of that particular line item.
+And so what I would say is, the forward outlook built in -- that variability as well as takes into account the performance through second-quarter.
+And therefore, I wouldn't say stability, per se, but I think, as we look forward, we feel that fee-based and trailers are pretty stable.
+Transactional has got a lot of variability, and we captured that in our go-forward projections.

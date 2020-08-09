@@ -1,0 +1,211 @@
+Thanks, <UNK> and good morning, everyone.
+Our results for the year exceeded the guidance we gave during the third quarter call, primarily due to the strong fourth quarter in Power Systems and cost control measures at both Sealing Products and Engineered Products.
+For the full year, consolidated segment profit was moderately above the high end of the range provided during our second quarter call after adjusting 2015 results for the impact of foreign exchange, acquisition expense and restructuring differences from the stated guidance assumptions.
+Notwithstanding this, 2015 was a challenging year for our Company like other industrial manufacturers.
+Oil and gas, steel, metals and mining, agricultural equipment and other capital goods sectors contracted significantly from the prior year, as a result of slowing economic growth and low commodity prices.
+Other markets that we serve, such as aerospace, nuclear, trucking and automotive were stable to moderately higher and some including semiconductor turned down in the second half of the year following growth in the first half.
+Government spending on ships and maintenance remained steady.
+In large part, our results for the quarter mirrored these macroeconomic conditions.
+In the fourth quarter, our consolidated sales were up 2%, and pro forma sales, which include the results for deconsolidated GST were about even with the fourth quarter of 2014.
+On a normalized basis, consolidated sales were down 4% for the quarter and GST's net sales were down 3%.
+Our consolidated adjusted EBITDA of $42.8 million for the quarter was up 4% from a year ago, and our pro forma adjusted EBITDA of $51.6 million was almost equal to last year's fourth quarter.
+Consolidated EPS of $0.30 a share was up significantly from the $0.15 a share reported in the fourth quarter of 2014.
+Contributing to the earnings per share improvement, is a 14% reduction in the number of shares outstanding compared to a year ago as a result of share repurchases and transactions related to our convertible debentures.
+Before <UNK> provides more details on our financial results, I want to give an update on several 2015 strategic initiatives important to improving our competitive position.
+First, we made very good progress on several important innovation projects.
+Over the past two years we've stepped up our investment in new product development, particularly in Sealing Products and Power Systems.
+Within sealing, we have successfully launched and continue to broaden a line of monolithic isolation joints for the pipeline market, seals for sanitary markets such as food and pharma, application specific products for aerospace and industrial gas turbines, and products to enhance the safety performance and improve the fuel efficiency of heavy-duty trucks.
+Power Systems has made great strides in the development of a new generation opposed-piston engine, which we call OP 2.0, designed to dramatically improve fuel efficiency and meet Tier 4 emissions requirements and position our opposed-piston engine technology with world-class performance in our output range.
+Testing of the working prototype engine is ongoing.
+In addition, Fairbanks Morse is pursuing entry into the commercial power market for medium speed gas and dual fuel engines and auxiliary systems through a set of commercial agreements with our partner MAN Diesel and Turbo.
+Second, we've also made significant progress in optimizing our manufacturing and service facility footprint and reducing cost, particularly in Sealing Products and Engineered Products.
+In Sealing, we successfully moved the manufacturing operations acquired from ATDynamics from Hayward, California to Stemco's Longview, Texas operations, yielding improved quality at lower cost.
+Stemco's distribution center largely completed in 2014, became fully functional in 2015.
+We're receiving some very positive customer feedback about our capabilities to support the full line of Stemco products with a single transaction in the bundled shipment.
+Also in Sealing, we've recently announced restructuring activities to reduce our cost in the UK by closing our Elland, West Yorkshire facility, while continuing to serve that market via our local distribution partners.
+In Engineered Products, we progressed on a number of restructuring moves that we talked about in last quarter's call that will result in the elimination of two plants through consolidation at GGB, and the exit from nine service and light manufacturing facilities at CPI.
+Upon completion, we estimate these actions would result in annualized cost savings in our Engineered Products segment of approximately $4 million to $5 million.
+<UNK> will provide more detail in a few moments about the restructuring actions at CPI.
+Third, I want to highlight our progress in integrating three strategic acquisitions in Sealing Products.
+Integration activities are on plan, and in aggregate, we expect results over the next two years to be in line with previously stated estimates that the three acquired businesses will contribute annual EBITDA of approximately $20 million to $25 million.
+In addition to our focus in 2015 on these three areas, innovation, restructuring and cost management and strategic tuck-in acquisitions, we also continued our efforts to improve operational supply chain and commercial effectiveness.
+Finally, I want to update you on the status of GST's acquisition -- sorry asbestos claims resolution process.
+As you may know in early January, the current claimants' committee and the future claimants' representative invited us to participate in ongoing negotiations to resolve the terms of claims resolution procedures that would be an integral part of any potential consensual settlement of the ACRP.
+We agreed to participate in negotiations for a limited time and the parties asked the bankruptcy court to postpone a hearing previously scheduled for January 6, and pause the expensive hearing and other legal preparation work.
+These negotiations have resulted in progress being made towards a potential consensual settlement.
+And earlier this week, we agreed to postpone the hearing until March 10, in order for the parties to continue negotiations.
+EnPro and GST continue to believe that the settlement with both the FCR and the Current Claimants' Committee would provide the best path of certainty and finality of the ACRP, provide for faster and more efficient completion of the case, save significant future costs and allow for the attainment of complete finality.
+However, there can be no assurance that the current or any future negotiations will result in a settlement among GST from both the FCR and Current Claimants' Committee.
+Because of the confidentiality agreements in place on these negotiations, we're not able to comment further on any details of the negotiation.
+We'll provide other interim updates.
+Now, I'll turn the call over to <UNK> to review our fourth quarter results in more detail.
+Thanks, Dave.
+You'll recall at the beginning with our second quarter 2015 earnings release, we began providing normalized net sales and normalized segment profit and margin information in order to provide greater clarity of organic sales and year-over-year earnings changes.
+Normalized sales and segment earnings adjust reported sales and segment earnings for currency translation, acquisitions and divestitures and restructuring.
+While I'll refer to both reported and normalized financial information, most of my comments on year-over-year quarterly and full-year changes from prior periods will be on a normalized basis.
+Our consolidated fourth quarter sales were $321.9 million, up about $6 million from the same period of 2014.
+Normalized sales declined 4% with Sealing Products and Power Systems each declining 3% and Engineered Products declining by 7%.
+In the latter case largely due to softness -- the overall comment is largely due to softness in North American oil and gas and general industrial markets.
+I will cover each segment in more detail in a moment.
+Gross profit for the quarter of $103 million was $2.9 million or 3% lower than in the fourth quarter of 2014.
+And gross profit margins decreased to 32% from 33.5%.
+Adjusting for the impact of the lower margin businesses acquired this year, the gross profit margin was 33.8% for the quarter, which in light of unfavorable volume in the quarter reflects the beneficial impact of restructuring actions and other cost control initiatives.
+The lower margins of the two businesses acquired this year, reflect their current margin characteristics, which we expect to improve overtime.
+As <UNK> noted, we're very pleased with the addition of these strategic bolt-ons and our integration progress and we expect these businesses to add considerable value relative to the prices paid within a short period of time.
+SG&A was down $3.1 million or 4% from the fourth quarter of 2014.
+Contributing to the decline were $3.1 million favorable impact from foreign currency translation and $3.3 million reduction in corporate costs, primarily driven by lower outside service expenses and lower incentive compensation accruals.
+Partially offsetting these reductions were $4.6 million incremental SG&A expense from acquisitions net of the GRT divestiture and higher spending on growth initiatives at Stemco and at Power Systems for the OP 2.0 new engine development project.
+Consolidated net income for the quarter was $6.6 million or $0.30 per share, up $2.8 million compared to net income of $3.8 million or $0.15 per share in the fourth quarter of 2014.
+As <UNK> noted, the earnings per share improvement reflects the reduced share count compared to a year ago.
+Average shares outstanding for the fourth quarter of 2015 were $3.6 million lower than in the fourth quarter of 2014.
+Adjusted net income of $9.8 million or $0.44 per share was up $900,000 or $0.06 per share from prior year.
+Adjusted net income has shown in the reconciliation of adjusted net income to net income scheduled in our earnings release removes the effect of several large discrete items.
+Sales in the Sealing Products segment were $185.4 million in the fourth quarter, up about 12% over the fourth quarter of 2014.
+Normalized sales were down 3% reflecting softer demand from oil and gas, truck parts, semiconductor and general industrial markets, partially offset by stronger nuclear market and aerospace sales.
+Segment profit on a normalized basis was even with last year and fourth quarter segment margins increased to 15.1% from 14.6%.
+The improvement was largely due to cost reduction initiatives and lower material costs.
+On a reported basis Sealing Product segment margins declined to 12.2% from 13.8% largely due to the impact of the margin profiles of the newly acquired businesses and acquisition integration costs.
+In the Engineered Products segment, fourth quarter sales of $70 million declined by 15% from the fourth quarter of 2014.
+Unfavorable foreign exchange translation accounted for about half of the reported decline, so normalized sales were down 7%.
+Strength in the European automotive market was more than offset by decreased demand for compressor parts and services, due to weakness in oil and gas markets in North America and the Middle East.
+Demand for bearings from agricultural and industrial equipment OEMs was lower in both Europe and North America.
+Normalized margins declined in the quarter from 13.8% a year ago to 1.6% this year, primarily due to the impact of the sales volume decline, which more than offset the benefit of restructuring and cost reduction initiatives.
+Restructuring charges in the segment were $4 million in the fourth quarter and $6.2 million for the 2015 full year.
+As <UNK> mentioned earlier, the charges was result of consolidating GGB's footprint from 10 facilities to eight, and reducing CPI's footprint by nine sites through either closure or sale.
+Approximately $4 million to $5 million of restructuring charges will carry into 2016, most of which pertains to facility lease obligations and severance costs.
+In the Power Systems segment, revenues decreased $2.1 million or 3% from the fourth quarter of 2014.
+The decrease was largely due to lower completed contract engine revenues, partly offset by higher percentage of completion revenues and service sales.
+Gross profit margin was up 1.6 points compared to the fourth quarter of 2014, due to stronger margins on engine and parts revenues.
+Material costs improved partly due to the benefit of the strong dollar on European sourced material.
+Segment profits decreased $1.2 million or 10% and segment profit margin declined to 16.3% from 17.6% in the fourth quarter of 2014, primarily as a result of higher spending on R&D for the OP 2.0 engine program, SG&A to support commercial growth strategies and $2.9 million long-term contract accounting loss provision related to the effect of the strong dollar on the multi-year EDF contract.
+Cash flow for the 12 months of 2015 was a use of $90.8 million compared to cash generation of $129.8 million for the full-year of 2014.
+The use of cash reflects the accomplishment of several of our capital allocation goals, including a share repurchase program, initiation of a dividend, purchasing the option for the outstanding convertible debentures and strategic spending on acquisitions and plant and equipment.
+Also contributing to the use of cash were interest payments related to the debt.
+To support these goals we borrowed approximately $62 million under our revolving credit facility during 2015.
+Our balance sheet remained strong with a net debt-to-EBITDA ratio of 1.6 times excluding inter-company debt, reflecting the strength of our balance sheet and the underlying stability of our cash flow.
+We announced yesterday that our Board of Directors authorized 5% in our normal quarterly dividend to $0.21 per share.
+Normalized net sales at the deconsolidated operations of GST and its subsidiaries in the fourth quarter of 2015 decreased by 3% compared to the fourth quarter of 2014.
+The decrease reflected softer market conditions, particularly in the Eastern US and Canada, due to the effect of lower global oil prices and reduced activity in the steel and mining industries.
+Normalized operating income, which excludes asbestos-related litigation expense in addition to impacts from foreign exchange was down 25% to $7.4 million from $9.9 million in the fourth quarter of 2014, primarily due to lower volume and an unfavorable product mix.
+Normalized operating margin was 13.3% compared to 17.2% last year.
+Asbestos-related expense was $9.1 million in the fourth quarter of 2015 compared to $62.5 million last year.
+You'll recall that last year's asbestos expense included an accrual of $57.9 million to reflect GST's agreement to contribute to the settlement and litigation facilities as proposed in the second amended plan of reorganization, issued in January of 2015.
+GST's adjusted EBITDA before asbestos for the quarter was $8.8 million, down 19% or $2 million compared to last year.
+GST's cash and investments balance was $271.9 million at the end of 2015, compared to $229.3 million at the end of December of 2014.
+The increase includes the collection of $21 million of asbestos-related insurance proceeds since December 31 of 2014.
+The remaining balance of GST's insurance receivable at the end of the fourth quarter was approximately $80 million.
+Now I'll turn the call back to <UNK>.
+Thanks, <UNK>.
+We'll close with a discussion of current market conditions and our outlook for the year and then we'll open the line for questions.
+As we described in the past, we don't have much visibility to future demand for most of our businesses and the current volatility in global markets makes industrial demand picture extremely difficult to forecast.
+In the near-term apart for some pockets of growth, we expect continuing volume pressure in several of our businesses that serve oil and gas, metals and mining, commodities in general and other global industrial markets.
+Currently demand levels in aerospace, European automotive and engine parts and service markets are stable and semiconductor is showing some signs of recovery from its decline in the second half of last year.
+However, overall soft conditions in many of our markets and the strong dollar continue to affect our results.
+For the year, subject to our limited visibility, we expect pro forma sales, which include the results of GST to be 3% to 5% higher on an FX-neutral basis.
+Much of the growth is attributable to acquisitions completed in 2015.
+Pro forma segment markets are expected to be comparable to 2015 with improvements in Engineered Products offset by declines in Sealing Products and Power Systems.
+Corporate expenses, which benefited in 2015 from the reversal of incentive compensation accruals from prior periods and other one-time items, will be closer in 2016 to the prior five-year average of approximately $33.5 million.
+Based on these estimates, we expect low-single digit growth in pro forma adjusted EBITDA for the year.
+Longer-term, we expect continued benefits from our strategic growth initiatives, including growth from recent and future strategic acquisitions and continued emphasis on improving operational efficiencies.
+Now, we'll open the line for your questions.
+Within Fairbanks, <UNK>.
+<UNK>, why don't you take that.
+No, I think, that covers it, unless you have a follow-up question.
+No, no.
+With EDF, we -- well, in Power Systems with EDF we have one big engine program which is the redundant backup generators for all the nuclear sites and you'll probably remember we won 21 of those total sites [where] there's 23 engines, I believe this is the number.
+And we're well into that program.
+I mean, we shift the qualification engine.
+We're working on the next set of engines.
+That's all 100% percent completion and we're on track.
+That schedule has not changed.
+They need those engines they originally said.
+The issue there is all FX related and as we've explained in the past, it's kind of, you got to kind of look through the accounting of that, because since it's all one contract, we have to take this multi-year loss provision and I think we explained before, we have a natural hedge that actually worked last year, in fact, we probably benefited in the segment slightly not much, because we procured more parts than the percent of completion that we did in EDS last year.
+However, because of the accounting rules, we can't look forward through the life of the EDF contract on all the other stuff that we buy, it's only -- it hurts us on the sale of EDF.
+But we can't take credit for the future reduction in procurement items.
+That obviously happens each year as we roll forward.
+So, we'll have to continue to adjust that loss provision for EDF up or down based on where the euro-dollar exchange rate is at the end of any given quarter.
+So, but anyway, but we have not seen and then we also sell fair bit of gaskets and sealing products through out of sealing into EDF from France and that business has been very steady.
+So, yes, the nice thing about nuclear power plants is that it's base load, so they always run.
+The weakness that <UNK> mentioned nuclear for 2016, it's just simply the kind of refueling schedule that we see in reactors where we have large reactor seals.
+That just kind of varies naturally year-to-year, just in terms of how many refuelings are scheduled and we had a pretty good year last year.
+This year is not quite as strong.
+That is not a share loss by any extreme and it's not -- quite frankly, it's not demand fluctuations.
+It's just -- I mean, it's not demand differences based on market, it's demand differences based on just maintenance schedule.
+But that's a pretty profitable line for us and so when it slows a little bit, it effects our margin.
+And I was going to say, $5.4 million of that is in the Engineered Products segment.
+Right.
+Well, I don't think really anything just, or sorry <UNK>, because we were doing it in the fourth quarter.
+So the fourth quarter is always slow in CPI.
+We didn't try to peel back and say I mean, certainly we were (inaudible) paying severance but that was happening during the quarter.
+I don't know, <UNK>, do you have a sense of whether we would have seen any actual savings to the bottom-line in Q4 on Engineered.
+No, it would have been in minimal in Q4.
+I would expect the run rate to be, to have all of the restructuring optimized by second half this year.
+Yes.
+I think we're probably in good shape.
+I don't think we're going to have to do more on top of this one additional facility that I just mentioned in CPI, which we'll know pretty soon, and it's a small service center, so it's not a huge deal.
+But beyond that, I mean the demand in CPI is weak, very weak, still relatively stable.
+And in GGB it's weak for everything except automotive.
+As you know automotive is about half that business from a volume perspective.
+So, I think once we get this restructuring behind this, and then we're continuing to drive pretty aggressively on some internal operational improvements, just in terms of effectiveness, I'm expecting improvement in Engineered Products this year, certainly improvements in margin with a relatively flat topline, if you exclude some of the volume from the facilities that we exited.
+Yes.
+I think if you -- that business Sealing is made up of Garlock, Technetics Group and Stemco.
+And so, in the Technetics Group that we expect that to be pretty solid.
+We'll get back a little on nuclear as I described, but we should gain in semiconductor.
+We've got the benefit of the new Fabrico acquisition that we did a year ago and that's exceeding our expectations on both the top and bottom line.
+So we expect that to be a solid part of that segment.
+Stemco, I wouldn't characterize it quite as weak as maybe you had interpreted, because yes, new builds will be down on truck and trailer side, but that's -- we're mostly an aftermarket company there.
+I think it's anybody's guess on what the aftermarket will really look like, it's just completely driven by domestic economic activity, so -- and the margins in the aftermarket are considerably better than the OE market.
+So even though -- and the builds were strong last year, so we expect a little bit of pressure on that side.
+On the other hand, we had issues with the TrailerTail business.
+Last year we talked about in terms of some quality issues and other issues in the field.
+Those are all behind us.
+We expect much better results out of acquisitions this year.
+The Air Springs business that we bought in the middle of the year, we've got significant cost reduction plans in place, mostly supply chain.
+Those are under qualification, those will be coming in, in the first half of this year.
+The margin profile already improved in Q4 of that business relative to what we bought.
+And we have -- our whole strategy in Stemco was to take advantage of adjacent products through our existing go-to market model.
+And so all these businesses that we bought have market share significantly below what our core wheel-in product market share is.
+And so we fully expect to continue gaining share in this -- in brake products as well as suspension products.
+And so that will be a net even with the market headwind.
+I think it'll be a net contributor to growth in seg.
+The main pressure in Sealing Products is still oil and gas related to Garlock, oil and gas and steel and mining and metals and so forth.
+That part of Sealing remains very, very weak.
+I mean the oil activity and commodity activity and steel activity globally has contracted significantly and we don't see that changing.
+So what we're doing in that businesses is we're managing costs very, very aggressively and that's where, as I mentioned in my prepared comments that we've made decision to exit the facility in the UK and to serve that market through distribution as supposed to our own operation and that will also happen in the first half of the year.
+So we're continuing to look in that portion of Sealing Products of what restructuring cost reduction that we can do.
+So we don't see that changing anytime soon.
+<UNK>, what do you way.
+Yes.
+It's less than -- it will be less than $1 million, <UNK>.
+Yes.
+That's exactly right.
+There's nothing unusual to that, it's just reverting back to what we would expect on an average basis.
+Thanks, <UNK>.
+We're assuming slightly negative in the aftermarket <UNK>, but quite frankly we have seen that yet.
+This year so far it has not been coming to -- it hasn't looked that way, but yes, we follow the industry publications and the industry forecasters and everybody is saying it's going to be down marginally.
+So that's what we've got built into our plan.
+Yes.
+I think that's a good assumption.
+<UNK>, I'll make a comment and if you can want add to it.
+I think what we're going to see is still some favorable dynamics on material costs as there will be -- there's typically a little bit of lag between the time we're looking at our material cost and when commodities come down, so that will continue to be benefit.
+Along with it, we expect that there will be and we're already seeing it increasing price pressure.
+So we're not building a plan that's based on any kind positive contribution differential between price and cost going into 2016 because of those pressures that we're starting to see.
+No.
+We still are looking selectively.
+It's not broadly across the Company, but we are -- we do have a backlog of opportunities that we are nurturing along the way.
+So it would be our hope that we'd be able to bring one or two strategic add-ons into the, into our Company over the course of the next year.
+Of course as you know, it can be very difficult to predict what will happen but we -- in Sealing Products, we continue to look at a number of opportunities and we'll see how those how those play out.
+But by no means are we putting anything on hold.
+We are being more selective and we're being very disciplined <UNK>.
+We have walked away from some opportunities that we like strategically because of pricing in the market.
+And as you mentioned, it's been a really strong M&A market over the past year, multiples have been up, we'll see if that moderates a little bit in this year.
+I would expect it would, but we'll see.
+So we are maintaining our discipline but we're still actively pursuing acquisitions as a vehicle for growth.
+As you know, the way we have viewed acquisitions in the past is no different than how we're looking at it now.
+It's -- if we believe we can accomplish a growth objective that's consistent with our strategy through an acquisition, we'll do that but we're not interested in acquiring just for the sake of growth.
+Yes, I think if we do reach an agreement in the near-term, what we're thinking is that, to step through all the legal requirements and what would be necessary to include the entire Company in this process.
+It would be probably re-consolidated and concluded sometime between the middle of 2017 and the end of 2017.
+Our current estimate is closer to the middle of 2017.
+But we've gone through a timeline on that <UNK>, but until we get an actual deal with the structure known, and so forth and so on, we can't get, we can't tighten up that timing any more than that.
+But certainly the end of next year, the end of 2017 is very conservative.
+But again as you know, if we do get a three-way deal, the economics become very transparent and very clear and the kind of certainty of finality also goes way, way up, so it's easy to kind of model and look at the Company on a fully, as if it were re-consolidated basis.

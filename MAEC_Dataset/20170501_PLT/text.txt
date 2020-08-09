@@ -1,0 +1,143 @@
+Thanks very much, Carina.
+Welcome to Plantronics' Fourth Quarter and Fiscal Year 2017 Financial Results Conference Call.
+Joining me today are Joe <UNK>, Plantronics' President and CEO; and Pam <UNK>, Plantronics' Senior Vice President and CFO.
+The information presented and discussed today includes forward-looking statements, which are made under the safe harbor provisions of the Private Securities Litigation Reform Act of 1995.
+The risks and uncertainties related to such statements are detailed in our most recent 10-Q, 10-K and today's press release.
+The complete set of prepared remarks of today's conference call are available on the Investor Relations section of our website.
+For the remainder of today's call, we will be providing only non-GAAP metrics related to gross margin, operating expenses, operating income, net income and earnings per share.
+We have reconciled these measures in our earnings press release and in our earnings quarterly analyst metric sheet, both of which are available on the Investor Relations page of our website.
+After the conclusion of today's call, the recording of the call will be available with information on our website.
+Plantronics' fourth quarter fiscal year 2017 net revenues were $209 million.
+Our GAAP diluted earnings per share were $0.59 compared with $0.39 in the prior year.
+Our non-GAAP diluted earnings per share were $0.81 compared with $0.64 in the prior year.
+The difference between GAAP and non-GAAP earnings per share for the fourth quarter consists of charges for stock-based compensation, restructuring and purchase accounting amortization, all net of the associated tax impact and tax benefits from the release of tax reserves.
+Please refer to the full GAAP to non-GAAP reconciliation in our earnings release.
+With that, I'd like to open the call for questions.
+Sure.
+So on the Enterprise side, you asked about guidance for Q1 and year-over-year.
+What we're forecasting is roughly single-digit growth in Enterprise overall.
+We do expect Enterprise growth for to --- the year to be a little bit above that, but that's our forecast for Q1.
+And Dave, we should probably point out, there were some anomalies in the first quarter of last year where we had -- this year, we have a continued FX effect of approximately $3 million.
+There was -- there's a one-time royalty we had in the prior year, and the guidance is lower mainly because of Consumer revenues in mono primarily.
+Yes.
+This is Joe jumping in.
+So I think we've talked about it in the past.
+On the stereo side, we have much more of a targeted approach.
+In other words, we play in niches of the stereo market that performance audio and our ability to actually transact a terrific phone call are actually valued.
+We continue to do well in the niches that we participate in.
+As you say, the real drop was in the continued drop-off in the mono market where we take share in that declining market, but we're continuing to see the drop-off that we've seen for the last couple of years there.
+Yes.
+A couple of pieces there, Dave.
+First of all, we continue to feel like we have a very attractive product pipeline shipping over the next year in all major categories, including, of course, consumer stereo that you cite in this case.
+So we do think there's a nice pipeline of products coming.
+Plantronics is very much a channel-fulfilled company both on the Enterprise and the Consumer side.
+We see e-commerce as being increasingly important but not direct e-commerce that you talked about.
+We'll continue to work through the major channels that you expect -- that you know of on the online side.
+And while any kind of a shift from brick and mortar to e-commerce might show little dips here and there, we do think the product finds its way to market pretty efficiently.
+That's great.
+I was going to add that -- you'd asked about share.
+And in mono Bluetooth, it remains at a record high 66% in U.S. retail, and that continued through the March quarter.
+So we've been gaining share in a declining market.
+On the stereo side, we don't track that data, but it's -- we believe it's probably in the low single digits.
+Joe mentioned the stereo products.
+We won several awards on those products.
+The BackBeat FIT --- BackBeat PRO 2, for example, won a major award.
+So we're very careful and deliberate about what we introduce on the stereo side.
+And we're also aiming for higher profitability there with these products as we bring them to the market.
+We're very excited about some new gaming products we have coming out later in the year.
+And gaming, as we pointed out in our prepared remarks, we're --- the revenue was up about 100% year-to-year.
+Yes.
+So in -- so first of all, we're incredibly excited about both of them, Dave.
+I mean, our software-as-a-service with both headset management and data insights to help people actually run their business more efficiently are being received extraordinarily well.
+What we're incredibly excited about, it is still early days.
+We're rolling out quite a few customers worldwide.
+From a contribution in FY '18, we think that it still will not be material this year, although we think that will ramp over time.
+Similarly, on the Soundscaping initiative, we've said that we expect to actually take that to market as an official product midyear, kind of the July, August time frame.
+And while early returns from our beta customers is very, very strong, we don't expect that to be a material contributor to revenue this year.
+Yes.
+I don't think we're disclosing a precise number of customers this quarter, although it continues to ramp considerably.
+We said we had over a hundred enterprises last quarter, I believe, that continues to ramp at a very nice clip going forward.
+To the modules, the initial version that we released last May was headset management, which allowed people to understand where all the headsets were in their enterprise, versions of firmware, change settings, understand last time, all the headsets were used and so forth.
+With the release of our Plantronics Manager Pro 3.9 here just a couple of months ago, we added additional modules onto that to help people actually run their business.
+So conversation analysis where they could actually understand the interactions in a conversation between an agent and a customer, along with usage analysis to give them deeper insights.
+The actual pricing, I don't know off the top of my head.
+I don't know if you have it, <UNK>.
+Maybe we should get back on that.
+Yes.
+We describe it as market-opening potential for us in terms of pricing.
+There's trial periods at the beginning for a lot of customers to try it out.
+The responses have been extraordinary, and we have some good case studies in the prepared remarks on channel partners, customers, distributors who have found it to be quite significant, just the version 3.9 that we introduced last quarter.
+Importantly, you'd asked about metrics around software.
+We will be introducing more metrics over time.
+We do -- the executive incentive plan does have metrics related to both Soundscaping and software tied to performance compensation.
+So that is an increasing focus of the board and the management team on meeting certain milestones over the next year.
+We continue to believe it's a very significant, longer-term revenue opportunity, but in the next year or 2, it's unlikely to be material.
+Yes.
+So we actually sell it in bands, but broadly speaking, I think you should be thinking, on a monthly basis, high seats 2 dollar-ish as opposed to pennies or tens of dollars.
+We don't actually break that down, <UNK>.
+As you might imagine, mono continues to decline a bit as a percent because the whole market is going down.
+As <UNK> <UNK> mentioned, we're gaining share in a declining market, but at 66% plus in North America, there's not a lot of share to gain.
+Stereo continues to be a nice story for us.
+It is gaining ground relative to mono.
+And we had just phenomenal growth with our gaming portfolio, and we expect that to continue.
+Although it's, unfortunately, of course, growing off of a fairly small base for us.
+Yes.
+In the Consumer category overall, I'd say the margins are roughly supporting a gross margin of low 30s, high 20s within the individual categories, so it really depends on -- by product.
+The longer a product is in the market, we can usually get some material cost savings out of that, which leads to higher margins over a longer term.
+Also, a higher-volume product will have higher margins generally.
+So yes, I would say it's difficult to draw a line between stereo versus mono versus gaming at this point.
+But as a portfolio, low 30s is about where we're at in gross margins.
+Yes.
+Much like the other products at Plantronics, we will have fulfillment being completely through our channel, although we will have an enterprise sales force that is very involved in stimulating demand.
+From a channel perspective, it tends to be the same distributors we already have great relationships with.
+The actual installers of the Soundscaping solution tend to be the AV resellers, the kind of people that put in audio-visual products into a high-end conference room, paging systems or other speakers and microphones into an open work environment.
+So we're very engaged with both resellers that are already Plantronics partners that also offer that service, along with some new channels to make sure we have good geographic coverage for them to actually do the installation.
+No, none whatsoever.
+Well, once again, I believe we've been pointing towards low to mid-single digit this year, so maybe a couple of points off the long-term plan at best.
+Once again, we think as Unified Communications deployments take a larger percentage of the market over the next couple of years, there tends to be a higher attach rate.
+So for every desktop of Unified Communications, you get a higher attach rate of headsets than you do in a legacy telephony environment.
+So as Unified Communications continues to build out going forward, and we're seeing signs that it is beginning to, that attach rate goes up, and the growth indeed accelerates.
+No update at this time, <UNK>.
+We --- as we mentioned in our comments, we continue to think the charges are without merit, and we're very confident of a good outcome.
+So that margin expansion would exclude legal expenses from GN.
+We are expecting them to be a little bit higher than they were last year, so our forecast excludes those.
+So to be clear, so we're expecting our non-GAAP operating margins to increase this year by another 50 or 60 basis points.
+And excluding the litigation, it would be higher than that.
+Yes.
+To the improved growth rate, it's certainly a part of that.
+As we've stated before, when there's a shift from a deployment being a legacy desk phone deployment where of course, Plantronics has great market share, but worldwide attach rate tends to be maybe in the 8% range of headsets to desk phones.
+When you move to a soft-phone deployment, be that a soft phone in a Unified Communications open office or a soft phone in a next-generation contact center, in either of those, the attach rate tends to go substantially up.
+So it's several times the attach rate that you tend to have from -- to legacy desk phones.
+Clearly, we do see Unified Communications deployments a bit on the rise, and I think you mentioned cloud-based Unified Communications, of course, being a bit of a catalyst of those deployments accelerating a little bit.
+So that's still in the early days of the unified communications market, but nevertheless, as that ticks up a little bit, it ticks the growth rate a little bit.
+Too early to say, but one of the pieces that's great about Plantronics is, of course, we have a broad, broad interoperability story with all of the major players in the market.
+So we tend to work -- if you name a unified communications or a contact center system, Plantronics tends to have good relationships, deep compatibility.
+So as one vendor's a little up and the other vendor's a little down, we tend to surf over the top of that quite nicely.
+But no, we have seen no material effect from either one of those.
+I'll let Pam take it, but -- whether we have a specific number there, but it's getting increasingly difficult to actually split the Unified Communications from the core legacy business.
+More and more companies tend to be buying a future-proof solution.
+They have a combination of legacy desk phones and soft clients.
+They tend to be buying more and more products that can float across either one of those and help with their transition.
+So I think you'll hear us talking less and less about the difference between core and UC, frankly, because it's harder to separate it out.
+And <UNK>, I just wanted to come back to the non-GAAP question.
+So we will be providing legal expenses, but we don't exclude them from our non-GAAP guidance.
+They are -- it ranges from quarter-to-quarter.
+We do expect that they'll be increasing this fiscal year as the case goes to trial.
+But we will let you know what the legal fees are if you choose to exclude them.
+Yes.
+A couple of quick things on that.
+First of all, over the last couple of years, we've really been building out a portfolio around the console gaming business.
+So building performance audio headsets with a phenomenal industrial design really targeted at the PlayStation 4, the Xbox One and a few other things, but that part of the market.
+Last year, we had a very solid portfolio out, and we had just phenomenal growth.
+We intend to continue building on that with both more products this year plus just the momentum of having had success last year.
+We have every confidence that will continue to be a very solid grower for us over the next couple of years.
+You talked about into the distant future, the gaming business is always an interesting one as consoles get refreshed.
+We're certainly not providing 10 years of guidance around gaming, but for the next couple, we see this as a growth area for us.
+We're actually really, really pleased with gaming, meaning geographically, we seem to be strong in all major developed markets.
+So we do quite well in North America, in Europe and developed parts of Asia where gaming products are selling.
+Well, we wish it were that rosy.
+Indeed, it is nice to be the market leader in mono.
+There are still fierce competitors out there in the -- that haven't fully exited that category.
+So while we do feel like we get a premium for our exceptionally good products, we don't exactly have a clear playing field either.
+Thanks, everyone, for joining us.
+If you have any follow-up questions, we'll be available afterwards.

@@ -1,0 +1,306 @@
+Thanks very much.
+Before we begin, please note that we will make forward-looking statements during today's call, which are predictions, projections or other statements about future results.
+These statements are based on our current expectations and assumptions as of today and are subject to risks and uncertainties.
+Actual results may differ materially due to various factors, including those described in today's earnings press release, in the comments made during this conference call and in 10-Ks, 10-Qs and other reports we file from time to time with the SEC.
+We assume no obligation to update any forward-looking statements.
+Also, during this call, we will discuss certain non-GAAP financial measures.
+A reconciliation of GAAP to non-GAAP financial measures is included in today's earnings press release, which is available in the Investor Relations section of our website.
+I will now turn the meeting over to <UNK> <UNK>, CEO and Founder of LivePerson.
+Thank you for joining LivePerson's second quarter conference call.
+We've been extremely active these past few months, executing on our goals to transform customer care and return to year-over-year growth.
+In the second quarter, we built on our strong messaging momentum in the telco space and began to really open up financial services with messaging expansions at 2 Fortune 100 institutions.
+We also brought the LiveEngage platform migration closer to the finish line, ending the second quarter with only 12% of revenue remaining on legacy.
+We're executing our plan and on target to end the platform transition in the third quarter with less than 5% of revenue on our old platform.
+It's been sandboxed to maximize profitability.
+With continued solid execution, we were able to exceed our second quarter revenue guidance and we're raising revenue guidance for full-year 2017.
+Dan will walk you through the details shortly.
+LivePerson also continues to push the boundaries on how LiveEngage can transform the way that brands connect with consumers.
+We are now seeing roadmaps where care, sales and marketing at large brands converge on LiveEngage.
+Through messaging and AI, our conversational platform is getting embedded into the operational layer of leading enterprises, not just in contact centers, but also across the field and back office.
+Entire business processes, such as payments, plan changes and lead gen, will be automated and rest on the LiveEngage foundation.
+One of the key ways we are delivering on the vision is by providing all the front-end digital touch points a leading enterprise brand needs to engage with their consumers.
+LiveEngage serves as the hub for all messaging conversations whether they originate on a branded app, SMS, within Google Search, within Facebook Messenger, the desktop or even mobile web.
+And soon, Apple Business Chat will be part of the LiveEngage ecosystem.
+On June 10, Apple joined the brand to consumer messaging movement by introducing Business Chat, a digital communication framework that will enable consumers to message with brand instead of call.
+Apple Business Chat is also making messaging extremely discoverable by embedding connections via Safari, Spotlight Search, Siri and Maps.
+With more than 700 million users and over 1 billion devices, we believe Apple will have a strong impact on the customer care industry, accelerating the speed at which brands around the world shift to messaging as a primary way to connect with consumers.
+LiveEngage is pre-integrated with Apple Business Chat, so that leading brands can rapidly scale to handle millions of these interactions alongside the messages they're getting from all of their other channels.
+We look forward to sharing updates on customer success stories once Apple Business Chat formally launches.
+LivePerson is also pushing the customer care industry forward with IBM.
+In June, we signed a major global partnership with IBM-Watson and Global Business Services divisions.
+This partnership features a joint go-to-market strategy and deep integration between IBM's leading AI platform and our best-in-class enterprise messaging platform.
+The unique combination enables leading brands across the globe to seamlessly power Watson bots and human-assisted messaging from a single platform at scale.
+IBM Global Business Systems (sic) Global Business Services also teamed up with LivePerson to create a cognitive care Center of Excellence that will deliver the implementation and consulting services talent to unlocking the full potential of the LiveEngage and Watson solution.
+LivePerson and IBM already have strong reference customers in Vodafone and RBS.
+We're jointly pursuing additional pipeline opportunities.
+You can hear more about this exciting partnership by listening to the remarks from IBM's CFO, Martin Schroeter on the IBM July 18 earnings call.
+In the coming years, a majority of brands will layer AI on top of messaging to capture huge efficiencies and significantly improve customer satisfaction.
+At our AI Summit at Carnegie Mellon University a few months ago, we saw firsthand the eye-opening moment for many business leaders when LivePerson's customers such as American Express; KDDI, which is one of the largest telcos in Japan; Kia Motors; RBS; and Vodafone described the benefits they are seeing from leveraging AI and messaging on the LiveEngage platform.
+For example, one of our telco customers in Asia achieved a nearly 90% containment rate of conversation by tuning a bot for a specific use case.
+A financial services firm in EMEA achieved up to 50% containment rate average across a wide variety of the use cases.
+Clearly, AI can deliver powerful results in care, sales and marketing, but the key to success is optimizing AI performance through integration with an enterprise-grade conversational platform that aligns with the consumer's journey.
+This approach also greatly reduces the risk of AI providing the same poor results as many of today's, in the past, what we called virtual agents and potentially causing a really bad customer experience and a decrease in brand loyalty.
+This is why leading brands are working with LivePerson.
+We built LiveEngage from the ground up as an open conversational platform to manage AI-powered messaging securely and at scale.
+LiveEngage delivers the tools that enterprise brands require to successfully scale bot deployments, from bot readiness to KPIs, analytics, sentiment measurements, reporting and training.
+Furthermore, with our Tango capabilities, brands can manage human and bot agents in tandem and seamlessly handing off conversations between the live agent and the machine.
+Bots provide instantaneous intelligent responses to consumer queries and human agents supervise those exchanges.
+We also have the expertise that comes from a 20-year history of deploying millions of agents under the most stringent requirements for the world's largest enterprises.
+We've perfected the framework for deploying human agents and we're applying that same logic and framework to the deployment of bots.
+One of the primary ways LivePerson showcases its unique ability to power conversational care, sales and marketing is through our preeminent executive-level customer summits.
+Whether it was at our T-Mobile Bellingham event, Carnegie Mellon's Bot Summit in Pittsburgh or one of the many regional satellite events held across the globe, we've demonstrated how LivePerson customers are effectively deploying messaging and AI to capture digital efficiencies and align with consumer preference.
+Demand for these customer events has repeatedly exceeded our expectations and has been responsible for the vast majority of our wins in 2017.
+One of the wins that came from these events is a leading European broadband provider that signed with us in the first quarter.
+This brand has quickly become a success story for LivePerson, fully aligned with our strategy to displace the 800 number.
+In fact, within a few short months, the broadband provider has leveraged LiveEngage to take out 30% of the voice calls made to its contact center.
+This is something that has really never been seen before, like we actually have proved that there's an alternative to voice, and we're going to take the 30% to much higher levels.
+And this customer joins a number of other successful brands in the telecommunications industry, including Foxtel, KDDI, Singtel, TalkTalk, Telstra, T-Mobile and Vodafone.
+They are all literally changing the face of customer care with LiveEngage.
+Case in point is the 7-figure expansion we signed in the second quarter with a leading North American telco.
+The upsell's further validation of the larger addressable market LivePerson is pursuing with LiveEngage, as this win marks the second 7-figure expansion with this customer since we began working with them a little over 2 years ago.
+This upsell also shows how eager consumers are to adopt messaging once offered as an alternative to voice and how readily brands recognize it and are willing to pay for the value that LiveEngage delivers to their conversational business strategies.
+Importantly, our traction with messaging and AI is spreading well beyond telecommunication.
+In the second quarter, several of the world's leading financial companies also signed on to transform how they connect with their consumers.
+One of these was a Fortune 100 financial institution that has increasingly been focused on building a digital connection with its customers.
+After attending several of our customer events and aligning around the LiveEngage vision, this leading financial brand just signed a 3-year, high 6-figure annual expansion on LiveEngage.
+The customer is already deploying web-based messaging, and it's followed a roadmap for the rollout of mobile messaging and AI in future quarters.
+Within a short amount of time, this customer could become one of our top 5 brands on messaging.
+Another exciting contract signing in the second quarter is the high 6-figure upsell at one of the top 20 global commercial banks.
+This leading brand will launch both web-based and in-app messaging later this year and is in the planning stages for layering bots on top of messaging thereafter.
+Other mid-to-high 6-figure messaging contracts signed in the quarter included one of Europe's leading online food delivery providers, a large North American credit union, one of the world's top global ridesharing apps and a large regional airline in the United States.
+The power of LiveEngage continues to be reflected not only in the new wins we are generating, but in the stats we're seeing across the customer base.
+Mobile usage is expanding rapidly on LiveEngage, an average of 35% interactions in the second quarter as compared to about 10% historically on legacy.
+Same-customer interactions on LiveEngage continue to grow faster than 10% year-over-year.
+The dollar retention rate remained greater than 100% over the trailing 12 months, a solid indicator of the future potential growth for LivePerson once our entire customer base is on LiveEngage.
+This positive traction with LiveEngage, solid execution by the field and lower attrition as we wind down legacy enabled LivePerson to exceed second quarter revenue guidance and raise guidance for the full year.
+The upside you're seeing in revenue also favorably positions LivePerson to incrementally invest in longer-term growth opportunities, such as our customer summits, our partnership with IBM and our upcoming work with Apple Business Chat.
+We are on track to exceed the low end of previously issued guidance ranges for GAAP net income and adjusted EBITDA; expect to maintain, if not improve, margins in 2017; and to position LivePerson for margin improvement as we return to growth in 2018 and beyond.
+LivePerson is in a unique position with an industry-leading platform, references from many of the world's highly regarded brands and expertise in deploying enterprise-scale, AI-powered messaging.
+We're also building an ecosystem that includes some of the biggest powerhouses in technology industry today.
+Facebook, Google, IBM and now, Apple have all chosen LivePerson to help transform customer care by bringing messaging to leading enterprises and taking down the 800 number.
+With this backdrop, we have line of sight to support our view for returning to growth in 2018 and be well positioned to capture a portion of an enormous greenfield market opportunity.
+I will now turn the call over to Dan, who will discuss our second quarter results and outlook in more detail.
+Dan.
+Thanks, Rob.
+LivePerson continued its strong start in 2017 in the second quarter by once again executing on each of its 4 key priorities.
+First, we are successfully transitioning back to a focus on selling from migration.
+Revenue increased 6% in the second quarter over the first, and we are targeting continued sequential growth in 2017, which we expect will position LivePerson for a return to year-over-year growth in 2018.
+Second, we added to our lead in mobile messaging by bringing Apple and IBM into our LiveEngage ecosystem and signing multiple new wins, including key expansions with 2 Fortune 100 financial institutions.
+Third, we are successfully winding down our legacy offering.
+As we have guided, we ended the second quarter with 12% of revenue on legacy.
+That puts us on target to meet our goal of completing the transition to LiveEngage in the third quarter with less than 5% of revenue sandboxed on legacy.
+Finally, we continue to realign our cost structure around LiveEngage.
+We expect to maintain, if not improve, our profit margin in 2017 and to position LivePerson for margin improvements as we return to growth in the years ahead.
+We feel good about the progress we've made to date, and we are raising our revenue guidance and low end of our GAAP and adjusted EBITDA guidance ranges for 2017.
+I will detail updated guidance later in my discussion.
+I will now review our second quarter operating results.
+Total revenue of $54.1 million was above our guidance range and consisted of B2B revenue of $49.6 million and consumer revenue of $4.5 million.
+We delivered $2.1 million of upside revenue versus the high end of our previously issued range of $51 million to $52 million.
+Approximately $1 million of the upside stems from better-than-forecasted performance from recurring revenue, and the other $1 million was tied to a positive upside from non-recurring items.
+Trailing 12-month average revenue for enterprise and mid-market customer was approximately $205,000 in the second quarter, in line with the trailing 12-month average in the second quarter of 2016.
+We signed 91 deals in the second quarter of 2017 as compared to 117 in the second quarter of 2016.
+The lower deal count reflects our LiveEngage growth strategy, which is to focus on a targeted list of leading global brands where we have the opportunity to drive transformation.
+Our strategy is working as LivePerson's average selling price increased versus the second quarter of last year across both existing and new customers.
+For the trailing 12 months ended June 30, 2017, the dollar retention rate for customers on LiveEngage exceeded 100%.
+This measure takes into account the full impact of upsells, down-sells, renewals and cancellations from our existing customer base.
+The B2B revenue breakdown by industry was retail at 25%; financial services, 20%; telco at 16%; auto at 14%; technology at 7%; and other at 18%.
+International operations accounted for approximately 37% of total revenue in the second quarter of this year.
+Second quarter GAAP net loss per share of $0.13 was below guidance of $0.12 to $0.10 loss per share.
+In Q2, we took a onetime charge related to the shutdown of our legacy data centers.
+We originally guided the shutdown for July, but we were able to accelerate the timing based on our execution around migrations.
+Excluding this $0.03 per share timing impact, GAAP net loss was within our previously issued guidance range.
+Adjusted net income per share of $0.01 and adjusted EBITDA per share of $0.07 were each within their respective guidance ranges.
+These non-GAAP measures exclude total charges of $2.1 million tied to winding-down legacy operations and aligning our organization around LiveEngage as well as $1.5 million of non-recurring litigation costs.
+Gross margin increased 290 basis points to 72% in the second quarter from 69.1% a year ago.
+Excluding a non-recurring charge in the second quarter of 2016, the gross margin increased 280 basis points.
+This improvement primarily reflects the diminishing costs of our legacy operation and lower production costs for LiveEngage as the platform matures at the enterprise level.
+Excluding non-recurring and restructuring charges, total LivePerson operating expenses decreased $2.9 million year-over-year.
+At the end of the second quarter, cash on hand, including restricted cash, was $58.1 million or $1.04 per share, approximately $6 million higher than the first quarter.
+Deferred revenue increased nearly 25% in the second quarter to $36.6 million from $29.5 million a year ago.
+LivePerson generated cash from operations of $8.5 million in the second quarter, and spent $4.3 million on capital expenditures.
+The company also spent approximately $800,000 and repurchased 105,000 shares of its common stock in the second quarter.
+An additional $18.4 million remains available under the share repurchase authorization.
+Turning your attention to guidance.
+We delivered solid financial results in the first half of 2017 and expect to build on that base as we complete the platform transition to LiveEngage and regain selling momentum.
+As a result, we are raising our 2017 revenue guidance to a range of $213 million to $216 million from previously issued guidance of $204 million to $209 million, an additional -- an initial 2017 guidance of $201 million to $209 million.
+We plan to exit 2017 at a run rate that positions LivePerson for renewed year-over-year growth in 2018.
+We are also raising the low end of previously issued 2017 GAAP net income and adjusted EBITDA guidance ranges due to the company's successful wind-down of the legacy infrastructure and realignment on LiveEngage.
+With the revenue upside, LivePerson is now in the favorable position where the company can deliver on its goal of maintaining, if not improving margins in 2017, while simultaneously and selectively reinvesting in longer-term growth opportunities.
+Rob discussed earlier the higher-than-anticipated demand we have been seeing for our customer summits and how these are starting to build our sales pipeline and fuel new wins.
+Given these positive outcomes, we're investing in the customer summits and expanding the cadence and scope of these events.
+We are also putting more investments behind our Apple Business Chat offering as well as IBM and other potential long-term partners.
+We think LivePerson has established a lead in the market and we want to expand that position.
+We will continue to drive for margin improvements in the years ahead as we return to revenue growth.
+Finally, with the wind-down of LivePerson's legacy data centers accelerated into the second quarter, we are updating guidance for the third quarter restructuring and severance charges to $200,000 to $400,000 from previous guidance of $2 million to $2.2 million.
+We continue to expect $6 million to $6.5 million of non-recurring legal expenses tied to IP litigation for the full year of 2017.
+I will now review our detailed financial expectations.
+For the third quarter of 2017, we expect revenue of $54 million to $55 million; GAAP net loss per share of $0.03 to 0, breakeven; adjusted net income per share of $0.04 to $0.06; and adjusted EBITDA of $7.1 million to $8.4 million or $0.12 to $0.15 per share.
+For the full year of 2017, our expectations are as follows: revenue of $213 million to $216 million.
+Revenue guidance includes a negative foreign currency impact of $1 million.
+GAAP net loss per share of $0.34 to $0.28, which includes $0.16 per share of non-recurring and restructuring items; adjusted net income per share of $0.07 to $0.11; adjusted EBITDA of $18 million to $21.3 million or $0.32 to $0.37 per share.
+Furthermore, as a percent of revenue for the year, excluding non-recurring restructuring and litigation charges, we anticipate gross profit to be approximately 73%; sales and marketing at 41.5%; G&A of 15.5%; and R&D at 18%.
+I also want to highlight that we have no major customer events planned for the third quarter due to the summer months while several events are currently scheduled for the fourth quarter.
+As a result, we expect LivePerson's adjusted EBITDA margin to reach into the low to mid-teens in the third quarter and then return to the mid-single to low double digits in the fourth quarter.
+Please refer to LivePerson's earnings release issued earlier today for additional details on our full-year 2017 assumptions.
+We have also published a supplemental presentation that reviews key points from the earnings call on the Investor Relations section of the company's website.
+As we move towards finalizing our transition, stability and predictability are returning to our business.
+LiveEngage is now at the heart of our revenue streams and messaging and AI are the focal points of every new opportunity in our pipeline.
+Our goal continues to be to return to year-over-year growth in 2018 and then steadily drive LivePerson back towards its historical growth rate.
+The key factors that will influence our ability to achieve this goal are fueling adoption of messaging and AI in existing customers, increasing dollar retention as we complete the migration and capitalizing on the pipeline that is building from our customer events and partnerships.
+Across LivePerson, our teams are aligned on these levers and we look forward to reporting on our progress in future quarters.
+With that, I will open the call to questions.
+Operator.
+So Rich, I can't comment to all the specific numbers that you were going back and forth on, but generally, what happened in the second quarter was a couple of components.
+From the migration of legacy to the LiveEngage platform, we were better in our attrition assumptions, so we had a better result from the attrition.
+The second piece is, as I stated in my script, we had about $1 million of upside from recurring revenue in the second quarter, and we had about $1 million of upside onetime non-recurring revenue coming from our customer base.
+So that's what's driving the upside versus our guide.
+I hope that gives some color and insight into the question that you're asking, but like I said, I can't commit to all the numbers that you're talking about.
+It's predominantly greenfield today.
+And we're not -- we're doing the customer care side of messaging, just a little bit more than -- maybe a little different than consumer to, let's say, someone who's in a ridesharing, like in the car would be more to a customer care organization.
+But we're pretty much greenfielding right now.
+There's small competitors out there.
+People say they have it in their product.
+But the strength of the company is we've been out there now for a little over a year with referenceable customers, and we've got some very big brands that are being very successful right now.
+And as I mentioned, one of these is one of the broadband providers in Europe.
+And we were able to achieve, within 90 days, taking 30% of their calls out of the voice system and move those calls to messaging.
+And we're about double the efficiency of voice.
+So if you went back a year and the strategy is to get rid of voice, to get rid of analog voice, we're now seeing customers that are -- have flipped the needle.
+And I think this customer, we can get much more than 30%, we're on track to really actually move voice out.
+So there are so many exciting things happening right now in the space.
+And then you've got all the companies like Facebook and the stuff we talked about, Apple.
+There's a lot of front ends out there that we're going to be able to do a lot of cool things with than we do today.
+So we've got some good leads right now, and we're just very focused on taking down as many deals as we can.
+It really depends.
+There's -- when you say -- when we look at digital heads in a company, there's usually digital leads.
+That could be in marketing.
+In some cases, the digital interface resides in care.
+In some cases, it's in the sales group.
+So -- but these are big, strategic things.
+It's -- if you saw what Apple spoke about at WWD, and there's a presentation that I recommend people to look at, about a 40-minute presentation, they're going to bring messaging encrypted on the device level.
+And they're putting it in Siri and all these things.
+So right, the implications are pretty major for a company as a whole to run business processes on device.
+And I think if you really looked at that presentation, you're right, it is a much bigger opportunity than just a care flow.
+We're talking about sales, customer care, marketing.
+All flows can go through that pipe into the device, so you are correct.
+So it all depends.
+Somebody sort of owns the digital strategy.
+Our -- one of the things we do is start to bring it all together.
+It's sort of a process we run, is to try to bring all the pieces together.
+Instead of just maybe there's one person who owns it, we bring care in, we'll bring marketing, we'll bring sales.
+And we put together a strategy that they can really execute on.
+So on the bookings side of things, we're happy with the first half of the year.
+As you know in the recurring revenue business, if you can get out of the year strong that helps you from a revenue perspective.
+And that's part of the reason that we were able to increase our guidance for the year.
+So happy with half-won bookings.
+And as you talk about the pipeline, one of the things that we try to make clear in our remarks is we've got opportunities between IBM, Apple and then our customer events, where we're actually investing some of that upside revenue back into generating more of that pipeline.
+Each one of our customer summits has been over-subscribed that we've done so far this year.
+As a matter of fact, we had an unplanned one that we held in the second quarter in Brooklyn because our event in Pittsburgh was over-subscribed.
+So we're pretty excited about these, and these are driving the pipeline and the quality of the pipeline along with our partners as well.
+Yes.
+I mean, it's -- when you think of those numbers and where we're headed, I think the deal size could be much more significant.
+We're -- strangely enough, it's such a major impact and yet, we're at day 1.
+We are doing some outbound.
+So once you get somebody on a messaging connection, it can be proactive to them like a month later.
+So it starts with an inbound query about something in support, care, and then they can go back out proactively in more of a sales environment.
+So we're just sort of scratching the surface on what can be done here.
+We're in both their iOS and Android apps doing SMS.
+Facebook as well.
+We're taking the traffic in.
+It's all a unified experience.
+So -- but I just want to point out, which -- this is the first time in history there is an alternative to voice, like there -- up to now, there's been real -- even chat, and this is what we saw, chat would get to about 10% of volume but it never had that impact.
+And we can actually see voice one day going away.
+And so that was our goal a year ago, and it's exciting for us as a company to actually see it happening.
+And so every one of our enterprises -- every enterprise in the world -- like I said, if I go couple of years from now, let's say, 5 years from now, I don't believe voice will be a primary channel.
+People will message their brand.
+And so this is just one example that shows it can work.
+And the customers love it and the brand loves it, so we're very excited about it.
+Okay.
+Thanks, Jeff.
+So just on the sandboxing piece, so at the end of the first quarter, we said we would be at 12% by the end of the second quarter.
+So check off the 12%.
+And then in the third quarter, we'll be at 5%.
+And we see a very good path there.
+So with that last 5% of revenue, that's for a number of different reasons that those customers will be sandboxed.
+But our expectation is to continue to, over time, to move them to the LiveEngage platform.
+We know not 100% of them will make it, but our goal is to continue to push.
+And as the product continues to evolve -- one of the things that helped us in the second quarter is our attrition was a little bit less from the migrations than we expected.
+So that was also a positive impact.
+And so in the last 5%, we're going to try to move them over to LiveEngage as quickly as we possibly can.
+The -- as far as going towards '18, we haven't given guidance for '18.
+We've been pretty transparent on our expectations as far as we want to get back to year-over-year growth.
+And as we came into 2017, we wanted to continue a sequential growth from Q1 to Q2 to Q3 and into Q4, and our goal is to continue that trend as we go into 2018.
+I can't give you specific guidance on what we expect to do it this point, but we have stated that we want to improve margins.
+We see an opportunity in front of us in the back half of '17 with some of the revenue upsides and investing in our customer summits, which have been successful in building quality pipeline.
+And then obviously, with our relationship with IBM, we see an opportunity there to invest in that partnership and other longer-term partnerships to help build our pipeline and our growth prospects from a revenue perspective.
+Hopefully, that gives you a little bit of color, but I can't commit to specific amounts at this point in time.
+There's some voice vendors on Apple's side, and so Genesys, Salesforce and one other, Nuance.
+And then on IBM, IBM's got many strategic relationships with many partners.
+I think the interesting thing with IBM is that we're very focused on the care space, and that's a very exclusive partnership with them to focus on that one area and bring our cognitive care offering to the market.
+Traditionally, they've participated.
+IBM was at our event in -- a cognitive event that we had at Carnegie Mellon University.
+So we'll see.
+We're putting events together now.
+There'll be other partners there, too, but we haven't announced anything yet.
+Yes.
+We have real-scale [back up] points.
+So at our conference that we did, this -- the AI conference at Carnegie Mellon, we had Vodafone showing what they're doing.
+RBS showed what they do.
+KBBI, a large telco in Japan, showed what they did.
+So yes, we're -- so the stuff we're doing is not tire kicking.
+We're actually doing it at scale.
+The interesting thing is when the -- when you put AI on our platform, it looks like an agent, it looks like a -- it just looks like a human agent.
+So we've got all these capabilities to manage it.
+Normal deployments of bots and why they're kind of tire kicking them is you put them on a website or maybe they're back-ending a messenger front-end like Facebook, and you don't have a lot of control over them.
+They run, and then you may get a report at the end of the day, and you're looking at it and trying to figure out.
+In our system, the bots actually -- you look at them in real time, and what our customers are doing is putting a live agent to manage the bots.
+And then the agents step in if the bots fails, they go back into the AI engine and will update question and answers so that the bots become better.
+There are things with timing and tuning that we do on the platform.
+So our platform, we built out some capabilities that enable a lot more control over the bot, so you don't have to kick the tire.
+Most of the time, when they kick the tires, it's because there's no way to sort of really control it and better it on a day-by-day basis, it can -- than how we provide on the LiveEngage platform, so that's kind of the interesting part.
+Yes, Mike, I won't give a specific number, but we're happy in the direction and the way things are going.
+One of the questions that came up earlier was about bookings.
+And as far as the expectations for the first half of the year, we're happy with where we are, gave us the opportunity to increase our guidance in the back half, not only bookings but obviously, successfully migrating customers over to the LiveEngage platform.
+So we're happy with where the productivity is, and we're continuing to push the business and build out our pipeline.
+We think there's a good opportunity in front of us as we move into '18.
+No, from a mix of customers.
+It's in -- from a mix of existing and new customers.
+At these summits, we have a combination of customer types.
+We have existing customers and new customers coming.
+And one of the best-selling tools is to have them talk to each other about their opportunities, what they're going through, how to implement.
+And the existing customers become some of our best reference customers.
+No, it's an added amount of volume because if they were doing chat, it's pretty much web.
+So we really expand the capabilities to the amount of interactions they possibly can take.
+What's great is that although the migration -- as I've said, I probably don't want to go through a migration again in the company's history, but -- I can say that with certainty.
+But we're on the other side of that, obviously.
+But now, we got this new platform.
+It's got a lot of capabilities in it.
+We've got an installed base that's using the chat capabilities, and it's just -- it's a focused group of leads.
+They have a relationship with us.
+They are all seeing messaging and AI and bots and -- as something strategic, and we got them on this platform that with, like a flip of a switch, they can get it.
+So now, it's just a question of educating them, getting them the opportunities -- what's the entry point.
+Is it SMS.
+Is it Facebook.
+Is it in-app.
+Is it web.
+Wherever that entry point is.
+Is it sales.
+Is it service.
+And so we just sort of keep working through that with each of these customers.
+The base has a lot of capability to grow, though, because we have some of the largest brands.
+And you're right, they're still on chat.
+We just took -- the interesting one is we had a -- one of our large enterprise financial services company, they were on chat -- chat web and -- for many years, 3 or 4 years.
+We migrated them a couple of weeks ago, no chat anymore.
+They migrated 100% to web messaging start, asynchronous web, and then we're going in-app and we're going around.
+So -- but they didn't migrate to chat.
+They migrated straight to messaging and we shut all the chat down.
+So that's the real interesting things that we see.
+It's -- sometimes they start live to live, and then we look at the -- we look at what we can automate.
+So every deployment, we'll have bots and AI, though.
+It's just what's happening.
+So even in this customer, we'll be putting bots in for different areas of interaction.
+So -- but yes, every one of them will have a mix of it.
+Every one of them.
+Thank you, and we will see you on the next quarter.
+Thanks, everyone.
+Thanks, guys.
+Bye.

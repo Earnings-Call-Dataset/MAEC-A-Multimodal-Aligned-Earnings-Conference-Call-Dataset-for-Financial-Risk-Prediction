@@ -1,0 +1,97 @@
+Thank you
+Good afternoon, and welcome to today's conference call
+Before we get started, I'd like to remind everyone that some of the statements we're making today are forward-looking in nature and involve risks and uncertainties
+Actual results may vary significantly from those statements and may be affected by the risks we identified in today's press release and those identified in our filings with the SEC, including our most recent Form 10-K, filed on February 27, 2017, and 10-Q filed on August 4, 2017. Equinix assumes no obligation and does not intend to update or comment on forward-looking statements made on this call
+In addition, in light of Regulation Fair Disclosure, it's Equinix's policy not to comment on its financial guidance during the quarter, unless it is done through an exclusive public disclosure
+In addition, we'll provide non-GAAP measures on today's conference call
+We provide a reconciliation of those measures to the most directly comparable GAAP measures, and a list of the reasons why the company uses these measures in today's press release on the Equinix Investor Relations page at www
+com
+We've made available on the IR page of our website a presentation designed to accompany this discussion, along with certain supplemental financial information and other data
+We'd also like to remind you that we post important information about Equinix on the IR page from time-to-time and we encourage you to check our website regularly for the most current available information
+With us today are Steve <UNK>, Equinix's CEO and President; <UNK> <UNK>, Chief Financial Officer; and <UNK> <UNK>, President of Strategy, Services, and Innovation
+Following our prepared remarks, we'll be taking questions from sell-side analysts
+In the interest of wrapping this call up in an hour, we'd like to ask these analysts to limit any follow-on questions to just one
+At this time, I'll turn the call over to Steve
+[004861-E <UNK> M
+And good afternoon, and welcome to our third quarter earnings call
+I'm very pleased to share our strong results for the quarter
+Our business is performing well as we capture the shift to the cloud and continue to win by providing unparalleled global reach, strong interconnection capabilities, and high service quality
+Robust demand on Tier-1 markets is driving higher utilization levels and we are investing in support of this momentum with additional builds and continued land purchases, particularly in our top tier markets
+This is complemented by targeted inorganic activity to expand our footprint and extend our scale into more key markets
+Strong execution of our strategy is translating to rapid growth in our customer base and our go-to-market teams added record new wins across every vertical with notable outperformance from enterprise and financial services customers
+As customers embrace hybrid and multicloud as the IT architecture of choice, our interconnection strength is resonating, and Equinix continues to outpace market growth and gain share
+Our healthy bookings in the third quarter were fueled by strong growth in our network and enterprise verticals, in particular strength in both the European and Asia-Pacific regions
+As depicted on slide 3 of our presentation, third quarter revenues were $1.152 billion, up 10% from the same quarter last year
+Adjusted EBITDA was $550 million for the quarter, up 10% over the same quarter last year, and AFFO growth was 16% year-over-year
+These growth rates are in a normalized and constant currency basis, and demonstrate our strong operating performance
+Interconnection revenues grew 17% year-over-year, continuing to outpace colocation revenues and reflecting the success of our interconnection and ecosystem centric strategy
+We saw a healthy pace of cross-connect ads with over 248,000 cross-connects now deployed
+Our Internet Exchange platform, the largest in the world, continues to see healthy growth with traffic volumes up 17% year-over-year, as customers begin to scale capacity in 100 gig port increments
+We also saw traction with the Equinix Cloud Exchange, now serving over 950 customers and delivering strong EMEA growth this quarter
+Our product strategy is leveraging our unique position in the market as a global interconnection platform for enterprises and service providers of all kinds
+We are currently pursuing opportunities to strengthen our interconnection leadership, including expanding the geographic reach of our services, as well as adding new features that provide customers additional flexibility, choice and commerce enablement support
+These new offerings are in beta and some will be coming out to market formally before the end of this year
+Our geographic reach is unmatched and continues to grow with our global footprint now extending to 190 data centers across 48 markets, comprising over 19 million gross square feet of capacity
+Our top-10 customers are deployed on average in 60 IBX facilities and represent the largest cloud, networks and enterprises in the world
+This metric is increasing and speaks to both our investment in systems and processes to ensure a globally consistent customer experience, as well as the needs of our customers for a distributed digital edge
+This quarter, over 59% of our revenue came from customers deployed across all three regions, up from 58% last quarter, while 84% came from customers deployed across multiple metros
+We remain committed to pressing our advantage globally through targeted acquisitions
+And early in the fourth quarter, we closed two new transactions in EMEA
+We purchased Itconic, a leading connectivity and cloud infrastructure solutions provider in Spain and Portugal for approximately $253 million
+This purchase adds five data centers, and extends our footprint into two new European countries
+It adds more than 400 customers including many marquee enterprise brands, and more than 100 network and mobile providers
+The deal also gives us access to key locations where subsea cables land and connect through Iberia, positioning us to support the growth in direct traffic between Europe, Africa and Latin America and further extends our leadership position in the subsea market
+We also expanded in Turkey, purchasing our second IBX in Istanbul for $93 million
+This owned data center further strengthens the Equinix's position in Istanbul, a strategic gateway between Europe and Asia with critical economic and geopolitical importance
+It provides Equinix with key capacity in a campus environment, and a growth path which enables us to address continued demand for colocation and interconnection services in Turkey
+The Verizon data center acquisition completed in May continues to gain momentum
+These assets have dramatically boosted our scale in the Americas, delivering strong performance out of the gate across all metrics
+We are addressing pent-up demand by unlocking capacity in key facilities, and have approved new expansions in both Miami's NAP of the Americas and in Denver and expect to move forward shortly with additional capacity expansions in the coming year
+We have made progress to stem the previous level of churn, and are enjoying significant success cross-selling into the Verizon assets from Equinix customers
+Our federal business is also progressing nicely, and we are growing the team to support this opportunity as we scale in this sector
+Integration of the Verizon assets is moving quickly and we expect to have the majority of this work done by year-end
+Early this quarter, we cut over from Verizon systems to the Equinix operating systems for all 29 data centers, marking a significant milestone for the integration program
+We recognize with pride the incredible planning and execution work that all teams have completed to reach this point
+As it relates to both the Telecity and Bit-isle integrations, we have now completed the vast majority of these efforts and have recognized substantial benefits from the expanded platform in our European and Japanese markets
+Now, let me make a few comments on our organic development activity
+We recently opened two new IBX's in Ashburn and Hong Kong adding capacity in some of our most important and interconnection rich campuses
+We have 22 expansion projects underway across our platform, half of which are in EMEA, currently our most utilized region
+We also purchased our Düsseldorf DU1 asset for $16 million and are progressing well with additional land purchases in EMEA and the United States
+Revenues from owned assets now represent 43% up from 42% last quarter highlighting continued progress in this metric
+Our capital investments are delivering healthy growth and strong returns as shown on slide 4. Revenues from our 99 stabilized IBX's grew 5% year-over-year largely driven by increasing cross-connects and power density
+These stabilized assets are generating 30% cash-on-cash return on the gross PP&E invested and utilization moved up to 84%
+Now let me shift gears and cover the highlights from our industry verticals
+We are pleased with our progress across our industry verticals as we see seed and curate high value ecosystems
+As digital business transformation permeates across all industries, we added a record number of new wins across every vertical this quarter through our channel and direct sales teams
+We also added 10 new Fortune 500 wins across enterprise and financial, including a multinational pharmaceutical company, deploying performance hubs for real-time analytics and data management and a global retailer integrating business platforms to enable in-store insights
+Now starting with the networks
+Our network vertical achieved its third consecutive record bookings quarter
+Growth in this vertical is being driven by cable and satellite TV operators as they upgrade their infrastructures to support increased traffic volumes and compute requirements driven by video-on-demand, streaming and other digital services
+In addition, many of our global carrier customers are extending coverage in multiple metros and adding Cloud Exchange to their portfolio of services
+Expansions this quarter included Charter Communications, China Telecom, Telstra and Verizon
+We also see momentum within the subsea space, Seaborn Networks and Aqua Comms two leading subsea cable operators in Latin America and EMEA are interconnecting their submarine cable systems within Equinix's Secaucus campus
+This solution will now create the most direct route between Brazil, New York, and London, three of the most vibrant financial exchange markets in the world
+In financial services, we continue to diversify capturing growth not only in capital markets but also in insurance and commercial banking sub-segments
+This vertical is experiencing strong digital transformation
+Firms continue to shift to cloud-based self-service and to distribute customer and risk analytic platforms across multiple locations
+In addition, privacy and compliance regulations are driving increased requirements to manage distributed data
+Customer wins and expansions included American Family Insurance one of the largest property and casualty insurance groups and Invesco, a Fortune 500 investment management firm expanding to support mobile applications
+In content and digital media vertical, we saw solid bookings led by the Asia Pacific region and healthy growth in gaming, e-commerce and publishing
+Globally, we continue to see expansion of the advertising ecosystem, enabling of the digital content in the cloud and acceleration of the transformation of content to the edge
+Additionally, Chinese content led hyperscalers are increasingly utilizing Platform Equinix to support their growing user requirements, placing content closer to the edge to reduce latency and optimize the user experience
+Expansions this quarter included Alibaba, Baidu, Blade, Netflix, Priceline and Tencent
+The cloud and IT services vertical saw a continued strength this quarter, particularly with software-as-a-service providers, expanding at Equinix including, Oracle, SAP and Salesforce
+com, all of whom can be reached with virtual private interconnections over the Equinix Cloud Exchange
+Cloud service providers are re-architecting their networks, further expanding their customer aggregation points with additional access nodes and bringing more core services to the edge
+We have the leading share of cloud edge deployments by a wide margin and our global platform is designed to meet the increasing need that many enterprises have for hybrid cloud architectures
+And finally, turning to the enterprise vertical, we saw strong growth in the majority of our sub-segments, led by EMEA, as customers begin to expand from single site, single cloud connections to multi-site, multi-cloud deployments
+Enterprise use of cloud connectivity continues to evolve, addressing numerous use cases including performance improvement, cost reduction, security enhancement and digital enablement
+New wins and expansions included Walmart which continues to invest in digital commerce, utilizing cloud deployments and Westrock, a Fortune 500 global packaging solutions provider
+Our focused channel efforts are paying off with 19% of bookings originating from the channel this quarter
+Partners are starting to build their value added services around our core offerings including Cloud Exchange and Performance Hub
+We are working together with these resellers to productize our joint offering to bring to our customers the benefits of the Equinix infrastructure enhanced by our partner services
+Examples of joint offerings include Datapipe delivering reliable voice-over-IP to Ontario Systems as well as NetApp and Datalink working with Equinix to serve a Medical Association customer with a multicloud disaster recovery solution
+We believe the continued development of our channel is a critical lever to providing us reach and scale to drive sustained revenue growth and increase our market share
+So, let me stop here for a minute and turn the call over to <UNK> to cover the results for the quarter
+Great
+That concludes our Q3 call

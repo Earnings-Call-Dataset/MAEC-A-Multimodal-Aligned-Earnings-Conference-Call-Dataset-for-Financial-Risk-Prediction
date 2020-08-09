@@ -1,0 +1,60 @@
+So with regard to the first part of the question where do you think the low-end broadband subscribers are going.
+We think they are increasing their speeds, they are moving up speed in the marketplace.
+There probably are some cord cutters, but we don't see that as being very significant at this juncture.
+We really do see them increasing their speeds.
+With regard to SDN, NFV, and the approach that we're taking, we've got several pilots in place today.
+We're looking at broader market or geographies for those customers, and we're really thinking about the reach that we get from the SDN and NFV implementations, versus the way in which we are traditionally going after the MPLS and ethernet marketplaces.
+And that ability to take our network and provide significant services, beyond just what's offered today in MPLS and in the ethernet marketplace across a broader geography is what's compelling for our customer base at this juncture.
+We believe that our prices are lower than the cable offerings, at this juncture.
+Of course that's during the promotional period.
+So I'll let our <UNK> <UNK>, our CTO, answer the first question about skinny bundles.
+With regard to the marketing efforts, and the greater intensity of the marketing spend in the third quarter actually, we're looking to not just drive that in the third quarter, but going forward.
+And so we are going to have a marketing, a set of marketing programs that are going to continue to drive our high-speed broadband businesses.
+But it's not all incremental.
+The fact is that we're taking some funds from other marketing programs that are no longer justified, and moving them to this increased spend as we go forward, and it allows us to continue to drive our broadband services, especially for those higher end customers.
+It would be improvement in the broadband net adds, and obviously that's the primary metric in the consumer space.
+And by the way, when we talk about improvement in the net adds, it's traditional where the bundled approach, as opposed to those pure plays.
+We still have to work some out of the system, with regard to the churn that occurs in our pure or standalone plays.
+We'll see that play out through the third quarter, and then we expect that we'll start to see an improvement in the subsequent quarters.
+So <UNK>, with respect to the revenue guidance, we still believe we'll be at the lower half of the range that we gave for the full year.
+The price increases that we expect to do, and by the way, we did price increases in the first half of the year, I just want to make that clear.
+The $40 million is what we effectively deferred, and decided not to do, that we had previously planned when we originally gave our 2016 guidance.
+Some of that will implement now, but the impact of that on the last half of the year is going to really be pretty immaterial.
+We would hope to have some increases in our sales of CPE, which would help improve our revenues somewhat in the back half of the year.
+And then on the wholesale business, especially on wireless backhaul, there continues to be pressure on wireless backhaul.
+It's very competitive, a lot of players out there, the wireless companies have alternatives, so it is continual negotiations going on.
+Of course we had a major production last year that we talked about this time last year, in terms of wireless backhaul agreements, but it's an ongoing issue.
+We think we can be competitive.
+We don't expect any major impacts this year, but these negotiations are continual with the wireless carriers, and it is very competitive.
+As for the more normal level of CapEx we can get to, we think there's $300 million or $400 million that come out easily out of $3 billion so we think the $2.5 billion level is certainly achievable, maybe less.
+It depends on what the opportunities are in terms of driving or investing in technology to drive revenue and margins.
+But right now, we think a more normal level being closer to the $2.5 billion mark.
+<UNK>, first of all, the mention of the reinvestment, we consider that in every, we look at cash flow of any kind.
+That's part of the consideration, so I wasn't trying to say, well that's a change.
+We look at, as I said, we'll look at stock buybacks, debt reduction, investment in strategic services and other areas.
+Acquisitions, we'll put the whole opportunity, all of the opportunities in there, but the focus again is driving long-term shareholder value.
+So where that might, just to give you an example, there may be an opportunity to invest in a certain type of technology, we believe could drive short near-term returns, drive real value for us, offset some capital expenditures, offset some of the cash investment in CapEx so that's the kind of thing we look at.
+But it's no change in what we said before.
+We really haven't made a decision.
+Certainly there are opportunities there to invest in the business, so there's no question about that.
+We have not made any decisions, as far as should we invest back into the business with some of the funding that comes from the sale of the data centers.
+We just haven't made those decisions yet, but those opportunities are certainly there.
+So as you would expect, in the marketplace, there's an over emphasis on speed.
+And even though speeds may be well above what the customers' requirements are, there's still that desire to get as much speed as possible.
+But we have an advantage that, for example, our cable competitors do not have, in that we are not shared and our cable competitors are.
+So what we really focus is on the real speed that the customer's going to get, and what they really need going forward from a broadband standpoint, and that seems to be very, very effective in communicating to our customers what their real needs are versus what the advertised speed might be, in the best of circumstances.
+And then of course, the other piece of the whole speed equation that we try to [tell] our customers about is the symmetry of speed.
+So we have upload and download speeds that are similar, and we are not seeing that in our cable competition.
+So we talk about that upload and download speed with our customers, and the fact that it's symmetrical.
+<UNK>, one thing I might point out on that as well is that we've always competed with the cable companies at a speed disadvantage, and we've always been successful adding customers over the years.
+And with the network expansion and the emphasis on the network, and improving the broadband speeds from a relative standpoint, we will be competing in a much better position than we've been at in the past, and again, we've been successful in past.
+So there's no reason to think we shouldn't be successful in the future, with the focus and the emphasis that we're putting on investing in the network, to increase our speeds.
+I believe CenturyLink is well positioned to help our customers realize the promise of the power of the digital economy that we've talked about.
+And we'll continue to invest in our broadband network and expand our broadband capabilities that we discussed today, that we believe will help meet our customers' needs, help them improve their lives, grow their businesses.
+We continue to see excellent opportunities to beat business customer demand for high bandwidth data hosting and IT and managed services.
+We think that we're going to see that demand grow in the months and years ahead.
+Additionally, we are focused on meeting the broadband and video demand we see for consumer customers, and are investing to deliver those services that they want and need, as we've also discussed today.
+We have a strong set of assets, we have the financial strength that we believe position us well to invest in our future, and to grow our business.
+So thank you for being on our call today.
+We look forward to speaking with you in the weeks and months ahead.
+Thank you.

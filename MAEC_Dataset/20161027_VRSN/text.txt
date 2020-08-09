@@ -1,0 +1,84 @@
+Sure, <UNK>.
+Let me try to just, I guess, factually state what's actually changed.
+First of all, the IANA transition was completed and the IANA contract between NTIA and ICANN was allowed to sunset.
+So ICANN is now accountable to the community under enhanced accountability mechanisms.
+Second, the term of VeriSign's .com Registry Agreement with ICANN is now extended to November 30, 2024.
+So, the next renewal cycle for .com will be in 2024, not in 2018.
+Third, the Root Zone Maintainer portion of the transition is now complete, as VeriSign will continue the Root Zone maintenance function it has historically performed but now under a new contract called the RZMA between VeriSign and ICANN.
+Fourth, there are two amendments to the Cooperative Agreement between VeriSign and NTIA.
+Amendment 33 discharges VeriSign from its Root Zone maintenance responsibilities and Amendment 34 approved the extension of the .com agreement to 2024 and gives NTIA the right to extend the Cooperative Agreement past its current expiration of 2018.
+It also allows NTIA to conduct a public interest review for purposes of making the extension decision.
+And also VeriSign still has the right, I would point out, under Amendment 32, to seek removal of the pricing restrictions in the .com Registry Agreement if we demonstrate to the Department that market conditions no longer warrant such restrictions.
+Those are the basic, factual changes in all of these various events of the last 30 days or so.
+So, if NTIA decides -- and it's their process and their decision -- but if they do decide to allow the Cooperative Agreement to sunset, as opposed to exercising their right to extend it -- so, I don't want to speculate on that process because that's NTIA's decision whether to sunset it or extend it beyond 2018.
+I can tell you that we agreed to work with NTIA as they go through their process and make the decision.
+However, I would point out one thing, which is that if there's a change to, or a termination of, or expiration of the Cooperative Agreement, the .com Registry Agreement itself contains something called the Cooperation Clause that states that VeriSign and ICANN will negotiate in good faith to amend the terms of the Registry Agreement, the .com Registry Agreement, as necessary for consistency with changes to, or expiration of the Cooperative Agreement, if that helps.
+I think I can answer part of that.
+I'm just trying to avoid speculating.
+But in your scenario, if you are assuming that the Cooperative Agreement is allowed to sunset and there is no other contractual relationship or provision or restrictions -- relationship between DOJ, DOC and VeriSign, then VeriSign would negotiate in good faith, as we are both required to under the agreement, with ICANN to effect whatever changes need to be effected as a result of the sunset of the Cooperative Agreement.
+So, that certainly would include pricing, but I don't want to speculate what that would look like today.
+I believe that's correct.
+It's a fact that the relationship that we have with NTIA is the mechanism by which the price caps are imposed on .com and that NTIA, where appropriate for its oversight through the Cooperative Agreement, consults with DOJ on issues of competitive issues, etc.
+So, if that went away there would be at that point -- if that's all that happened and the Cooperative Agreement sunsetted, there is no other contractual relationship that we have at this point.
+We don't have that type of relationship that you described upfront in your question.
+I don't want to speculate on what that process in detail would look like and, therefore, it's hard to say where it would come out.
+But it would, according to the language that's in the documents today, it would be the result of a good-faith negotiation between VeriSign and ICANN.
+Essentially, the DOC is not in the picture if the Cooperative Agreement is allowed to sunset.
+So, having said that, I would say that trying to determine what that will yield I think would be speculating.
+But I would observe that ICANN's policies at least are fairly consistent in how they've applied pricing across TLDs, certainly since the new gTLD program.
+There are a number of legacy TLDs, of course, like .com and .
+net and .
+org and others.
+But it's just difficult to speculate on a process that only gets invoked under a set of circumstances that are two years away.
+I think the main point is that the pricing imposed on .com at least since 2006 has come directly from DOC, so that mechanism goes away.
+But in terms of what happens and who has the authority, it's a good-faith negotiation between VeriSign and ICANN.
+That much is factual.
+Nothing other than it typically does slow down as the year progresses.
+Typically, at least historically we used to have very large registrations in the first quarter, so we'd get a bump in deferred revenue and it would decline sequentially over the year.
+More recently that bump in Q1 has gotten less and so some of the changes year over year have rolled through, but nothing material that I am aware of, <UNK>.
+So, we will give you Q1 guidance on our fourth-quarter call.
+But, again, the reason for the large range that we put in place this particular quarter is the fact that it was a fairly large amount of names that came up for renewal, or will come up for renewal in this quarter.
+And the cohort, or the type of names that they are, they are related to a Chinese investment community, we really don't have a tremendous amount of data around that.
+And so we are really waiting to take a look at those names as they come up for renewal.
+In the middle of November and early December we will get a better look at that, and once we have a better look at that it will give us a little more clarity into Q1.
+But we have always said, the Q4 is a relatively unique event.
+There's over 4 million names that are really coming up for renewal as a result of the demand that happened last year.
+And so we are really waiting to take a look at that before we provide guidance to Q1.
+Yes.
+I would say, as you have commented on, I think we've done a pretty good job of trying to keep expenses level.
+When you talk about year over year you are looking at the third quarter.
+And I think it's probably more appropriate to look at the nine months because things can move from quarter to quarter.
+And when I look at the nine months on a non-GAAP basis, expenses in total are down a little bit.
+You are correct there.
+But we are seeing some movement between the groups.
+So, we've seen an increase in our cost of goods sold.
+We've got more labor going on there.
+Sales and marketing, we've talked about that.
+It's been lower, but we do have an intention to put more money to work there and I would think that's really more of a timing function.
+R&D is down.
+We have reduced labor there.
+As we talked about last quarter, I believe we did close our Indian Development Corporation over there last year and so we are getting some benefits from a labor perspective through the P&L at the present time.
+And then G&A is up a little bit.
+We do have some slightly higher labor and we've incurred some higher legal costs this quarter.
+As far as your questions to the sustainability, we really try to manage the total expense of the Company, the entire $400 million number on an annual basis.
+And we try to allocate those dollars to where they are.
+Clearly, we try to gain efficiencies but at the same time we are not starving the business.
+And as you know, our business is relatively dynamic.
+As the cyber environment continues to evolve we absolutely want to make sure we put enough resources into maintaining the security and stability of the business.
+So, we will continue to be vigilant on that, but to date we've done a good job of keeping them in the range where they've been historically.
+Yes, a couple of data points.
+The names that were up for renewal this quarter was 28.7 million and the names that are up for Q4 are going to be 32 million names that are up for renewal.
+I would say it's too early for that at this point.
+Yes, we ran some marketing activities in the quarter around .
+net and they were actually relatively successful.
+And so the team is evaluating programs to see if we want to run some more of those.
+But we had a marketing program basically, and those numbers are roughly right, about 300 names came in from those marketing programs.
+The programs vary from program to program.
+This was more of a program we were looking to see if we were in a short-term program what would be the effect of it.
+Sometimes we run programs throughout the year, much longer-term programs and we are questioning the effectiveness of those compared to some shorter-rate programs, shorter-term programs, and this one was a relatively short program.
+We just wanted to understand the duration of programs and get some feedback as we think about 2017.
+Thank you, operator.
+Please call the Investor Relations Department with any follow-up questions from this call.
+Thank you for your participation.
+This concludes our call.
+Have a good evening.

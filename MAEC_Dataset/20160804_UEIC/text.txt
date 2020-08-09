@@ -1,0 +1,59 @@
+Well, we don't speak about the specific products at DISH, but obviously DISH is a major customer of ours, they are not a reported 10% customer.
+But they are in our top list of customers.
+So we are deploying with some of their next-generation products, yes.
+Well, yes, the ASPs typically are higher -- some of them are a multiple of what the prior product was.
+And again, it is all dependent on what they were deploying before.
+Some customers may have deployed in the past a relatively de-featured product which would make the next-generation product the significantly higher ASP.
+Other customers were already doing a radiofrequency product so the ASP game may not be quite as big.
+I think we estimate that it is roughly at least 2X in terms of the uptick.
+And it is both (inaudible) logical and in some cases it is the look and feel of the product.
+A lot of customers have opted for zero gap tools where the product doesn't have a gap in the case and laser etched well advanced keypad than they have done in the past.
+So, there is look and feel enhancements as well as technological advancements.
+They have added voice so there is microphones in the product, two-way RF.
+So there is a lot of new features in these products.
+Some customers have chosen ZigBee or a flavor of the ZigBee, RF4CE for their two [RF].
+Other customers in other regions of the world are using Bluetooth.
+But again, all of those are two-way RF products capability of things like voice and other applications.
+So yes, but this is a general trend across the world.
+It is not just happening here, it has happened here first and there are now a lot of companies here who are either in the midst of deploying or developing or planning for those next-generation products, but it is happening in other parts of the world, Japan, Korea, Europe, etc.
+So this appears to be a trend that has legs for the coming years.
+Yes, we don't give specific guidance on gross margins we just give guidance on top line/bottom line.
+But I will say this, and we've said it before, that as the smart customers transition and they start to ramp, that should help our gross margin rate.
+Because they typically won't get the pricing that a real large customer will.
+I mean it is good news and bad news for us in that sometimes when you are selling to large customers and they are buying large quantities it puts downward pressure on the gross margin rate and we have seen that.
+Even -- and what I consider a large customer it's -- from a public accounting perspective it's 10% customers.
+But you still have customers that are less than 10% but are still I consider significant.
+So if I were to look at our top five customers right now comparing Q2 over Q2 the sales have gone up relatively significantly, which is good news for us.
+The bad news is it puts downward pressure on the gross margin rate.
+But as <UNK> mentioned, Ecolink is going to start shipping in the back half of the year.
+Their average gross margin is higher than the Company's average, so that should help.
+So I don't want to put a timeline on it, but I think there are some positive trends that should help the margin rate.
+And the other thing I want to say about these implementations is that you can imagine that when you have got dozens of players in a time probably 50 to 100 players across the world doing these next-generation implementations, some of them will start slowly.
+Some of them will develop the product, put it through testing.
+They've got a lot of technology in this next-generation platform that they didn't have before.
+But if we use at least the initial sample of people who have done this, if they start off a little bit slowly then they monitor the progress.
+They see how engaged the customers are, how much it is lowering churn.
+How high -- how much people are engaging with the platform and doing more video on demand or other things.
+They look out the economic benefit they are getting.
+And if the early sample that we have seen is any indication, what happens is the operator will start slowly.
+But when they see the positive impact of what they are doing they then get more aggressive in deployment because they see the very positive impact it's having on their customers and on their financial results.
+So, if the early sample is any indication into the back half of this year, but more importantly into 2017, 2018 and 2019, in the coming years we should see quite a transformation of the industry where the operators all will begin moving to these types of platforms and then launching them more aggressively as they see the positive impact of the platforms they are launching.
+Yes, <UNK>, it is <UNK>.
+We just give one quarter out.
+Right now we are giving the Q3 guidance and then I will speak to Q4 in a few months.
+Yes, it is a good question, <UNK>.
+Mix is obviously extremely important.
+It is certainly true what you said that the security products that we ship typically will carry a slightly higher margin than our average.
+So, to the extent that they make up a higher percentage of the mix it will have an upward lift on our margins.
+However, if we have our two largest customers buy record amounts, that pulls it down a little bit.
+So this is one of the reasons why we don't like to provide long-term margin guidance because we could have extremely successful quarters with some of our largest customers and that would be good news from an earnings standpoint, but it would affect the margins negatively.
+Right.
+So these mix effects obviously can swing over a 6-month or 12-month period.
+But, it is certainly true that as medium to smaller size customers, if your top two or five customers have now affected the rest of the end of the industry and the medium to small size customers are moving to these next-generation remotes, typically the smaller customers will carry a slightly higher margin than the larger customers and safety and security products carry higher margins than average.
+To the extent those things make up a higher percentage of the mix it begins to make the margins move up.
+Okay, thank you all for joining us today and for your continued interest in our Company.
+Over the next few months we will be participating in a number of tradeshows including IFA September 2 in Berlin, IBC September 9 in Amsterdam; and Cable-Tec Expo September 26 through 29 in Philadelphia.
+We will also be participating in the 2016 Deutsche Bank Technology Conference on September 13 in Las Vegas and the Credit Suisse small- and mid-cap conference on September 15 in New York.
+So we are going to be on planes a lot this quarter.
+We hope to see you at one or all of these events if you can make it to all of them.
+Thank you very much for being with us today and goodbye.

@@ -1,0 +1,265 @@
+Thank you, <UNK>, and thank you for joining our call this morning
+We appreciate your interest in ADP
+This morning, we reported our first quarter fiscal 2018 results, with reported and organic revenue up 6% to $3.1 billion
+We're pleased with this revenue growth which was above our expectations
+Revenue growth in the quarter includes approximately 1 percentage point of pressure from the fiscal 2017 disposition of our CHSA and COBRA businesses, which were substantially offset by the benefits from foreign currency
+Our adjusted diluted earnings per share grew 6% to $0.91 per share and benefited from a lower effective tax rate and fewer shares outstanding
+Overall, this earnings growth in the quarter exceeded our expectations, and we're very pleased with our solid results, which <UNK> will walk through in more detail shortly
+New business bookings during the first quarter were down 3% compared to the first quarter of 2017. This performance was in line with our expectations as we begin to realize the benefits of our fiscal 2017 head count investments while we continue to manage through the effects of the regulatory uncertainty that has prevailed since last year's U.S
+elections
+Despite the short-term bookings pressure, we continue to be very pleased with the performance of our down-market businesses and the solid results in our multinational business
+As we communicated previously, we continue to expect our bookings growth to gradually expand back to pre-ACA growth levels as we progress through the year
+As a result, we continue to anticipate full year fiscal 2018 new business bookings growth of 5% to 7%
+On the client retention front, we experienced a 160 basis point improvement during the quarter, which was ahead of our expectations and saw positive growth across all of Employer Services <UNK>ets
+This performance is due in part to our continued efforts to upgrade clients to strategic cloud platforms as well as the investments we've made to improve the client service experience while also aided by the easier compare from our fiscal 2017 first quarter federal government OPM contract loss
+Our client upgrade initiatives continue to progress nicely and now we have more than 83% of our clients on our strategic solutions
+We also continue to make good progress on our Service Alignment Initiative where we now have 2,000 associates across our three new scalable service centers and 5,400 associates in total across all five of our strategic service locations, delivering service to clients across the HCM spectrum
+I'm proud of these efforts and of our speed to execute, which have enabled us to rationalize our footprint by exiting nine subscale facilities this quarter
+This represents a closure of 63% of our total planned exits under this initiative in just over one year
+The progress we are making with respect to new platforms and improved service is leading to happier clients and improvement in our NPS scores
+It isn't just our own internal metrics that are helping tell the story
+Last month, G2 Crowd, a leading business software review platform ranked our Workforce Now solution number one in satisfaction for payroll and HR management suites in their fall mid-market grid report
+In analyzing the reviews of actual users of the products, ADP was also named the leader in all five HR software categories: payroll, HR management suites, core HR, performance management and applicant tracking systems
+We're excited about the innovations we continue to introduce to the market that are helping clients meet the dynamic needs of an evolving workforce
+And it's gratifying to see these investments in HCM innovation continue to be recognized with prominence in the industry
+A few weeks ago, I had the opportunity to attend the HR Technology Conference in Las Vegas where few of these innovations took center stage
+For the third consecutive year at HR Tech, ADP was recognized with an HR Product of the Year Award from Human Resources Executive magazine, this time for our Compass Solution which is designed to boost the leadership and collaboration behaviors of our clients' employees
+In addition to this recognition, we scored a second three-peat at the show after our Pay Equity Explore Solution was named one of HR Executive's Awesome New Technologies
+Pay Equity Explorer is a powerful tool that combines data science and benchmarking and is built on the biggest data sect in HCM, the ADP Data Cloud
+It was developed to help clients uncover insights and identify potential opportunities when it comes to gender or race pay gaps, so they can stay competitive in the war for talent
+Innovation is a job that's never done
+While we are incredibly excited about the solutions we are delivering in the market today, we are even more excited about the future
+In September, we had the opportunity to brief HCM industry analysts on the new products and services coming out of our global product and technology organization
+At the event, we previewed our next generation of client-centered innovation including a low code application development platform that enables internal and external development teams to build agile country, segment and client-specific applications, leveraging the latest technology and delivered by the public cloud
+We also shared progress on our efforts to deliver next-gen payroll and tax filing engines which will further increase our differentiation in payroll and payments
+These engines are designed for multi country localization and will enable us to deliver paid and other services with greater flexibility based not only on the needs of our clients today, but also their evolving future needs as organizations are increasingly comprised of both full-time and contract workers
+ADP's unique ability to meet the needs of our clients today while anticipating their needs in the future have been hallmarks of our success over the past 68 years, and will drive our sustained growth in the years ahead
+Also before I turn the call over to <UNK>, I'd like to say a few words on our acquisition of Global Cash Card, which we announced in October
+At the core of HCM is ensuring employees are paid accurately, securely and in a timely fashion
+This is the DNA of ADP
+And with the acquisition of Global Cash Card, we are strengthening and expanding this core capability
+For those not familiar, Global Cash Card is a leader in digital payments, including pay cards and other electronic accounts
+The digital payment space is an exciting one for the future of payroll
+The increasing use of contract workers in the gig economy has driven the demand for these accounts, which can let independent contractors bring their various wages and expenses into a single account, providing the best picture of their financial well being
+From the employer's perspective, digital payments can be less expensive, more immediate and a more secure option than other means of payment such as paper checks
+With this acquisition, ADP becomes the only HCM provider with a proprietary digital payments processing platform which will be integrated with our aligned pay card solution for a seamless client experience
+We are excited about this acquisition and we're pleased to welcome the Global Cash Card team to the ADP family
+I'm proud of the efforts of our associates
+Our results in the quarter continue to reflect the enduring qualities of ADP, including a culture that is relentlessly focused on delivering a great client experience through best-in-class technology and unparalleled service
+Fiscal 2018 is off to a good start, and we look forward to turning over full attention to advancing our strategy and delivering on our commitments to all stakeholders, clients, shareholders and associates alike
+And with that, I'll turn the call over to <UNK> for a further review of our first quarter results
+Well, I think as I mentioned in my comments, I think this quarter, the improvements were really across all of our ES segments
+And as we've said in the past many times, retention can be a very volatile metric especially as you get into the up market
+But this quarter, we happened to have good news and we're very happy about it
+We think that is not just because of volatility but I think because some of the things we've been doing around investments in our service organization
+We see our NPS scores coming up and so, we're very pleased with that
+I would say that, to your question about the mid-market, we are not finished yet with the migrations of our clients in the mid-market
+We have about 2,000 left
+We still think that we'll be close to done, if not done, by the end of the calendar year
+We may have a couple of stragglers
+But we do expect to be substantially done by the end of the year and that does put pressure on our retention because as we've mentioned multiple times, and the same still holds true, there's quite a substantial difference in retention between our strategic platform in mid-market and our legacy platform
+So, what you're alluding to, we hope and we expect will happen a couple quarters from now as we get all these migrations and the mid-market behind us
+But that would not be one of the reasons why there was improvement in the mid-market as well as in the rest of ES this quarter
+I think the impact of that large loss was around 100 basis points last year
+So, the right way to look at this is about 60 basis point improvement in retention for the quarter
+Other than that it's getting really big
+And we're still pretty happy with 10% unit growth
+I don't think anything further to report there, but that's becoming a very large, we're close the 0.5 million worksite employees
+That's one of the largest employers in the U.S
+, if you look at it as, which we do, as an employer even though there are sub-clients
+Obviously there's more than 10,000 clients in the PEO, but it's a very large – the way we treat it for, the way we have our retirement program and the way we have our workers' compensation and benefits, et cetera
+We are a co-employer and consider ourselves a co-employer for the purposes of some of the responsibilities around employment
+And so technically, I think we're probably in the top five now in terms of size of employers in the U.S
+which is becoming a very large base
+But we feel pretty happy and pretty satisfied with that kind of growth rate
+So just to make sure we get our language clear here, because we have introduced some new terminologies
+So, when we refer to next-gen platforms, so we have our strategic platforms, which are Workforce Now, RUN, Vantage and our Global View multinationals platform
+We did start talking and we mentioned it in our introductory comments that we talked to industry analysts in mid-September about our next-generation platforms which we have only a handful of clients on today
+So, I just want to make sure I clarified the language there
+As we go forward, we'll be more careful about making sure that we pick the right language
+So, and I'm sorry, what was the rest of the question?
+So since we still have a lot of work to do in the up-market where we've really only begun the migrations, I think that's consistent with what we've said before in our publicly released information around the proxy contest
+I think we included there about 51% of our revenues being on our strategic platforms that I just mentioned the names of
+It's very important to note that when we talk about our strategic platforms, we have a number of areas of our business where there's really no immediate plan to migrate or move clients
+So for example, our insurance services, our retirement services, we have some international platforms that we're happy with that we're not planning any movement there
+So, we could probably in the future be able to provide some more color around the quote-unquote addressable market
+In other words, what part of our client base is really up for migration, if you will, but the right answer, the straight answer is 51%
+But we're not aiming to get to 100%, I guess is the
+We disclose a lot of information, again as we've been trying to communicate with shareholders about some of the things we've been doing here over the last five or six years
+We've disclosed, I think, some additional information about that
+And I think starting off with the fact that we've increased our innovation spend from around $150 million to around $450 million, I think or somewhere thereabouts in that neighborhood, so it's a significant amount of increase in our R&D investment
+A large part of that was in the next generation platforms that we just announced recently that we've been working on here in some cases for three to four years
+But we've also made big investments in things like our data cloud and things like our mobile solutions and some of the other products and innovations that we actually already have out in the market and are helping us, I think, with our efforts in terms of helping our clients and also helping drive new business bookings and retention and so forth
+So, that's a sense of what's happened with the innovation spend
+On the maintenance spend, for the sake of I guess government work, it's about flat
+So it's increased slightly
+But again, in the world of some inflation, the fact that we've held that constant, we see that as a good news story
+It was a conscious effort to really shift the mix, if you will, in the balance of our spending to more innovation and less maintenance
+A lot of our maintenance spend is focused on platforms that serve tens of millions of employees that get paid, both on our tax engine and our payroll engine
+And so as we develop these next generation technologies, when we retire those legacy platforms, which is a ways down the road, then obviously, we would expect actual decreases in maintenance spend
+But for the last several years, this has really been a story of increasing the spend and making sure that that spend is focused on innovation while we build out the necessary platforms to move clients to and then reduce the spending on those legacy platforms
+We have retired I think it's around 13 legacy platforms
+So, it's the first time in a long time at ADP that we've actually retired things
+So, it's not like we haven't made any progress, but those were relatively small dollar items in terms of the overall maintenance spend
+The really big chunks of spend are on some of our large scaled legacy platforms that service, by the way, very well and are very efficient, very secure and very reliable
+And we have no plans to get off of them in the next three to six months or any kind of timeframe like that
+So this is a, as we always say, this is an evolutionary process, not an overnight change
+So, I'm going to let <UNK> maybe go through a few of the numbers here
+But just quickly on the hurricanes and <UNK> will give you a sense of impact
+Clearly, it had an impact on the business
+But I just want to take a moment to also point out that these were massive storms, especially in Houston and in Puerto Rico
+We have a decent sized business in Puerto Rico
+We obviously have a very large presence in Texas and in Houston specifically
+And what our associates and our infrastructure people did to be able to continue our business, not necessarily as usual, but to make sure the business went forward and that we served our clients was nothing short of heroic, including flying airplanes from Tampa when no other planes were flying into Puerto Rico to deliver supplies to our associates but also to deliver payrolls to the businesses that were actually still functioning and still wanting to pay their people so that they would be able to actually have money for, in obviously what was an incredible crisis
+So, the fact that you're asking the question, I think shows the strength of ADP that we continued to perform and to deliver business as usual in the face of what was obviously a very, very challenging situation
+I think <UNK> maybe has a little bit of color on the numbers
+And just to point out, there have been times in our history in the PEO where it's been even higher than this
+So as <UNK> said, it really depends on the general health care inflation environment
+It's clearly not sustainable from a – it's not just about our PEO or our own company, but this is why there was healthcare reform to begin with, that you can't have this kind of healthcare inflation for a long period of time, because it just doesn't work from an economy standpoint
+It becomes the entire GDP eventually
+So, it's safe to say that this is a number that has to, by definition, maybe not over a quarter or two or over one year, but that number has to at some point converge or regress back to the mean
+But we have had times where we've had even bigger differential between worksite employee growth and our pass-through revenue growth
+And this is probably from a three or four year standpoint, this is probably the highest it's been and it's probably in line with what you're hearing out in the world, right
+Which is healthcare inflation's picking up a little bit
+We'll try to help with that, but again, what we encourage people to do is to look at Employer Services margins and profit growth and the PEO's margins and profit growth
+Because what we're focused on is growing EPS and creating value for our shareholders
+We're not fixated on a specific margin number even though we realize that the margin number is important to the overall economic model and to actually building a model that works
+Right
+Exactly, I mean that's ultimately the – growth in Employer Services and profitability Employer Services and growth in PEO ultimately would drive return on invested capital and that's really the right way to focus on the business
+As you know, our PEO business is our most profitable, most successful, best business
+So, for us to get overly concerned about mix and what impact that has on the overall margin, I realize it's something we have to address and we have to talk about and help people with their models, but it's really not the right way to focus on the business
+One last thing, because you did mention about the distraction on the – I just wanted to answer that question because others may have the same question
+I think the way I have been, had a lot of investors asking is the same thing, because there's a lot of concern about the distraction of the proxy contest and I would say that it's an extremely high distraction for an extremely small group of people
+As you can see from the results of this quarter, it did not distract our associates or our sales force
+I think it's probably, it's both
+I think we had, we obviously feel better about what's going on with retention and I think the trends in the business
+We got a little bit of help from, even from float income as you mentioned because that actually flows into our top line as well as into our bottom line
+But I think you're correct that that just happens to be the way the numbers have fall out as well
+So I think it's both things
+I think that one of the things we've been as we've been kind of going out talking to folks, making sure that this is an opportunity now to make sure everyone understands that the starting point for margins in terms of the amount of room there is for improvement was larger in the small business market than it is in the mid-market
+So we have a successful good business in the mid-market including healthy margins
+We do think that based on what we see around retention potential because the real, one of the really important improvement to the small business division was the rise in retention which has a fairly big impact in that business on margins because the amount of business you have to sell, which brings with it sales cost, implementation cost, is less to achieve the same growth objective if you will
+And so that was an important part of that picture, if you will, in small business, the improvement in retention
+I am hopeful, based on what we're seeing so far, that we are going to experience good improvements in retention in our mid-market as well once we're through migrations all of our clients on one platform
+Better retention should have the same impact that it had on SBS in the sense that you have sell that much less business in order to achieve the same growth rate or you can grow faster, like it's either you get the best of both worlds that you can choose which way depending on market conditions you want to move
+But the absolute starting point is important as it is always in any situation
+And again, we don't give specifics sub segment data if you will
+Neither do any of our competitors, I would just point out
+But the fact is the margins are higher
+They were higher to begin with in mid-market and the replatforming is really about strengthening our competitive position, driving faster growth and hopefully some modest improvement in margins as well because we do expect to get higher retention rates in the mid to long term as we get all of our clients onto one platform
+Yeah, and think I also want to point out again, I want to say it one more time that clearly some of the pressure we're experiencing is from investments, because we have been investing in our sales force for example
+But it's just important to note that some of what's happening in terms of these numbers is still these mathematical grow-overs and comparisons
+Because last year, in the first half of the fiscal year, so the last two quarters of the calendar year, we had almost 20% operating income growth, and then in the last two quarters of the fiscal year, first two quarters of the calendar year, because of the ACA grow-over in the comparisons of having lapped the revenues, the revenue comparison, we ended up having the numbers go in the opposite direction
+And the two quarters that we're in right now, the quarter that we're just reporting plus the next quarter, are really mirror images of the first two quarters of the calendar year
+And then as we've said multiple times in our guidance, our second half of this fiscal year gets back from a margin standpoint, from a growth standpoint, from a bookings standpoint to a more reasonable normalized place, if you will
+So unfortunately the way – you guys know this better than anyone else – like whenever, whether it's an acquisition or ACA or some other factor, you have to really look beyond that to understand what's really happening beneath the covers
+And so we had 12 months of easy comparisons, and then we had 12 months of hard comparisons
+And we have, I guess right now, a couple more months before we get through those difficult comparisons
+Well we hope, we do for example invite clients on a regular basis to visit our Innovation Center in New York City in Chelsea to kind of get first hand knowledge of some of the things that we're working on
+And it's not just about the platform
+We have other things that we are working on as well that we share with our clients
+So obviously, part of that is an effort to make sure the clients understand our roadmap and so that they stick with us as we get through product development and then eventually a transition to our New York platforms
+I think that would be true in each of our business segments, but it's obviously very important in the up-market enterprise space where the client lifecycles are very, very long
+So we have very high retention rates in our up-market business
+Client stay 15 to 20 years on average
+And obviously if they are staying with ADP for that long, that means they've already been through multiple changes in technology with ADP over the years
+So this is just another evolution if you will, which makes the products better for them, easier to use, easier to service, easier to upgrade
+So these are all, I think, part of leveraging technology, which is one of the central themes that we've had here for the last five or six years
+So we're really trying to do what ADP's been doing for many years with a slight change in emphasis, with greater emphasis on product and technology than maybe historically we had had 5, 10, 15 years ago
+So the second part is a tricky question, because the way it gets shared, if you will, is it makes our company stronger
+It allows us to, for example, theoretically, to be more careful with price increases
+None of which – so I guess the answer is, we haven't changed anything
+Like it hasn't – if rates were as you know because of the way our portfolio is laddered, even though we felt multiple years of pressure on the downside, we are getting a little bit of help here on the upside
+But there's really, this isn't like an overnight, and I don't mean overnight in the sense of rates
+But because of the laddering, there's not that kind of dramatic of a change that we are all of sudden that it's raining money out of the helicopters and we have to figure out what to do with it
+But we definitely appreciate it
+It's better than it was when it was going in the other direction
+So it's all positive
+So I think historically, I think it probably make us stronger, more competitive
+But we really don't – there's no pricing mechanism
+We didn't raise prices, when interest float income went down and rates went down
+And we don't plan on lowering prices when it goes up
+I guess to be completely direct
+And, <UNK>, just to add, just to be even more clear, we lost $300 million in float income and that's assuming that the balances have stayed flat, but the balances actually grew from about $15 billion to over $20 billion during that period of time
+And I am thinking back to like 2007 and 2008 when we peaked in terms of our float income
+And so there's a long way to go to get back to that $300 million and that would not be even adjusting for inflation and for growth
+And as <UNK> just said, we don't have those kinds of arrangements
+We didn't increase our prices when that was going on
+So we managed to improve our margins and grow our business in the face of that kind of headwind
+And so I think it feels fair to us to now enjoy the fruits of a better environment on a go-forward basis would be the way we would look at it
+We never said there's a new version to an up-market product
+And so you shouldn't say it either
+So what we built was, we built a platform on which we can build apps that could serve a number of different clients
+It could be used globally
+It could be used in the up-market and frankly someday, can be used in the mid-market
+So we're not ready
+We shared a lot of information with industry analysts and we're trying to share as much information with all of you without sharing so much information that it creates a competitive problem for us
+And so we're not ready to say exactly what we're doing and where we're going
+But I can tell you that the benefits are obviously usability, speed to change and speed to development, cost of maintenance, not to mention cost of development
+So there are a number of benefits that we will get from our product development efforts
+And that's really only talking about the low code development platform
+We also have two very large investments in back-office systems
+So this is our gross-to-net payroll engine and our tax engine as well
+There we expect and the plan is to have that be completely transparent
+These engines are back-office engines that are really not visible to the clients
+They just, they create outcomes
+The front ends are Workforce Now, Vantage, and some of our other front-end products
+And so there's really no expected impact assuming that we execute well in the kind of transition, if you will, to a new gross-to-net payroll and also tax engine
+The expectation for improvements, though, are fairly significant in the sense that we'll have a lot more flexibility around the things we can do around payments
+So we may choose to, we may not necessarily do it, but we'll have the ability to do same-day payments, real-time payments
+We'll have a lot more flexibility around speed to make changes, whether they're statutory or competitive changes in our systems
+And then the cost of maintenance and the cost of support will go down significantly based on our business cases that we have for these back-office engines
+So these are really modernization efforts because those platforms serve us incredibly well today at high scale, high reliability and high security
+But we believe based on our business cases that obviously, whether it's two, five, seven years down the road, that new technology can help us leverage those services that we provide in a much more efficient manner
+Well the impact of the acquisition would be zero because it's zero
+It's a great business and it's a good-sized revenue business fortunately it's around breakeven is the way we would describe it
+So it's not a huge drag on our earnings and it's not a huge help
+It has a small drag on margins obviously because at breakeven, and with some reasonable revenues, it doesn't help our margins
+But I would say no impact in terms of EPS guidance from acquisitions
+And the other, I'm sorry the second part of your question was?
+I think for bookings growth, what we try to look at is the noise in the system has been pretty significant in the last 24 months because first, we had ACA and then we didn't have ACA
+So I have to preface my comments by saying, it hasn't been exactly business as usual
+But in typical business as usual for ADP, we would have a head count increase, accompanied by a productivity increase of our sales force, which would lead to our sales result
+And so the mechanisms that we would, the buttons that we would push to try to increase or improve our new business bookings would generally be around increasing our head count, or our capacity if you will of sales, because we could also spend money on digital marketing and other tools that make our sales force more efficient
+And then what can we do around products to drive the productivity, because some of the productivity is just like in any business, we expect our sales force to do a little bit better each year
+But we also try to give them better products and more things to sell so that they can also grow their productivity that way
+So one of the things we did last year is, in the face of the challenges we were having, we decided to actually invest in head count
+We'd had two or three years where we were able, because of the tailwind of the ACA, to put less into head count because we were getting more from productivity
+And we opted last year really to, in order to make sure that we had a good couple of years of new business bookings, we invested in our head count
+And we're now I think at about 7% head count growth year-over-year
+That's pretty healthy for us when you look at the last five or six years
+It doesn't have an immediate impact because those people have to become productive
+They have to get ramped up
+They have to get into the field
+But as those people mature, that's an investment that should pay off for us for several years to come as those new sales reps become more mature and become more productive over time
+So I guess the answer your question is, the reason we feel good about our forecast, which again is subject to interference by, as we just saw the government had a fairly large change in direction nine months ago
+So we can't ever say we're 100% sure, but we look at certain metrics that give us confidence in terms of what we have in terms of guidance and it's mainly around head count and modest productivity improvement
+I don't think so because as <UNK> said, I mean I think it's first of all, it's early
+We're through the first quarter and I think you could tell that we feel good about our results
+We feel good about the future
+But I think it's premature
+We did get help from tax
+We did get a little bit of help from on the growth rate from the floating come
+So I think it's just too early
+But directionally, we feel good
+But I think it's way too early to think about how the first quarter impacts 2020 for us
+Yeah, and I think part of the reason for that is we've obviously invested a lot already
+But now we're in the process of quote-unquote hardening and also getting clients
+We do have clients, by the way, on each of the three next-generation platforms
+These are real platforms that we've invested hundreds of millions of dollars in over multiple years
+So we feel good about it
+They're real and they're going to drive long-term efficiency, lower costs, stronger sales, better client experience
+But from a timing standpoint, I think it's clearly way too early I think for us to be factoring those types of improvements into our forecast
+But for, there is no question that whether it's in 2020 or the last half of 2020 or in 2021 or 2022, these investments are expected to have meaningful impacts on ADP's competitiveness and its profitability as well
+Thank you
+As you could see, we're off to a really good start, and we're happy that the initiatives that we have around enhancing our service, the innovation of our products and expanding our distribution model are working
+And we have obviously a lot of confidence that I think the investments will continue to deliver the results we expected from those investments, especially in the latter half of fiscal 2018 and beyond
+Over the last several months, obviously we've been involved in this proxy contest and I just want to acknowledge for a minute our associates, because obviously, some of them may feel like their efforts have been put into question during this process
+And as I mentioned, I think the distraction has been largely to a small group, but inevitably our associates also hear some of the noise out in the market
+And I just want to thank our associates for the resolve that they've had in delivering to our clients what the clients expect from ADP
+And I also want to thank them for the encouragement they've given to us to continue to move beyond the distraction and continue to deliver valuable services to our clients
+The dedication, I think, and the attentiveness and the integrity, more importantly, of our associates is what makes this company great and it's what our founder I think insisted on
+And I'm confident that with their help and their support, we're going to continue to make ADP successful
+I also want by extension to thank our shareholders and the confidence they've put in our management and our board
+As we've gone around visiting and talking to investors, the encouragement that we've gotten from them, I think just strengthened our resolve to continue to do the right thing for them, and also on their behalf
+And so with that, I want to thank you again for joining us, and thank you for your interest in ADP

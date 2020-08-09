@@ -1,0 +1,32 @@
+Yes is the answer to that.
+But I think that's a headline on the intensity of etch from a conversion point of view.
+It's a very favorable transition for us.
+It's a commentary on the patterning transition in etch and deposition, both.
+We believe that the total wafer fabrication equipment investment in DRAM is slightly higher than we thought.
+We believe it's more efficient to my earlier point, and we believe it should favor the segments of deposition and etch.
+I'm not sure I understood the first part of your question.
+The first part of the question was, is 3D shipments are they happening now.
+Or are they happening on a continuing basis.
+There's always someone somewhere buying something for a 3D NAND application.
+So sometimes that's an addition to an HVM capability, sometimes that's a first phase pilot, sometimes it's second phase.
+These four guys have different timing, and different commitments to investment, but I think everybody's there as an industry.
+We have two more guys we're going to try to get to here, so can we go to the next question, please.
+As I said before, at least in the dialogues we have with the customer, we're not really distinguishing too much between 20-nanometer, 16-nanometer, and 14-nanometer.
+There's a huge amount of overlap in terms of equipment.
+The basic message today, we think, is the one that was communicated to you publicly in the last couple of weeks, that there's commitment to technology conversions.
+And a little bit less today at the 14-nanometer, 16-nanometer node for the year, from an industry perspective, than was originally anticipated, but I think that the basic commitment to a FinFET conversion, first wave, and then the pilot investments in 10-nanometer are there.
+So that would be my comments on foundry.
+And we are assuming by the end of this year, that the capacity that has been shipped in at or less than 20-nanometer is in the range of 200,000 to 210,000 wafer starts per month.
+Yes.
+Which is a disclosure by the way we made at SEMICON West a year ago, so I was really just repeating that based on our assessment of critical and non-critical applications in that segment, we think the 90% headline that we communicated at SEMICON West is valid today.
+And in fact, as I said, in my prepared comments, we had a nice reinforcement of that in a selection this quarter.
+We don't actually make that disclosure.
+No.
+I would say it's a very constant competitive threat.
+And I don't think it's anything new.
+The reason, by the way I said we don't disclose it is because the value of the critical position is much less to do with the percentage of the business, and it's a reasonable percentage.
+Otherwise I wouldn't bother telling you.
+The value proposition of the critical wins is, you create a cycles of learning for your Company that your competition does not have.
+And if you do that for long enough, then your ability to be successful, broadly in a marketplace, is greater than theirs.
+So it's value is not the percentage.
+The value is learning and the critical feature capability that we develop broadly in the marketplace.

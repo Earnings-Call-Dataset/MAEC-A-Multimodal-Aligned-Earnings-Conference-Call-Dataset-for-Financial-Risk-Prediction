@@ -1,0 +1,354 @@
+Thanks, <UNK>.
+We had a strong start to the year, highlighting our record first quarter with a near tripling of Datacenter revenue, reflecting surging interest in artificial intelligence.
+Overall, quarterly revenue reached $1.94 billion, up 48% from a year earlier, down 11% sequentially and above our outlook of $1.9 billion.
+Growth remained broad-based with year-on-year gains in each of our 4 platforms: Gaming, Professional Visualization, Datacenter and Automotive.
+From a reporting segment perspective, Q1 GPU revenue grew 45% to $1.56 billion from the year earlier and Tegra processor revenue more than doubled to $332 million.
+And we recognized the remaining $43 million in revenue from our Intel agreement.
+Let\
+Yes, <UNK>, thanks for your question.
+So our GPU computing business for Datacenter is growing very fast and it's growing on multiple dimensions.
+On the one hand, there's high-performance computing using traditional numerical methods.
+We call that HPC.
+That's growing.
+There is, in enterprise, the virtualization of graphics.
+There's a whole lot of desktop PCs running around.
+However, more and more people would like to have thinner laptops or they would like to have a different type of computer and still be able to run Windows.
+And they would like to virtualize basically their entire PC and put it in the data center.
+It's easier to manage.
+The total cost of ownership is lower, and mobile employees could enjoy their work wherever they happen to be.
+And so the second pillar of that is called GRID and it's basically virtualizing the PC.
+And as you can tell, virtualization, mobility, better security, those are all driving forces there.
+And then there's the Internet companies.
+And the Internet companies, as you mentioned, really has 2 pillars.
+There's the Internet service provision part where they're using deep learning for their own applications, whether it's photo tagging or product recommendation or recommending a restaurant or something you should buy or personalizing your webpage, helping you with search, provisioning up the right apps, the right advertisement, language translation, speech recognition, so on and so forth.
+I mean, there's a whole bunch of amazing applications that are made possible by deep learning.
+And so Internet service providers are using it for internal application development.
+And then lastly, what you mentioned is cloud service providers.
+And basically, because of the adoption of GPUs and because of the success of CUDA and so many applications are now able to be accelerated on GPUs, so that we can extend the capabilities in <UNK>'s Law so that we can continue to have the benefits of computing acceleration, which in the cloud means reducing cost.
+And that's on the serve -- cloud service provider side of the Internet companies.
+So that would be Amazon Web Services, the Google Compute cloud, Microsoft Azure, the IBM Cloud, Alibaba's Aliyun... (technical difficulty) by Microsoft Azure.
+We're starting to see almost every single cloud service around the world standardizing on the NVIDIA architecture.
+So we're seeing a lot of growth there as well.
+And so I think the nut of it all is that we're seeing data center growth in GPU computing across the board.
+Well, PC gaming is growing, I mean, there's no question about that.
+The eSports is growing.
+The number of players in eSports, the number of people who are enjoying eSports is growing.
+Mobile is growing.
+I think it's amazing.
+It's amazing, the growth of mobile and the latest games.
+And of course, the first-party titles, the AAA titles are doing great work.
+Battlefield is doing great and I'm looking forward to the new Battlefield.
+I'm looking forward to the new Star Wars and I'm looking forward to the first time that Destiny is coming to the PC.
+As you know, it was a super hit on console.
+But the first-generation Destiny wasn't available on PCs and Destiny 2 is coming to the PC.
+So I think the anticipation is pretty great.
+So I would say that PC gaming continues to grow and it's hard to imagine people... (technical difficulty) around in another amazing world.
+And so I think people are going to be amazed at how long the alternate reality of the video gaming market is going to continue to expand.
+Yes, <UNK>, thanks for the question.
+First of all, it's really important to understand that the data centers, the cloud service providers, the Internet companies, they all get kind of lumped together in one conversation.
+But obviously, the way they use computers are very different.
+There are 3 major pillars of computing up in the cloud -- or in large data centers.
+Hyperscale.
+The one pillar is just internal use of computing systems for developing, for training, for advancing artificial intelligence.
+That's a high-performance computing problem.
+It's a very complicated software problem.
+The algorithms are changing all the time.
+They're incredibly complicated.
+The work that the AI researchers are doing are not trivial, and that's why they're in such great demand.
+And it's also the reason why computing resources have to be provisioned to them, so that they can be productive.
+Having a scarce AI researcher waiting around for a computer to finish simulation or training is really quite unacceptable.
+And so that one -- that first pillar is the market that we -- is a segment of the... (technical difficulty) or gets strained, once the network is trained, it is put into production.
+Like for example, your Alexa speakers has a little tiny network inside.
+And so obviously, you can do inferencing on Alexa.
+It does voice recognition on the hot keyword.
+In the long term, your car will be able to do voice recognition and speech recognition.
+Are we okay.
+Are we still on.
+No, no, <UNK>, I'm just -- I was wondering whether the phone line was cut or not.
+So anyways, I -- the second pillar is inferencing.
+And inferencing, inferencing as it turns out, is far, far less complicated than training.
+It's 1 trillion times less complicated, 1 billion times -- 1 trillion times less complicated.
+And so once the network is trained, it can be deployed.
+And there are thousands of networks that are going to be running inside these hyperscale data centers, thousands of different networks, not one, thousands of different types.
+And they're detecting all kinds of different kinds of things.
+They're inferring all kinds of different things, classifying, predicting, all kinds of different things, whether it's photo or voice or videos or searchers or whatnot.
+And in that particular case, our advantage -- in that particular case, the current incumbent is CPUs.
+The CPU is really the only processor at the moment that has the ability to basically run every single network.
+And I think that's a real opportunity for us.
+And it's a growth opportunity for us.
+And one would suggest that FPGA is as well.
+One would suggest that ASICs like TPUs -- TPUs and ASIC is as well.
+And I would urge you to come to the keynote tomorrow and maybe I'll say a few words about that tomorrow as well.
+And then the last pillar is cloud service providers, and that's basically the outward public cloud provisioning a computing approach.
+It's not about provisioning inferencing.
+It's not about provisioning GPUs.
+It's really provisioning a computing platform.
+And that's one of the reasons why the NVIDIA CUDA platform and all of our software stacks that we've created over time, whether it's for deep learning or molecular dynamics or all kinds of high-performance computing codes or linear algebra or computer graphics, all of our different software stacks make our cloud computing platform valuable.
+And that's why it's become the industry standard for GPU computing.
+And so those are 3 different pillars of hyperscalers, and it's just important to segment them so that we don't get confused.
+The average selling price of the NVIDIA GeForce is about 1/3 of a game console.
+That's the way to think about it.
+That's the simple math.
+People are willing to spend $200, $300, $400, $500 for a new game console.
+And the NVIDIA GeForce GPU, the PC gaming card is, on average, far less.
+There are people who just absolutely demand the best.
+And the reason for that is because they're driving a monitor or they're driving multiple monitors at a refresh rate well beyond the TV.
+And so if you have a 4K or you want to run 120 hertz, or some people are even driving at the 2 and 4 -- 200 hertz, those kind of displays demand a lot more horsepower to drive than an average television, whether it's 1080p or 4K, at 60 frames per second or 30 frames per second.
+And so the amount of horsepower they need is great.
+But that's just because they just really love their rig and they're surrounded in it and they just want the best.
+But the way to think about that is ultimately, that's the opportunity for us.
+I think GeForce is a game console, and the right way to think about that is at an equivalent ASP of some $200, $300, that's probably potentially the opportunity ahead for GeForce.
+Well, first of all, GeForce is sold a unit at a time.
+And it's sold all over the world and it's a consumer product.
+It's a product that I -- that is sold both into our installed base as well as growing our installed base.
+When we think about GeForce, they're -- these are the parameters involved.
+How much of our installed base has upgraded to Pascal.
+How much of our installed base is growing.
+How is Gaming growing overall.
+How is -- what are the driving dynamics of Gaming, whether it's eSports or mobile or using games for artistic expression.
+It's related to the AAA titles that are coming out.
+Some years, the games are just incredible.
+Some years, the games are less incredible.
+These days, the production quality of the games have just become systematically so good that we've had years now of blockbuster hits.
+So these are really good dimensions of it.
+And then there is -- it's overlaid on top of it with some seasonality because people do buy graphics cards and game consoles for Christmas and the holidays and there are international holidays where people are given money as gifts and they save up the money for a new game console or a new game platform.
+And so in a lot of ways, our business is driven by games.
+So it's not unlike the characteristics of the rest of the gaming industry.
+The driving reasons for inventory growth is new products.
+And I -- that's probably all I had to say for now.
+I would come to GTC.
+Come to the keynote tomorrow.
+I think it will be fun.
+Thanks, <UNK>.
+Let me think here.
+I think 1 year ago, 1 year ago was -- maybe it was 2 years ago, maybe it's somewhere between 18 months ago or so when I think Jeff Dean gave a talk where he said that Google was using a lot of GPUs for deep learning.
+I think it wasn't much longer ago than that.
+And really, really, that was the only public customer that we had in the hyperscale data center.
+Fast forward a couple of years, we now have basically everybody.
+Every hyperscaler in the world is using NVIDIA for either deep learning, for some announcements that you'll read about in data center deployment, tomorrow hopefully, and then a lot of them have now standardized on provisioning the NVIDIA architecture in the cloud.
+And so I guess in the course of 1 or 2 years, we went from basically hyperscale being an insignificant part of our overall business to quite a large part of our business, and as you could see also, the fastest-growing part of the business.
+Yes.
+Thanks for the question.
+We feel good about the guidance that we're providing for Q2.
+We wanted to make sure those understood the impact of Intel that's incorporated in there.
+It's still too early given that it's just about the same size as what we just finished in Q1 to make comments specifically exactly where we think each one of those businesses will end up.
+But again, we do believe Datacenter is a super great opportunity for us.
+I think you'll hear more about that tomorrow.
+But we don't have any more additional details on our guidance.
+But we feel good about the guidance we gave.
+Jen-<UNK>, can you talk about the adoption of GPU in the cloud.
+At the CES earlier this year, you guys announced GeForce.
+Now curious how the adoption of GeForce is going.
+Yes, <UNK>, thanks for the question.
+GeForce NOW is a really -- it's really an exciting platform.
+It virtualizes GeForce.
+It puts it in the cloud, turns it into a gaming PC as a service -- that can be streamed as a service.
+And we are -- I said at GTC that around this time, that we'll likely open it up for external beta.
+We've been running internal beta for some time.
+And we'll shortly go to external beta.
+And last time I checked, there's many, many, tens of thousands of people who are signed up for external beta trials.
+And so I'm looking forward to letting people try it.
+But the important thing to realize about that is I -- that's still years away from really becoming a major gaming service.
+And that's -- it's still years away from being able to find the right balance between cost and quality of service and the pervasiveness of virtualizing a gaming PC.
+So we've been working on it for several years and these things take a while.
+My personal experience is almost every great thing takes about a decade.
+And if that's so, then we've got a few more years to go.
+Great.
+As a follow-up, with your win and success in Nintendo Switch, does that open up the console market with other console makers.
+Is that a business that is of interest to you.
+Well, consoles is not really a business to us.
+It's a business to them.
+And we're selected to work on these consoles.
+And if it makes sense and the strategic alignment is great and we're in a position to be able to do it -- because the opportunity cost of building a game console is quite high.
+The number of engineers who knows how to build computing platforms like this -- and in the case of the Nintendo Switch, I mean, it's just an incredible console that fits in such a small, small form factor.
+And it could both be a mobile computing -- mobile gaming device as well as a console gaming device.
+It's just really quite amazing.
+And they just did an amazing job.
+Somebody asked me a few months ago before it was launched how I thought it was going to do.
+And of course, without saying anything about it, I said that it delighted me in a way that no game console has done in the last 10, 15 years.
+And it's true.
+I mean, this is a really, really innovative product and really quite a genius.
+And if you ever have a chance to get it in your hands, it's just really, really delightful.
+And so in that case -- in that case, the opportunity to work on it was just really, really too enticing.
+We really wanted to do it.
+And -- but it always requires deep strategic thought because it took several hundred engineers to work on.
+And they could be working on something else like all of the major initiatives we have.
+And so we have to be mindful about the strategic opportunity cost that goes along with these.
+But in the case of the Nintendo Switch, it's just a home run.
+I'm so glad I did it.
+And it was a perfect collaboration for us.
+I know the second one: easier.
+Not -- the second one is the revenue contribution is not significant at the time, at this moment.
+But I expect it to be high.
+And that's why we're working on it.
+The 200 developers who are working on the DRIVE PX platform are doing it in a lot of different ways.
+And at the core, it's because in the future, every aspect of transportation will be autonomous.
+And if you think through what's going on in the world and one of the most important -- one of the most powerful effects that's happening right now is the Amazon effect.
+We're grabbing our phone.
+We're buying something and then we expect it to be delivered to us tomorrow.
+Well, in -- when you sent up that -- those set of electronic instruction, the next thing that has to happen is a whole bunch of trucks has to move around.
+And they have to go from trucks to maybe smaller trucks and from smaller trucks to maybe a small van that ultimate delivers it to your house.
+And so if you will, transportation is the physical Internet, is the atomic Internet, the molecular Internet of society.
+And without it, everything that we're experiencing today would be able to continue to scale.
+And so you could imagine everything from autonomous trucks to autonomous cars, surely, and autonomous shuttles and vans and motorcycles and small piece of delivery robots and drones and things like that.
+And for a long time, it's going to augment truck drivers and delivery professionals who, quite frankly, we just don't have enough of.
+The world is just growing too fast in an instant delivery, delivered to your home, delivered to you right now phenomenon.
+And we just don't have enough delivery professionals.
+And so I think autonomous capability is going to make it possible for us to take pressure off of that system and reduce the amount of accidents and make it possible for that entire infrastructure to be a lot more productive.
+And so that's one of the reasons why you're seeing so much enthusiasm.
+It's not just the branded cars.
+I think the branded cars get a lot of attention and we are excited about our partnerships there.
+And gosh, I love driving autonomous cars.
+But in the final analysis, I think the way to think about the autonomous future is every aspect of mobility and transportation and delivery will be -- will have autonomous -- will be augmented by AI.
+Well, let's see here.
+There's a -- it's a great question and there's a couple of ways to come at it.
+First of all, AI is going to infuse all of software.
+AI is going to eat software.
+And it's going to be in every aspect of software.
+Every single software developer has to learn deep learning.
+Every single software developer has to apply machine learning.
+Every software developer will have to learn AI.
+Every single company will use AI.
+AI is the automation of automation.
+And it's -- will likely be the transmission.
+We're going to, for the first time, see the transmission of automation, the way we're seeing the transmission and the wireless broadcast of information for the very first time.
+And I'm going to be able to send you automation, send you a little automation by e-mail.
+And so the ability for AI to transform industry is well understood now.
+It's really about automation of everything.
+And the implications of it is quite large.
+We've been using now deep learning.
+We've been in the area of deep learning for about 6 years.
+And the rest of the world has been focused on deep learning for about somewhere between 1 to 2.
+And some of them are just learning about it.
+And almost no companies today use AI in a large way.
+So on the one hand, we know now that the technology is of extreme value.
+And we under -- we're getting a better understanding of how to apply it.
+On the other hand, no industry uses it at the moment.
+The automotive industry is in the process of being revolutionized because of it.
+The manufacturing industry will be.
+Everything in transport will be.
+Retail, Etail everything will be.
+And so I think the impact is going to be large and we just -- we're just getting started.
+We're just getting started.
+Now that's kind of a first inning thing.
+The only trouble with the baseball analogy is that in the world of tech, things don't -- every inning is not the same.
+In the beginning, the first inning feels like -- it feels pretty casual and people are enjoying peanuts.
+The second inning, for some reason, is shorter.
+And the third inning is shorter than that and the fourth inning is shorter than that.
+And the reason for is because of exponential growth.
+Speed is accelerating.
+And so from the bystander who are on the outside looking in, by the time third inning comes along, it's going to feel like people are traveling at the speed of light next to you.
+Now if you happen to be on one of the photons, you're going to be okay.
+But if you're not on the deep learning train in a couple of 2, 3 innings, it's gone.
+And so that's kind of the challenge of that analogy because things aren't moving in linear time.
+Things are moving in exponential time.
+Yes, <UNK>.
+I think there's a couple of ways to think about it.
+First of all, we know that this is the -- we know that some -- the world causes the end of <UNK>'s Law, but it's really the end of 2 dynamics that has happened.
+And one dynamic, of course, is the end of processor architecture productive innovation, okay, end of instruction-level parallelism advances.
+The second is the end of Dennard scaling.
+And the combination of those 2 things makes it look like it's the end of <UNK>'s Law.
+The easy way to think about that is -- the easy way to think about that is that we can no longer rely -- if we want to advance computing performance, we can no longer rely on transistor advances alone.
+That's one of the reasons why NVIDIA has never been obsessed about having the latest transistors.
+We want the best transistors.
+There's no question about it.
+But we don't need it to advance.
+And the reason for that is because we advance computing on such a multitude of levels all the way from architecture, this architecture we call GPU accelerate computing, to the software stacks on top, to the algorithms on top, to the applications that we work with.
+We tune it across the top, from the top to bottom, all the way from bottom to top.
+And so as a result, transistors is just one of the 10 things that we use.
+And like I said, it's really, really important to us and I want the best.
+And TSMC provides us the absolute best that we can get.
+And we push along with them as hard as we can.
+But in the final analysis, it's one of the tools in the box.
+Yes, thanks a lot.
+Thanks a lot, Joe.
+You answered it right there.
+It's both of those.
+On the first -- the first thing is that we have to develop platforms that are useful per industry.
+And so we have a team working with the health care industry.
+We have a team that's working with the Internet service providers.
+We have a team that's working with the manufacturing industry.
+We have a team that's working with the financial services industry.
+We have a team that's working with media and entertainment and with enterprise, so -- with the automotive industry.
+And so we have different verticals.
+We call them verticals and we have teams of business development people, developer relations, computational mathematicians that works with each one of the industries to optimize their software for our GPU computing platform.
+And so it starts with developing a platform stack.
+Of course, one of the most famous examples of that is our Gaming business.
+It's just another vertical for us.
+And it starts with GameWorks that runs on top of GeForce and then it has its own ecosystem of partners.
+And so that's for each one of the verticals and each one of the ecosystems.
+And then the second thing that we do is we have, horizontally, partner management teams that work with our partners, the OEM partners and the go-to-market partners so that we could help them succeed.
+And then, of course, we rely a great deal on the extended sales force of our partners so they could help to evangelize our computing platform all over the world.
+And so there's this mixed approach between dedicated vertical market, business development teams as well as a partnership approach to partnering with our OEM partners that has really made our business scale so fast.
+Well, HPC is different than supercomputing.
+Supercomputing to us is a collection of -- not a collection but is 20 different supercomputing sites around the world.
+And some of the famous ones, whether it's Oak Ridge or Blue Water at UCSC, you've got TiTech in Japan, there are supercomputing centers that are either national supercomputing centers or they could be public and open supercomputer centers or open science.
+And so we consider those supercomputing centers.
+High-performance computing is used by companies who are using simulation approaches to develop products or to, well, to simulate something.
+It could be scenarios for predicting equity, or, for example, as you guys know, Wall Street is the home of some of the largest supercomputing center -- or high-performance computing centers.
+The energy industry, Schlumberger, for example, is a great partner of ours and they have a massive, massive high-performance computing infrastructure.
+And Procter & Gamble uses high-performance computers to simulate their products.
+And so I think last year, McDonald's was at GTC and I hope they come this year as well.
+And so I think high-performance computing, another way of thinking about it is that more and more people really have to use simulation approaches for product discovery and product design and product simulation and stuff to stress the products beyond what is possible in a physical way so that they understand the tolerance of the products to make sure they are as reliable as possible.
+Well, it's not that it's not fair.
+It's just not right.
+It's not correct.
+And so in business, who cares about being fair.
+And so I wasn't looking for fair.
+I was just looking for right.
+And so the data has to be correct.
+It turns out -- and I said earlier that our hyperscale businesses have 3 different pillars.
+There's training, which our GPUs are quite good at.
+There's cloud service provision, which is a GPU computing architecture opportunity where CUDA is really the reason why people are adopting it and all the applications that have been -- that has adopted CUDA over the years.
+And then there's inferencing.
+And inferencing is a 0 opportunity for us, a 0 business for us at the moment.
+I mean, we do 0% of our business in inferencing and it's 100% on CPUs.
+And in the case of Google, they did a great thing and built a TPU as an ASIC.
+And they compared the TPU against one of our older GPUs.
+And so I published a blog.
+I wrote a blog to clarify some of the comparisons and you could look that up.
+But the way to think about that is our Pascal is probably approximately twice the performance of the TPU, the first generation TPU.
+And it's incumbent upon us to continue to drive the performance of inferencing.
+This is something that's still kind of new for us.
+And tomorrow, I'm probably going to say a few words about inferencing and maybe introduce a few ideas.
+But inferencing is new to us.
+It's -- there are 10 million CPUs in the world in a cloud, and today, many of them are running Hadoop and doing queries and looking up files and things like that.
+But in the future, the belief is that the vast majority of the world's cloud queries will be inference queries, will be AI queries.
+Every single query that goes into the cloud will likely have some artificial intelligence network that it processes.
+And I think that's our opportunity.
+We have an opportunity to do inferencing better than anybody in the world and it's up to us to prove it.
+At the moment, I think it's safe to say that the P40, the Tesla P40, is the fastest on the planet, period.
+And then from here on forward, it's incumbent upon us to continue to lean into that and do a better, better job.
+My assessment is that the competitive position is not going to change.
+Mitch, yes, I was just talking about that earlier in one of the questions.
+It's called GeForce NOW and I announced it at CES.
+And I said that right around this time of the year, we're going to open it up for external beta.
+We've been running internal beta and closed beta for some time.
+And so we're looking forward to opening up the external beta.
+My expectation is that it's going to be some time as we scale that out.
+It's going to take several years.
+I don't think it's something that's going to be an overnight success.
+And as you know, overnight successes don't happen overnight.
+However, I'm optimistic about the opportunity to extend the GeForce platform beyond the gamers that we currently have in our installed base.
+There are several billion gamers on the planet and I believe that every human will be a gamer someday.
+And every human will have some way to enjoy an alternative universe some way, someday.
+And we would love to be the company that brings it to everybody.
+And the only way to really do that on a very, very large-scale basis and reach all those people is over the cloud.
+And so I think our PC gaming business is going to continue to be quite vibrant.
+It's going to continue to advance.
+And then hopefully, we can overlay our cloud reach on top of that over time.
+Well, thanks for all the questions today.
+I really appreciate it.
+We had another record quarter.
+We saw growth across our 4 market platforms.
+AI is expanding.
+Datacenter nearly tripled.
+Large ISP, CSP deployments everywhere.
+PC gaming is still growing; eSports, AAA gaming titles, fueling our growth there.
+And we have great games on the horizon.
+Autonomous vehicles, becoming imperative on all sectors of transportation, as we talked about earlier.
+We have a great position with our DRIVE AI computing platform.
+And as <UNK>'s Law continues to slow, GPU accelerated computing is becoming more important than ever and NVIDIA is at the center of that.
+Don't miss tomorrow's GTC keynote.
+We'll have exciting news to share, next-generation AI, self-driving cars, exciting partnerships and more.
+Thanks, everybody.

@@ -1,0 +1,208 @@
+Thank you, operator, and good afternoon, everyone.
+Welcome to VeriSign's third-quarter 2015 earnings call.
+With me are <UNK> <UNK>, Executive Chairman, President, and CEO; Todd Strubbe, Executive Vice President and COO; and <UNK> <UNK>, Senior Vice President and CFO.
+This call and our presentation are being webcast from the Investor Relations section of our verisign.com website.
+There you will also find our third-quarter 2015 earnings release.
+At the end of this call, the presentation will be available on that site, and within a few hours, the replay of the call will be posted.
+Financial results in our earnings release are unaudited, and our remarks include forward-looking statements that are subject to the risks and uncertainties that we discuss in detail in our documents filed with the SEC, specifically the most recent report on Forms 10-K and 10-Q and any applicable amendments which identify risk factors that could cause actual results to differ materially from those contained in the forward-looking statements.
+VeriSign retains its long-standing policy not to comment on financial performance or guidance during the quarter, unless it is done through a public disclosure.
+The financial results in today's call and the matters we will be discussing today include GAAP and non-GAAP measures used by VeriSign.
+GAAP to non-GAAP reconciliation information is appended to our earnings release and slide presentation as applicable, each of which can be found on the Investor Relations section of our website.
+In a moment, <UNK> and <UNK> will provide some prepared remarks, and afterwards we will open up the call for your questions.
+With that, I would like to turn the call over to <UNK>.
+Thanks, <UNK>, and good afternoon, everyone.
+I'm pleased to report another solid quarter for VeriSign.
+Third-quarter results were in line with our objectives of offering security and stability to our customers while generating profitable growth and providing long-term value to our shareholders.
+We reported revenue of $266 million, up 4.2% year over year, and we delivered strong financial performance, including $157 million in free cash flow.
+We processed 9.2 million new registrations during the third quarter and added 1.68 million net new names ending with 135.2 million .com and .
+net domain names in the domain name base.
+Our financial position is strong with $1.9 billion in cash, cash equivalents and marketable securities at the end of the quarter.
+Our commitment to returning value to shareholders continued during the third quarter as we repurchased 2.3 million shares for $156 million.
+As of September 30, 2015, we have 605 million remaining in our share repurchase program which has no expiration.
+We continually evaluate the overall cash and investing needs of the business and consider the best uses for our cash, including potential share repurchases.
+As discussed on our last call, we're making progress as we prepare to launch the internationalized domain name versions of .com and .
+net.
+Our launch preparations are proceeding according to plan as we prepare to begin a phased rollout of the IDNs towards the end of this year.
+We will provide more information on our launch plans when appropriate.
+I will comment now on third-quarter operating highlights.
+At the end of September, the domain name base in .com and .
+net was $135.2 million, consisting of 120.1 million names per .com and 15.1 million names for .
+This represents an increase of 3.4% year over year as calculated including domain names on hold for both periods.
+In the third quarter, we added 1.68 million net names to the domain name base after processing 9.2 million new gross registrations.
+In the second quarter of 2015, the renewal rate was 72.7% compared with 71.8% for the same quarter of 2014.
+While renewal rates are not fully measurable until 45 days after the end of the quarter, we believe that the renewal rate for the third quarter of 2015 will be approximately 71.8%.
+This preliminary rate compares to 72% -- 72.0% achieved in the third quarter of 2014.
+As we discussed over the last few quarters, there are many factors that drive domain growth.
+These include Internet adoption, economic activity, e-commerce activity, and registrar go to market strategies.
+During the third quarter, we saw strength in gross additions coming out of emerging and international markets, particularly in Asia.
+While we believe these markets will continue to perform well, we believe the pace of activity we saw during the third quarter will slow sequentially in the fourth quarter.
+Also, due to seasonal factors, the fourth quarter tends to have fewer net additions than the third quarter as was seen in the last two years.
+Based on these and other factors, we are forecasting fourth-quarter 2015 net additions to the domain name base to be between 1.1 million and 1.6 million names.
+As noted in prior calls, updates to the domain name base are posted on our website at least once per day and reflect the definition change to include on-hold status names as we discussed during our February earnings call.
+Our website allows you to track the domain name base throughout the coming quarter.
+And now I would like to turn the call over to <UNK>.
+Thanks, <UNK>, and good afternoon, everyone.
+During the third quarter, we generated revenue of $266 million, up 4.2% year over year and delivered GAAP operating income of $154 million, up 10.7% from $139 million in the third quarter of 2014.
+The GAAP operating margin in the quarter came to 58.1% compared to 54.7% in the same quarter a year ago.
+GAAP net income totaled $92 million compared to $95 million a year earlier, which produced diluted GAAP earnings per share of $0.70 in the third quarter this year compared to $0.69 for the third quarter last year.
+As of September 30, 2015, the Company maintained total assets of $2.6 billion.
+These assets included $1.9 billion of cash, cash equivalents and marketable securities, of which $794 million were held domestically with the remainder held internationally.
+Total liabilities were $3.6 billion at the quarter end, up from $3 billion at the end of 2014.
+I will now review some of our key third-quarter operating metrics, which are revenue, deferred revenue, non-GAAP operating margin, non-GAAP earnings per share, operating cash flow and free cash flow.
+I will then discuss our 2015 full-year guidance.
+As mentioned, revenue totaled $266 million for the third quarter.
+60% of our revenue was derived from customers in the US, and 40% was from international customers.
+Deferred revenue at the end of the third quarter totaled $940 million, a $50 million increase from year-end 2014.
+Third-quarter non-GAAP operating expense, which excludes $12 million of stock-based compensation, totaled $99 million, down from $102 million in the second quarter of 2015 and compared with $101 million in the same quarter a year ago.
+Non-GAAP operating margin for the third quarter was 62.7% compared to 60.6% in the same quarter of 2014.
+Non-GAAP net income for the third quarter was $103 million, resulting in non-GAAP diluted earnings per share of $0.78 based on a weighted average diluted share count of 131.7 million shares.
+This compares to $0.70 in the third quarter of 2014 and $0.74 last quarter based on $138.1 million and $133.3 million weighted average diluted shares respectively.
+Operating cash flow and free cash flow for the third quarter were $155 million and $157 million respectively compared with $168 million and $150 million respectively for the third quarter last year.
+Also, as we discussed on recent earnings calls, we expect our cash tax rate to stay below our tax rate used for non-GAAP calculations for at least the next several years.
+In 2015, we still expect to pay cash taxes of approximately $35 million to $45 million.
+Substantially all of the expected cash taxes in 2015 are international.
+With respect to full-year 2015 guidance, revenue for 2015 is now expected to be in the range of $1.050 billion to $1.055 billion, representing an annual growth rate of 4% to 4.5%.
+This revenue range is narrowed from the $1.045 billion to $1.055 billion given on our last call.
+Non-GAAP gross margin is still expected to be at least 80%.
+Full-year 2015 non-GAAP operating margin is now expected to be between 61% and 62%.
+This has been narrowed from the 60% to 62% range given on our last call.
+Our non-GAAP interest expense and non-GAAP nonoperating income net is now expected to be an expense of between $104 million to $108 million narrowed from the $104 million to $110 million expense range given on our last call.
+Capital expenditures for the year are now expected to be between $37 million and $42 million, changed from $40 million and $50 million range given on our last call.
+In summary, the Company continued to demonstrate sound financial performance in the third quarter.
+We have grown non-GAAP operating margins and non-GAAP net income.
+We have maintained a strong financial position and expect strong operating cash flow generation to continue as a result of our financial model.
+Now I'll turn the call back to <UNK> for his closing remarks.
+Thank you, <UNK>.
+During the third quarter, we furthered our work to protect, grow and manage the business while delivering value to our shareholders.
+I would like to expand a bit on what we think that actually means.
+I believe the best way to do that is to offer some long-term perspective on VeriSign's performance since the completion of our divestitures five years or 20 quarters ago.
+Our goal then was to simplify the Company's business through divestment of non-core assets and to focus on profitability and value creation.
+Since then, revenue has grown sequentially for 20 straight quarters.
+Non-GAAP EPS has grown steadily from $0.31 in Q4 to $0.78 in Q3 2015.
+Free cash flow has grown steadily and was $612 million over the trailing four quarters.
+Non-GAAP operating margin has risen steadily from 44.3% in Q4 2010 to 62.7% in the most recent quarter.
+Over the last 20 quarters, we've returned $4.2 billion to our shareholders.
+We repurchased over 69 million shares for $3.22 billion, which exceeds our domestic free cash flow for the same period.
+And in that same timeframe, we returned $982 million in special dividends excluding payments to convert holders triggered by that special dividend.
+Our $2.75 per-share dividend in 2011 was a 100%, tax-free, return of capital.
+We believe the long trend lines of growth in the top and bottom line, along with a consistent track record in returning generated value to our shareholders through effective capital allocation and an efficient capital structure, are what matter most to our shareholders.
+We believe that proper balance within our strategy framework -- protect, grow, and manage -- is what makes it possible for us to deliver this type of consistent long-term result and simultaneously serve the interests of our shareholders, employees and customers.
+We intend to continue our steady focus on long-term consistency.
+We will now take your questions, and operator, we are ready for the first question.
+Sure, <UNK>.
+This is <UNK> <UNK>.
+As we mentioned in our prepared remarks, we did see 1.68 million net additions to the domain name base and as you pointed out, there were 9.2 million gross additions in the third quarter.
+During the third quarter, we saw continued strength in additions coming out of international markets, particularly Asia.
+Now that region includes markets such as China, India, Indonesia, Vietnam, etc.
+, and all those regions we have seen good growth in those regions.
+We also mentioned that while we believe these markets will continue to perform well, we also believe that the pace of activity we saw on the third quarter will slow sequentially in the fourth quarter.
+We did give guidance of 1.1 million to 1.6 million.
+The midpoint of that is about 1.35 million.
+If you recall last year, we did about 700,000 names in Q4 2014.
+So we do expect to have good net adds in the fourth quarter.
+When you say out of the norm, registrars do run promotional activities.
+I believe there's a few registrars that do some around certain holidays, but in most of our market programs, we put those in place throughout the year, so we continue to have a consistent level of spend or activity in those markets, but nothing unusual that I'm aware of from a marketing perspective.
+Sorry, I would just add to that nothing extraordinary, and I feel I would be remiss if I didn't just underlie <UNK>'s comments with the fact that .com is just a strong brand, and it typically performs well, and we see it continue to do so.
+Yes, so it's relatively flat year over year, <UNK>.
+We had 72% last year at this time, 71.8%, so we're talking about 20 basis points.
+But really the renewal rate is speaking to the registrations that were registered a year ago.
+We are seeing a little lower tick in the first time renewal rate, but again, that's more as we shift geographies and sell more into what we've talked about, emerging markets, international markets.
+Some of those markets have lower first-time renewal rates, but -- which have improved during the year.
+But at least year over year, we expect it to go -- to be flat.
+But seasonally, it tends to go down a little bit in the third quarter based on our historical activity.
+Sure.
+So as far as the strong adds in the quarter, again, we saw good activity coming out of international markets, primarily Asia.
+But those markets -- I talked about earlier, China, India, Indonesia, Vietnam, we've seen growth in all those markets.
+So we are very pleased with that growth over there.
+It seems to accelerate in the quarter.
+We're having a good month to date as well over there, so we will monitor that activity.
+But we've guided up for the fourth quarter versus last year.
+We are guiding 1.1 million to 1.6 million, but good demand out of the Asian region is what we are seeing over there.
+And this is <UNK>.
+If I can just answer the second part of your question or your second question about IDNs.
+So the news this quarter is that we are on track to begin a roll-out and launch before the end of the year.
+I think it's early at this point to speculate about how they will perform or provide any sort of guidance or revenue forecasts.
+I will say that I think when we're talking to you a quarter from now, obviously the beginning of the rollout with the first IDN or IDNs at that time will give us some things to talk to you about, and I'm sure when we're talking about Q1 2015, by then we will actually have been in market.
+We will be beyond rollout, and we will be in market, and we will certainly have more data for you and more to talk about then.
+So early now to speculate about any of those things.
+I think the important news is that we are on track, and we're still tracking on our commitment of last quarter to begin our rollout before the end of the calendar year in 2015.
+That answer your questions.
+Thanks, <UNK>.
+So yes, I think the first part of your question had an implicit assumption that is correct that we are rolling them out in some sequence.
+I don't want to say that we are certainly not rolling them all out at the same time, and I don't want to say that we're going to roll them out one after the other individually and have 11 separate rollouts.
+There is going to be a phased rollout that is based on our preparations, market analysis, readiness, ICANN process, a lot of different factors that will go into that.
+What we do know for certain is that we will begin with at least one IDN before the end of the year.
+So there is some ICANN process that does play out here.
+There is an early period where grant holders have the ability to come in.
+There may be some early access opportunities for those who wish to get into the store early, so to speak.
+But that process will have begun before the end of the year.
+I expect that certainly by the turn of the year and in Q1, we will be with at least one, I think that's the only thing I can say comfortably without speculating, in market.
+So we will be selling, and there should be activity, and we should be learning, and we will have more to talk about when we do talk about Q1 certainly; more to talk about after Q4, but a lot more to talk about after Q1.
+Well, I can give you a general high-level update.
+There were some delays associated with dot brands in particular as ICANN recognized that dot brands had needs that were different beyond what ICANN had originally anticipated, different needs as opposed to those who are getting into the business of selling domain names.
+So some contractual issues were worked on between the brand community and ICANN, and additional time was given to the brands, I believe.
+I don't have a specific number for you, but a number of brands that engage in that process, some did sign contracts by deadline.
+I believe there was another extension for some additional work by some brands who had special conditions.
+But we haven't seen a lot of them out in the market yet, but some of them have certainly announced their intentions to roll out their brand TLDs.
+So they are not visible.
+It's not that active.
+But there was some -- quite a bit of activity, mostly contract signing with brands.
+So I would expect that next year you'll see some dot brands in the market.
+I certainly think so.
+I think -- there are a lot of different ways to think about this.
+But there's just so much investment in the brand and in the .com registration for most of these large brands.
+I think if -- to use a metaphor that may not be exactly perfect but I think will give you the idea, if you had a telephone number that you had invested in heavily for years, extensively in creating awareness for people to call you and order your product, and you -- a different number became available and you opted for that, if it costs you $7.85 a year to continue to forward your old number to your new one, you do that for as long as you have any number of people calling it.
+But there are -- in some cases of these global brands, an extraordinarily large amount of traffic associated with their current domains.
+So it is very easy for them to simply redirect that traffic to it.
+So this is -- I think you're getting to a question that I've answered in the past which is that I don't expect these people who get a dot brand to abandon their .com.
+They are certainly not going to do that.
+It is their brand.
+It's inexpensive for them, and there is a heavy investment in branding and traffic.
+So I expect it to be either an experiment or a complimentary registration, and we will see how it plays out in the years ahead.
+But I certainly don't expect people to abandon their .coms.
+I just don't think that's going to happen.
+Well, DDoS is one of the products that has been around for a while and is a main contributor to the product sales in our security services unit.
+The DNS firewall is new.
+Still a bit early to really talk in any level of detail or sort of any generalized trends that we see.
+The reception is certainly good in the market I will say that.
+And overall the security services unit continues to grow, not at the point where we are reporting it separately, of course.
+But it is growing, and we will have more to say about that when it gets to a point where we can.
+So your first question was on the operating margin.
+Again, our operating expense for the quarter was $99 million, and if you look a year ago, that was about $101 million.
+So it's not -- it's been around $100 million for a while.
+When I look sequentially of changes, there is really nothing that jumps out at me per se.
+In our core, we had a little bit lower depreciation, maybe a little lower travel in our sales and marketing while it was down sequentially.
+If you look at the year-to-date nine-month period, is relatively flat.
+There's really a timing of when we would roll those expenses out.
+We have rolled them out, those programs a little earlier this year than previous years.
+So you have some intra-quarter variances, but overall year to date from a sales and marketing, we are pretty much on track.
+R&D we are down a little bit.
+We've optimized some of our spend in our R&D area, and we have a slight headcount decrease, and in G&A, we had some legal expenses increase.
+But overall, you read our 10-Q.
+We expect those major categories to be consistent over the next quarter or so with what we've just rolled out there or just produced.
+And I would just add to that, with respect to the comments that I made earlier, there isn't a specific focus on the operating margin per se by itself.
+The operating margin is a fairly consistent trend line if you draw it over the last five years into 20 quarters moving slowly and steadily in a positive direction.
+And it's -- the real focus for us is that it allows us to move the important trend lines of topline revenue and profit forward and pursue our long-term strategy.
+I think those are really the important issues.
+There are always gives and takes, as <UNK> said, but again, from $102 million in the year ago quarter to $99 million this year, I think is roughly equivalent in our view.
+It allows us to continue the trend lines that we are really focused on.
+We will give you guidance next quarter on our views on 2016, <UNK>.
+We can just tell you if you look at this year, clearly Q1 was a strong quarter from a net adds perspective, and Q3 clearly was -- Q2 tends to be a little bit lower because of how the deletes come into the base with a lot of the strong adds in Q1 with the 45-day grace period.
+It tends to slightly increase at least a little bit in the second quarter and in the fourth quarter.
+December has a lot of holidays in the month and globally a lot of countries take holidays off.
+So Decembers tend to be a short month for us, and so we tend to see the fourth quarter seasonally be a little lower sequentially than third quarter.
+But we will give you some more color on our views on 2016 next quarter.
+Yes, thanks, <UNK>.
+So there was no conscious effort to pull any programs.
+As I mentioned earlier to a caller, if you look at the nine-month year-to-date expense in sales and marketing, it's relatively flat.
+We did this year roll some expenses -- I'm sorry, roll some programs out a little earlier in the year.
+It's a little bit frontloaded if you look at it on a quarterly basis.
+We had slightly higher sales and marketing in Q1 and Q2.
+It's just kind of how it fell this year.
+We constantly evaluate our programs, but they seem to be performing well.
+As far as Q4, we expect the expense in sales and marketing to be consistent with what it was this quarter.
+Thank you, operator.
+Please call the Investor Relations department with any follow-up questions from this call.
+Thank you for your participation.
+This concludes our call.
+Have a good evening.

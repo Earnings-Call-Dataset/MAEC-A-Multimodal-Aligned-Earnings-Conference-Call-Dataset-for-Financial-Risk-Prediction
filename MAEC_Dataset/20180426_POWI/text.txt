@@ -1,0 +1,176 @@
+Thanks, <UNK>, and good afternoon.
+As we discussed on our February call, our expectations for Q1 were tempered by the ongoing slowdown in the smartphone market, particularly in China, and by a short-term inventory correction in consumer appliances after a run of very strong growth in that market.
+We also noted that orders had recovered in January after slowing in December, but that the looming holidays in Asia made the recovery difficult to interpret.
+At a high level, the quarter played out largely as expected, with revenues landing in the middle of our projected range at $103.1 million, down 5% from the prior quarter.
+However, looking more closely at the end markets, the softness in the smartphones was somewhat more pronounced than we anticipated, while the appliance market proved more resilient.
+In fact, while revenues from the Communications category fell sharply from the prior quarter, the Consumer category grew slightly, as did the Industrial and Computer categories.
+On a year-over-year basis, Q1 revenues were down 2% overall, driven entirely by the Communications category, while combined revenues from the other 3 categories grew approximately 10%.
+This growth was led by the Industrial category, which grew in the mid-teens year-over-year, driven by the same broad range of applications and big picture trends that drove our growth in 2017.
+These include the high-power market, where we continue to see steady growth in renewable energy applications and have seen an uptick in the energy sector with the recent rebound in oil prices.
+We also continue to see growth in a variety of industrial AC-to-DC applications such as IoT devices, USB power outlets, smart utility meters and battery-operated power tools, where lithium-ion batteries are rapidly replacing gasoline and plug-in motors in products such as lawnmowers, chainsaws, trimmers and vacuum cleaners.
+The interchangeable battery packs used in these devices require chargers that not only deliver high power, but also, in many cases, can charge multiple batteries at once, meaning high dollar content for Power Integrations.
+In fact, one such design that has recently gone into production contains several of our high-power -- Hiper family ICs and over $4 of total content.
+In the consumer market, revenues increased mid-single digits year-over-year, despite the inventory overhang in the appliance market.
+We are benefiting from the rising dollar content in all manner of appliances, which in turn is being driven by multiple sub-trends, including the switch to electronically controlled DC motors, the conversion to LEDs for interior lighting and the addition of displays and network connectivity.
+It is also being driven by tighter energy efficiency specifications, as OEMs look for ways to deliver all of this new functionality with the same or even smaller power budgets.
+Power Integrations excels at helping designers meet these challenges.
+In Q1, we won a new dishwasher design with a major European appliance maker, incorporating three of our ICs, a TinySwitch for power conversion, along with CAPZero and SENZero ICs, to achieve exceptionally low standby consumption.
+We also won multiple appliance designs with InnoSwitch products in Q1, including air conditioners for major Chinese and Japanese OEMs, a refrigerator for a large European customer and multiple designs for a Korean customer using InnoSwitch3.
+InnoSwitch products are gaining traction in the appliance market, thanks to their dramatically higher level of integration, which not only brings significant reliability benefits to our customers, but also higher ASPs than earlier products.
+Turning to communications end market.
+While Q1 revenues were impacted by the softness in demand from the China handset market, we have seen a meaningful uptick in orders in recent weeks and expect significant sequential growth in the June quarter.
+In terms of the bigger picture, while adoption of rapid charging has been slowed by lengthy development process for USB PD and a muddle of competing proprietary protocols filling the gap in the interim, we believe there is pent-up demand on the part of the OEMs to move forward with a new charging ecosystem that enables not only faster charging, but also greater interoperability, with devices and chargers able to talk to each other using a common interface and deliver the right amount of power for any charger to any device.
+Power Integrations has been a leader in the initial stages of rapid charging adoption, and we believe this next phase will favor Power Integrations to an even greater extent, as increasingly complex and powerful chargers will require more sophisticated and higher-value power conversion ICs.
+Several designs incorporating our InnoSwitch3 products have recently been certified for use with USB PD 3.0 and its latest iteration, USB PD 3.0 with PPS.
+PPS stands for programmable power supply, that allows direct charging, in which the battery charging power management circuitry is relocated from the phone to the charger, helping the designers solve the thermal challenges associated with pumping more and more power into the phone.
+We have additional designs going through the certification process, including several with our latest InnoSwitch product called InnoSwitch Pro, with Pro standing for programmable.
+Introduced just last month, InnoSwitch Pro gives designers a level of control and flexibility never before seen in the power supply market, offering precise, dynamically adjustable, micro-stepping of voltage and current in 10 millivolt and 50 milliamp steps, respectively, along with field programmability through a software interface.
+The new devices may be paired with microcontroller or can take inputs from a system CPU to control and monitor the power supply.
+This capability is extremely useful in rapid charging applications, enabling designers to configure a base design for use with any fast charging protocol and allowing highly integrated designs for implementing direct charging with the PPS protocol using USB PD 3.0.
+The ability to precisely control output voltage and current is also useful for designers of specialized applications with smaller production runs, particularly in the industrial market, as they can easily configure a single-board design for multiple product SKUs using software, either at manufacture or during installation.
+Turning to near-term outlook.
+The stronger bookings that we saw in January resumed at a healthy clip after Lunar Year New Year holiday, putting us on track for healthy sequential revenue growth in the June quarter.
+We are projecting Q2 revenues of $109 million, plus or minus $3 million, with growth reflecting typical seasonal strength in air conditioning, in addition to the recovery in smartphones.
+With that, I'll turn it over to <UNK> for a review of the financials.
+Thanks, <UNK>, and good afternoon.
+Our Q1 results are straightforward.
+So I will just quickly cover the financial highlights and the outlook, and then we will open it up for Q&A.
+First quarter revenues were in the middle of our range at $103.1 million, down 5% sequentially.
+As <UNK> indicated, the sequential decline was driven entirely by the communication end market, where revenues fell by more than 20%.
+Revenues increased slightly on a sequential basis in all 3 of the other end market categories.
+Revenue mix for the quarter was 40% Consumer, 36% Industrial, 19% Communications and 5% computing.
+The consumer and industrial markets each gained 3 percentage points versus the prior quarter, while the Communications category fell by about 6 percentage points.
+This change in mix was the primary driver of the sequential improvement in our non-GAAP gross margin, which expanded by 180 basis points to 53%, its highest level in nearly 3 years.
+Non-GAAP operating expenses were $33.7 million for the quarter, about $1 million higher than the prior quarter, driven mainly by seasonal factors such as the resumption of FICA taxes and the comparative effect of the year-end shutdown in the previous quarter.
+We came in below our forecasted range for OpEx, mainly reflecting the timing of headcount additions and other spending.
+Non-GAAP operating margin was 20.3% for the quarter.
+The non-GAAP effective tax rate for the quarter was 6.4%, while weighted average share count fell by about 140,000 shares, reflecting activity on our share repurchase program.
+All in, non-GAAP earnings were $0.67 per diluted share, down from the prior quarter, but up about 6% on a year-over-year basis.
+Cash and investments on the balance sheet totaled $258 million at quarter end, a decrease of $25 million during the quarter.
+We utilized approximately $33 million for share buyback during the quarter, buying back just under 0.5 million shares at an average price of $66 and change.
+Other uses of cash during the quarter included CapEx of $6.5 million and dividend payments of about $5 million.
+Inventories increased by $6 million during the quarter and stood at 116 days at quarter end.
+That's within our target range of 110 days, plus or minus 15.
+And we expect to remain in that range for the June quarter.
+Channel inventories ticked higher by half a week, a smaller increase than we typically see in the March quarter, reflecting the fact that inventories were already a bit higher than normal exiting the December quarter.
+We do expect a reduction in distributor inventories in the June quarter.
+Looking ahead, we expect second quarter revenues to be in the range of $109 million, plus or minus $3 million, a sequential increase of about 6% at the midpoint.
+With much of the growth coming from a recovery in communication end market, we expect a somewhat less favorable end market mix, resulting in non-GAAP gross margin of around 52%.
+Non-GAAP operating expenses should be around $35 million, with the sequential increase driven largely by annual merit increases and headcount additions.
+Our non-GAAP tax rate should be between 7% and 8%.
+Share count should decline meaningfully, reflecting continued buyback activity as well as the full quarter's impact of the shares repurchased in the March quarter.
+Specifically, I expect a sequential decrease of 300,000 to 400,000 shares, depending on the movement of stock price between now and the end of the quarter.
+And with that, I'll turn it back over to <UNK>.
+<UNK>, yes, the InnoSwitch Pro is basically a higher level of integration on the secondary side, so that we incorporate more of the functionality that will be required for rapid charging, including USB PD.
+So the only thing that you need to attach to InnoSwitch Pro is a very low-cost microcontroller that will implement the protocol.
+And it doesn't matter what protocol it is, whether it's USB PD or a proprietary protocol.
+So by definition, the ASP is higher, because it incorporates quite a bit more of functionality, such as the ability to adjust the voltage or current in very, very small steps, and also be able to read voltage and current.
+There's telemetry provided in the other direction, which is very, very useful in very sophisticated charger-type applications and also for industrial applications.
+As far as the revenue from this product, there's a lot of design going on at this time.
+We just announced it about a month ago, and it will start -- should start generating some revenue in the late part of this year, but it will be more substantial in the next year.
+Well, the Communications will always be a lower gross margin business, simply because of the concentration of customers.
+The volumes are very high, and by definition, they will demand lower prices because of competition.
+Even though we provide something that is very unique and highly integrated, there is always discrete solutions, so we have to be competitive.
+However, the big difference is ASP.
+We'll get a lot more per charger than we were getting even 2 years ago.
+I can't tell you how much it will grow, but I can tell you it will grow.
+We are gaining share from our competitors.
+And on top of that, our content continues to grow.
+It's really shocking to me that even coffeemakers and bread makers now have WiFi.
+Not quite sure why, but they have them.
+So we are seeing increasing power levels, more pressure on efficiency to make it so that they can stay within the power budget allocated by energy efficiency regulations.
+Probably the most important is that they still have to meet very stringent standby requirements.
+And that standby requirements is expected to get tighter over time.
+There is a proposal in Europe to reduce it from 500 milliwatts to 300 milliwatts.
+If that goes through, that puts a tremendous pressure, especially with the added IoT features.
+I think that will put us in a very strong position with our InnoSwitch products.
+<UNK>, yes, let me talk about ZTE first.
+Our exposure to ZTE is very small and we are actually looking at how the rules might apply to us.
+So we don't have an answer on that.
+But I can tell you, it's a pretty small impact, if we were to stop shipping.
+Huawei is a little bit different.
+We do have a significant business with Huawei.
+However, there is no ruling on Huawei.
+So until they have a ruling, I don't want to prejudge what it's going to be.
+Beyond that, we have not seen any impact with the tariffs that have been put so far.
+We haven't seen any issue so far.
+But only time will tell how that's going to go.
+I'm sure there are a lot of other companies also worried about this.
+We keep monitoring, both the Huawei situation and the tariff situation, to see whether it will impact us.
+Actually, we are seeing the opposite.
+There is quite a significant shortage of passive components and also high-voltage transistors.
+And so I think that the pricing pressure will be less.
+However, we do have a cost pressure because the starting wafers, silicon wafers, the prices have gone up.
+And it will start impacting us to some extent in Q3 and Q4.
+That will have a slight negative impact on our gross margin.
+We are still -- we still don't know the exact amount, maybe <UNK> can give you a little bit more guidance on that.
+But it's not just us.
+Everybody is seeing a tightness in supply of starting wafers.
+But more important, there is a tremendous tightness in passive components and the transistors.
+Which in some ways will help us, because we have invested in capacity.
+We don't have a capacity problem.
+We have plenty of capacity.
+And -- but we will have to pay more for our starting wafers to maintain our capacity.
+<UNK>.
+Yes, so to add to what <UNK> mentioned on the margin, as you've seen, we have guided second quarter at about 52% for the non-GAAP, because of the mix swing.
+The mix will continue to be unfavorable as we make and have success in USB PD in Q3 and Q4.
+And added to that, we will get pressure from the raw material cost going up.
+So we believe from the 52% non-GAAP in Q2, we will see a further impact downward of, say, about 50 basis points in Q3 and a further 50 basis points in Q4, roughly speaking.
+And so over the year, I think, give and take, we could average, give and take, somewhere around 51.5%.
+And <UNK>, just to emphasize, our customers are much more concerned about supply than price declines.
+I won't say there will be no price declines, it depends on the application, but I think it will be -- the price declines this year will be far more subdued than it has been in the past.
+We are not on allocation.
+If you notice, we added quite a bit of capacity last year.
+We invested a lot of capital, which was the best thing we did.
+Because if we had waited longer, we would have had a hard time getting that capacity.
+Thank you for the compliments.
+We had a really strong year on HVDC last year.
+Our overall growth of the high-power market was over 20%.
+We are not expecting another strong growth this year.
+I think it will grow, but probably in the single digits.
+And that's primarily because of what you said.
+It's a very, what you call, lumpy market, if you will.
+The growth comes in spurts.
+This year, they have delayed some of the installations.
+So it's delayed to the end of the year.
+So I don't think this year is going to be, as I said, more than single-digit growth.
+However, in the long term, we feel it's a really good market.
+It has a very large SAM.
+So we think it's going to provide us with growth, in addition to all the other areas in high-power, including wind power and also oil exploration.
+Oil exploration has come back this year, which has basically gone away for a few years, thanks to very low oil prices.
+Now that the oil prices have come up, people have started exploring for more oil, especially in the U.S. And we see that also as a driver.
+Yes, thank you for the question.
+We are seeing significant interest in our iDriver product, which we introduced recently.
+This product covers 10 to 100 kilowatts -- 100 to, say, 200 kilowatts, which is perfectly suited for cars.
+Cars typically range in the 80-kilowatt range.
+And they particularly like our FluxLink isolation technology, which is much more robust than optocouplers, which are currently being used.
+So we are working with a number of automotive companies.
+We just finished qualification of that product for automotive market.
+So we are now engaged, but as you know, it's a long design cycle.
+But we are very confident that we will get a very good share of that market, as the electric vehicles take off in the next, say, 3 to 4 years.
+It's hard to be specific -- it did a little bit, but not as you much as you can see, because the inventory levels didn't come back down.
+But if you remember what we had said, it will take a couple of quarters, and that's why we had said.
+But it did come down a bit, but it increased in some other segments.
+That's why you saw the overall increase in the channel by about a half week.
+What we are seeing is that because of the shortages of other components, we are finding that the inventory levels are higher, because quite a few of these distributors provide JIT locations.
+And they supply our product, but our product doesn't get pulled because they have shortages of other.
+And that's why on the call -- when we did last call, we had talked that it will take a couple of quarters for this inventory to come down.
+But the sell-through on the Consumer side was actually much stronger this quarter from the last quarter.
+Yes, having said all of that, we expect Consumer category to grow in Q2, not as much as the Communications category, because that's going to come back stronger after a weak Q1.
+But the Consumer products will grow because the air conditioning seasonally will be the strongest in Q2, so we expect that will help us with the growth.
+So first of all, we are not in telecom.
+Base stations have much higher power than we actually make power supply devices for.
+However, we used to have a very strong position in residential WiFi networking.
+And beginning of last year, we gradually moved away from that market because it got very commoditized.
+And that has been a headwind throughout last year.
+And it is one of the big components that makes our Communications segment, on a year-over-year basis, weaker in Q1, in addition to cell phones.
+If you look at the total reduction in Communications, it looks more than cell phone end market slowdown and that's because of the residential networking, which is basically going away.
+The good news is most of that has gone away.
+So we'll have far less headwind going forward.
+So 80% of our Communications revenue now is cell phones.
+And we have significant exposure to China, about 2/3 of that comes from China.
+And that's the reason you see the decline we saw in Q1, which is kind of amplified, to some extent, by the networking area also.
+Yes, somewhere at the end of the first quarter.
+At the end of the first quarter is when we decided not to take new projects.
+And then, it gradually started decreasing in Q2, Q3 and Q4, and further in Q1.
+That\

@@ -1,0 +1,272 @@
+Well thanks, <UNK>.
+And thank everyone for joining us today.
+Turning now to our slide 3, today we reported our results for the first quarter of 2015, reflecting a combination of solid progress from our strategic product initiatives, a strong gross margin and year-over-year earnings growth, but also a challenging operating environment.
+Revenue in the quarter was $104 million, down 4% sequentially, and near the mid-point of our guidance range, as our Cable Edge business achieved record revenue while Video revenue was soft impacted by both global currency headwinds, and a continued technology transition driven pause in major projects, particularly among our Pay-TV service provider customers.
+Historically, the first quarter has been our seasonally slowest.
+And this was again evident in the first quarter of 2015 with bookings of $97 million, down 20% from a fairly strong fourth quarter, which benefited from year-end spending.
+The softer demand was seen both in international markets, a consequence of the strong dollar, and among service providers pausing before major video technology upgrades.
+Gross margin in the quarter was 54%, approximately flat with the fourth quarter, reflecting both our product strategy and our strong competitive position.
+Earnings were $0.05 a share, a penny below last quarter's results, but up sharply from the first quarter of last year revealing the leverage we're building into our business, and the underlying improving earnings power of the Company.
+Well, with that overview, let's now turn to slide 4 where I'll provide more detail on our Video business result for the quarter.
+You know, despite soft first quarter demand for our Video products, strategic progress in mid- to long-term market dynamics were actually encouraging.
+So how do we reconcile a slow start to the year with our continued strategic conviction here around Video.
+Well, even within EMEA and the APAC region (inaudible) currency headwinds depressed investment.
+We increasingly saw customers, particularly Tier 1 service providers, pausing spending and looking forward to major operational transformations that will leverage video function virtualization and internet protocol technology for great flexibility and efficiency, while at the same time enabling 4K or Ultra HD formats in the new HEVC compression standard.
+The imperative for this next generation of more flexible and efficient video infrastructure was also highlighted during the period by a string of new service announcements from some of the world's leading media companies and Pay-TV service providers, including CBS, HBO, the NFL, Dish, and Verizon.
+These emerging business dynamics and the corresponding enabling technologies were front of mind for most of our customers.
+And I can tell you that momentum toward network function virtualization for video processing in general, and around our VOS platform in particular, is accelerating.
+[But we're still] early days.
+During the quarter, we secured nearly two dozen customer wins on our new software platform, including with several Tier 1 service providers.
+Compared with several of our high-profile trials and shoot-out successes, we're paving a well-lit path toward validating the viability of virtualized video infrastructure for both media companies and Pay-TV service providers.
+Now, while still a relatively small number, bookings for our VOS related products and licenses grew by over two-x relative to the prior quarter, driven again by both customers adopting the platform for the first time, and also by early VOS customers adding new software licenses to expand network functionality and channel density.
+We're also encouraged to see modest sequential growth of our global business with broadcast and media customers during the quarter as we're doing a better job leveraging our integrated video production through delivery solution sets, which extend from content capture to direct-to-consumer over-the-top streaming.
+And finally here regarding the first quarter, we started to see the first real signs of life for Ultra HD channel deployments as we sold our, and the industry's, first full-frame live Ultra HD encoders to several Tier 1 service providers.
+Now, while Ultra HD is coming slower than we had hoped, there is an unmistakable increase in technology evaluation and trial activity that bodes well for future investment.
+And on that note, let's now turn to slide 5 where I'll provide an update on the key themes we see impacting our Video business for the balance of 2015, and our progress executing on the strategic milestones we've previously outlined.
+As I mentioned just a moment ago, the adoption of network function virtualization to produce and deliver live TV over IP is indeed accelerating.
+And our customers continue to turn their attention toward IT paradigms in general, and Harmonic's VOS platform in particular, to leverage our newest innovations in video quality, compression, and function integration.
+And here, our wins over the past few quarters were advancing the industry's understanding of and confidence in this new virtualized software approach to video infrastructure.
+And while many service providers are still getting educated and evaluating the technology, we see growing momentum toward virtualization throughout the balance of 2015.
+[Analogously], as just discussed a moment ago, the first quarter also offered fresh evidence of a new era of linear over-the-top services provided by both broadcast and media companies, and traditional Pay-TV service providers.
+Associated with these new services, the clear trend toward higher resolutions displays in smartphones, TVs, and tablets highlights the increasing importance of picture quality and compression technology.
+Our technology leadership and customer relationships spanning broadcast media and MVPDs strongly position us to capitalize on the industry's investment in these evolving over-the-top distribution models.
+Now, while many elements of the 4K and Ultra HD ecosystem are indeed starting to come together, the industry's transition remains in the very early stages.
+Nevertheless, this maturation process is now clearly underway.
+Test channels are being launched, and trial activity is gaining momentum.
+In large part, for Harmonic's products and for our our industry leadership of the Ultra HD forum.
+Outstanding work is really being done here.
+At the recent NAB Show, our innovation in this area was further emphasized in partnership with SES, Sinclair, and Sony to deliver live, linear, full-frame, Ultra HD over-the-top streams directly to internet connected smart TVs inside the Las Vegas Convention Center, bypassing the need for set top boxes.
+Really innovative stuff that is garnering considerable industry attention.
+So that's that.
+Despite these encouraging market dynamics, as we consider the balance of 2015, we're also acutely aware of both the continuing potential for impact on our business caused by customer M&A activity, and the very real macroeconomic and geopolitical turbulence we've experienced in combination with the global strengthening of the dollar.
+So considering all of that as background on the market dynamics we see, let's now pivot to our Video business progress milestones.
+With respect to our VOS platform, we're making significant progress shortening the sales cycle, adding new customers to the platform at an accelerating rate, and making solid progress licensing new sales of additive functionality and software to customers already on the platform.
+And in turn exploiting our unique horizontal technology portfolio to transform customers' operations and expand our share of the market.
+Turning to 4K and Ultra HD, despite the modest near-term revenue opportunities for live Ultra HD service, we're winning new business across all of our end customer verticals.
+As I mentioned previously, we're actively shipping our live full-frame Ultra HD encoders for test channels, and anticipate this trend to gain further momentum in the coming months.
+And finally here, we remain focused and actively engaged with customers eager to deploy our Polaris solutions for scalable media orchestration to further leverage the power of our innovative Channel Port technology.
+And here we recently announced a key early win with the PBS stations of Louisiana, and anticipate several other deals to follow.
+All right, so let's now turn to slide 6 and talk about our Cable Edge business.
+Our Cable Edge business achieved record revenue and bookings as well as strong gross margins in the quarter, further demonstrating our progress toward creating a transformative new growth engine as we continue to penetrate the emerging centralized and distributed CCAP markets.
+Turning first to our approach to the centralized CCAP space, deployments of our NSP Pro platform continue to reflect exceptionally strong customer reception for video-on-demand, cloud DVR, and modular CMTS applications.
+Revenue for this platform now accounts for over half of our Cable Edge business for the first time this quarter, highlighting our success in downstream CCAP as we continue to expand network footprint with existing customers, while also adding new international customers during the quarter.
+Turning to distributed CCAP, customer interest in this fiber deep architecture continued to grow during the quarter, evidenced by an expanding pipeline of distributed CCAP opportunities and bolstered by positive customer feedback on our new NSG Exo two-way CMDS product.
+We received encouraging early orders during the quarter, and are actively involved in several trials in the US, Europe and Asia.
+The expanding opportunity for this technology was on display at NAB through the collaborative deployment I spoke about just a moment ago with SES and Sony to enable an IP-based, full-frame Ultra HD end-to-end delivery system, which utilized the unique capabilities of our NSG Exo as a CMTS for DOCSIS transmission of the Ultra HD content directly over IP to smart TVs.
+And importantly, through this expanding body of distributed CCAP field deployments, we as a Company are gaining valuable two-way DOCSIS field experience that will serve us well as we further advance our CCAP agenda.
+And so with that look back on the first quarter, now let's turn to slide 7 for an update on our outlook for the Cable Edge business for the balance for 2015.
+Following this record quarter, we anticipate the same market dynamics to drive sustainable demand and growth opportunity.
+Specifically, cable operators continue to unleash more powerful and user-friendly content navigation guides accelerating the consumption of video-on-demand and cloud DVR service, and by extension, demand for video edge QAM.
+Additionally, with IP-based over-the-top streaming services on the rise, and with an increasing amount of this content rendered in 4K, bit rates and stream quality are increasing, driving growing demand for modular CMTS downstream ports.
+More broadly, the intensifying level of competition among service providers to deliver multi-gigabit data rate increasingly cause cable operators to look ahead to plans for the deployment of next generation CCAP-enabled products designed to support DOCSIS 3.1 technology from the ground up.
+Our third key market dynamic is the continued bifurcation of the CCAP opportunity with growing momentum for distributed CCAP-based solutions.
+Now, this is particularly the case in areas where cable operators are extending fiber access networks to coax-wired multi-dwelling buildings and small businesses in a support of denser wifi architectures where our new NSG Exo CNTS is especially well suited.
+And finally, as already noted regarding the Video side of the house, our customers consolidation and planning activities are ongoing, presenting some investment timing uncertainty.
+We were impacted by some of this activity in Europe during the first quarter, manifest as a project delay.
+And so we remain cautious in the near-term of the potential for further delays.
+And so let's now pivot to the milestones by which we're measuring our Cable Edge strategic progress in 2015.
+We continue to expand the NSG Pro platform footprint in the quarter, both domestically and internationally.
+Now, this is a crucial component of our longer term success in CCAP as it broadens the opportunity for future downstream software license sales, while also cementing a foundation from which to insert our DOCSIS 3.1 two-way technology.
+Additionally, we successfully expanded our customer base on the NSG Exo during the quarter while gaining valuable two-way DOCSIS CMTS deployment experience.
+And finally, of significant importance to our overall CCAP initiative and progress, we're making really good progress, really meaningful progress in our centralized DOCSIS 3.1 development program.
+And we remain on schedule to enter customer labs with two-way 3.1 solutions based on our NSG Pro platform later this year.
+Here again, we'll continue to keep you apprised of our product development and customer valuation progress.
+Okay, let's now turn to our slide 8 where I want to step back and speak to the big picture.
+Our market is clearly in transition.
+But we are out in front, transitioning Harmonic to thrive in the new environment.
+As I mentioned previously, there's no doubt in my mind or in our customer's mind that Harmonic is uniquely positioned strategically.
+We stand tall in the marketplace with commanding share leads in nearly every market segment we focus on.
+Following several years of investment and close collaboration with both our media and service provider customers, we're very well positioned to capitalize on key industry trends around virtualization, the migration to IP-based video, 4K or Ultra HD, over-the-top, and CCAP.
+And we are truly differentiated in the market with unparalleled innovation, service, a compelling total cost of ownership proposition, and a strong global brand and reputation.
+And the road signs to solid earnings growth this year remain compelling.
+Margins are expanding, operating expenses are carefully controlled, our share count has been significantly reduced, and we continue to be laser-focused on delivering earnings growth and expanding enterprise value.
+And on this point, I'd like to highlight another key element of our value creation agenda.
+As many of you are aware, we've continuously evolved and strengthened our Board of Directors as we've evolved the Company.
+Sue Swenson and Mitzi Reaugh joined us only two years ago.
+And I'm pleased to say last month, Nikos Theodosopoulos joined Harmonic's Board.
+Nikos brings a deep understanding of the media and telecommunications space, virtualized network infrastructures, and emerging cloud-based architectures, along with a strong financial background and a clear focus on shareholder value.
+I've been fortunate to enjoy a long-standing relationship with Nikos while he was at UBS. And I'm very pleased to have him join us.
+On behalf of the other members of the Harmonic Board of Directors, we welcome Nikos and look forward to his contributions.
+And so with that, <UNK>, let me turn the call over to you to talk more about the results and our financial outlook.
+Thank you, <UNK>.
+Let's move to slide 9.
+Our net revenue for the first quarter was $104 million, near the mid-point of our guidance range, and down approximately 4% from both $107.9 million in the fourth quarter of 2014, and $108 million in the year-ago period.
+Our Cable Edge segment was up $13.8 million sequentially, led by improved demand for NSG Pro platform.
+This was offset by a decrease in our Video segment of $17.7 million.
+As <UNK> mentioned, the decline in our Video segment is principally related to a global investment pause in our service provider vertical pending the adoption of next-generation technologies and architectures as well as the continuation of soft demand trends within EMEA and APAC regions which were further compounded by the strengthening dollar during the quarter.
+Our bookings for the first quarter were $97.3 million, down 20% sequentially, and 23% from the first quarter of 2014.
+On a year-over-year basis, the investment pause we discussed in our Video segment as well as the strengthening dollar played a significant role in the decline.
+Additionally, Q1 2014 had $10 million of multi-year service contracts included in those bookings.
+These declines were partially offset by record bookings in our Cable Edge segment.
+Anticipating your questions, I'll take a moment here to address the impact of the strengthened dollar on our revenue.
+As we have historically stated, while approximately half of our revenue comes from outside of the United States, ultimately 90% of our revenue is invoiced in US dollars.
+So while we don't see a big translation impact on our financial statement, we still have a very real impact on our business.
+The global strength of the dollar has significantly impacted the purchasing power of our channel partners and end customers.
+In fact, approximately 23% of our 2013 bookings were sold to regions where currency has devalued a blended 17% to the US dollar.
+This impact has caused not only the need to discount more heavily to some of these regions, but has delayed the investment by these customers of needed infrastructure.
+Given the average of another 7% decline early in Q1, we felt this impact again during the quarter.
+Our book-to-bill ratio was 0.9.
+Deferred and backlog was $122.2 million at the end of the first quarter, down 5% sequentially and 3% year-over-year.
+This decrease is due to generally lower bookings in the quarter, offset by a build in backlog and deferred for orders of our new VOS platform, which will be recognized in the coming quarters.
+Separately, deferred revenue on its own grew $9.5 million sequentially.
+This was primarily attributed to an additional month of SLA billing in the quarter, given our April 3rd quarter-end date.
+Gross margin was 53.9% in the quarter, above the high end of our guidance range, an increase of 60 basis points from the first quarter of last year, and approximately flat with the fourth quarter.
+The year-over-year improvement principally reflects the improvement of our NSG Pro margin now that we're running at full production levels.
+Non-GAAP operating expenses in the first quarter were $49.9 million, down from the prior quarter's $51.6 million.
+And down from $54.1 million in the year-ago period.
+As you know, over the trailing four quarters, we have reduced our operating expenses by just over $13 million.
+This reduction reflects the alignment of our R&D investment as our new technology platforms have come to market.
+It also aligns our SG&A spending with the run rate of our business.
+Our headcount was 1,008, down 2% from the fourth quarter, and 3% from a year ago.
+Now, let's move to slide 10 and take a deeper look into the revenue and operating margins of our Video segment.
+We had a challenging first quarter in Video with revenue down approximately 20% sequentially.
+This decline spanned all geographic regions and was impacted by the continued global strengthening of the dollar, and by our service provider customers as they more broadly planned for the adoption of next-generation video technologies and architectures.
+The good news is we're starting to see the transition begin.
+Orders from customers adopting our VOS-related products went from one in the third quarter of last year, to more than a handful in the fourth quarter, to nearly two dozen in the first quarter of this year.
+As we have historically seen with new product introductions, we are starting to see a greater percentage of these earlier deals result in projects causing growth at our deferred revenue balance.
+Given the accelerated adoption of our next-generation technologies and architectures, and the pipeline of opportunities we anticipate to close in the coming quarters, we expect a build of backlog and deferred revenue for these related products and services with a revenue recognition more heavily weighted through the second half of this year.
+I'll discuss this more in a moment.
+Lower revenue in the quarter drove our operating margin in the Video segment down 10 points below the fourth quarter's result to nearly break-even level.
+Now, moving to slide 11, let's take a look into the revenue and operating trends of our Cable Edge segment.
+Despite customer consolidation activity having a real, but modest impact on our revenue in the quarter, we had an exceptionally strong quarter in the Cable Edge segment, establishing a new high-water mark in the business as our CCAP-enabled products gained increasingly strong global momentum with cable customers.
+Record revenue of $34.7 million, up 66% sequentially, while most pronounced in North America, was also stronger in the APAC region.
+Taking a step back and looking at our progress on the edge more broadly from a year-over-year perspective, we're demonstrating solid double-digit growth rates in each of our geographies.
+Led largely by our advancement in CCAP, product revenue in the Americas were up 26%, EMEA was up 69%.
+And building on the momentum through the back half of last year, the APAC region advanced 49%.
+As <UNK> mentioned, we're also just now starting to establish good momentum with the NSG Exo, which we introduced a quarter ago to address the distributed CCAP architecture.
+The operating margin of 17.8% in our Cable Edge segment reflects the leverage characteristics we've built into the business, and the benefit of delivering more of our value in software this quarter.
+Moving now to slide 12, let's take a deeper look into the revenue trends in the first quarter.
+From a geographic perspective, revenue from the Americas was down 1% versus the fourth quarter.
+The strongly improved Cable Edge revenue led principally by our service provider customers in North America, was offset by a decline in video revenue.
+While the decline in Video spanned all geographies, it was most evident in the North America service provider vertical.
+Although EMEA remained challenging with revenue down 7% sequentially, we were encouraged by a strong rebound from our broadcast and media customers in the region, and a modest sequential improvement in the Russia, Africa, and Middle East regions on a combined basis.
+Nevertheless, we remain cautious of the strengthened dollar and geopolitical climates of these regions.
+The APAC region declined 8% as softer demand in video processing from service providers customers offset strengthening demand for our Cable Edge products.
+Broadcast and media revenue was up 3% sequentially, led by a modest increase in our production and playout products, and a more significant rebound from customers in the EMEA region.
+This was offset by the softer North America demand in the quarter.
+You may recall we exhibited strong momentum with several of the world's leading media companies in North America through the back half of last year.
+And as <UNK> mentioned just a moment ago, we remained well positioned to resume this momentum going forward.
+Finally, notwithstanding the record revenue performance of our Cable Edge segment, service provider revenue declined 7% from our significantly improved fourth-quarter results broadly reflecting the global investment pause in video.
+We remained strongly engaged with both new and existing Pay-TV customers.
+And as I just pointed out, we're starting to see the acceleration in bookings for our new strategic products in the video space.
+Comcast was our only greater than 10% customer in the quarter, accounting for approximately 20% of revenue in Q1.
+Now, moving to slide 13, we continue to drive a healthy balance sheet.
+We ended the quarter with a cash balance of $101.9 million, down $3 million from the prior quarter, reflecting approximately $2 million of cash from operations, and just over $5 million used to repurchase shares.
+Looking more closely at cash from operations, we placed a deposit of $14.2 million with a contract manufacturer in the quarter.
+I'd also like to note, we impaired our $2.5 million investment in VJU during the quarter.
+Our receivable balance was $75.9 million.
+And our DSOs were 67 days, up slightly from last quarter's 63 days largely as a result of the extra month of SLA invoicing that occurred this quarter.
+Inventory was $31.5 million, down slightly from the prior period.
+Inventory turns were 6.1 times, matching our fourth quarter results.
+Significantly, we returned over $236 million to our shareholders in the form of share repurchases since the second quarter of 2012 at an average price of $6.23 leaving our shares outstanding at the end of the fourth quarter at 88.8 million shares, a 32% reduction over the same timeframe.
+Now, let's turn to our outlook on slide 14.
+We believe similar trends impacting revenue in the first quarter will likely continue into the second quarter.
+While we anticipate a sequential rebound in our Video business, demand in several geographies remains sluggish due to choppy macroeconomic conditions and the global strength of the dollar.
+In addition, while customers are more broadly adopting next-generation video processing networks, we anticipate further projects which will have deferred revenue components.
+And so we do not expect revenue recognition of these projects until we enter the back half of this year.
+Lastly, we continue to face some uncertainty due to customer M&A activities.
+We therefor expect our revenue to be in the range of $97 million to $107 million.
+Non-GAAP gross margin in the second quarter is expected to be in the range of 52% to 53% due to a slightly lower expected mix of software sales in our Cable Edge segment somewhat offset by a modest rebound in our Video revenue.
+For the second quarter of this year, we have targeted our non-GAAP operating expenses to be within a range of $49.5 million to $50.5 million.
+We anticipate our non-GAAP tax rate for the second quarter to be 21%, subject to our domestic versus international splits.
+Looking beyond the second quarter, we would like to provide you with an update on how to think about our business through the second half of this year.
+We continue to be mindful of the fragile macroeconomic conditions in several pockets of EMEA and APAC regions, and the global strength of the US dollar.
+In addition, as I've already highlighted, we anticipate our broadcast media and service provider customers will continue to accelerate the deployment of our new strategic product initiatives in video.
+But some of these activities will remain on our balance sheet in the form of backlog or deferred revenue for several months.
+As a result, we anticipate a steeper second-half ramp as revenue becomes more fully recognized in the third and fourth quarters.
+With this caveat in mind, we continue to expect modest single-digit revenue growth for 2015.
+From a gross margin perspective, the NSG Pro margin has improved since we began shipping the product late in the fourth quarter of 2013.
+Given a full year at our target gross margin, and as we deliver more of our value in software while making continuous improvements to our supply chain and manufacturing processes, we anticipate further gross margin expansion to 53% or better for the full year of 2015.
+With respect to operating expenses, we believe we have balanced the needs of our business with market opportunity.
+And that we will continue to benefit from the R&D efficiencies we've built into our model via our transition to a more software-centric product portfolio.
+As a result, we anticipate a $10 million to $15 million reduction for the full year of 2015 when compared to operating expenses in 2014.
+We base this outlook on modest single-digit revenue growth.
+Finally, we anticipate our non-GAAP tax rate for the full year to be 21%, once again subject to our domestic versus international split.
+We believe this framework will provide meaningful year-over-year earnings growth through 2015 and beyond.
+With that, I'll turn the call back over to <UNK> for his closing comments.
+Okay, thanks, <UNK>.
+Let me simply summarize by saying the market is in transition.
+And we're transitioning Harmonic to thrive in the new environment.
+As the video marketplace begins to embrace virtualization, we're winning new VOS customers, and strengthening our position in existing accounts.
+As the marketplace begins to embrace Ultra HD and HEVC compression, we're winning high-profile Ultra HD and HEVC shoot-outs, and seeing trial activity gaining momentum.
+As the cable industry gears up for a move to IP-delivered video enabled by centralized and distributed CCAP, our new platforms and entry into the space are progressing well.
+Nevertheless, we're operating within choppy market conditions with currency headwinds overseas, customer consolidation dynamics, and adoption speed of new technologies creating uncertainty around near-term investment.
+And as <UNK> just explained, consequently our second-quarter outlook.
+All that being said, we're pleased with the year-over-year earnings growth delivered in the first quarter.
+And we remain cautiously optimistic that adoption of our new products will continue to accelerate, and at the back half of this year will drive both top and bottom line growth.
+And so with that, let me say thank you for your continued interest and support.
+And let's open the call for your questions.
+Yes, it is at this point.
+We had a slow start.
+But we're encouraged by the dynamics, as I explained.
+We've seen it before with product transitions where there's a real pause before the uptick.
+As <UNK> walked through, we've seen a material increase in the early sales of our VOS platform.
+And we're looking for a further acceleration in the second quarter and onward.
+Yes, it's definitely video procession.
+And I would say that's somewhat corresponding to the fact that it was particularly video service providers -- traditional Pay-TV groups.
+Some of our large Pay-TV customers are also some of the most aggressive and forward-looking about moving to virtualization.
+They're also among the most aggressive looking to move to Ultra HD.
+And so therefor, they're the ones who are most -- really planning actively their next moves, holding back on immediate investment to really roll out something new and special.
+Put differently, there's a stronger correlation between our production and playout products and our broadcast and media customer group.
+And as <UNK> just highlighted, we actually saw sequential growth with our broadcast and media customers.
+And that reflects pretty strong and consistent demand trends around our production and playout products.
+Yes.
+It was a record quarter for us from a Cable Edge perspective.
+Our new Cable Edge product, the downstream CCAP product, or edge QAM, is packaged in a platform, the NSG Pro platform, which is designed to accommodate both one-way downstream services as well as two-way services.
+We were still working on introducing our two-way 3.1 capable technology.
+There's certainly other players out there on the market.
+We think we're going to be a strong competitor with this two-way product.
+And the fact that we're establishing such a strong deploy base of the Pro platform, both domestically and internationally, across many different MSOs, gives us amplified reason to be encouraged about our ability to be competitive.
+Thank you.
+We just came back from one of the largest digital video related trade shows of the year, NAB in Las Vegas, which is attended by tens of thousands from all over the world.
+And if I wanted to pick one data point, that's perhaps the best opportunity for cross-section of discussions across geographies as well as different verticals.
+And we come away quite encouraged.
+You know, it was just a year ago that we introduced at that show the notion of pushing video infrastructure to virtualization.
+And frankly, there was some skepticism and some question.
+It's markedly different a year later.
+The discussions at this year's shows were very much about real deployments.
+And [I think] what we've seen over the last year, and not that it's gone, but it's been a period of a lot of our customers sitting back and taking stock.
+Saying, gee, where's all this going.
+And not unlike the way you or I might pause if we were to think about buying a new television.
+We might wait a minute and kind of make sure that the new Ultra HD model was ready.
+Or whether it's (inaudible).
+We've seen a similar pause around the next generation of video technology.
+People get it that the next generation has the potential to be completely virtualized on very efficient and flexible blade servers.
+They get it that it should support not only traditional services and resolutions, but also Ultra HD.
+They get it that it should support flexible over-the-top platforms.
+And that's led to a lot of conversations and frankly, customers kicking the tires.
+And so we've been in a lot of labs.
+We've had a lot of early sales to a number of, I would call them blue chip customers.
+And all of that has gone quite well.
+And so we see material evidence of strengthening, of momentum coming out of the first quarter, momentum that we have quarter-to-date on the second quarter, all of which informs our view of a real rebound in the bookings for the quarter.
+And as <UNK> said, that rebound in bookings spilling over into revenue in the back half of the year.
+If I might add, <UNK>, for NAB I think last year was about the notion of UHD.
+This was more about the maturing solutions in UHD.
+So we had the UHD workflow from our UHD playout capability through branding and graphics and coding and over-the-top for UHD.
+And that attracted a lot of interest of the Pay-TV operators.
+And then secondly, the SES demo which you mentioned, we showed the complete flow from, as they say, glass to glass, camera to television, all IP as if it was a live sports broadcast.
+So we had the camera plugged into an outside broadcast truck with our UHD oncoder.
+And that was going ultimately over two satellite links to get back to the hall with a live demo of that on the TV receiving it as IP, and showing that in full Ultra HD.
+So it was a real solution.
+And service provider, Pay-TV operator companies were very interested in that.
+Absolutely.
+No, I'd say it's both.
+I think the build of additional bookings will have a bigger impact.
+Well, first I think it's important to remember that customer M&A for us is certainly more broader than the Comcast, Time Warner deal.
+Of course, we're keenly interested in DIRECTV, AT&T, and overseas Vodafone and LGI are key relationships.
+In Latin America Televisa and America Movil have all been inquisitive companies where we've see combinations going.
+And in general all of those have been a positive from our perspective.
+As mentioned in the prepared remarks, in one of those cases in Europe actually we did see a delay of an expected project.
+And so we're, I think, perhaps have a heightened realization that project timing or delays is certainly possible through these discussions and through these processes.
+And so we're mindful of that as we go into the second quarter in the back half of this year.
+But I wouldn't overstate our -- the potential impact beyond that.
+Okay.
+Well, thank you very much.
+At least [caused] by simply highlighting the fact that we are executing well on our strategic agenda.
+Our Cable Edge business is really thriving.
+And our Video markets are showing clear evidence of a rebound.
+We're intensely focused on driving both revenue and earnings growth this year.
+And we believe the opportunity remains compelling.
+And I can tell you we're leading this organization with a well-defined road map and a clear resolve to drive both top and bottom line growth.
+With that, we look forward to updating you again on our progress over the course of the quarter and on next quarter's call.
+Thank you again, everyone, for joining us today.

@@ -1,0 +1,150 @@
+Good day, ladies and gentlemen, and thank you for standing by.
+Welcome to the Cray Inc.
+Fourth Quarter 2017 Financial Results Conference Call.
+(Operator Instructions) As a reminder, this conference call may be recorded for replay purposes.
+It is now my pleasure to hand the conference over to Mr.
+<UNK> <UNK>, Corporate Treasurer and Investor Relations contact.
+You may begin.
+Thanks, <UNK>.
+Good afternoon.
+I'd like to thank everyone for joining us today.
+Participating from Cray are <UNK> <UNK>, President and Chief Executive Officer; and <UNK> <UNK>, Executive Vice President and Chief Financial Officer.
+Today's press release is available on the Investor Relations section of our website at www.cray.com.
+This call is being broadcast live on the Internet and recorded for replay purposes.
+A telephonic replay will be available shortly after the call.
+You can access it by dialing 1 (855) 859-2056.
+International callers can dial 1 (404) 537-3406.
+You must then enter the access code 56308204.
+A replay will also be available in the Investor Relations section of the Cray website for 180 days.
+I'd like to remind each of you that today's conference call will contain forward-looking statements that are based on our current expectations.
+Forward-looking statements include statements about our financial guidance and expected future operating results, our product development, sales and delivery plans, our ability to expand and penetrate our addressable market and other statements that are not historical facts.
+These statements are only predictions and actual results may materially vary from those projected.
+Please refer to Cray's earnings press release dated today and annual report on Form 10-K for the period ended December 31, 2017, as well as Cray's documents filed with the SEC from time-to-time concerning factors that could affect the company and these forward-looking statements.
+Our presentation includes certain non-GAAP financial measures in an effort to provide additional information to investors.
+Non-GAAP measures other than non-GAAP outlook have been reconciled to their related GAAP measures in accordance with SEC rules.
+Our non-GAAP measures adjust for certain noncash, unusual and infrequent items included in our GAAP results.
+Typical adjusting items include stock-based compensation, amortization of purchased and other intangibles and purchase accounting adjustments.
+We also adjust our book tax provision for certain items, including the impact of noncash items, such as benefits principally related to our net operating loss.
+You can find a reconciliation of these non-GAAP financial measures to GAAP financial measures and a discussion of our non-GAAP outlook in our earnings press release, which is posted on our website and which is included with a related 8-K furnished to the SE<UNK>
+With that, I would like to turn the call over to <UNK> <UNK>.
+Thanks <UNK>, and thank you all for joining the call today.
+I'll start with some comments on our fourth quarter and full year performance, then turn it over to <UNK>, who will take you through our financial results and outlook.
+I'll wrap up by discussing our plans for 2018 and then open the call for Q&A.
+As we announced in January, we finished the year on a good note, completing all of the large acceptances we were targeting and most of the smaller ones, recognizing more than $160 million in revenue for the quarter.
+As we expected for 2017, revenue was down considerably as our target market continued to be in a significant slowdown.
+We saw this across the board at the high end of supercomputing, impacting each of our product groups as well as most of our target geographies, several of which were down substantially year-over-year.
+We believe multiple factors contributed to this slowdown, including a challenging government funding environment in multiple countries around the world, a slowdown in the pace of technology improvements in processors, increasing memory cost, a slowdown in the energy market and a general delay in decision-making as large customers took a pause in replacing older systems.
+All told, we believe our target market was down by more than 60% in 2017 when compared to our peak in 2015.
+The impacts of this are evident as many systems in the field are beginning to age well beyond the typical 4-year replacement cycle.
+This is impacting our customers in many ways, including extended maintenance and service contracts, longer wait times for end users as the demand on these systems continues to expand, higher-than-anticipated operating costs and changes in deployment plan.
+While this has certainly been a more pronounced, sustained downturn than what we've seen in previous cycles, we do not see a fundamental shift in the industry and we continue to believe that the market will rebound over time, beginning this year.
+The long-term demand drivers are intact, and the trends continue to favor the incorporation of more and more data into large-scale simulations, deep learning algorithms and big data analytics.
+Now let me take you through how we did against our 3 main focus areas we laid out for the fourth quarter.
+The first was to execute against our outlook and continue to win new business.
+We didn't quite hit our goal here as we missed our $400 million revenue target by about $7 million, as a few smaller acceptances weren't completed before year-end and are now expected to be recognized in the first quarter of 2018.
+That said, we did complete all of the large acceptances we were targeting in the fourth quarter.
+Among these were 2 XC supercomputers and ClusterStor storage systems, which we installed at the Ministry of Earth Sciences in India.
+This is a significant upgrade to this weather center's high-performance computing capabilities and on a combined basis, it is the largest supercomputer complex in India.
+For Cray, this is our largest win to date in India and it further extends our leadership position in the worldwide weather forecasting and climate research markets, where customers select our systems to improve their accuracy of numerical weather prediction.
+In fact, more than 75% of the world's global modeling centers now run Cray systems for this important lifesaving service.
+On the awards front, we had a nice quarter of wins across each of our product groups.
+Our XC supercomputing system was selected by several government and commercial customers, including several customers in our Asia Pacific region, which has been one of our strongest geographies over the last couple of years.
+In Europe, an F1 racing company selected our CS cluster system as did a public research university in the Middle East.
+Our second focus area for the quarter was to continue to expand into commercial customers and the big data market.
+We did well on this goal as revenue from commercial customers increased both on a dollar basis and as a percentage.
+And we finished the year with more than 12% of our total revenue coming from commercial customers.
+In artificial intelligence, Samsung Strategy and Innovation Center selected our CS-Storm solution to power its work in systems for connected cars and autonomous driving.
+Our CS-Storm is a densely packed GPU accelerated supercomputer that excels at running deep learning workloads at scale.
+This is a great win, and we're excited to be collaborating with Samsung in their innovative efforts.
+A leading financial services company also selected our CS-Storm to leverage deep learning techniques to expand its property and casualty life insurance claims and processing capabilities.
+Also, a government customer selected 2 of our Urika-GX systems for their use in big data analytics.
+Our final focus area for the quarter was to continue to integrate the strategic transactions we completed in the third quarter with Seagate.
+We took over a large majority of Seagate's ClusterStor high-performance storage business, which we now sell both directly and through third-party resellers.
+While we're not entirely done with the integration, we're making good progress across each of our organizations and are now shipping systems and software directly through Cray.
+Overall, I'm pleased with the speed that we delivered on this important goal.
+Shifting gears, we made a notable addition to our leadership team.
+In December, Catriona Fallon joined our Board of Directors.
+She is currently the Senior Vice President of The Network segment at Itron, and she was the CFO of Silver Springs Networks before Itron's acquisition of the company in January.
+Previously, she was the Executive Vice President and CFO of Marine software and she has held executive level positions at other technology companies, including Cognizant and HP.
+I'm pleased to welcome her to our board and look forward to working with her.
+With that, I'll turn it over to <UNK> to take you through the numbers.
+Thanks, <UNK>.
+We have 2 key focus areas for 2018.
+The first is to win new business for this year and beyond, and the second is to continue to expand into commercial customers and grow our big data solutions.
+As <UNK> just mentioned, we're expecting to drive growth this year, which, while not up to the revenue levels we were at just a couple of years ago, is pretty exciting given the market environment we recently faced.
+We also came into 2018 with several contracts already in hand, which, on a percentage basis of our total targeted revenue for the year, is more than what we entered 2017 with.
+Our win rates have remained strong, especially on large procurements.
+And we'll continue to expand on our value proposition as we'll be refreshing our entire product line in 2018.
+So stay tuned for more on that in the coming quarters.
+Market activity at the high end is not yet as strong as we would like, but we're seeing early signs of a rebound beginning this year.
+Customer plans are beginning to firm up, as well as necessary funding.
+As such, 2018 is shaping up to be significantly more active, especially in bidding for new systems.
+It is currently looking like we'll bid on more than 3x as much business this year compared to 2017.
+Some of this is for revenue in 2018, but much of it would be for -- targeted for delivering acceptance in coming years, including 2019 and beyond.
+As a result, in addition to driving revenue growth over 2017, we're cautiously optimistic in the prospects for significantly higher bookings over the next couple of years.
+While the budget process is not settled here in the United States, things are progressing and the government funding environment continues to look positive for high-performance computing, both in the U.S. and around the world.
+Some of the long-term projects that our customers are discussing are extremely significant in size.
+These systems, specifically at the exascale level, could be several hundreds of millions of dollars in total contract value.
+Some of this funding would likely go toward R&D work related to the significant performance jump for these systems, but most of it would be for the supercomputing and storage systems as well as the long-term maintenance and service.
+This is clearly a big opportunity for systems vendors like us, who are dedicated to delivering high-performance solutions.
+It is looking like the supercomputing market is shaping up to be strong over the next several years.
+And with this unique exascale opportunity on top of that, the period from the early 2020s through the mid-20s may shape up as one of the best high-end supercomputing markets in history.
+This is why we're investing as much as we are now in R&D to position ourselves to take advantage of this significant opportunity.
+Our second focus area for 2018 is to continue to expand into commercial customers and big data markets.
+In commercial, we're pursuing multiple avenues to drive growth.
+First, we're leveraging our core technology to deliver the scale and performance that commercial customers need to take their work to levels not possible on commodity based systems.
+Second, we're investing to make our systems more usable and adaptable for commercial customer environments.
+Third, we're working with partners who have end-user applications expertise to create unique solutions that are specifically targeted to individual segments.
+And finally, we're working with partners to create alternative delivery methods for our technology, such as through public clouds or other as-a-service offering.
+These alternatives to on-premise or third-party hosted solutions provide a unique value proposition, which, we believe, is compelling for certain customers.
+These areas are still small from a revenue perspective, but have the potential to drive faster growth over time as these markets continue to grow rapidly.
+In big data, we're focused on 3 specific areas: analytics; high-performance storage; and artificial intelligence and deep learning.
+All of these markets are growing faster than our target supercomputing systems market, and each is benefiting from the explosion in data that is driving so many opportunities in tech today.
+These markets are also converging as customers look for the ability to run traditional simulation and modeling on the same systems that they run data analytics and deep learning algorithms.
+In storage, we're focused on expanding our leadership position and on winning new business through each of our sales channels, both direct and through our reselling partners.
+Our ClusterStor storage is the most cost-effective production Lustre file system solution in the market, with the ability to deliver the world's fastest data access rates that feed simulations, artificial intelligence algorithms and big data analytics.
+Let me wrap up by saying that while 2017 was challenging, I'm pleased with our performance to close out the year and with our strong competitive position going forward.
+We have highly differentiated solutions in each of our targeted markets, and I'm excited about our prospects to drive higher growth in the coming years.
+With that, I'd now like to turn the call over to the operator to begin the Q&A.
+Yes, Joe, great question.
+The pipeline -- we've been talking about it over the last few quarters that the pipeline has been solid, but it's been really slow and things have been kind of staying at the top of the pipeline and not working their way down to bidding.
+And what we're seeing right now is that more and more deals are starting to get into that bid stage.
+So I mentioned that we expect that we'll have -- bid on more than 3x the number of opportunities that we bid on last year.
+And that's really across both government and commercial.
+So we had nice growth in commercial markets last year as a percentage of our revenue, and we're starting to see that starting to creep back up again.
+So it's really across pretty much all of our segments and across most all of our geographies, too, Joe.
+Yes, it was right in the mid-single digits area.
+So it was roughly half of where we were last year for 2017.
+Yes, great question.
+So we just announced our Microsoft partnership towards the end of last year.
+And we're getting it underway and getting going now.
+We're actually engaged jointly with the Microsoft and the Azure team with a few customers as we speak.
+We don't expect to really see monetization from that until maybe the second half of this year and then starting to ramp after that.
+Yes, great question.
+I mean, there's clearly additional revenue that's going to -- and growth that's going to come from kind of, let's say, the pent-up demand of systems that are just getting extended another year or 2 longer than their traditional life cycle.
+It's hard to break that out about how -- what part of the growth would be from one aspect or just kind of traditional new systems.
+But I would say that there is probably a good 20% of the added extra growth that's going to be kind of getting those older systems up to speed, again, versus kind of the normal market coming back and just being a good strong market again.
+So that's why I feel like the overall supercomputing market over the next few years and several years is going to be pretty strong, because we feel like the core market\xe2\x80\x99s coming back, but we also know that there is some pent-up demand in systems that are just getting a little older and longer in the tooth.
+Yes, that's a great question.
+It's been really kind of fun.
+It's been fun for us because when we brought the Seagate team in, it's been really easy from a cultural perspective just because we worked with the team for a long time.
+And there, kind of, we had a really good easy meshing of the team that we had already existing at Cray and the team from Seagate.
+But what we really did was just dramatically expand both our reach into the market as well as just the number of people we have doing development in R&D around storage.
+And so one of the things that's been really exciting for us is over the next few years, we've talked a lot that the memory and storage hierarchy is going to be changing a lot in our systems.
+And there's a number of new technologies that are coming out in the market that customers could take advantage of that could dramatically change the storage environment, let's say, 3 or 5 years from now versus where we are today.
+And we now have really just this unique capability of having a lot of people that can really interact with customers in a very different way than we could before.
+We've always had really good storage architects at Cray that could architect an overall system.
+But we didn't have a lot of development capabilities within the company to really develop that next generation of storage platforms.
+So we've had a really different -- have been able to really expand that conversation overall, especially from that development side.
+And I do feel really strongly that we're going to be able to deliver on kind of our premise when we acquired and did a strategic transaction with Seagate, of bringing over that team that we're going to be able to grow our kind of noncredit [cache] or third-party storage business, and we're already seeing that.
+So that's -- we're feeling pretty good about our opportunities there of really growing a broader storage business.
+Yes.
+That\
+Thanks, and I want to thank everybody for joining the call today.
+I do want to clarify that some of the exascale level systems that I mentioned, that each of those systems could be hundreds of millions of dollars in total contract value.
+I believe I said that it could be hundreds of millions of total contract value overall.
+I wanted to make sure that it's each of those machines.
+But I do want to thank everybody for joining the call today, and for your continued support of Cray.
+Have a great evening.
+.
+Thank you.

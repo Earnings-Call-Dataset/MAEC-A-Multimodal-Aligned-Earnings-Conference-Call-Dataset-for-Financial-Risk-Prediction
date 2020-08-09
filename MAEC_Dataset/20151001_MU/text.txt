@@ -1,0 +1,113 @@
+Sure, this is <UNK> <UNK>, just responding to the last part of your question.
+I think if you break all of that down, certainly DDR4 and LP4 in their early ramp don't lend themselves to the cost benefits right away like any of the semiconductor ramps that you deal with in terms of the market.
+We will see that shift from early ramp headwind to advanced process tailwind in the midpart of our fiscal year.
+That's also true with our 20-nanometer product coming out in the -- by the time -- I said second half in my script, second half at the end of the first half going into the second half will be a bit crossover, more than 50% of our production will be on the 20 nanometer and we'll be in an improved position there as well.
+So, all in all, I think what you were asking about, we can confirm is the direction we see our cost position in the marketplace.
+Yes, <UNK>, we commented on this last quarter.
+It's still mid to high single digits impact in fiscal Q3 as we realize the transition to the updated 20-nanometer technology coming out with Inotera.
+That's right.
+It is just DRAM and that's just on the Inotera output.
+The fiscal Q3 is the relevant time, because the contract kicks in at the beginning of the year, but there's a lag effect in terms of when it flows through our financials and that's the best time to look at it because that also happens to be when the 20-nanometer output is coming.
+Let me take that one, <UNK>.
+So you're right, we're going to play this by ear in terms of the planar TLC.
+As <UNK> mentioned, there is a resurgence in interest in our high-quality MLC offerings for enterprise and high-end client applications and so we're just going to have to see how we dial that piece.
+You're also right that we've said our plan is to have the majority of our 3D NAND on TLC in short order.
+It is still a new technology; it is still ramping.
+And I think it is probably a little premature to try and predict what that looks like in the 3D TLC, what that mix looks like in the first half of the year.
+Of TLC.
+I can't --
+Oh, of 3D NAND.
+It's going to be relatively small until we get to that crossover point.
+I think it's important, <UNK> -- again this is <UNK> <UNK> -- I think it's important to make a distinction here.
+Directionally your categorization of our SBU margins are correct, but I would also suggest on a relative basis to our competitors, our SBU business has held up quite nicely relative to where we were 12 months ago.
+And I mean that because there's a number of different market segments that the team has developed and cultivated that we feel will continue to benefit us as we get some of the tailwinds in place that we described in the back half of 2016.
+So that's a long-winded way of saying I expect that on a relative basis we get more competitive in 2016 and that our overall performance in SBU will improve based on a number of the elements we've talked about, whether it be TLC or vertical and some of the higher-end enterprise-type products we've described.
+Keep in mind, when you look at SBU numbers, you're also looking at a blended trade and zero gross margin business [reporting].
+Again, <UNK>, we can't predict the ASPs or the margins for you.
+We're just telling you what we generally see and then you have got to layer in the -- obviously we're pretty bullish on what we're doing internally in our operational improvements that will play out through the year.
+Well, you know, ASPs are a big one.
+We always reserve the right to dial mix and we'll take advantage of any opportunities we see there.
+I think we have a pretty good bead on what our output is going to be absent some dramatic mix changes, so I don't think that's as big a lever this particular quarter.
+I'll see your different tact with my different tact, how's that.
+(laughter) More broadly the technology, we see in a number of different end-market segments, both in current application environments and some innovative new areas that might drive some neat development on solutions and technologies to address markets.
+The type of markets that we see 3D Crosspoint benefit from are either super high-end gaming applications, which could be for more real environment 8K type applications and provide the exact gaming performance that doesn't have to flush out to a different type of storage media.
+It all can be done in 3D Crosspoint.
+Another good one would be super high-end reliable system storage enterprise storage applications.
+We think, as far as merging application development, we think the technology lends really well to medical diagnostics, for example, where the instantaneous response time of symptoms going in and research data analysis coming out with what that might be is a real-world application that could benefit from Crosspoint.
+So these are the type of markets that the technology fits, and I think it's a quick summary of a few that are of interest to where the market can try this technology.
+Think in terms of anywhere where you want a large in-memory database or anywhere where you want ultrahigh performance storage systems.
+You said something there, how much can compute seasonality affect it, and it depends on how you see the compute market.
+What I mentioned earlier was some of the environments that consume similar capacity, like the very low-end part of the server business, had some pricing pressure.
+Notwithstanding all that, margins held up pretty well.
+So my interpretation to your question is if PCs rebound somewhat, and we're not talking about a wild rebound, but they rebound somewhat going into the holiday season, that could be a positive -- that could have a positive impact on the overall pricing in the market.
+But we think the diversification of the end markets lends well to relatively stable pricing and margins, as <UNK> highlighted.
+Not more than what we've talked about in the past, which is we have these end markets that we have developed product strategies and by shifting some of the capacity away, it relieves some of the pressure in one area.
+And the interesting thing overall about DRAM which we haven't really talked a lot about is some of these newer categories, LP4, DDR4, some of these categories actually take -- or have a limiting effect or reducing effect on overall wafer production in the industry.
+And so as these categories take off and grow, we are of the opinion that, that can have a stabilizing effect too.
+Well, I think the PC is about where it's been.
+I can't advertise there's been a major uptick in PC demand.
+The only data point that I would say that is new for us is that as we sit today the relative channel inventory on PCs is not a huge burden to a recovery.
+I think that it's too early to tell what consumers and even the corporate environment are going to be doing through the holiday and through the rest of the year.
+I can't give you a great sense of what's going to play out other than the inventory validation of what we see in the channel.
+That's true not only for end units and PCs, but also overall true for PC memory relative to where the pricing pressure has been.
+I don't think it's going to take a wild shift in behavior for PC environment to stabilize.
+It's just probably too early for the holidays to see that.
+On the mobile side, despite what we've read in the media about a slowdown in <UNK>a which, in fact, is somewhat true, there seems to be an offset in two areas, one of which is that memory content in phones continues to move upwards, which is more broadly positive, as well as, despite the high-end and mid-range smartphones in <UNK>a, the entry-level smartphone, which are really configured to be pretty good density configurations, are still in pretty good shape, coupled with other emerging markets.
+So we continue to be bullish on the mobile market and the team's performance has been pretty good.
+When you think about some of the areas that we have shifted to, mobile networking and automotive, the net of it all has been that we've been able to keep our margin in a relatively healthy place and continue to monitor that.
+The amount is actually a little closer to $130 million versus $170 million.
+And we're certainly going to continue to be opportunistic and as we think about the market during the fourth quarter, we'll be making decisions as we think is appropriate.
+You know, it's difficult to necessarily forecast because we'll keep adopting our overall approach as market conditions warrant.
+But if I were to categorize how we see it today, we think mobile -- and generally we are concerned more than where we sit today.
+We see PC on the consumption side of memory flat to down somewhat just based on the overall market demand trends that we see.
+In general, we think other embedded markets will only increase, given automotive gaining and the launch in growth of the IoT end segments.
+Networking and server are very interesting because what we've seen in the trend in those two markets are as much memory as they can get in they will put in.
+And as technology and configurations allow us, DDR4 will drive pretty high growth in terms of memory consumption.
+So when you hear us bullish on the overall demand of the end markets, it's with good reason.
+Memory consumption is rally driving either reliability, performance, or really new market applications.
+And on the DRAM segment, we continue, notwithstanding on the PC business, continue to see growth across the board.
+I think that's true.
+I think a year ago we might have said that.
+As things have played out, the low end of the SSD market where a lot of volume units go, that's starting to be a bit of a bloodbath in the NAND environment.
+And the TLC pricing, it was just not something we were going to go fight with our MLC product when we can go shift that to other market segments.
+Secondly as we think about the mobile business, the mobile business at Micron had a great year in NAND, tremendous growth, 2015 over 2014.
+So we're going to continue to optimize around returns and market attractiveness and between some of the competitive pricing as well as the growth in mobile.
+We altered our strategy mildly.
+And I think with TLC and with our entrance in the vertical, I think you will see SSDs be more and more prominent because we think we are going to be in a better position to compete with the rest of the market.
+Hi, C.
+J.
+, this is <UNK> <UNK>.
+Unfortunately, we're going to probably punt on the revenue qualification.
+I would just validate what you started with, which is we're generally very pleased with the ramp and the yield terms we're at today and we see, as we communicated, very consistently, we see a crossover by the end of our first half fiscal year, so we're very excited about that.
+Not just from a raw cost perspective, that's great, but also from a product enablement on 8-gigabit configurations and it's going to open some doors for us.
+So without qualifying the revenue number, it's a real positive tailwind for us.
+So obviously the biggest one -- we can't tell you whether it's a headwind or tailwind -- which is market pricing.
+As we think about the cost side, we should continue to see some improvement as we go further down the curve with 20 nanometer and 16 nanometer TLC NAND.
+And then obviously it's going to be the mix between end markets.
+And as we've talked about before, we do have the ability, certainly in the February quarter, at this point to think about where we want to direct that mix.
+So those are the three big levers and they're going to move in ways that we can't fully predict right now.
+On the market pricing side, the other two things we're actually thinking about quite carefully right now.
+And, operator, I think we have time for one more question.
+Well, that was a pretty good question in of itself.
+There's a lot there.
+I think we followed the media, we saw the quotes in the press and all that stuff.
+We did see some very short-term improvement on pricing at the mid to end of August and even early September, but it kind of has since -- we've seen some softness again, some mild softness off of the high.
+And so we're just tracking that as we look at it and see where it goes from a demand standpoint, if there's any improvement in the holidays.
+But when you talk about the other markets, and I think the question you are asking is what happens when you continue to shift.
+Is there a danger of oversupplying the other market segments.
+And while it's hard to predict with the data set, it hasn't happened today and we don't sense it, we don't see it in the market at this point.
+Mobile has been pretty stable, despite the mix move.
+And I think a lot of that is because the market probably didn't have an appreciation six to nine months ago on what mobile densities would be doing.
+And, in fact, you've seen tremendous growth, not just in the low-end but across the smartphone segment on DRAM content.
+We don't think it's dramatic.
+We have heard positive signs on industry supply potentially slowing over the next year or so, but we have got to wait and see how that comes out and shakes out in terms of the market.
+But as far as demand, we're very upbeat, as you've heard on the call today, about some of the end market trends we are seeing and our ability to drive our technology there.
+It's really a byproduct of this PC environment and can that rebound and then create more balance in the overall end markets.
+<UNK>, still tracking pretty well with what we indicated at the Analyst Day, ahead of original plan, and we like the way it's going.
+We think you may start to see small impact in fiscal Q2, but really it's a fiscal Q3 story.
+All right.
+We would like to thank everyone for participating on the call today.
+If you please bear with me, I just need to repeat the Safe Harbor protection language.
+During the course of this call we may have made forward-looking statements regarding the <UNK> and the industry.
+These particular forward-looking statements and all other statements that may have been made on the call that are not historical facts are subject to a number of risks and uncertainties and actual results may differ materially.
+For information on the important factors that may cause actual results to differ materially, please refer to our filings with the SEC including the <UNK>'s most recent 10-Q and 10-K.

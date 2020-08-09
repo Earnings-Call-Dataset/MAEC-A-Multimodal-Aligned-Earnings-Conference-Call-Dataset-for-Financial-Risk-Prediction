@@ -1,0 +1,201 @@
+Thank you, good morning, everyone.
+I am <UNK> <UNK>, Chief Financial Officer, and I'm joined this morning by <UNK> <UNK>, our Chief Executive Officer and President, and <UNK> <UNK>, our Chief Operating Officer.
+Thank you for joining our earnings conference call.
+Yesterday, after market close, we released our financial results for the first quarter of 2018 as well as our April 2018 operating model.
+We reclassified certain historical data for our service revenue to conform to typical industry practices.
+Beginning in 2018, we will now include revenue from the aftermarket sale of spare parts and service revenue, which had previously been recorded as product revenue.
+Our financial schedules, schedules of reclassified service revenue, and revenue by end market in the April 2018 operating model will be posted to our website, www.mksinst.com.
+As a reminder, the various remarks that we make about expectations, plans and prospects for MKS comprise forward-looking statements.
+Actual results may differ materially as a result of various important factors, including those discussed in yesterday's press release and in our annual report on Form 10-K for the year ended December 31, 2017 that's on file with the SEC.
+These statements represent the Company's expectations only as of today and should not be relied upon as representing the Company's estimates or views as of any date subsequent to today.
+And the Company disclaims any obligation to update these statements.
+Today's call also includes non-GAAP adjusted financial measures.
+Reconciliations to GAAP measures are contained in yesterday's earnings release.
+Now I will turn the call over to <UNK>.
+Thanks <UNK>.
+Good morning, everyone, and thank you for joining us today.
+I will start with our results for the first quarter of 2018 followed by several business highlights.
+Then I will turn the call over to <UNK> <UNK> who will share additional details on our customers and markets.
+<UNK> will then provide further information on our financial results, our second-quarter 2018 guidance and our updated operating model before we open the call for your questions.
+First quarter revenue was $554 million, above the high-end of our guidance, and an increase of 27% from a year ago.
+This marks the seventh consecutive quarterly record for revenue.
+We also set a new quarterly record for non-GAAP net earnings totaling $114 million or $2.07 per share.
+We achieved record revenue in the first quarter for both our semiconductor and advanced market segments.
+Revenue for the semiconductor market was $313 million.
+Revenue for advanced markets was $241 million and is now approaching a $1 billion annualized run rate.
+Furthermore we have evolved our business model over the last five years, achieving a more balanced revenue split between semiconductor and advanced markets, which is now 57% and 43%, respectively, even with a significant expansion of our semiconductor business.
+Our growing exposure to these exciting advanced markets presents a unique opportunity for MKS as well as diversifying our customer base.
+As we study these broad market trends it is clear that the innovation in photonics and laser processing will lead to new markets and opportunities that can only be imagined today.
+As we did in the semiconductor market over the last 50 years, we will drive that same innovation with our Light and Motion Division.
+This is a tremendous strategic opportunity to create value and accelerate growth.
+We've made substantial improvements in terms of integrating legacy Newport businesses.
+Historically each business unit operated independently; it did not leverage the investments across the combined company.
+Over the past two years we've addressed this fundamental issue by bringing the business units together with a keen focus on identifying customer opportunities that could be served across multiple product categories.
+We've also integrated the sales team presenting a unified approach to customers in helping them better utilize the entire breadth of capabilities and advantages of our integrated portfolio.
+As we move into 2018 we will explore additional sales channel strategies to operate more efficiently and drive growth.
+It is very clear that after owning Newport for less than two years this is a great asset that has benefited from the influence of the MKS business processes.
+Our Light and Motion Division continues to perform extremely well driven by growth in our industrial market segment as well as building OEM businesses with our semiconductor customers.
+Turning now to market outlook, we expect to see double-digit growth in WFE for the semiconductor business for 2018, which is a more positive outlook from our last earnings call.
+Given our position in the market today, we anticipate we will outpace WFE growth with sustained strength driven by robust demand for data storage and data processing applications.
+We also anticipate significant growth in advanced markets, especially those segments driven by increasing applications in laser manufacturing.
+I am extremely pleased with our first-quarter performance and confident our strategic strategies have positioned us for market outperformance in 2018 and beyond.
+Now I will turn the call over to <UNK>.
+Thanks, <UNK>.
+As we have discussed in the past, our Power Solutions business continues to be a highlight, enabling us to deliver unparalleled technical capabilities to customers.
+The increasingly complex challenges for etching and deposition processes are driven by the requirements for advanced logic and DRAM and the challenging vertical structures for BNAND.
+Our strategy is to invest early in key technologies and product platforms that we believe will be transformative, knowing that design wins will lead to longer-term revenue.
+The strategic investments we made in dielectric etch beginning three years ago have led to key design wins which are now paying off with significant orders.
+More recently, investments in conductor etch and deposition are starting to generate design wins, which we expect to fuel future revenue growth and continued share gain.
+In the first quarter we had design wins in both conductor etch and deposition applications for V-NAND with a large North American OEM.
+First-quarter revenue for our Power Solutions business was the highest ever, up 17% from an already strong fourth quarter.
+We are pleased to report that, according to industry analysts, our Power Solutions market share has increased 230 basis points in 2017.
+Turning now to our advanced markets.
+As we have discussed in the past, the need for faster, more precise manufacturing techniques requires unprecedented innovations in laser processing capabilities.
+Demanding applications such as cutting, scribing and marking are enabled not only by ultrafast pulse lasers but also by the ability to control the laser beam through precise beam profiling and power measurement.
+MKS' capabilities in ultrafast lasers, laser power measurement, laser beam profiling, motion control and beam delivery optics uniquely positions us to provide comprehensive solutions that surround the work piece.
+This is analogous to how our vacuum instruments and controllers surround the process chamber.
+We are the industry leaders in laser beam profiling and power measurement and our first-quarter revenue grew 23% sequentially.
+We received orders for laser beam profiling systems in Germany.
+The first order was for an automotive transmission laser welding application.
+The second order was for the additive manufacturing of complex metal components.
+The customer chose our new BeamWatch system, which is the industry's first noncontact monitoring system that shows the changes in size, location and energy distribution of the laser beam in real time.
+Finally, our core laser business had another strong quarter.
+In Japan we won an order for a wafer dicing application using our new picosecond laser.
+We also won orders for [thin] scribing, glass drilling and die attach film cutting applications using the ultraviolet nanosecond lasers.
+In 2017 our laser business grew 23% and this growth has accelerated in the first quarter of 2018 where revenue is 62% higher than a year ago.
+We project that the opportunities for laser materials processing will approach $4.5 billion by the year 2022, offering another large and growing market that diversifies MKS' revenue profile.
+At this point I would like to turn the call over to <UNK>.
+Thanks, <UNK>.
+I will cover the first-quarter financial results, our Q2 2018 guidance and then our updated April 2018 operating model.
+Revenue for the quarter was $554 million, an increase of 8% sequentially and an increase of 27% compared to the first quarter of 2017.
+The increase in revenue was broad-based, particularly strong to the latter part of the quarter.
+Sales to the semiconductor market remained very strong and we achieved a new record of $313 million in the first quarter.
+Sales to our advanced markets, which comprise 43% of our total revenue, increased 6% sequentially and also achieved a new record of $241 million.
+The Light and Motion Division achieved a new quarterly record for both revenue and non-GAAP operating income, which were $206 million and $54 million respectively.
+During the quarter in which we acquired Newport in 2016, the pro forma revenue and operating income were $151 million and $16 million respectively.
+In the past seven quarters, quarterly revenue has increased over 35% and non-GAAP operating income has increased by almost 240%.
+As a result we more than doubled the operating margin of the Light and Motion Division from 10.6% in the second quarter of 2016 to 26.2% in the first quarter of 2018.
+As <UNK> has mentioned, this acquisition has also substantially increased our percentage of revenue from advanced markets in that timeframe, providing additional growth opportunities.
+GAAP and non-GAAP gross margin were 47.4% and non-GAAP operating expenses were $117.8 million for the quarter.
+Due to strong financial performance levels we expect variable incentive compensation expense to be higher than expected.
+In the first quarter higher incentive compensation had a 30 basis point impact on gross margin and an approximately $5 million increase in operating expenses.
+Non-GAAP operating margin was 26.2%, which was within our expected operating model range even with higher incentive compensation expense.
+GAAP and non-GAAP interest expense was $5.4 million and $3.6 million, respectively, and interest income was $1.1 million for the quarter.
+The non-GAAP tax rate was 19.5% and the GAAP tax rate was 17% largely due to the benefit of tax deductions related to stock compensation.
+During the quarter we incurred restructuring charges of $1.2 million primarily related to further streamlining the consolidation of certain administrative functions.
+GAAP net income was $105 million or $1.90 per share and non-GAAP net earnings were $114 million or $2.07 per share.
+At the end of the first quarter we had cash and short-term investments of $542 million, which approximately 40% was in the US and 60% in our international operations.
+During the quarter we made another voluntary prepayment on our term loan and have now completed over $430 million in payments in the last 24 months since loan origination.
+As of March 31 our term loan balance was $348 million; our net cash position increased $44 million; we ended the quarter with net cash of over $195 million.
+Furthermore, on April 11, we completed the fourth repricing of our term loan which reduced the interest rate spread by an additional 25 basis points to LIBOR plus 175 basis points, which equates to a non-GAAP interest rate of 3.25%.
+The impact of these recent actions will reduce our non-GAAP interest costs by almost $3 million per year.
+The cumulative effect of both voluntary debt prepayments and four interest rate repricings have reduced our annualized non-GAAP interest costs by more than 70% in the last 24 months.
+Free cash flow for the quarter was $63 million.
+In terms of working capital, days sales outstanding increased slightly to 56 days at the end of the first quarter compared to 53 days at the end of the fourth quarter due primarily to the timing of revenue in the quarter.
+Inventory turns were consistent with the fourth quarter and with 3.2.
+We continue to provide a balanced approach to capital deployment and during the quarter we paid a cash dividend of $9.8 million or $0.18 per share.
+Turning to Q2 2018 guidance, we continue to see strong growth in our end markets.
+We estimate that our sales in the second quarter could range from $550 million to $590 million and gross margin could range from 47% to 48% reflecting expected product mix.
+Non-GAAP operating expenses could range from $113 million to $119 million, R&D expenses could range from $36 million to $38 million, and SG&A expenses could range from $77 million to $81 million.
+Non-GAAP interest expense is estimated to be approximately $3 million and our non-GAAP tax rate could be approximately 19.5%.
+Given these assumptions second-quarter non-GAAP net earnings could range from $116 million to $131 million or $2.09 to $2.36 per share.
+In the second quarter amortization of intangible assets is expected to be approximately $11 million.
+GAAP interest expense estimated to be approximately $3.4 million.
+And GAAP net income expected to range from $106 million to $121 million, or $1.91 to $2.18 per share on approximately 55.4 million shares outstanding.
+Finally, yesterday we published an April 2018 operating model which is an update to our January model reflecting higher illustrative annualized revenue levels and the impact of our fourth term loan repricing and voluntary debt prepayment in the quarter.
+At an illustrative level of $2.3 billion, we estimate that non-GAAP gross margin could be 48% and non-GAAP operating margin could be 28%.
+Projected non-GAAP tax rate of 19%, our illustrative model shows potential non-GAAP EPS of $9.31.
+This represents an additional 9% accretion from our January 2018 model published last quarter, an improvement of over [16]% from the published model a year ago.
+Lastly, as a reminder, operating expenses in the first half of this year are higher than anticipated due to variable compensation.
+The April operating model reflects more normalized incentive compensation.
+That concludes the prepared remarks and we'll now open the call for questions.
+Yes, I think we expect to see slight improvement in both, pretty consistent and solid revenue for both of those markets.
+So I think the midpoint is somewhere around 3% higher or so than what we just achieved.
+So we can see this consistent with both markets.
+Well, I'll go back to the same question that was asked last year, and the same thing was supposed about the second half of 2017 and that didn't turn out to be the case.
+And I've been in the industry long enough to know that the forecast is wrong, get fast.
+That's what we tell our operations team.
+But we see WFE as being strong in terms of somewhere 6% to 12% up.
+The fundamentals are intact as far as storage, computing and networking, strong V-NAND and DRAM.
+We have multiple OEMs.
+The mix [of this] changes.
+Demand can vary quarter to quarter.
+Our Korean business appears to be still very strong.
+We read all of the commentary about the end customers like SK Hynix investing in DRAM and 3-D, Micron with its Singapore fab, spending at TSMC and Samsung.
+So it appears to be positive, but I am from Missouri.
+I certainly make sure we operate the Company with a foot on the brake and a foot on the gas.
+But from what we see it still appears to be pretty consistent business but we will see.
+Like I said, last year was projected to turn over and it didn't and we'll see what happens.
+But so far we feel pretty comfortable with where we are.
+And we also feel very comfortable about the just external demand for the chips which drive the demand for the equipment.
+Well the research market segment of that business, if you look at it, if you pile it in with non-semi, has the same tendency to be seasonal.
+We typically don't really see a lot of seasonality in that business.
+I think Newport used to say their first quarter used to be kind of a difficult one for them, although they did very well.
+So I don't know, <UNK>, if you or <UNK> have any other commentary, but we don't really note any seasonality of the business.
+Yes, and I think, <UNK>, some of the areas of the advanced markets that were resourced and focused on are the industrial applications.
+And that is what is driving a large part of the growth.
+<UNK>, could you repeat the question because it kind of got muted towards the second half of what you are saying.
+So <UNK> the Newport business brought in for semi the lithography inspection large OEMs and they've grown just similarly, as you would expect, as the vacuum type OEMs.
+And so, the design wins that were awarded years ago or a couple years ago and continued design wins or what's driving the Newport side of the semi-growth if that's your question.
+I think, <UNK>, the only other color I would add to that is the laser manufacturing processes are not just the heavy industry type of applications like welding and cutting of metal, but also in some of the finer types of precision laser manufacturing.
+And that's where we have strength in terms of pulsed lasers.
+And so, that's even more exciting to us in those applications.
+So [TCBA] drilling, fine metal cutting and those kinds of applications.
+Yes, we put it in the category of microelectronics.
+And certainly at our Analyst Day in June we are going to amplify our position in those markets.
+We are going to highlight our power business and we're also going to highlight our laser business and give a deeper explanation of why we win and where we think those markets are going.
+But I agree with <UNK>, it's not just the heavy industrial stuff, it's actually more applications in mobile device manufacturing or other types of displays.
+Yes, I think that the bigger volume is actually volume.
+So as we add more -- if you look at the Light and Motion product portfolio, pretty good margin, a little above the corporate average.
+The (inaudible) side is again close to that range as well.
+So what I find, typically volume is the bigger driver quarter over quarter.
+So that's what I would say.
+And then we get a 50% variable gross margin in our model for quite a long period of time.
+That's pretty applicable going forward as well.
+So volume is number one.
+Mix, I think you will see us as we grow the other advanced markets we do get a little better margin there over time as well.
+So we are not seeing seasonality in the advance markets because the markets we are attacking there are really high-growth markets, these applications in laser microprocessing.
+And those are really driven by demand and higher manufacturing capacity for things like iPhones.
+So, that's a much larger growth rate than what might be seasonal in a research environment.
+Yes, I think we could still grow a lot more market share just by winning more dielectric etch.
+We certainly don't have all it for sure.
+And things like V-NAND and DRAM use a lot more dielectric etch than they might have in the past.
+So I think just dielectric etch itself and our position in it and our continued winning of design wins there should also grow that.
+Most of the conductor etch we talked about is design wins.
+We really don't have a lot of insight into their particular OEM, their inventory levels.
+We just worry about our own for the most part.
+But it has been -- the commentary has been consistent.
+I can't see that it's either grown or shrunk; it has been consistent from what we see.
+Yes, I mean I think that's always been, the last few years, kind of a strategy of the customers to deal with larger, more global, more technically competent suppliers, so that's us.
+We benefit from that.
+As far as actively seeing them participating in that, no it's more about just commentary, look to your left look to your right, that guy might not be there next year.
+One of those types of things, I've heard that for 30 years.
+But I think we are winning because of the capability we have around the world, the deep technology we have and the type of support we provide our customers.
+So, what's our strategy now -- we are gaining share because they believe we can support their business.
+<UNK> and I will tag team on that one.
+Yes, I think the OEMs in China are still the same ones; I think we all know who they are.
+And I think they are still in the design phase and piloting -- putting their tools into pilot lines.
+So we've seen some growth in LED type of OEMs, MOCVD types.
+But for semi it hasn't really changed from historic levels but certainly a lot more activity.
+Yes, and we have a very good relationship.
+We have a concentrated strategy like we did in Korea and you can note the success we have had there, another great quarter in Korea again.
+The same approach to China that we want our share, we want to make sure that we have full support for those customers no matter how small they are or how fledgling they may be.
+And we certainly have a lot of content on the tools and when the business picks up we will benefit greatly from it.
+Well, first of all, we manufacture in China.
+We have a large operation in Shenzhen.
+We also have been on the ground in China for probably 15 or more years, well before the semiconductor market ever really thought about forming there SMAIC was really the only customer we had.
+So we have had a strong presence in China for a very long time.
+And matter of fact, when we acquired Newport we put more people on the ground in China because we thought that was fertile ground for the laser and optics and photonics business.
+So, we have the resources on the ground to support that and we are a Chinese citizen by having a large volume presence in Shenzhen -- as well as service and sales and everything else.
+Yes, good question, <UNK>.
+So we keep driving the rate down, so 3.25% is a pretty low-cost debt and a very flexible debt instrument.
+There's really no covenant to speak of and we can let this thing go for a while.
+So I think you will see us -- we are at 348 right now at the end of last quarter.
+We may do a little more.
+We're kind of in the rate ZIP Code right now for the capital structure and, as you know, the EBITDA ratios and the leverage ratios are very, very modest.
+So we might do a little more, we might hang here for a bit, but I wouldn't see substantial movement from here quite honestly.
+Thank you.
+We're very pleased with the strong start to 2018 and are excited about how well MKS is positioned for the balance of the year in both semiconductor and advanced markets as we remain on our path to sustainable and profitable growth.
+Thank you for joining us on the call today and for your interest in MKS.
+We look forward to updating you on our progress and report our second-quarter financial results.
+I hope to see many of you at our obtaining Analyst Day at the NASDAQ market site in New York on June 19.

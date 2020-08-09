@@ -1,0 +1,18 @@
+Internal segmentation firewall mostly deployed as -- they called switch mode, transparent mode, in an environment and will be 10 times, 100 times faster than the traditional firewall.
+But most of the switching networking company don't have these secured capability on the networking device which are not in there.
+And the traditional like security company which is software based is also have high performance need and also how to deploy in a switch mode.
+That is where we don't see much competitors here, and it is a -- we see it is an opportunity and we have huge advantage.
+So that's where we see is a -- we have the best technology and timing to keeping the mass and grow in this space.
+I think we identified this market two years ago, and we keeping educated market in improving the product and both with ASIC and also the OS we announced today.
+Still difficult to ask me how quickly the market growing, but from what I talked with the customer, long term wise they see especially in enterprise the same, probably bigger than the traditional firewall market.
+Nowadays they all feel the traditional way to deploy a few firewall with company internet no longer secure enough.
+So they need to move internally secure segment department different server, but how quickly they adopt and how quickly they can maybe deploy where the company, deploy the switch, still difficult to say.
+But I think is that so far the adopt is pretty quick.
+When the customer see the benefit, they really like the approach given the actual protection.
+I just want to say thanks to everybody.
+We're trying to keep our calls shorter, and so we did this time.
+We will have a second call at 3:30.
+So as you digest the information we gave you today, feel free to call back in at 3:30 to answer more comprehensive remaining questions.
+That's it.
+Thank you very much.
+Thank you.

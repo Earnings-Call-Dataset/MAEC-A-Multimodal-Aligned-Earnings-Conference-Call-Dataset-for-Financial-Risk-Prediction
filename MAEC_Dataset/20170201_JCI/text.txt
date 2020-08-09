@@ -1,0 +1,79 @@
+Good morning
+So for the first time, we will be reporting Corporate as a standalone segment
+I think this provides a bit more transparency to the true underlying EBITA performance of our businesses
+This segment is really comprised of enterprise-wide costs like executive management costs, public company costs, and other functional administrative costs that really aren't directly attributable to our primary businesses
+Our Corporate segment expense did decrease 12% year over year, and this was primarily due to some of the productivity initiatives and the merger synergies that we had identified as part of the planning process last year, and both were a bit better than expected in the quarter
+If I turn to slide 13, there are a lot of moving pieces in this quarter relative to the special items and also the fact that Adient is for the first time reported as a discontinued operation
+Given the size of some of the special items, let me just briefly comment on each of those, the first being transaction, integration, and separation costs associated with our portfolio activities
+That was roughly $134 million, and the way to think about that is about half of it is transaction-related and half of it is integration-related
+We had a restructuring and impairment charge for $78 million
+The majority of that would be severance-related
+We had a lump sum pension buyout in the first quarter
+And as a result of that, which was done in connection with the Adient spinoff, there's a requirement to go through a remeasurement of the liability and assets in the first quarter
+And that resulted actually in a $117 million gain in Q1. We had some non-recurring purchase accounting expenses that <UNK> referred to
+The two primary areas there are the inventory step-up amortization, which is now fully behind us at the end of Q1. And also, we continue to amortize the backlog asset that was set up as part of purchase accounting
+And then lastly, there was a discrete tax benefit related to some planning in our foreign entities that resulted in a $101 million benefit
+The net of all that is a $0.14 charge, which when added to the $0.39 reported gets to the $0.53 that we've been talking about this morning
+So, as I go through my comments, I will exclude these special items and also the comparison will be the pro forma combined financials that we put out on fiscal 2016 in the November 8-K that we filed
+So, overall first quarter revenues were up slightly at $7.1 billion
+If you exclude FX, lead, and M&A activity, organic sales were up 1%
+Gross margin was constant at 31.2% and SG&A was down 3%, which was reflective of the cost reduction initiatives that we have across our business and the merger synergies
+If you move to equity income of $55 million, it was 20% higher than year-ago levels, again related primarily to the strong Hitachi year-over-year performance
+And then as <UNK> mentioned, for the first quarter we delivered double-digit segment EBIT growth, and we had EBIT margins of 10.7% which were 90 basis points better than the first quarter of 2016 and again both of those exceeded our expectations for the quarter
+If we turn to page 14, net financing charges were $119 million which were slightly higher than last year, and our effective tax rate as we communicated on Analyst Day was at 15%, which compares favorably to last year's rate of 17%
+Hitachi continues to perform well and that is also the reason for the increase to $40 million in the minority interest add back line item on the income statement, it's up $11 million year over year
+And then overall we had a really strong first quarter with diluted EPS of $0.53 versus $0.48 a year ago
+And our business unit management team really continue to deliver strong results during this period of transformation and the level of integration activity that's going on across our company
+So turning to cash flow on slide 15, our first quarter adjusted cash flow was an outflow of $300 million
+As mentioned at Analyst Day, there are a number of one-time expected payments that we realized in the first quarter
+The most notable is the $1.2 billion tax payment we made related to the Adient spin-off
+We also had some other items related to Adient's cash outflow for the quarter of $300 million and then we had some restructuring and change control payments of $300 million and transaction, integration and separation costs of a couple of hundred million which would include Adient
+So, Q1 has historically been a cash outflow quarter for us
+So, the adjusted free cash flow number is consistent with our expectations and we remain focused on delivering the $2.1 billion in adjusted free cash flow for the year
+If we move to the balance sheet at quarter end, we had net debt to cap of 33.6% versus 39.7% at year-end
+That's really related to the fact that as part of the Adient spin-out there was a $4 billion reduction in our equity and as a result that drove the increase in the ratio
+Also during the quarter, we completed our previously announced debt exchange offers related to both the legacy JCI and Tyco debt, and we also made $535 million of scheduled debt repayments in the quarter
+I would also just point out that beginning in Q2 we commenced a share repurchase program and expect to buy back about $200 million to $250 million of our shares during the rest of fiscal 2017. And again as we've mentioned, this is really focused on countering the dilutive impact of stock option exercises
+And then finally I'd just comment that we continue to evaluate our overall capital structure in order to take advantage of opportunities related to the current interest rate environment as well as the timing of our future debt maturities
+So, if you move to slide 17, just a couple of things I'd like to point out here
+We've already talked about Adient being reflected as a discontinued operation
+Just as a reminder, beginning in the third quarter of this year, we will be changing our segment reporting for the Buildings business
+At this time, for the first and second quarter, we'll continue to report segments for I would say the legacy BE business in the same four segments we've reported previously
+And then Tyco will be reported as a single standalone business within the Buildings set of businesses
+And, as you may recall from Analyst Meeting, when we get to the third quarter, we'll have a Global Products segment
+And then, we will have our Installation Project Service business, really our field business in three geographies; North America, Europe, EMEA and Latin America, and Asia
+Also, as we move through fiscal 2017, we'll continue to have some special items and our guidance that we give here today will exclude any the impacts of those special items
+And, lastly, I just wanted to point out that we did end the first quarter, harmonized the backlog definitions between Johnson Controls and Tyco, the primary adjustment related to the way both legacy companies had treated renewable service contracts
+And so, the backlog what we're reporting here that's up 6% reflects those new definitions
+Moving to slide 18, which shows the waterfall for our first quarter results, you can see the $0.05 year-over-year EPS improvement
+That really comes from cost synergies and productivity savings which drove $0.05, along with volume mix, which is $0.02, both in line with our expectations
+In fact, the cost synergies and productivity savings is a couple pennies higher
+That was partially offset by planned investments in our Buildings and Power Solutions businesses, which was a $0.02 impact
+And then the favorable tax rate was really offset by the FX headwinds we had in the quarter
+All-in-all $0.53, which represents a 10% growth over the prior year, and we really are off to a solid start as we move through fiscal 2017. If I turn to page 19, in fiscal second quarter, you can see here that our organic sales will be up 2% and EPS at $0.48 to $0.50, which is up 7% to 11% year over year
+And this reduction in Q2 earnings compared to Q1 earnings sequentially is consistent with the historic patterns of both Johnson Controls and Tyco, and really is the result of the seasonality in our Power Solutions business where our customers go through a strong customer stocking period in the months of October through December
+The waterfall also shows the benefits of synergies and productivity improvements, that does remain at $0.05 through the second quarter
+I would tell you that the first quarter synergies and productivity savings were really a lot of the low-hanging fruit that we're able to quickly move on as part of integration activities
+I think as we get the processes and procedures in place here over the next quarter to ringfence both the legacy Tyco business as well as our federal business, I think we'll begin to see the second half ramp up in synergy savings
+And then I've got a last slide here that I just wanted to go through relative to the phasing in the first half and second half of our EPS bill
+Just to provide some context around this, you can see that the normal seasonality, it's contributing a lion's share of the improvement in the second half along with the ramp-up and the synergy saves that we expect and as <UNK> mentioned, we're really running a bit ahead of our first quarter target
+So I think that bodes well for us looking at the second half of the year
+But all-in-all, we remain very confident in delivering a very strong fiscal 2017 and we reaffirm our full-year guidance of $2.60 to $2.75, which will represent a year-over-year increase of anywhere from 13% to 19%
+So with that, <UNK>, we can it open up for questions
+I think it's probably a bit of a carry-on to what <UNK> and <UNK> said regarding Buildings
+I think 2.5% to 4.5% consolidated is very doable for us at this point in time
+I think Power Solutions continues to perform extremely well
+And if some of the backlog starts to flow in the back half of the year on the Buildings side, I think we're very comfortable at 2.5% to 4.5% as a target we can get
+Yes, pretty consistent
+I don't think – we did have some synergies that came out at $15 million reduction in the quarter related some to cost synergies that were permanent takeouts
+There was some expense deferral that will probably come back and end up in the second quarter for us
+So, I would necessarily go with that $108 million x4, I do think there's probably a slight build in Corporate expenses into the second quarter, so the range we gave before is pretty reasonable still
+The performance contracting business is roughly $500 million on an annual basis and industrial refrigeration is probably $400 million to $500 million
+When we gave that 90 bps it had lead out
+So the number we're using is neutralized for lead
+<UNK> <UNK> - Credit Suisse Securities (USA) LLC (Broker) Understood
+And then secondly, just on the adjusted free cash
+As you say, the Q1 is often an outflow for sort of legacy JCI
+When we're thinking about the path to get to that $2 billion plus number for the year, when do you think we start to see positive sort of adjusted free cash? Is that really a second half issue or you think Q2, you'll start to see an improvement?
+That's all cost
+Correct

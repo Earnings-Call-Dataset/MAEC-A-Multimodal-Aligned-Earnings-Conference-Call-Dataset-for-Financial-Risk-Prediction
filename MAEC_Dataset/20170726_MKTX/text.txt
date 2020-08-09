@@ -1,0 +1,258 @@
+Good morning, and thank you for joining us for the second quarter earnings call.
+Our earnings report this morning reflects a solid quarter in a difficult trading environment.
+Second quarter trading volumes of $362 billion were up 7% year-over-year.
+Volume with international clients increased by 24% to $92 billion, and our emerging market product area had a strong quarter with a 39% increase in trading volume.
+For the first half of 2017, global trading volume totaled $756 billion, up 17% from $648 billion in the first half of 2016.
+Total active trading clients increased 15% to approximately 1,300 firms.
+Open Trading continued its momentum with record client participation and a new high in percentage of global trading volume.
+Revenues for the second quarter were up slightly to $97.3 million.
+Expenses of $47.7 million were up 4%.
+Diluted EPS of $1 was up 14%, primarily driven by a lower effective tax rate of 23%.
+Second quarter U.S. high-grade estimated market share of trades increased to 17% from 16.1%, and our competitive position continues to strengthen.
+In a soon-to-be released research report, Greenwich Associates will estimate that our share of electronic trading in U.S. high grade and high yield increase to 85% this year from 80% a year ago based on their 2017 North America Institutional Investor survey.
+Slide 4 provides an update on market conditions.
+Second quarter credit spread volatility was at the lowest level we have seen in many years.
+At the same time, the trend of heavy inflows into fixed-income mutual funds continued, much of it driven by overseas investors searching for yield.
+The combination of variable market volatility and investors chasing scarce bonds create a difficult environment for electronic trade.
+In spite of this environment, we have been able to consistently grow market share.
+With 4 important trading days remaining in July, U.S. high-grade and high-yield estimated market share is running well ahead of Q2 levels.
+Overall TRACE high-grade market volumes in Q2 were flat year-over-year, while high-yield TRACE volumes were down 12%.
+Reduced volatility in the high yield has caused a reduction in trading by some market participants, including ETF market makers.
+New issue activity remains elevated but slightly down from last year's second quarter.
+Slide 5 provides an update on the global regulatory landscape.
+Changing regulation continues to have a significant impact on the global fixed-income markets.
+In Europe, the implementation of MiFID II is less than 6 months away.
+We expect that MiFID II rules will increase trading on regulated trading venues, including MTFs in order to comply with new best execution and trade reporting requirements.
+The new regulations provide benefits for both dealers and investors when trading on a regulated venue.
+Our Brexit contingency planning is well underway, and we are in the process of registering a new EU MTF in The Netherlands.
+We expect to be well ahead of the March 2019 Brexit date with our business and regulatory changes in order to prevent any disruptions in trading for our clients in any jurisdiction.
+In the U.S., new SEC Chairman Clayton recently announced plans to establish a Fixed Income Market Structure Committee similar to the one that exists for the equity markets.
+We believe that MarketAxess is well aligned with the SEC's goals of furthering the efficiency, transparency and effectiveness in the U.S. bond markets.
+We also continue to monitor developments from Washington relating to tax laws and bank regulation.
+In both cases, there's a potential for significant positive changes to the current framework.
+For example, proposals to amend or eliminate the Volcker Rule could increase the market-making capacity of our dealer clients.
+Finally, we have recently seen signs that central banks may become less accommodative to reducing central bank balance sheet bond holdings and gradually increasing rates.
+We believe that any move to begin removing historically high monetary stimulus is likely to have a positive impact on fixed-income secondary trading.
+Higher interest rates, lighter bank regulation and greater market volatility have the potential to increase market turnover in global credit markets.
+Slide 6 provides an update on Open Trading.
+Open Trading volumes were $57 billion in the second quarter, with average daily volume up 42% from the same period last year.
+Approximately 157,000 Open Trading transactions were completed in the second quarter, up 68% from 94,000 in Q2 2016.
+Liquidity providers or price makers on the platform drove a 104% increase in price responses in the second quarter.
+Liquidity takers saved an estimated $22 million in transaction costs through Open Trading on the system.
+Participants benefited from average transaction cost savings of approximately 2.1 basis points in yield when they completed a U.S. high-grade transaction through Open Trading protocols.
+When compared to our Composite Price real time mid-market estimate for corporate bonds, we believe that liquidity providers are achieving similar savings in transaction costs.
+Dealer-initiated open trades reached a new high of 23% of total Open Trading volume in Q2.
+Dealers are increasingly using Open Trading as an additive distribution channel to increase trading velocity and reduce balance sheet usage.
+The percentage of trading on MarketAxess taking place through Open Trading protocols reached a record this quarter.
+Open Trading accounted for 38% of U.S. high-yield volume, 15% of U.S. high-grade volume and 13% of emerging market volume.
+Slide 7 provides an update on our international progress.
+Our increased investment in geographic expansion is driving significant gains in client engagement across all major regions.
+International client volumes were up 24% year-over-year, driven by a 31% increase in the number of active clients to 579 firms.
+Emerging markets volumes jumped 60%, and U.S. credit was up 38% with international clients.
+Local emerging markets' trading volumes were up 42% year-on-year.
+The number of active emerging market client firms increased by 14% to 854.
+On a related note, we are pleased to report that during the second quarter, we completed our first trades in Chinese government bonds on the platform.
+The number of active Latin American firms has more than doubled over the last year, while the number in Asia has increased by 50%.
+Europe continues its growth trajectory, and active firms rose a healthy 19%.
+We are pleased with our progress on the international front, and we continue to invest heavily in both people and technology solutions in order to capture a larger share of trading in global credit markets.
+Now let me turn the call over to Tony for more detail on our financial results.
+Thank you, Rick.
+Please turn to Slide 8 for a summary of our trading volume across product categories.
+Our global volume increased 7% in spite of continued lackluster market environment.
+The underlying trends remain positive as we had double digit year-over-year increases in active clients for each of our core products.
+U.S. high-grade volumes were $204 billion for the quarter, up 8% year-over-year, resulting from an increase in estimated market share.
+Volumes in the other credit category were up 10% year-over-year.
+Emerging markets was a standout again this quarter, with trading volume up 39%.
+Our high-yield trading volume and overall market volume were both down around 10% year-over-year.
+We believe that low volatility negatively impacted our high-yield trading volumes.
+Our eurobond trading volume declined 15% year-over-year.
+In addition to the generally unfavorable market conditions, we experienced lower eurobond hit rates and inquiry volume.
+We had a nice pickup in municipal bonds trading activity on the platform.
+Approximately 240 investor clients traded during the second quarter, up 14% from the first quarter.
+Trading volume was up 30% sequentially, and we executed more than 8,000 trades, up 36% from the first quarter.
+On Slide 9, we provided a summary of our quarterly earnings performance.
+Quarterly commission revenue and overall revenue were both up 1% year-over-year.
+On a constant exchange rate basis, information and post-trade services revenue increased by 4%, with data revenue up 10% year-over-year.
+Operating expenses were up 4% year-over-year, leading to a small decline in income before taxes.
+The effective tax rate was 23% in the second quarter and reflects excess cash deductions of approximately $5.3 million relating to the new standard per share-based compensation accounting adopted effective January 1, 2017.
+The full year effective tax rate is trending towards the lower end of our 26% to 28% guidance range.
+Our diluted EPS was $1 on a stable diluted share count of 38.1 million shares.
+On Slide 10, we have laid out our commission revenue, trading volumes and fees per million.
+Total variable transaction fees were consistent with the prior year as the 7% increase in trading volume was offset by a mix shift, causing a decline in overall fees per million.
+U.S. high-grade fee capture was little changed on a sequential basis.
+Years to maturity and the percentage of volume in our tiered-size buckets were consistent with the first quarter.
+Our market share in block trading reached another record high in the second quarter.
+Our other credit category fee capture was down slightly on a sequential basis due to a mix shift.
+Fee capture for high yields, emerging markets and eurobonds were all fairly consistent with the first quarter levels.
+Effective August 1, we'll be implementing a new high-yield fee plan for our disclosed request-for-quote protocol.
+Similar to our high-grade plan, we'll move to a market model and automatically adjust the dealer quotations by its standard fee.
+At current volume levels and current protocol mix, we expect the new plan will be mildly positive to high-yield revenue, although the line item geography will change.
+Based on the dealer contract signed to date, we expect that high-yield monthly distribution fees will aggregate around $1.4 million, and the all-in variable transaction fee per million will range from 350 to 400.
+Slide 11 provides you with the expense detail.
+Sequentially, expenses declined by 1% as lower compensation and benefits costs were offset by an increase in marketing and advertising expenses.
+A reduction in the variable bonus accrual, which is tied directly to operating performance and seasonally lower employment taxes and benefits, accounted for the $2 million drop in overall compensation and benefits costs.
+The marketing and advertising spend tends to vary more than other line items quarter-to-quarter.
+We believe the second quarter level is more indicative of the run rate over the next 2 quarters.
+We still expect full year 2017 expenses will be within our original guidance range of $192 million to $208 million, albeit we're tracking towards the bottom half of that range.
+Year-to-date headcount is up 22, and we expect to add 20 or more personnel over the balance of this year.
+On Slide 12, we provide balance sheet information.
+Cash and investments as of June 30 were $366 million, and trailing 12-month free cash flow was a record $160 million.
+During the second quarter, we paid a quarterly cash dividend of $12 million and repurchased 65,000 shares at a cost of $12.4 million.
+As of June 30, approximately $27 million was available for future repurchases under our share repurchase program.
+Based on the second quarter results, our board has [indiscernible] regular quarterly dividend.
+Now let me turn the call back over to Rick for some closing comments.
+Thank you, Tony.
+We are pleased with our progress to build a broader and deeper foundation in global credit markets in Q2 in spite of the quiet market environment.
+Our investments in Open Trading and our international business both show strong momentum.
+Regulatory changes continue to have a positive impact on adoption rates for electronic trading and credit.
+Now I would be happy to open the line for your questions.
+As I mentioned, Patrick, we feel pretty good about our competitive position, and we believe it's done nothing but get stronger in the first half of 2017.
+We have seen a few press releases, as you point out.
+What is notable about them is there is no consistency in the reporting of actual electronic trading volumes in most of the rest of the space.
+And we think it would add great value if recording became more consistent with established platforms and e-trading venues because, as you know, we see platforms commingling straight through processing volume with retail volume, with institutional volume and changing the time periods of their reporting on consistently.
+We don't think that really helps to really understand the underlying trends in those businesses, so we think it would serve the market well if reporting was done monthly across all products and in a consistent way so that you and others could better understand the trends.
+But we take great confidence in the Greenwich Associates survey.
+As you know, they do a very thorough job of institutional investor surveys in North America and Europe, and we were very pleased to see their confirmation of our anecdotal feeling that our share has done nothing but get stronger relative to the competitors over the last year.
+The other platforms really are at earlier stages, and that also comes through in the Greenwich Associates survey.
+You hear from time to time as the protocols are interesting.
+However, I think the other platforms are generally at early stages in terms of client connectivity and have not yet had a significant impact on electronic trading volumes.
+Our feeling is that the high-grade fee model has really served institutional investor and dealer clients very well, and it's also worked for our shareholders.
+So on the back of that success, we feel the time is right to move to a similar model in high yield, and our feeling is that it is both a fair model and a scalable model.
+And the dealer response has been very good in terms of moving towards that model in high yield and given the market share numbers that I mentioned earlier of our share of electronic trading in both high grade and high yield, the major dealers who are signing on to the new high-grade fee plan were very comfortable making those commitments.
+Sure.
+First of all, let me say that our European business is much broader than just euros.
+Our European clients are actively trading emerging markets, U.S. credit and euros within a system.
+In totality, we're still very pleased with the growth momentum we have in the region.
+We moved out in front with the MiFID II requirement to standardize our euro fee schedules.
+And in that standardization process, you have some winners and some losers in terms of dealers that saw fee reductions versus some that saw fee increases.
+And we are working through those changes specifically in the euro product.
+It is possible that we will revisit a couple of elements in the fee grid to reduce any concern about any of the fee components in the euro schedule.
+But also remember, the European environment was not any different than the U.S. credits rating environment in the second quarter.
+The region saw incredibly low volatility throughout the quarter, and that clearly is also having an impact on overall trading growth rates.
+Yes, I think in terms of their focus, what we've seen from other regulatory initiative is focus on best execution, transparency and trade reporting, and we would expect going in that those are some of the areas that the SEC will focus on as well.
+It's a little early to know what their primary emphasis will be.
+We are in regular dialogue with the SEC about all developments in fixed income and market structure, and we continue -- we expect to continue those dialogues with them.
+I think it's too early to know how they will constitute the advisory committee, but we're available to help the SEC in any way that we can.
+Sure.
+<UNK>, it's Tony.
+You had 2 questions there: the first one on high yield and then around the high-grade distribution fees.
+In the high-yield side, what I mentioned the prepared remarks were based on the current volume and based on the current protocol mix that we expect that the high-yield change will be mildly positive to revenue.
+In those assumptions, what you see is almost 40% of our high-yield volume is in Open Trading.
+We're not changing the fee plan in Open Trading.
+And maybe a little less than 10% of our high-yield volume trades on spread, and that's a different protocol.
+We're not changing the fee plan there.
+So you have around 45% of our high-yield volume that when I mention again, that would be mildly positive.
+45% of our volume, we don't have any fee plan push through.
+I will caution on one thing and I did mention that it was based on dealer contracts signed to date, and we still have several dealers that are considering the alternative plan.
+And this one, similar to high grade, we have a plan that has a distribution fee, plus the markup, and then we have a plan which is all variable.
+It has an execution fee for each trade, plus the markup.
+So depending on what dealers elect, you could see some swing in the distribution fee and you could see some swing in the fee capture.
+So we'll have to see how this plays out over the next several months.
+But based on what we know right now, we think the distribution fee will be around $1.4 million a month, and that fee capture will range from 350 to 400 per month -- per million.
+The second question you had there, <UNK>, was on distribution fees for high grade.
+And Rick mentioned the beauty of the high-grade plan, the plan we put in place 12 years ago, and it scales incredibly well.
+And it promotes responses and promotes liquidity.
+We think we're in the right range.
+And you could argue that we have pricing power because the dealers are seeing multiples of the volume that they saw 12 years ago.
+But we have no current plans to change the distribution fees.
+Again, it is something that scales well.
+We're introducing it now with high yield, and we believe that will be an impetus to promote liquidity and promote more responses on the high-yield plan as well.
+Yes.
+So a couple of things on that.
+First, Tradeweb is primarily a rates platform, so it is notable that they're talking about everything except their rates business.
+Secondly, when you really do try to decipher what they put out in press releases and split out phone trade capture, which is really trade processing and not electronic trading from their retail business and their institutional business, you clearly come to a very quick conclusion that we continue to grow much faster in the institutional credit business than Tradeweb or any other competitor.
+And if you look, Rich, at the first half of this year, our total volumes are up $180 million from the first half of last year, and our high-grade volume is up about $56 billion or $450 million per day in increase year-over-year.
+So there is no question that we are widening the lead.
+And I think if Tradeweb wants to provide transparency, they would show a consistent and long-term trend of their retail business, which they are now commingling with institutional business in their press release.
+As you know, they bought the retail platform, BondDesk, which is now Tradeweb Retail, 4 years ago.
+I think the market would benefit from knowing what those trends are.
+Anecdotally, people say they're down, not up.
+Including phone trade capture is something that we do not do.
+We have more than $40 billion additional volume in U.S. credit and phone trade capture that we do not confuse with electronic trading volume and our reports to you.
+And when you really get down to what is actually institutional trading volume, yes, it's slightly up from where they were in the first half of last year but that growth rate is not anywhere near the MarketAxess growth rate year-over-year.
+And that is confirmed by the Greenwich Associates survey as well.
+So Rich, are you referring to -- I gave some revenue sensitivities on the high grade.
+Yes.
+So what I talked about in the first quarter was if we had a 1-year change in maturity in high grade for high-grade trading, it could change fee capture by somewhere between $10 and $20 per million.
+If there was a 1% change in yield across the yield curve, that's going to be $10 to $20 per million.
+I think just following up on that and just to provide a little bit more transparency, right now, on high grade, the high-grade fee capture has been $162 per million the last 2 quarters.
+We think we're in the middle of the historical range of high-grade fee capture.
+So it's been as high as $200 per million.
+And if you look back historically and you overlay what we're doing in Open Trading and you overlay with our all variable plan, probably the low end of the range would be something like $125 or $135 per million.
+So we think we're somewhere in the middle right now.
+Just hoping you could give a little more color on what you think drove the market share improvements given -- and I think the overall market environment has kind of been pretty similar to 2Q.
+Just wondering what's changed.
+<UNK>, it's hard to point that anything has changed from a market environment standpoint.
+And you can see that it's still strained from a volatility standpoint.
+Market volumes are down.
+New issuance, the best we can track right now, looks like it picks up a little bit in July.
+I think it's somewhat what Rick said, when you look at the underlying trend, with more clients engaged and more flow on the platform and Open Trading, percentage of volume conducted in Open Trading picking up, those underlying trends are all positive.
+Hard to point anything discrete right now that's moving that market share up right now.
+That's helpful.
+And then just one on MiFID II.
+Do you have a sense of how quickly you would expect behavior to change.
+Should we think about increased adoption of electronic trading quickly following the January implementation date.
+Or do you think it takes a little bit longer.
+And I just want to get your updated thoughts on what this could mean for the data part of your business.
+I think that the percentage of trades that are traded or processed through regulated vendors will grow early in the new year.
+As we make the rounds with dealer and investor clients, the combination of best execution requirements for both investors and dealers and the onerous trade reporting regime has most market participants coming to a conclusion.
+That's just going to be easier to comply with those regulations when the trade goes through a regulated trading venue.
+There is a gray area which is basically phone trade capture, which trade takes place off venue and then be processed through a venue and achieve the same benefits in terms of trade reporting.
+And I think that remains to be seen, but there is some optimism that, that will be acceptable with the MiFID II rules as well.
+So a lot to be determined on whether this radically change the amount that's traded electronically.
+But at a minimum, more trades will be going through MTFs.
+On data, we are -- we have invested in and expanded our regulatory reporting offering to be both an ARM and APA in a new environment.
+We're especially pleased with the progress that we're making with large institutions within mandates for their trade reporting for MiFID II.
+So the set of data that will be available should be broader.
+Over time, I think there will be more and more transparency requirements where all regulated trade reporting entities have to participate in a consolidated tape.
+But our base of data should continue to be strong post January with MiFID II.
+And then just -- sorry, just one last one, if I could sneak it in.
+I just want to circle back to <UNK>'s question.
+Is there a certain level of volume where the price changes are negative.
+Just trying to get the sensitivity and kind of some of the breakpoints around high-yield fee change.
+Yes.
+So <UNK>, there is -- with the new plan in place and again, remember, we're going to have a -- for our major dealers, a distribution fee and then what is in effective fixed markup.
+As volume increases, if you were simply comparing fees under the old plan to fees under the new plan, revenue under the new plan would be lower as volume increases.
+But I'll give you one big caveat there.
+If you ask me what do fees look like if volume doubles in high yield, Rick and I would sit here and tell you, we're not sure what the current fee plan and if that scales that well.
+And when you have individual dealers receiving bigger and bigger bills every month under the existing plan, we don't think that, that plan scales extremely well.
+But if volume doubles, for example -- and again, I'm saying all things equal, protocol, mix the same and the dealer roster on the distribution fee plan versus the all variable fee plan, you could see something like a 5% or 6% decline in overall revenue if volume doubles.
+And again, a lot of assumptions in there if volume doubles and simply comparing the old fee plan to what we have on the new fee plan.
+Yes.
+So I did mention that for block trades, we hit a new record high.
+And it's been -- we've seen a steady march up in our market share in over $5 million in trade size and went from a year ago in the second quarter a little over 7%.
+First quarter, we were at 8%.
+And now in the second quarter, we hit 9% in block trading.
+We've got all of the new protocols that we've launched over the recent years has been -- have been addressed on how we break down those resistance points in block trades, and it's been a historical resistance point.
+We are trying to address the concerns about information leakage.
+We have different trading styles and abilities to contain that information leakage in, and client adoption is picking up.
+We think it's a big area for us.
+It's a big opportunity for us.
+And I think everybody would have discounted our chances years ago.
+We feel much better about the share opportunity and definitely treat the block trading area as a big addressable market for us.
+I think what's coming through is that both dealers and investors are seeing execution benefits on the MarketAxess system across all trade sizes.
+What we have done to really connect the global credit markets and introduce new and valuable counterparties to dealers, investors is really valuable.
+And people are seeing the transaction cost savings and the efficiency gains in block trading in the same way that they always have in $5 million under trades.
+So the percentage of volume that we're doing north of $1 million has moved up to around 70% of our volume.
+We think this is a very encouraging sign for future growth.
+We're pleased with the progress on munis.
+I know we went with this with open eyes.
+We knew it wasn't going to be easy, but we continue to make progress.
+And we had comments in the prepared remarks that we have more clients engaged, more inquiry flow on the platform, we're executing more trades.
+We did close to $2 billion in the first half of the year in muni trading.
+And one of the positive things there, almost 50% of the volume was in Open Trading, so this was one of the reasons that we felt confident and comfortable launching trading municipal bonds.
+We thought we had something to differentiate our platform.
+Open Trading is serving that purpose and half the volume has come through in Open Trading.
+There are significant transaction cost savings.
+Just like Rick talked about on the transaction cost savings in U.S. high grade.
+On the municipal bond side, we're measuring transaction cost savings in Open Trading, it's almost $0.50 or almost $500 per million in transaction cost savings when trading takes place through Open Trading.
+So we do feel good about it.
+It's a big market opportunity.
+Are we -- do we wish we were further along.
+Yes, we do.
+There are challenges there.
+There's some headway in doing this.
+We need more flow on the platform.
+There's some dealers that we need to prep and connect to the platform.
+So we're still as enthusiastic as we were a year ago about the opportunity and the ability to pick up share.
+Thank you for joining us this morning, and we look forward to updating you again next quarter.

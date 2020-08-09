@@ -1,0 +1,238 @@
+Good morning, and thank you for joining us to discuss ITG's First Quarter 2018 Results.
+My name is Case, and I will facilitate the call today.
+(Operator Instructions) As a reminder, this session is being recorded.
+I would now like to turn the conference over to J.
+<UNK>
+<UNK> of ITG.
+Good morning, and thank you for joining us to discuss ITG's -- excuse me, thank you and good morning, Keith.
+.
+Thank you J.
+<UNK>
+Good morning, and thank you for joining us to review ITG's first quarter 2018 performance.
+We are now 7 quarters into our 10-quarter Strategic Operating Plan.
+I'll highlight the progress we've made and the opportunities ahead.
+Steve will then take you through financial results.
+Finally, we will take your questions.
+We had a strong start to 2018, delivering adjusted earnings of $0.28 per share.
+Results were driven by strength in international trading, growth in workflow technology and the impact of cost savings implemented over the past 7 quarters.
+First quarter revenues were up 4% as compared to the prior quarter and up 9% compared to the first quarter of 2017.
+Our adjusted global pretax margins rose to 9.9%, up sharply from 3.2% in the first quarter of 2017.
+Both revenues and adjusted net income were at their highest level, since the second quarter of 2015, and we achieved the highest pretax margin since the first quarter of 2015.
+In Europe, we delivered record revenues and profitability.
+Value traded in the POSIT Alert block crossing system rose 55% as compared to the first quarter of 2017.
+Overall, European revenues were up 22% year-over-year, outpacing a 13% increase in European daily market wide value traded.
+As European market structure evolves under the MiFID II regulations, we continue to take the lead on guiding clients as they adapt to the changes.
+At the Trade Tech conference in Paris last week, we presented on topics including the Algo Wheel, block trading and the new liquidity landscape.
+We also hosted more than 120 clients for a discussion about artificial intelligence and how it is reshaping capital markets.
+Asia Pacific posted another record quarter with revenues up 41% compared to the first quarter of 2017.
+Value traded rose 70%, well ahead of the 50% increase in daily market wide turnover.
+We also set a new record for POSIT Alert block value crossed, and last week, we launched POSIT Alert for New Zealand equities.
+That marks the 12th market in Asia Pacific and the 38th market worldwide where we offer electronic block crossing.
+In Canada, our average daily volume increased 11% as compared to the first quarter of 2017.
+That's despite a 3% drop in market wide daily volume.
+Our sell-side crossing network MATCH Now set another record for quarterly revenues.
+ITG's positioning with clients in Canada is impressive.
+Last month, we hosted nearly 200 clients at our second annual Trading Matters conference in Toronto, demonstrating thought leadership.
+In the U.S., market share in the first quarter was 1.8%, down from 2.07% in the fourth quarter of 2017.
+The quarter was marked by sharp spikes in volatility as well as a surge in ETF trading.
+Both factors impacted market share.
+We are not satisfied with this result.
+Achieving U.S. profitability through intensified client engagement, technology infrastructure enhancement and innovative product delivery is our key focus.
+Client engagement is the strongest I've seen since rejoining ITG in January of 2016.
+Over the past month alone, our new head of market structure for the Americas, Doug Clark, held dozens of client meetings about the SEC's agenda for U.S. equity markets.
+Our Head of European Products, Duncan Higgins, and Head of Global Commission Management, Jack Pollina, held events and client meetings across the U.S. about MiFID II's early impacts and the wave of unbundling it has sparked globally.
+And we've held dozens of meetings to introduce clients to our new AI-based Algo.
+As we worked to achieve profitability in U.S. execution services, we are maintaining cost discipline.
+Overall, since the launch of the Strategic Operating Plan in July of 2016, we have reduced annual costs by more than $30 million with most of the savings in the U.S. Headcount reductions during the first quarter are expected to save $10 million annually with $8.5 million of the savings impacting the U.S. Global headcount at quarter end was 891, down from 934 at the end of 2017.
+These savings have fully funded investments in core capabilities.
+Now, I will update you on the 10-quarter Strategic Operating Plan.
+The strategic plan called for investments of $40 million in people and technology through the end of 2018.
+Approximately $27 million has been invested over the past 7 quarters, including more than $4 million in the first quarter of 2018.
+We are making progress in globalizing the firm and actioning scale opportunities across the enterprise.
+The goal is to deliver unmatched client service and best-in-class products in our 4 key offerings, liquidity, execution, workflow technology and analytics.
+In liquidity, we developed a new POSIT Alert ticket, which provides streamlined access to global blocks, customized workflows and ability to use block crossing alongside Algo execution to complete orders.
+Approximately 50 clients are now live using this new technology, and it will be rolled out globally in the next 2 quarters.
+In execution, we're encouraged by the initial performance of our new implementation shortfall algorithm, IS AI, which leverages artificial intelligence to improve execution performance.
+IS AI will be rolled out to the majority of our U.S. clients by the end of the second quarter.
+In analytics, we are extending multi-asset coverage delivering tick-level transaction cost analysis for U.S. futures with coverage in other developed markets to be added later this year.
+The new state-of-the-art client portal, data architecture and analytic services are on track for delivery in second half of 2018.
+And in workflow technology, we are reinforcing Triton's position as the leading global multi-asset execution management system, adding market-leading analytics and additional foreign exchange functionality.
+More than 30 clients are live on Algo Wheel, our broker neutral solution, which enables objective, repeatable, orderable measurement of algos through a randomized approach.
+The growth of Algo Wheel is a key driver behind the increased profitability in our workflow technology operation.
+Even as we reduced costs, we continue to invest in the team globally.
+Recent additions include Fabien Melero, leading product management for Asia Pacific, based in Hong Kong; Vinayak Patade, leading our execution and workflow technology application development agenda based in New York; David Fellah, ITG's Global Head of Quantitative Execution Analytics based in London.
+David previously worked at ITG from 1999 to 2004, as a trading strategist.
+These additions complement our talented team, they highlight ITG's ability to attract top talent and also demonstrate our commitment to executing the Strategic Operating Plan.
+As we've noted on prior calls, this plan targets accelerated revenue growth through the end of 2018.
+First quarter revenues were at an annual run rate of $526 million, which is 9% ahead of full year 2017.
+This was achieved despite the impact of the revenue deferral required by accounting rule changes, which Steve will discuss shortly.
+International operations as a whole are performing well, while the U.S. is lagging.
+Cost savings measures taken in the first quarter are a significant step toward regaining U.S. profitability.
+Now, we are working intensely to deepen engagement with clients, communicate ITG's value and grow U.S. market share.
+Our aim is to be recognized as the industry's most trusted, global technology enabled agency broker.
+We are committed to achieving this through the execution of the Strategic Operating Plan.
+The industry is in a period of transition for brokers with regulatory shifts, evolving competitive dynamics and changes in trading behaviors.
+Our eyes are open to potential opportunities to add scale through acquisition, provided these opportunities are in line with our core focus on liquidity, execution, workflow technology and analytics.
+We have a lot of work ahead, and feedback from clients is clear.
+ITG's value proposition is resonating as we strive to help clients improve investment performance and increase operating efficiency.
+Now, Steve will discuss first quarter financial results.
+All yours, Steve.
+Thank you, Frank, and good morning.
+As Frank discussed, results improved significantly in the first quarter, with another quarter of a record revenues and profitability in both Europe and Asia Pacific, strong market share gains in Canada and continued cost discipline.
+While activity for U.S. execution services remained weak, commission share revenues from workflow technology products were strong in the U.S. and Europe, pushing the pretax margin for that group above 20%.
+In the first quarter, revenues were $131.5 million, and GAAP net income was $4.4 million or $0.13 per share.
+This compares to revenues of $126.7 million and a GAAP net loss of $2.4 million or $0.07 per share in the fourth quarter of 2017.
+First quarter 2017 revenues were $120.8 million and GAAP net income was $5.3 million or $0.16 per share.
+On Slide 9, we detail nonoperating items that are in GAAP results for the first quarter of 2018 and the fourth quarter of 2017.
+There were no non-GAAP adjustments in the first quarter of 2017.
+In the first quarter of 2018, a restructuring charge of $7.2 million or $0.21 per share was incurred for the elimination of positions in the U.S. This chart was partially offset by an after-tax gain of $1.9 million or $0.06 per share related to a reduction in U.S. tax reserves from resolving a multi-year contingency.
+Excluding these items, adjusted net income was $9.7 million or $0.28 per share for the quarter.
+For this discussion going forward, all references to first quarter 2018 and fourth quarter 2017 results and costs are on an adjusted basis, excluding the items listed on Slide 9.
+Slide 10 presents consolidated results, along with separate details of results from North America, Europe and Asia Pacific operations as well as corporate activities.
+As a reminder, corporate activity includes investment income and other gains as well as cost not associated with operating ITG's regional and product based business lines.
+Compared to the fourth quarter of 2017, consolidated revenues were up $4.8 million while consolidated expenses were down $600,000.
+Consolidated pretax margin was 9.9%, up from 6.1% in the fourth quarter of 2017 and 3.2% in the first quarter of 2017.
+These results were achieved even with the impact of the new revenue recognition accounting standard.
+Under this required standard, $3.8 million of commissions attributable to bundled arrangements for analytics products were deferred, and we accelerated the recognition of $400,000 in software license revenue.
+The net reduction to first quarter 2018 global revenues of $3.4 million reduced after-tax earnings by $0.09 per share.
+U.S. revenues and earnings for the first quarter of 2018, were reduced by a net $1.6 million due to this new accounting standard.
+We also implemented a change this quarter, to the measurement of profitability in regional segments.
+As many of you have observed, our cost base in the U.S. historically was heavy, due in part to the inclusion of centralized global cost.
+We believe that it was appropriate at this point to include these costs proportionally in all regional results, particularly given the continued emphasis we are putting on expanding the globalization of functional teams, to enhance the scale of our business.
+For comparability purposes, previously reported segment results have been restated.
+This reduced U.S. expenses in prior periods by $2.7 million and increased expenses in Canada, Europe and Asia Pacific by $700,000, $1.3 million and $700,000 respectively.
+Regional results in this presentation and in our earnings release reflect these restatements.
+For the first quarter of 2018, North American businesses posted net income of $0.03 per share on revenues of $66.6 million.
+Combined European and Asia Pacific businesses, posted record net income of $0.43 per share in the first quarter on revenues of $64.4 million.
+Corporate activity lowered net income by $5.9 million or $0.18 per share.
+Slide 11 details exchange rate impacts on results of foreign subsidiaries.
+Currency changes increased profitability by $600,000 when compared to rates in effect in the fourth quarter of 2017.
+An increased profitability by $1.7 million when compared to rates in effect in the first quarter of 2017.
+You can also see the larger impact on reported revenues and expenses.
+On Slide 12, North America operations are broken out between the U.S. and Canada.
+During the first quarter of 2018, U.S. revenues were $48.5 million with a pre-tax margin of negative 2.8%.
+This compares to $53.4 million in revenues with a pre-tax margin of a negative 7.4% in the first quarter of 2017.
+U.S. commission revenues declined 8% sequentially reflecting lower trading commissions, and the impact of accounting changes for bundled commissions.
+These declines were partially offset by strong growth in commission share revenues from our workflow technology products.
+The percentage of traded volume from sell-side accounts grew slightly from 53% to 54% quarter-over-quarter.
+Average U.S. revenue per share was down 6% from the fourth quarter to 37 mills due in part to a lower mix of volume from alert and dark Algo products as well as the increase in mix from sell-side clients.
+U.S. expenses were down 5% sequentially primarily reflecting lower costs for transaction processing, and occupancy and equipment as well as a seasonal decline in sales and marketing expenses, which are booked in other G&A.
+Transaction processing cost declined even with the quarter-over-quarter increase in average daily volume due to a reduction in lower margin sell-side trading, and the spin-out of the derivatives business in February.
+The decline in occupancy and equipment included the impact of the reduced office space in New York.
+Expenses were down 13% compared to the first quarter of 2017, largely due to lower transaction processing, compensation, and occupancy and equipment costs.
+Canadian revenues were up 14% sequentially in line with the increase in market wide trading.
+As compared to the first quarter of 2017, Canadian revenues were up 9% versus a 3% decline in market-wide trading.
+This reflected strong year-over-year growth in buy-side trading and another record quarter for revenues in MATCHNow.
+Slide 13 is a breakdown of European and Asia pacific results.
+European value traded in the first quarter was up 4% sequentially versus a 16% increase in daily market-wide trading.
+This reflects the impact of increased volatility during the quarter as well as the implementation of the MiFID II volume caps in mid-March.
+Despite that, Europe set new records for revenues and profitability in the first quarter, driven by strong growth in block trading in POSIT Alert.
+Asia Pacific also set new revenue records as well as a new net income record on a restated basis.
+Regional revenues were up 2% sequentially and up 41% year-over-year.
+Slide 14 provides supplementary information on product group revenues and investment income, which we categorize as corporate.
+Execution services revenues increased 4% versus the fourth quarter of 2017, and 9% year-over-year.
+This was fueled by a stronger market-wide trading activity, another global record for POSIT Alert and stronger Canadian market share.
+Workflow technology revenues rose 13% sequentially and 15% year-over-year due to higher commission share revenues.
+Analytics revenues were down 14% versus the fourth quarter of 2017, and 10% year-over-year.
+Slide 15 presents supplementary pretax income information for 3 product groups and for corporate activity.
+Pre-tax margin for execution services was up sequentially and year-over-year driven by strong growth in POSIT Alert in Europe and Asia Pacific as well as higher global market activity.
+Pre-tax margin for workflow technology more than doubled versus the first and fourth quarters of 2017, to 22.3%.
+That's the highest achieved since we began breaking up quarterly product group margins in 2014.
+These improved results were driven by strong growth in commission sharing for Algo trades with third-party brokers executed via Triton and the Algo Wheel.
+In analytics, our pre-tax margin was down versus the fourth quarter of 2017.
+This is due in part to timing delays related to the new revenue recognition standard.
+There were also timing delays in the conversion of bundle trading to build cash arrangements in Europe, and in report deliveries.
+Pre-tax loss from corporate activity was $6 million, down from $6.5 million in the fourth quarter of 2017 and $6.1 million in the prior year period.
+As we have said on prior calls, corporate expenses, including legal costs, vary from quarter-to-quarter as we work through litigation, regulatory and other corporate matters.
+Slide 16 presents U.S. volume and rate capture statistics.
+Average daily executed volume was up 4% sequentially in the first quarter, and down 9% year-over-year.
+Overall revenue capture rate per share was down 6% sequentially, but flat year-over-year.
+We ended the quarter with approximately $230 million of cash, down from $288 million at the end of 2017.
+This decrease was due to the payment of incentive compensation for 2017, net settlements of vested employee stock awards as well as increases in cash required for European settlement activities and our U.S. clearing deposit.
+Excess cash at March 31 over and above what is needed for required regulatory capital and other compensation liabilities was approximately $70 million, down from $75 million at the end of the fourth quarter.
+This decline was primarily attributable to working capital changes, which reflect, in part, an increase in billed receivables and the payment of annual expenses in the first quarter.
+First quarter stock repurchases totaled 180,000 shares for approximately $3.6 million or an average cost of $19.80 per share.
+We paid a quarterly cash dividend of $2.3 million or $0.07 per share.
+For the balance of 2018, we intend to repurchase shares in an amount sufficient to offset all dilution from share issuances on the vesting of stock awards during the year.
+Repurchases may vary from period to period depending on market conditions.
+Looking forward, here are a few closing observations.
+As Frank pointed out, we invested more than $4 million in the Strategic Operating Plan during the first quarter.
+Approximately $27 million has been invested since the launch of the plan.
+We expect to complete the balance of the $40 million investment over the course of 2018, with roughly half the total investment expense and half capitalized.
+Restructuring charges of $7.2 million incurred in the first quarter of 2018, are expected to reduce annual expenses, primarily in compensation, by approximately $10 million starting in the second quarter.
+Of those expense saves, approximately $8.5 million are in the U.S. with the balance impacting international operations, through a reduction to the new allocations.
+We expect the change in accounting rules requiring revenue recognition, will reduce second quarter revenue by approximately $1.5 million.
+This reduction and the reduction to first quarter revenue are expected to be offset by increases to third and fourth quarter revenues of approximately $1.5 million and $4 million respectively.
+Looking at current business activity levels.
+Preliminary U.S. average daily volume in April was approximately 117 million shares, with revenue per share in line with the first quarter of 2018.
+Preliminary April combined average daily commissions in Canada, Europe and Asia Pacific were down approximately 12% in U.S. dollar terms compared to the first quarter of 2018, generally in line with the drop in market-wide trading activity in those regions.
+On a blended international basis, there were approximately 20 trading days in April.
+Now I'll turn the discussion back to Frank.
+Thank you, Steve.
+We are entering the final 3 quarters of the 10-quarter Strategic Operating Plan.
+International operations are performing well.
+In the U.S., we are not content with our performance.
+We are encouraged by the way the team is engaging with clients and pressing forward.
+With a passion for delivering world-class client service, disciplined investment and innovation and a commitment to excellence, I am optimistic about ITG's prospects.
+Now, Steve and I will answer your questions.
+(Operator Instructions) And the first question comes from <UNK> <UNK> with Sandler O'Neill.
+I guess the first question is on U.S. profitability and trying to sort of identify what's being going forward.
+So the next quarter, we should have a quarter's worth of the $8.5 million in employee comp, I guess.
+On the investment side, I just wasn't sure how much more -- I thought you said Steve, there's $13 million to go, $6.5 million to be expense, like what could we expect on the investment side.
+Are there any revenue offsets to the cost reductions in the U.S. as we think about U.S. profitability.
+Yes, so on the Strategic Operating Plan, we've invested $27 million under the program.
+Rich, I don't see a material change in the expensing throughout the rest of the year versus what you saw in the first quarter in impacting the U.S. profitability.
+Great.
+The only change would be a reduction of $8.5 million divided by 4 in the comp expense.
+Sure, Rich.
+I stated in the past, it may take us longer to achieve our financial goals of $600 million as the exit rate of 2018 revenues and 15% margins.
+Achieving profitability in the U.S. is a top priority, and that is a big contributor to achieving those numbers.
+Sure, Chris.
+As I said before, achieving profitability in the U.S. is a top priority, and we're not satisfied with our financial performance.
+Our path to profitability is going to come through market share growth and operational efficiency.
+You're touching on the operational efficiency side, as we've gotten to know the organization better, I've been here now 2.25 years and we've been on boarding other personnel.
+We saw opportunities to continue to drive operational efficiency, whether it was in headcount as we executed in the first quarter or in facilities reduction.
+We'll continue to focus on operational efficiency as well as looking for opportunities to drive growth in market share.
+No we're open to inorganic opportunities to maximize returns to our shareholders.
+We continue to believe the SOP provides the best returns.
+We do expect consolidation in the industry, and one of the objectives of the SOP is to set ourselves up to be a strong player, strong from the standpoint of technology infrastructure, strong from the standpoint of management team.
+And provided there, we see opportunities out there at the right price, that drives scale and accelerate our core capabilities and liquidity, execution services, analytics, workflow technologies.
+We will pursue them.
+Sure, Ken.
+When we look at it -- we're in the early days of MiFID II, just rolled out January 3rd, double volume caps kicked in, in mid-March.
+We -- since the double volume caps kicked in, in mid-March, we've seen a dip in dark trading leading into January, it was about 9% of the market.
+March and April, it's dipped to about 6%.
+Our share of dark trading remains strong.
+We believe we remained well positioned with our large-in-scale and our periodic auction capabilities.
+We're also very strong player in Algo liquidity aggregation.
+The market is getting more and more complex with respect to liquidity fragmentation, and that's an area that we've played in, strongly, across the globe whether it's fragmentation in the U.S. or now as it's landed on the shores of Europe.
+We expect clients will continue to recognize the value we provide sourcing unique liquidity as well as delivering quantitative performance measurement.
+You know, one area it's -- that's growing is derivatives, and we have a product, it's called RFQ-hub, it's getting more attention right.
+So as there is more and more interest in pre-trade transparency and looking at best execution, that's a tool that we've been putting to work in structured products and other derivative asset classes.
+Yes, sure.
+So as I noted, we reduced U.S. expenses and allocated $2.7 million of -- in the first quarter, so that's a quarterly charge of $2.7 million out from the U.S., to the regions.
+That $2.7 million is broken down between a reduction of U.S. compensation of $1.9 million and a reduction of occupancy and equipment cost of $800,000 in those -- and you have corresponding increases in those line items in the other 3 regions.
+I'll give you a little color on the market and then Steve can follow up with some more specifics.
+POSIT Alert is a very important product in our arsenal.
+And if I look at Q3, Q4 of last year, Large-in-Scale trading was about 1.8% in Q3, Q4.
+Large-in-Scale trading in February, March has been over 2% in the European market.
+So that favors our POSIT Alert product in the Large-in-Scale category.
+So very important product for us.
+Yes, <UNK>, and just to clarify.
+So on the notion of value we traded in Europe was up in the first quarter over both the fourth quarter and the first quarter of last year.
+It wasn't up as much as overall market.
+Why value was -- trade was up, but it was up.
+And in terms of -- I think you're absolutely right, one of the big drivers that were able to grow revenues as much as we were, is the fact that our POSIT Alert block business continues to grow.
+That is a higher rate business for us.
+I'm not going to get too specific on the exact rates that we have there, but it is a premium product for us.
+Yes, I'm not sure the exact breakdowns, but I can confirm that -- and we said it in our commentary that volume was up quarter-over-quarter and year-over-year slightly.
+So that may be one of the dynamics, which I'll have to look a little deeper into that.
+Yes, so specifically in the U.S. Chris.
+Yes.
+So commission sharing revenue went from trading in the Algo Wheel was up pretty significantly about 25% about $800,000 or so from the fourth quarter.
+A lot of that was driven by our new broker neutral tool the Algo Wheel, which helps clients allocate trades to broker algorithms, so we've got as Frank said more than 30 clients on that product right now and we're seeing strong growth there and it's helping our revenue and bottom line numbers.
+It will be combination of those 2 things, right.
+Certainly, trade environment will impact that, but as we bring on more clients that should help that revenue line grow as well.
+Thank you for your questions.
+We look forward to discussing our continued progress on our second quarter call.
+Thank you again for joining us this morning.

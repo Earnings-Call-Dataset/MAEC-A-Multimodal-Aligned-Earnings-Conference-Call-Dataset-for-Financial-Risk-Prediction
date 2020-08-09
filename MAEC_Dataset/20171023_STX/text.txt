@@ -1,0 +1,49 @@
+Thanks, Dave
+For the September quarter, we achieved $2.6 billion in revenue and shipped a record 70.3 exabytes of storage, with an average capacity per drive of 1.9 terabytes, also a record
+For the enterprise HDD market, we shipped 27.2 exabytes, with a record average capacity of 3.9 terabytes per drive
+Our average capacity per drive for our nearline products reached over 5.4 terabytes per drive, up 17% over last year's strong ATB demand and up 75% from the September quarter two years ago
+The growth in hyperscale and cloud storage deployments continues to represent an important opportunity for Seagate, and we are confident in our nearline HDD portfolio designed to serve these environments
+Over the next 12 months to 18 months, we expect a diverse and strong market with multiple capacity points for different application workloads
+Use cases will cause capacity points to span from two terabytes to four terabytes for certain applications and up to 16 terabytes for other customer needs
+At Seagate, we believe we are well poised to help our cloud customers with our stringent and varied requirements
+Our 10-terabyte helium nearline product was our leading enterprise revenue SKU in the September quarter, and we shipped over 1 million 10 terabyte units, up threefold from the June quarter
+We also achieved sequential volume and revenue growth in our 12-terabyte helium nearline product in the September quarter
+Customer feedback has been excellent and we are confident in our competitiveness across our key customer qualification processes
+For the December quarter, we are planning for significant sequential volume and revenue growth for our 10-terabyte and our 12-terabyte helium products as the market adoption grows
+In the edge and consumer verticals, our 1-terabyte per platter, 2.5-inch platform continues to perform well
+Using our areal density advantage, our 2-terabyte per platter, 3.5-inch platform continues to ramp for desktop markets, providing a great value for customers needing 2-terabyte, 4-terabyte and 8-terabyte capacity points
+Customer feedback indicates we are well ahead of the competition in these important verticals
+Within this, notebook compute revenue was up 37% year-over-year, with exabytes up 75% year-over-year
+Average capacity per notebook compute drive -- year-over-year
+Our gaming business revenue grew sequentially 13% and average capacity per drive was up 27% over last year
+We continue to be selective in our participation in this market, and we are focused on the highest capacity areas for the gaming customers that are demanding more local mass storage for their rich gaming experiences
+Our non-HDD revenue, primarily from our cloud systems and silicon group, in the September quarter was 242 million, up 30% quarter-over-quarter and up 17% year-over-year
+Our operating expenses for the September quarter were 481 million on a GAAP basis and 408 million on a non-GAAP basis, down 14% year-over-year
+Total operating expenses were slightly lower than forecast, primarily due to restructuring and other cost-containment measures
+We continue to identify areas for cost improvements, and during the September quarter, we divested the majority of our high-performance computing assets, which will result in a cost savings of approximately 20 million a year and impact revenues by approximately 50 million per year in our non-HDD revenue
+We remain on track to exit the calendar year with non-GAAP operating expenses of approximately 400 million per quarter
+Capital expenditures were 124 million for the September quarter for maintenance capital and manufacturing footprint redeployment, supporting the continued ramp of our new HDD products in our portfolio, which utilize new tooling and equipment
+For December quarter, we expect capital expenditures to decrease sequentially and remain less than 5% of our total consolidated revenue for FY 2018. Cash flow from operations in the September quarter was 237 million, and free cash flow was 113 million
+These results include approximately 46 million in cash payments related to previously announced restructuring charges and some inventory staging related to a strong October demand signals
+For the December quarter, we anticipate cash flow from operations to be at least two times more than the September quarter due to working capital improvements in our business outlook
+Our balance sheet remains heavy – healthy, and we ended the September quarter with 2.3 billion in cash and cash equivalents, with 289 million ordinary shares outstanding
+Our board has approved our quarterly dividend payment of $0.63 for the September quarter, which will be payable on January 3, 2018. Interest expense for the September quarter was 61 million
+Our debt structure and level of interest expense continues to be well within our financial capabilities, given our staggered maturities and low interest rates
+In the September quarter, we deployed 166 million to redeem 5 million shares and 22 million towards redeeming our 2018 senior notes
+As Dave <UNK> noted, at the end of September, we announced our participation in the consortium led by Bain Capital Private Equity that has entered into an agreement with Toshiba Corporation to acquire Toshiba Memory Corporation
+We committed to provide up to $1.25 billion in financing to support the acquisition
+Upon closing, we would expect to fund the transaction with existing cash balances and some short-term financing mechanisms, including the long-term NAND supply agreements we expect to enter with Toshiba Memory, we anticipate this transaction to be accretive to our earnings
+Overall, our operational and financial performance in the September quarter reflects execution of our business model and profitability improvement objectives
+Looking ahead, we will continue to optimize our business and focus on aligning our go-to-market and product portfolio advancements towards the future growth opportunity markets
+I would now like to turn the call back to Dave <UNK>
+Yes, I would classify any pricing you may see as more of a normal mix shift versus a like-for-like across consistent customers within that same channel
+Pricing has been relatively benign
+And so, to your point, as the exabytes continue to expand in this data rich area, pricing has not been a major factor across all of our nearline portfolio
+Yes, the share count, it's back within overall capital allocation, the system that we've been working at over returning over 30% to 50% of our cash flow back to shareholders
+And so, obviously, we've been fairly muted on our buybacks, which has been more a reflection of a NII dilution perspective
+But we're still very convicted in and around the 30% to 50%
+And as we continue to see strength in our cash flows, obviously, we'll continue to be in the open-market
+In the OpEx, it's been too hard
+We still have, I'll call it, some curtailing specifically in the portfolio when you look at some of our adjacent businesses
+But then we also have just common items that we've been still trying to drive towards the lowest common denominator
+So, we're still very much convicted on achieving the $375 million by the end of FY 2018, and I believe we're on a very good glide path to enable that

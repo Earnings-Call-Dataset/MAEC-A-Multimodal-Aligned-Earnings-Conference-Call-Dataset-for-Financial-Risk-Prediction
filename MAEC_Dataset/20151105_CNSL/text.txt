@@ -1,0 +1,174 @@
+Thank you, Chelsea, and good morning everyone.
+We appreciate you joining us today for our third quarter earnings call.
+At the end of the prepared remarks, we will open the call up for questions.
+Joining me on the call today are <UNK> <UNK>, President and Chief Executive Officer, and <UNK> <UNK>, Chief Financial Officer.
+Please review the Safe Harbor provisions in our press release and in our SEC filings for information about forward-looking statements and related risk factors.
+This call may contain forward-looking statements within the meaning of the federal securities laws.
+Such forward-looking statements reflect, among other things, management's current expectations, plans and strategies and anticipated financial results, all of which are subject to known and unknown risks, uncertainties and factors that may cause the actual results to differ materially from those expressed or implied by these forward-looking statements.
+In addition, today's discussion will include certain non-GAAP financial measures.
+Our earnings release for this quarter's results which has been posted to the Investor Relations section of our website contains reconciliations of these measures to their nearest GAAP equivalent.
+I will now turn the call over to <UNK> to provide an overview of our third quarter results.
+<UNK> will then provide a more detailed review of the financials.
+<UNK>.
+Thanks <UNK> and good morning everyone.
+I appreciate you joining us today for our third quarter earnings call.
+We had a strong third quarter of financial and operating results, continuing to demonstrate the execution on our strategy.
+Overall, revenue was $194 million, adjusted EBITDA was $89.4 million and the dividend payout ratio was 54%.
+Now let me highlight a few of the key drivers behind this successful quarter.
+First, our commercial and carrier revenues increased by 3% year-over-year.
+Last quarter, we talked about a few of the large wins we had in the healthcare and education sectors and we started to benefit from these projects in the current results.
+Our hosted VoIP and Internet solutions continue to be in high demand.
+During the quarter, metro Ethernet circuits increased 25% over last year and we continue to expand our fiber network and on-net buildings.
+On the carrier side, we completed the installation of 130 new fiber-to-the-tower sites that were primarily driven by the record sales in the first quarter where we added 200 new sites under contract.
+In the third quarter, we had another strong performance with 57 new sites sold for future installation.
+Second, we continue to execute on our strategy on the consumer side with a focus on higher broadband speeds, higher average revenue per user, and continuing to pass-through content price increases to our video subscribers.
+Our robust network can now serve 89% of marketable homes with a 20-Meg or greater Internet product, 41% can receive a 100-Meg and 8% can receive our 1-Gig offerings.
+We now have 27,000 consumer customers taking a 50-Meg product or higher and we have increased our 1-Gig customer count to over 1,000.
+Overall, we grew our data in broadband connections by 3,300.
+With respect to voice connections, we maintain our run rate which is one of the best in the industry.
+A third highlight for the quarter was related to our partnerships with Verizon Wireless.
+We received a record $20 million of cash distributions in the quarter.
+This was driven by two key items.
+First, the device financing plan that began in early 2014 is starting to see the cash collections catch up to the strong demand and penetration of the program.
+The second item is tied to the deal Verizon completed with American Tower at the end of March.
+Certain of the Towers in this agreement were owned by the partnerships in which we participate.
+The upfront cash payments for the deal were distributed to each of the partners at the prorated amount of ownership and we estimate this represented $9.5 million to $10 million of the total distribution.
+Now with respect to Enventis, the integration continues to go well.
+We closed on the transaction just over one year ago on October 16.
+The transaction included significant fiber network spanning over five states and we have been very pleased with the growth in the commercial and carrier sales from the expansion opportunities of the network made possible by this greater scale.
+In addition, we have achieved 65% of our two-year synergy target of $17 million which was increased from $14 million last quarter.
+Also, Enventis had a billing platform used both internally and licensed to others.
+In October, we completed the sale of this business which had approximately $4 million in annualized revenue and was neutral to earnings.
+Finally, before I turn the call over to <UNK>, I wanted to discuss the Connect America Fund or CAF.
+In August, we announced the acceptance of approximately $14 million in CAF to funding, which represented 100% acceptance for all of our eligible markets.
+The transition of CAF I to CAF II began in the third quarter.
+Consistent with our strategy, this program will help deliver broadband to rural areas, improving the economies and livelihoods of these communities.
+With that, I'll turn the call over to <UNK> for the financial review.
+<UNK>.
+Thanks <UNK>.
+Good morning to everyone.
+This morning, I will review our financial results for the quarter and compare them to the pro forma results for the same quarter last year.
+I'll follow that with a review and confirmation of our 2015 guidance.
+Starting with revenues, operating revenues for the third quarter was $194 million as compared to $203.4 million last year.
+The primary driver of the year-over-year decline is attributable to $7.5 million decline in our equipment sales and services revenue.
+Excluding the revenues from equipment sales, which carry lower margins, total revenues were $179.2 million compared to $181.2 million for the third quarter last year.
+Growth in our strategic sales were offset by declines in legacy voice services, subsidies and network access.
+Total operating expenses excludes this depreciation and amortization were $134.3 million compared to $131.1 million for the same quarter last year.
+The increase is primarily driven by $9.6 million of immigration and severance charges related to the ongoing synergy achievement in the Enventis acquisition and an early retirement for certain employees.
+These charges were partially offset by lower cost through the Enventis synergy achievement as well as the decline in equipment sales.
+Net interest expense for the quarter was $19.2 million, which was a $2.6 million improvement to the third quarter of last year.
+The significant expense reduction was due to calling our 10 7/8% senior notes with proceeds from an add-on to our 6.5% senior notes.
+We completed the bond redemption in June.
+Other income net was $10.5 million compared to $8.6 million for the same period last year.
+Cash distributions from our Verizon Wireless partnerships in the quarter were $20 million, which compares to $7.6 million for the third quarter of 2014.
+Weighing all these factors and adjusting for certain items as outlined in the table on our press release, adjusted net income was $8.8 million and adjusted net income per share was $0.18.
+This compares to $8.6 million and $0.17 per share for the same period last year.
+Adjusted EBITDA was $89.4 million in the quarter compared to $79.8 million for the third quarter last year.
+Capital expenditures for the quarter were $34.6 million.
+From a liquidity standpoint, we ended the quarter with approximately $23.9 million in cash and $49 million available to us under the revolver.
+For the quarter, our total net leverage ratio as calculated in our earnings release was 4.2 times.
+Cash available to pay dividends was $36.2 million resulting in a dividend payout ratio of 54%.
+Now, let me reiterate our 2015 guidance.
+Capital expenditures are expected to be in the range of $128 million to $132 million.
+Cash interest costs are expected to be in the range of $76.5 million to $77.5 million and cash income taxes are expected to be in the range of $2 million to $3 million.
+With respect to our dividend, our Board of Directors has declared the next quarterly dividend of approximately $0.39 per common share payable on February 1, 2016 to shareholders of record on January 15, 2016.
+This will represent our 42nd consecutive quarterly dividend.
+With that, I'll now turn it over to <UNK> for closing remarks.
+So in summary, we had another strong quarter and continue to execute on our strategy.
+Throughout the first three quarters of 2015 we have returned $59 million to our shareholders through the dividend and invested capital of well over $100 million into the business creating long-term sustainable growth.
+We are well positioned for the future.
+With that I'd like to open it up for question, operator.
+<UNK>, this is <UNK>.
+Our revenue recognition in which we work through with our auditors is we're going continue to recognize it as revenue just as we did under USF on CAF I.
+For us, we accepted the funding on August 27 or kind of at the timeline because we were working through some things with the FCC.
+But we accepted CAF funding, which was $14 million.
+Under CAF II, it will be a step down compared to what we get on CAF I.
+So we accepted on August 27, the implementation period actually was August 1 and again, based on the quality of our network, the fact that we have broadband deployed at much higher speeds than what the FCC mandates for CAF II, we knew we were going to take a little bit of a step backwards.
+So we'll be transitioning over the next several years to that.
+The way it worked in August is it was relatively neutral because we had one property that we received a refund going back to January 1 and then we had to step down the rest of our properties.
+So it essentially netted out for the third quarter, but you will see a slight reduction going forward in Q4 and in 2016.
+Yes, <UNK>, this is <UNK>.
+With regards to over-the-top, like the rest of the industry, we continue to emphasize over-the-top options with our unified log on strategy through our portal.
+And really back to the video part of your question, we're de-emphasizing the broadcast video product, and the programming costs continue to make that a very low margin alternative.
+So stand-alone video is not a priority for us to maintain and so the emphasis on product promotions has been in the broadband speeds and the penetration of homes with our broadband product.
+If you look across our portfolio and then the rest of the industry, you're seeing an incremental transition as I'm sure you see to over-the-top and our strategy is to capitalize on that movement and continue to make our broadband product, which is more profitable, the priority with our customers.
+Well, I can't speak to their strategies specifically.
+But what I can say about ours is, our network is robust and it's had us in great shape to continue speed upgrades and very competitive speed upgrades, roughly 89% of the marketable homes we have can receive 20-Meg or greater, and 41% of our footprint can receive a 100-Meg or more.
+That's near if not best-in-class for our industry.
+We rolled out the 100-Meg and 1-Gig offerings late last year and the launch drove take rates for even our 2015 in 100-Meg offerings.
+So we now have over 14,000 100-Meg customers and 1000 1-Gig customers.
+If you think about some of the other industry players that maybe have more investment to make in the rural areas, even in our rural areas which is still mostly copper, VDSL technology is changing the game and the equation to a certain extent.
+Being able to deliver a 100-Meg over copper is now really becoming more common and expands the capability of what we can deliver relative to market demand.
+Yes, I do.
+In the commercial area or business to business, we've been pushing our fiber area nodes, which we call fans, deeper into our footprint, shortening loop lengths.
+That brings benefit on the consumer side and then certainly brings benefit on the commercial side.
+And so, with metro Ethernet over copper reaching the same types of speed, it enables the layering of hosted VoIP and managed service offerings in our less densely populated areas that we initially only rolled on fiber.
+Those types of products, we initially rolled on fiber.
+So, the business opportunity continues to increase as we move those products down market.
+Yes, I would think about capital as consistent with our strategy in the past, with two-thirds of our CapEx being success based, typically a sizable portion of it is demand driven and that gives us a lot of flexibility to slow if we wanted to, but we haven't seen a need to do that and it also gives us room, back to the earlier question around CAF.
+We don't expect with the netting of some of the integration capital this year probably offset by some CAF investments next year.
+We would expect capital to be roughly in the same range, if not slightly less.
+Probably both.
+I'm going to take the first and the third part of that and then <UNK> will take the comment on the wireless distributions or that question and I appreciate the questions, <UNK>.
+If you look at the broadband ARPU, we took a slight decline on the consumer broadband ARPU and it's primarily due to the pruning of the non-profitable video-only customers.
+When you look at some of the promotional activity, we expect that to return to growth and especially as in the less competitive areas we move up market on speeds and we're in a unique position to compete with the cable company speeds because of the robustness of our network and our fiber footprint and so if you break down the bandwidth groups from an ARPU perspective, we see higher speeds in the 50-Meg approaching a $100 plus, when you have even just the double play.
+So we feel real good about our trend there and see this as a transition period.
+Moving to the CAF point, these step downs and nobody likes to face step downs in revenue but we've been experiencing this with access line decline for years and they'll be partially offset by the penetration of homes with broadband as a result of the additional investments we're making.
+We would expect to achieve a penetration that's above the average rate in some of these very rural areas because of the lack of competition and available internet service and you can do the math, but if you make some basic assumptions around the 25,000 additional homes that we will build to, things like the 40% penetration and a $40 price point shouldn't be unreasonable to accomplish.
+This transition of course is similar to the step down in funding we experienced, as I mentioned, in the past and if you look at an overall cash flow basis, we've just reduced our interest cost by $6 million per year.
+We're improving our cost structure, continually exceeding our integration and synergy benefits and wireless distribution are continuing to increase over time.
+So we feel like overall, on top of a very flexible CapEx budget, we're well positioned from a cash flow management perspective.
+<UNK> you want to talk about the wireless.
+Yes, so nice segue to <UNK>'s second question there.
+<UNK>, so on the wireless, you're absolutely right.
+The $20 million we received, half of that or maybe a little bit more than half was for the one-time wireless, but the recurring distributions do appear to be normalizing.
+We talked about the EIP or the device financing plan, the pull on working capital that that's had and we did see that start and again as we expected, we start to see that normalize in third quarter and would expect that to be a good proxy for fourth quarter.
+But I will remind you and going into 2016, but I will remind you that distributions traditionally are a little bit less in the first half of the year and always larger in the second half.
+But again we're really pleased to see from what the insight we have in the financials to those partnerships that -- cash flow are starting to catch up and get back to normal levels.
+So we remain very excited about those cash distributions going forward.
+Hey <UNK>, this is <UNK>.
+Thanks for your question.
+I'll take the first part and <UNK> will follow-up on the M&A.
+But with respect to Verizon, yes, there are generally two to five other independent partners along with Verizon and again, just to remind everybody, we and the ones that we're involved in, we own anywhere from 2% to 23% depending on the size of the partnership.
+But if a partner in the partnership were to sell their or want to sell their interest, we would have the first right of refusal to maintain our pro rata ownership share with that or buy their percentage out for -- that will be taken over by Verizon or anybody, an outside interest and we did that in 2013, I believe at the end of the year RSA #17.
+And regarding M&A, <UNK>, it's a constantly evolving landscape and yet I think we'll stick to our screening process of high-quality assets.
+Fiber assets have, as we stated before, been of interest and we typically look at $100 million in revenue is kind of the threshold necessary in scale to reach outside of -- something contiguous to our current markets and footprint.
+And yet you know a new product component, if at the right value and fit would always be something we consider from an acquisition perspective, because of the great relationships we have with our customers and the continued evolution that we have been building additional services on top of our broadband connection.
+So nothing is off limits.
+But it's got to be a smart and good asset add to our portfolio that advances our organic strategy.
+<UNK>, thanks for the question.
+We continue to benefit from the portfolio.
+While I won't get into specific metrics by market I can say this, the north is performing quite well and the east markets are performing better this year than last year, and where California and Kansas were off the charts in exceeding forecasts in the past, they're about on forecast and not as robust in growth percentage year-over-year this year and so it's very beneficial that we've got the scale that we have to leverage our product portfolio, our market launches.
+Most recently, we launched [for service] Cloud offering in Dallas and in our Sacramento California market and that's late in the year building the funnel nicely.
+So we have enough tools in our bag to continue to influence growth.
+We have a very disciplined capital expansion procedure or policy and framework and so we're building organic extensions of our network in every market, every quarter and continue to have that capital investment strategy going forward into 2016 and beyond, and we think that benefits us well because of the good margins that come with Ethernet based extensions, the businesses on fiber.
+So hopefully that answers your question in terms of market diversity.
+It's a portfolio, we continue to manage and some are up and some are down and it works well for us.
+Yes that's a constant effort.
+Our churn on sales resources is much lower than the industry average for probably a number of reasons.
+We like to think we're a quality place for employment.
+We've got -- I'm looking at the number here, 86 commercial reps on quota.
+They're certainly at a higher level of productivity this year than last year because of the more additions that we made over the end of last year and early this year.
+We've added some sales engineer resources to assist us in moving up market, a few management resources to assist on training and productivity.
+And so I have to say I'm very happy with that group.
+Is it at a 100% productivity.
+I've never seen a sales force that was, but you build breakage into that plan and as I look across the markets, we've got roughly 10 in ramp up at any one time and that should be going into 2016 in a more steady state than the growth we've experienced in over the last three, four quarters.
+When you say product, are you talking about the equipment revenue business.
+Yes, I think as we've talked about in the past that is -- I don't know what the right word is lumpy kind of up and down in terms of revenue.
+I will remind you that margins on that line of business are probably high single-digit.
+So I would think that fourth quarter is probably going to be based on timing at Cisco, we're past their year-end number in the third quarter.
+I would expect fourth quarter to be a little lighter than what we have for the third quarter.
+We're under (inaudible).
+<UNK>, it's <UNK>.
+Thanks for the questions, on the OPEB and pension, basically we're expecting pension contributions of about $12 million for this year based on making the elections for funding.
+We actually advanced a 2016 contribution to this year.
+So we'll expect we'll have very low payments for 2016 and start stepping up in 2017.
+So we're managing that as well as we can.
+And then obviously the cash OPEB number, I don't know have that right in front of me, but that's on a pay as you go type basis which is significantly less than what our pension contributions would be.
+And then relative to the cash taxes, our current guidance for this year is $2 million to $3 million and we've benefited from the bond redemption that we had in June of this year, the [May call] on that was tax deductible.
+We're still going through some NOLs, we sure was and the timing on integration and the severance we talked about on our early retirement.
+So we think going into -- so 2015 is very low, we'll start seeing a step up on fixed in 2016 and then we might be approaching full cash taxes in 2017, but again that's without the bonus depreciation that's extended, other synergy achievement efforts that we have will generate more severance costs, and without consideration of an acquisition in the future and that type of thing.
+Thank you.
+And thank you again all of you for joining us today and for your continued interest and in support of Consolidated Communications.
+We hope you will join us again next quarter.
+Have a great day.

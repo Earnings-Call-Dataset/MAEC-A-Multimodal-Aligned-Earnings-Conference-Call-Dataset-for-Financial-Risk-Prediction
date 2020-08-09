@@ -1,0 +1,98 @@
+Thank you for joining us to review CorVel's June quarter.
+Earnings per share for the quarter ended June 30, 2016 were $0.38, an increase of 12.5% from the prior year.
+Revenues for the June quarter were $128 million compared to $126.9 million for the June 2015 quarter.
+Most of the Network Solutions and workers compensation and in the CERiS group health businesses had improving results in the quarter.
+Our Enterprise comp TPA offered continuing growth.
+G&A in the quarter was down sequentially and year over year.
+The market for medical review and for our enterprise comp TPA service has been active.
+We've been experiencing improved output from our R&D efforts, which should help us in the coming year.
+During the quarter, we continued our efforts to improve internal operating efficiencies.
+This has been an area where we've underperformed recently.
+The market environment for managed care remains active, as it does for claims management.
+As I've discussed previously, CorVel's newer TPA services continue to gain brand recognition with brokers and employers.
+When we first launched our TPA services without brokerage coverage, we sold largely into the public sector.
+Those accounts were entering the contractual renewal period over the last couple of years.
+The active nature of the public sector allows for easier entry for new vendors such as CorVel, and yet this same characteristics causes some churn in the more mature book of these same accounts.
+In contrast, private sector accounts are more difficult to land, as a new entrant, and require brokerage support and carrier approvals but gradually build as a percentage of the book of the new vendor, as these accounts tend to turn over much less often.
+The oldest TPAs in our market benefit from a foundation of older, private accounts, which also tend to have better margins.
+As the private sector segment has grown in CorVel's book, account retention has and will continue to improve.
+The regular health market in which CERiS competes, continues to adjust to the ripple effects of the APA legislation.
+Both the public and private sectors of that market appear to be seeing improving activity, although we are being careful to not underestimate the degree to which the health carriers have been buffeted by the regulation and the developing losses in the healthcare exchanges.
+These forces have slowed CERiS's growth over the last couple of years, but we hope to see an improving healthcare climate moving forward.
+The Department of Justice has moved to block both of the major mergers among the large health carriers.
+This further disrupts planning in that market.
+In the workers compensation markets, private equity continues to be the driving force behind consolidation.
+The bidding for new workers compensation accounts has tended to be price competitive.
+However, our ongoing systems developments have helped us introduce new concepts and better effectiveness.
+The TPA market has traditionally been one in which the larger accounts have used their size to demand a fair amount of custom work.
+While accommodating, such demands can use business.
+It also commits those TPAs to operations that more closely resemble a job shop where individuals have too many instructions to be able to function effectively.
+If a branch, for instance, had 20 larger customers, each with five custom features and a single office could have as many as 100 different nuances in their workflow.
+Service quality in the industry has reflected this.
+Our goal as we entered the industry was to invest heavily and continuously in systems to create a very different service model where quality management and improved outcomes could be a focus.
+To achieve such a business model, we've had to market to accounts whose needs fit our intended model.
+Passing on the accounts who wanted an unbundled model has, in the short-term, hurt our sales.
+It takes a few years to build and implement the new service model we have envisioned.
+But focusing our resources is allowing us to build a superior approach.
+At this point, we are documenting case studies which demonstrate the value in creating a true service continuum.
+It has been difficult for our sales organization to be asked to pass on opportunities which could have improved our short-term success, and last year we lost a large customer that wanted to specify custom components.
+However, being able to focus our resources has permitted us to concentrate on our intended model, and as our model produces the intended result, to gradually gain momentum in the marketplace.
+In the interim, we have maintained a high return on equity.
+We appreciate the investor following we've enjoyed and the trust placed in us.
+As our investments begin to come to fruition, our ability to afford such investments is improving.
+The early phase of a strategy to introduce the new model in an industry is difficult.
+We had to seek out the early adopters.
+As we are able to demonstrate case studies as proof statements, our story has become of more and more interest.
+In the wholesale market for managed care, that is the sale to mid-sized workers compensation carriers, we have placed increased emphasis on the middle-market sized carriers.
+This segment of the market is more inclined to outsource the services we provide.
+We have had some good success in this segment in the last year and continue to build services for this segment.
+We are also expanding our involvement in the liability management segment of the TPA market.
+This service complements our workers compensation programs as it is sold to the same buyer.
+There are additional segments of the industry into which we will enter, as our workers compensation offering matures.
+These expansions will be undertaken only after we have better established our service model in the base business.
+Now I would like to discuss our product line results.
+The patient management segment includes third-party administration, that is TPA services, and traditional case management.
+Revenue for the quarter was $71.3 million, flat year over year.
+Gross profit decreased 2.9% from the June quarter of 2015.
+EPA services continue to perform in the market, but as we've discussed in previous quarters, our case management business has underperformed.
+Our TPA business is now among the larger vendors in the marketplace and is steadily gaining market share.
+Our integrated solution, together with better management of the early stages of claims, is producing superior outcomes for our customers.
+The pipeline of further systems improvement to service it is quite full.
+[Both] case management revenues were flat, but wholesale volumes, that is sales to carriers, were down.
+We have been disappointed in our internal operations in this service area and have a number of operations improvements on which we are working.
+Network Solutions revenues sold in the wholesale market for the quarter was $57 million, up 2.6% from the same quarter of the prior year.
+Gross profit in the wholesale business was down 2.1% year over year.
+We've been rewriting this software over a period of years to introduce new technologies.
+The use of a rules engine has been a key to our success for many years.
+Additionally, the application routes work to Centers of Excellence in a number of components of the service.
+These features have enabled the software to produce results superior to those in the general marketplace.
+We are currently adding additional technology we expect to implement by the end of the current quarter.
+The CERiS segment of this service line has some perspective client additions, which should improve results in the back half of this year.
+CorVel's pharmacy benefit management services have become an increasingly component of our Network Solutions suite.
+As with the approach taken to the TPA business, in the PBM market we choose to offer value-added components to the service.
+The review of specialty drugs and an expanded pre-authorization program addressed the need to monitor and manage the use of drugs.
+Now turning to our product development in the quarter, we've continued the projects I've been discussing in previous calls.
+Those broad areas include: one, the evolution of our hubbed activities and smart technology; two, building additional workflow processes; three, being prepared for the next generation of medical review; and four, ongoing improvements to our claims intake, medical review, PPO and return to work processes.
+In the quarter, we continued adding functionality to bring clients into our claims environment.
+We see a growing integration of our work with that of our employer customers.
+Each of the steps towards seamless integration of the task involved in absence management opens more opportunity for us to handle technical issues and to work more closely with employers to best address the healthcare needs of their employees.
+We continue the development of our document management system.
+It is one thing to image documents but quite another to have the information in such documents be understood by process automation software.
+Both insurance and healthcare require nimble processing of images and the meaning of their content.
+We're working on the integration of telehealth services with our intake processes.
+This is another aspect of healthcare where we can break down delays in the employee's episode of care and in their return to work.
+We have added more features to our My Care mobile app.
+Making mobile apps effective in a low frequency environment such as personal healthcare, requires unique approaches.
+Although this is a challenging area, in our integrated ecosystem, we believe in the opportunity to find value-added new approaches.
+We continue for plans for future expansions of our web services capability.
+The more we work interactively with our wholesale clients, that is the carriers, the easier it is for them to receive good value when outsourcing tasks to us.
+Now I would like to cover a couple of additional statistics.
+The quarter-ending cash balance was $36 million.
+Our DSO, that is days sales outstanding and receivables, was 43 days.
+38,000 shares were repurchased in the quarter for $1.6 million.
+We have returned $393 million to shareholders in the last 19 years, repurchasing 33.924 million shares in that period.
+Shares outstanding at the end of the quarter were 19.597 million.
+The diluted EPS shares were for the quarter 19.754 million shares.
+Shares outstanding were reduced 2.9% during the last 12 months.
+Now I would like to turn the webcast back over to our operator.
+Thank you.

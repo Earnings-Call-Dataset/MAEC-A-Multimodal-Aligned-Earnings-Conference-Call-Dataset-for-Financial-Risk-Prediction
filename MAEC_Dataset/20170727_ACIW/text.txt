@@ -1,0 +1,132 @@
+Thanks, Heidi, and good morning, everybody.
+Today's call, like all of our events, is subject to both safe harbor and forward-looking statements.
+You can find the full text of both statements on the first and final pages of our presentation deck today, a copy of which is available on our website as well as with the SEC.
+On this morning's call is Phil <UNK>, our CEO; and <UNK> <UNK>, our CFO.
+With that, I'll turn the call over to Phil.
+Thank you, <UNK>, and good morning, everyone.
+I'm pleased to report our second quarter results.
+Q2 was another strong quarter for ACI and continued affirmation of our Universal Payments strategy.
+And second quarter New Bookings were up 11% over last year.
+Second quarter revenue of $241 million was up 10% over last year.
+We also generated $44 million in EBITDA, which was a 105% increase over last year.
+In the quarter -- in second quarter we continued to sign some important contracts across a range of solutions and geography and made substantial progress with Large and transformational Universal Payments opportunities.
+In our fast growing e-commerce platform, we continue to expand our end points in global connectivity with new partnerships, including Alipay, the world's largest online and mobile payment platform.
+We also signed a large on-demand contract for another top European retailer for our UP retail payments offering.
+In our bill payment platform segment, we signed several contracts, including a large U.S.-based online loan originator for our UP payment -- bill payment solution.
+Lastly, we continued to sign new Immediate Payment contracts with both domestic and international financial institutions.
+One notable contract was signed with a large financial institution in Asia for both ACI's Immediate Payment solution as well as our Universal Online Banker Cash Management solution.
+This customer will use ACI's Universal Payments to orchestrate their overall payments business.
+Looking ahead, our pipeline is substantial.
+The number of customers interested in leveraging the power of UP continues to grow.
+In summary, 2017 has been strong.
+We are well-prepared to achieve our financial targets for the year, we remain committed to our longer-term growth goals.
+With that, let me turn it over to <UNK>, who'll provide you with much more detail as for the second quarter of 2017.
+Thank you.
+Well, thanks, Phil, and good morning, everyone.
+I first plan to go through the highlights of the second quarter and then provide a reminder of our outlook for 2017.
+We'll then open the line for questions.
+I'll be starting my comments on Slide 6, with key takeaways from the quarter.
+As Phil said, Q2 was another strong quarter for us, with new bookings up 11% over the prior year quarter.
+These strong bookings contributed to solid growth in our backlog with 12-month and 60-month backlog growing $18 million and $24 million, respectively, during the quarter.
+Q2 revenue was $241 million, up 10% over the prior year quarter.
+This strong growth, combined with our relatively fixed cost structure, helped us deliver very strong 105% growth in adjusted EBITDA.
+We ended the quarter with $95 million in cash and a debt balance of $705 million, which is down from $753 million at year-end.
+And we have $78 million remaining on our share buyback authorization.
+Turning next to Slide 7.
+With our full-year outlook, we are reaffirming our full-year guidance.
+For the full year 2017, we continue to expect revenue to be in the range of $1 billion to $1.025 billion.
+We continue to expect adjusted EBITDA to be in the range of $250 million to $255 million, and we expect New Bookings growth to be in the high-single digits.
+And for Q3, we expect revenue to be in the range of $210 million to $225 million.
+So overall, we're very pleased with the Q2 performance, with strong growth in New Bookings revenue and EBITDA.
+This follows a strong Q1 performance, allowing us to reaffirm our full-year guidance.
+So that concludes my prepared remarks.
+Operator, we are ready to open the line for questions at this time.
+Well, we can discuss the pipeline for a long time because we have the retailer segment, we have the Bill Payers segment, which we don't talk that -- we don't talk as much about those as we do the core banking, the bank segments.
+But they are growing very well.
+More and more, as e-commerce becomes more global and these guys have platforms that deliver real-time product around the world, they're finding it more and more difficult to have 15, 18 different relationships in order to execute their payments.
+So they're kind of getting out in front of the marketplace and figuring out how to, in effect, build a layer on top of those 18 layers to control their destiny.
+And that's going very, very well and you couple that with -- I talked about Alipay and whatnot, that people, in terms of wanting global reach, they do it through global connectivity right now.
+And our PAY.
+ON product, which is being built into that UP platform as a multipurpose solution not just a connectivity solution, is being very well received around the world.
+We're having some very good conversations.
+And at that point it starts melding, it starts crossing over because this -- the financial institutions, the financial intermediaries, they have the same kinds of needs as the retailers do at that point as each one is trying to figure out how to globalize their solution and, quite honestly, make how you pay ubiquitous versus access to payment ubiquitous.
+So they want as many different payment methods as make sense and the more and more that are real time, the more that match their business model, the more they want to take in.
+So we're landing up having conversation all around the world, which is very good and some are very large, and many of them are more medium to large.
+And they're just progressing, they're just progressing very well because I think everyone has consultants and as they're -- everyone's getting consulted towards solutions, we're been looked on in a rather favorable light, and we're very proud of that at this point.
+I don't know if that answers your questions, I can't get specific about the customers or anything like that, that would be disingenuous, but that's the best attempt I can make to answer that question.
+Well, we feel good about it but we view media payments as a global -- as a global phenomenon, it's amazing how much of the word is involved in it.
+We're working Immediate Payments on every continent that has payments to speak.
+So it's good to see the U.S. catching up, because the U.S. has actually been way behind, and I think for a lot of reasons.
+But they've been way behind in terms of this, and I think that's very positive because the U.S. represents a really important market, both inbound and outbound as it relates to the Immediate Payment offerings.
+Well, I mean, if you at -- if you look relative to the last year, obviously, we had a disproportionate amount of our revenue that sat in the fourth quarter, our margin set in the fourth quarter.
+So you look at it on a year-over-year basis, yes, we had a very strong first half, but it essentially derisks what we have to do to deliver on the second half of the year.
+So a lot of opportunities gives us options, but we're comfortable with where we're at in the guidance that we have out there.
+Yes.
+I mean, I'll take that and Phil, if you any color.
+I mean, I wouldn't say there's a way that customers are adopting and implementing UP.
+I mean, there's certainly a lot of the UP upside is going to come from adding volumes, and so certain customers, that will impact us as those volumes come and as they consume that incremental capacity.
+Others, on the other hand, can be sold and we can begin recognizing that revenue right away, especially if it's in on-prem deal, if we deliver the software and they're going to install it themselves and they purchase the capacity.
+So I wouldn't say that there is a way.
+A lot of the upside in the UP strategy is ultimately going to be in their increased consumption, their increased use and their higher transactions.
+And so the real value is when they get it installed and they begin to put, whether it's consolidating volumes onto their switching, or they put alternative payment type volumes through UP.
+So that's really where the power of it comes to us.
+Once installed, it's really the incremental volume growth.
+So let me add a little tiny bit onto that.
+Our RPS program, which is basically our renewal program, where we're giving the option to the customers to pick up both classic and using UP technology, bridging the new high-speed EPS switch onto it, which allows them to migrate versus convert, says that when we first do these deals, where they're going to commit for -- to a certain incremental volume and we'll see some of the value in terms of that incremental volume, what we're really doing is giving them the ability over that next 5-year period to both move existing volume from one side to the other and then we're giving them the ability to take other real-time payments and not try to force them into an old closed system that classic was.
+And I will tell you that this year we have almost 90 -- we have a 90-some percent adoption rate of RPS versus just a pure renewal, so that part is going very well.
+Most of the opportunity for us -- we get a little bit at contract signing all over the increased level of yield over the next 5 years, but then our big opportunity comes as they start to not so much converting but putting on other -- it becomes very efficient for them to put other programs on.
+And one way, if I was a third party and I would want to see how well that was doing is, it correlates -- it'll correlate directly with -- as Linux servers become more and more and more the mainstay, there are other more expensive servers that you're going to see volumes going down, because in the old world we were probably 20% of the total cost, hardware, middleware and software.
+Other software was 80%.
+In the new environment, it's much more of a software play, giving them the ability to save 50%, 60% of those other 3 categories.
+So the yield is very large for our customers, which I think they'll go after that yield.
+And then the incremental volume comes as a natural consequence of it being the payments platform.
+Is that overly confusing.
+We are presenting Alipay as a global end point for whoever wants to use it.
+I can't say any more, right, I can't say any more than that.
+Well, yes.
+It was another -- it's now a globally available end point for those people using our UP solutions.
+Very important for them.
+They have 135 million people, not a big piece of that population, less than 10% or whatever but they have 135 million people that are traveling around the world and they need access to their payment devices -- their payment methods.
+We are in the EBPP business.
+We are not in the classic Bill Pay business, where you go have your monthly journal and you do your bills, that's not our business, our business is connecting -- again, it's payments, it's connecting people who need to satisfy a payment with the end points that they need to take place.
+We've actually gotten very, very good feedback, and we've built quite a book of business around -- with financial intermediates there that are in the loan type businesses that really need flexibility and looking more -- they're looking more and more at the value of direct connections.
+And whereas they're already fairly well-connected with the financial institutions in terms of the origination and maintenance of the loans, satisfaction of the payments is something that they're looking for more agility and more options and whatnot, and that's working out very well for us.
+We have put -- I think we've worked 4 years now on improving the platforms that we purchased ,and we have a little bit -- probably another 1.5 years or so to go before we would think about going -- we want to really build what we have as best of class and then we will think about internationalizing it.
+What a lot of people don't think about is, I think EBPP may land up being one of main payment types.
+We think of Bill Payment as a gateway.
+The combination of immediate payments and Bill Pay, Bill Pay may land up actually being the payment type that emanates out of the growth of immediate payments.
+Generally, yes.
+I mean, that was taken to the State Supreme Court, and that judgment is final.
+And we will make that cash payment here in the third quarter.
+I would it necessarily say what we would be looking at but I think we're always generally looking at being opportunistic.
+But yes, we haven't made an acquisition now for, it's going on now almost 2 years.
+But again, we're -- we'd be opportunistic probably in 2 areas.
+I wouldn't say there's necessarily any holes or gaps in our capabilities but certainly areas where we could get scale.
+We'd be able to provide scale on top of our global infrastructure, those would be situations but not as much holes in our capabilities.
+Well, yes, and we had said this after our Q1 because we had seen G&A spike up a little bit but I had said at the time I expected it to drop and level out through the rest of the year and that's really what we're seeing.
+So I don't see anything in particular within the G&A area for the rest of the year that's -- it should, again, be lower and level out throughout the rest of the year.
+I wouldn't say anything in particular that would drive it move to up.
+Yes, we made -- we have invested pretty heavily in our product capabilities over the last couple of years but we've also -- we also move resources.
+Those same technical resources can be used for implementation work, platform build, things like that.
+So it's not necessarily that we have the bridge (inaudible) reduced our overall investment in R&D, it's that some of those same technical resources are doing other things.
+So -- but nothing that would indicate that we would see some unusual spike at a later date.
+I don't -- it's -- I don't want to sit here and say it's going to be a risk for the time line because then I'm kind of commenting about other people's (inaudible).
+I think it's -- like any change, I think there is confusion and there's certain level of questioning, right.
+Which can be -- I don't understand or it's hard to understand can mean several things if you're trying to participate in the mandate or you're trying to manage its outcome.
+We're comfortable.
+We're not uncomfortable with the dates, I guess put it that way.
+And we're seeing this around the rest of the -- we're seeing this as an interesting issue around the rest of the world.
+It's actually something that's making us feel very good about our business.
+Our NFRs, our Nonfunctional Requirements have always been about scalability, availability and throughput.
+We don't build things for small or medium volumes.
+We build things for high volumes.
+And as we see a lot of these mandates going through the rest of the world now and Immediate Payments and other things, we're finding that scaling is becoming difficult for a lot of -- in a lot of these implementations, and that very nicely plays into our space because we're often the solution, right, in terms of scaling it up.
+But I don't want to really enter the fray in terms of the realism in the time lines or not.
+Hope you can appreciate that.
+Well, <UNK>, it would depend what we were -- on the front side, we have lots of competitors, I don't think that, that's really -- I don't think that marketplace is really settled -- has settled itself down to -- we may be in the top 3 or 4 but there is probably 15 or 18 viable players in terms of that.
+On the Bill Pay side, we're -- we certainly have formidable competitors and we're kind of niched on the EBPP side and so we -- but we see plenty of competition -- we see plenty of competition there.
+On the retail side -- on the retailers' side, I think the transformation that's going to take place there is going -- either people's businesses are going to become obsolete or they're going to have a figure out how to try to work their way towards being more competitive with what we do.
+So I expect some level of competition there.
+But in terms of our core capabilities, I still think our biggest competitor would be someone deciding, well for whatever reason, they want to build that capability themselves and they're willing to put the 3 to 5 or 4 to 6 years into what it would take to do it for themselves and there have to be some -- I think there has to be some overarching strategic reason why that makes sense in the plumbing of the industry, but that's the best answer I can give you.
+Well, thanks, everybody.
+We look forward to chatting in the coming weeks.

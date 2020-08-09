@@ -1,0 +1,73 @@
+Thank you, <UNK>
+Sales in the March quarter increased for the sixth consecutive quarter to $609 million, up 4% sequentially and up 7% on a year-over-year basis
+Growth was driven by our Advanced Products, which increased 9% sequentially to a new record
+Gross margin was 69.5%, at the high end of our guidance, due primarily to favorable end market mix
+Operating expense was $250 million
+This was $6 million higher than guided as we accelerated some 16-nanometer tape-out expenses to extend our technology leadership and add some increased litigation expense
+Operating income for the quarter increased 6% sequentially to $173 million or 28.5%
+Other income and expense was an expense of $2.2 million, better than guided due primarily to investment gains
+Tax rate was 10% for the quarter due to discrete item
+Our net income for Q4 was $153 million or $0.57 per share
+We are pleased to have delivered on our financial plan in fiscal 2017. We met our target of 6% revenue growth, driven by a 45% increase in Advanced Products, and operating margin was 30% for the year
+This profitability led to the generation of a record $934 million in operating cash flow
+Finally, our EPS was $2.32 for the year, a 13% increase over FY 2016. Now, some key points on the balance sheet and cash flows
+We ended the quarter with $3.4 billion in gross cash and $2 billion in net cash after our debt
+Accounts receivables decreased by nearly $100 million, as we collected last quarter's higher than normal receivables balance
+Inventory was $227 million, up $21 million from the prior quarter, with nearly all the increase coming from our Advanced Products
+Operating cash flow was $306 million for the quarter
+In the quarter, we paid $82 million in dividends, and we repurchased 1.8 million shares for $108 million, an average price of $58.45. We ended the quarter with diluted shares at 267 million, which included the impact of 15 million shares from the convertible and the warrant associated with it
+For a complete explanation of the impact of these instruments on share count, please refer to our convertible FAQ on our Investor Relations website
+As we have discussed, capital allocation remains a top priority for the company
+This year, we returned $855 million to shareholders through $333 million of dividends and $522 million of share repurchases
+This total capital return is $90 million more than we returned to shareholders in the prior year
+Our board recently authorized an increase to our dividend for the 12th consecutive year
+We continue to execute on our share repurchase program with the intention of exhausting our $1 billion authorization over the next several quarters
+We currently have $680 million left on that authorization
+Now to guidance
+In the June quarter, we are expecting sales to be between $600 million and $630 million
+Our backlog is up heading into the quarter, and we are expecting continued growth in our Advanced Products
+On end markets, we expect the communications category to be up, industrial and A&D categories is expected to be flat sequentially
+And, lastly, broadcast, consumer and automotive is expected to be slightly down
+Our gross margin will be approximately 68% to 70%
+We expect operating expense to decline to approximately $242 million, including $1 million of amortization
+Other income will be $1 million
+Finally, our tax rate is expected to be between 12% and 15%
+We will provide full year FY 2018 guidance at our upcoming Analyst Meeting in New York City on May 22. We look forward to seeing you all at that meeting
+Let me now turn the call over to <UNK>
+Yes
+<UNK> <UNK> <UNK> - Credit Suisse Securities (USA) LLC <UNK>?
+Yeah
+So two things
+So I might frustrate you by not being very precise
+But in the comms, we do show data center
+We do expect data center to grow meaningfully
+And again that's in the context of some of our older data center business not growing as much as we would like
+And in certain cases, our design wins that we've had were slowing down
+So we do think that, in summary, that the data center growth, which is part of the overall comms growth, all the end other markets in the comms area we expect to be growing as well, but the data center growth will be driven by hyperscale
+Then with regard to share count, so I haven't been providing detailed share count guidance for the past couple of quarters for a couple reasons
+One is I don't want to kind of signal exactly what we're doing on our buyback
+And the second part is, the complexity of the convert and its impact on our diluted share count is hard to describe briefly
+So I would though recommend you, CJ, go to our website
+We're going to update what we expect to be the impact on diluted share count from the redemption of the convert in this quarter
+Like I said, it's fairly complex, but we've tried to make it understandable
+And you will see that it will have a significant impact in this current fiscal quarter, and then because of the way the accounting is done for the share count, it will actually even translate to a further reduction in the next quarter
+So I mean, I will actually, I'm happy to take a follow-up if there's something specifically you were looking for, but I'm not going to give you a precise share count guide
+That was a very artfully phrased question, too
+Good for that
+It's generally been on an upward trend as design wins that we have, one in our 28-nanometer generation ramp in
+As you know, in defense, it's a very, very long-tailed business
+So at any point one time, we have multiple generations, multiple of our product generations being sold into the industry
+So given our competitive position and strength of design wins and our continued design wins in large opportunities like Joint Strike Fighter, we feel very good about the business
+So I think an element of your question, <UNK>, was maybe related to whether the applications on AWS are kind of nichy or small or whether there's some big entities using it
+And the launch partners range obviously from some smaller entities to some very large entities, and they're doing a range of applications that are fundamental to each of the companies in the core businesses
+So I do think the scaling opportunity is there and very well represented
+So the industrial A&D softness is due to program-specific things in defense primarily
+The rest of the business areas are relatively going to be flat relatively quarter on quarter
+In the automotive, consumer, broadcast space, as we've mentioned in this call already, we've set a record in automotive
+And if you go back a quarter, we talked about kind of a low based on some inventory things
+So we're going to see a little bit of dip in automotive
+And by the way, though we expect a longer-term trend upward based on the strength of our ADAS design wins, we won't be surprised by some quarterly fluctuations
+But underneath that, the ADAS business is very strong
+It's just kind of a quarterly correction and the rest of the end markets in that segment are flat
+We will probably talk a little bit more in May about longer-term trends in audio/video broadcast, but you're right, the industry is facing some headwinds, and we are feeling those as well
+Chris, we'll, like all the other questions that relate to longer-term views on the business, we'll talk about that more in our Analyst Meeting

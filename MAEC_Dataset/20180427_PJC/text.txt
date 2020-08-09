@@ -1,0 +1,205 @@
+Good morning, everyone.
+I'm here with Deb <UNK>, our President; and Tim <UNK>, our CFO.
+And we would like to thank you for joining the call to discuss Piper Jaffray's results for the first quarter.
+Revenue levels came in below our recent string of strong quarters.
+Our strength in equity capital raising was offset by other major factors that impacted revenue.
+These factors include the inherent variability of the advisory business, and historically challenging markets for our municipal-related businesses.
+Clearly, the strength of our franchise and the ongoing investments we are making to grow the business are not reflected in these results.
+Our long-term revenue level is trending in the right direction.
+First quarter LTM revenues of $841 million were 8% higher than the prior year LTM period.
+And even with the lighter advisory revenues this quarter, total investment banking exceeded $100 million of revenue for the seventh quarter in a row, as we now have several durable franchises across multiple industry sectors.
+I'd also like to reaffirm our commitment to delivering value for our shareholders.
+With the lower revenues we experienced in the quarter, we managed costs carefully to continue generating strong returns for our shareholders.
+I'll provide an overview of our equity capital markets and Advisory businesses, then hand the call over to Deb to discuss the rest of our business lines.
+Tim will finish with a review of the financials, including some perspectives on how the new revenue recognition rules impact our financial results.
+We will then open up the call for questions.
+Our ECM business was the bright spot for the firm this quarter.
+Revenue of $38 million represented our strongest quarter in almost 3 years.
+The business was led by robust capital raising in healthcare, concentrated in the biotech area.
+Overall, the healthcare team completed 14 book-run transactions during the quarter.
+Markets were constructive throughout most of the quarter despite periods of volatility.
+While volatility was a subject of much discussion in the market, it didn't reach levels where it disrupted capital raising.
+The Advisory business was down meaningfully, both sequentially and year-over-year.
+We attribute these results to the uneven nature of the business where the number or size of deals can fluctuate from quarter-to-quarter.
+By way of comparison, looking back over the past few years, our Advisory business has been up as much as 50% or down as much as 40% compared to the sequential quarter.
+We judge the performance of this business over a longer timeframe and track transaction activity levels to assess our market position.
+On an LTM basis, our Advisory revenues of $426 million are up significantly compared to a few years ago.
+We feel that market conditions for our M&A business remain constructive, our pipelines are strong, and we are confident that we will maintain or gain market share over a cycle.
+We continue to invest in the business to drive growth.
+A good example of this is our Diversified Industrials Group, which is primarily focused on Advisory.
+We have expanded the number of MDs in this grew by 50% over the past 2 years to now give us another solid investment banking platform in addition to our market-leading franchises in healthcare, energy and consumer.
+Complementing the significant growth of our investment banking platform, we also announced the formation of Piper Jaffray Finance during the quarter.
+This strategic initiative, backed by $1 billion in capital commitments, represents the addition of an important new debt product and a major expansion to our Advisory business.
+We believe this product will broaden and deepen relationships with our clients.
+Initial receptivity has been strong, and we are building momentum, as we gain early traction.
+We look forward to updating you on this important initiative, as we believe it will have a positive impact on our results in the back half of the year.
+Now I will turn the call over to Deb to discuss the rest of our businesses.
+Thanks, <UNK>.
+As <UNK> noted at the outset of the call, we faced some challenging markets this quarter.
+First, I will address how our relative exposure to the municipal markets impacted our public finance and fixed income businesses.
+Then I will discuss some of the challenges we experienced in our equity brokerage business.
+For public finance and fixed income, which are interrelated, activity in both areas was impacted by tax reform enacted at the end of 2017.
+One major outcome included a dramatic surge in new issuance at the end of 2017 which pulled forward activity that we would have expected to occur in the first half of 2018.
+For context, market issuance of $63 billion in December set a record for the largest single month of issuance ever.
+This dramatically reduced market activity to start the year with new issuance of only $63 billion for the entire first quarter.
+Activity was concentrated in the large cap issuers, like state general obligation bonds, while we focused on the middle market.
+We would expect capital raising levels to gradually come back as the year progresses, with a much stronger market in the second half of 2018.
+We would also expect to see our results for public finance to begin improving in Q2.
+The surge of new issuance also created an overhang for the investing market to absorb.
+This overhang hit during a period when demand for tax-exempt securities was subdued as the broader markets sorted out the impact of the new tax rates.
+This includes how these securities fit into various investment portfolios for institutional investors like banks or insurance companies.
+Typically, when new issuance is low, secondary activity picks up to meet investor demand.
+With investors sidelined, while they assessed their response to tax reform, secondary activity also remained low.
+The unfavorable market conditions were amplified by low interest rates and especially the flat yield curve.
+Given these market dynamics, we saw both light volume and few trading opportunities.
+Our focus in this market turned to minimizing risk and reducing capital, in contrast to last quarter where market conditions were more conducive to generating trading profit.
+Turning to our equity brokerage business, revenue of $18 million for the quarter was down about 10% year-over-year.
+We would have expected to attract more activity, given the bouts of volatility we experienced in the quarter.
+However, active asset managers, our client base, did not participate as much in the trading activity which was dominated by passive vehicles.
+We believe ETFs, which trade through the larger banks and electronic venues, largely drove the spikes in volume during the most volatile periods.
+Lower volumes for active managers may also be influenced by the introduction of MiFID 2, but we feel that it's still too early to make a definitive judgment on the impact of MiFID based on a single quarter.
+We continue taking steps to strengthen our position in the market and improve our client relationships.
+We are making progress as we continue to move up the vote ranks with our buy-side clients.
+Finishing up on Asset Management, the business was stable in the quarter.
+Net asset flows were flat for the period.
+The reduction in AUM was mostly due to market declines in the value of MLPs.
+Revenue was essentially flat sequentially, and down 20% year-over-year due to the significant outflows we experienced in 2017.
+Now I will turn the call over to Tim, to go through the financial results.
+Thanks, Deb.
+My comments will be based on our adjusted non-GAAP results.
+Following up on <UNK> and Deb's comments, we would expect revenues to improve from current levels, as we move through the year.
+Despite the lower revenues this quarter, our focus on managing costs contributed to generating a 13.7% adjusted return-on-equity over the last 12 months.
+This is down only slightly from our 2017 adjusted ROE of 14.2% and in excess of our cost of capital.
+Even if we eliminate the tax benefit related to the vesting of restricted stock awards, we would have produced an adjusted ROE of 12.7% on an LTM basis.
+In order to discuss our operating performance in the proper context, I would like to spend a minute on the new revenue recognition rules adopted this year.
+The major change, compared to prior periods, is that we now present deal-related expenses as a non-comp expense and no longer net them against revenue.
+This has the effect of increasing revenue and increasing non-comp expenses but has no impact on the absolute level of operating income.
+This new presentation of deal expenses also has a collateral effect on some of the ratios used to track our performance, notably, the comp ratio and operating margin.
+Both of these would decline compared to how we presented deal expenses in prior periods under the old rules.
+Over the past year, we generally provided target ranges for the comp ratio and absolute levels for non-comp expenses.
+Our revised guidance under the new reporting would be for the comp ratio to fall into the 62% to 63% range, and for non-comp expenses to fall into a range of $43 million to $45 million per quarter.
+With this as context, our comp ratio for Q1 was 62.4%, and our non-comp expenses came in a little over $42 million.
+So effectively, our comp ratio fell within our revised target range and non-comp expenses came in below the range.
+To provide some additional context for cost discipline, non-comp expenses were down about $1.4 million on an apples-to-apples comparison to the year-ago period.
+On last quarter's earnings call, we estimated our tax rate would be between 25% and 27% under the new Federal Tax Law.
+Tax expense this quarter was favorably impacted by 2 items: first, we recorded a $5 million tax benefit related to restricted stock vesting at prices greater than their grant date price.
+Excluding this benefit, our adjusted tax rate of 22% was below our estimated range.
+This resulted from tax-exempt interest income, representing a larger portion of our pretax earnings.
+We recognize that our tax rate can fluctuate quarter-to-quarter, but on an annual basis, we now expect our tax rate to fall in the 24% to 26% range.
+Finishing up on capital usage, as we've discussed, we reduced capital in our fixed income business in response to market conditions and the lack of opportunities to generate appropriate returns on that capital.
+We also continue to return capital to shareholders through dividends.
+In November of last year, we updated our dividend policy to be based on a payout ratio between 30% and 50% of our fiscal year adjusted net income.
+After taking into account the dividends paid during 2017, the board declared a special cash dividend of $1.62 per share related to 2017 adjusted earnings, which was paid out in Q1.
+Together with our regular quarterly dividend, we returned about $31 million to shareholders this quarter.
+In addition, today, we declared a quarterly dividend of $37.5 per share to be paid on June 15, to shareholders of record as of the close of business on May 25.
+Finally, we continue to explore Corporate Development opportunities that may emerge in choppy markets or otherwise.
+We can now open up the call for questions.
+First one for <UNK>.
+So, <UNK>, you talked about evaluating the business on a longer-term basis, given the volatility there.
+I completely understand that.
+If we apply that framework to the business and just think about it over the next couple of years, relative to the last 12 months, can you just give us a sense for your general expectations for the business, given the current environment in middle market M&A and the level of activity or engagement that you are seeing in early conversations.
+Yes, thanks, <UNK>.
+Obviously, our Advisory business was down year-over-year in the first quarter, and we've been on a pretty steep trajectory the last couple of years, if you just go back to where our Advisory business has been.
+We continue to think the markets are constructive.
+Frankly, our pipelines are good.
+So I think, if we look out a couple of years, our team is positioned in that Advisory business as well as it ever has been.
+So we are optimistic about continued growth longer-term for that segment.
+Okay.
+And maybe, moving on to the muni issuance side of things.
+I appreciate the color on the expected trajectory quarter-over-quarter.
+But if we back up and just think about it year-over-year, if you were to characterize how you describe maybe your expectations for year-over-year trends in that business, given your perspective on the middle market there and then your ongoing conversations with potential issuers, that would be very helpful.
+Yes, I'll take that one, <UNK>.
+So as we look at our business and what we are seeing, we see that activity picking up, and as we spoke to earlier in the call here, do expect that that will meaningfully improve throughout the year.
+But that said, the first quarter was obviously down pretty significantly, 31% overall issuance year-over-year and the middle market was down even more than that, over 40%.
+So when you take that context of the first quarter being down so much, we would expect the market could be down somewhere 20% to 25% on a full year basis, when you look year-over-year.
+Okay.
+Very helpful.
+And then, moving on to the fixed income trading side of things.
+You talked about -- I think, in the earnings release, you talked about the component of trading gains adding to some of the year-over-year metrics or quarter-over-quarter.
+So can you size that for us.
+Yes, if you look at the sequential decline from fourth quarter to first quarter of this year, the vast majority of that was related to a change in trading profits.
+So we had really put capital to work relative to our municipal inventory in the fourth quarter and saw that play out with pretty significant trading gains.
+And in the first quarter of this year, we saw just very modest trading losses, as we gave back some of those gains.
+So if you look at where we are in the first quarter, we have taken inventory down significantly, down 25% from where we were at the end of the year and that's something that we look to continue to decrease.
+And as we see the -- just the opportunities in this current market environment to generate an appropriate return on capital, we are -- have been and are committed to taking some of that inventory out.
+So what that does is ultimately, lessens the ability for us to drive exactly the same level of revenues we saw historically.
+So if we were to look out going forward this year, we would expect that the second quarter would improve.
+But overall, likely, a 10% to 15% lower revenue opportunity in the near term here, relative to maybe the average quarter that we saw -- average quarters we saw over the last couple years.
+That's very helpful.
+I appreciate the color.
+To your comment on reducing capital in that business.
+I guess, if we see this -- these market conditions, I guess, endure for a bit longer, and at some point, you just had a good amount of excess capital for some time.
+What's your inclination in terms of what to do with that capital at that point, if you were to find yourself in that situation.
+Sure.
+<UNK>, this is Tim, maybe I'll take that.
+I think, as we continue to think about excess capital, it is -- first, thinking about how we can deploy that to grow the business and look for opportunities to do it from that perspective.
+Given our dividend policy as well would give us the opportunity to look where we would fall within the range from a dividend perspective and provide some opportunity to potentially go to the higher end of that range.
+But I think our first priority is to look for ways to invest to grow the business.
+Yes.
+And, <UNK>, I would just add to that, we continue to see opportunities and ways to grow the investment banking platform and put capital to work, either with teams or Corporate Development opportunities.
+So I think, just given the strength of the position of the banking platform, we'd hope to find opportunities for some of that capital, relative to growing those platforms.
+Yes, <UNK>, I would say it's almost really, more the latter.
+I mean, it's definitely the current market environment that is really causing us to take some pretty significant steps, as we just don't see that opportunity.
+But strategically, it is something where we are looking to use less of our balance sheet on a day-to-day basis and continue to move the business more towards Advisory and Agency types of businesses.
+Yes.
+So I would say, <UNK>, like I said, our pipeline remains strong.
+I think, if you look at last year, our blend of, sort of, Advisory revenue was pretty balanced over the four quarters.
+I think this year, as deals close, the revenue is probably a little more back-end weighted like it has been in prior years.
+But I think, the conditions continue to be very strong.
+The teams are positioned very well.
+Like I said, I think the debt -- the new debt product is really adding to conversations.
+So we certainly see a pickup in the back half and feel very good about that.
+Yes, so, I think, relative to just MD headcount, and this is the first time we sort of put this in the release, we're obviously going to track that.
+Just to remind folks, I mean, going back, several years, 5, 6 years, we were -- we had MDs in the 30s.
+So we've experienced significant growth to be at currently 86.
+I would say with some of that heavy growth -- there were -- there are some gives and takes in certain segments.
+We had a handful of promotions, a few external hires, and then some natural evolution of us making some moves with a couple of MDs, really focused on productivity.
+So I think, we've got that great base of MDs.
+And the plan is to continue to look at adding a few external hires and a few promotions every year.
+And I think, in the first quarter, we had those few promotions and we added someone in industrials.
+Yes, obviously, we don't give too much guidance on that.
+But I would just say, especially because of the evolution of the investment banking platform the last couple of years and the products we've added and the strength of the franchise, and I think the awareness we have in the marketplace, it certainly feels to me like the pace of opportunities has grown.
+And we think with the position of strength with that investment banking platform that really should create opportunities.
+Yes, <UNK>, we've thought about that on an annual basis in sort of the $20 million to $25 million range.
+So this is from a quarterly perspective, maybe on the low end of that.
+But it's within that range.
+Yes, so I would say, I mean, relative to some of our middle market peers in some of the boutiques, we've been historically underweighted in Europe.
+And I do think that continues to be an opportunity.
+As we've really grow sort of the U.S. MD headcount in all of the products available I think that's an area for logical expansion.
+Especially, if it's focused around our power alleys, which would be middle market sort of PE sponsors, our industries of strength, healthcare, energy, consumer, technology, industrials.
+So we do think that's an opportunity, but right now, just relative to headcount and versus competition, we are underweighted in Europe.
+Yes, so the second quarter, I would say, is not that different from the first quarter.
+We're seeing maybe some modest pickup in a few areas but for the most part, fairly consistent with what we have seen in the first quarter.
+Yes.
+I think our expectations there is -- obviously we're down 10% for the quarter, that's pretty much our expectation for the year.
+I wanted to follow up on the discussion around the underwriting platform and just get a little bit more color on what type of business opportunity you see there over the longer term.
+And you mentioned, thinking that it might have a positive impact on business in the back half of the year.
+So what does that mean.
+What type of -- in what size are we talking about.
+Yes, <UNK>.
+So obviously, that's a product -- you're talking about our middle market debt product.
+Obviously, we've got partners that are helping back those commitments.
+We announced that in Q1.
+We were sort of up and running in early Q2.
+Obviously some of those deals have lead times.
+I would say relative to our expectations, the pace of transaction flow that we've sort of been able to bring to Piper Jaffray Finance is frankly much faster than we thought.
+I think deal sizes are a little larger than we expected.
+So I think we continue to be very encouraged by that opportunity.
+Obviously, it takes a while for deals in the pipeline.
+We do have some transactions where we're exclusive on the commitment and then it's just a matter of how long does it take for those deals to close.
+But I would say relative to where we felt at the end of the first quarter, we think the revenues for that for the back half are probably going to better than we had planned for.
+Okay.
+And then just last longer term, what's the size of the opportunity there.
+Yes, so I think, we look at that -- once it's up and fully running, and we're starting to close transactions, we think that can ultimately, be north of a $50 million revenue opportunity for us.
+Okay, thank you.
+And maybe for Deb, on the ECM side, I guess, you guys had talked about having a larger proportion of book run deals this quarter.
+So just wondering if you have the breakout around that versus the year ago quarter or a quarter ago.
+Yes, <UNK>, we'll get back to you with the details on the specific number versus last quarter.
+But it was a really strong ECM quarter for us.
+I think, as we said, one of the strongest in 3 years.
+A lot of -- when we have ECM quarters, really strong quarters, it's usually heavily related to, are there a lot of transactions in the middle market and our areas of strength.
+Q1 was an incredibly strong quarter for health care and particularly biotech.
+And when we see that in the marketplace, we gain market share, which is what happened in Q1.
+Okay.
+If there are no other questions, thanks everybody.
+Have a great day.

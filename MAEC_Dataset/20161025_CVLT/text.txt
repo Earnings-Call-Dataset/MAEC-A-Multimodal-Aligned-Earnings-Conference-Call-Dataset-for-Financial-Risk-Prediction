@@ -1,0 +1,123 @@
+So at the 100,000 foot level, the major driver of our Business is large enterprises as they move to the cloud.
+And that's helping them manage data from on-premise to the cloud, manage data in the cloud, and then help them manage data in these hybrid environments.
+That is the big driver in large Enterprise.
+And more and more, our stand-alone solutions for the mid-market are dealing with the same issues but on an individual product basis or individual use-case basis for, let's say, dev test or for DR.
+So the cloud has become the major driver of our Business in what we would call modern data management.
+And in doing so, we partner heavily with the big cloud providers like Microsoft and AWS.
+The numbers, what we said is that the number of petabytes stored in the cloud in the first nine months of the calendar year are more than doubled.
+And I can tell you the cloud is a material part -- a significant, material part of our revenue and of our revenue growth.
+And the second question, just to reference your -- .
+Well, a couple things, one is we will most likely be an early adopter of the new accounting standards, which allows you to mix and match these different license revenue models, and we'll have more comment about that on next quarter.
+Secondly, I believe our core business as described will continue to grow.
+But as we add things like software-defined solutions for big data and for digital content, those will probably be sold as -- on a term base.
+Now, as we go into FY18 is where the big acceleration will take place.
+They will be booked up front, and it's going to look like a perpetual -- the accounting of that will look like a perpetual sale, even though that term-based sale might be over 3 to 5 years.
+So that is probably the biggest change in time-based revenue.
+In addition to that, we are -- and this is, I think, going to be slow and gradual -- we are moving to a subscription-based both managed services and delivering these solutions as a SaaS -- as a cloud-based service.
+That, I think, will be a slower adoption and take place over time, and it will be booked as a typical subscription-type sale.
+And, lastly, in the second half of FY18, maybe sooner, but certainly by the second half of 2018, as we get into our content-based platform for business analytics and business process automation, it is likely that those solutions will be supplied on a subscription basis as well.
+So the way I would sum it up is you have a core business, call it a perpetual business, which should continue to grow.
+And these other businesses most likely will result in accelerated growth rate on top of that.
+So we'll give you more guidance on that as we get into FY18.
+Well, clearly that's been the big driver of funnel growth is our large deals.
+Deals over $500,000, deals over $1 million has been the biggest factor in our funnel growth year over year.
+And that's historically and going forward is the same.
+Obviously if we grew 22% in [license] revenue in the quarter, that's pretty indicative of where the funnel is going.
+And we also mentioned, even though we have had strong funnel growth, and we have, and it's continued and it's been consistent, we have some tougher comparisons going into Q3 and Q4.
+But it bodes well for the underlying momentum of the Business.
+We are doing both.
+We clearly have what I would call significant initiatives to improve productivity.
+At the same time, we are expanding sales capacity.
+So they are both built into the models.
+And what I can tell you, as you look out to FY18, results are going to be -- I think will be good no matter what on the top line, and the bottom line will be dependent on how well we achieve our sales productivity objectives.
+Hello, Andy.
+It's <UNK> here.
+Let me just clarify that I think you have to -- the comments we made were around, once you factor in the Q2 actual results and the existing consensus that's out there, it would be higher number than what you just quoted of $635 million.
+So maybe just take a closer look at that model, but we are bumping up against tougher comparisons.
+We do expect sequential growth in the second half, both for software revenue in particular, and then total revenue.
+We said the year-over-year comparisons will be slightly challenged due to the strong performance in the second half of FY16.
+But I would suggest just taking a closer look at the model, because it'll be higher than the number you mentioned.
+We were pleased with Fed this past quarter.
+It was up substantially sequentially.
+It was also up year over year.
+It was driven by some larger Enterprise-sized deals, but we got good traction out of our Fed group and we were pleased with their performance.
+Yes.
+So what I said was that services revenue would be flat sequentially in fiscal Q3, and then most likely decline sequentially in Q4.
+And this is just the matter of us entering into this maintenance pricing adjustment and the compounding effect of doing that throughout the year.
+It's also related to just overall software growth from the prior year as well is also impacting that.
+So we did forecast that at some point during this transition we would have a sequential decline in services revenue.
+And this is the quarter, meaning in Q4, that we will see a sequential decline.
+Yes.
+So I think the operative word is accelerated.
+So if you think about the business model that we put together a number of years ago, we are clearly working at the high end of expectations on that model, meaning the objective was to build a new foundation for growth and then enhance that.
+So that has worked.
+And if you think about maintenance revenue, which was your prior question, obviously 4 to 6 quarters out, you see -- you will see an acceleration of the maintenance revenue tied to what we've achieved in FY17.
+You'll see that somewhere in mid-2018.
+And that has a big impact on overall growth rate and a substantial impact in improving operating margins.
+And we've already built a foundation for that, and we just need to sustain it.
+So just going back to the fundamentals, again, the big drivers have been this whole expansion and federation of managing data to the cloud in both large enterprises and now mid-market.
+So what we are doing is we're adding a substantial number of core use cases or workflows that we traditionally have not participated in.
+So you can think of that as both market expansion and revenue accelerators in our core business, and now extend that to some really large markets on big data and software-defined storage.
+And then add on top of that in the second half of 2018 a significant move into expanding our ability to manage content with some really unique capabilities, which we'll talk about in a quarter or so.
+And we're on track on all of those to hit our own internal objectives.
+So the new products I talked about are being released this quarter and next quarter -- and early next quarter.
+And realistically, we will start to see the impact of those in -- we'll see some impact in FY17.
+It will start to be licensed revenue accelerators starting in Q1 of FY18, and building right through the FY18 into FY19.
+We haven't given that number, but it is very, very material.
+It has now become a substantial part of our licensed revenue is coming from the cloud.
+Yes, I mean, that's past history.
+That ship is way behind us now.
+That occurred several years ago.
+But the cloud has become a major accelerator.
+I'll let <UNK> expand on this a bit because the SaaS issue actually becomes an accelerator as we manage SaaS data, as well as the public cloud-related data but, <UNK>, why don't you pick that up.
+Yes.
+We're starting to see some longer-term maintenance support contracts as we go through this realignment process, and just in general as we penetrate more and more Enterprise accounts.
+So that's a nice positive uptick on long-term deferred that came along with it.
+We are not seeing -- <UNK>, this is <UNK> here.
+We're not seeing any immediate Brexit impact, although we are very aware of it.
+So we are watching our funnels.
+We're being proactive with how we're monitoring the situation.
+But that was not the reason for slightly suppressed EMEA growth rate.
+We're still pleased with the EMEA overall software growth of 12% year over year.
+There were mega deals involved, and that's going to swing it from quarter to quarter.
+But we're overall pleased.
+And the outlook for EMEA going forward looks good as well.
+I think we said that we're going to prudently accelerate investments.
+We have a window of opportunity here, as <UNK> laid out.
+And we want to take advantage of it; while we have the momentum, it is time to invest.
+It's not time to pull back at this point.
+However, we are keenly focused on our longer-term goals and we haven't wavered from that of, once we're north of $1 billion, we would like to think we could get back to that about 20% operating margins or a little bit north of that.
+That is our longer-term goal.
+If you think about it, it's really clear, even with investment, that as your maintenance line kicks in, in the second half of 2018 -- that doesn't mean by the way we can't do well in the first half as well.
+But you're going to see a significant improvement in operating margins.
+And if you combine that with things we're doing to improve sales productivity, both of those will drive up margins.
+And that 20% operating margin is a realistic objective, even though we're investing.
+So, what your investment does is accelerate your top line, and it also, that investment also helps you drive sales productivity.
+So we got -- the odds are all with us right now.
+We got lots of tailwinds, and we're just trying to maximize them over the bulk of the short and long term.
+I would say that we always try to consider a normal close rate when we factor our guidance.
+However, we do understand this is the biggest swinger that could happen throughout the quarter.
+And as <UNK> laid out, in terms of the risk and the model, it is the close rates on those mega deals.
+We feel comfortable where we're at entering this fiscal Q3.
+We do have a healthy pipeline, and again, we are assuming normal close rates on that, and hopefully we can execute.
+And we're increasing the number of those going into market over the next couple of quarters.
+So, one, that strategy has been successful, and you can use the sense we're doubling down on it now, as well as improving our position in the Enterprise.
+It reinforced what we're doing, certainly with the big public cloud providers.
+Certainly Microsoft and AWS, I think we will expand that.
+Even though we haven't put a lot of focus on Google, we are starting to get some pretty good traction.
+In the Google Cloud, the big GSIs clearly have been an area of focus.
+That was reinforced.
+And on partners like Cisco, we are expanding that partnership with some additional things that we can do with Cisco and Huawei.
+So we will expand those.
+Our healthcare business has been extremely strong, and we've got a number of new partners in healthcare as well.
+And then there is no doubt that with the increased number of stand-alone solutions, that with new, easier to use user base, web-based UIs with simpler messages that we will reenergize our core channel.
+It will enable them to be a lot more effective in moving stand-alone solutions globally.
+So our strategy is all go to just reinforce the current strategic direction we're in, both from a product standpoint, and from distribution and alliances.
+It's a point that I did raise that there's no doubt that at the pace that we're moving, that there is room for us to improve are good.
+The pace and quality of our go-to-market execution here goes through.
+We have a big opportunity, and it's only going to accelerate.
+So there's a lot of focus on that.
+And that effort, by the way, will track right into distribution and alliances as well.
+I'm going to let <UNK> answer that because he's the guy that figured a way to approach this on a targeted basis, particularly as we move into big data environments.
+<UNK>, why don't you take that on.
+The other point I'll make is what <UNK> and the guys have done here is with a web-based UO we can customize those UIs for those specific verticals, so as we go to market we'll be going into market with highly targeted customizable solutions into those market segments.

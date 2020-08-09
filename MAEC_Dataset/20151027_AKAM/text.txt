@@ -1,0 +1,185 @@
+Certainly, we had another very, very strong quarter in our cloud security solutions.
+They grew 44% in Q2; they grew 44% again in Q3.
+You did see kind of a slight moderation in the other businesses that are in there, the largest of which is our Web performance business that --.
+We've seen a bit of a deceleration in their product line for the last few quarters.
+Bookings continue to be reasonable.
+As I said before that there is a tremendous amount of excitement with our sales teams in selling the -- our new security offerings, and I think that there's a fair amount of focus in that area.
+So, yes, we probably could do a little bit better in that segment.
+We know that.
+We're doing very strong security; maybe not as strong in the Web performance business, but I think it's -- we are keeping at it.
+It's significant market opportunity for us to further penetrate in that space.
+It's just a matter of continuing to execute and innovate.
+Yes.
+No, it's actually more -- these three accounts -- these big, big accounts do DIY.
+And in a couple of these big accounts, Akamai is the exclusive CDN provider.
+No, this slowdown is not so much a -- an increase in DIY.
+As <UNK> tried to outline, which is overall traffic is lower.
+And so what's happening is that they've continued to build on DIY, which they have been doing all along.
+And their traffic has moderated overall.
+They are serving more of the traffic themselves and less is going to us.
+So if you generally look at it from a share perspective, that yes they are taking more of the share of the traffic, but it's because overall traffic in aggregate is less than expected.
+That's tough to tell.
+This is the nature of our business that we can't control how many people are doing a download, how many people are doing various things, so that's really an end-user thing.
+So why it's slowing for customers is difficult for us to assess.
+Yes, I think what I did say -- I provided guidance for the quarter.
+Think we said that we'd be, call it, in the low 80s for CapEx.
+So we're going to be a little bit above my long-term model of the 18% this year.
+We -- again, we are going to strive to manage the Company call it around the 18% of revenue going forward.
+That's the long-term model that I've highlighted all along.
+There are going to be periods of time as we had before that you could be at 17%; there could be a period of time where we are at 19%.
+I'm actually not going to quibble between a point here or there, to be honest with you.
+We're going to make the investments that we think are the right investments of the business either on R&D innovation, which is around software capital -- or as <UNK> indicated, if we need to make more network CapEx investments because we think they are the right thing to do to support what we think is going to be coming demand, we will do that.
+But generally speaking, we're going to strive to manage CapEx around 18% of revenue.
+Well, it's largely from what we've talked about.
+We have been building out CapEx really through the first three quarters in a year in a fairly substantive way.
+If you take the year to date, CapEx as a percent of revenue has been well north of 20%.
+We're not expecting that for the full year because you are seeing it moderate here in the fourth quarter.
+So as you build up more CapEx and you deploy more service in the network, and you are incurring co-location costs, you are going to see kind of an uptick in cost of goods sold.
+And certainly as we've talked about, we are building out what we did build out in anticipation of wanting to make sure that we have the capacity available.
+We did signal that that may have near-term pressure on gross margins and that's what you're seeing.
+No change in -- from a color perspective around in general the market for bandwidth or co-location spending.
+As you can imagine, bandwidth in particular -- as your -- you have contracts in some cases that you have fixed-port arrangements that you're building out.
+And if you are not filling those fixed ports with fixed cost that you are not monetizing.
+But again, that's something that we signal that -- it was a bet we were willing to make.
+If in fact we have built up more capacity than is needed, we will grow into it.
+And so that's effectively what we're doing.
+Okay, that was a bunch.
+Let me try to take them kind of in order.
+So I think we did signal in our guidance -- I'm certainly not providing guidance for 2016 on this call.
+But we certainly did signal that we do expect that what we're seeing here in the fourth quarter is going to continue into 2016.
+As you know, the nature of traffic is it spikes.
+And as it goes up and it goes down, it's difficult to predict whether to your point it did a wraparound and you go through this for three quarters and then you see it again in Q4.
+Tough to tell.
+That is one possible scenario.
+That's a scenario that these customers' overall traffic volumes continue to accelerate and our share then increases.
+So these are customers that have planned to do DIY.
+They have been doing it for a while.
+It's very difficult to assess what's going happen next year.
+But we do expect that there will be a moderation.
+As you have seen in the past, we've been surprised at the upside.
+As <UNK> mentioned, both in 2013 and 2014 we were talking about overachievements in media growth.
+And we specifically talked about our large customers, and that's really what the driver was.
+The same phenomena.
+Also, it's fair to say that growth outside of these three customers in the media business is doing very well.
+International growth is strong in the media business, and it's strong in other segments of our US market as well.
+So again, we're going to go through a period here.
+How much effect is has on growth rates in 2016 I think remains to be seen, but we do expect to see this persist into 2016.
+And whether or not we are going to need M&A to hit our ambition for $5 billion -- if you think about the market that we are in, you look at the media market and you think about the amount of traffic that could move online that we would be poised to benefit from, that's a significant growth catalyst in the media business.
+Our performance and security solutions by themselves have significant growth opportunities.
+And then there's new emerging areas that we are just barely getting into in cloud networking that by themselves could be huge growth opportunities for the Company.
+So there's enough catalysts across the portfolio to certainly achieve the ambitions that we have.
+The challenge you have with the media business is sometimes the media business is in accelerating and aid you in your quest the kind of get -- the CAGR needs to be around 17% to get there.
+Sometimes it's going to be lower.
+But I think over time there's enough growth catalysts in the Company to be able to do that.
+It's a matter of innovating and it's a matter of executing.
+Well, no, M&A is -- I would say (multiple speakers) we talked about the fact that -- no, we don't have a specific number for M&A.
+We have been doing M&A where we think it makes sense for the Company to either expand into an adjacent area.
+There's been technology tuck-ins that we believe that will help secure an area that we want to do from an innovation perspective.
+So we certainly did the acquisition of Prolexic which did contribute revenue.
+Most of our acquisitions to date have not been revenue contributions; they've been more technology tuck-ins.
+That's not to say that we are not actively searching and that there may be something that is a revenue contribution, but we don't have a specific target in mind for what M&A is going to be to deliver to the $5 billion ambition.
+We don't really know of any dates in particular.
+I think in terms of watching for signposts, you look for offers that come to the market.
+You look for adoption rates of those services.
+Is it being successful.
+Are users watching more video content online.
+And then we don't have any dates in mind that we are in a position to share around that.
+We just -- we're going to be ready, and we're going to try to help enable it, and then we will see how things unfold next year.
+That's generally in the ballpark, yes.
+I think it's difficult to tell that it's -- certainly we can execute better in that area.
+What share of it is driven by what drivers is tough to tell.
+There's certainly still a significant market opportunity for it.
+I think what we need to do is in particular the -- and our sales team is doing this -- that you've got to go through multiple go-to-market motions both direct and indirect in being able to build out effective channel relationships to be able to sell this and get better acceleration on it that's not just from your direct sales force.
+It still is a product that requires a fair amount of handholding to be sold, so it's not an easily channeled, sellable product.
+We are working on that.
+And so there's probably an element of that that kind of is disruptive to being able to get that business back to where we need it to be.
+We do think that with continued innovation on the product side as well as maybe continued focus from a go-to-market perspective around not just going deep and wide with our customers -- so the customers that we're going to try to upsell them to the higher-value ion offerings as well as getting new customers.
+That's really the recipe.
+It's about executing on the innovation side and executing on the go-to-market side.
+Pricing steadily declines.
+And I would say in the period we're in now, it's pretty normal.
+Nothing unusual or no bad news there in terms of our revenues.
+So -- now, when customers send more traffic to us, they often get a lower price.
+So you have large volumes and traffic costs less per bit, then small volumes of traffic.
+But if you look at a constant amount of traffic, through time pricing steadily decreases and there's really no fundamental change there.
+Yes, we are very pleased with the growth in the international markets.
+It accelerated over Q2.
+I would say that we still think there's huge opportunity to continue to grow into the international markets faster than our US markets for sure.
+But as far as the mix, actually the mix contribution between media performance and security services and support is roughly similar across all three geographies.
+Admittedly, though, in the EMEA and ABGA geographies that there isn't any significant concentration from customers.
+And so they call it the diversification of their customer base is a little bit broader, whereas in the US, we have very, very large US media customers that tend to have a pretty high share of some of our US media business.
+And so obviously when you have a downturn there, it's notable both for the US market as well as the total companies.
+But that just gives you maybe a little bit of color on the mix profile.
+Yes, I really can't comment on adoption rates in 2016.
+I wish I could, but I can't.
+But the TAM of what hypothetically could be possible is very large.
+Just think about all the people that watch TV and imagine if even a very small portion of them started watching TV online.
+And you think about what quality they might do that at someday.
+A -- the old DVD format -- I say old, but the DVD format is about 4 megabits per second.
+Compressed, 4K, the next-gen format of 16 megabits a second.
+The average of that is 10 megabits a second, and that's where we see the major broadcasters having an interest in targeting bandwidth rates for watching a single stream at 10 megabits a second.
+As I mentioned earlier, if you had 5 million people doing that at the same time, that's 50 terabits a second and that's a heck of a lot of traffic.
+And that's only 5 million people.
+Now, you think farther into the future, either some people think that someday -- I don't know if it's by the end of the decade or not, but maybe most watching -- there's more watching online than on TV -- the traditional mechanisms.
+And that's hundreds of millions of people.
+And maybe 1 billion someday.
+So when you think about the TAM, it's an enormous TAM.
+And that's why I think there's so much interest -- not here but in the industry -- around OTT.
+Now, I know you all are interested, as are we.
+When does that start.
+And we don't know.
+We are to the point today where we can enable it from the technology perspective and from the financial perspective.
+We can do it at a good quality; we can do it at scale.
+Not 1 billion yet -- 1 billion viewers.
+But certainly the scale where we would start out and we can do it at a reasonable price point that can enable that take place.
+And from there, we are watching and working with the industry to try to facilitate that to happen.
+But a lot of that is beyond our control.
+And certainly the users at the end of the day, the subscribers, will dictate how much watching is done OTT.
+We only see meaningful DIY in a handful of accounts, and it's not for live linear video.
+That doesn't say that someday that people won't be doing DIY themselves for OTT broadcast content OTT, but we don't really see that today.
+The DIY we see is a handful of very large media accounts, and it's focused on more static -- the delivery of static content.
+And often where performance doesn't matter.
+Obviously with paid subscription OTT, performance matters a lot or the subscriber is not going to pay.
+They're not going to be happy.
+And as we look across the major broadcasters today, I really don't see DIY as being a factor there, at least for now.
+Obviously we're building out based on discussions that we have with folks in the ecosystem.
+We certainly -- what is a lot of uncertainty about what is going to get introduced, when it's going to get introduced, what the adoption rates are going to be.
+So as <UNK> indicated, yes we've done buildout.
+And the buildout means that we have available capacity.
+It is an infinite capacity obviously.
+This would be -- call it -- we've built out capacity for what could be the first wave of some level of over-the-top.
+I think we certainly did signal that we do expect generally traffic moderation going into 2016.
+And I do believe -- just to be clear, I do believe that there are -- the biggest catalyst that's going to cause traffic growth to re-accelerate is going to be continued movement of premium content online.
+The rate case of that is very, very difficult to assess.
+Some of it's being done now, so it's not like it's not being done now.
+It's just being done now in a very kind of -- much smaller scale.
+The question is when does it start to get hold in a more fulsome scale.
+And I think that will be a catalyst.
+But I think without that, I think there are certainly headwinds that we have going into 2016 on traffic.
+Just to be very clear, I think <UNK> asked earlier that it's tough to tell for these large three customers what their traffic volumes are going to do, whether their traffic volumes accelerate or not.
+So there's a bunch of dynamics that will have an impact on the media business in the near term.
+So I just want to make sure we're clear that we think that they are -- there are certainly catalysts to grow this business in the medium term to long term.
+We're not calling out guidance here for 2016.
+But it's just important to be clear with you that certainly we do see deceleration in traffic.
+We do think that there are going to be catalysts for traffic growth.
+The question is rate, pace and timing.
+Well I think the math is the same.
+Could be very significant.
+There are obviously a lot more TV watchers and people online outside of the United States than here.
+Many countries are better connected with their Internet than here.
+So in the long run, I would say it's a larger market -- potential market outside the US than inside the US.
+I would hope it would have a positive benefit to both our media business and our performance business and our -- for that matter, our security business.
+That Microsoft will be selling all of our services.
+And in terms of the basic Azure CDN capability, you'll be able to automatically take advantage of Akamai's base-level CDN capabilities.
+Certainly, when we guided for the quarter for Q3, we did guide that OpEx expense was going to slow.
+We certainly have better visibility of what we thought was going to be happening going into Q4 as the quarter progressed.
+And so we did moderate hiring as the quarter progressed.
+Okay.
+Well, thank you.
+I appreciate there's a few more in the queue, but we are well over time.
+So I apologize if we weren't able to answer your questions today.
+But in closing, we want to thank you for joining us.
+We will be participating in a number of investor conferences and events in November and December.
+Details of these can be found in the event section on the investor relations website at Akamai.com.
+We look forward to seeing you at those events.
+Thank you again for joining us, and have a nice evening.

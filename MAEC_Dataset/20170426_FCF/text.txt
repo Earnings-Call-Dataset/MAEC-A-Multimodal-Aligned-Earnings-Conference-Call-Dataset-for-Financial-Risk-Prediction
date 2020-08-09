@@ -1,0 +1,101 @@
+Thank you, Andrea.
+As a reminder, a copy of today's earnings release can be accessed by logging on to fcbanking.com and selecting the Investor Relations link at the top of the page.
+We have also included a slide presentation on our Investor Relations page with supplemental financial information that may be referenced throughout today's call.
+With me in the room today are Mike <UNK>, President and CEO of First Commonwealth Financial Corporation; and Jim <UNK>, Executive Vice President and Chief Financial Officer.
+After brief comments from management, we will open the phone call to your questions.
+For that portion of the call, we will be joined by Brian Karrip, our Chief Credit Officer; and Mark Lopushansky, our Chief Treasury Officer.
+Before we begin, I would like to caution listeners that this conference call will contain forward-looking statements about First Commonwealth, its businesses, strategies and prospects.
+Please refer to our forward-looking statements disclaimer on Page 2 of the slide presentation for a description of risks and uncertainties that could cause actual results to differ materially from those reflected in the forward-looking statements.
+And now I would like to turn the call over to Mike <UNK>.
+Okay, thanks, <UNK>.
+And welcome and thank you for joining Jim and I today.
+First quarter net income of $15.9 million or $0.18 earnings per share increased $3.4 million year-over-year, but decreased some $2 million from last quarter due to a few large recoveries last quarter.
+A few noteworthy items include a net interest margin expanded to 3.5% following the first full quarterly benefit of the deposits associated with the 13 acquired FirstMerit branches in Canton and Massillon, Ohio.
+After giving -- also giving us a lift was the recent Federal Reserve interest rate increase, which flowed through a predominantly variable-rate loan portfolio.
+The core efficiency ratio improved to 60.49% for the quarter as expenses remained relatively well controlled.
+Operating expenses were essentially flat this quarter despite absorbing a full quarter of the 13 acquired branches in Canton and Massillon.
+I'm pleased with our ability to maintain expense discipline as these 2 recent acquisitions are absorbed into our operating base.
+Also, the first quarter provision expense of $3.2 million saw elevated charge-offs and was partially offset by the release of reserves and other components of the ALLL model.
+As a result, the allowance for credit losses decreased to $48.7 million or 1.01% of total originated loans, which excludes the loans acquired from FirstMerit that would have been marked through purchase accounting.
+Although nonperforming assets increased this quarter, credit metrics such as total delinquency and the level of classified assets trended positively.
+Our loans grew modestly as commercial loan growth of roughly 6% overcame some runoff in the consumer lending portfolio.
+We're pleased with where our commercial loan pipeline is at today, particularly in C&I lending, while the consumer loan pipelines are showing signs of growth.
+We're also pleased with the pipeline in Ohio.
+We've been able to attract and retain a talented cadre of lenders in our new Ohio markets.
+Also, on the lending front, in our relatively new purchase money mortgage business, we had a strong first quarter, and March set a record in mortgage applications.
+We've also completed several key hires for our new SBA platform, which will largely be based in Columbus and support our existing team here in Western Pennsylvania.
+We've also expanded our indirect business in Ohio as well.
+Most importantly, with concerted effort, our branch consumer loan pipelines are building.
+Shifting gears.
+The legal close of the acquisition of DCB Financial Corporation was completed on April 3, 2017.
+This marks our second completed deal in about 4 months.
+We're enthused about the prospects in Delaware County.
+This is one of the fastest-growing markets in the Midwest and one that our leadership team knows quite well.
+Lastly, we're also pleased with the positive retention in the 13 branches we acquired from FirstMerit in early December.
+We have layered in commercial lending and mortgage functions and have a good foundation for growth there.
+All in all, we're pleased with the first quarter and the start to the year and really our progression over the last 3 quarters.
+With that, I will now turn the call over to our CFO, Jim <UNK>.
+Jim.
+Thanks, Mike.
+As Mike mentioned, core earnings per share, which adjust for nonrecurring merger expense, came in at $0.18 for the quarter, and core ROA was 98 basis points.
+We had $652,000 in securities gains in the first quarter.
+Beyond the merger expense and the securities gains, there was very little in the way of onetime events this quarter that might otherwise cloud the earnings picture.
+Nevertheless, I'll spend a few moments providing you some color on the margin, fee income and expenses that you may find helpful.
+As Mike noted, the net interest margin improved to 3.50% from 3.44% last quarter as the yield on average earning assets improved by 6 basis points while the cost of funds is unchanged.
+However, at 3.50%, the first quarter NIM was well above the 3.35% to 3.45% guidance we provided last quarter.
+This is mostly because the Fed raised rates in March earlier than we had anticipated.
+The March rate increase repriced approximately 45% of our loan portfolio and will, over time, reprice approximately 64% of the portfolio.
+In addition, as we have disclosed in the past, our predictive models call for an immediate deposit beta of approximately 25%, which is reflected in our NIM guidance, but so far has not been our actual experience.
+The success of the branch acquisition has alleviated our near-term funding pressures, bringing our loan-to-deposit ratio below 100% such that our actual deposit beta was effectively 0 in the first quarter.
+We continued to see positive deposit inflows even beyond the acquired branches deposits while, at the same time, our cost of deposits has decreased.
+In addition, the commercial nature of our balance sheet provides us with a strong source of noninterest-bearing deposits, representing about 1/4 of our total funding.
+I would add that the first quarter's net loan growth in the low single digits, while below our long-term guidance of mid-single-digit overall loan growth, also alleviates funding pressure in the near term while at the same time improving the asset mix in favor of higher-yielding variable-rate loans.
+In light of all these factors, we are revising our NIM guidance to 3.45% to 3.55% for the next quarter and will update this guidance on future calls as appropriate.
+Our NIM forecast assumes essentially 0 deposit betas for the remainder of the second quarter and a slow phase-in of deposit betas in the second half of this year.
+We again saw positive replacement yields in most loan portfolios in the first quarter, marking the fourth straight quarter with aggregate positive replacement yields in the loan portfolio, making us optimistic that if this trend continues, we hope we will see more upward rather than downward pressure on the NIM going forward.
+Turning to fee income.
+Total noninterest income excluding the effect of the securities gains decreased by $1.5 million compared to last quarter, primarily due to the recognition in the prior quarter of a $1.3 million positive mark-to-market derivative adjustment.
+Thankfully, this adjustment, which has been quite volatile in quarters past, was immaterial in the first quarter.
+We experienced nice improvement in trust and card-related interchange income in the first quarter, the core swap fees were light and mortgage gain on sale was down in part because we retained a higher proportion of production of the loan portfolio.
+Noninterest expense, excluding merger and acquisition-related expense, improved by $706,000 over the last quarter, but was up over last year due mostly to the operational costs of running 13 additional branches in Northern Ohio as well as amortization expense associated with the core deposit intangible created in that acquisition.
+The expense improvement from last quarter was driven by lower incentive and hospitalization costs and a decrease in the cost of reserves for unfunded loan commitments.
+On the subject of expenses, please keep in mind that we expect to have approximately $10 million of onetime merger expense in the second quarter.
+Finally, our effective tax rate was 30.25% in the first quarter.
+And with that, Mike and I will take any questions you may have.
+Questions, operator.
+Wanted to talk a little bit about margin.
+I know you said one of the reasons it came in better than expected this quarter had to do with the March Fed funds increase.
+I guess that may have helped for a couple of few weeks, but I'm guessing you still get most of that lift as we go into the second quarter.
+Would you expect a little bit of expansion quarter-over-quarter as we go forward into the second anyway.
+Yes, Bob.
+This is Jim.
+That's exactly right.
+We do expect that.
+We did see a little bit of the -- some anticipation in the markets of the rate increase.
+Starting at the beginning of March, the 1-month LIBOR rate started to increase and that's really the reference rate that drives a lot of the variable rates in our loan portfolio.
+So we got the benefit of the rate increase for about 1/3 of the quarter.
+But you're right, we'll see the full benefit coming out in the second quarter and that's reflected in our NIM guidance that we've given.
+Great.
+And then shifting gears to think about efficiency.
+Sort of excluding the merger costs, which I know you highlighted for the second quarter, do you think you guys are back under 60% in the second quarter.
+Or you think it takes a little bit longer to sort of get the merger cost saves to get under that target.
+I think we're probably right on the bubble and pushing hard.
+I think revenue will really be the key for us to drive that efficiency lower.
+And we're ever mindful of costs in a normal environment, keeping our costs flat to down.
+I think our pipelines are building, particularly in C&I in Ohio and that portends well for perhaps a little stronger growth in the second quarter than the first.
+And we\
+That portfolio has performed very well for us over the years.
+We have played with the price elasticity, and we have been pretty firm in keeping our spreads up.
+And consequently, our volume has run off in the last year.
+Probably, Jim, $40 million to $50 million of runoff in the last year.
+That portfolio for us has been -- has had low credit experience over the course of the last decade and we've underwritten pretty conservatively.
+Jim, I think you might have the average FICO and maybe our delinquency.
+Our average FICO score is 743 and you asked about delinquency, it's about -- in the last quarter, about 23 basis points.
+So it's a good performing portfolio.
+And I would just add, Mike had mentioned this, we really like the business and like the duration of the business because it's a very -- it's a medium-term duration business for us.
+The average portfolio duration is anywhere from 2.5 to 3 years and that just sits nicely in our balance sheet.
+Yes, and it's a nice cross-sell with a good dealer that you might have a real estate loan or a floor plan line of credit to add the indirect auto and do business with good people that you trust.
+The tax rate guidance we've given you for the effective tax rate is right around 30% is a number that's supposed to represent the full year.
+So that's -- and we have taken account obviously the onetime merger expense we're going to have in the second quarter in that number and that should be good.
+We, just as always, appreciate your interest in our company and the opportunity to follow up with you from quarter-to-quarter.
+And thank you for your input, and take care.

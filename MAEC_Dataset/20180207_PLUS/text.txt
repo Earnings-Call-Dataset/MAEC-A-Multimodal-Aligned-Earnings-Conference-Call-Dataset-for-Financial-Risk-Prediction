@@ -1,0 +1,157 @@
+Thank you for joining us today.
+On the call is <UNK> <UNK>, CEO and President; <UNK> <UNK>, Chief Financial Officer; and Erica Stoecker, General Counsel.
+I want to take a moment to remind you that the statements we make this afternoon that are not historical facts may be deemed to be forward-looking statements and are based on management's current plans, estimates and projections.
+Actual and anticipated future results may vary materially due to certain risks and uncertainties detailed in the earnings release we issued this afternoon and our periodic filings with the Securities and Exchange Commission, including our Form 10-K for the year ended March 31, 2017, and our Form 10-Q for the quarter ended December 31, 2017, when filed.
+The company undertakes no responsibility to update any of these forward-looking statements in light of new information or future events.
+In addition, during the call, we may make reference to non-GAAP financial measures, and we have posted a GAAP financial reconciliation on the Shareholder Information section of our website at www.eplus.com.
+Reclassifications of prior period amounts related to numbers of shares and per share amounts have been made to conform to the current period presentation due to the March 31, 2017, stock split.
+The effect of the stock split was recognized retroactively in the stockholders' equity and in all share data.
+The financial statements include the effect of the stock split on per share amounts and weighted average common shares outstanding for each of the 3-month periods ended December 31, 2017 and 2016.
+I'd now like to turn the call over to <UNK> <UNK>.
+<UNK>.
+Thanks, Kley, and thank you, everyone, for joining us today.
+Our third fiscal quarter net sales increased 4.9% year-on-year and adjusted gross billings of products and services were up 7.3%.
+Year-to-date, our net sales increased 8.4% and our adjusted gross billings of products and services increased 10%.
+We have continued to execute well on our strategic plan to position ePlus in high-growth segments of the IT market, significantly expanding our cloud, security and digital infrastructure solutions.
+This strategy has enabled us to grow our revenues at a faster pace than overall IT spending, expand our customer base and drive a favorable mix of products and services.
+Going hand in hand with our broadened cloud capabilities and increased security offerings is the expansion of our consultative and annuity services capabilities, which enable us to build out long-term recurring or annuity revenue streams.
+Revenues from security products and services grew at a double-digit rate year-to-date and reached 17.6% of our adjusted gross billings on a year-to-date basis, up from 16.7% in the same period last year.
+We expect security to remain an important growth driver for our business as it touches almost every solution offering we sell.
+Our acquisitions of OneCloud and IDS have not only expanded our cloud-enablement capabilities, but also broadened our geographic presence in the Midwest.
+ePlus has supported our customers' data center needs for years.
+As cloud services drive innovation and transformation in the data center to support continuous innovation, we have invested in these acquisitions, along with organic hires and training.
+ePlus recent acquisitions solidify our cloud strategy and strengthen our ability to engage with customers in all stages of their journey to the cloud as a business model for agility and innovation.
+The OneCloud acquisition allowed us to quickly differentiate ourselves with our customers and strategic partners, providing technical expertise to guide customers through the adoption of hybrid cloud solutions through automation, analytics and customized software integration.
+In addition, our recent acquisition of IDS further expands our cloud capabilities and solution offerings, including Backup as a Service and Disaster Recovery as a Service.
+We expect continued investments in our cloud practice to address our customers' productivity, security and cost challenges, empowering them to reduce IT cost and complexity, manage the explosion of data, protect that data and gain better value from their IT investments.
+Despite increases in revenue and EPS, there are areas for improvement that we identified in the quarter.
+Our revenue performance reflected some softness in the SLED market.
+Also affecting results this quarter on the cost side were the acquisitions we made earlier this fiscal year.
+While we absorb the full expense burden of these transactions upon closing, it takes time for us to see the full revenue benefit from their integration onto the ePlus platform.
+Further, it can take up to a year before we get the full benefit of the upsell and cross-sell opportunities, along with the overall optimization of cost structures.
+So far this year, we have increased our investment in headcount significantly over the past year via organic and acquisition-related additions.
+Our headcount was up 10.3% year-over-year.
+We added 120 employees, but importantly, the bulk of the new additions are client-facing, supporting our cross-selling capabilities and enhancing our account coverage.
+Our growth strategy has been balanced between making investments in organic initiatives and acquisitions to drive future revenue and margin expansion and, at the same time, generate operating leverage.
+We will continue to rationalize our cost structures, and we expect a return to more normalized operating leverage.
+It is also important to note that some of our headcount additions in the third quarter were made to support our managed services and enhanced maintenance services programs, and these actions led to our best recurring revenue annuity services quarter-to-date.
+We just announced the launch of our new enhanced maintenance support customer portal, which provides our customer a consolidated view of all assets under maintenance management.
+This portal, along with our EMS programs, have enabled our customers to outsource support to us, and we'll continue to make enhancements to the platform to offer greater functionality and a broader array of managed technologies for our customers.
+Our enhanced maintenance service offerings deepen our relationships with our customers and provide us with longer-term visibility as they extend over multiple years and are recognized ratably.
+We are also pleased to report that as part of our overall expansion plans, we have become Cisco Gold Certified in the U.K. This enhances our ability to support and service our customers in this region and our global customers as well.
+As a high rate taxpayer, we are pleased about the significant benefits we gain from tax reform, including a lower tax rate.
+We see a dual benefit: additional cash flow for us and additional funds for customers to invest in our product and service offerings.
+Our financial wherewithal and the increased savings from the reduced tax rate allow for the continued focus on M&A to add technical and service offerings, extend our -- and extend our geographic coverage.
+At the same time, we will continue to invest in our organic growth and our infrastructure to increase our efficiency in supporting and selling to customers.
+Share repurchases remain a consideration as well.
+In summary, we believe we will continue to outpace overall industry market growth based on our expansion in our key focus areas of cloud, security and digital infrastructure.
+We will continue to aggressively manage and optimize expenses with a view towards increasing productivity and enhancing operating leverage.
+I will now turn over the call to <UNK> to review our financial results.
+<UNK>.
+Thank you, <UNK>, and thank you, everyone, for joining our call.
+Our top line adjusted gross billings and gross profit showed positive year-over-year comparisons in the third quarter of fiscal 2018 and year-to-date.
+In light of the recently enacted reduction in U.S. federal tax, we recognized a onetime tax benefit of $5.7 million from the provisional adjustment of our deferred tax balance for the new corporate tax rate as well as the adjustment of our tax provision from the beginning of our fiscal year to the new blended rate.
+These adjustments had a positive impact on our net earnings that I'll discuss in more detail in a moment.
+In the third quarter of fiscal 2018, our consolidated net sales of $342.6 million increased 4.9% from last year's third quarter.
+Our gross profit increased 3.9% to $76.7 million.
+The consolidated gross margin decreased by 20 basis points year-over-year to 22.4%.
+This resulted from several factors, including our land and expand strategy, which led to lower-margin on some large competitively bid projects, partially offset by increases in higher-margin sales of services and a higher proportion of sales of third-party software assurance, maintenance and services, which we record on a net basis.
+Our operating expenses increased 14.9% to $60.3 million, reflecting higher salaries and benefits due to personnel additions.
+The increase in salaries and benefits was also attributable to higher variable compensation as a result of higher gross profit.
+Our total headcount grew by 10.3% to 1,284 from 1,164 a year ago as we added 120 total positions, the majority of which are from the acquisition of IDS in September and OneCloud in May of 2017.
+General and administrative expenses increased 28.3% due to higher expenses for travel, advertising and marketing as well as the incremental expenses from recent acquisitions, including adjustments to the fair value of contingent consideration, which added approximately $720,000 to G&A.
+Also worth noting, amortization expenses relating to the acquisitions increased approximately $1 million year-to-year.
+As a result of higher operating expenses, our operating income of $16.4 million decreased 23.1% year-over-year, adjusted EBITDA declined 16.9% to $19.3 million and our adjusted EBITDA margin was 5.6%.
+Net earnings increased 23.5% to $15.6 million.
+Diluted earnings per share for the quarter were $1.11, up 22% from $0.91 in the comparable quarter of fiscal 2017.
+The onetime tax benefit of $5.7 million that I mentioned earlier added $0.41 to earnings per diluted share as a result of the change in the U.S. federal tax rate in late December and the related adjustment in our deferred taxes, plus an adjustment for the first half of the fiscal year.
+Non-GAAP diluted earnings per share decreased 13.4% to $0.97 for the third quarter of fiscal 2018.
+Non-GAAP diluted earnings per share is based on net earnings calculated in accordance with GAAP, adjusted to exclude other income and acquisition-related amortization expense net of taxes, the tax benefit recognized due to the vesting of share-based compensation and the provisional tax benefit associated with the remeasurement of our deferred tax assets and liabilities at the new tax rate.
+Our diluted shares outstanding totaled 14 million for the quarter compared with 14.2 million at the end of fiscal 2017 when we completed a 2-for-1 stock split.
+During the quarter, we purchased 125,605 shares of our outstanding common stock at an average cost of $77.88 per share, for a total purchase price of $9.8 million under the share repurchase plan.
+I'd now like to discuss the quarterly results from our technology segment.
+Net sales grew 4.5% to $332.6 million and accounted for approximately 97% of consolidated net sales.
+Adjusted gross billings of products and services grew 7.3% to $464.1 million.
+This improvement derived from demand for our products and services from our health care customers as well as the revenue contribution from: CCI, acquired in December 2016; OneCloud, acquired in May 2017; and IDS, acquired in September 2017.
+This quarter, the adjustment from adjusted gross billings to net sales of products and services was 28.7% as compared to the prior year of 26.6%, reflecting a higher proportion of sales of third-party maintenance contracts.
+As a reminder, adjusted gross billings include the gross sales price for transactions that we present within net sales.
+However, only the gross profit of the sales of applicable third-party software assurance, maintenance and services is included in net sales.
+On a trailing 12-month basis, the technology and SLED markets were our largest, accounting for 25% and 17% of technology net sales, respectively.
+Next was financial services, which accounted for approximately 16% of net sales, followed by telecom, media and entertainment at 14% and health care at 13%.
+The remaining 15% was from several other customer types.
+We continue to have a diversified customer base by industry, size and geography.
+Our gross margin on sales of products and services decreased by 60 basis points to 20.1% compared to 20.7% in the third quarter of fiscal 2017.
+The decline is for the same reasons I mentioned on our consolidated margin decline, land and expand and some large competitively bid price sales that weighed on margin, offset somewhat by increases in sales of services and a higher proportion of sales of third-party software assurance, maintenance and services.
+Operating expenses in the technology segment increased 14.2% to $56.7 million compared to $49.7 million last year, which related to an increase of $4.3 million in salaries and benefits as we hired 123 professionals, adding 11.1% year-over-year.
+Importantly, the bulk of the new personnel are client-facing.
+The increase in salaries and benefits was also attributable to higher variable compensation as a result of our higher gross profit.
+General and administrative expenses increased $1.5 million, of which $720,000 relates to an adjustment to contingent consideration associated with prior acquisitions.
+The remaining increase of $800,000 related to higher travel expenses as well as incremental G&A associated with the recent acquisitions.
+Our operating income in the technology segment decreased 32.4% to $11.4 million.
+Adjusted EBITDA was down 23.9% year-over-year, totaling $14.3 million.
+The decline was largely attributed to higher operating expenses with the increased headcount a large component of the additional cost.
+Moving to our financing segment.
+Net sales were $9.9 million, up $1.6 million or 19%.
+This top line growth was mainly attributable to higher post contract earnings of $1.4 million due to the sale of equipment related to several terminated leases.
+As a reminder, post-contract earnings can vary significantly quarter by quarter.
+Direct lease cost increased $300,000 or 22.1% over the previous year due to higher depreciation expense from operating leases.
+Financing gross profit increased 18.5% to $8.5 million.
+Operating expenses increased by $800,000 or 27.9% due to an increase in variable compensation as a result of the higher gross profit as well as the changes in the reserve for credit losses.
+Operating income and adjusted EBITDA amounted to $5 million, up 12.6% from the year-ago quarter.
+I will now turn to our consolidated year-to-date results.
+Net sales for the first 9 months of fiscal 2018 increased 8.4%, totaling $1.08 billion.
+This strong top line growth was driven by robust performance in our technology segment, where net sales increased 7.9% to $1.05 billion.
+Adjusted gross billings of products and services increased by 10% to $1.45 billion while consolidated gross profit increased 8.3% to $241.9 million.
+Our consolidated gross margin was stable at 22.4% when compared to the same period in fiscal 2017 while gross margin on products and services decreased by 30 basis points to 20.2%.
+Adjusted EBITDA was up 0.6% and amounted to $72.8 million.
+Net earnings grew 15.4% to $46.2 million.
+Our first 9 months of fiscal 2018 earnings per diluted share increased 15.4% to $3.30.
+Our non-GAAP diluted earnings per share increased 0.6% to $3.14.
+Turning now to our balance sheet.
+We ended the quarter and first 9 months of fiscal 2018 with cash and cash equivalents of $76.1 million compared to $109.8 million as of March 31, 2017.
+The decrease was primarily due to cash used to acquire OneCloud Consulting and IDS.
+Our inventory and deferred revenue decreased from March 31, primarily due to the shipment of large projects within the first 9 months of the fiscal year.
+Our cash conversion cycle for the quarter was 24 days, up slightly from 23 days for the second quarter of fiscal 2018 and down from 27 days a year ago.
+In light of the recent tax law, our U.S. federal tax rate reduced from 35% to 21% effective January 1, 2018, which brings our blended U.S. federal tax rate for fiscal 2018 to approximately 31.5% and our total estimated effective tax rate for fiscal 2018 to 37%.
+For fiscal 2019, when we will receive the benefit for the full year, we estimate that our effective tax rate will be approximately 29%.
+Given this change and our strong cash position, we will maintain our capital allocation strategy to invest in acquisitions, share repurchases and continue to invest in internal projects to increase our operating leverage and support our growth.
+I'll now turn the call back over to <UNK> for closing remarks.
+Thank you, everyone.
+<UNK>.
+Thanks, <UNK>.
+To sum up, fiscal 2018 is shaping up to be another year of solid progress for ePlus.
+We have an expanded roster of enterprise and middle-market clients, well balanced by industry and geography.
+We are recognized provider of leading-edge solutions in the fastest-growing sectors of IT, and we are progressively developing a portfolio of services capabilities that differentiates ePlus in the marketplace.
+Importantly, we have made the investments in people and technology to take us to the next level and deliver superior results for our customers.
+Operator, I would now like to open the call for questions.
+<UNK>, it's <UNK> here.
+So as it relates to the SG&A, our headcount was up 10.3% year-over-year, which was approximately -- or no, exactly 120 employees.
+I would say 90% of those are customer-facing.
+So as part of our long-term strategy of building out our solutions in cloud, security, digital infrastructure and services, we're adding headcount in those spaces to be able to go out and touch more accounts with our customers.
+Over the long-term, I think we'll start to see operating leverage from those investments, some being from the M&A side and some being from the organic side.
+Well, a couple different things.
+One, I think it's a little early on the tax break to tie it to different verticals.
+So what I can tell you, one, we're excited as a company.
+With our net earnings being up 23.5%, it allows us to do certain things, whether it be M&A, organic hires, look to invest in some of our infrastructure to build out some of our efficiencies as we address folks internally as well as externally and then potentially continue forward with our stock buyback.
+As it relates to the market, there's a couple different things, one being too early to tell.
+But there are some indicators as it relates to some of the job increases out there in the market that I think are good indicators for potential spend as it as the market moves forward.
+I think the other things that you look at, some of the customers that I've visited with over the last month or so have talked about going from cost-cutting to making money for the business in different areas, whether it be in the digitization space or a couple different areas.
+So I think it's a little early to tell as it relates to the tax breaks, but we're optimistic on what it holds.
+Well, here's a couple of different things, <UNK>.
+We don't break that out.
+But what I can tell is you we had our strongest annuity services quarter to date.
+So from that end, we've talked about it on prior calls that part of our strategy going forward was building up both our consultative services as well as our annuity services, and I talked a little bit about our EMS portal and EMS offerings that we built for our customers.
+So we're starting to see more and more customers looking to offload certain tasks so they can focus on their core business, and we built up those capabilities, which have built up our annuity revenues.
+So from a long-term visibility and profitability, I think that's good news for us.
+But we don't break out the product and services piece.
+All right.
+Thanks, Jonathan.
+Everyone, I'd just like to thank you for taking the time to join us today.
+We believe that we had a solid quarter, both in terms of revenue.
+We've continued to keep our margins stable.
+We've invested in our business and would hope to see operating leverage over time.
+With that, have a nice day, and we'll speak to you soon.
+Thank you, ladies and gentlemen, for your participation in today's conference.
+This does conclude the program.
+You may now disconnect.
+Good day.

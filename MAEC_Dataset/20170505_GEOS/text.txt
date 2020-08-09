@@ -1,0 +1,193 @@
+Good morning, and welcome to Geospace Technologies' conference call for the second quarter of fiscal year 2017, and thanks for listening.
+I'm Rick <UNK>, the company's President and Chief Executive Officer, and I'm here with Tom <UNK>, the company's Vice President and Chief Financial Officer.
+I'll start the call with a prepared overview of the quarter, then Tom will follow that with an in-depth review and commentary of our financial performance.
+I'll then close out the prepared portion of the call with some final remarks, and we'll open the line for questions.
+As mentioned, for convenience, we will place a replay of this conference call in the Investor Relations section of our website at www.geospace.com.
+As a standard caution, the information we discuss this morning is time-sensitive and might not be accurate on the date one listens to the replay.
+Also, many statements made today can be considered forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995.
+This includes comments about the market for our products, revenue recognition, planned operations and capital expenditures.
+Such statements are based on our present knowledge and perception, while actual outcomes are influenced by uncertainties and other factors that we are unable to control or predict.
+Related risks, both known and unknown, can lead to undesirable results or cause our performance to materially differ from what we may express or imply.
+These risks and uncertainties include those discussed in our SEC Form 10-K and Form 10-Q filings.
+After the market closed yesterday, the company released its financial results for the second quarter of fiscal year 2017, which ended March 31, 2017.
+As indicated, our revenue in the second quarter reflected a sequential improvement of 35% over the first quarter.
+And from an expanded perspective, the 3-month and 6-month periods ended March 31 observed revenue increases of 38% and 28%, respectively, when compared to the same periods last year.
+In both of these periods, the increases resulted from higher demand for our wireless seismic products, reflecting revenue in particular from rental contracts for our OBX marine systems.
+These comparative improvements are certainly well received, and while they may offer cautious optimism for an improving seismic industry, we don't believe they constitute a pervasive trend.
+Our seismic revenue has long been known to exhibit volatility when comparing one specific period to another.
+And in our opinion, there is significant recovery left to be accomplished before the seismic equipment market returns to stability.
+In the meantime, our revenue will continue to fluctuate and our operations and profits will continue to be burdened with unabsorbed factory overhead, rental fleet depreciation and inventory obsolescence expenses.
+In our efforts to adapt to these industry conditions, we are pleased to have reduced our operating expenses for the 3-month and 6-month periods ending March 31, 2017, by almost 10% and 7%, respectively, compared to last year.
+The lower operating expenses for both periods largely resulted from the cost-reduction efforts we implemented in last year's second fiscal quarter.
+Our traditional seismic products generated $3.6 million of revenue in the second quarter, an increase of $0.4 million over last year's second quarter.
+This increase is primarily attributable to specific sales occurring within the period of certain specialized sensors.
+Such sales demonstrate the lumps that often occur in the demand for some of our products, which can be particularly noticeable in depressed market conditions.
+In contrast to the quarter, the first 6 months of fiscal year 2017 saw a decrease in traditional product revenue of $2 million compared to last year, producing only $6.2 million.
+The reduction from previous 6-month period definitively highlights the lower overall demand experienced for these products in light of curtailed seismic exploration by oil and gas companies.
+Revenue from our wireless seismic products totaled $9.6 million in the 3 months ended March 31, 2017, more than double the amount for the same 3 months of 2016.
+Likewise, revenue from these products over the 6 months ended March 31, rose to $15.9 million from last year's reported amount of $6.6 million for the equivalent 6 months.
+The higher revenue in both periods was predominantly driven by increased rental activity for our OBX marine nodal systems.
+Both periods saw the benefit of a longer-term rental contract, utilizing a large number of our shallow water OBX units as well as several shorter-term contracts for deep and shallow water stations.
+These contracts came to an end in our second quarter, and with no similar contracts subsequently scheduled, we expect considerably lower rental revenue from these products going forward.
+Our reservoir seismic product revenue increased to $0.7 million in the second fiscal quarter compared to last year's second quarter.
+However, revenue for this segment declined by almost 5% in the first 6 months of the fiscal year compared to the same 6-month period 1 year ago.
+Revenue contributions in this segment for the most recent 3- and 6-month periods were essentially a combination of sales, rentals and repairs of our borehole seismic products, in conjunction with support services we performed for our permanent reservoir monitoring, or PRM, system customers.
+We do not expect the relatively low level of revenue in this product category to change anytime soon.
+Only if we were awarded a contract for the manufacture and delivery of a PRM system, would we expect to see a substantial increase in revenue for this segment.
+However, with that being said, there are no such awards or commercial tenders pending at the present time, and none are anticipated in the fiscal year remaining.
+Revenue from our non-seismic products was $6.5 million for the 3 months ended March 31, 2017, an increase of $0.2 million over the same 3 months last year.
+The increase was driven by higher sales of our imaging products, although offset by a slight reduction in sales of our industrial products.
+For the full 6 months ended March 31, revenue in this segment increased $0.5 million over last year to reach $12.2 million.
+An improvement in sales of both our imaging and industrial products contributed to the increase over the prior 6-month period.
+We note that sales for any particular portion of this segment can regularly vary from one period to another.
+And based on recent order flow for our industrial products, we expect revenue in this segment to remain relatively flat for the remainder of the year.
+However, we still foresee the opportunity for long-term growth and demand for these products.
+I will now turn the call over to Tom <UNK>, our CFO, who will provide additional detailed commentary and insight on the company's second quarter financial performance.
+Thanks, Rick.
+And good morning, everyone.
+Before I begin, I'd like to remind everyone that we will not provide any specific revenue or earnings guidance during this call.
+In yesterday's press release for our second quarter ended March 31, 2017, we reported revenue of $21 million compared to last year's revenue of $15 million.
+Our net loss for the quarter was $11.5 million or $0.88 per diluted share compared to last year's net loss of $11 million or $0.84 per diluted share.
+For the 6 months ended March 31, 2017, we reported revenue of $36 million compared to revenue of $28 million last year.
+Our net loss for the 6-month period was $23 million or a loss of $1.77 per diluted share compared to last year's net loss of $22 million or a loss of $1.69 per diluted share.
+For each of the current year periods, we were unable to recognize any income tax benefits related to our pretax loss, which affects the comparability of the fiscal year 2017 results with those of fiscal year 2016.
+A breakdown of our seismic product revenue is as follows: our traditional product revenue for the second quarter was $3.6 million, an increase of 13% compared to revenue of $3.2 million last year.
+The increase reflects the resumption of demand for certain specialty sensor products in our second quarter.
+Revenue for the 6 months was $6.2 million, a decrease of 24% compared to revenue of $8.2 million last year.
+The revenue decline reflects lower demand for a broader range of our sensor products due to lower seismic crew activities.
+Our GSX and OBX wireless product revenue for the quarter was $9.6 million, an increase of 104% compared to revenue of $4.7 million last year.
+Revenue for the 6 months was $15.9 million, an increase of 141% compared to 9 -- I'm sorry, $6.6 million last year.
+The increase in both periods primarily resulted from a large OBX rental contract, which began in February of last year, along with another shorter-term OBX rental contract, both of which concluded during the second quarter.
+Although delivery of more OBX rental equipment is expected later in our third quarter, we expect lower levels of OBX rental income in future quarters.
+Reservoir product revenue for the second quarter was $700,000, an increase of 21% compared to revenue of $600,000 last year.
+The revenue increase was primarily due to an increase in reservoir monitoring service revenue earned in the current quarter.
+Revenue for the 6 months was $1.2 million, a decrease of 5% compared to $1.3 million last year.
+The revenue decline primarily resulted from lower borehole product rentals.
+We believe our seismic reservoir product segment will continue to contribute insignificant levels of revenue until we are engaged in a contract to deliver a PRM system.
+Moving on to our non-seismic products.
+A breakdown of revenue is as follows: our industrial product revenue for the second quarter was $3.3 million, a decrease of 2% compared to revenue of $3.4 million last year.
+We do not believe this small decrease in quarterly revenue is indicative of any particular trend in our industrial product demand.
+Our industrial product revenue for the 6 months was $6.4 million, an increase of 5% compared to $6.1 million last year.
+This increase was primarily attributable to higher demand for our contract manufacturing services.
+Image product -- imaging product revenue for the second quarter was $3.2 million, an increase of 9% compared to revenue of $2.9 million last year.
+Revenue for the 6 months was $5.8 million, an increase of 4% compared to $5.6 million last year.
+These increases reflect higher demand for our printhead and other -- and our film products as well.
+Our consolidated gross profit margins in our seismic business segment continue to be under significant pressure due to several factors, including unabsorbed fixed manufacturing cost due to low factory utilization, inventory obsolescence expenses and depreciation on underutilized rental equipment.
+Until we see significantly improving seismic product demand, we expect our seismic product gross profit margins to be challenged throughout fiscal year 2017 and beyond.
+Our second quarter and year-to-date operating expenses declined 10% and 7%, respectively, from last year.
+These declines reflect savings we realized from our cost-reduction program implemented back in the second quarter of fiscal year 2016.
+Cash investments into our property, plant and equipment and rental equipment now stand at $500,000 through the second quarter.
+Our total fiscal year 2017 cash investments in capital equipment could be as high as $3.5 million with very limited amounts allocated towards new seismic rental equipment, unless precipitated by increased customer demand for our OBX equipment.
+In the event OBX rental orders require us to add new OBX units to our rental fleet, we would expect a majority of any rental equipment additions to be of a noncash nature, since these additions would likely be derived from our existing inventory stocks.
+At March 31, 2017, our balance sheet reflected $48 million of cash and short-term investments.
+We had no long-term debt outstanding and borrowing availability under our credit agreement was almost $30 million, resulting in $78 million of total liquidity.
+While cash flows are expected to be lumpy throughout fiscal year 2017 and revenue visibility remains limited, we believe our total cash flows for fiscal year 2017 will be positive, primarily due to the receipt of $13 million of income tax refunds, most of which was received in our second quarter.
+We remain committed to cash preservation, while we endure this market downturn.
+That concludes my prepared remarks.
+And I'll turn the call back over to Rick.
+Thanks, Tom.
+The first half of fiscal year 2017 has now come to an end.
+And it is very evident that market demand for our seismic products still remains at historic lows.
+This is a direct consequence of vastly reduced seismic exploration by oil and gas companies.
+While the price of oil seems stabilized around its trailing 6-month average of $50 per barrel or so, capital allocations have yet to be earmarked for exploration in any meaningful way.
+As reported by the International Energy Agency just last week, conventional oil discoveries in 2016 totaled only 2.4 billion barrels globally.
+This is roughly 1/4 of what's been averaged over the last 15 years.
+Compounding this, the amount of resources sanctioned for development reached its lowest point in over 70 years and exploration spending in 2017 is expected to again fall for the third year in a row.
+We expect these conditions to pose a continued challenge to our future financial performance.
+Despite these circumstances, seismic imaging is the defining fundamental science necessary to find and optimally exploit oil and gas reserves.
+To this end, we believe our seismic products represent the most technically advanced and cost-effective tools available to the industry for acquiring such images.
+We are resolved to maintain this advantage and leadership through our ongoing cost management and disciplined engineering.
+As of March 31, 2017, our balance sheet reflected no debt, as Tom mentioned, and $78 million of total liquidity consisting of $19 million of cash and cash equivalents, $29 million in short-term investments and an untapped credit limit of $30 million.
+This puts us in a good position to benefit from the eventual recovery of the seismic market.
+Now this concludes our prepared remarks.
+And I'll turn the call back over to Robbie, the moderator, for questions.
+I actually have a group of questions.
+But first of all, if I understood your comments in the December quarter 10-Q correctly, you expected that there would be lower rental income in the March quarter.
+And it appears as though you had higher rental income in the March quarter than the December quarter.
+And I'd be curious, what changed that led to that better-than-anticipated result.
+Bill, that was primarily due to a contract extension from one of our customers where the contract went longer than we originally anticipated.
+And, Tom, was that the longer -- or pardon me, was that the larger long-term OBX contract.
+It was.
+And did that extension take place because your customer found additional work.
+Or was the scope of a particular project just increased.
+It was additional work.
+And that customer, they finished their rental, they no longer have work on the docket, is that correct.
+Yes, that customer has concluded that contract, and so it's done.
+Let me shift, if I may, to GSX.
+What are you all hearing about prospective rentals or customers expressing an interest in renting the equipment, whether that be on a short- or long-term basis.
+Well, there is some demand for that.
+But as you might well expect and as we've mentioned before, there is already a considerable amount of equipment available in the contractors' hands.
+Their crews are reduced.
+So as a general rule, they have as much equipment as they might need.
+Interestingly enough, Bill, we had a situation this rental season in Canada where we ran out of a certain type of GSX equipment in our rental fleet, and we had to move some inventory into our rental fleet in order to fulfill the demand.
+So it's still in demand.
+It's still being used.
+But as Rick says, there is an ample amount of supply in the current pipeline with our customers.
+Fascinating.
+And what type of equipment was it, that you ran out of and had to add some.
+It was GSX 3 channel stations.
+Well, I guess, congratulations.
+That's better than not running out, right.
+Sure.
+So let me shift to the one area that there does seem to be a fair amount of drilling activity, and that's in the Permian.
+What's happening with crew counts over there and the general need or desire or interest in additional seismic work.
+And what I'm really trying to gauge is, with all that activity, are they just drilling prospects that they've already known about.
+Or is there some interest in doing some additional seismic work.
+Well, we're not the best people to be asking that question of.
+You really should be asking that of the contractors.
+We know that their crew counts are reduced.
+We hear that there are seismic programs that are being desired to be performed in these same areas to get better understanding of where drilling should occur.
+But I'm sure there is some ongoing drilling of -- that is based on previous seismic data as well.
+But again, we're not in the best position to give you the answer to that.
+Yes.
+Well, I mean there is a portion of it that we expect based on our current visibility to maybe remain somewhat flat.
+What we're aware of is that these seasonal aspects sort of shift from time to time with respect to the contracts for particularly some of these industrial water meter cables and things of that nature that we have.
+And so it's really an issue that we expect growth in general.
+But for the period that we can foresee, it looks like it's likely going to be flat.
+Yes, and some of the demand last year, we understand, was driven by customers that needed to fill their shelves with this new product.
+And they ordered a lot of stock, more than what they just needed at that time.
+So their shelves are full of stock, or it's probably coming down a little bit.
+And they're now getting into more of a reorder cycle.
+So last year, we filled the shelves.
+And this year, it's just ongoing demand.
+It's a broad set of customers.
+The municipalities are certainly part of that customer base, but so are the instrument makers that provide actual hardware to those entities.
+You should expect it to fluctuate quarter to quarter.
+It's based on activity within all of our product lines.
+And as product lines move and we have activity, we need less obsolescence.
+And those that continue to sit idle, we need more.
+So it's very difficult for us to predict.
+So you should expect it to be a little bit more volatile.
+So would you please pontificate for a moment about where we're at in this cycle relative to the last meaningful downturn.
+I just don't have a lot of perspective.
+And I guess, what I'm wondering is, the fits and starts that you're seeing now, is this normal, where, yes, there are some signs of green shoots, but they don't at all seem to be sustainable or the beginning of a trend, it's just individual data points.
+Is this normal.
+As much commentary and pontificating as you like would be appreciated.
+I don't know if there is a normal per se.
+I think the last downturn was a little bit more spiked and recovered more quickly.
+I think when things stay depressed for the length of time they are, you're going to see the sort of sputtering effects that occur as [little lumps] of commerce take place.
+As far as the sustainability of green shoots or improvements, that's just something that you can't really predict at this point, because there is a lot of debate over the supply and demand balance.
+That's going to drive things in terms of what the long-term will hold.
+It's certainly the case that if exploration is necessary to find more oil and gas reserves, you're going to need to have seismic equipment to go do that.
+Right now, as -- if you look at these reports, the amount of resources being put towards that end are at historic lows.
+So is that sustainable.
+I don't really think so.
+But it's hard to predict how things might change.
+This question, I think, is in the same vein, as Bill's question.
+Only more speculative because it involves government.
+We are hearing from the Trump administration that it intends to open up offshore exploration in a number of areas, and also that it intends to revisit prior presidential decisions designating certain areas as monuments and possibly permitting business activity in some of those areas for the first time.
+And it also appears that a lot of this can be done by presidential edict rather than having to go through Congress.
+To what extent might this involve activities which had been off-limits before and might not have been explored much or might not have been explored with usable technology or data.
+Well, actually, <UNK>, that's an excellent question, but I really don't know.
+It depends on where these areas are.
+If they have not been explored, then you'll absolutely need some fresh seismic data to get any kind of idea about what geology you're going to deal with and what sort of resources might be available there.
+In the offshore side, that would be certainly a boon for the marine side of things, which has been pretty much decimated across the industry.
+It would help there.
+And then, it sounds like some of these sort of national monument areas might represent some land areas that similarly might benefit if they haven't been explored before.
+But it's hard to tell until those are actually nominated in terms of their... (technical difficulty)
+Well, I'll let you know what he tweets me.
+All right.
+Well, thanks, Robbie.
+And we thank everyone that joined our call today.
+And we look forward to speaking with you during our third quarter conference call, sometime in August.
+So thanks, and goodbye.

@@ -1,0 +1,89 @@
+<UNK>, <UNK>'s going to take that on because it's gross margin related, but you're not coming in very well.
+So if there's any way you can maybe -- if you can ask a follow-on you could change phones or something.
+So I think there's two parts to the question, <UNK>.
+I think you were asking about the mix of Purion Ms going forward, and then secondly how that impacts gross margin.
+So in terms of the first part of the question, the Purion M is beginning to ramp, as <UNK> described.
+We've begun to see an uptick.
+This was driven by a couple of factors.
+One, in our more mature technology segment, while we're seeing a lot of interest from image sensors due to the hybrid filtering system that gives us lower metals contamination, we're also seeing interest in several applications that require the higher energy levels that the Purion M is capable of.
+And then, third, we're seeing a lot of interest in the silicon carbide variant of the tool for power devices.
+And so that is all beginning to go now.
+And then, as <UNK> just described, we've got another Purion M in a more standard application in a DRAM fab for evaluation.
+So there's been quite a bit of activity on the M.
+So I would say going forward we would hope we continue to see activity with that.
+It really balances out the product line to give us the ability to have all three of the products in any of these customers.
+Image sensors have a high demand for high energy.
+And medium current, the power devices, could have opportunity for medium current as well as high energy.
+And then obviously in the DRAM and memory segments there's a need for all three.
+So we see it as a part of the, what we have said in the past have referred to as the power of Purion.
+Once the customer gets the platform in, then they're able to migrate to the additional product lines within that.
+And then additionally, with the extensions that we're making to each of the product families, it gives them more opportunity and us more opportunity to target some of those segments.
+And now <UNK> will answer (multiple speakers) --
+Can now, yes.
+Let me --
+No, there's not a lot booked right now for the fourth quarter.
+No.
+Again, a lot of this is book and ship.
+Yes, on the material foundry logic image sensors, power devices, RF devices, all of those are actually pretty hot right now.
+And so we see quite a bit of opportunity, from IDMs that are producing them, companies that are running a fab-lite operation, and then the foundries that are supporting them.
+So there's quite a bit of opportunity across that whole market.
+And it's opportunity for all three of our product.
+And as you can see from the product extensions, <UNK>, we've targeted, some of those markets specifically would -- the silicon carbide for power and the VXE and EXE are targeted very much at the image sensor market.
+So I'm going to start by saying I think we've done a really good job this year expanding our customer base, which obviously leads and positions us to grow our market share.
+We have new customers who have just outright bought new Purion products.
+We've placed several new evals in the field.
+We've sold more Purion at existing customers.
+For example, we've just expanded the number of types of Purion tools that the customer (inaudible).
+So some customers who may have started out with the Purion XE are now also buying the Purion M and the Purion H.
+We've increased the number of recipes that have been qualified on tools that are actually already in production at some of these sites.
+And then we've gotten follow-on capacity buys for production, again, at some other customers.
+So I think in that regard we've done a really good job in terms of what we call setting the table for the market share increase in 2016, the 20% to 25% and then also getting up to 40%-plus in the 2017/2018 timeframe.
+So at this point, again, we still expect revenues in the second half of the year to be stronger than the first half of the year.
+We are not coming off the forecast that we believe that our market share will be between 20% and 25% this year.
+And then moving forward continuing to increase, given the increase in memory spend and the IoT spending in 2017 and 2018 that will get us up to the 40%-plus.
+Yes, so we definitely see with the memory builds that we've described and talked about 2017 and 2018 definitely moving back up into the $900 millions to close to $1 billion.
+The exact timing towards the end of the year and into the first of the year is still a little bit far away for us to figure out how much comes into this year and how much doesn't.
+And so we're still staying with the $825 million to $875 million, Greg, for our estimates.
+But we do see it moving up as those projects kick off.
+Well, I guess I'll put that in the context of we said our second-half revenues would be higher than our first-half revenues.
+And we're still talking about the 20% to 25% target for market share.
+So, Dave, you can do the math.
+Well, there's two tool sales that were driving that.
+I don't want to get into the specifics of it.
+But that will come back down in the current quarter, Q3 quarter.
+So there's just a couple of tool sales that got put in there.
+So that was -- I think it was up about $6 million.
+Is that what you said.
+Yes.
+It was two deals.
+At this point we would expect one to close in the third calendar quarter.
+And we're monitoring the others.
+It's possible one or more of those will close in 2016.
+And then we're also taking a look at potentially some new evaluation units.
+And that's something that we would put out in a press release.
+Yes.
+So in Japan we've actually started up our own organization there and have started staffing with Axcelis employees.
+So it is an effort that's underway.
+We've talked about how that will take time to actually bear some fruit.
+But it is something that we are focused on.
+And we are continuing to work with the leading edge guys to place an evaluation unit.
+I think you know, and we've said it before, that it is certainly very challenging.
+We've seen the environment change at a couple of those customers over the course of the year, which has made it perhaps even more challenging.
+But it is still a goal of ours for this year.
+And we're continuing to work at it.
+So right now it is being driven by evals.
+So I know the -- going forward to Q4 how that's going to move will be dependent on what we have for evals.
+But it's not like it's a lot of headcount expense coming in.
+It's more associated with eval costs.
+Our eval budget is actually up this year, which isn't necessarily a bad thing, that it's up.
+So, <UNK>, as they move from 48 to 64, there's a lot of etch and dep equipment that's involved there, but there is not a lot of implant.
+Where the implant will come in is as they start to add wafer starts.
+Or there's opportunity potentially as customers get to those high-aspect ratios where there could be opportunity for some material modification implants.
+But that would be very dependent on the customer and the technology.
+That's correct.
+We would expect it would be uniformity of the Purion H spot being -- that that should give us an advantage.
+So I want to thank you all for your continued support.
+We will be presenting at the 7th Annual Credit Suisse Small Mid Cap conference on September 14th in New York.
+And we will also be hosting an investor event on October 4th in New York City.
+We hope to see you all while we are on the road during the upcoming months.
+Thank you.

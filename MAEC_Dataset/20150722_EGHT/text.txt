@@ -1,0 +1,208 @@
+Good day, ladies and gentlemen, and welcome to the 8x8 Incorporated first quarter 2016 earnings conference call.
+(Operator Instructions) As a reminder, this conference call is being recorded.
+I would now like to turn the conference over to <UNK> <UNK>, Director of Investor Relations.
+You may begin.
+Thank you, and welcome, everyone, to our call.
+Today, I'm joined by 8x8's Chief Executive Officer, <UNK> <UNK>; and our Chief Financial Officer, <UNK> <UNK> <UNK>, to discuss our results for 8x8's first fiscal quarter of 2016 ended June 30, 2015.
+If you have not yet seen today's financial results, the press release is available on the Investors tab of 8x8's website at www.8x8.com.
+Following our comments, there will be an opportunity for questions.
+Before I turn the call over to <UNK>, I would like to remind all participants that during this conference call any forward-looking statements are made pursuant to the Safe Harbor provision of the Private Securities Litigation Reform Act of 1995.
+Expressions of future goals, including financial guidance and similar expressions including, without limitations, expressions using the terminology may, will, believe, expect, plans, anticipates, predicts, forecasts, and expressions which reflect something other than historical fact are intended to identify forward-looking statements.
+These forward-looking statements involve a number of risks and uncertainties including factors discussed in the risk factors sections of our annual report on Form 10-K in our quarterly reports on Form 10-Q, and in our other SEC filings and Company releases.
+Our actual results may differ materially from any forward-looking statements due to such risks and uncertainties.
+The Company undertakes no obligation to revise or update any forward-looking statements in order to reflect events or circumstances that may arise after this conference call except as required by law.
+Thank you.
+And with that, I'll turn the call over to <UNK> <UNK>, Chief Executive Officer of 8x8.
+Thank you, <UNK>.
+As <UNK> noted, financial results for our first quarter of FY16 were strong with a 26% year-over-year increase in total revenue.
+Service revenue grew 29% year over year to $44.2 million.
+This included a one-time revenue gain from the accelerated payment on a VDI license agreement and one month of revenue from DXI, which as you know, we recently acquired.
+Excluding the aforementioned one-time revenue gain, 8x8 service revenue in the first quarter grew 25% year over year to $43 million.
+Additionally, our service revenue from mid-market customers increased 40% year over year, and now represents 45% of the Company's total service revenue compared with 43% in the previous quarter.
+As a result of the accelerated payment on the VDI license agreement, you should remove approximately $286,000 of quarterly service revenue beginning in the second fiscal quarter.
+GAAP gross margin was 73% compared with 71% in the same period a year ago.
+Service margin was 81%, an increase of 100 basis points from the year-ago quarter.
+Without the benefit of the accelerated payment, our non-GAAP net income was strong at $3.7 million, or $0.04 per share.
+This represents 8% of revenue compared to $3 million, or $0.03 per share, also representing 8% of revenue in the same period a year ago.
+Average revenue per customer, excluding the one-time revenue gain across our entire customer base, was $353.
+This is up $33 sequentially, and a 20% increase compared with the same period a year ago.
+Monthly business service revenue churn was 1% compared with 0.4% in the same period a year ago.
+Although this rate will fluctuate from quarter-to-quarter, a 1% average monthly gross revenue churn rate is the best rate to use in your models.
+As a reminder, 8x8 calculates gross churn, that is we do not include add-on MRR, or a monthly reoccurring revenue from existing customers, only cancellations.
+If we did include add-on monthly reoccurring revenue, our churn percentage would be negative.
+Cash, cash equivalents, and investments were $157 million at June 30, 2015.
+This compares with $177 million in the previous quarter.
+$23.4 million of cash was used in the quarter to acquire both DXI and Quality Software Corporation.
+Cash flow from operating activities was $4.7 million, and capital expenditures were $1.1 million in the quarter, or 2.2% of revenue.
+Sales and marketing expenses increased sequentially in the first quarter by approximately $2.3 million, primarily due to one month of expenses from DXI and our planned investments in channel enablement, enterprise sales team, and demand generation.
+Our GAAP G&A this quarter includes approximately $900,000 of acquisition-related cost.
+Our tax provision this quarter is $785,000.
+Our effective tax rate will be impacted this year by adding back our acquisition-related cost.
+Cash taxes this quarter are approximately $300,000 and we expect this rate to continue each quarter in FY16.
+As <UNK> mentioned, we continue to expect annual revenue for FY16 of $202 million to $206 million.
+This represents a 24% to 27% year-over-year increase, with non-GAAP net income as a percent of revenue of approximately 6%.
+For FY16, we are targeting overall gross margins at 73 % to 75%.
+At the operating level, we are forecasting R&D at approximately 10% of revenue, sales and marketing at 49% to 50% of revenue, and G&A at 8% to 9% of revenue.
+As you know, we are focused on sustainable, profitable growth, and we expect to continue to be profitable in FY16 on a non-GAAP basis.
+That concludes my prepared remarks and I will now turn the call over to <UNK>.
+Thank you, <UNK> <UNK>.
+As you can see, we are off to a great start this fiscal year, and I'm more excited than ever about the multiple market opportunities that exist worldwide for our differentiated unified communication and contact center solutions.
+With that, we'll be happy to take on any questions you may have for us today.
+Operator, please open the line for any questions.
+Hey, <UNK>, how are you doing.
+Yes, so the part, <UNK>, I don't know if you picked up on this, but new monthly recurring revenue sold in the first quarter of 2016 to mid-market customers and by our channel sales team increased 38% year over year.
+The interesting thing, and I think I mentioned that in my prepared remarks, we've been making a migration from SMB to mid-market, and we're starting to see very good traction, as you know, in the mid-market.
+The interesting thing is we are starting to see enterprise customers and they are happening faster than I thought.
+An enterprise customer, we are classifying as somebody with greater than 2,500 seats or more, and we are starting to see more and more of those.
+And the thing that is interesting is, they are not coming in and saying we just want a division, they are typically coming in and saying we are looking at moving to the cloud.
+More often than not, they will do some kind of proof of concept or something like that.
+So the sales cycle is typically the same six months, I think that we had previously alluded to.
+That is the amount of time it takes and that includes a proof of concept.
+But once they do a proof of concept, which tends to be 1 location, or 5 locations or 10 locations, often global locations, they tend to go -- all right, we're going to do deployment across the entire corporation.
+As you know, that is not been the case with the cloud before.
+What's typically happened is you will have large corporations say, well, we had this one branch office that nobody really cares about, we'll go cloud there but everything else is on-premise.
+We are now noticing that these larger corporations are not just taking cloud as, yes, whatever, we will just do it as an aside.
+They're taking it as strategic and core.
+They are moving, as you would guess, very cautiously, they put you through the ringer.
+They want to test out your technology.
+The want to test out your deployment methodology, they want to test out your call quality, they want to test out your reliability, et cetera, et cetera, and they have an army of people that do some of this testing.
+But when they do move, it is the entire corporation, not just one part of it.
+I think you are seeing it, if you think about it.
+Every quarter, mid-market/enterprise is representing a larger and larger portion of our revenue.
+If you think about it, last quarter we were 43%, now we are at 45%.
+Steadily, it is moving in the right direction.
+I never like to predict massive acceleration.
+But I'm very pleased with the trajectory, where more and more we are starting to see not just mid-market -- mid-market is pretty much saying we are going cloud more often than not.
+When enterprise is also starting to say we are going cloud, like it's very interesting, and I think that's what we built the Company to do, and I think we're probably first in line because we put the time and energy and, bluntly, the heartache and pain and suffering to really understand how to deploy these large, global customers.
+And, as I said, I don't want to declare victory because it is always a journey, but it's starting to feel better and better.
+<UNK> <UNK>.
+Let me speak about that.
+Certainly, if you take out the one-time accelerated SoftBank, we were at 8% versus 10%.
+So you see that we have already started to invest in some of the areas that we had said that we would invest in.
+What's key for us this year is to invest in enabling our channel, that's a big priority for us.
+Ramping up our enterprise sales team, because as we had said, we are seeing the increase in the pipeline.
+And then on demand [gen] as well, we want to make sure that we are achieving our goals by creating more leads and more opportunities.
+So we are investing and we would expect that investment to continue, we're just at the early stages of that investment.
+Also when you add in DXI, our acquisition, we will have a full quarter in our second fiscal quarter.
+They are not profitable yet.
+We expect them to be close to break-even for the year, but there is some ramping that's going to happen before that happens.
+In this particular fiscal quarter, there's some losses that we will incur with DXI.
+So we are sticking to our 6%.
+We believe that there's an opportunity out there for us.
+We didn't invest last year like we said we would because we didn't see that opportunity.
+But this year, we are seeing the opportunity and we don't want to miss out on that opportunity.
+So there will be some investments and that's why we are sticking to our 6% non-GAAP net income.
+Fair enough.
+The good news is, I think, as Enzo mentioned, pipeline for us, and pipeline -- we call it the SQQL, right.
+Sales -- sorry --QSQL, sales qualified lead that marketing sales says are sales qualified, and then the second Q is that sales actually agrees with marketing and says that they qualified the sales qualified leads.
+That number is the most it has ever been.
+And I think you are seeing that reflected in MRR growth.
+This quarter, new MRR was an absolute record.
+Last quarter, it was also an absolute record.
+So little by little, you're starting to see that translate into business.
+And as I said, for us, we feel pretty bullish about it.
+I think win rates -- we like to feel particularly, if it's an international global-type customer, and particularly if they are looking for an integrated solution, more often than not, we win.
+We're pretty comfortable with where we are across the board and I think we can give you guys a little more color at a later date.
+Yes.
+Actually, a lot of our large customers have offices in Australia and so they kind of pushed us in that direction.
+It started off with existing customers saying we need capability in Australia.
+And then we started to get a bunch of new customers and a couple of partners came in that, basically, took our technology and are acting as resellers to the technology.
+So we went live with that.
+We've gone through training process with that and we've already started deploying there.
+So, again, we are doing this quite rapidly and we're finding, again, the ability for a cloud-based company to deliver an integrated virtual office, virtual contact center, virtual meeting type solution, so essentially, a one-stop shop.
+But do it on a global basis with SLAs and industry-leading call quality is a huge differentiator.
+Increasingly, we are seeing that our competition is people like Avaya and Cisco and others, which is great.
+You want to play with the big boys, and I think we can win, and we're starting to win against them, which is unique for cloud companies these days.
+And so we are starting to really feel pretty good about that.
+One of the key drivers is DXI.
+So DXI has a number of large customers, so they did bring significant increase to our ARPU.
+Yes.
+That's the key.
+We are, of course, adding new customers and we are adding larger and larger customers.
+But for the most part, this particular quarter, DXI was the number one driver.
+You're welcome.
+No.
+Not initial.
+If you look at my prepared remarks, I said that we saw a lot of 500 to 1,000 seats that we won this quarter, with initial deployments of 500 to 1,000 seats.
+We have got about 130 enterprise customers, right, but they are not full deployment.
+Our largest deployment is in the [2,000-ish-seat] range.
+That's starting to tell you how we are being pushed.
+Because if you remember, in the last six, nine months, is the first time we got to that 1,000-ish seat range.
+We were never even close to that, and now we're starting to talk about customers in the 5,000- and 10,000-seat range.
+Some of them are starting smaller and then trying to migrate.
+But we saw, I think I remember saying five -- of our top five deals they were all in the 500 to 1,000-seat range.
+We are starting to see more and more traction with the larger customers.
+It's becoming increasingly a differentiator, particularly with the larger customers.
+If you think about it, and I want to emphasize this part because, to some extent, I have to pinch myself.
+I was thinking back to the last year or so, and if you remember, we used to talk about -- well -- we had 20 to 50 seats, 50 seats, essentially is defined as mid-market, and, oh, by the way, we are trying to get up to 250 to 500 seats.
+Then we started to win a couple of 1,000-seat type accounts.
+And suddenly, 1,000-seat-type accounts are essentially our bread-and-butter and we are starting to really try and push forward towards a 5,000- to 10,000-seat.
+Again, I don't want to get ahead of the headlights because we haven't won any 5,000- or 10,000-seat-type accounts yet for the whole deployment.
+But the thing that is starting to become more and more interesting is that's now a non-trivial portion of our pipeline.
+So it's fascinating to me about how the market is starting to tip towards cloud because normally a 5,000- to 10,000-person company is not even going to talk cloud, they are all so focused on-premise and now they're coming to us and talking cloud and we were literally not quite seeking them out.
+These are people that sought us out.
+With regard to your comment with -- from a growth perspective, I think we had talked about the mid-market and channel grew approximately 38% year over year for new MRR.
+And so that is nice and steady and solid and continuing to kind of go upmarket there.
+I think the majority of them have some form of analytics.
+I apologize.
+I made the statement that analytics is an increasingly unique differentiator.
+It's starting to almost become like table stakes.
+Because imagine a large distributed company, 38, maybe they are in 38 countries.
+Maybe they are in 50 countries.
+They have 500 locations, 200 locations, 1,000 locations, 800 locations.
+Given IT person here who is now deploying globally, every time he hears about a call quality issue, he is able to anticipate and understand whether it was a network issue, a deployment issue, a user error or whatever.
+That is increasingly what is enabling us to be able to win these larger opportunities.
+Okay.
+Good question.
+Without DXI, our ARPU was $326.
+That's a $6 increase sequentially, $6 or $7 increase sequentially from our fourth quarter, and that's what we would expect going forward.
+DXI added the rest, so that's how we got from $326 to $353.
+Going forward from your modeling perspective, $6 to $7 in that range is the right number to use for an ARPU increase, sequentially.
+Typically, moving from PBX solution to cloud, but the thing that is kind of interesting is several of these companies are cobbled together over time.
+In other words, what is quite interesting is the larger the company, more often than not, they have cobbled together multiple companies through acquisition.
+You will have three, four, five different PBXs and they are now looking to go to one common way of communicating throughout the company, and so then this becomes their strategic initiative project, typically driven at a very high level of a company.
+So, again, these are early days, so I don't want to declare victory.
+But it is interesting, I think we talked about the number of $500 to $1,000 deals that we are starting to win this quarter.
+And I think we're starting see that our pipeline from 1,000 to 10,000 deals is starting to grow.
+As I think I indicated also, we're starting to see quite a bit of traction in channels and that's an area that we had not put much investment in over the years.
+But just in the last six months or so, as you know, six to nine months, we've started to invest in channel and that's started to pop, where 5 out of our top 10 deals came from channel.
+That's a great question, <UNK>.
+This falls in the category of we are very cautious about these guys.
+Again, they surprised us when we started to get bigger and bigger deals.
+Our philosophy is, we will go through the first set of processes, which is all paper, et cetera.
+And typically, when we get to the bake-off, when you get to a trial, typically they go with either one or two.
+More often than not, they will only go with us.
+We are pretty choosy because we have walked away from several of these deals.
+If we feel like there is not a good fit for our technology, or not a very high probability of winning, we tend to walk away.
+Because in the end, I don't want to do a lot of these -- what we call whale-type deals, I only want to do a select few and I want to make sure we pick the ones that we feel very comfortable about doing because that then proves the model and shows that we can continue to move upmarket in a very consistent way.
+So for us at least, the ones that we take on, we expect to win, and have a very high probability of winning.
+And the main reason is because any ones that we think we don't have a good chance of winning, we don't take on.
+We kind of take our toys and go home.
+Yes, <UNK>, that's a great question.
+As you know, our mid-market customers grow quite rapidly.
+They're constantly acquiring other companies.
+So we grow with them.
+We have a number of examples of customers that have started out small and are now in our top 20, top 30 customers.
+Most -- I wouldn't say most, but between 45% and 50% of our new MRRs come from existing customers.
+If we continue to provide them a high-quality product, they are going to continue to buy from us, and so that's why we love the mid-market is because it gives us that nice lifetime value because of the growth associated with these customers.
+A) They stick with us for a very long time because of the backend integration, and, two, as they grow, and we grow with them.
+Again, great question.
+This is where our performance SLA -- so I'd like to think that we've been smart about how we've been going about it.
+We were a Company, as you know, two or three years ago, we were primarily SMB.
+Then we moved up into mid-market, and, candidly, bread-and-butter is mid-market.
+Increasingly, you are seeing that's our core, that's the one that's growing [38-ish%] year over year, that represents, as I indicated, about 45% of our revenue today.
+Now we're starting to see enterprise new move, but they are early.
+In other words, it's still early days for enterprise.
+From our perspective, what we did is -- so we basically learned from mid-market customers because that transition from SMB to mid-market was pretty painful.
+We went through that over the last two years or so.
+The transition to enterprise, I'm sure, will come with its share of challenges, but the good news is all of those things we have been announcing in a structured and step-by-step way, elite touch, the first company to be willing to offer performance SLAs over the public Internet.
+The ability to work with both MPLS and public Internet and we give customers a choice.
+If you want MPLS, great, but we still suggest you have a backup off the public Internet and that's because MPLS lines sometimes get cut.
+So then you want the ability to go on the public Internet, or you can go just on the public Internet.
+Some of our customers go with a dual MPLS/public Internet strategy, and some customers are going straight with a pure public Internet strategy.
+And the key is, we have learned, because we've now got a very significant chunk of mid-market customers that we've kind of really learned how to ensure that we provide the kind of service levels that they expect for a mission-critical system.
+Enterprise is probably a jump up and -- but it's not as dramatic a jump as the jump it was from SMB to mid market.
+Well, that went fast.
+All right.
+In closing, I'd like to thank all of you who attended our first Analyst Day last month, either in person or via webcast, and to remind you that, in August, we will be presenting at the Needham conference in New York and the Oppenheimer and Canaccord Genuity conference in Boston, and we look forward to meeting with you at one of these events.
+Thank you, again, and have a good day.

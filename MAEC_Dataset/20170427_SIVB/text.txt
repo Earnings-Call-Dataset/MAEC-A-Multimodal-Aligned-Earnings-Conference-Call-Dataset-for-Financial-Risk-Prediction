@@ -1,0 +1,157 @@
+Thanks, Greg and good afternoon, everyone
+I would like to start by talking at a high level about certain notable items that were included in our earnings per share of $1.91. I will get into further details on these items later in my comments
+But I believe this overview will enable you to more easily separate the seasonal or notable items from fundamental trends which are generally positive and on track overall
+On the plus side, we realized a tax benefit from a change in accounting rules for stock-based compensation which contributed $6.1 million to earnings
+This accounting change affects all companies
+We also had a benefit to earnings of $4.7 million due to the return of tax funds related to a prior year's tax return
+Countering those 2 items, we incurred our typical first quarter seasonal compensation expenses from bonus-related 401(k) contributions and employer taxes of approximately $6.5 million
+Premium amortization expense from investment securities in the first quarter was $3.5 million higher than last quarter
+And there were 2 fewer days in the quarter compared to the last quarter which meant lower net interest income of approximately $4.8 million
+Now I will get into the details of the quarter and highlight the following, first, solid loan growth; second, another quarter of healthy total client funds growth, driven by our off-balance sheet client investment funds; third, higher net interest income and a higher net interest margin; fourth, stable credit quality overall; fifth, higher investment securities and warrant gains; and sixth, slightly higher noninterest expense, including the seasonal expenses I noted
+Additionally, I will comment on our capital ratios, tax rate and provide details on the changes to our 2017 outlook that Gregg mentioned
+Let us start with loans
+Average loans grew by $809 million or 4.2% to $20.1 billion
+Growth was driven primarily by private equity capital call lines and life sciences
+Other parts of the portfolio were relatively flat in the first quarter, although, this is consistent with what we have seen in the first quarter in past years
+Nevertheless, we're seeing a continued high pace of repayment due to M&A
+On the upside, despite heavy competition and seemingly loosening terms in the market, new loan commitments were solid and advances were strong in the quarter
+Client activity remains healthy across all portfolios and our pipeline is in good shape
+As a result, we're maintaining our full year 2017 loan growth outlook of the high-teens
+Moving to total client funds, that is combined on-balance sheet deposits and off-balance sheet client investment funds
+We saw another quarter of healthy growth due to client funding rounds and exit activity
+Average total client funds grew $1.4 billion or 1.7% to $86.1 billion in the first quarter
+This reflected average off-balance sheet client investment funds growth of $1.2 billion and average deposit growth of $261 million
+This growth reflected strong activity among our life science and corporate finance clients
+Although, that growth was offset somewhat by significant outflows related to our private equity clients making distributions to their investors
+Period-end total client funds grew by $2.7 billion or 3.2% to $87.5 billion
+This reflected off-balance sheet client investment funds growth of $637 million and deposit growth of $2.1 billion which means we're starting the second quarter on a positive note
+This growth was driven by existing private equity clients, as well as strong new client acquisition in our life science and early stage technology segments
+Nevertheless, we're narrowing our full year 2017 outlook for deposit growth to the mid-single digits from our previous outlook of mid- to high-single digits, although, we believe growth is likely to be at the high-end of our revised range
+While strong new client acquisition continues to drive deposit inflows, it is offset by high pace of investment and distribution activity among our private equity clients
+Turning now to net interest income and our net interest margin
+Net interest income increased by $13.4 million to $310.3 million in the first quarter
+This increase was primarily driven by higher average loan balances and an increase of 11 basis points in net loan yield due to the impact of the December increase in the Fed funds rate
+Interest income from fixed income securities increased by $4.1 million due to higher average balances which benefited from reinvestment of portfolio cash flows at higher market rates
+I would like to provide some additional insight into the timing and impact on our results from increases in short term interest rates
+The sensitivity of our net interest income to changes in rates was generally in line with our expectations
+However, when comparing our first quarter results with the fourth quarter of 2016, there are few specific items that should be considered as they impacted the actual increases in net interest income and our net interest margin
+First, as I mentioned at the beginning of my comments, we had 2 fewer days and higher premium amortization expense in the first quarter versus the fourth quarter
+Additionally, there is a lag effect of the impact of higher short term interest rates on approximately 30% of our loan portfolio which is tied to 30, 60 and 90-day LIBOR
+In short, this means it can take almost 2 quarters to see the full effect of rate increases on these loans
+Finally, certain of our sponsored buyout loans have a LIBOR floor of 1%
+It is important to note that we're seeing margin compression, both in newly originated loans and existing renewals, as a result of competition and tightening market terms, primarily in our private equity, sponsored buyout and accelerator segments
+We estimate that this has resulted in approximately 15 to 25 basis points of margin compression in these portfolios since the beginning of 2016 which is the time period covering the Fed rate increases in December 2015 and 2016. This equates to approximately $15 million to $20 million of net interest income on an annualized net basis
+We expect margin compression to continue to impact our net interest income and net interest margin throughout the year despite the benefit from rate increases
+Moving onto net interest margin
+Our net interest margin increased by 15 basis points in the first quarter to 2.88% due to higher average loan and investment securities balances relative to lower yielding cash balances as well as the impact of the December rate increase
+This impact was partially offset by the increase in premium amortization expense and the compression in loan yields from competition which I just mentioned
+As a result of the 25 basis point increase in the Fed funds rate in <UNK>h, we're raising our outlook for net interest income and net interest margin
+We expect net interest income to increase at a percentage rate in the high-teens compared to our previous outlook of the low teens
+And we expect our net interest margin to be between 2.9% and 3.1% compared to our previous outlook of 2.8% to 3%
+These expectations take into account the impact of margin compression I noted earlier, but do not assume any further increases in short term interest rates
+Clearly, any rate increases will help our net interest income and our net interest margin
+Now let us move to credit quality which remained stable overall despite higher nonaccrual loans
+Our allowance for loan losses was $243.1 million at the end of the first quarter or 1.18% of total gross loans, an increase of $17.8 million or 5 basis points compared to the fourth quarter
+Our provision for credit losses which includes the provision for funded and unfunded commitments, was $30.7 million versus $16.5 million in the fourth quarter
+The increase in our allowance for loan losses and the provision for credit losses in the first quarter were due primarily to 3 nonaccrual loans, 2 new ones in the software space and 1 previously impaired sponsored buyout loan
+These 3 loans accounted for $16.7 million of the $25.4 million of specific reserves added in the first quarter
+In addition, loan growth in the quarter contributed an additional $5 million
+Net charge-offs were significantly lower at $12.2 million or 25 basis points compared to $21.3 million or 44 basis points in the fourth quarter
+Approximately 60% of charge-offs had prior reserves and nearly 90% came from our early-stage clients
+Nonaccrual loans increased by $19.8 million to $138.8 million or 68 basis points of total gross loans
+This increase was primarily due to 1 late-stage and 1 early-stage client
+We view this as a manageable level of - for nonperforming loans
+However, it is near the high-end of our outlook range
+As a result, we're slightly increasing our outlook range for nonperforming loans by 10 basis points to between 60 and 80 basis points of total gross loans
+This increase reflects the gradual evolution of our loan portfolio over time to include more growth, corporate finance and sponsored buyout loans
+However, we're maintaining our full year 2017 outlook for the allowance for loan losses which we expect to be comparable to 2016 levels and for net loan charge-offs of between 30 and 50 basis points
+Now I will turn to noninterest income which is primarily composed of core fee income and net gains from warrants and PE and VC-related investment securities
+I will discuss certain non-GAAP measures in my comments and we encourage you to refer to the non-GAAP reconciliations in our press release for further details
+GAAP noninterest income was $117.7 million compared to $113.5 million in the fourth quarter
+Non-GAAP, noninterest income, net of noncontrolling interest, was $111.1 million compared to $109.1 million in the fourth quarter
+The increase was mainly related to higher, though, still relatively modest net gains on investment securities and warrants which were offset somewhat by seasonally lower core fee income
+Let me review the components
+First, non-GAAP, net gains, net of noncontrolling interest on investment securities were $9.5 million compared to $5.3 million in the fourth quarter
+Second, we had net gains of $6.7 million on equity warrant assets, primarily related to warrant exercises driven by M&A activity during the quarter
+This compares to warrant gains of $4.6 million in the fourth quarter, primarily related to unrealized valuation increases
+Moving onto core fee income which includes fees from foreign exchange, credit cards, deposit service charges, lending-related activities, letters of credit and client investment funds
+Core fee income decreased by $2.1 million or 2.4% to $82.6 million in the first quarter
+This decrease was due primarily to seasonally lower fees on credit cards and foreign exchange
+These decreases were partially offset by increases in client investment fees, driven by higher balances and improve yields due to increases in general market rates and an increase in deposit service charges due to higher deposit, client counts and transaction volumes
+We're reiterating our full year core fee income outlook of growth in the high-teens
+Moving onto expenses
+Noninterest expense increased by $2.4 million or 1% to $237.6 million, primarily due to higher compensation and benefits expense
+Compensation and benefits expense increased by $7.3 million as a result of annual merit pay raises and higher number employees to support our growth and seasonal expenses related to 401(k) matching and employer payroll taxes
+These increases were offset by lower share-based compensation expenses and incentive compensation plan expenses in the first quarter which were elevated in the fourth quarter
+As a result of our improved outlook for the full year and our other initiatives to enhance return on equity, we expect our 2017 return on equity to outperform most of our peers, as defined in our 2017 proxy
+Because part of our incentive plans are tied to return on equity performance versus our designated peers, we expect higher performance related incentive compensation expense
+Consequently, we're increasing our 2017 noninterest expense growth percentage outlook from the high single-digits to the low double-digits
+Turning to capital
+Our capital ratios rose across the board as a result of increased capital from higher net income
+Increases to holding company capital ratios were partially offset by higher risk weighted assets due to period-end loan growth
+Lastly, I would like to provide some insights into our effective tax rate
+As I mentioned at the start of my comments, we recognized a $6.1 million tax benefits as a result of implementing new accounting guidance that is applicable to all companies effective this quarter
+Under this guidance, tax impacts from employee share based transactions are recognized in the provision for income taxes rather than directly in equity under the prior rules
+This guidance will likely result in volatility in our effective tax rate
+The magnitude of the tax impact of employee share based transactions is a function of one, vesting days for restricted stock units; two, the amount of in the money stock options that are exercised; and three, the change in our stock price relative to the grant date values of the share based compensation awards
+Excluding the impact of both the required accounting change and the other tax item I noted earlier, we expect the tax rate for 2017 to be comparable to 2016. In closing, we're off to a good start in 2017. Our outlook remains positive and our expectations for net interest income and net interest margin have improved as a result of the recent increase in the Fed funds rate
+Although, competition and a high pace of M&A activity among our clients continue to impact loan growth and margin, there is ample new loan activity in the pipeline going into the second quarter look solid
+Fee income trends also remain positive despite some seasonal slowness in the first quarter
+We believe our clients are healthy overall and we're maintaining our long term focus on expanding our client base, product offerings and global footprint, while delivering high-quality growth and maintaining stable credit quality
+While we're not counting our future rate increases, tax decreases or significant changes on the regulatory front, any improvements in these areas will likely be positive to our current outlook
+Thank you
+And now I will ask the operator to open the line for Q&A
+Question-and-Answer Session
+So roughly, approximately around 2.5% and we're primarily mortgage-backed securities or agency-backed securities
+So there's a few things
+I'm not quite sure what you referred to in the 10%, but if you're referring to the 30, 60, 90-day LIBOR-based loans or the sponsored buyout loans that have floors with the LIBOR floor of one
+Well, Steve, you may recall that in my prepared remarks, typically, each first quarter of the year, we have the seasonal expenses there, right? So that is what drives kind of the expenses
+If you're comparing Q1 to Q4, so they were $6.5 million of seasonal expenses in Q1, so that's part of it
+The other thing is, when you start to look at some of the incentive compensation levels, our stock price was up as well - stock-based compensation expenses compared to a year ago as well, so just depends on what you're looking at, but primarily with the seasonal expenses
+As far as the outlook for 2017, the rise in price and there was a fact that some of our incentive compensation plans are tied to ROE
+And given our outlook for the full year in terms of ROE, that is up compared to the designated peer set in our proxy
+Therefore, the incentive compensation pool is going to be funded at a bit of higher rate
+So primarily, the main driver of us moving up our expense outlook is driven by the more improved outlook view on the return on equity against our peers
+We believe we picked up that
+But obviously, it is - it does change quarter-to quarter when you're on the market competition, it's also dictated by what your competitors are doing
+So it's - obviously, it's a bit harder to predict
+But, again, we would - the numbers we gave you just in the margin compression that we've seen in the last year
+But generally, if you kind of use that as a rule of thumb, we're probably going pickup about 70% of the benefit going forward, somewhere around there is a current estimates, but just want to caution that can change up or down quite quickly
+It's probably somewhere around 40%, 45% front office and the rest is back office, somewhere around that neighborhood
+Well, obviously, it all depends on the rate outlook and the efficiency ratio
+Clearly, we've been trying to bring that down
+And the trend has been coming down over the last couple of years, so that we've exhibited a really nice trend there
+But, obviously, we still didn't make - need to make investments as well too, but again, I think, you can continue to see general trend
+Certainly, the general trend is going down, but again, it all depends on what you're assuming for the rate increase, because clearly, when we have the rate increase, we get a significant amount of revenues without any real incremental expenses
+So it really just comes back to how you're modeling to your interest rate changes
+So well, I guess, what you do is, you look at the 2016 number, obviously that we finished out
+For clarity, we did move the provision for unfunded credit commitments out of expenses to combine it with the provision for loan losses
+So that in itself created a little bit of uptick in the interest rate - sorry, in the expense outlook as well too
+But I think if you just do reconcile that, I can certainly work with you offline to show what to start with
+I don't have the exact numbers in front of me
+The other thing as we're trying to get across in our prepared remarks is remember on the LIBOR-based loans there is a little bit of a lag
+So if a client has a 90-day LIBOR loan and let's say, it just got repriced a day before, the rate increase comes out in June, let's hope there is one, it's going to be 90 days before that loan even reprices which means you still have 90 days after that
+So you're kind of looking at in that example 180 days
+So it can take almost up to 2 quarters to see a full effect on some of these LIBOR-based loans there
+So again, it eventually does come
+It is sensitive to that, but it's just a little bit of a lag when you're repricing these 30, 60, 90-day LIBOR loan
+Absolutely, Chris
+I mean, we continue to invest and spend on that
+We've been doing that for a couple of years
+Each year, it probably goes by a couple of million
+I mean, $3 million to $5 million increases per year
+I mean, last year, I think we increased it around almost $8 million
+This year, we may, again, take it up a bit as well
+So we continue whether it's for a CCAR, whether it's for SIFI, there's still the whole host of other areas of compliance, whether it's BSA, AML all across the board that we continue to invest
+This is part of being a larger bank, but it is embedded in our expense outlook
+The maturities are roughly around $800 million per quarter somewhere around there
+That's been pretty consistent for the last several quarters
+Yes, I mean, we're seeing very little modest increases in the interest rate increases on just a few basis points
+And I think we recently updated around 5 basis points or so for some of the interesting-bearing deposit
+So it's more or less coming in line as with our sensitivity tables that we've been working with, maybe a slightly little bit less than what we modeled out
+But, again, no real uptick or significant pressure on that
+Before we move on to Greg <UNK>, I want to actually just clarify one question from Chris <UNK> from KBW a moment ago
+Chris' question was with respect to what is the basis of expenses for 2016 that we would be using when we apply our 2017 expense outlook? Because, again, just to clarify, we did make a reclassification or recasting of our numbers by moving the provision for unfunded credit commitments into the provision for credit losses
+As a result, the provision for unfunded credit commitments came out in the expense line item
+So long story short, the base is the way you look at as we start for 2016, you would take the number from the 2016 10-K of $871 million for expenses for the total year and then you would take out the expenses related to provision for unfunded credit commitments of $11 million which gets you to a net starting point for 2016 of $860 million approximately, of which you would apply that new outlook - expense growth outlook rate
+So essentially what you're doing, yes, the expense outlook for 2017 is higher for the reasons we described, but you're also starting from a lower base in 2016. And nonetheless, I just wanted to clarify that for Chris and that was a good question

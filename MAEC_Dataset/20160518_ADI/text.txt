@@ -1,0 +1,52 @@
+We've said publicly that we are committed to generating over $4 of EPS by 2020.
+We remain committed to that.
+And when we first offered that target to the investor community back in 2014, we said that we expected our revenue, our top line, to grow at the rate of 2 to 3 times GDP, whatever that is.
+And we remain optimistic about that.
+We're investing at a level, in terms of R&D and field -- customer engagement.
+But -- and given what we see in terms of the design activity, the customer engagement activity, we remain committed to that top line target.
+Another component of, obviously, being able to get towards the EPS target over time is to do careful M&A.
+And so that is the mix, and we are committed to our targets.
+We believe in the growth story.
+And as I said, we will use our balance sheet wisely, to get some more high performance technology that will enable the Company to grow at an even greater rate over time.
+As far as just the acquisition measures, we use -- there's probably 15 of them that we use.
+Obviously, accretion plays a factor in it.
+We look at the relative valuations of the cash flow of the business that we are looking at, to determine whether we're paying a good price for it.
+We want businesses that grow, and that help us drive our growth faster than we are growing today.
+So that's a key component that we believe that can happen.
+And obviously, we think we're looking for things where we can get synergies.
+Sometimes that's cost, sometimes it's cost and revenue.
+And so those are things that influence us.
+Sometimes, when we're doing tuck-ins like SNAP Sensor, which we talked about in the prepared remarks, there isn't much in terms of financials to hang your hat on in the early stages.
+And so then, it really comes down to whether or not the technology really was going to make a difference in our customers' application, and ultimately the user experience.
+And that tends to rule the day, when it comes to those tuck-ins.
+Yes, it's integrating all the time.
+We're developing, we're moving in more and more to a systems level solution, and so that requires us to have more and more technology.
+Some of which we do acquire, a lot of which we actually build internally.
+Yes, I think what we acquire depends very much on the type of segment we're addressing.
+The reason we bought SNAP Sensor was to help us move up the stack to make our solution more complete.
+We've got a very strong DSP high performance signal processing technology platform and product base, onto which we needed to add some algorithmic value in that particular imaging application.
+So yes, what we acquire, and what customers are asking us to do, very much is application and market segment dependent.
+No, I think they are pretty much the same.
+They are cautiously optimistic.
+The macro has held in there.
+The order flow has been good.
+Customers think they're going to -- I think in aggregate, think they're going to see modest growth this year.
+And -- but they are obviously very cautious.
+They're keeping their inventory levels lean.
+We see, obviously, that at the [Disty] level, as well.
+So that's -- I think it's pretty consistent.
+It's been pretty consistent through the whole year, really.
+I don't know that it's significant, but we had 138 days of inventory, and we want to get that level down.
+And we felt like we should address it now rather than wait.
+I would -- like I said in the prior question -- or answer to the prior question, I think a lot of the inventory is related to product that was manufactured in foundry.
+But nevertheless, we've got to work all of the levers to get the inventories to where we want them to be, and this seemed like an appropriate place to pull it down.
+The coms one doesn't influence us a ton, because there isn't much of that that gets done in internal foundries -- or internal fabs.
+Really, it's in the industrial space, which is plugging along at a low growth rate at this point.
+So it seemed like we weren't taking a big risk by adjusting the production there.
+I would say that I think it's a one-quarter event.
+When you take down inventory levels, and you take down the utilization rates, generally, you shut the factory down.
+And so we'll be taking, I think, on average, 2 weeks of shutdown in our internal fabs.
+I would suspect that we will be back to not doing that in the fourth quarter, and so utilization should come back up again in the fourth quarter.
+Yes, I probably have to avoid these kind of pricing things.
+It's not to the level of the prior socket, let's put it that way.
+<UNK>e.

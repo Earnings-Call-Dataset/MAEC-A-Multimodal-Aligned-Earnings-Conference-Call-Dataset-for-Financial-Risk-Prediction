@@ -1,0 +1,158 @@
+Thank you, Steven.
+Good morning, ladies and gentlemen.
+Thank you for joining us on this fourth Friday in April.
+Presenters for our first quarter earnings call are Chris <UNK>, Chairman, President and CEO; and Tom <UNK>, our Executive Vice President and Chief Financial Officer.
+Before beginning their review of our financial results, we ask that you please take note of our standard caution as to any forward-looking statements that may be made during the course of today's call.
+Our full disclaimer can be found in the text of this morning's earnings release, which has been posted to the Investor Relations page on our website, provident.
+bank.
+Now it's my pleasure to introduce Chris <UNK> who will offer his perspective on our first quarter financial results.
+Chris.
+Thank you, <UNK>, and good morning, everyone.
+Provident is off to a strong start in 2017 with record net income and earnings per share for the quarter.
+The margin improved as asset repricing exceeded portfolio yields, while our funding costs remained relatively constant.
+And on average, loans increased, however, quarter-end footings were slightly lower than year-end due to repayments in the CRE and construction loan portfolios and continued run-off in residential loans.
+The pace of loan prepayments has exceeded our forecast as commercial real estate loan customers sell their properties or refinance them with life companies or the agencies after the construction is completed.
+Deposit loans were also lower due to seasonal activity, but the loan and deposit pipelines remained robust, and we anticipate a return to balance sheet growth in the second quarter.
+And we continue to project mid-single-digit loan growth for the year.
+Return on average assets for the quarter was 1% versus 94 basis points for the first quarter of 2016, while return on average tangible equity was 11.33% versus 10.76% from Q1 2016.
+The efficiency ratio stayed flat at approximately 58% versus 59% in the prior year quarter.
+And during the quarter, we closed one underperforming branch location and consolidated another as we continue the ongoing discipline of branch rationalization.
+In this regard, we have recently undertaken an initiative to pursue sale-leaseback arrangements for a number of our owned branch locations.
+We continue to see improved pricing in our loan originations, although competition remains fierce.
+We see selective instances of competitors allowing extension of loan terms, longer rate locks with no fees, aggressive loan to values and no guarantees.
+And we do not see adequate returns on many of these prospects, so we pass on these credits.
+We're able to maintain stable deposit and funding cost for the quarter and project only gradual modest increases.
+We do not envision more than 2 more rate hikes from the Fed in 2017.
+Many of our clients who borrow from us also bank with us, and those relationships bring loyalty and consistency.
+The credit trends in our loan portfolio remained favorable.
+Our nonperformers were down, again, to $40.5 million or 0.58% of total loans.
+And sales of foreclosed assets continue to be resolved as expeditiously as the court system allows.
+As the cost of regulatory compliance and the management of enterprise risks continue to increase, there is a growing need to leverage technology to improve processes and efficiency.
+We anticipate that our new 3-year strategic plan formulation, which begins in earnest in the second half of 2017, will incorporate automating processes and deploying new systems to meet the ever-changing demands of our clients.
+We continue to evaluate fintech offerings to assess the benefits of early adoption and ensure that our customers benefit both now and in the future.
+And as we approach the $10 billion asset level in 2018, we've implemented a new asset liability management model that has the capacity to facilitate DFAST stress testing when applicable.
+Our capital remained strong, which provides us with the flexibility to grow organically through acquisitions and increased cash dividends.
+From an M&A perspective, we continue to seek out accretive deals in whole bank and wealth management firms.
+Suffice it to say, we remain steadfast in our conservative valuation metrics when evaluating any opportunity.
+We are expending a significant amount of time and energy seeking some regulatory relief in Washington relating to the hurdles associated with reaching the $10 billion mark, but anticipate that any material change to Dodd-Frank will get caught up in partisanship in the Senate, likely pushing any change out to 2018.
+With that, I'll give the call over to Tom.
+He can add some more color on the quarter.
+Thank you, Chris, and good morning, everyone.
+As Chris noted, our net income for the first quarter was a record $23.5 million compared to $22.6 million for the trailing quarter.
+Earnings per share were $0.37 compared with $0.35 for the trailing quarter.
+This was a $2.5 million or $0.04 per share increase compared with the first quarter of 2016.
+The change in accounting guidance related to the recognition of benefits from share-based transactions reduced our income tax expense by $1.2 million for the quarter, contributing to the improvement in earnings.
+Net interest income also reached a new quarterly high of $67 million, as our net interest margin expanded 4 basis points versus the trailing quarter to 3.11%.
+Average earning assets increased $48 million with average loans up $67 million or 3.9% annualized.
+Loan growth was tempered by run-off in home equity and residential mortgage loans and pay-offs in our commercial real estate and construction loan portfolios, partially offset by increased C&I lending.
+Looking ahead, the loan pipeline remained strong, and for the first time in the long time, the pipeline rate exceeds the loan portfolio rate at 4.18%.
+The margin benefited from stable funding costs, stable repricing of variable rate assets, the deployment of excess liquidity held during the trailing quarter and reduced premium amortization on mortgage-backed securities.
+We anticipate modest additional expansion of the net interest margin throughout 2017.
+We provided $1.5 million for loan losses this quarter, an increase from $1.2 million in the prior quarter, as net charge-offs increased slightly to $1.2 million on an annualized 7 basis points of average loans.
+Asset quality metrics were stable versus the trailing quarter with nonrecurring loans decreasing $1.9 million to $40.5 million or 0.58% of total loans.
+The amounts for loan losses to total loans increased slightly to 89 basis points at March 31 from 88 basis points at year-end.
+Noninterest income was $2 million less than in the trailing quarter, as volatile interest rates resulted in the credit valuation adjustment related to swap loans reversing from a $1.3 million favorable mark in the trailing quarter to $225,000 expense in the current quarter.
+In addition, loan prepayment fees were $517,000 lower than in the trailing quarter.
+And wealth management income, including tax preparation fees, was $259,000 lower than in the trailing quarter.
+These items were partially offset by increases in gains on sales of loans in REO.
+Noninterest expense decreased by $1 million in the trailing quarter to $46.1 million as seasonal increases in occupancy expense and payroll taxes were more than offset by reduced incentive accruals, stock-based compensation and benefits expense and legal and consulting costs.
+Income tax expense increased $1.8 million from the trailing quarter to $8.4 million.
+And our effective tax rate decreased to 26.3% from 31.1%, largely due to the previously discussed change in accounting for tax benefits on share-based payments.
+We currently project an effective tax rate of approximately 29.75% for the remainder of 2017.
+That concludes our prepared remarks.
+We'd be happy to respond to questions.
+Well, I'll let Tom talk about the incremental cost, Mark, but I'd certainly say that we've had a steering committee of our group here with our risk and our management team.
+We are very down -- very long down the process.
+We are implementing certainly some steps and some expenses to be prepared for DFAST stress testing.
+We're yet to hire a couple of quants to help out within that process.
+In between, I think we are continuing down the road that even the regulators that we meet with the regulators to talk about our process.
+We will be running a dry run of the stress test in 2018, even though we probably don't need to, and then meet with regulators yet again.
+And I think infrastructure and compliance wise, we've implemented and are continuing to implement some of the things that -- when we anticipate a CFPB type of review.
+And we meet with our mid-sized bank.
+(inaudible) have gone through this and make sure we compare notes and have taken some of their experiences and be able to really try to figure out where the -- any kind of black holes are.
+In terms of cost, Mark, we were looking at about $1.6 million for the year 2017.
+Not a whole lot was incurred in Q1, expect to see an increase in consultancy cost in Q2 as we've entered into some engagements there.
+In a broader sense from a noninterest expense run rate kind of look, I think we're going to still be around $46.5 million to $47 million.
+That's inclusive of the cost expected to be incurred for $10 billion already in this next quarter.
+Well, I certainly would love to return it to shareholders in some form.
+I think we like growth the best.
+We still have a lot of capacity.
+The volumes and pipelines are there.
+You're right, we continue to accumulate capital.
+That mitigates some of the CRE exposure with the guidelines that we have.
+M&A, even though we'd love to put that money to work in some context, we want to make sure it meets the hurdles and the equity in this very type of transaction.
+So it's a good problem to have, but we'd certainly like to leverage it And in a rising rate environment, it might make it a little easier without taking on a lot of extension risk.
+I would think in the -- in this time frame, probably more in the wealth management side, though, we wouldn't say no to looking at any other good combination with other banks.
+I think as we go through the balance of the year into next year, if we ever did get an opportunity that makes sense for both companies, it would make a closer to the time frame when we would be going over $10 billion, which would be a real good way to go about getting over there either organically and with the deal combined.
+So it'll open up an opportunity to not just not look at larger deals, but even maybe some bolt-on acquisitions of good people and good markets.
+To add to that, Mark, given our expectation of crossing $10 billion organically in the second quarter of next year, there's no reason to hold back from an acquisition if the opportunity arises.
+Well, I would think that the cost of compliance and things that are going on, you want to not really probably overpromise on that front.
+I think with our review with our regulators, they like our approach, they like our credit analysis.
+Everything else related to DSA and otherwise.
+I think it's really -- it's going to be tough to move that needle.
+And I guess, in line with the brethren out there, they realize it's the same thing.
+We're going to have to spend a little more money.
+On the other hand, if we all work together to get a better tenure and tone in Washington and with the regulators to say the pendulum has swung one way, I think it should come back a little bit to say, yes, well, it's doing a decent job of risk assessment, Dodd-Frank aside.
+I would think that the -- it could go a little bit lower, but not materially different without changing your risk profile.
+Once you get through the initial cost of crossing the threshold, you do benefit from scaling, and I hope to see some reduction there.
+Yes.
+We had modeled that in case of a deal.
+I certainly would make it a little more cumbersome.
+But we\
+And Matt, we started planning for crossing the threshold over a year ago, and the timeline is always been accelerateable.
+It's kind of dependent on trying to spread out the cost pending a deal.
+But if we got one that got us there sooner, we could definitely accelerate our time line.
+Well, I think our own global view is that it had been a little hot.
+I think it's slowing down slightly.
+It might be hoping that something in Washington could reduce some of the burden and change the rules.
+That might be wishful thinking on some people's parts.
+But I think everybody is looking at their approach to shareholder value and making sure that they are fulfilling their fiduciary duty.
+It is tougher.
+We're not a huge company.
+But it's certainly -- I would say, if it's tough for us and others and we're pretty efficient, it's got to be getting tougher for those that are smaller that can't absorb some of these costs and the risk attached to it.
+But I think that's kind of their assessment of what's going on.
+Maybe they think there's some relief.
+I don't see it in the near term.
+So that would, I think, keep a steady flow, but I don't think there's going to be a rush to the exits by any stretch.
+Well, it certainly is the C&I side, which -- I know everybody's focused on that with all focus by the regulators on CRE.
+And we -- so we're -- we've been going that route for a long time.
+It's just the C&I loans that we're doing are not as big certainly as the commercial real estate loans.
+We have seen a pickup in our ABL Group as the base lending group.
+SBA loan volume, we think, will pick up in the second quarter.
+We also -- CRE -- we have multi-family.
+We're very specific of who we do business with and where.
+As we've mentioned before on the other calls, we do not use the broker network nor we do things in the boroughs, nothing against that volume, it's not something we do.
+But we certainly have very substantial borrowers that are doing things a lot in the transit villages, such as right near the train lines where everybody wants to be in the -- and that's kind of where we are seeing some opportunities.
+But I think we balance it all along to say we go where the volume is, but we also are very, I think, conservative in our approach in any asset class we lend to.
+It's approximately 12 branches, <UNK>, and they were in 3 different sections of the state.
+The reason we would do this type of transaction was to: one, reduce maybe -- maybe our inability to lease out other parts of that building such as there may be a second floor and/or the space may be very large, we only need a portion of it.
+So it's really to reduce some of our ownership expenses that we would deal with.
+And we think it's an opportunity for us look down the road of where we might be going.
+It still would be -- we'd still be about 40% owned and 60% leased.
+It's -- a cost opportunity plus I think to monetize some of the real estate value and reduction of branch sizes is something that we have been looking at for a long time.
+It's just you can do that without having somebody else maybe own it.
+We just sent that package out.
+We're getting a lot of bids coming in.
+We want -- we're just starting to evaluate that.
+So we do not have it.
+I mean, we have some branches that are going to be probably above market and then more newer ones that maybe not going to appraise out as much.
+On the other hand, we have some that have stored value from being on our books for a long time.
+So our blend is really not just to be a gain situation, it's more of an operational change.
+Yes.
+I would expect it to be fairly neutral, <UNK>.
+And given that we're taking space in the buildings, I think the pricing is kind of balanced with the regular pay on the rent to a large extent.
+The challenging thing is the swap valuation adjustment.
+That was like $1 billion -- I'm sorry, $1.5 million change quarter-over-quarter because of rate movements.
+So other than that, things were pretty constant.
+Now prepayments fees were down, but that's just -- that's always going to be volatile, but it's never as larger a number because of the number of loans that pay off and where they are in the cycle relative to the terms of the prepayment agreement.
+So I mean, you're probably looking in $13 million kind of range is a normal, and that's subject to plus and minus $1 million or so pretty much.
+Well, I think certainly -- this is Chris.
+There's certainly an amount of fees that will have the construction loan pays off, we don't get the permanence for the most parts.
+There's not many prepayments attached to that.
+I would say as rates rise, <UNK>, there's probably going to be less pay-offs and/or sales unless somebody is exiting a property.
+So from a commercial real estate perspective, I don't see it getting robustly greater.
+I hate to sound coy on this.
+We budgeted that with the expectation of rising rates in the past.
+And then it's all very deal specific, though.
+So certain contractions happen regardless of rate environment.
+So you -- we're still going to see it bounce around.

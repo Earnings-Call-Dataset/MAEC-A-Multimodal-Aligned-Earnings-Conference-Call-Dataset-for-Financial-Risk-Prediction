@@ -1,0 +1,71 @@
+Well, I'm concerned about all our competitors.
+That said, we see much more competition from dozens of other companies than generally we would have from the large cloud providers.
+Our performance is a lot better.
+We don't really see the competition at all from them with the security product capabilities.
+It's primarily around delivery.
+We have been competing against at least one very large cloud company for nearly a decade that is known to bundle in CDN services.
+We have a lot of our customers use that company for hosting their website, either a store there or with compute.
+And they use Akamai to provide the delivery of the video or accelerate the delivery of applications or to secure the content.
+So I don't see any change in terms of the competition from these large Internet infrastructure companies against Akamai.
+So no change there.
+Now, for their own content, as we've talked about at great length, there is a couple of them that are delivering more of their own content.
+And that of course has had the impact on our overall revenue growth rates issue.
+But in terms of competing with other third parties, no.
+No change there in terms of the impact they are having on our business.
+There are a lot of startups out there.
+I think that has always been the case, too.
+They don't use the cloud providers.
+What we do see is the attackers.
+They use the cloud infrastructure and they can mask where they are coming from to make it harder to defeat them by coming from the big cloud companies.
+But we see the main competition is from the folks that have been doing it for a decade.
+And the one big change we've seen in the competitive marketplace has really worked in our favor, and that is the major carriers.
+As I mentioned, several years ago, most of those major carriers competed actively against Akamai.
+And now the vast majority of those carriers partner with Akamai and make use of our technology.
+And that has been the one fundamental shift in the competitive landscape.
+And when I say competitive, I mean now an entity that's competing with us for third-party content.
+So the major shift in the competitive landscape has been favorable.
+We've always had a lot of startups.
+For a long time, we've had companies that have competed against us, and they would be the majority of the competition.
+The cloud companies have been out there, most of them, for a long, long time.
+And no shift there.
+The only shift that's impacting our revenue is the DIY in a couple of large accounts.
+But that's not competing for third-party content.
+And I don't expect it to.
+I think there's certainly a set of aggregators, and they are growing.
+And also the broadcasters going out directly as well; that is growing.
+And I think right now, just the all different avenues being explored by the major content owners and broadcasters.
+So I don't see right now a single offer, an aggregated offer, hitting the marketplace that will take over.
+I think you will see a lot of seeds planted and flowers will bloom and both aggregation and the broadcasters going direct with their content.
+And we service all of those entities.
+We are seeing strong OTT growth among the aggregators as well as the broadcasters who are taking some of their content and making it direct.
+Yes, we are always working on lowering our costs, to trying to get more bits per second out of each square foot of colo, out of each kilowatt hour, out of each dollar of CPU.
+And we have a really great track record there; a lot of initiatives underway.
+And I expect to see continued progress.
+As <UNK> noted, we are in a situation right now where we do have in some geographies capacity that's available.
+And so you see us in a situation where our CapEx for server purchases is a little bit less than our long-term model.
+And as traffic growth reaccelerates -- and if the traffic growth is quite strong outside of the few accounts that we have talked about, that fills up that capacity, and that helps as well.
+As you've got fixed cost and you have a little bit extra capacity in some markets, that hurts the margins and your costs a little bit.
+But I think we've had good progress there.
+We will continue to have good progress; plenty of initiatives underway to improve efficiency.
+Yes.
+There's no real direct impact from Brexit that we see at this point in time.
+Obviously, there's been currency fluctuations, and so that can change the foreign-exchange rates.
+There can be impact in the equity markets.
+But I don't see any real impact to our business.
+Yes; we are investing a great deal to substantially lower the cost of media delivery.
+And in fact, the Octoshape acquisition, that was part of the acquisition thesis.
+We have been very happy with that acquisition.
+It also greatly improved performance at the same time.
+We are in the process of integrating their technology across our platform, and you will see us be delivering more of our content as we go forward from clients and client devices.
+In some countries, that is happening already.
+And it does substantially lower our cost and that enables us to pass on lower pricing for our media customers.
+That's a great question.
+And you will see, as the market evolves, you have Akamai, which has expertise in the cloud, has tremendous capacity, has great performance capabilities, now bringing very strong security technology into our platform.
+You have, on the other side, companies that have past experience in security as a box that is purchased and deployed in the enterprise's data center.
+That world is going away.
+The security technology needs to move into the cloud.
+And it's very hard to take technology that was dedicated to a single customer and operated by that customer in their data center and now make it in the cloud to try to make it work in a multitenant environment, give it sufficient capacity, and make it perform well.
+And on top of all that, make it be affordable.
+So we have tremendous home-field advantage in the cloud compared to the companies that are trying to figure out how to move into the cloud.
+And I think it's because of this that you see several of the -- some of the well-known box providers now being bought by private equity or looking for ways to evolve the company.
+Because it is hard to take what they have and produce the kind of capabilities that Akamai can now offer in the cloud.

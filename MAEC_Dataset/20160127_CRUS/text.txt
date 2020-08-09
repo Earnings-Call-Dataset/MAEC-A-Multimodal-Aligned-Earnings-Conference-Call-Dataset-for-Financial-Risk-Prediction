@@ -1,0 +1,158 @@
+Thank you and good afternoon.
+Joining me on today's call is <UNK> <UNK>, Cirrus Logic's President and Chief Executive Officer, and <UNK> <UNK>, our Director of Investor Relations.
+Today, we announced our financial results for the third quarter of FY16 at approximately 4:00 PM Eastern.
+The shareholder letter discussing our financial results, the earnings press release, including a reconciliation of non-GAAP financial information to the most directly comparable GAAP information, along with the webcast of this Q&A session are all available at the Company's Investor Relations website at investor.
+cirrus.com.
+This call will be feature questions from the analysts covering our Company as well as questions submitted to us via email at investor.
+Please note that during this session, we may make projections and other forward-looking statements that are subject to risks and uncertainties that may cause actual results to differ materially from projections.
+By providing this information, the Company undertakes no obligation to update or revise any projections or forward-looking statements whether as a result of new developments or otherwise.
+Please refer to the press release issued today which is available on the Cirrus Logic website and the latest Form 10-K and 10-Q, as well as other corporate filings made with the Securities and Exchange Commission for additional discussion of risk factors that could cause actual results to differ materially from current expectations.
+Now, I'd like to turn the call over to <UNK>.
+Thank you, <UNK>.
+Before we begin taking questions, I'd like to make a few comments.
+For a detailed account of our financial results, please read the shareholder letter posted on our Investor Relations website.
+While short-term weakness for certain portable audio products drove our fiscal Q3 results and our Q4 outlook lower than anticipated, we are on track to deliver 27% year-over-year growth for the full-year FY16, based on the midpoint of Q4 guidance, and we remain confident in our ability to deliver strong growth in FY17.
+Overall, FY16 remains an outstanding year as we've expanded share and content with existing customers, ramped 55 nanometer products, and increased our SAM considerably with the introduction of digital headset products.
+More importantly, we've executed on numerous strategic initiatives including several new products that we expect to drive strong growth in FY17, particularly in the second half of the year.
+Interest in our high-performance, ultra-low power audio and voice products has accelerated across a wide range of customers and form factors.
+This is being driven in part by features such as always-on voice control and louder sound output, along with a consistent development environment and user experience across a range of price and performance points.
+We are confident that our strategy of focusing on innovative market leading customers in the fastest-growing audio and voice segments will fuel future growth.
+Specifically, this growth is expected to be driven by increasing content with a number of our existing customers, broadening our market share in handset OEMs 3 through 10 and driving key flagship features into mid-tier mobile devices.
+Longer-term, the Company will leverage the technology developed from mobile into adjacent markets including wearables and the connected home.
+Overall, we are extremely optimistic about our prospects for sustained revenue growth in the future and our ability to deliver shareholder value.
+Before we begin the Q&A, I would also like to note that while we understand there is intense interest related to our largest customer, in accordance with our policy, we do not discuss specifics about our business relationship.
+Operator, we are now ready to take questions.
+Yes.
+Again, the amount that we can talk about that outside of other folks who are M5 partners is relatively limited, but yes, there's things that are up and running via the M5 program that people can take and design with today.
+Well, I don't want to imply anything we're doing on the other side of the house, but we do see good opportunities within the current year for USBC enabled devices.
+That's a great connector finally for the Android platform.
+It's good and durable, small, it's got the nice property that you can figure out, well, you don't have to figure out which direction to plug it in.
+And it enables people to develop products where you can get low-power data and also power across the connector to the accessory that you are plugging in.
+So that enables people to develop things like headsets without the need for a battery which drastically reduces cost and size, et cetera.
+So, we see really good opportunities within the current year for USBC.
+Sometimes, it's difficult to predict as new form factors and whatnot so there's always -- anytime a customer is making a foray into new product demands, there's a lot of new people to give votes and timing can be uncertain.
+We're certainly engaged on a number of different fronts in the Android space with accessories connected to the USBC ports.
+So we're really excited about the opportunities that opens up for us.
+Well, we certainly didn't state or mean to imply that across the board we're increasing content in every [socket] at every customer.
+So, overall, we think our average content with our customers will go up.
+But again, that is not intended to imply it goes up across the board in every case.
+As far as the percentage split, I've seen all the same speculation.
+I don't think anybody knows exactly.
+It's typically done more by carrier, so you really never know exactly what the number is until you figure out who orders what.
+But, a reasonably typical split historically, would be something more in the 60/40 range and in a positive direction for us.
+Well, that would involve us having a more precise crystal ball than we've actually got.
+But just taking all things into account, the expected content expansion we've got in the areas that we expect.
+If you look at our model in general, we think one of the things -- one of the characteristics of a successful company, one of the things we pay our people on, in a lot of cases, is tied to 15% revenue growth.
+So if were excited about revenue growth and we expect it to be strong, then you can certainly imagine that our expectations are higher than that.
+But again, there's all sorts of moving parts that we don't get to control.
+Nonetheless, the things that are under our control, we're really excited about.
+We've done a great job of moving onto the 55 nanometer platform, so we really don't have any major retrenching to do in terms of the technology that we're providing.
+We're in a pretty rich period of new product introductions from the Company, which is certainly good from a revenue as well as margin perspective.
+And then, there's just a lot of exciting things going on in audio and voice.
+So we think the net of all that positions us extremely well for FY17.
+Let's see.
+Yes.
+We don't break it out that way, so it's probably not best for me to break it out relative to the current quarter.
+But taking everything into account, and that included, is what feeds into the guidance that we've issued.
+So, yes, that's about the most complete answer I can give you for that.
+You bet.
+Thanks.
+Well, let's see.
+There's a range of things that I guess I want to try to feed into that question.
+Number one, as we have tried to highlight in the shareholder letter, we do have a range of products that are applicable for headsets, both for USB or otherwise.
+So that's one thing to bear in mind.
+I'm excited and I think everybody we've shown the noise canceling headset solution to is excited about the possibilities.
+There are definitely people considering putting that in box, but as I said in response to one of the earlier questions, anytime you're considering a new form factor, there's lots and lots of people that get involved that pretty much any customer and things move around a fair amount.
+And then two, coupling that, with anytime somebody talks about adding content inside a box, inside the box it ships with the phone, you end up, you can imagine the agonizing that goes into any additional micro-penny that gets added to the box.
+Lots of discussions about that Nonetheless, I do feel confident in the Android space that we will get customers shipping meaningful volumes of noise canceling headsets some time in the not-too-distant future.
+And then of course, I don't really have any comment on -- outside of the Android space.
+Yes.
+Thanks for that.
+We're really excited about where we're headed with microphones.
+We've got a great team.
+Having put the team in Austin as well as the UK team formally of Wolfson together.
+They are making great progress getting yields ironed out and really figuring out with our customers what we need to do to be a real primetime player in the microphone space.
+We're shipping into flagship phones today.
+Not necessarily the highest volume models, but certainly designs that we won based on the size and performance of the microphones we provide.
+We're earning our stripes in that business, adding capacity as you refer to.
+And really more even than the capacity, which is a relatively tractable thing to do, the bigger piece of it is just, pretty much any microphone supplier that I've heard tales of from our customer has dealt them a surprise at one time or another, pretty much across the board.
+Anybody making handsets, microphones are tricky and they're difficult things to manufacture really reliably in production.
+So, we've got a great reputation for execution, for reliability, and quality.
+We want to maintain that and not compromise it by biting off more than we can chew in the microphone space.
+That's certainly a work in progress.
+I think the team is making excellent progress to date and is expected to continue to do that this year.
+There's a lot of opportunities for microphones, both in handsets going forward as manufacturers are talking about four and five microphones per handset.
+But also in noise canceling headsets, as you I think alluded to.
+It's an additional very large potential opportunity, in particular for a very small form factor microphones, which happens to be one of the things were good at.
+So the net of it all is, I don't have a real detailed update of exactly when and what and how much other than we're making very good progress.
+We've got good relationships.
+We're getting a look at different opportunities at various different customers and trying to put ourselves in a position to be able to commit to that, capitalize on it and at the same time, uphold our stellar reputation for quality and reliability.
+Which I think will be something that causes us to stand out in the microphone space.
+So, we do think, we have got a couple of mics in particular that are really well-suited to headsets just due to the size.
+In particular, if a customer was going to try to do what we refer to in the shareholder letter as a non-sealed earbud, which is what I think is the most compelling form factor.
+That really put some size constraints on the microphones.
+We have mics that are well-suited to that application.
+I think we probably could support a few folks with the volume that we have got in place today and that's something we would entertain.
+But certainly, you could use a wide range of microphones in that socket and achieve a perfectly functional system.
+Obviously, we think there's some advantages to using our mics or we wouldn't be pursuing that space.
+And then in the longer-term, we do think we have got a couple of tricks up our sleeve, that we've talked about in the past, in terms of designing the microphones and the Smart Codec and in this case in particular, the ANC Smart Codec.
+Designing those two components together as a system in the long run, we think we can deliver value for our customers in terms of performance and power, size, et cetera, that would be difficult for somebody to match just designing the microphones on their own.
+But the game plan for this year is really from an interface and from a function that the microphone itself is providing.
+That could be fulfilled by a variety of different mics.
+We don't see that as a limitation this year.
+Well, certainly, our first and foremost, our goal is really more around on an annual basis delivering something in the 20% range for operating profit.
+Obviously, that's a goal that isn't a one quarter goal.
+It's more of an annual goal because our business is fairly cyclical.
+Within that context, we expect to grow pretty meaningfully.
+Like I said, we already are on track to grow 27% in FY16.
+We expect to grow further in FY17.
+So, we are investing for the future.
+We want to make sure that we appropriately scale R&D to be able to keep up with that growth and deliver growth off a new hire base.
+And at the same time, we're trying to keep a close eye on SG&A because we should have some leverage there.
+And you can see that reflected in our outlook for expense in the current quarter.
+It's a little more flat frankly, relative to the December quarter than it might normally be.
+Typically in the January quarter, you have got a number of factors popping online in various withholding and whatnot that can drive expense up in the quarter as well.
+We've got, I would say, a somewhat higher than normal number of REV A tape-outs in the current quarter.
+So taking all that into account, the fact that the expense guidance for the current quarter is not up much is an indication that we're certainly keeping an eye on things.
+But over the course of the year, we would expect to meaningfully add to the R&D number.
+I think we addressed that a little bit earlier but our model and what we pay people on is based around a 15% growth.
+So if we were talking about 10%, we wouldn't be calling out strong or be very excited about it.
+So, like I said earlier, our crystal ball is not so good that I want to put a specific number on the out quarters of the year.
+Obviously too, one of the pluses -- sometimes a plus and sometimes a minus, mostly a plus, in our business is that we don't do second source products.
+We've either won or lost designs a year before they actually show up as revenue.
+So we feel good about the design wins and the customers we're engaged in today.
+But ultimately it depends on the customers shipping their product successfully in the long run.
+And if I had the ability to call that a year in advance, I could probably find more lucrative things to do than this.
+So, we will decline to put a number on it, but overall, we feel really good about what we're lining up for the year.
+We see growth coming in a number of different avenues, as outlined in the release and the letter, through expanding our business with a number of our existing customers, continuing to make good progress, broadening our business out into 3 through 10.
+And then driving some of these features down from the flagship into mid-tier, which is something we've made good progress on.
+And then as well, of course, the whole wide variety headset initiatives that we are engaged in.
+A number of things adding up to cause us to be pretty bullish going into the new year.
+Well, in that particular case it depends on how you look at it.
+I suppose since we had a VP on stage during the introduction, I can say we did start shipping into the Lenovo side of the business at that third or fourth customer depending on how you want to count.
+We do see good opportunities outside of them in China as well, so we feel like we're making pretty good progress on that front.
+You bet.
+Thank you.
+We would expect the March quarter to be down this year but when we hit the June quarter, you will see us start to build inventories as we head into the ramps and the busier seasons.
+Yes.
+When we talked about the expected effective tax rate of being 28% to 30% next year, it does include those tax credits.
+So, our general approach to buybacks is we will tee them up and then not make a whole lot of noise about them.
+We report our progress on the buybacks each quarter when we release our shareholder letter.
+I refer you to the shareholder letter for details of the amount of authorization remaining and what we've done to date.
+But as far as what we may be able to take off in the coming quarter, we will update you on that on the next earnings call.
+Generally speaking though, I'll note that we tee up buybacks with the expectation that we execute on them over the long run.
+We try not to make a whole lot of noise about that generally speaking.
+It's in everybody's interest or at least our long-term shareholders interest for us to get as many shares off as possible.
+So that's kind of why we view it a little more opportunistically and we tend not to make a whole lot of noise about it.
+We've got a pretty good track record of having reduced the share count by a pretty significant amount over the years.
+So anyway, anything further than that I will defer and update you on the next earnings call.
+Thank you.
+In summary, we remain highly focused on delivering a broad platform of innovative audio and voice components that target the rapidly growing mobile phone, smart accessory, and digital headset markets.
+With a compelling portfolio of sophisticated products including hardware, software, and algorithms, and a solid customer base comprised of many industry leaders.
+We are extremely optimistic about our outlook for FY17 and beyond.
+I would also note that we will be presenting at the Morgan Stanley conference in San Francisco on March 3, and the Northland conference in New York on March 9.
+The live webcast of these events will be available at investor.
+cirrus.com.
+If you have any questions that were not addressed today, you can submit them to us via the ask the CEO section of our investor website.
+I'd like to thank everyone for participating today.
+Goodbye.

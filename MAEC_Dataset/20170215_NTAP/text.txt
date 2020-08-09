@@ -1,0 +1,23 @@
+The goal we established was last year, and we said from Q3 2016 to this going out rate of Q4 2017 we'd save a gross $400 million.
+And then after some strategic investments, which include SolidFire, it would be a net of $130 million.
+If you impute my guide for OpEx, you can almost get there on an annualized rate between Q3 OpEx of 2016 annualized and the guide I gave for Q4.
+You can almost get to the whole $130 million.
+And when you add the savings associated with the services work we've done, you can more than get there.
+I haven't guided -- we haven't guided anything beyond that at this point.
+But as I said, transformation will still exist as we go forward.
+Thanks, <UNK>.
+I think in both of those cases our perspective is the long-term winner as we have demonstrated in the All-Flash Array market is the one that can take an architecture and serve the mainstream customer segment.
+There have been lots of companies that have gone after the early adopter segment with a subset of the features that enterprise customers really want and have failed in the long run.
+And so first to market doesn't necessarily mean the big winner, right.
+I think what we are trying to do with the hyperconverged segment is the same track record that we've demonstrated with the All-Flash Array segment, which is customers want mature enterprise data management features.
+They want performance consistency and scalability so that they don't have to have operationally a siloed environment.
+And hybrid cloud is really the architecture of the data center going forward, and they want true hybrid cloud integration.
+So we think that by offering those capabilities to customers, we will redefine the hyperconverged market, just like we did to the All-Flash Array market.
+Stay tuned.
+Thanks, <UNK>.
+The transformation of NetApp is yielding solid results with a return to top line growth and increasing profitability.
+We are expanding our opportunity by addressing an increasing range of strategic customer use cases.
+We've completely refreshed our portfolio of hybrid and All-Flash Arrays, delivered an industry leading storage efficiency guarantee to the market, expanding our cloud based services and soon we will introduce a next generation hyperconverged solution.
+All of this underpins our growing confidence in the future.
+We hope to see you in April at our investor event where with will talk more about the evolution of NetApp to lead in the next era of IT.
+Thank you.

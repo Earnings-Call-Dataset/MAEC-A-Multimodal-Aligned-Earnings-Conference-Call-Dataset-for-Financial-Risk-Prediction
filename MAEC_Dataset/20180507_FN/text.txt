@@ -1,0 +1,151 @@
+Thank you, <UNK>, and good afternoon, everyone.
+We're pleased that our third quarter revenue came in above the top end of our guidance range with revenue of $332 million and non-GAAP net income of $0.71 per share, including the impact of a $0.06 foreign exchange headwind.
+This strong profitability is also reflected in cash flows, with year-to-date operating cash flow increasing 49% to nearly $90 million and year-to-date free cash flow of $61.5 million compared to a little over $3 million a year ago.
+We believe that business trends are stabilizing, and this is reflected in our expectations for increasing revenue in the fourth quarter, as TS will detail later.
+As in the second quarter, 72% of third quarter revenue came from optical communications programs and 28% from noncommunications.
+Within optical, telecom continues to dominate.
+Under 64% of optical revenue, telecom revenue grew 6% on a sequential basis.
+We anticipate that this stabilization will continue into the fourth quarter in both telecom and datacom programs.
+We are also optimistic that our non-optical communications business will resume sequential growth in the fourth quarter after a modest decline from record levels in the second quarter.
+These trends reflect not only market conditions of our customers and their customers, but our ability to attract new customers and new programs.
+Our strong position in the market is driven by our experience and reputation as a technology-driven manufacturer for optical communications and other markets that require precision, manufacturing and advanced packaging.
+Over the years, we have reinforced this focus on optical communications, while also leveraging us to enter adjacent markets, such as optical sensing, commercial lasers and medical.
+New business, which again represented 35% of revenue in the third quarter, continues to reflect this diversification.
+Fabrinet West, our new product introduction facility strategically located in Santa Clara, California, has been instrumental in helping us get closer to customers and win new programs serving diverse end markets.
+While there's only one Silicon Valley, we believe there are a small number of global regions that share similar characteristics of a large concentration of technology companies.
+One of these locations is Israel, where we already have a number of customers.
+In March, we made early steps towards establishing a new NPI facility in Israel, where we can continue our proven model of providing local new product introduction services, helping our customers with design for manufacturability, and then transferring those programs to Thailand for value manufacturing.
+While it's still very early days for us in this exciting region, we're confident that in Israel, we can replicate the NPI playbook that we have been successful with in Fabrinet West and Fabrinet UK.
+Having already established a beachhead in Israel, including a new Executive Vice President to lead the charge, we look forward to sharing our progress with you as we execute on our plans.
+In summary, we are pleased to have exceeded our revenue expectations in the third quarter.
+We're enthusiastic about the fourth quarter and beyond, with stabilizing or improving trends across the markets we serve.
+And we're excited about the many opportunities ahead.
+Now let me turn the call over to TS to discuss the details of our third quarter performance and our outlook.
+TS.
+Thank you, <UNK>.
+Good afternoon, everyone.
+I will provide you with more details on our performance by end market and our financial result for Q3 of fiscal year 2018 as well as our guidance for Q4.
+Total revenue in the quarter was $332.2 million, above the high end of our guidance range.
+Non-GAAP net income was $0.71 per share, within our guidance range.
+In the third quarter, we experienced a $2.4 million or $0.06 per share foreign exchange headwind compared to a $3.7 million or $0.10 headwind in the third quarter of 2017.
+Excluding the impact of these headwinds, non-GAAP EPS would have been above our guidance range.
+Looking at the quarter in more detail.
+Revenue from optical communication programs was $241 million compared to $287 million a year ago and $242 million in the second quarter.
+Non-optical communications programs represented 72% of total revenue, consistent with the second quarter.
+Within optical, telecom represented 64% of revenue, up 4 percentage points from the second quarter.
+In other words, in the third quarter, telecom revenue increased by 6% from the second quarter to $154 million.
+Datacom revenue was $87 million or 36% of optical communications.
+By speed, 100G solution continued to dominate with revenues of $129 million, down slightly from $133 million in the second quarter.
+Revenue from 400G solution was $10 million in the third quarter compared to $16 million in the second quarter.
+Revenue from QSFP28 transceivers was $37 million in the third quarter compared to $42 million in the second quarter as the transition to lower-cost CWDM4 variance continues, with volume not yet high enough to offset lower prices.
+Silicon photonic revenue was $66 million compared to $74 million in the second quarter.
+Turning to non-optical communications.
+We again had a strong performance, but did not beat our record second quarter performance.
+Non-optical components and module represented 28% again in the third quarter at $91 million.
+Revenue from the industry laser market was again a record at $43 million, up 23% from a year ago.
+Automotive revenue of $21 million was below the record from nearly $26 million in Q2, but up 6% from a year ago.
+Sensor revenue grew slightly to nearly $5 million from $4 million in the second quarter.
+Other revenues of $22 million was down slightly from $23 million in Q2.
+Finally, new business was $116 million or 35% of revenue in the third quarter as it was in the second quarter.
+Now turning to the details of our P&L.
+A reconciliation of GAAP to non-GAAP measures is included in our earnings press release and investor presentation, which you can find on our website.
+Non-GAAP gross margin in the third quarter was 11.6%, consistent with -- as Q2 and below our target range of 12% to 12.5%, primarily due to start-up costs related to certain new customer program as well as to the decrease in revenue and a continued strengthening of the Thai baht from the second quarter.
+We expect gross margin to improve in the fourth quarter, but not enough to put us in the target range for all of FY 2018.
+Non-GAAP operating income in the third quarter was $30.1 million, and operating margin was 9.1%, up slightly from Q2 from cost savings on the reduction in workforce that we made in Q2 as well as approximately $1 million impact from the reversals of management bonus accrued against FY 2018 objective.
+Taxes in the quarter were a net expense of $1.5 million, and our normalized effective tax rate was 6.2%, consistent with Q2 and in line with our expected range of 6% to 7%.
+We continue to anticipate an effective tax rate of 6% to 7% for fiscal year 2018.
+Non-GAAP net income was $28.4 (sic) [$26.9 million] in the third quarter or $0.71 per diluted share compared to $0.72 in Q2 and $0.80 a year ago.
+On a GAAP basis, which includes share-based compensation expenses and amortization of debt issuing costs, net income for the third quarter was $21.1 million or $0.55 per diluted share compared to $21.7 million or $0.57 per diluted share in the third quarter of fiscal year 2017.
+As I mentioned earlier, we experienced a $2.4 million or $0.06 per share negative impact from a stronger Thai baht on our GAAP and non-GAAP bottom line results for the third quarter.
+Turning to the balance sheet and cash flow statement.
+At the end of the third quarter, cash and investment were $315.4 million.
+This represents an increase of $27.8 million from the end of the second quarter, primarily from operating cash flow of $52.7 million, which increased 31% from the second quarter, offset by a CapEx of $6.9 million, share repurchases of $12.5 million and repayment of long-term loan from bank of $3.4 million.
+Free cash flow, which is operating cash flow less CapEx, was $45.8 million in the third quarter, an increase of 53% from Q2.
+On a year-to-date basis, operating cash flow was $89.8 million.
+After subtracting CapEx of $28.3 million, year-to-date free cash flow was $61.5 million, reflecting the meaningful decrease in CapEx that we have anticipated for FY 2018.
+We expect CapEx in FY '18, all of which is maintenance CapEx, to be approximately $35 million.
+During the third quarter, we were active in our share repurchase program and bought back approximately 422,000 share at an average price of $29.58.
+As of the end of the third quarter, $37.6 million remains in our repurchase authorization.
+I would now like to turn to our guidance for the fourth quarter of fiscal year 2018, which incorporate approximately $7 million negative impact from sanctions on ZTE.
+As a reminder, we do not have any direct customer in China, but many of our customer do serve Chinese customers.
+With that background, we anticipate revenue to be in the range of $334 million to $342 million, an increase from the third quarter, as <UNK> indicated.
+From an earnings perspective, we anticipate non-GAAP net income per share in the fourth quarter to be in the range of $0.73 to $0.77 and GAAP net income per share of $0.55 to $0.59 based on approximately 37.9 million fully diluted shares outstanding.
+In summary, we are pleased to have delivered revenue in the third quarter that was above our guidance range and are enthusiastic about increasing revenue in the fourth quarter as customer demand across our diverse range of program stabilize or improve.
+Our position in the market continues to strengthen as customers look to us to manufacture their most challenging designs.
+Operator, we would now like to open the call for questions.
+So as we mentioned in our prepared remarks, the -- our estimate for Q4 is an impact of about $7 million in our Q4 outlook.
+And that's included in the outlook we give for Q4.
+That number we arrived at from discussions with our customers, so we feel pretty solid about that number.
+This is TS.
+I think the volume is always there in terms of quantity.
+The thing cloud, the whole -- the data is a pricing reduction.
+So -- and we, in our prepared remarks, we say that the lower prices is not enough to offset the volume increase.
+So it will stay in the two-part, obviously, volume continues to increase, but again, because of the price reduction, we can't really tell.
+I think we expect both segments to grow moderately.
+And that's why you see our -- reflected in our total guidance.
+Yes.
+So essentially, we have a new entrant about maybe 2 or 3 quarters ago, and they start ramping.
+So there's a new customer we acquire.
+And other than that, it's still the same customer profile.
+One of them has been ramping down.
+If you listen to their earlier earning call, they're talking of ramping down temporarily.
+And since then, their volume's came back.
+So if you look at from Q2 to Q3 to Q4, most of the customers are about the same, except we added in a new customer, and they're ramping very nicely.
+So there's nothing really to update on that.
+MACOM is a customer of ours.
+They're not a 10% customer, so we're not going to go into huge amount of detail.
+But they remain a customer of ours.
+There's a number of programs we're working on with MACOM, and there's no real update since we last discussed it.
+We're probably not in a position to really talk about that, because it's more of our customer's business for them to talk about.
+But we're still working with the customer and with the end customer on that program, and it's progressing at a pace.
+But we're not really in a position to give that level of guidance down to the effective program.
+I will say, if you look at the number in detail, it's the telecom sector.
+And most definitely, it's the nonspeed telecom gadgets that make the quarter.
+Those things are on laser, modem, amplifier and so on.
+That -- those we don't classify them by -- with 100G or 400G and so on.
+So those are pretty strong segments, and that pretty much endorsed, also verified by our customer in the earning call, if you can listen to their earning call.
+The other one I would just add to that is our optical sensing business is up, was pretty strong last quarter, as was commercial laser business.
+That business is very strong.
+So it's across a number of sectors.
+So the March decline in silicon photonics, we have a mix of customers in the silicon photonics space.
+But it is pretty concentrated, as we mentioned a moment ago, in a few -- with a few customers, with one in particular seeing weakness last quarter.
+And they talked about that in their earnings call.
+But we do see that actually recovering this quarter.
+So the ZTE effect is factored into our numbers.
+That's not to say that something else couldn't happen.
+But based on best information that we have right now, there's about a $7 million impact, some of which is actually that silicon photonics business.
+No, it's across a number of customers.
+It's more than one customer.
+It's across a number of customers.
+As you'd appreciate, we don't ship anything directly to ZTE.
+We actually don't ship anything directly to China, all of our product ships, exports.
+But that $7 million is across a number of customers, who -- customers of ours who ship to ZTE.
+So Dave, normally we don't guide gross margin.
+But if you check our guidance on the EPS and the revenue and work backwards, and given the knowledge of operating expenses are a little bit low in that Q3, I will say, you will realize that the gross margins are improving in -- at Q4.
+We have implied a better gross margin going to June quarter.
+And again, on the CapEx -- operating expenses side, $8.5 million is extremely low.
+We talked about reversals of some of the management bonus accrual.
+I would expect to get back to about $10 million to $10.5 million level, the normal run rate level in the June quarter.
+So hopefully, that's helpful.
+Next fiscal year, a lot depend on the revenue, okay.
+If we are going to ramp, for example, like last year, 45% grow, obviously, we need a lot of CapEx.
+But assuming normal growth, I will say it will still be around approximately around $35 million and $40 million.
+We don't commission a second building until maybe at the end of 2018 or maybe early 2019 calendar year, right, <UNK>.
+Yes.
+I think If we get to the point where Chonburi is 70% to 80% -- certainly 70-plus percent utilized, we'll be commissioning a second building.
+Obviously, that will then drive a much bigger CapEx in the year in which we do that.
+It's a problem we hope to have.
+But as of right now, I think that $35 million to $40 million is probably a good number for next year.
+Yes.
+The second building, we'll probably spend in FY 2020.
+We will commission the construction in FY 2019, but I think the payment will be in 2020.
+I think there are about 3 or 4 customers there.
+A lot depend on their demand posture.
+One of them doing well; the other one sees a temporary setback, and in their earnings call, they're talking about coming back.
+So hard to tell but I think if both of them are being well, obviously, we'll see the number going up.
+Okay.
+Thank you, operator.
+And thanks for everyone for participating in today's call.
+We look forward to speaking with many of you at the upcoming investor events.
+And we'll talk to everyone when we present our fourth quarter fiscal 2018 results in August.
+Thanks, again, and have a great afternoon.

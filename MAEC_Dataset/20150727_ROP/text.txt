@@ -1,0 +1,103 @@
+We really don't have any inventory levels in the channel.
+If you look at the energy systems business, the largest component of that is compressor controls, and it's always a build for a specific application for the firmware that goes along with the software that we provide to people.
+It's really a systems business.
+The little bit of products in there are really related to valves that we have, which are for these diesel engine shutoffs.
+And certainly, that had just come to a dramatic reduction of about 50%.
+So there's a little bit of inventory they've got to work off, but not a lot in the pipeline, because the factory basically sells direct on a lot of these products, and they have very fast turnaround.
+So there's not a lot of -- there really aren't channel partners out here, or stocking and reselling stuff.
+The only thing that we have that gets stocked are standard Neptune water meters, and that's through our proprietary distribution network, and certainly no inventory problems there.
+As far as CCC is concerned, it's really around slowness in people deciding what they're going to do, so they haven't lost any projects.
+We haven't seen any projects that are canceled, that just things are relatively slow, as you would expect they would be for people to make big capital decisions right now.
+Well, our gross margins were up 100 basis points.
+Our gross margins in energy are 57%.
+Our gross margins in industrial are 50%.
+So I wouldn't say we have a lot of pricing problems.
+You're probably looking at read-across stuff from others, and that's not what we do.
+We have very, very specific applications, not a lot of competition.
+But if end markets are off we catch a cold, and that's what's happened.
+Doesn't affect our -- we're not in a competitive marketplace where we're overly concerned about pricing.
+And in a market like this that's end-market driven, it doesn't matter what your pricing it.
+People aren't going to buy more because the price is lower.
+They have so much new money that keeps coming in from investors, that they're not the least bit worried about pricing with other people's money.
+I can assure you they're just as aggressive as they've ever been.
+You still have lots of forums.
+We look at the large banks, like a JPMorgan, getting told let's watch how much I'm putting on debt staples here, let's not get above five times and so forth.
+There's all these other kind of people out here, pension funds from unions in Canada, they've got all kinds of people that are happy to supply all kinds of debt.
+So we still see 6.5 times debt on anything that's really a good business.
+So that drives up multiples, so multiples are still high.
+But On Center is the perfect example of the kind of things that we do.
+Harry's got a very well-run business in a very nice market.
+It's pretty niche-oriented kind of thing.
+Doesn't lend itself to an Oracle or SAP coming in and trying to take it over.
+It's a business that management wants to stay with and drive the business, and they want to have a home that will invest in them.
+We fit that better than private equity.
+So all of those things worked to our favor and nothing like that's changed.
+The acquisitions that we have right now are all similar to those kind of things.
+So we don't see that as a constraint.
+That's a great question.
+We have an enormous benefit here, in that each month, the second day after the month ends, we know what their orders and their revenue were.
+And as you remember, we run this place on both economics and accounting, because GAAP accounting can give you such distorted information about what's really happening with the cash nature of the business.
+So we know what the breakeven of the business is going into a quarter, means what the marginal contribution will be after they have covered that on a revenue basis.
+So we immediately, two days after a month ends, have a very good idea about what's happening to their trend, and we will talk to them at the end of that month.
+They'll provide us a quadrant feedback about what's hot in the business, what's happening in terms of what they're winning or difficulty that they're having, how the quantitative nature of the business is in the month, and what they're concerned about.
+That becomes more of a Socratic discussion, but we're going to encourage them to take the actions that they need to take, but never harm the business.
+So we always start out with do no harm.
+And we've done it so much for so long, it's just a cultural thing.
+Nobody would hide stuff here.
+It's not like your typical multi-industry Company that many of our senior leaders grew up in, where a really bad quarter, make sure you paint the plant.
+So that's not how it works here, and people know that.
+The non-tolling business -- we have software businesses in there.
+They're high margin.
+The tolling services side of activity has a lower margin, but the technology product side, with the readers that we deploy, and the tags that go along with it, are much higher margin.
+So they come in with a blended margin that's quite good, but more like the rest of our businesses than the software businesses, which are higher.
+So to the degree you have higher software, it's good.
+But, right at the moment, you've got quite a large piece of our activity is in tolling, so it has a big effect.
+And they certainly are much more profitable today than they used to be.
+The benefit that TransCore has is, we have the best technology.
+So we have readers that are capable of reading what are called multiple protocols, so we can read a wide variety of things.
+The people who are sitting in Chicago, and the people on the East Coast are stuck with a proprietary very old technology there, out of the Austrians.
+And you'd have to ask them how they feel about their future, but we're heavily engaged all the time with people around interoperability, and ways that we can facilitate that.
+The higher degree of interoperability, when we have the best protocol technologies to read, all the different things that are already embedded should be favorable to us.
+The other thing I would say on that, Rick, is we've also recently introduced, within the last year, I believe, not only the multiple protocol reader that <UNK> talked about, but also a multi-protocol tag.
+So we're actually selling tags right now to real customers, and that tag can be used all across the country, no matter where the driver, most of these are commercial applications right now.
+We're on over-the-road vehicles, trucks, et cetera.
+We will want to be able to have that single tag that can go through all the locations.
+We're at the leading forefront of the technology change there.
+We can deploy faster than others.
+But also the change out coming from government sometimes is slower than they're suggesting.
+They did.
+We certainly don't see it as a threat.
+Omnicare is not our biggest customer.
+But just so people understand, we get a percentage of things that happen in terms of the billions of dollars of stuff we're processing.
+The revenue that we get is just a percentage of that.
+So we don't raise prices, in terms of that percentage that we're getting from somebody.
+But if generic drugs, for instance, go up in price versus where they were before, then we'll get a benefit from that, because the activity comes out at a higher price.
+If you have formulary drugs that get converted to generic and the price goes down, that's a decrement for us.
+We have benefited by generic pharma pricing being higher in the last two years versus the way we modeled it at the time of the acquisition, so that has been a benefit.
+And then you see today, with what Teva's doing with a $40 billion transaction.
+I mean, generally, the things that are going on in the marketplace are favorable to us.
+Well, in the software businesses they have very high marginal contribution rates.
+So as they grow, you get more cash to reinvest in other acquisitions.
+They really don't need to consume more cash inside themselves, so that helps us.
+The TransCore situation in RF, because it's a big piece of the segment, is flatly just better managed today than it used to be.
+It used to be on their service side stuff, particularly almost civil engineering and the design of things at the beginning of roadway exits and what have you, they would have cost-plus contracts, but they would have retention issues.
+And I think today TransCore is about 10 times better as an operating Company than it was when we acquired it.
+And so they don't -- they get pretty decent margins out of that.
+But big revenue growth out of them on the service side doesn't have the same margin contribution that all the rest of our RF businesses do.
+And the other thing I would say there is that on the toll and traffic piece, it's not the same type of compounding that's on the software side, but because we execute so effectively, because the TransCore guys execute, they're able to win projects in adjacent areas.
+Our execution around our software for the New York City traffic control system was the reason why we won the Riyadh project, in addition to our proven ability to execute in the region with our toll solution for Dubai.
+So those things don't always have a linear relationship, in terms of building on themselves, but the larger that we become there, the more opportunities that we see.
+I would say that the primary thing is we provide, customers rely upon.
+So we provide the discipline for our businesses, so they have the ability to say no to people.
+That's one of the benefits that we're able to provide for folks.
+And because customers aren't reliant upon the specific technology or the solution that we're providing, it's not something that they can just say okay, I'm not going to hold payment, you can't ship to me anymore.
+That's too important to our customers.
+So it's good execution in terms of the discipline, but primarily, it's because of the position that we have in the end markets that we serve.
+I would say there's another thing having worked in very large environments.
+If you go into a typical multi-industry Company and you ask somebody, who's responsible for receivables, you'll get a different answer than you'll get here.
+Because if you go and you ask somebody running one of our niche businesses, which remember, may only be $80 million in revenue, who's responsible for receivables, he's going to say it's our [outbridge], Betty, and she's been here this long, and she knows that.
+So there's a focus level here that is just very helpful.
+Thank you.
+And I think <UNK>, with that, we'll --.
+I think we reached the end of our time.
+So, I want to thank everyone for your participation today, and we look forward to talking to you again in three months.

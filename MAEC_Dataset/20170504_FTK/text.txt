@@ -1,0 +1,210 @@
+Thank you, and good morning, on behalf of the Flotek team.
+Joining me this morning are <UNK> <UNK>, Flotek's Chairman, President and CEO; Rich <UNK>, our Chief Financial Officer; Josh <UNK>, Florida Chemical President; and <UNK> <UNK>, Executive Vice President of Performance and Transformation Officer.
+Our earnings press release was distributed yesterday and is available on the Flotek website.
+In addition, today's call is being webcast, and a replay will be available on our website.
+Before we begin, I would like to remind everyone participating on this call, listening to the replay or reading a transcript of the following.
+Some of the comments made during this teleconference may constitute forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934 and other applicable statutes reflecting Flotek's views, comments or expectations about future events and their potential impact on performance.
+Words such as expects, anticipates, intends, plans, believes, seeks or estimates and similar expressions or variations of such words are intended to identify forward-looking statements but are not an exclusive means of identifying forward-looking statements.
+These matters involve risks and uncertainties that could impact operations and financial results and cause our actual results to differ from such forward-looking statements.
+These risks are discussed in Flotek's filings, including our Form 10-K, with the U.S. Securities and Exchange Commission.
+With that, it is my pleasure to turn the call over to <UNK> for opening remarks, followed by a financial review from Rich and insights into key initiatives by <UNK>.
+We will open for Q&A after their remarks.
+With that, <UNK>.
+Good morning, everyone, and thank you, Matt.
+We are pleased to have you on board as part of our leadership team to oversee our Corporate Development and Investor Relations.
+We also welcome Danielle Allen to Flotek, who will play a critical role in corporate communication and technology commercialization as Flotek's transformation becomes complete in the coming quarters.
+Thank you all for joining today's call through hosting from our Global Research and Innovative Center headquartered here in Houston.
+I'll begin by giving a summary of our quarterly results and sharing an update on the divestment of our Drilling Technologies and Production Technologies segments and other key strategic initiatives.
+Rich will then share our first quarter highlights and provide additional financial details; followed by <UNK>, who will talk about our work with cognitive computing and data and analytics.
+Finally, I'll end with closing remarks before taking your questions.
+Overall, Flotek's first quarter results were in line with our expectations outlined in February, however, above broader expectations.
+We can say to our shareholders and stakeholders that we are pleased where we have started the year.
+For continuing operations, which encompasses our Energy Chemistry Technologies or ECT, and Consumer and Industrial Chemistry Technologies or CICT segments, Flotek's first quarter revenue was $80 million, up 13% sequentially and up 25.3% year-over-year.
+Domestic revenues in ECT experienced growth of 14%, driven by success in our core CnF technology product offerings.
+Domestic CnF revenue -- excuse me, domestic CnF volumes rose 24.7% sequentially, while revenues were up 19.8% sequentially from the fourth quarter 2016.
+We continue to experience increasing overall demand for our core technology as operators of all sizes look to optimize the recoverability of their reservoirs, which, in turn, maximizes the value of their operations for their shareholders.
+We believe increasing information sharing amongst the industry as well a growing focus on chemistry will continue to provide a runway of opportunities in the U.S. land unconventional revolution.
+Our focus remains to help operators move from mechanical improvements to scientific evolutions, which may be the key to unlocking vast resources of hydrocarbons.
+Internationally, we saw success in expanding the uptake of our CnF technology, with growth in both CnF volumes and revenue, sequentially increasing by 12% and 4%, respectively.
+These numbers highlight the global adoption and diverse applicability of our products, along with the desire of the industry to improve the recoverability of the oil and gas reservoir.
+We believe the industry will continue to seek out opportunities to enhance the economics of recovering oil and gas around the globe, and our commitment to providing these solutions for customers will play a role.
+Even with this global growth, we still faced significant challenges during the quarter, which we overcame through acquisition and changes in asset [owner] operatorship, at least 400 basis points or 4% of potential CnF revenue growth may have been impacted domestically.
+We recognize that operators are all at different stages in their application and appreciation of chemistry and respect this fact.
+Our goal is to provide resources to these operators to help them make the best decisions for their shareholders by maximizing the reservoir performance through our deep understanding of chemistry in the fluid systems.
+As asset portfolios will likely continue to change hands, we remain steadfast in our commitment to our customers and to the science of our technology.
+We see expanding opportunity as this process occurs and believe it should ultimately lead to more research, which leads to Flotek.
+In addition, timing of certain large international orders for CnF impacted at least 200 basis points or 2% of growth.
+Due to the large order processes of international shipments, the lumpiness overseas will likely continue.
+We will do our best to help our shareholders anticipate these impacts.
+Finally, in our non-CnF Energy Chemistry Technologies offerings.
+Certain equipment mobilizations of key customers of ours, combined with the strong fourth quarter well-above completion trends, led to an underperformance of our more commodity chemistry offerings relative to the rig count, as measured sequentially, as we identified in our earnings release.
+We also continue to overcome challenges within our CICT segment associated with citrus oil price inflation, which is a raw material in our supply chain.
+Josh and his team have done an outstanding job in capitalizing on our leadership position in this business and have effectively managed through very challenging times in the citrus markets.
+Roughly a year ago, just after the oil price trough in Q1, we announced that we will explore strategic initiatives in both our Drilling Technologies and Production Technologies segments.
+This review has led us to a process to divest these businesses to streamline our capital allocation and corporate efforts.
+We listened to our shareholders and assessed the marketplace, and while timing may be later than some may have wished for, we believe that we've maximized the value and ability to execute these transactions for the benefit of the shareholders of our growing company.
+We're pleased to announce the sale of our Drilling Technologies segment for $17 million to National Oilwell Varco, which we expect to close in mid-May.
+Rich will have more to add on this later.
+We are committed to our efforts to deliver a high-return, asset-light, technology-focused business model as we redouble our efforts to reduce CapEx and G&A relative to our revenues and future cash flows, which we believe will redefine our path going forward.
+It is our goal to increase critical metrics like our returns on capital and returns on tangible assets.
+With our proprietary technologies like our patented CnF technologies and disruptive business model, we believe these metrics will improve over time and deliver cash flows to our shareholders.
+Before we move on.
+I'd like to thank the leadership and employees of Drilling Technologies for their contributions to the company.
+They've been a foundation of Flotek for well over a decade, and its resiliency through the cycles has been a testament to the proprietary technologies and high-impact employees within these businesses and, in particular, Steve Reeves, who has led this effort for that period of time.
+Additionally, we've made substantial progress to divest our Production Technologies segment which remains held for sale.
+We expect to have an update as we can offer a definitive resolution, which we believe we will have in the very near future.
+Last week, we announced a global agreement with IBM to begin the joint development of a cognitive reservoir performance system called Reservoir Cognitive Consultant, leveraging IBM Watson.
+Once developed, this solution will allow us to predict and apply custom chemistry and other approaches to enhance the performance of wells through their entire lifecycle.
+This announcement comes as there has been an increasing trend in the industry to leverage data and cognitive computing to move toward a more predictive decision making, which can reduce costs and improve well performance.
+As we've heard recently, industry leaders ranging from BP to EOG, Pioneer to Statoil, including Corelabs and Schlumberger, all are exploring the utilization of data to improve the industry as a whole.
+Consider that IDC, a leading provider of market intelligence, predicts that by 2020, just 3 years from now, 80% of large oil and gas companies will run their business with help from a cognitive or artificial intelligent agent that is capable of learning, reasoning and solving complex problems.
+We are seeing and awakening to the idea that critical operational decisions should not be made based on backward-looking information that's available.
+The complexity of the industry's operation simply requires using cognitive capabilities.
+We are pleased to be associated with companies with similar paths forward and look to play a leading role in redefining where we go next as an industry.
+I'll now turn it over to our CFO, <UNK> <UNK>, to deliver more details on the sale of our non-core Drilling Technologies business and our financial results.
+Rich.
+Thank you, <UNK>.
+As we mentioned on our last earnings call.
+We began a strategic repositioning to focus on our core businesses in energy chemistry and consumer and industrial chemistry.
+We are executing a plan to divest our Drilling Technologies and Production Technologies segments.
+Today, we are pleased to report that we have entered into an agreement to sell substantially all the assets of our Drilling Technologies segment.
+Closing of this transaction is expected to occur in mid-May.
+Cash consideration will be $17 million, with a $1.5 million pullback.
+Proceeds will be used to reduce debt on our balance sheet.
+An investment banker is continuing to assist us with the sale of our Production Technologies segment.
+We believe we will have something to report on this in the near future.
+We now report assets, liabilities and results of the Drilling Technologies and Production Technologies segments as discontinued operations.
+The financial statements in this Form 10-Q and going forward report the results of our core businesses, Energy Chemistry Technologies and Consumer and Industrial Chemistry Technologies as continuing operations.
+For the first quarter, we reported total revenue of $80 million compared with $63.8 million in the prior period, an increase of $16.2 million or 25.4%.
+On a sequential basis, revenue was up 13.2%.
+Our strong top line growth was driven by strength in both Energy Chemistry and Consumer and Industrial Chemistry.
+Sequential growth in Energy Chemistry revenue was 10.2% due to well completion activity by our customers.
+Sequential growth in Consumer and Industrial Chemistry revenue was 24.1%, primarily due to increased flavor and fragrance sales.
+Our first quarter consolidated operating margin was a negative 0.8%.
+The operating margin was 14.1% in the Energy Chemistry segment and 19.3% in the Consumer and Industrial Chemistry segment.
+Selling, general and administrative expense was $22.6 million, an increase of $3 million from the first quarter of 2016 and a reduction of $0.3 million from the fourth quarter of 2016.
+Our SG&A as a percentage of revenue decreased to 28.2% from 30.7% in the first quarter of 2016 and 32.4% in the fourth quarter of 2016.
+During the quarter ended March 31, 2017, the company incurred a nonrecurring charge of $1.1 million related to executive retirement.
+Also, our corporate SG&A spending is not allocated to discontinued operations, and we envision reductions following the sales of our Drilling Technologies and Production Technologies businesses.
+For the quarter, research and development expense was $3.1 million compared to $1.9 million for the same period of 2016, an increase of 61.3%.
+In addition to opening the Research and Innovation Center in the third quarter of last year, this increase is attributable to new product development, our commitment to remain responsive to customer needs and the development of new chemistries.
+For the first quarter, Flotek reported a net loss from continuing operations of $0.7 million, representing a loss of $0.01 per share on a fully diluted basis.
+Flotek recorded an income tax benefit of $0.3 million, yielding an effective tax rate of 30.1% for the 3 months ended March 31, 2017, compared to an income tax benefit of less than $0.1 million, yielding an effective tax rate of 37% in the prior year.
+At March 31, 2017, the company had accounts receivable of $62.9 million compared to $47.2 million at December 31, 2016.
+At March 31, 2017, days revenue and accounts receivable was approximately 71 days, an increase of 10 days since December 31, 2016.
+This increase in days resulted from the 13% increase in consolidated revenue, an increase in international revenues and extended billing terms temporarily granted to a large customer.
+For the quarter ended March 31, 2017, the provision for doubtful accounts was $0.8 million.
+At March 31, 2017, inventories totaled $64.7 million compared to $58.3 million at December 31, 2016, an increase of 11%.
+Our inventory turnover remains at approximately 3.2x per year.
+During the first quarter, capital expenditures were $1.9 million compared to $3.8 million in the same period of the prior-year.
+Expected capital expenditures for 2017 have been reduced to a range of $10 million to $14 million.
+We are continuing to invest in new strategic growth initiatives while maintaining prudent management of our cash position.
+As a reminder, our financial statements present the continuing operations of our Energy Chemistry Technology and Consumer and Industrial Chemistry Technology segments.
+The Form 10-Q provides a description and analysis of our discontinued operations, that's Drilling Technologies and Production Technologies, in the footnotes and in the MD&<UNK>
+We continue to be focused on monitoring capital expenditures, protecting our liquidity and growing our core businesses in the Energy Chemistry Technology and Consumer and Industrial Chemistry Technology.
+And now, I'll turn the call over to <UNK> to give more context on our data analytics initiatives, provide an update on our Research and Innovation Center and patent portfolio and share a safety update.
+<UNK>.
+Thank you, Rich.
+As <UNK>, previously mentioned, we're very excited about our new partnership with IBM Watson and the development of our Reservoir Cognitive Consultant software, which is a service of leveraged cognitive capabilities and machine learning to help our clients uncover key insights and trends about their wells, help them make better-informed decisions and witness measurable transformative results.
+A key driver for this recent development in cognitive computing is to leverage our prescriptive approach to optimizing our clients' results, helping them improve EURs or expected ultimate recoveries, with just the right mix of chemistry and innovation.
+We were very pleased to present at the Transforming Oil and Gas with IBM Watson conference in Calgary last week, where we have provided a brief insight into our developments.
+This was a great opportunity to discuss our focus with the industry and we were happy with the very positive feedback for our patent-pending RC2 or Reservoir Cognitive Consultant platform.
+You can expect to hear much more about this important initiative in the coming months.
+Now I'll give you a brief update on our Global Research and Innovation Center, which has allowed us to accelerate the pace of our prescriptive analytic chemistry business approach.
+We continue to experience increasing inbound demand for lab analysis and diagnosis of the correct fluid systems to maximize the returns and performance of our clients' reservoirs.
+This demand is highlighted by the fact that the number of client innovation projects has increased by 38% since the Research and Innovation Center opened last year.
+While the scale and scope of these projects differ, this is an encouraging trend as we continue to help our clients solve their complex challenges.
+And at the same time, our intellectual property portfolio continues to grow, with more than 70 filed or pending patents.
+Turning now to our health, safety and environmental efforts.
+We've maintained an excellent best-in-class safety record.
+We believe this is critical as our business model expands to better serve our customers and ensure on-site deliverability and quality control of the FRAC fluids and our clients' completion initiatives.
+And with that, I'll turn it back over to <UNK>.
+<UNK>, thank you very much.
+Before we take questions, I'd like to add a few concluding thoughts.
+Second quarter here in 2017, we're anticipating steady completion activity with opportunities for growth, continued demand in Energy Chemistry, with expanding margins as the result of strategic price increases, continued efficiency improvement and consistent growth to our Consumer and Industrial Chemistry Technologies sectors, as we continue to expect as we have long term to outperform the completion activity as defined by EIA DPR.
+We'd also like to take this opportunity to thank our employees around the globe, who believe in making a difference each and every day, not only for our clients, but also for our shareholders, communities in which we work and live, and our environment.
+We've worked hard while many of our counterparts have waited for higher commodities.
+We've executed on a strategic plan that we feel is only beginning to be recognized, and we fine-tuned our portfolio as well as personnel to position Flotek for the future.
+It is an exciting time for all of us at Flotek and for all of our stakeholders.
+And with that, operator, we'll now open the call to questions.
+Sure, great question.
+As we talked about it in the previous call, end of January, we believe that, give or take a little bit, about 100 basis points margin should improve every quarter as we work through 2017, which will get us right at targeting 40% or slightly above by the end of the year.
+The strategic price increase has been accepted, almost without exception.
+Again, we've just had 60 days of that.
+It was initiated 1st of March, but really started to become in effect towards the end.
+We haven't had any material commentary in a negative way, so we expect that to take hold and we'll see the full benefits of that in the second quarter.
+Sure.
+The largest issue in what you just said there is these operators, the clients, the end user kind of move around their pumping companies during the course of the quarter.
+And we may be providing chemistry through one pumping company that then gets moved out for 60 days in a quarter and someone else comes back in, and that's very difficult to predict, but that's the biggest situation in that question.
+The pricing on these commodity chemistries, chemicals, I think will continue to be a challenge through the year.
+It's one reason why we work so hard to keep the pricing and the margin of CnF where it is.
+All in all, I think it'll start to work out through the rest of the year, <UNK>.
+The biggest swing that we really don't have any control over is when these end-user operators make decisions to move back and forth between their pumping companies, and we'll just have to see how that plays out as we provide more of those base chemicals.
+No, I think that's fair.
+The -- and I appreciate you talking about it as a joint announcement with IBM.
+That's very rare with them.
+It's something that has been in the works, as you can imagine, for not weeks but months.
+And clearly, it allowed a level of credibility of the impact of chemistry with cognitive learning as it continues to improve with the data that's applied into the machines of cognitive capability, but it'll become more than that.
+It's not just a validation of chemistry, it's an ability to understand the different variables that go into the completion process as to whether it's the way the well is drilled up, toe up or toe down; the type of perforations, all the variables that affect the completion that get people so frustrated of not understanding what has more of effect than another, will start to become clearer through the cognitive capability.
+And that's what we're most excited about.
+Yes, I wouldn't read too much into that on a quarter-to-quarter basis.
+What you said are the 2 reasons why that will fluctuate.
+So I just -- I wouldn't -- the pricing is, to me, just not that of a significant movement.
+And it all depends on when different clients are pumping a different blend of CnF.
+So we're very comfortable with the way we've been able to handle and hold the pricing of CnF and its associated margin.
+Most definitely.
+And we won't go down the list of the clients that have been through here in the last 60 days, but it ranges everywhere from majors to small independents, folks from South America to the far East.
+So it really is becoming a technology magnet of interest, not only for the clients, but also for the industry with the conferences we host here.
+Again, I would give an open invitation to folks listening in on the call.
+If you haven't been here, you should come here to experience it.
+It's different than going into the type of chemistry lab maybe you experienced in high school or college with a bunch of fume hoods.
+So yes, it's had a certain effect, as <UNK> mentioned.
+The amount of increase in client innovation work is measurable.
+We look at that regularly.
+But the early part of your question, it has compressed the time that people make a decision to choose chemistry as an important part of their completion.
+There's absolutely no doubt about that.
+No, it's a great question.
+We are doing that as we speak.
+We've meaningfully added to our storage capacity there, so we can ship from our blending facilities, whether it's Waller or Marlow in bulk.
+And then, go from that facility to staging areas with our clients in bulk, and we expect to see that as part of our margin improvement in the second quarter as the volume continues to increase and our capacity to manage more of the overall logistics from there, for the Permian, will really, we believe, start to have an effect in the second quarter.
+Sure, we're fortunate we've got our good man Josh <UNK> here, and he can answer that question for you.
+We certainly did have a good first quarter.
+The flavor side of our business continues to see opportunities and doors opening as the shorter citrus crops create more need for what we call the citrus flavor molecules.
+So we have a great interest there.
+We're continuing to optimize those opportunities.
+As you look into Q2, our top line might be down just a tad, but we expect the margin performance that you saw in Q1 to sustain itself, especially on the EBITDA line.
+And then, as you look into Q3, Q4, Q3 and Q2 will be fairly similar, and then usually, by Q4, you see a seasonal downtick with the beverage business slowing down a bit.
+But looking forward, we do feel good about CICT.
+The market opportunities are very, very favorable right now.
+Right.
+So give or take, a few percentage points.
+I think, CnF is right around 70% of the revenue in the first quarter.
+And what you're finding is that there are several, I'll call them localized chemical providers that provide their chemicals really in a geographic-centric area as opposed to us on a global basis.
+And those folks compete on price.
+We provide a technology solution that many, many times will not at all will be the lowest price.
+And through my history, we are very aware of the fact that when you go down on price, it's very difficult to come back.
+So we're watching this whole commodity chemical side of it very closely.
+I believe that the complete, what we call prospective chemistry management solution, where we provide all the chemistry, is where the future is, so that you can have the technology of the different ports of the chemistry compatible.
+It'd be no different than going to the same doctor to get your medicine for heaven's sakes instead of going to 3 or 4 different doctors and not knowing what the other one's prescribing.
+So we believe that will evolve over time, and as it evolves, we're just being very careful on this pricing.
+And if it means that at this point, we may sell a little bit less, that's okay.
+But we've got a very clear vision as to how to continue to move this to where people will embrace a holistic chemistry solution that comes from a company that, in many cases, we recommend less chemistry for heaven's sakes.
+It's not about selling more chemicals per well, it's prescribing the right chemistry at the right amount in that well to give the reservoir the best chance.
+And so, we're very confident that we'll continue to evolve as the year goes on, and I hope that answered your question there for you, <UNK>.
+Yes, so we -- I was over there for a board meeting over Easter and -- Easter weekend, and they believe that the China market is going to continue to grow with horizontal drilling.
+That will really start to happen towards the end of this year and moving into 2018.
+Interestingly enough, CnF is being used right now in acid work and coalbed methane work over there, which is interesting, certainly, as they get to move in towards more horizontal completions.
+We'll keep everybody focused as to how that evolves.
+Well, that's pretty perceptive, <UNK>.
+And I would certainly say everything you that said there is certainly in play.
+And for many of the folks that are listening on the call, my guess is they probably also listened to Schlumberger earlier in the month, where Paul talked about his views that the business model needs to change, and we agree with that.
+And what we're doing is creating as much capability on our side to enable the business model to change in ways that, right now, we may not be able to identify, but you listed many of the attributes that we feel that are unique to Flotek that will enhance the opportunity of what you described.
+Well, when we built this, with the good patience of our shareholders in the downturn, we built it for growth.
+So we're at about 70-some-odd percent of what it could be.
+And I think, based on what we're seeing now, by the end of 2018, we could be closer to just under 100% of utilization of our key people.
+So we're pretty well set for at least 18 months, but then, we've got the ability with this facility to add another 30% of the footprint with some pretty creative expansion opportunity that wouldn't be near as capital extensive as constructing the original facility.
+So we built this with the expectation of growth within the next 18 months and then, have the ability to grow pretty economically after that.
+Thank you, operator, and thank you, everyone, for your continued interest and support in Flotek.
+And we may see some of you on the road and, if not, we look forward to talking to you again at the end of our second quarter.
+We hope everybody has a great day.
+Thank you very much.

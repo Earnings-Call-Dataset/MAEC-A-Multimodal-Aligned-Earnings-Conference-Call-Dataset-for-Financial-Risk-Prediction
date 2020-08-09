@@ -1,0 +1,145 @@
+Good afternoon, everyone, and thank you for joining our call.
+I am <UNK> <UNK>, Head of TiVo's Investor Relations.
+With me today are Tom <UNK> and <UNK> <UNK> as well as Samir Armaly for Q&A.
+We just distributed a press release and filed an 8-K detailing our third quarter 2017 financial results.
+In addition, we posted a downloadable model on our IR website showing our historical financial results and non-GAAP to GAAP reconciliations.
+After this call, you will be able to access a recording of this call on our website at tivo.com.
+Our prepared remarks will last about 15 to 20 minutes, followed by a question-and-answer session.
+For the purposes of this call, when we refer to TiVo Inc.
+, we are referring to legacy TiVo Inc.
+entity and its business that was renamed TiVo Solutions after the acquisition by Rovi.
+Otherwise, references to TiVo mean the combined company operations of TiVo Corporation.
+Our discussions include forward-looking statements about TiVo's future business, licensing, product and growth strategies.
+We caution you not to put undue reliance on these forward-looking statements as they involve risks and uncertainties that may cause actual results to vary materially from these forward-looking statements as described in our risk factors and our reports filed with the SE<UNK>
+Any forward-looking statements made on this call reflect our analysis as of today, and we have no plans or duty to update them, except as required by law.
+With that, I will now turn over the call to our CEO, Tom <UNK>.
+Tom.
+Thank you, <UNK>, and good afternoon.
+TiVo continued its strong execution in the third quarter, delivering solid financial results and making progress in all areas of our business.
+We drove strong operating cash flows and declared a Q4 dividend of $0.18 per share, bringing our total expected dividend payments for 2017 to $0.72 a share or roughly $87 million.
+Before getting into those specifics of the quarter, I wanted to take a couple of minutes to remind investors of what TiVo is today.
+TiVo has moved well beyond a hardware company, and is now an innovative, entertainment technology company.
+To that point, 95% of our revenues this quarter came from software, services, advertising and licensing.
+Today, our business falls into 3 categories: first, Platform Solutions, where we offer end-to-end user experience software solutions for pay-TV operators in both developed and emerging markets.
+These products focus on bringing OTT offerings into the pay-TV experience, and helping operators provide great multi-device experiences; the second area is Software and Services, where we offer components of the entertainment experience, ranging from metadata to advanced search and recommendations, including voice search, advertising and data solutions.
+In this area, our customers include pay-TV operators, CE Manufacturers, ad-tech companies, content providers and even streaming music providers; and finally, IP Licensing, aimed at those who wish to build their own solutions.
+They can license our world-class intellectual property in order to provide a robust entertainment discovery solution.
+Our customers include 9 of the top 10 U.S. pay-TV providers, some of the leading virtual pay-TV operators, the largest international pay-TV operator, mobile device manufacturers, OTT players and other CE providers.
+All of these businesses have been built on innovative and compelling entertainment technology.
+Over the last decade, TiVo, including both Rovi and TiVo Incorporated, has spent almost $2 billion in R&D, making the consumption of entertainment better.
+And we're continuing to put significant resources towards this goal.
+Now getting into the specifics of our third quarter.
+Starting with our product efforts.
+We recently launched conversation in our next-generation retail product, which is important, as voice is becoming a critical element of the entertainment experience.
+TiVo strives to set itself apart from other voice solutions in 3 key ways: focusing solely on the entertainment domain, facilitating natural language interactions by leveraging our Knowledge Graph, and providing an increasingly personalized experience.
+Also, began deploying our new, visually-rich user experience, both in our retail channel and with operators, and officially launched our next-generation operator platform with Millicom in Columbia.
+This is a positive milestone as Millicom is one of the largest pay-TV and mobile operators in Latin America.
+And we believe success there can help us drive footprint expansion in Latin America and other international markets.
+Finally, we've made a significant amount of progress with several of our product-growth initiatives.
+And while not yet visible, we expect these efforts to start showing results next year and beyond.
+One example of this is IPTV, where there is a significant opportunity to accelerate upgrades from current customers and to meaningfully grow our footprint.
+Our IPTV product will enable pay-TV operators to deliver a great user experience with multiscreen and OTT functionality, but with much lower operational and deployment costs.
+We anticipate this product being available in the first half of 2018.
+Looking forward, we expect IPTV, upgrade to classic guides and international expansion to be important drivers of our Platform Solutions business.
+Another area we're very excited about is data and advertising.
+Data is an important enabler for TiVo to bring many new capabilities, including advanced advertising and media personalization.
+Today, TiVo processes TV-viewership data for over 25 million U.S. households.
+We have obtained rights to millions of TV households for anonymous, de-identified third-party use, and we're seeing strong demand for our TV data platform offering.
+We expect this offering to continue to grow as we onboard more households.
+We will also be rolling out an innovative, new interactive advertising service.
+This solution will be available to customers that use the TiVo user experience or our search and recommendation product, to allow more targeted and personalized promotions.
+Our continued advancements in data, advertising and search and recommendations are key areas of innovation, which we believe will drive future growth for our Software and Services business.
+Shifting to our IP business.
+We had a very good quarter.
+We signed a 3-year extension with AT&T, extending the license through 2025.
+This extension with the largest pay-TV operator in the U.S. highlights the long-term value and relevance of our intellectual property to U.S. pay-TV providers.
+Together with previously announced long-term agreements with other leading U.S. pay-TV operators, this provides a strong foundation and corresponding annuity-like revenue stream well into the middle of the next decade.
+We also renewed and expanded our IP-licensing relationship with Liberty Global, the largest pay-TV operator outside the U.S., bringing their entire footprint under license.
+And we announced a multiyear renewal with Sony, that licenses all of their relevant entertainment products, including OTT and virtual pay-TV.
+Looking forward, bringing Comcast under license remains one of our top priorities.
+While we are pleased with the success we have had bringing the rest of the U.S. pay-TV market under license, as we have cautioned before, litigation can be a long process.
+However, we are committed to taking the necessary steps and actions through the courts and other venues to ensure that our valuable intellectual property is properly respected by Comcast.
+With respect to the pending ITC action, we expect the final determination will be issued on November 9.
+We remain hopeful that the ITC will affirm the key aspects from the initial determination, including the exclusion order barring Comcast from importing infringing products.
+Beyond the upside from a potential licensing agreement with Comcast, we believe there are multiple significant opportunities for our IP Licensing business where we can grow recurring revenue.
+This includes making further progress with international pay-TV operators, especially in Canada, signing additional deals in the mobile and OTT spaces and opening some new adjacent verticals.
+We will discuss these opportunities in more detail in future quarters as we continue to make progress in signing new licensees.
+With that, I will turn it over to <UNK> to cover our Q3 financial results before returning for some brief closing remarks.
+<UNK>.
+Thank you, Tom.
+To reiterate what Tom said, we delivered solid financial results in the third quarter.
+Revenues were $197.9 million, up 29% from the third quarter of 2016.
+This increase was largely driven by the acquisition of TiVo Inc.
+Third quarter revenue include $23.6 million of legacy TiVo time warp-related IP revenue, $9.9 million of hardware revenue and $600,000 of other revenue, almost entirely ACP.
+Excluding these items, our core business generated $163.8 million in revenue.
+Product revenues were $103.6 million, up $33.6 million from Q3 2016.
+It is worth highlighting our advanced user experience products, including both higher-end and emerging-market offerings, continue to grow and are helping to offset headwinds from our legacy guide products.
+IP Licensing revenues were $94.3 million, up $11.2 million from Q3 2016.
+There was approximately $7 million of catch-up IP revenue in the quarter, bringing the year-to-date total to $28 million.
+On a sequential basis, our revenues include $9 million less in catch-up IP revenues when compared to the second quarter.
+Turning to cost.
+We exited the third quarter taking synergy actions that will result in annualized savings of almost $90 million, well in excess of our 1-year target.
+Additionally, this puts us very close to our in-state target of $100 million in annualized synergy savings.
+Getting into the details, GAAP total operating costs were $199.5 million in Q3.
+Q3 GAAP operating costs include $41.7 million relating to the amortization of intangibles, $13 million related to stock-based compensation and $8.9 million of cost related to restructuring, transition and integration efforts and several smaller items.
+On a non-GAAP basis, non-GAAP total COGS and operating expenses, including hardware and depreciation, were $135.8 million, up $2.9 million from last quarter.
+The increase was primarily driven by the timing of litigation spend, which can be lumpy.
+On a GAAP basis, we reduced our net loss before taxes to $12.6 million in the third quarter from a net loss before taxes of $29 million in the third quarter of 2016.
+On a non-GAAP basis, non-GAAP pretax income of $54.1 million was up from the $45.6 million in the third quarter of 2016.
+Estimated cash taxes for the quarter were approximately $5 million.
+GAAP and non-GAAP diluted weighted average shares outstanding for the quarter were 121 million and 122 million shares, respectively.
+For those interested in calculating our non-GAAP EPS, take our non-GAAP pretax income, subtract our cash taxes and divide by non-GAAP weighted average shares outstanding.
+Finally, we generated strong operating cash flow in the quarter.
+That said, our cash position was basically flat sequentially due to our dividend payment, the timing of some IP Licensing collections and the final licensing payment to a third party.
+Turning to our estimates for 2017.
+We provide estimates as to our revenues and pretax income.
+In addition, to allow investors who want to calculate certain non-GAAP metrics, such as non-GAAP net income and non-GAAP EPS, which we don't provide in accordance with the SEC's guidance from last year, we provide estimates of non-GAAP pretax income, expected cash taxes and non-GAAP diluted weighted average shares outstanding.
+We continue to expect full year 2017 revenues of $810 million to $830 million.
+On the cost front, we are maintaining our 2017 non-GAAP pretax income expectations of $218 million to $232 million.
+In terms of adjusted EBITDA, we're maintaining our expectation of $276 million to $290 million.
+Recall that we increased these ranges last quarter, as we are running ahead of our plan on cost reductions.
+Additionally, for those looking to calculate our non-GAAP EPS expectations, we expect to have cash taxes of $20 million to $22 million, and approximately 122 million non-GAAP diluted weighted average shares outstanding for 2017.
+Our expectations at the midpoint continue to include approximately $35 million of hardware revenues and approximately $45 million of non-GAAP hardware COGS.
+Finally, we can either expect to exit 2017 with annualized Q4 non-GAAP total COGS and OpEx cost of approximately $540 million.
+The one COG you have on the run rate, exiting the year remains the timing and extent of litigation spend.
+To wrap up, we delivered another strong quarter.
+We remain intently focused on continuing our operational and financial execution as we end 2017 and look to next year.
+With that, let me turn the call over to Tom for some closing remarks.
+Tom.
+Thank you, <UNK>.
+Before opening the call for questions, I wanted to comment on our CEO search.
+As we disclosed several weeks ago, we're making progress and expect to have the process wrapped up shortly.
+In closing, we had a strong first 9 months of this year, where we've not only delivered solid financial results, but put ourselves in a great position to create both near- and long-term shareholder value through continued strong execution.
+I am proud to see several of our efforts poised to begin driving the results as we look to next year and beyond.
+With that, let's take questions.
+Operator.
+That would be correct, <UNK>.
+Yes, it does.
+It includes the Sony PlayStation Vue.
+Probably need a little help on that one.
+<UNK>, you were breaking up a little bit.
+So I was having a hard time in hearing the question.
+Well, that was -- the discussion was centered around the IP deals, that we were trying to negotiate.
+And that they were taking longer to do because basically we wanted to locate -- we want to license directly with the service provider, and not through the box manufacturer in order to cover all of their households.
+Because not all the households are totally covered by one-box manufacturer.
+And in the past, we've done some deals going directly with box manufacturers.
+And that's what was elongating the deals.
+Millicom is really more of a product deal that we've been talking about in terms of getting our product deployed.
+Yes.
+So <UNK>, this is Tom.
+The basic approach is still very much try to go to the operator and license them on a recurring-revenue basis, on a per-sub-for-month basis.
+So that's the game plan here in North American and also in Latin America.
+Yes, it's great question.
+And so we -- we actually have a variety of products to go down there.
+I think if you, kind of, go back to the legacy Rovi days our a Passport product, it is always been a pretty active product in Latin America and continues to be.
+We certainly think the full suite of the TiVo products are also our product down there.
+You'll also see some of our Cubiware product, depending on the particular country, going to the certain parts of Latin America.
+So for us, it's a bigger market.
+The ARPUs aren't as high as what you would get in North America, but certainly a good market for us historically, and we think going forward, too, particularly with the combination of the Passport Guide, the TiVo Guide and Cubiware.
+And the territory there, over the past we've announced a couple of deals.
+So it is the area that where we're very favorably exposed to.
+Okay, guys.
+Thank you very much.
+I appreciate you guys joining the call.
+I know it's a busy day with lots of earnings announcements going on, and we certainly look forward to talking to some of you in the call in the next 24 hours or so.
+So thanks very much for joining the call.

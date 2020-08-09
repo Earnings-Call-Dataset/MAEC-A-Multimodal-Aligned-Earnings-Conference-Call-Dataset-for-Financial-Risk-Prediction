@@ -1,0 +1,295 @@
+Thank you.
+Good morning.
+Thank you for joining us for our first quarter earnings conference call.
+On the call today, Ed <UNK>, our Chairman and CEO, will discuss the quarter and provide an update on our strategic initiatives; then <UNK> <UNK>, our Executive Vice President and CFO, will provide an overview of our first quarter 2018 financial results and updated guidance for certain financial metrics.
+Following their comments, we will open the call to Q&A.
+Also joining us for Q&A will be our President and COO, Chris <UNK>; and our Chief Strategy Officer, <UNK> <UNK>.
+In addition, I'd like to point out that this presentation will include the use of several slides.
+We will be showing the slides and providing commentary on each.
+A downloadable copy of the slide presentation is available on the Investor Relations portion of our website.
+During our remarks, we will make some forward-looking statements, which represent our current judgment on what the future may hold.
+And while we believe these judgments are reasonable, these forward-looking statements are not guarantees of future performance and involve certain assumptions, risks and uncertainties.
+Actual outcomes and results may differ materially from what is expressed or implied in any forward-looking statements.
+Please refer to our filings with the SEC for a full discussion of the factors that may affect any forward-looking statements.
+We undertake no obligation to publicly update any forward-looking statements, whether as a result of new information, future events or otherwise after this conference call.
+Also, note that references made to the planned migration of C2 Options Exchange and the CBOE Options Exchange are subject to regulatory review.
+During the course of the call this morning, we will be referring to non-GAAP measures as defined and reconciled in our earnings materials.
+We will also refer to non-GAAP adjusted combined results, which are also reconciled in our earnings materials.
+As you know, we completed our acquisition of Bats Global Markets on February 28, 2017.
+The combined results present information regarding the combined operations as if the Bats acquisition had closed at the beginning of 2017 in order to provide a supplemental discussion of our results and review of our business.
+Now I'd like to turn the call over to Ed <UNK>.
+Thank you, Debbie.
+Good morning, and thank you for joining us today.
+I'm pleased to report that first quarter 2018 was our best quarter ever and that we raised our expected run rate expense synergy target to $85 million at the end of 2020, up $20 million and a year ahead of our initial projections.
+<UNK> will discuss that more detail later.
+CBOE Global Markets reported adjusted earnings per share of $1.38 on net revenue of $329 million, led by double-digit year-over-year gains across each of our business lines and new trading highs in our proprietary products.
+Our record results underscore the utility of our products and the strength of our diversified portfolio of exchanges, particularly in times of heightened market volatility, which we saw during the first quarter.
+As we shared in previous calls, we expected that the ongoing growth we saw in VIX and SPX options and VIX futures during sustained periods of low volatility would spike when volatility returned to the market.
+This expectation played out in the first quarter in the form of new quarterly volume records in VIX futures and options and SPX options as well as a lift to our equities and FX businesses.
+Following the sustained period of record low volatility in 2017, in which the VIX index averaged just over 11 compared to its long-term average of 19, investor perceptions of risk changed dramatically in Q1 marked by large spikes in both implied and realized volatility.
+The new normal appears to be a VIX level ranging between 15 and 25, which is more in line with historical levels that we saw throughout 2017.
+Historically, transitions from low to high volatility regimes result in traders reassessing the products they use and shifting into products that are best suited to a new market environment.
+We believe that small differences between front month and longer-dated VIX futures that is a flat VIX term structure is signaling that the market is still adjusting to the new volatility regime.
+We view shifts in product usage as normal during these transition period, and we believe we are seeing the shift play out within our proprietary index complex.
+While higher volatility is generally good for all of our businesses, the flat VIX term structure has been a headwind for VIX trades that seek to capture price differences across the VIX futures curve.
+At the same time, large daily moves in the S&P 500 have created new opportunities for VIX option users, who can capitalize on daily trading ranges that are 3x greater than in Q4 2017.
+As such, average daily volume in SPX options in April was up 20% year-over-year compared to April 2017 and largely offset declines in VIX futures and options volume relative to last year's solid April trading.
+Furthermore, SPX average daily volume in April was 15% above SPX options activity for the full year 2017.
+Since early February, the VIX futures term structure has been flat or downward sloping 55 of 61 days, an unusually long period not seen since 2011.
+However, we expect that VIX futures prices will eventually return to a more familiar upward sloping pattern, as it has done in the past, regardless of where the market sets the new floor for equity volatility.
+Let me be clear.
+Volatility is alive and well, and we are confident that our SPX and VIX products offer the trading tools to manage risk in any market environment.
+Regardless of market conditions, we remain intensely focused on our commitments to product innovation, leading-edge technology and seamless trading solutions.
+I'll take a few moments here to provide an update on key strategic initiatives supporting those commitments.
+Our legacy of driving growth through product innovation was highlighted throughout the month of April, which we proclaimed VIX month in commemoration of the 25th anniversary of the dissemination of the VIX.
+The month featured a daily VIX social media campaign, the launch of a new VIX website and a VIX symposium held for press and customers.
+Perhaps most fitting, we also announced a new VIX product.
+On April 17, we launched the dissemination of the CBOE 1-year volatility index, which provides up-to-the-minute market estimates of 1-year volatility.
+The 1-year index was designed to monitor the market's expectation for longer-term volatility, which we expect will be especially useful for investors with longer-duration liabilities, such as insurance companies and pension funds.
+We are exploring the development of a futures contract on the index subject to regulatory review and look forward to reporting on that going forward.
+Turning now to the migration of CBOE exchanges onto proprietary -- BATS proprietary technology, which we believe will maximize our value proposition for customers and shareholders and power our company's growth going forward.
+We completed a major milestone in the integration with the flawless migration of CBOE Futures Exchange to the -- our Bats technology as scheduled on February 25.
+The migration provides our futures customers with a more efficient and user-friendly trading experience that includes greater bandwidth, significant latency reduction, enhanced risk controls and improved complex order handling.
+We remain laser-focused on executing a seamless technical and operational integration for all of our exchange platforms.
+We are well on track for our planned C2 Options Exchange migration on May 14, 2018.
+And as announced last month, we have targeted October 7, 2019, for the migration of CBOE Options Exchange.
+We are modifying Bats technology to incorporate both electronic and open archive trading for CBOE Options Exchange, which includes SPX and VIX options trading.
+We targeted 2 technology enhancements for 2018 in advance of migrating CBOE Options Exchange: the migration of S&P 500 Index options to hybrid trading, which we successfully completed last week; and the introduction of new trading floor terminals, which we plan to begin rolling out on November 5, 2018, subject to regulatory review.
+We are encouraged by the initial response to SPX and hybrid and are very pleased with -- the conversion itself was flawless.
+The completion of the CFE migration and significant steps taken to prepare for the C2 and CBOE options migrations leave us well positioned to achieve our ultimate goal of providing our customers with a unified world-class trading experience on Bats' leading-edge technology across all of our equities, options and futures markets.
+As noted in our last call, our preparations ahead of MiFID II, which came into effect on January 3, have enabled us to grow our European business in the midst of a changing regulatory landscape.
+The rapid adoption of our periodic auctions book this quarter, which is a MiFID II-compliant lit order book operating auctions throughout the day, demonstrates that market participants are finding value in executing their trades in a venue designed to provide minimal market impact.
+Our Large In Scale block trading platform also continues to attract new customers and increase volume, with average trade sizes in excess of EUR 1 million.
+Additionally, we've continued to grow our systematic internalizer technology services business, further diversifying our European business model.
+While the liquidity landscape will continue to evolve under MiFID II, we believe our seamless rollout of new technology and services ahead of the new regulation leave us well positioned to continue to adapt and grow.
+In closing, I would like to thank our team for a truly tremendous quarter.
+While the return of volatility to the marketplace provided great headwinds, the collective work of our team helped position each of our exchanges to benefit with double-digit volume increases.
+Further, throughout what proved to be our company's busiest quarter on record, we continue to lay the groundwork for future growth by rolling out new products and services while advancing our technology integration.
+As a result, I look forward to all that we can accomplish to power the potential of our customers and shareholders in the months and years ahead.
+With that, I will now turn it over to <UNK>.
+Thanks, Ed, and good morning, everyone.
+Before I begin, I want to remind everyone that unless specifically noted, my comments relate to 1Q '18 as compared to 1Q '17 and are based on our non-GAAP adjusted combined results, including Bats.
+Building on 2017's positive momentum, as Ed already noted, we reported record financial results for the quarter.
+In summary, our net revenue grew 24%, with net transaction fees up 36%, nontransaction revenue up 7% and organic net revenue growth of 28% for the quarter.
+Adjusted operating expenses increased 3%, which, combined with our strong revenue growth, produced 560 basis point lift in our adjusted EBITDA margin of 70.4%, demonstrating our strong operating leverage.
+And finally, our adjusted diluted earnings per share grew 47% to $1.38.
+The press release we issued this morning and our slide deck provide the key operating metrics on volume and revenue capture for each of our segments as well as an overview of key revenue variances.
+Additional disclosures can also be found in our Form 10-Q filed this morning.
+At this point, I'd like to briefly highlight some of the key drivers influencing our performance in each segment.
+In our Options segment, the 24% net revenue growth was primarily driven by higher net transaction fees, reflecting the record volumes previously noted.
+Turning to futures.
+The 47% increase in net revenue resulted from a 44% increase in average daily volume offset by a 5% decline in revenue per contract, with the latter reflecting higher rebates related to elevated VIX futures trading volume.
+We continue to be excited about the opportunities we believe the CFE technology migration will have for our futures business, in particular allowing us to bring new products to market at a faster pace and more efficiently.
+Overall, the long-term growth of our proprietary products remains our primary focus, and we have a robust pipeline of new products we're excited about launching.
+Turning to U.S. Equities.
+Net revenue grew 10%, with equities volume benefiting from the return of volatility to the market, shifting more trading to on-exchange venues versus off-exchange.
+As this slide shows, total market data revenue for U.S. Equities was up 16% in the first quarter, with SIP market data revenue up 14% and proprietary market data up 24%.
+However, a significant portion of the $3.7 million increase in SIP revenue was due to auto recoveries.
+So the first quarter's not representative of our expectations for future quarters this year as we continue to expect downward pressure on SIP market data due to industry consolidation.
+Looking to growth in our proprietary market data revenue, a majority came from pricing changes implemented at the beginning of the year.
+We expect continued growth in proprietary market data in 2018 as we benefit from pricing changes and customer response to our CBOE 1 product.
+Net revenue for European Equities grew 37% on a U.S. dollar basis, reflecting growth in both net transaction and nontransaction revenues following the implementation of MiFID II in January as well as strength of the pound sterling versus the U.S. dollar.
+On a local-currency basis, net revenue increased a very healthy 18%.
+While we benefited from increased market volumes, we realized increased revenue from a higher net capture due to the later-than-planned implementation of the dark pool volume caps.
+We expect net capture to moderate back to historic levels for the remainder of the year.
+Net revenue for Global FX grew 35% this quarter, setting new highs in both market share and average daily notion of value traded on our platform.
+Volumes improved on both our New York and London matching engines, with the latter more than tripling its volumes year-over-year.
+Macro environmental factors have certainly contributed to the overall growth in the spot FX market, but we believe our market share growth reflects the impact of technology enhancements as well as more effective liquidity provisioning.
+Turning to expenses.
+Total adjusted operating expenses were nearly $110 million for the quarter, up 3% compared with last year's first quarter.
+The key expense variance was in compensation and benefits, resulting from, one, higher incentive-based compensation driven by and aligned with our financial and operational performance; and two, accelerated stock-based compensation recognized in the first quarter, up about $4 million and $2.5 million, respectively.
+As we pointed out on our last earnings call, there are several incremental expenses impacting our year-over-year comparability such as expenses associated with the Silexx acquisition, the increased strength of the pound sterling and the gross-up of OPRA-related expenses.
+Additionally, during the first quarter, we raised our capitalization threshold, which resulted in incremental expense.
+In total, these items accounted for about $2.9 million in incremental expenses in the quarter, with the currency impact being the largest.
+If you adjust for those items, expenses would be up less than 0.5%.
+We are reconfirming our full year expense guidance to be in the range of $420 million to $428 million.
+We expect compensation and benefits to be lower in subsequent quarters, reflecting the expected realization of expense synergies as well as smoothing out of the impact from the accelerated vesting, which is typically weighted to the first quarter when new grants are issued.
+For the first quarter, we realized $3 million in pretax synergies primarily from compensation and benefits.
+As Ed mentioned, we established our technology migration date for C1, our final and most significant migration to Bats' technology.
+With that key date now established, we raised our expected annualized run rate expense synergy target to $85 million from $65 million.
+Furthermore, we now expect to reach this run rate in 2020, a year earlier than our initial projections.
+We still expect to exit 2018 with approximately $50 million in annual run rate expense synergies and now expect to reach $80 million at the end of 2019.
+Turning to income taxes.
+Our effective tax rate on adjusted earnings for the quarter was approximately 26%, somewhat below our annual guidance range of 26.5% to 28.5% due to the settlement of uncertain tax positions during the quarter.
+The effective tax rate on combined adjusted earnings in the first quarter of 2017 was 28.1%.
+The decline primarily reflects the favorable impact of corporate tax reform.
+We are reaffirming that we expect the annual effective tax rate on adjusted earnings to be in a range of 26.5% to 28.5% for 2018, with the tax rate for the second quarter expected to be slightly above the high end of the guidance range and the tax rate for the third and fourth quarters to be at the higher end but within our guidance range.
+In addition, we are lowering our guidance for capital expenditures to be $45 million to $50 million versus our previous guidance of $50 million to $55 million.
+The decrease reflects more efficient spending and the adjustment of our capitalization threshold.
+Moving to capital allocation.
+We are maintaining our unwavering focus on effective capital deployment to drive shareholder value by prioritizing the investment in our business to support our growth strategy and then returning excess free cash flow to shareholders via a combination of dividends and share repurchases while continuing to delever to maintain a strong balance sheet and longer-term financial flexibility.
+Our quarterly results, once again, generate strong cash flows, which enabled us to pay out dividends of $31 million, use $44 million to repurchase shares and reduced our debt by an additional $25 million.
+Year-to-date through April 30, we have repurchased approximately 451,000 shares of CBOE common stock for about $51 million or about $112 per share.
+We ended the quarter with adjusted cash and investments of $166 million and a leverage ratio of 1.6x.
+The adjusted cash balance was higher than normal due to a number of significant tax-related liabilities due in April.
+In summary, CBOE delivered outstanding quarterly results and continued to demonstrate our focus on and the strength of our proprietary index products, reflecting industry-leading organic growth, strong growth in a diverse set of revenue stream, disciplined expense management, leveraging the scale of our business producing higher profit margins and integration plan on track with the higher run rate expense synergy target expected to be achieved a year earlier and ongoing focus on capital allocation by reducing debt while continuing to return capital to shareholders through quarterly dividends and share repurchases.
+With that, I'll turn it over to Debbie for instructions on the Q&A of the call.
+Thanks, <UNK>.
+At this point, we'd be happy to take questions.
+(Operator Instructions) Keith.
+Well, Rich, I think you\
+Sure.
+While we'll leave manipulation to the prepared comments that we've made in the past, we are sure and certain that both our regulatory department, the first line of defense here on any market activity, and then ultimately, obviously, in cooperation with the regulators.
+That is a path, and that proceeds, I think, each and every day.
+And it's not just in the VIX complex, it's in everything that we trade across all of our exchanges.
+So if we put that aside and address specifically, I think what you're asking our question is -- and recognize that each and every day VIX trades, throughout the day, almost 24 hours a day -- VIX futures, and that there is this moment in time that we're always and constantly looking at how do we make better this settlement moment.
+If we could focus on that, I think it's exactly what Chris would like to tee up for you this morning.
+But again, I want to stress, let's concentrate on that settlement.
+The intraday trade and the measure of volatility and the perceived risk in the market, this measure is working beautifully throughout the day and into the -- almost around the clock.
+So let's focus, if you like, right at that moment of time of settlement.
+Yes.
+Thanks, Ed.
+And Kenny, great question with regard to the VIX settlement auction.
+Obviously, this is a moment-in-time auction.
+It's not much different than the auctions we run every day in equities at the open and at the close.
+And I've spent my career around auctions.
+So as I look at this auction, there are things that we can attack in this -- the VIX settlement auction.
+We have a variety of approaches that we're using, all with the sole goal of enhancing liquidity in the auction.
+As I think about it, it's really 3 areas of attack.
+First, we're enhancing the technology that we use for the auction.
+We're improving the distribution of the imbalance messages.
+Those are the messages that send out the imbalances that are formed in the auction.
+And then, we're taking steps -- active steps to increase the liquidity in the auction.
+Returning back to how we're enhancing the technology, just this week, as you know, we rolled out the hybrid platform for SPX.
+Now this platform allows market makers to have a more enhanced interaction with SPX all day long but more importantly, around the auction moment in time.
+We also plan to increase the speed of the opening process during the auction itself.
+With regard to the distribution of imbalance messages -- I just think about it, in the most recent auction we had, we had a large order imbalance.
+Now it is our job to market those imbalances to the market, to the widest distribution that we can possibly do that distribution.
+And those -- what we did see on that day was those imbalances messages were being read and received, and orders were filling in most of that large order imbalance, but not all of it.
+So it's not the trader that submitted the order, it's not his job to market the imbalance.
+It's our job as a market.
+So some of the steps we are taking to improve that, we plan to enhance the imbalance feed by increasing the speed of its dissemination.
+We are actively pursuing ways to improve the distribution of our imbalance information.
+We plan on making it available to a wider audience through a variety of means.
+Now turning to liquidity, where that's the most critical part of this.
+We are actively talking to our current market makers and new market makers to join, not only the VIX complex but the auction itself.
+We have been fielding inbound calls from our market makers and our end users that want to participate in those imbalance orders because those are moneymaking opportunities for all market participants to offset.
+So we have a three-pronged attack that we're taking in the auction.
+These are short-term and long-term plans.
+We ultimately will be rewriting the auction when we migrate to the Bats technology when we migrate the C1 platform in 2019.
+Hopefully, that answers your question, Kenny.
+Sure.
+Well, most importantly, on February 25, so post-February 5, we migrated the futures platform for CFE, and that was a, what I'd call, wildly successful migration, not only because it was perfectly executed but it enhanced the liquidity pool of our platform.
+And since that migration, we have been monitoring closely our user traffic, both in terms of the number of market participants and market makers joining the platform post migration as well as the -- as you mentioned, the user account level.
+We are now -- we have grown since migration to somewhere just over 6,000 active user accounts at the customer level.
+The majority of that growth, ironically, is in active in VIX contracts.
+While we have a very successful launched bitcoin future, we've seen some growth in the bitcoin active accounts in bitcoin, but the majority of the growth since the migration has been in VIX user accounts.
+So we're pretty excited about that.
+More importantly, the performance of that platform since the migration, we have seen our displayed liquidity has obviously increased during both regular and overnight trading hours.
+That's important when you think about Asia trading in the VIX complex.
+It has actually doubled since the migration.
+So that's an impressive stat.
+The spread has narrowed to our fix spread in VIX in particular.
+The spread has narrowed down to the actual nickel increment that we have minimum spreads on.
+So really, in some, a wildly successful migration.
+We're very positive about the active user accounts since that migration on February 25, and we like the performance of our market makers since that migration.
+Yes.
+I think the other potential is the amount of new eyeballs on a 1-year VIX contract in the current index form.
+It will be interesting, as we work through what it takes to make that a tradable contract in the future, what interest we'll see as a result from a new user base who is more interested in longer-dated vol.
+So in the prepared remarks, we pulled out insurance companies and pension funds.
+So I think there is -- I would think there's more to come.
+That short-dated vol exposure is not as interesting to that group as longer-dated vol is, so I think there's -- I'm hopeful that there's more interest as more eyes are looking at that 1-year vol number.
+So first, the trade that we said is really facing the greatest amount of headwinds is capturing the difference over time in the vol surface.
+So you\
+Thanks, Ed.
+And with respect to the users, just to be clear, we grew our user base since the migration.
+That's something we were looking for and we were excited about, so over 6,000.
+We didn't grow by 6,000.
+I just want to make sure we're clear.
+But what that base gives us, and you really can't convert users to a formula of new contracts, it's actually -- it's very positive post migration.
+It's a very positive statistic.
+But I look at yesterday, where we traded over 300,000 VIX contracts in our complex.
+What those users really reflect is we're primed for the trading environment that Ed's talking about when the curve starts to shift.
+So having those user bases there, those users create the 300,000 day trades in the complex.
+So can't draw the formula from the number of users.
+Any one user can be a dramatic user of VIX, and we've seen some accounts have exceptional volume in the VIX complex.
+So it's hard to draw any formulas from new users to total volume.
+There's a chart.
+Yes, we have a chart in.
+.
+And you should be mindful what this chart is saying.
+Prior to that, we had a growth rate of 25% over a 2-year period.
+So it's really just a tremendous uptick we've had since the replatforming.
+Just maybe one.
+I know we're only 4 days in here, but the SPX migration to the hybrid platform and just maybe how -- or if you're seeing anything yet on how that plan strategy-wise, just how that customer mix might be shifting or how we could look forward to shift.
+Sure, great question.
+And as you mentioned, it's just been a week, but it's been a very successful week.
+Just some stats on the migration to the hybrid system.
+Spreads in SPX -- and again, this is 1 week of data.
+But spreads in the SPX have tightened by 50%.
+That's an impressive stat.
+Displayed size has increased by approximately 90%.
+So that allows the external all-automated electronic execution in the SPX to see a greater size that is available on the screen.
+The electronic [verse] open outcry continues to maintain about the same level pre migration, but we'd expect there to be some time before that starts to shift upwards towards the electronic side.
+Most importantly, what we have seen -- and we structure this very carefully to make sure the spread was going to narrow but not impact the open outcry liquidity.
+So we continue to see large trades being satisfied in the open outcry pit to solve for very complex positions.
+And again, it's critical that they are able to get those trades off in what is already a narrow SPX spread.
+So very successful migration.
+It's only been a week, as you mentioned, but the stats are pretty impressive for a week.
+I think yesterday, Chris, was a really good view into a unusually wild day in the market as far as a move from open to close and being able to satisfy roughly 1.6 million contracts on a 4-day-old platform from our market makers' perspective.
+So good view into busy day yesterday.
+Sure.
+The -- just to be clear, the SEC's focus was on the consolidated SIP fee change that was filed earlier in the year.
+So it's all of the SROs that participate in the SIP.
+And that filing was -- filing needs to be refiled with clarity around rationale for the pricing.
+So it doesn't mean that pricing can't be changed, it just means the filing has to be enhanced that is made before the SEC.
+So it's still early in the process, and the exchanges are working with the SEC on the SIP filing.
+Hopefully, that answers your question.
+Yes.
+I think, Chris, you can speak to the direct feedback from the customers and whether or not they see a concern from the media.
+Let me -- my comments and views from the customer are that we're trading day in day out because this is the vehicle we use to hedge vol exposure, and we do it 24 hours a day.
+That's the first inbound I receive.
+As far as communicating with our customers, that is a -- from our perspective, proactive that we want to tell our story every chance we get.
+We've done that with all of you when we think there's something to tell you that doesn't fit a normal cycle.
+So proactive communication and transparency is really what we've always been about.
+So I would expect you should see us doing that at any occasion when we think there's something to be told.
+As for, Chris, the feedback you're getting on the liquidity and trading in and around that settlement, I think you should share your views as well.
+Yes.
+One of the -- obviously, we quickly issued a letter proactively because we wanted complete transparency around what our visual into that event was, and we wanted to share that with our trading community.
+More importantly, the inbound has been, from many clients, "How do I trade with that imbalance.
+" They see that as a trading opportunity, and the inbound has been consistently from both market makers and end users very interested in trading with those imbalances that they actually missed that warning.
+So very positive from the trading community.
+Remember, not all of our end user clients trade into the settlement.
+Many of our clients are rolling their contracts into the following months.
+So they don\
+<UNK>, I think you should expect us also -- as the press is trying to understand this, this isn't easy stuff.
+So the misperceptions on how these processes work, we're going to be helping all along, and we think that's part of our responsibility is to continue to educate.
+And if we can do that with the press, we're going to do it.
+So expect us to be engaged and trying to straighten out those misperceptions regardless of the event, the day or the market environment.
+That's just what we do.
+Debbie, can I give that forward-looking.
+Chris is going to take this one.
+I have attorneys around me.
+Great.
+So look, I said it earlier.
+When you do these migrations, it's critical to look at the users that come back after the migration.
+And obviously, we had the events of February 5 before the migration.
+So we're able to see the users that came back after February 5, along with coming back after the migration.
+Both our market maker participation and our client participation was up post migration.
+So those are all phenomenal statistics when you're analyzing the success of a migration.
+With regard to the activity levels, remember, the VIX contract is a sizable contract.
+It's not really a retail contract today.
+So when we look at those users' accounts, they're largely sophisticated users that are in those accounts.
+We don't -- we haven't tracked each account down to the level of activity and how that shifts the future volume of VIX.
+But I do think -- I was excited about yesterday's 300,000 contracts because it gives us -- we have successfully migrated a base of users that can deliver a day of over 300,000 contracts despite very small open interest.
+So again, the open interest and -- the correlation between open interest and the volume of VIX, there's not a lot of correlation there when you have a 300,000 -- over a 300,000 contract day like yesterday.
+I would say, though, in the past, we have said looking into the migration that we did not fit the global standard from a futures trader's perspective.
+So there were pros that weren't going to write to our old platform.
+We did point out that big, big traders, the most [meaningful] ones, were really customers of ours.
+But there was the next layer and the layer below those that just did not find our convention -- our quoting methods meeting their global expectations.
+So we knew there was a queue that should be coming as far as new users.
+But again, the big players we have had here.
+Sure.
+On the SEC front, probably not much change from my perspective.
+Over the last couple years, the SEC has been very diligent around any market data filing.
+They -- certainly, we've -- we spend a lot of time on our -- on what was originally Bats One and is now CBOE 1, working through that original filing and adding a lot more detail in the filing than traditionally in the past.
+So this is probably the last couple of years we've seen a great deal of focus on all market data filings, both the proprietary exchange level market data filings as well as SIP-related filings.
+With regard to the SIP pricing, the goal of that pricing was to be revenue-neutral.
+When you declare something revenue-neutral, you obviously have to spend a lot of time explaining how it is actually revenue-neutral.
+So I think a lot of the requirements that the SEC are putting on market data filings have been going on for a couple of years.
+I don't see this as any different really to enhance the description of the filing and really talk about how -- what the impact of that -- those revenue -- those pricing changes would be.
+And Chris, it's <UNK>.
+The -- of the $3.7 million of the increase we saw in that -- as far as year-over-year, probably 85% or a little over $3 million was actually attributable to the audit recoveries.
+Thank you.
+That completes our call this morning.
+We appreciate your time and interest, and we'll be around if anybody has any follow-up.

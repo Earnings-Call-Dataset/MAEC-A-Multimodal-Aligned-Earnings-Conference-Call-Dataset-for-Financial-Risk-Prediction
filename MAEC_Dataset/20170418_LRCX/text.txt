@@ -1,0 +1,100 @@
+Thanks <UNK>
+Good afternoon everyone and thank you for joining us today for our March 2017 quarterly earnings call
+The March quarter represented a solid start to the calendar year
+We delivered record levels of shipments, revenue, gross margin dollars, operating income dollars, and earnings per share
+Each of these metrics grew double digits quarter over quarter
+Financial performance was above the midpoint of guidance for all metrics, with operating margin and earnings per share above the high-end of the range we provided to you last quarter
+Shipments for the quarter were strong at $2.413 billion which was up 25% sequentially and again above the midpoint of the guided range
+Memory shipments were very strong in the quarter, as customers continued their investments in three 3D NAND capacity
+Our customers are investing in new 3D wafers, they're converting planar to 3D and they're also embarking on 3D technology conversions to increase layer count
+NAND demand continues to be strong driven by growth in enterprise and client SSDs as well as mobile device density increases
+The combined memory segment represented 73% of total system level shipments and that compares with 61% in the prior quarter
+Memory shipments were weighted heavily towards - excuse me, the nonvolatile segment which represented 50% of shipments in the March quarter compared with 37% in the prior quarter
+DRAM shipments grew 24% sequentially in dollar terms and made up 23% of system shipments
+DRAM shipments comprise 24% of system shipments in the December quarter
+We're seeing an uptick in DRAM spending in line with improving demand in content growth from areas such as smartphones and servers
+DRAM spending is largely focused on conversions with the majority being conversions to the 1x nanometer node
+The foundry segment was flattish sequentially in dollar terms accounting for 24% of system shipments
+Foundry spending was a combination of leading-edge 10 nanometer capacity, initial 7 nanometer pilot investments as well as continued spending at 28 nanometer and above with the latter being primarily focused in <UNK>a
+And finally the logic and other segment contributed 3% of system shipments
+Revenue came in at $2.154 billion in the March quarter, which was up roughly 14% from the December quarter
+Gross margin for the period came in 46.1% above the midpoint of our guidance
+And as I've shared with you before, our gross margins are a function of a number of factors such as overall business volumes, product mix and customer concentration, so you will see variability quarter to quarter
+And I just like to remind you that our financial model is still the best way to think about our ongoing profitability performance
+Operating expenses in the quarter grew as we knew they would to $414 million
+This compares to $384 million in the December quarter
+Operating expenses as a percent of revenue decreased to 19% compared to 20% in the prior quarter
+And as <UNK> pointed out, the majority of our OpEx spending continues to be allocated to funding our critical R&D programs
+Operating income in the March quarter came in at $578 million and that compares to $490 million in the prior quarter
+Operating margin was 26.9%, above the high end of the guided range
+The tax rate for the quarter was 12% compared with 15% last quarter
+The tax rate in the March quarter was favorably impacted by the release of tax liabilities from the conclusion of certain tax matters
+Additionally, we had a reserve release related to the Novellus acquisition that is included in the GAAP results
+The tax rate in the low-to-mid teens for the remainder of 2017 would be reasonable for you to use in your earnings models
+Based on our share count of approximately 182 million shares, earnings per share for the March quarter totaled $2.80, above the guided range
+This share count includes dilution on a non-GAAP basis from both the 2018 and 2041 convertible notes, with a total dilutive impact of about 16 million shares
+And I’ll remind you that dilution schedules for the 2018 and 2041 convertible notes are available on our Investor Relations website for your reference
+This quarter we returned $213 million to our shareholders, $73 million in dividend distributions and $140 million in share repurchases
+We took delivery of 1.2 million shares at an average price of $114.30. We’ve completed approximately 20% of our current $1 billion share repurchase authorization and I'll let you know that we plan to initiate a $500 million accelerated share repurchase program in the June quarter
+Now let me return to the balance sheet
+We continue to have both a solid cash position and healthy cash generation
+Cash and short-term investments including restricted cash increased modestly to $6.140 billion at the end of the quarter
+Cash from operations was $423 million and that compares to $404 million in December
+DSO held steady at 69 days in the March quarter, the same level as in December
+Inventory turns were 4.2 which was up slightly from 4.1 in the prior quarter
+This turns number is the highest we've achieved since we've combined LAM with Novellus
+We exited the quarter with deferred revenues of $842 million, which was up from $673 million in December
+This amount excludes $260 million in shipments to customers in Japan which will revenue in future quarters
+These Japanese shipments are up from $129 million in the December quarter
+And I'll just remind you that these Japanese shipments remain on our balance sheet as inventory carried at cost
+And I'll just do the math for you
+I'd like to point out that this combined deferred shipment bucket now stands at $1.1 billion and it grew 37% in the March quarter
+I expect deferred revenue will grow again in the June quarter
+Company noncash expenses for the quarter included the following; $35 million for equity comp, $38 million for amortization and $38 million for the depreciation
+Capital expenditures were $44 million which was up from $37 million in the December quarter
+We ended the quarter with approximately 8,600 regular full-time employees, which was up about 400 from the end of the December quarter
+The increase in headcount was in support of our growing business levels primarily in the operations and field organizations
+Additionally, we're bringing on board the talent required to execute on our forward looking R&D programs
+Now looking ahead, I’d like to provide you our guidance - for non-GAAP guidance for the June quarter
+We're expecting another record shipment of $2.500 billion plus or minus $100 million
+We’re expecting record revenue of $2.300 billion plus or minus $100 million
+We’re forecasting gross margin of 46%, plus or minus 1 percentage point and we're forecasting operating margins of 27% plus or minus 1 percentage point
+And finally, we’re forecasting earnings per share of $3, plus or minus $0.12 based on a share count of approximately 180 million shares
+We're obviously pleased with our performance this quarter and with the guidance we've just shared for the June quarter
+Our business has never been stronger financially and we're continuing to execute extremely well
+We're in the right place at the right time with the right products
+We're partnering with our customers to enable the transitions happening within the industry today and we're making the investments required to sustain our business long term
+Operator that concludes my prepared remarks, <UNK> and I would now like open up the call for questions
+Question-and-Answer Session
+The only thing I’d like to point out <UNK> is obviously, you know what memory revenue is likely to be this year, it's super strong, right
+And so you’ve always have to think about affordability and clearly the levels that are going on today are affordable given how strong revenue and memory is
+Yeah, I mean we're - Tim, as you know we guide one quarter at time, we’ll give you a little bit of color which is what <UNK> did, when he said a little more balanced than the 55/45 and there's also reason I gave you the deferred revenue number, so you can think about how that likely transpires through the year
+I'm not going to guide the third calendar quarter or the fourth, but I think we've given you enough to model it pretty closely
+But specifically is your question, Tim, as more kind of headline for us in terms of the timelines for ship to install and therefore acceptance of revenues
+In any one quarter and you don't get to see this unfortunately, but the specific scheduling of shipments in any one week or any one day of any one month, I mean, that kind of jerks the ratios around
+So there's is no real story here in terms of kind of changing dynamic of timeline
+I mean it’s continued focus on just managing our remote factories, managing our own internal facilities, anticipating what we were going to need to be able to support at this point months and months ago and communicating that to our supply chain partners, <UNK>
+I mean it's operational excellence, the way Lam has always executed, just at a different scale here
+Yeah, you’re reading too much into Krish
+I mean, any time you're doing more this year than you did last year you need more people to execute that, that's the statement around R&D
+The biggest area of increase in headcount though Krish is, operations as well as the field who are shipping product real time and installing it at the customers facility
+C
+J
+, the guidance I gave you as you think to margin percentages, even though we’re maybe not exactly on the financial model, we provided to you the margin percentages in the financial model are still good guideposts if you will in terms of how to model our business
+So I’d encourage you to go back and have a look at what we shared with you in November there
+I’ll give you a comment, <UNK>
+I think March is probably the low point in terms of what the calendar year looks like from a system shipment standpoint in the logic and other, it’s going to strengthen through the back half of the year
+Will be very small, Joe
+Yeah
+<UNK> with all due respect, 27 and 26 isn’t wildly different
+So me guiding you back the model is a place that you ought to gravitate towards
+I don't have a model out there that's a $10 billion model, <UNK>, but if there was one, it probably would be better profitability than the $9 billion model
+There is leverage in the model
+You've seen it from us as we've grown and I would expect that you would continue to see it if we were to grow beyond the high end of what I have out there right now
+When we announced the buyback, it was $1 billion program, $1 billion buyback over a 12 to 18 month timeframe
+As we executed through it, I felt like getting into the June quarter, we needed to step up the pace a little bit to execute to what we said we're going to do and that's what we're doing and why we're doing a little bit more in June
+And yet <UNK>, I wish I'd done it a quarter ago when the share price was lower, but hindsight's always 2020 with stuff like that
+<UNK>, we finished last quarter, I think it was probably about -- maybe a little bit about 30% onshore, so about 70% offshore
+Whole question around tax reform and when or if or what have you obviously is very topical and feels like every day, it's a little bit different
+We're very much taking a wait and see approach, now whether or not to be any tax reform, there's a variety of different ways you navigate through that
+But I'm more encouraged today than ever that we're actually going to get something done

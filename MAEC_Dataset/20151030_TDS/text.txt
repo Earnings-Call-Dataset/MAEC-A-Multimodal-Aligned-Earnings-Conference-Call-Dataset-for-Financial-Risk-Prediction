@@ -1,0 +1,92 @@
+So let me start with the auction question.
+You listed many different factors that all go into the great big black box to see what comes out but as we think about it, we want low band spectrum everywhere and with our 850 and the 700 A-block licenses that we have, we have a real nice kind of coverage over most of our markets.
+There's a few that we don't have any 800 or 750 blocks, and so those would be the first targets for the 600 auction so that we can ensure that we've got the coverage everywhere.
+After we've got the coverage spectrum, then we start thinking about capacity and to date we've got AWS and PCS, and other higher band frequencies but our engineers are working on carrier aggregation.
+And some of the recent work shows what we were concerned about in the past which was called the low-low aggregation, after the aggregating multiple lower bands of frequency together is looking more promising.
+So some of the 600 actually could be capacity additions for us.
+So, all that says is, we've got the 600 coming up.
+We are preparing both from a liquidity financing standpoint, as well as from an engineering and analytical standpoint to be ready for that auction once it gets here.
+In terms of M&A, or use of cash, I'm going to throw that question over to <UNK> <UNK>, who is in the room, from TDS.
+Hi <UNK>.
+How are you.
+As far as M&A, we're absolutely still interested in acquiring additional cable companies to help improve our returns.
+Obviously, we haven't done any of that this year.
+We're committed still to the 75/25 invest in the business return to shareholder strategy.
+We've said consistently that we would do that pretty modestly, moderately, and we're doing that at any point in time.
+We may be in or out of the markets for a bunch of different reasons.
+Good morning, <UNK>.
+<UNK>, asking me to talk about engineering, and technical conclusions is probably not the best idea.
+But Mike <UNK>, who is our CTO is in the room.
+I'll let him talk about it, but the big thing is, we think that there's a lot of work going on that's going to make that low-low more concerned applications.
+Mike.
+Good morning, <UNK>.
+Certain low-low combinations, we believe, are easier to carrier aggregate than others and it has to do with filtering limitations, and I would say that carriering aggregating 600 and 700 is probably one of the more challenging low-lows to be addressed but there's a lot of work going on to improve filtering, improve antenna bandwidth, to make all low-low combinations possible but definitely 600 and 700 is one of the more challenging low-low combinations.
+We're seeing progress, even on the standards front, to include that in the standards.
+So we're optimistic.
+Sure.
+I think the activity you've seen in the cable acquisition space says a couple of things.
+I think it says, one, obviously, how competitive the space is and, then two, more importantly, I think how attractive the space is.
+As you know, our strategy is around growing that broadband opportunity and so as we're looking at -- and I think we've been clear about that -- as we're looking for cable acquisitions and we continue to be disciplined buyers, and we'll only do the deal if we can make it work.
+But overall, we really like the business and the opportunity from the broadband growth perspective.
+I don't know that I can do justice to that question.
+Right now, our focus is more in the connected device space, especially bringing efficiencies to operations in some of our local government operations.
+We're seeing strong receptivity to solutions, that help, whether it be the county government or the city government here, operate their fleets, operate and provide information to their citizens in a more efficient basis.
+Where that evolves long-term into, really, M2M stuff, we're more of a -- as I think about our customers in that area, they are more followers than they're going to be leaders.
+Right now it's all about connected devices.
+I don't know that I'm more conservative than my peers.
+I think that we are appropriately conservative and when we recorded EIP transactions, we're looking a residual value of 20% at the end of -- effectively, year one, the way it works under our original offerings.
+What that means in terms of margins or whatever, I think about it that you really don't know until after you played through your first cycle of EIPs, but in our case, the first upgrade eligible ones were about four months ago.
+And we're seeing a much lower and slower upgrade on those than we thought.
+But I don't know that I can convert, do a-- this is what some one else says, this is what I said, and work it down to the bottom line.
+I think we are -- until we get enough history with these, we don't want to be in a position where we've got a great big surprise that's a balance sheet someplace.
+I'm not suggesting anybody else has one.
+I'm just basically saying that our team here, <UNK> and <UNK>, have been working to make sure that we don't wind up with one.
+Now you are getting to the tough questions.
+What we're doing is a lot.
+One of the big opportunities for us was just awareness still of customers outside our base of the availability of the Apple products.
+<UNK>, why don't you talk about what we're doing there.
+We're using all of the standard vehicles obviously.
+We have a tremendous amount of win back direct mail campaigns, to <UNK>'s point, relative to making the -- continue to make the awareness grow relative to our iPhones.
+We've got our second tranche of Apple -related TV that hit the air recently and we're extremely that it is Apple.
+Excited about the caliber and the quality of the spots that we're putting out there We've got ongoing pulsing of our tablets sales, which really have just been about a year in the market for us in an aggressive way.
+As I mentioned, TV, print, radio, all of the standard methodologies have really been our focus this year and we will continue with the strong portfolio in that effort going into Q4
+The other thing, Mike -- not Mike, Mike's right here.
+Other thing, <UNK>, what our study shows is that most customers, or prospective customers, will shop online before they ever hit a store.
+They will still buy in the store but they shop online.
+Part of our whole pricing strategy is making sure that we get -- that we stay in the consideration set.
+That's why we're just under Verizon and AT&T in networks that are similar in quality to ours so when the customer is looking at it online but they see that value difference and keep us in the consideration side.
+Well, that's the whole strategy.
+That's the whole sort of challenges in front of us, right.
+As you said the churn is down.
+That was something that was up; we've addressed it.
+As you said, the financials are better than they were.
+We have addressed that.
+Our local positioning, our continued investment in network quality, our local and convenient distribution and the increased focus on small and medium-sized businesses are all the next steps that we're taking around continuing to grow the business.
+So as you said, no matter what you've done, there's always something else that needs to be done and that's where our focus is now.
+If you're talking about our investment in Advantage Wireless, that's the -- it's their spectrum.
+They are the owner of that.
+They were in the auction and we know that they've got -- they are working with the FCC around getting the license grant but I don't know what the timing is of that and until such time as I hear from them, I'm here just on hold.
+Not that I'm aware of.
+Let me try it from the cellular standpoint and take them one at a time.
+So let's talk about the minority investments.
+When you talk about those, you are talking about investments.
+Primarily the biggest one is LA.
+It is a very nice annuity that has paid for many, many years.
+They just bought a big license out there, so for the first time in as many years as I can remember, the cash flow has been redirected for this one year.
+But we fully expect to see the same level of cash coming out of that in the future as we have and that's been running $60 million, a zero tax base asset that has -- you can run your numbers and put a value on that.
+And until such time as there's another way to get similar value out of that to monetize that at some much lower potential return, it just doesn't make sense.
+Towers, told you, we just finished the LTE roll-out but we're about to start down the VoLTE trial and what we're seeing in VoLTE is more cell site modifications that are needed and to be able to do those on at least half of our cell sites without incurring substantial lease renegotiation fees as well as give us some leverage on those.
+Those remain a strategic asset and I don't see that changing right now.
+I think, as <UNK> pointed out, as we think about the auctions coming up between cash balances, what did you say, <UNK>.
+$300 million of EIP-related receivables, unused lines of credit; I think we're pretty well there.
+In terms of other uses at TDS, I'm going to punt on that one because there's people on the other side of the table.
+Mike, it's <UNK>.
+As far as TDS, we don't look to any assets that US Cellular could or potentially sell or finance as a source of course for TDS to invest in cable.
+Cable acquisitions, we look in the same place as the cash available on our balance sheet, potentially accessing the debt markets if we have to.
+We think they are available to us but we would not be selling assets at US Cellular to fund cable acquisitions.
+There are many factors that the Boards look at to evaluate the performance of this business and the management team here.
+One that we have talked about in the past that we continue to focus on but it's not the only one but a very, very critical one to the Board is return on capital and making sure that we are on a path to change that result.
+Thanks, Mike.
+Have a great weekend
+We'd like to thank you all for joining us today and please let us know any follow-up questions.
+Have a great weekend.

@@ -1,0 +1,185 @@
+Thank you, <UNK> and good morning, everyone.
+As you saw this in morning's release, we delivered another very strong quarter and a very strong year.
+Which, we will get into the numbers in more details.
+But the combination of a continued top line and dropping expenses demonstrates the underlying strength of our business model and the skills which we are executing against it.
+A couple points to note for the quarter.
+First, with recurring revenue at $93 million, and that number not including any contribution from Huawei, we remain comfortable that our wireless business can reach an annual royalty platform of $500 million to $600 million based on the existing agreement, and the additional licensing opportunities ahead of us.
+We also believe that we can get to these revenue numbers without incurring increased expense.
+When you combine that revenue growth with stable expense, you have a great opportunity for shareholder value creation.
+Where exactly will that revenue growth come from.
+Unlike many businesses that would have to chase a large number of customers to drive that level of revenue growth, we have to succeed in licensing with a handful of major names; such as LG, ZTE, Lenovo, Shawmail, and Apple.
+We are seeing progress while we appreciate the licensing can be challenging at times.
+However, we have shown over the last 20 years our ability to get difficult deals done ,and we are confident that we can work these opportunities as well; leveraging the strength of our patent portfolio and other tools at our disposal, such as the ability to use the exchange of patents as consideration, the ability to conduct research for customers, and the opportunity to work with customers on some of our pre-commercial product offers.
+Indeed, it is these tools and our flexibility and creativity that often sets us apart from other licensing companies.
+We have also been meeting with investors to begin to frame out the additional growth opportunities we have beyond the one I just talked about.
+I think each is very exciting and they fall into three categories.
+The first is just market growth of the our core business.
+The bulk of our revenue today essentially comes from LTE-enabled devices, with a good portion of that coming from agreements that are volume dependent.
+Annual LTE handset volume growth remains very strong, by some projections roughly 15% per year.
+That means assuming our per-unit based licensees experience that level of growth, we should see some nice incremental grains in our revenue without any increase in our costs.
+The third growth factor relates IOT.
+Essentially, there are two areas of growth that we are focusing on.
+The first is the connection side of IOT, basically all the wireless devices that will be deployed in automobiles, meters, and other data-producing things.
+The beauty of this opportunity is that it is a natural extension of our existing licensing program, as it will rely on the same research and same patent portfolio.
+In effect, the opportunity comes at no incremental cost.
+In terms of the addressable market, there are many different estimates being made in terms of the overall quantity of IOC-enabled shipments in any year, and the mix between cellular and non-cellular devices.
+While the estimates vary, the annual shipments tend to count in the billions.
+IHS and major analyst firm projects that shipments of IOT-connected devices will exceed 12 billion per year by 2019, and close to two billion of those from projected to be 3G and 4G devices that leverage our core connectivity areas.
+This means there is a significant opportunity for meaningful revenue growth that we can pursue without incurring any significant additional costs, except taxes.
+That translates to even greater growth and profitability.
+IOT also bring as new opportunity in terms of what we refer to as the services and application layers.
+The beauty of IOT is not simply having data-producing devices send back to collection point.
+The beautifully of IOT is creating an environment where all of that data can be accessed, mined, manipulated, aggregated, and compared to greatly enhance current services, but more importantly, create brand new services.
+We have made significant investment in the platforms, like 1M Power and wattIO that will increase -- that will create the architecture needed to facilitate these new services.
+In recognition of the significant opportunity that this represents, we have consolidated all of these activities in the renewed business unit at the Company led by Jim Nolan, a long-time InterDigital veteran.
+Jim has over 20 years of experience in wireless, and is the driving force between the Convida relationship with Sony.
+This new business unit has the opportunity not only to drive a new patent licensing opportunity with the Company in this space, but also to build a vibrant commercial solutions business around the assets of the Company.
+Indeed, on the solutions side we already have customer traction with Sony and others, and are looking this year to expand our customer base.
+The purpose of these engagements is to refine the platform, drive the adoption of the underlying standards, and to position the business for solutions revenue growth in future years.
+So far, they are executing on plan.
+All in, the business continues to perform very well.
+We have exceptionally strong financial base, very strong opportunities to drive significant near- to revenue and profit growth, and we have longer term growth opportunities that are significant and equally important, aligned with our core skills.
+And we are pursuing those opportunities with the same high-margin operating model that we employ today.
+With success, we can materially growth our profit and our value all for the benefit of our shareholders.
+Let me turn the call over to <UNK>.
+Thanks, <UNK>.
+2015 has been another strong year for InterDigital, and we are very happy to end it on an equally strong note.
+Fourth quarter 2015 marks our fourth consecutive quarter with more than $100 million in revenue.
+More importantly, in fourth quarter 2015, we continued the longer-term trend of increasing our recurring revenue with only modest increases in our operating expenses.
+In fact, year-over-year, our fourth quarter returning revenue is up 9% while our pro forma operating expenses are basically flat.
+Looking at full year 2015, our recurring revenue is up $84 million or 29%, while our pro forma operating expenses are only up $5 million or 3%.
+Said differently, our recurring revenue from 2014 to 2015 has increased nearly 17 times the amount of the increase in our pro forma operating expenses over the same period.
+As we head into 2016, we are pleased to report guidance for first quarter revenue of between $99 million and $102 million, which is currently comprised entirely of recurring revenue.
+Looking beyond the first quarter, there are a couple of things to keep in mind.
+First, the fact that our per-unit revenue has become a substantial partial of our overall revenue means that our customers' new product launches have an increased impact on revenue.
+Our first quarter guidance reflects the positive impact of that cycle.
+However, absent new agreements, some decline in recurring revenue from first quarter 2016 to second quarter 2016 would be both natural and consistent with prior years.
+Second, as is always the case, our revenue guidance does not include any potential new agreements or audit settlements we may find during the quarter.
+This is based on the simple premise that we cannot predict the specific timing of such events.
+Nonetheless, we will continue to work to resolve disputes and add to our customer base.
+Additional progress in licensing, together with maintaining a relatively flat cost structure, continues to offer the most immediate potential to increase value for our shareholders.
+Now let me update you on our recent progress in returning cash to shareholders.
+I am proud to announce that recent share buy-back activity has resulted in our Company, on a cumulative basis, having bought back over one-half the number of shares of the Company's common stock that have ever been outstanding.
+While it might be mower meaningful that we purchased approximately $25 million in shares year-to-date in 2016, this is still a monumental achievement that speaks to InterDigital's long-term commitment to shareholder value.
+With roughly $125 million left on our authorization, we expect to continue our focus on buy-back activity over the balance of this year.
+With that, I will turn the call back over to <UNK>.
+Okay.
+I will let <UNK> address the revenue and then I will come on and talk with respect to the technical question.
+Yes, so James, during the quarter we had a resolution of a new agreement with Kyocera that we announced.
+I think we actually updated our guidance after that.
+In addition, there was a resolution with a technology solutions customer on an outstanding amount that had been due for a number of years and was not fully recognized in revenue.
+So between those two items and the strong performance of our existing licensees, we were able to deliver a very good quarter on the top line.
+And James, with respect to the opportunity on the IOT connection side, so there are a number of estimates out there, and we are not here to tell you any one is right versus another; but this particular one has a significant amount of total connections; 12 billion or so, which 2 billion to 3 billion is cellular.
+So a couple things to think about in terms of the revenue opportunity for us, and this is one thing we are going to be working on during the year in terms of beginning to frame out this opportunity a little bit better so people know what we are chasing.
+So the first question is going to be the overall amount of IOT connections and I think every estimate you look at, it is very, very strong so that is not something that there is a lot of question about.
+You know, it is in the tens of billions, those numbers.
+The next one is one where there is a little more uncertainty and that is what is the mix between cellular based connections and Wi-Fi and other based connections, and this one has a relatively low mix I would say in terms of the cellular mix.
+I have seen other estimates that are higher.
+Certainly while we have a patent portfolio that can address the full set of connections, our position is stronger today with respect to cellular.
+There is a lot of work going on in the standards bodies to create IOT -- an IOT-based standard for LTE which basically strips out a lot of the functionality and reduces the cost.
+I think if we are successful in getting that standard done and deployed, the actual cellular number can go up a fair amount because cellular has the distinct advantage of universal coverage, right.
+You do not need to be in a Wi-Fi hotspot.
+I think with that 2 billion to 3 billion, in my view, is probably on the light side, and I think it can be bigger if we can have some success in standardization there.
+In terms of the, you know, overall revenue opportunities for the Company, that is the one we are going to frame out during the course of the year.
+You know, I think when you are talking about units and these numbers, these are obviously low-priced units, so these are things that are ranging from a $1 to $10.
+The higher end stuff probably in cars.
+The lower end stuff in FedEx boxes and things like that.
+So while the royalty burden as a percentage of advice may be in the same range as it is today in the aggregate, you know, so the aggregate numbers out there you see today is 10% royalty burden, roughly; maybe lower than that and we get our piece of that.
+That is going to be on a lower price point.
+So as I said, we will put some better boundaries around this number as we go forward.
+I would say that I still think it is going to be a meaningful revenue number.
+The other important component, though, is it comes at no cost.
+So essentially whatever that revenue number is, strip out the tax and it drops right to the bottom line, so as a percentage gain on the bottom line it could be obviously even more meaningful than that.
+So more details to come on this as we work the numbers.
+Sure.
+So, you know, the list is pretty short which is good.
+I would say each one of them is a little bit different.
+And that is fine for us because we actually have a pretty flexible program, and we can bring different tools to bear with respect to each of those, right.
+So I think ZTE, I think to some degree I think it is going to be driven by the Huawei result, so we have had some good progress in terms of the Huawei litigation side moving forward there.
+So I think with ZTE, we have a lot of the options that I talked about in terms of the ability to do research, exchange patents, and a bunch of other things.
+I think if we can take advantage of a successful results with Huawei, I think that is what helps that one along and also we have litigation underway with ZTE as well and discussions too.
+So there is a fair amount of stuff going on with ZTE.
+Lenovo, somewhat similar to ZTE in terms of the relationship in China, but also I think probably a greater opportunity for research and patent exchanges and things like that, and so that is another opportunity for us to leverage the various tools we have in the Company, chatting with them as well.
+Shawmail probably takes that and takes it up another notch right, Shawmail has got designs moving outside of China, we talked about this before.
+Their first entre into India didn't go well, mostly because of lack of licenses and patent coverage.
+They talked about the need to build a patent portfolio so chatting with them as well about in terms of how we can help them do that, how we can help them research, and a bunch of other things.
+So, you know, LG, I would say a little bit different in terms of the tools that we would use with them.
+Joint research is an opportunity with them.
+Last year we successfully concluded the 3G arbitration, so I think we got that out of the way and I think there is opportunities with them to do some other collaborative items as well.
+So again a little bit different than the first three we talked about.
+And then Apple, it is really there, we are just talking about the remainder of the apple ecosystem so we have got a good portion of under license with Pegatron and other Time Media suppliers.
+So we are talking about some incrementive of their production.
+You know, they recently concluded a deal with Ericsson, you know, I would say that that deal was consistent with the licensing practices that we and others have engaged in for years and years, which is portfolio license, and a comprehensive license, and different than what Apple has talked about in terms of when it talks in litigation about patent-by-patent, country-by-country; so I think it shows that Apple has a business position and a litigation position, and they are not the same, not unusual.
+So I think that there is opportunities with them.
+I think with Apple, though we can be patient because we have had a pretty good position with respect to their supplier and there is things that we can do with their suppliers without actually having to fully address Apple.
+S that gives us another option with them as well.
+I would say it does not have a big influence on the discussions today.
+I think the only thing that you will observe is, I think it is two pieces.
+One, the fact that there is an opportunity right now to create intellectual property relevant to 5G because we are at the front end of a new standard with a lot of things that need to be done.
+That is a really good opportunity for us to in effect sell the research, because of fruits of that research will be really valuable in terms of patents, and people are looking for protection.
+And if you look at for example the Sony renewal, there was a piece of that around 5G.
+So I think the urgency, there is only a certain window of time in which you can create this intellectual property so that research sells in a certain period of time.
+So urgency is on us to get the people, but the urgency will also be on the other side to engage with us to not miss that opportunity.
+I think it helps there.
+I think in terms of just overall perception of the Company, you know, the fact that, you know, we continue to be a strong participant and the standard bodies continue to have our leadership positions just re-emphasizes for folks that we are a continuing player here, a strong player here and, you know, that is always helpful from a licensing perspective as well.
+Sure.
+As you know, <UNK> we do not provide specific expense guidance for going into the next quarter or the next year.
+Having said that, you know, we have been pretty consistent in, and I think even commented on the script today, that we believe that we can kind of maintain a relatively flattish operating expense going forward.
+And really I go back to the metric that I like to look at is our pro forma OpEx, which is located in our financial metrics.
+That does adjust for things like litigation, that otherwise would affect period-to-period comparisons.
+When we need to make an investment in litigation, we are going to make it.
+So I want to make sure that we are looking the our operating expense base excluding those kind of separate decisions.
+Hopefully that answers your question on expenses.
+With respect to the quarter lag that we report on, that also came up in the script because it was really second half, product introductions that helped to drive a good result in Q4 for a per-unit licensee, that was the underlying sales in Q3.
+We also issued what I believe to be strong guidance on revenue for Q1, based on those licensees underlying sales in Q4.
+Having said that, given the second half of 2016 introductions and the way these product cycles work, we would anticipate some drop-off in kind of same-store sales, if you will, going from Q1 to Q2 as the product cycle gets a little bit further on and people start to think about the next launch, whenever that may be.
+Yes, so it is actually coming due in March, mid-March I believe.
+And there is really -- we do not see it as being an event with a tremendous impact.
+As you know, Gene, we issued a new convert around this time last year effectively pre-funding the upcoming maturity of the (indiscernible) security, so we are well-funded.
+We have a very strong cash position and by kind of pre-funding that, you know, given the market conditions that existed last year, it allowed us to kind of continue on our buy-back trajectory here.
+So we are pretty pleased with where we sit there.
+Per share number.
+No, the conversion price based on where we are today is, you know, a good bit above our current trading price.
+So, you know, based on kind of trading range we have been in, there should not be any impact there.
+Yes, so litigation expenses as you noted are down.
+They have been kind of trending down all year.
+And we are certainly pleased about that.
+Our preference is to resolve new agreements without the need for litigation.
+You know, we would rather invest in our customers and, you know, find better ways to work with them than to have to litigate.
+Having said that, you know, at some point if things are not progressing the way that we would like, litigation as we have always said puts a timeline on those negotiations.
+I can not sit here today and tell you that, you know, it is going to be at the same level or higher.
+That is one of the reasons why we do not give expense guidance because that is going to depend on how things play out.
+But I certainly can tell you that our preference remains to find ways other than litigation to resolve these disputes.
+So it is our understanding that there will be the argument in March and that the court over there issues its decision, you know, roughly a month or so after that, so that will move along pretty quickly.
+We think we are very well-positioned in that case as we said all along, arbitration awards are difficult to upend, for a lot of good policy reasons, you know the standard is set very high in terms of what the other side needs to prove.
+I think the proximity of the Paris hearing to the New York proceeding, I think was one of the reasons; I do not know this because I am not the judge, but I think the judge is being practical in New York and said why get sideways in France if it is going to happen in a month, right.
+So I think the fact that though he conditioned the stay on Huawei posting a bond, I think it was a very good signal and obviously puts us in a position if we can otherwise resolve the matter with Huawei, we will have certainty of (indiscernible), which is great.
+Bonds also are not free.
+There is a fairly stiff cost to a bond, and that creates I think more incentive for Huawei to continue discussions with us.
+And so no surprises in terms of what is going on, and frankly I would say a little bit of maybe a positive surprise in terms of the bond requirement in New York that will be helpful to us.
+I think we have a couple options at that point.
+I think the New York judge has obviously invited the parties to come back there, pos-France decision, and with respect to enforcement, there would be a bond out there for payment.
+I think it gives us, you know, another venue and it is a local venue for us to secure payment and you would have French courts as well.
+So in situations we are having a couple different tools at our disposal, I think it is helpful.
+I think certainly we do try to be opportunistic but when you think about the pace, again I always like to direct people to the longer term trends here.
+You noted at least one factor and that is, you know, when you have open windows to get in and out of plans and so forth.
+You know, those things are not always visible to everyone else, and, you know, it definitely does impact our pace of activity at times.
+There are other factors as well but, you know, what I would prefer to focus on our longer-term trend and we are all very happy with what we have been doing there.
+Yes, I think it was I think even a little bit lower last year because the R & D tax credit was for a multiple-year period, but they now have the permanent extension on the R & D credit, so pleased to see that and I think that our tax rate is probably in about the right place at least for the time being.
+Thanks, guy.
+So what is coming under that initiative is basically everything above the connection level.
+Take it that the connection level, that is going to stay within the wireless business unit because it leverages the exact same patent portfolio, the LTE and 3G patent portfolios and the licensing program, and the customers are pretty much the same with respect to, you know, the folks the wireless business already addresses.
+The IOT solutions business units again address things above the connection level, so this is up at the application-enabled platforms and service layer platforms.
+It combines the oneEMPOWER platform that we have with the Company, the Convida joint venture would be part of that with the management of that would be part of that business unit.
+The wattIO business as well, part of that group as well.
+So it is again dealing with everything from the services and application enablement perspective.
+That is a different patent portfolio at the Company, so it addresses different things.
+The customer base is different so you are not always dealing with -- you are not dealing with the connection folks, you are dealing with the people who provide those platforms, or the people who make use of those services; and that can be a whole range of people because there is a whole range of verticals here that will benefit from these technologies; so whether it is transportation vertical, an industrial vertical, agricultural vertical.
+The business itself would be a little bit different than the wireless business unit in that I think this business unit has a stronger opportunity to be both a combined or a patent licensing business combined with a solutions business.
+We have done a lot of work on both of the platforms that we have in the market today, both wattIO and EMPOWER.
+I think an important piece of this will help be a driver for the solutions business.
+They have customers to-date for the platforms.
+You know, as I said in my script, they are not really looking at them at big revenue producers this year.
+It is more getting the platform stable.
+Getting the technology evangelized, getting the customers in place and basically channel partners in place to drive revenue growth in the next couple of years.
+As I also mentioned, we are going to do some work over the course of the next two months to not only frame out the wireless connections value, what we think that may be worth so people can be begin to measure us against that; but also start to build a model or refine the model, we have a model with respect to this business at these upper layers and also let people know what they think that opportunity is, and what the milestones are and what the goal is for those businesses.

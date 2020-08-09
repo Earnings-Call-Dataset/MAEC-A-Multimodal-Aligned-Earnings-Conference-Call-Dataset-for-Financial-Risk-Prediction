@@ -1,0 +1,151 @@
+Thank you, <UNK>.
+Please note that certain information discussed on the call today is covered under the Safe Harbor provisions of the Private Securities Litigation Reform Act.
+I caution listeners that during this call Cubic management will be making forward-looking statements about future events or Cubic's future financial and operating performance.
+Actual results could differ materially from those stated or implied by these forward-looking statements, due to risks and uncertainties associated with the Company's business.
+These forward-looking statements should be considered in conjunction with and are qualified by the cautionary statements contained in Cubic's earning press release and SEC filings, including its Annual Report on Form 10-K and Quarterly Reports on Form 10-Q.
+This conference call contains time-sensitive information that is accurate only as of the date of this broadcast, August 6, 2015.
+Cubic undertakes no obligation to revise or update any forward-looking statements to reflect events or circumstances after the date of this conference call.
+This conference call will also include a discussion of non-GAAP financial measures as that term is defined in Regulation G.
+Cubic believes this information is useful to investors because it provides the basis for measuring the Company's available capital resources, the actual and forecasted operating performance of the Company's business, and the Company's cash flow.
+A reconciliation between the GAAP financial measures that correspond to these non-GAAP financial measures is contained in our earnings press release and our SEC Form 10-K Report for the fiscal year ended September 30, 2014.
+Any discussion of non-GAAP measures does not intend to detract from the importance of comparable GAAP measures.
+With that said, let me turn the call over to <UNK> <UNK>, our President and Chief Executive Officer.
+Thank you, <UNK>.
+Good afternoon, everyone.
+Thanks for joining us on the call today.
+This afternoon, we reported our financial results for the third quarter and nine months ended June 30, 2015.
+Our third-quarter results were mixed, reflecting slightly lower-than-expected sales resulting from ongoing foreign-exchange headwinds and delays in contract awards.
+Operating profits this year have been impacted by a number of one-off costs related to improvements we are making to take cost out of the Company, including upgrading our ERP system, as well as the impact of a stronger US dollar and cost issues on two major projects for which we are working to resolve with our customers.
+Jay will discuss the details later in the call.
+We expect to close out the fiscal year with a very strong fourth quarter, led by our defense systems business.
+We continue to have a robust opportunity pipeline across all of our business segments and total backlog of more than $3 billion.
+In addition, we have strong resources such as balance sheet capacity, talented employees, a long track record of innovation, and state-of-the-art technology that encourage us to be optimistic about our future growth.
+We are currently in the midst of updating our strategic plan.
+As part of this process, we are performing a comprehensive portfolio analysis.
+This evaluation includes looking at transformative actions to greatly accelerate the growth of the Company, particularly in the next [city] and C4ISR domains.
+In addition, we, like many in the defense space, are carefully evaluating the performance and structure of our defense services business given the poor market conditions.
+We have refined and rolled out our One Cubic Vision as a hybrid structure consisting of decentralized, agile, customer facing functions to ensure speed, reinforced by centralized shared services and support functions to ensure scale with significantly lower costs.
+To better serve our customers globally, we are [shoring] up resources to focus on our vision of winning the customer.
+As mentioned on the previous call, we will leverage One Cubic to provide a scalable, efficient platform as we grow.
+We are continually improving our shared services model and our new ERP implementation is progressing on schedule.
+Our business segments share a common mission of providing integrated systems that increase situational awareness and understanding for our customers.
+In transportation, we [implement] and operate payment information and operational management system which allows transport agencies and their patrons to increase efficiency while traveling through cities across various transportation modes.
+In defense, we implement and operate training systems and train soldiers, Marines, aviators, sailors and civilians to reduce costs and enhance levels of readiness.
+We also provide secure communications systems that move critical surveillance data to enhance military operations.
+Across our transportation and defense systems business, we are pushing both incremental and game-changing innovations.
+In defense, we are continually innovative, showcased by a recent initiative to combine NeuroBridge technology with our Engagement Skills small arms trainer to measure the mental focus and accuracy of expert marksmen.
+Our revolutionary game-based learning software for the U.S. Navy on the [littoral] combat ship is being leveraged into new markets.
+We recently won a contract to export those technologies into the commercial airline market for flight crew training.
+While this contract is small, it opens up a new market for us.
+We believe our innovative training technologies are widely applicable to many industries that require cost-effective, immersive, on-the-job training in virtual learning environments.
+In transportation, we have recently won two more innovation awards for our transportation contactless bank card payment solutions.
+In partnership with Transport for London, there remains a winner of the Operational and Technical Excellence Award by the UITP, the International Public Transport Association, for introducing open bank card payments, including ApplePay.
+And in partnership with the Chicago Transit Authority, we are honored to receive the Best New Innovative Partnership Deployment Award by ITS America, the US Intelligence Transportation Society for the [Ventra] open payment system.
+Now let me discuss our operating businesses.
+We are actively pursuing and winning opportunities across transportation's three NextCity pillars.
+The first pillar is the concept of One Account, where the integration of multimodal transport payments.
+We are working with customers to extend their smartcard and account-based systems to pay for other modes of transportation like parking, taxis, car and bike share.
+We are also using the One Account platform to expand into the tolling market.
+The second pillar of NextCity, operations and analytics, is the integration and application of transport data to the agency.
+Our newly established analytics subsidiary, Urban Insights, recently signed a contract with MasterCard to integrate retail and transit data to provide targeted offerings supporting the customer's retail and transportation preferences.
+Urban Insights has been working with one of our recently acquired subsidiaries, Intific, to produce revolutionary transit pattern visualization software to help cities optimize transport capacity.
+Within this pillar, we also have the ITMS business that we acquired from Serco.
+ITMS was awarded the Tunnel Outstation Maintenance Services contract by Transport for London.
+The contract, delivering maintenance for critical intelligent transportation systems infrastructure, within TfL's 12 road tunnels and associated road corridors, to extend Cubic's successful history in delivering this important service for the next 10 years.
+The third pillar of NextCity, customer information and experience, relates to the application of predictive and personalized data to the consumer.
+Our smart phone application currently undergoing testing in Chicago is a first of its kind method to not only pay for transport, but also to continually improve the customer experience through better information.
+The application combines journey planning, real-time information, ticketing and payments, that can benefit transport authorities across the customer base.
+Transportation is making good progress in Vancouver.
+The West Coast Express had a successful launch last month.
+And we are in commercial discussions regarding cost recovery for delays that have impacted us.
+We have been shortlisted for the upgrade of a Smart car ticketing system in Melbourne, an opportunity that would increase our already strong position as the market leader in the Australian fare collection market.
+We also continue to pursue geographic expansion opportunities in the Middle East and Asia.
+Now, turning to our defense businesses.
+In CGD services, we expect this to be the first year of incremental growth in three years.
+A number of protests that have delayed growth have now been resolved.
+Margins are lower due to the [LPT] environment.
+One major highlight is CGD's support of the bilateral Talisman Sabre exercise that was held in July in Australia for more than 30,000 US and Australian troops.
+Cubic supported this major exercise with our personnel in Australia, the United States, and at the Korean Battle Simulation Center.
+We are very proud of our multidimensional role in ensuring the exercise was a success, and we have received very positive feedback from our customer.
+Regarding CGD systems, our strategy to build a strong C4ISR business is on track.
+Our recent acquisition, DTECH LABs, is performing well and is having a positive impact on our EBITDA for the year.
+We expect this trend to continue.
+We have expanded our training footprint in Australia with the award of a new $18 million contract to provide next-generation joint live, virtual and constructive simulation support with the Australian Defense Simulation and Training Center.
+We continue to expand our support for the Joint Strike Fighter and we were recently awarded an $11.5 million initial funding for our contracted supply of the P5 training system.
+We also have dedicated additional resources to support our groundbreaking Littoral Combat Ship virtual training program and are pleased with the progress there.
+Now I will turn the call over to Jay.
+Thanks, Brad.
+Consolidated sales for the quarter increased 2% to $347.8 million from last year.
+Year-to-date sales were just over $1 billion, up slightly over last year.
+Recent acquisitions contributed $25.5 million in the quarter and $66.3 million year to date compared to $14.7 million and $32.8 million in the comparable periods last year.
+The strong dollar negatively impacted our sales in the quarter by $14.2 million and $32.8 million year to date.
+Adjusted EBITDA was $18.9 million in the quarter, down from $26.7 million last year or 29%.
+Year-to-date adjusted EBITDA was $69.4 million compared to $76 million last year, due to a number of unusual charges that I will discuss later.
+Operating income was $10.3 million in the third quarter and $40.7 million year to date compared to $19.2 million and $53.2 million in the comparable periods last year.
+Operating income this year has been impacted by a number of charges including expenses related to a new ERP system implementation totaling $7.8 million, costs related to an audit committee investigation totaling $3 million, costs related to a restructuring in the second quarter totaling $5.4 million, and higher stock-based compensation totaling $1.7 million, related to the retirement of our former CEO.
+Also impacting operating income this year were lower operating income from our two defense businesses totaling $15.1 million; operating losses from recent acquisitions inclusive of transaction costs, retention and earnout payments totaling $7.6 million; and the impact of unfavorable exchange rates totaling $4.6 million.
+Partially offsetting these declines in operating income was an increase of $15.6 million in operating income at our transportation business.
+For the quarter, we had earnings per share of $0.33 and year-to-date earnings per share are $0.11.
+Earnings per share this year has been significantly lower than last year due to the lower operating income and also due to a non-cash deferred tax valuation allowance taken against our US net deferred tax asset, due to our recent history of US operating losses.
+In the second quarter, coincident with our decision to proceed with a new ERP application, we recorded a charge for this allowance.
+Year to date, the impact of this allowance has been -- has impacted earnings per share by $1.12.
+Now, turning to our transportation systems segment or CTS, CTS sales totaling $133.3 million decreased 13% in the third quarter compared to last year, and decreased 4% year to date to $411.5 million.
+The strength of the US dollar contributed to the decrease in sales of $11.3 million in the quarter and $26 million for the nine months.
+Sales were also impacted by lower sales in Sydney and the UK, and were somewhat offset by higher sales in Chicago and from recent acquisitions.
+CTS operating income was down 24% for the quarter, to $11.7 million.
+Third-quarter operating income was impacted by higher R&D expenses, the strength in the US dollar, and lower income from certain UK transfer contracts.
+For the nine months, operating income was $50.8 million, a 44% increase over the last year.
+Contributing to the increase were improved gross margins on the Chicago contract, a decrease in losses on the Vancouver contract, and proceeds from a claim settlement which were partially offset by lower margins on certain UK-related contracts and adverse foreign currency translations.
+Now turning to Cubic Global Defense Services, or defense services, defense services sales increased 22% in the quarter to $111.9 million and increased 2% for the nine-month period at $298.4 million.
+The sales increase was primarily driven by higher training-related activity on new contract wins and higher activity at the Joint Readiness Training Center.
+Defense services operating income increased 72% in the third quarter to $3.1 million.
+Year-to-date operating income was $4.2 million, down 30% from last year.
+A decrease in amortization expense on recent acquisitions positively impacted operating income in the quarter.
+Year to date, operating income has been negatively impacted by lower margins due to the LPTA pricing environment, higher compensation costs related to the recruitment of a new executive management team, and the restructuring charge taken in the second quarter.
+We expect LPTA pricing pressures to limit the profitability in the segment.
+We have won a series of new services related work.
+However, most new wins have been protested, which has delayed the start-up work.
+Turning to the Cubic Global Defense Systems or Defense Systems business, Defense Systems sales increased 7% to $102.6 million for the quarter, and increased 5% to $295.6 million year-to-date.
+Sales were higher for air combat systems and from the recent Intific and DTECH acquisitions.
+Offsetting these increases were lower sales on the ground combat training systems and lower -- and also on simulation system and adverse currency impacts.
+Defense Systems operating income decreased 3% in the third quarter to $3.2 million compared to last year and was at $2.8 million for the nine months, down 83% from last year.
+Third-quarter operating income was negatively impacted by a $2 million cost increase on the LCS contract.
+Impacting operating income year to date were costs related to the restructuring totaling $4 million, adverse currency impacts totaling $1.2 million, an increase in the estimated cost complete on the LCS contract totaling $7.1 million and operating losses on the Intific and DTECH acquisitions totaling $5.9 million inclusive of transactions, retention, and earn-out costs.
+DTECH will absorb approximately $9 million of intangible amortization expense this year and a one-time expense related to acquired backlog.
+We expect this acquisition will be accretive, starting in the fourth quarter.
+Intific has won a number of new programs and has also provided significant collaboration to other Cubic businesses across both defense and transportation, and has increased the opportunity pipeline for the Corporation.
+The largest such opportunity is the KC-46 air tanker training bid.
+Going forward, we expect improve profitability on these recent acquisitions as retention earn-out and transaction-related costs are not obscuring operating performance.
+We are engaged in negotiations to recover the cost overrun on the LCS contract.
+Noted earlier, any recovery will have a positive impact on operating profits once resolved.
+We are expecting defense systems to have a very strong fourth quarter due to a number of shipments on ground training and communication-related contracts.
+The Company's total backlog was $3 billion at June 30.
+Currently related headwinds decreased backlog by $71.3 million since our year end.
+We expect to finish the year with a strong inflow of orders in our fourth quarter.
+Finally, turning to the balance sheet, cash flow and capital allocation, we have generated $46.5 million of operating cash flow year to date.
+CTS and Defense Services generated cash, while Defense Systems use cash primarily for a build of inventories which we expect will turn to sales in Q4.
+As of June 30, we had $284.1 million of cash, restricted cash and marketable securities.
+$270.3 million of this amount is held by our foreign subsidiaries.
+We have not accrued income taxes on repatriating the majority of our foreign earnings to the US, as we consider these earnings permanently reinvested.
+Year to date, we have invested $90.2 million in acquisitions, primarily DTECH, and invested $15.7 million in CapEx, primarily for our new ERP system.
+After the quarter end, we issued senior notes aggregating $25 million that will have a final maturity of March 2025 and a fixed interest rate of 3.7%.
+On our next call, we will update you on the progress of our new ERP system and the expected impact on operating profits in fiscal 2016 for costs not being capitalized.
+Our acquisition strategy remains focused on opportunities that align with our NextCity strategy in building our C4ISR businesses, both in the US and internationally.
+As Brad noted, we are reviewing larger transformational opportunities that would leverage our strategy to invest in higher margin niche markets and utilize our strong capital position.
+With that, I will turn it back to Brad for his closing thoughts.
+Thank you, Jay.
+Both of our business segments share a common mission of providing integrated systems that increase situational awareness and understanding for our customers worldwide.
+We are proud of our rich technological heritage and continue to place a strong emphasis on innovation to generate future growth for the Corporation.
+We are very optimistic as we expand into new markets and geographies and remain fully committed to increasing shareholder value.
+Now let's proceed to the Q&A section.
+Yes, we are reaffirming our guidance.
+It's primarily in Defense Systems and it's shipment-related.
+All three businesses will have a good fourth quarter, but it will be particularly strong there.
+So the KC-46 is obviously a tanker that the US has bought and they need a maintenance trainer, an operation and maintenance trainer, and we bid that and we think we have a very strong offering.
+We are in the middle of the proposals being evaluated and we expect an answer next calendar year.
+It's hundreds of millions of dollars, <UNK>.
+We hope we win.
+Thank you for joining us this afternoon.
+As always, we appreciate your continued support and interest in our Company.
+We are available if you have any further questions.
+Thanks again.

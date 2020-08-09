@@ -1,0 +1,122 @@
+So, that's actually a great question, <UNK>.
+So, for Q4, the decline, or the decrease in ASP was mostly driven by the much higher growth rate in the networking, as you mentioned, and the fact that the percentage of Atom in networking tends to be a bit higher.
+If you look at networking as a whole, the ASPs in networking tend to be lower than, say, cloud or enterprise.
+However, if you look at Q4's networking ASP -- so, if you took out just that ASP, and you compared that ASP relative to prior quarters, it was actually up as an average.
+So, it has a lower average selling price, but that average selling price is increasing as more people buy -- and as NFV and SDN take off, more people tend to buy up to core, because they're really searching for that performance.
+We do hope and expect this trend to continue into 2016, as we gain share in networking.
+The relative strength -- so, then if you take a look at the cloud space and the enterprise space, we expect those to continue on the trends you've seen over the last few years.
+We don't expect any major shifts there, but we have very strategic plans to continue to grow in the networking, storage, and especially around the telco and networking space, as SDN and NFV really take hold.
+And you will see a slightly lower ASP from there, but we expect the ASP to continue to increase in that space as we bring more functionality.
+Does that answer your question.
+<UNK>e.
+And a great question.
+I know there's a lot of moving parts here.
+Let me just focus in on the depreciation change for a second, and I actually try to be very transparent.
+In the CFO commentary that was released, you'll see some of this written out, so you can always refer back to it.
+But the change in depreciation, you're right, in total, is about $1.5 billion.
+But only about half of that is flowing through COGS, and impacting gross margin in 2016.
+And that's where you get to the 1 point shift.
+That really is the primary difference.
+There's a few other moving parts, but nothing that's material.
+That's the thing that changed from 62% gross margin forecast that we had in November to 63% gross margin forecast that we have today.
+The rest of the change in depreciation -- about a quarter of it will flow through OpEx, because remember, all of the spending we do for research and development facilities actually flows through our research and development line, so you see a little bit of a benefit there.
+And then you have some of it that goes into inventory, and then ships out over time.
+I'd articulate that what we're seeing -- we have a cautious stance as we start the year.
+There's a couple of things that feed into that.
+Units were a little weaker for us in the client segment in Q4.
+As we worked our way through the <UNK>tmas selling season, what we saw is the sell-through all the way to the end customer was a little less than we thought.
+We made up for that with a rich mix, so that's why we ended up with a pretty good result.
+But a little -- we're watching that carefully.
+And then, our team on the ground in China has gotten fairly cautious about what's going on in China right now.
+And as you know, that's the largest PC market.
+So, we're just a little cautious on the growth rates there.
+In terms of from here, I think <UNK> said it well.
+We're expecting -- this is the environment as we work our way through 2016.
+So, against the backdrop of a somewhat weak macroeconomic environment, we expect the year to play out normally from here.
+I'm not going to speak -- they have not -- they didn't release results for 2015, and so I'm really not able to talk about their results for 2015.
+I can tell you from our perspective, we didn't see anything that was surprising, in terms of what we've seen about their business levels.
+We actually expect some revenue growth as we go from 2015 to 2016.
+I'll give you in total what we expect for Altera.
+It's a little north of $1.6 billion in terms of revenue.
+Its gross margin, that as <UNK> was saying, is a little higher than the corporate average, so it gives us a slight mix.
+But because it's a relatively small business against the backdrop of Intel, it's not a big shift in our gross margin.
+And then we're expecting spending that's at a run rate of a couple hundred million dollars a quarter.
+In addition to all of that, there will be a bunch of one-time acquisition deal-related costs.
+There's amortization of acquisition-related intangibles.
+You'll see all those in the GAAP number.
+I've excluded them from the non-GAAP numbers I just gave you.
+No, I think that's actually part of our DNA, is we're pretty rigorous about trying to weed and feed where we invest, and where we disinvest.
+As you referred to in the investor meeting, I showed an up and down arrow chart, and the magnitude of those shifts was on the order of $1 billion for some of the big movers, as we added investments in some areas, and subtracted investments in others.
+I'll also say there's a point at which we expect that we get more and more leverage in businesses like the Data Center, as well.
+I think there's lots of opportunities for us to bring down spending as a percent of revenue, as we go forward.
+Add anything to that.
+No.
+Go ahead.
+<UNK>e.
+So, we believe that 2015 ended with, I'd just call it, very healthy inventories.
+In fact, one of the things we saw was a slight decrease in inventory levels as we exited the fourth quarter.
+And if you take a look at what we had originally projected, and what would have been more an industry norm, would have been a slight increase in inventories.
+We expect those healthy inventory levels to extend through 2016; there's no sign that anybody's adding inventory, or not moving off a cautious position on inventory.
+And that's what's been built into our forecast, as well.
+To the question on internal inventory levels, I'd just say we ended Q4 with a little more inventory than I was expecting, and a little higher than I'd like.
+Two drivers there: We saw, as I said, a little bit weaker units was made up for us in rich mix.
+But a little bit weaker units and we saw yields get better on 14-nanometer, and the combination of that left me with a little more inventory leaving Q4 than I'd like.
+You'll see it -- if you look on a dollar basis, it will go up in Q1 as a result of Altera.
+So, Altera will cause the inventory levels to go up some.
+But when you look at it from a business standpoint, I think we'll work through the inventory we have.
+And when we get into the back half of the year, we'll bring inventory levels down.
+<UNK>e.
+I'll take the accounting question, and then I'll have <UNK> give you his insight and philosophy on the whole integration.
+On the reportable segments -- so actually, I do plan to give you full visibility into Altera.
+It's a relatively small business for us.
+It doesn't hit the SEC reporting requirement.
+So, it doesn't come across that threshold.
+But we just feel strongly that, based on transparency, and the size of the acquisition, we want to give you transparency.
+So, you will see that in our financials going forward.
+I'll let <UNK> answer the integration question.
+From an integration standpoint, I think what you see -- what you've seen we've done with McAfee is we've integrated it into Intel Security, and you saw the great results that we showed in the fourth quarter.
+Those are somewhat an example of what happens as you integrate, and you really get the focus on the business on a much higher level.
+Same thing for Altera; we plan to fully integrate it.
+It's going to look like a business group, no different than, say, CCG, that does PCs and modems, phones, or DCG that does data center.
+It's called PSG, Programmable Solutions Group.
+It reports directly to me, and it will be fully integrated.
+The sales force at the beginning, because the sales tends to be a bit more technical, and a bit more like a field sales engineering-type role, we're keeping it separate.
+But that's something we're going to continue to evaluate.
+But the organization, the engineering -- already in the first two weeks, we've had -- really for me, I'm really pleased with the level of integration and help that we've done to get products and road maps focused and integrated into our internal systems.
+So, you should expect it to be fully integrated.
+Thanks, <UNK>.
+Operator, I think we have time for two more questions.
+Let's see, I think we've got Broadwell Xeon; it's going to launch in the first half here of 2016.
+So, that will be the first of the 14-nanometer, or the next 14-nanometer in 2016 is that E5 on Broadwell.
+The rest of them, we haven't put any other dates out there yet -- Skylake SKUs and so forth.
+There will be some pretty significant costs.
+It's in the gross margin recon, associated with the startup of the factory in China.
+And we'll be in production in the back half of the year, but we're just ramping production.
+I think if you were just looking at a six-month time period, you'd say it's negative, and you can see it in the gross margin.
+It's a slight negative on the gross margin.
+It doesn't change the fact that we make these investments, and then we get this, what I would say, tremendous long-term benefit out of making that investment.
+So, that doesn't -- I don't want you to take from that, that we're somehow less bullish on the transformational capabilities of what the team has managed to pull off at 3D XPoint, because we're actually quite bullish on that.
+Yes.
+We said that -- this is <UNK>, by the way, not <UNK> -- that 10-nanometers would be closer to that 2.5 years than the 2 years; that we would continue to strive to get back on 2 years.
+Some of that was how, as we [still define] 7-nanometers, what the complexity of the technology looks like, whether EUV is ready or not.
+Absolutely, we're pushing to get back on that two-year cadence.
+I would just add, please don't take the accounting of the depreciable life to be somehow a signal that we're letting our foot off the gas on process technology cadence and process technology leadership.
+That's the heartbeat of the Company, and we're driving it; we're driving it hard.
+The accounting just is looking at how long that equipment is economically viable in our factories, and it's pretty clearly five years, as we go forward.
+It's absolutely still the target.
+That has not changed one bit.
+It's a little early in the year to talk about progress.
+We have -- I'd tell you that we have a large percentage of that $800 million already, I'll call it, planned out.
+In other words, we have projects.
+We know what we need to do, introduce products, align which SKUs are coming, and move products onto that.
+So, I'd say a large percentage of that is well planned through the year, but it's throughout the year.
+So, I can't tell you -- I've already got $200 million of it, or something like that, not here in the second, third week of the year.
+7360 -- it's out.
+It's sampling.
+The customers are going through their validations now at the systems, where they are building up systems and out testing them on networks, and so forth.
+And as far as the launches of those systems and the announcements, those are always up to our customers, and we don't make sure that we're the ones announcing that.
+And then, what we've told you is that what's even as important is that we're on a yearly cadence now of our modem technology, and we're very confident on that as well, for the next set of modems that comes out after the 7360.
+Thanks, Tim.
+All right.
+Thank you all for joining us today.
+Sabrina, you can please go ahead and wrap up the call.

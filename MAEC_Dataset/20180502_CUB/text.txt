@@ -1,0 +1,162 @@
+Hello, everyone, and thank you for joining us today.
+Today, after the market closed, we reported our second quarter fiscal 2018 results.
+I'm joined by Brad <UNK>, Chairman, President and Chief Executive Officer; and <UNK> <UNK>, Executive Vice President and Chief Financial Officer.
+I'll remind everyone that statements made on today's call that are not historical fact are considered forward-looking statements and are made pursuant to the safe harbor provisions of federal securities law.
+You can find factors that could cause the company's actual results to differ materially from our expectations listed in today's presentation, press release and our most recent SEC filing.
+In addition, we have included some non-GAAP financial measures in our discussion.
+Reconciliations to the most directly comparable GAAP financial measures can be found in today's press release and in the appendix of today's presentation.
+With that, I'd like to turn the call over to Brad.
+Thank you, <UNK>.
+Thank you, everyone, for joining us today.
+On today's call, I will start by discussing our second quarter and first half results for fiscal year 2018, then I'll hand the call over to our CFO, <UNK> <UNK>, who will cover the financial results in more detail.
+Starting with Slide 3, you will find an overview of our financial results from continuing operations as we recently announced the sale of our non-original Manufacturer Training Services business.
+Sales for the second quarter were $278.6 million, a 12% increase compared to the second quarter last year.
+Sales for the first half were $527 million, a 7% increase compared to last year.
+Adjusted EBITDA for Q2 was $15.8 million, a 35% increase compared to the second quarter of last year, with $27.3 million from the first half, a decline of 7% compared to last year due to $4.3 million increased R&D investments in Mission Solutions and innovative training technologies.
+With the financial close of the Boston contract in March, our backlog is over $3.4 billion, the highest in Cubic's history.
+In the second quarter, we also received a limited notice to proceed from the Washington Metropolitan Area Transit Authority in D.
+C.
+to launch a Near Field Communications mobile solution for their riders.
+With this win, the top 5 U.S. transit agencies have now selected Cubic for their mobile solution.
+During Q3, we will be releasing the first iteration of the new Cubic mobile platform, Cubic Traveler application.
+When the Chicago Transit Authority operates its Ventra mobile app, the Cubic traveler application will build upon the success of the current vendor app that has logged more than 2 million downloads since launch.
+On April 19, we announced an agreement to sell our Defense Services business to Valiant Integrated Services.
+This transaction marks a significant milestone for Cubic as we continue to sharpen our focus on delivering market-leading innovative technologies that create superior value for our customers.
+It enables us to better concentrate our resources on markets with strong growth and high margins and further increases our financial flexibility to pursue profitable growth options that enhance shareholder returns.
+I would like to again thank our Defense Services teammates for their faithful service and contributions to Cubic over the past 24 years.
+Turning to Slide 4.
+We are pleased with the passage of the omnibus appropriations bill that includes a $700 billion defense spending bill, with $56.4 million in increases for our T2C2, SLATE ATD, LCS training courseware and its 2 programs compared to the President's budget.
+Less directly, our transportation business will also benefit from an additional $10 billion in transportation funding, which may provide a source of federal grant funding.
+Moving to Slide 5.
+We continue to make progress with our Winning the Customer initiative.
+In Q2, we were honored to be named Supplier of the Year at the London Transport Awards in recognition of our long-standing partnership with Transport for London.
+We're extremely confident that our OneAccount platform leads the market's demand for technologically advanced back-office systems, and we remain well positioned for several other opportunities in large cities.
+In Mission Solutions, we've made targeted investments that enhance our technology significantly.
+We have completed our acquisition of MotionDSP, a Silicon Valley-based company specializing in real-time video enhancement and computer vision analytics.
+We will now be able to detect and track entities in real time, augmenting our existing full-motion video dissemination capability.
+Additionally, following the close of the quarter, we invested in Beatty and Company Computing to enhance our access to secure cloud operating systems technology for our customers.
+In Defense Systems, our Advanced Technology Demonstration for the Secure LVC Advanced Training Environment with the United States Air Force Research Lab passed systems verification, and our encryption tool, a key component from a data and cybersecurity perspective, passed certification with the National Security Agency.
+Also known as SLATE ATD, it represents the future of multilevel encrypted, live, virtual, constructive air combat maneuvering instrumentation, and will be important to the future of combat training within the Department of Defense.
+Turning to Slide 6.
+We are pleased with the mobilization of both New York and Boston.
+In the case of New York, we successfully moved through conceptual design review per plan, and our progress is evidenced by the receipt of our payment of $25 million for mobilization, as well as CDR and our initial base plans on April 3.
+In Boston, within weeks of financial close, we were able to submit our first batch of documentation for the design review scheduled for May.
+We have received positive feedback from our bid in Brisbane and continue to be confident of an award this fiscal year.
+Given the mid-market demand for affordable electronic fare collection, we are investing in cloud and digital platforms to extend our solutions to these mid-market transit agencies.
+Since FY '17, we have invested over $6 million in R&D for our fully rebuilt NextBus 2.0 solution.
+Public transport authorities, including those serving smaller cities, are under pressure to deliver more sophisticated and efficient services due to increased urbanization and rising customer expectations.
+NextBus 2.0 is being designed to address the needs of these agencies.
+In growing C4ISR, we have been awarded the United States Air Force Theater Deployable Communications for $12.9 million.
+Under the TDC contract, Cubic provides inflatable satellite terminals and secure networking kits, enabling the Air Force elements to rapidly establish critical communications, securely transmitting voice, data and video.
+Our Mission Solutions business also received a T2C2 LRIP 2 award for $6 million, which follows the full material release and full-rate production decision that our GATR team received in January.
+In addition, our secure networking business won a Tactical Local Area Network CERP award for $5.5 million.
+In Defense Services, we reached a settlement with Lockheed Martin on the F-35 for LRIP 2-4/11 and an agreement to negotiate a contract for a combined buy of 500 units for LRIP 12/14.
+In ground systems, we received long-lead funding for the next phase of the Canadian Urban Operations Training System and expect an additional $28 million in the near term.
+We continue to build our NextTraining capability to provide performance-based training for the United States and allied nation militaries.
+We received $16 million in new Littoral Combat Ship courseware orders associated with combat systems, engineering revisions and learning management.
+And our Navy customer continues to be very pleased with this new innovative training architecture.
+Finally, moving to Slide 7.
+We continue to make significant progress on our Living OneCubic initiative.
+We finished our major ERP back-office implementation, and we are now working on optimizing all global processes and workloads.
+We're also implementing Product Lifecycle Management to standardize our engineering tools and workflows through fiscal year 2019.
+The Asia Pacific region continues to be a market of opportunity across our 3 business divisions at Cubic, and we are expanding our operations in Hyderabad, India, to support the company's growth objectives.
+We continue to share engineering talent and technology across all portions of our business.
+Next, I'll ask <UNK> to describe our financial results in more detail.
+Thank you, Brad.
+Please turn to Slide 8 to cover a few of the highlights for the quarter.
+As Brad discussed, we announced the agreement to sell the non-OEM Defense Services business subject to customary closing conditions and regulatory approvals.
+This decision is a reflection of our disciplined capital allocation priorities and provides us with additional financial flexibility to pursue profitable growth opportunities.
+The financial results for the Defense Services business are now reflected as discontinued operations, and the previous period financial results have been reclassified for comparative purposes.
+Our financial results for the second quarter reflect continued strong execution.
+In March, we completed the financial close of the Boston fare collection contract.
+Adjusted EBITDA from continuing operations of $15.8 million was up $4 million versus the second quarter of 2017.
+Had the Defense Services business been included in the results, adjusted EBITDA would have been $22.5 million, in line with our expectations as well as consensus prior to the announced divestiture.
+Free cash flow also improved in the second quarter.
+Lastly, we are maintaining full year 2018 guidance, adjusted for the divestiture.
+Turning to Slide 9 for our consolidated financial results from continuing operations.
+Our backlog is at another all-time high of $3.4 billion with the MBTA booking.
+Second quarter sales increased 9% on a constant currency basis, and adjusted EBITDA increased 24% on a constant currency basis, led by strong performance in our transportation business.
+Earnings per share from continuing operations was a loss of $0.12 per share and includes costs associated with our ERP and supply chain initiatives of $5.7 million.
+EPS from discontinued operations reflects the second quarter financial result of the Defense Services business as well as a noncash charge of $6.9 million or $0.23 per share.
+Free cash flow from continuing operations for the second quarter were $7 million.
+The services business, which is now reported in discontinued operations, delivered strong free cash flow in the second quarter of $20 million.
+On Slide 10, we have outlined the second quarter impact of the divestiture, bridging to our reported results from continuing operations.
+Turning to Slide 11.
+Cubic Transportation Systems delivered solid performance.
+Sales increased approximately 15% in the second quarter on a constant currency basis, driven by systems engineering work on the New York project.
+Adjusted EBITDA and margin increased significantly as a result of higher sales, lower year-on-year R&D spend and operational improvement.
+On March 21, we announced that Cubic and John Laing reached financial close and executed the agreement with the Massachusetts Bay Transportation Authority.
+This was structured as a public-private partnership, with a base contract award of $510 million.
+Given the timing of the booking late in the quarter, there was no material impact from the Boston contract in our second quarter results.
+We continue to evaluate whether or not Cubic will need to consolidate the special purpose entity in which Cubic has a 10% equity interest.
+Moving to Slide 12.
+Mission Solutions is performing in line with our expectations.
+The increase in bookings in Q2 reflects our T2C2 LRIP order at GATR and an early order for Theater Deployable Communications.
+Sales increased 26%, driven by higher secured networking deliveries.
+As we discussed last quarter, we expect T2C2 full-rate production to enable year-on-year performance improvement for CMS.
+Also, as we have communicated in the past, the majority of our adjusted EBITDA in the segment is generated in Q4.
+Last fiscal year, CMS delivered $11.8 million in Q4 versus a full year adjusted EBITDA of $14.8 million.
+We expect similar year-end concentration in fiscal year 2018.
+Turning to Slide 13.
+In Defense Systems, all key metrics improved sequentially from Q1.
+Bookings were down year-on-year, reflecting delayed orders, which we expect to recover in the second half of this fiscal year.
+Sales were down $4.3 million year-on-year, reflecting lower shipments in Air Ranges.
+Adjusted EBITDA was in line with the prior year.
+Moving to Slide 14.
+We have provided a full year 2018 guidance adjusted for the divestiture.
+Excluding the transaction, our guidance has now changed.
+For 2018, we had assumed that CGD Services would generate sales of $375 million and adjusted EBITDA of approximately $11 million, net of corporate overhead allocations of $8 million.
+The midpoint of our guidance represents pro forma Cubic sales growth of approximately 5% and adjusted EBITDA growth of approximately 18%.
+Our confidence in the full year guidance is driven by strong year-to-date order activity and the expectation for strong Q4 shipments for Mission Solutions.
+As indicated during the last earnings call, we anticipate that adjusted EBITDA seasonality for fiscal year 2018 will be similar to 2017.
+Third quarter adjusted EBITDA is expected to reflect a gradual sequential improvement over the second quarter, and we continue to expect a strong fourth quarter.
+Now I will turn the call back over to Brad to wrap things up.
+Thank you, <UNK>.
+Turning to Slide 15.
+In summary, we are very pleased with our first half performance, and we expect growth to accelerate in the second half with the major transportation wins and Mission Solutions' recent T2C2 full rate production decision.
+We have made great progress on our strategy by strengthening our portfolio with the divestiture of the non-OEM Services business and the recent investments in full motion video and secure cloud computing.
+Finally, with our ERP back-office systems in place, we have a solid and scalable foundation for first-class processes and efficiency to support the company's expected growth.
+In closing, I'd like to thank my Cubic teammates for their strong performance and commitment to driving long-term value for our customers and shareholders.
+Now, let's proceed to the Q&A session.
+Thanks, Ken.
+So I'll start off with the last part of your question in terms of profitability in the third quarter.
+For stand-alone third quarter, we expect it should start getting to profitable.
+<UNK>in, it depends on -- we've had appropriations, the money started flowing.
+It should get to the contracting officers, and then we should start seeing bookings starting to roll out in the near term.
+So it depends on the timing of the bookings coming in.
+But we expect it should get above breakeven for the quarter, and then, again, it'll have a strong Q4 based on when the orders start coming in.
+So we know that the appropriations bill was passed the 23 of March, and it takes a number of weeks for the money to flow to contracting officers who place things on order.
+As of this morning, we understand that the Department of Defense has its money and has started allocating it to the military services.
+We're starting to see precontract kinds of activities out of contracting officers, and so we expect the orders to flow.
+Our team is ready, and we've been working ahead to ensure we can make substantive deliveries by the end of the year.
+That's right.
+So Ken, we had about a couple million dollar reduction in R&D year-on-year.
+The rest was driven through growth in the business and also operational improvement.
+When you look at our services margins, they're up.
+We've talked a lot about the improvement measures that we've implemented in the business, which Brad mentioned briefly: our engineering center in India; we have an engineering center in Perth that's low cost; when you look at what we're doing around service delivery with our Stockton service center.
+So all of those are starting to play in and lead to improved results.
+So it's a blend of those 2 in there.
+And we're very happy with how CTS is doing, Ken.
+We'll see a little bit this fiscal year, but we'll see the majority next fiscal year.
+Sure, <UNK>.
+So what I said for Q3, adjusted EBITDA will improve sequentially gradually over Q2.
+So we do expect Q2 -- Q3 adjusted EBITDA to be higher than Q2.
+No.
+It's -- again, if you heard the last part of Ken's question on CMS, it's the timing of the orders.
+So we're forecasting it will be gradually better than Q2, but we haven't given specific guidance for the quarter.
+We still -- for the full year, we feel comfortable with our guidance.
+There could be some movement between Q3 and Q4 based on the timing of the orders from CMS.
+Well, we've finished implementing SAP, but what we're going to be working on for the remainder of the fiscal year is improving the efficiency of SAP, so making sure the number of screens, number of clicks for the employees is reduced.
+Any of the implementation bugs are worked out, and we can start driving our cost-out synergies that we've talked about in the past.
+So our full year guidance for ERP spend was $25 million.
+That still remains.
+We also, as Brad indicated, are working on our PLM solution, where we're going to one PLM solution for our engineers across the business.
+So that kind of ramps up a little bit, but the full year, $25 million still stands.
+And we expect next fiscal year to have a drop in investment.
+And when we issue guidance later this year for next year, we'll delineate that, but it will be lower.
+A little bit, yes.
+Our ERP spend won't be at the same level, but it should come down a little bit, but it won't be dramatically down year-on-year -- or from Q2 to Q3.
+Thank you for joining us today.
+Cubic had a solid quarter, and we remain very optimistic about the future.
+We look forward to joining us on the next call.
+Thanks so very much.

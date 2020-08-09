@@ -1,0 +1,124 @@
+So I think probably in the first two areas of focus, we actually have valuation units at those memory customers.
+Those valuations are proceeding according to plan and our customer's CapEx plans are proceeding according to plan as well.
+So, we have good confidence in the fact that, that initiative will actually yield some increased revenue for us particularly in the area of the Purion H.
+The second point in terms in non-leading edge foundry and logic market, that's an area that has been quite strong for us.
+I think as you know -- in fact our average year-over-year or our average in 2015 was about a 50% split between memory and non-leading edge foundry logic and we're continuing to see strength from that segment of the market.
+So while it's perhaps a little bit more difficult to predict and a bit more opportunistic, there is strength there driven by the Internet of Things and a number of other devices and so we fully expect to be able to generate revenues again from that segment.
+So I think we'll start to see some follow-on business as a result of our evaluation units starting in this quarter and it will continue on throughout 2016.
+I'm not going to give any specific timing on new evaluation units that will be placed, but that will certainly be happening in 2016 and could potentially even result in some upside for us later on in the year.
+So beyond as you mentioned the evals of which on a quarter-over-quarter basis when they recognize will make things a little bit choppy.
+We have a lot of positive initiatives both on material cost out and the labor side of things.
+So we're continuing to make very good improvements in terms of lowering the standard cost of the tools.
+I always like to say that volume is the stuff that comes easy.
+So we don't really bank on that.
+We're continuing on doing the engineering cost out, the lean initiatives, and kind of more of the heavy lifting to get there.
+So in terms of 2016, there is some volume built-in but a majority of our improvement will continue to come from those initiatives that are stemming from either factory, supply chain, or the engineering side of the business.
+As <UNK> said, we expect this year to exit somewhere in the high mid 30s and we're on track to do that based on the roadmaps that we have in place.
+The mix varies so much quarter-to-quarter, it's hard to really break that down.
+Yes, all of our evaluation units are running production.
+So yes, we've been qualified for a number of recipes.
+We continue to qualify for additional recipes and we expect that to lead to follow-on orders.
+They are clean POs where we recognize revenue and in the case the customer where we had the large ramp last year, that was in fact the case.
+We shipped many revenue tools prior to the evaluation unit closing.
+We actually began some initiatives in 2015 to re-enter the Japanese market.
+The activity there is accelerating in 2016.
+I think it's pretty clear if you've done business in Japan that it's more difficult doing business in Japan if you're not Japanese.
+So it's going to take us some additional time in 2016 to continue to establish an organization there and really get all the infrastructure in place that's required.
+I would say that at this point, it would not account for any significant revenue in 2016 and it's more a 2017 revenue event.
+<UNK>, I think that would be the best way to do it.
+So that's kind of an -- it's an annual event that happens every year.
+When that comes out, we've talked about that $20 million to $21 million range.
+So I think if you took that out and modeled around $21 million, that's the right place to be.
+We don't really have -- we're still keeping a very tight handle on expenses, things that make it [move it a] little bit of some eval costs here and there but we're not opening up the floodgates to do anything other than where we see the investment that we need from an R&D point of view we're making, but we're being very careful with expenses.
+Took us a long time to get back down to these levels.
+So, we're being very frugal right now.
+We have more than enough right now to run the business even [in a $100 million].
+If you look at the capital investment for inventory, it turns very quickly in terms of new systems builds and one other thing, our inventory turns never look spectacular, but there is a fair amount of inventory that sits in the businesses to support the field.
+We have a fairly large legacy installed base but if we are ramping, if you look at our process, which [ships from Salem], we're turning inventory around pretty quick as it comes through the door.
+So it'd be just a quick cash hit and then it clear right out, but in terms of you look at what we have right now, we have more than enough cash to do anything we need to be doing right now in terms of the ramp.
+Not at this point in time.
+I mean there are number of topics that we continue to re-visit with our Board at our Board meetings, the reverse stock split for example was one thing that we've been talking to our Board about.
+Now have gotten their approval to move ahead and hopefully the shareholders will support that as well.
+Again, there are things that we discuss but at this point, there are no plans to do that.
+The Gartner numbers aren't finalized yet, but their current estimates are somewhere probably between [$950 million and $975 million].
+At this point I think we all expect the TAM to be down and preliminary Gartner numbers show it probably in the [$875 million] range.
+We'll get more clarity from that as they continue to put out their next estimates over the next couple months.
+I think right now that we feel very comfortable that we can get to the 30% with the current split of business that we have between the memory and the non-leading edge foundry logic business.
+We've talked about how one of our goals is to penetrate a leading edge foundry logic customer this year.
+So for us, that would be [upsize] based on the current plans that we have.
+And <UNK>, one thing to keep in mind is that the memory segment is much more capital intensive for implant than the leading edge foundry.
+So that tends to be a sweet spot for us.
+I think memory is going to be very important for us.
+We have our foot into three of the four major memory customers and even though we have a good presence, there's significant room for improvement in terms of expanding our business based on the implant recipes that are out there.
+So, we have ability to gain market share at each of those customers and then I think a strong memory spend, so for example, DRAM is supposed to be -- have a very good year next year.
+I think those would be two big levers that would help us significantly and then add on top of that what we talked about in terms of continued strength out of the non-leading edge foundry and logic market and some potential upside from leading edge.
+All of those things will add up to allow us to get to that market share goal.
+Okay, so we're only providing guidance for Q1.
+During the quarter, as we explained, we expect to see an increasing level of activity from NAND, DRAM, and non-leading edge foundry and logic customers across the full Purion product family.
+Based on commentary by our larger peers and the fact that our system shipments are more heavily weighted to the end of the quarter.
+it's possible that the industry has begun to recover, but I guess the point I want to make is regardless of where we are in the cycle, we're very focused on capturing business at several specific projects in the memory and non-leading edge markets.
+I recently returned from a long trip to Asia and my takeaway is that really nothing significant has changed in terms of the timing or the spend on those projects.
+So I think our major assumptions are still fundamentally in place and valid.
+And then additionally we just -- we're going to react very quickly to any other pop-up opportunities that our hallmark of a non-leading edge market.
+So I think all the fundamentals are in place for us to continue to drive the market share gains that we've been talking about.
+No.
+No, <UNK> it could happen pretty much for any of the leading edge, ion implant likely for the leading edge foundry will be used in a material modification mode and so Purion H for example could be brought in to improve yields, improved bin splits, improve power over performance or any of those aspects of a device.
+So it could actually be brought in almost at any node.
+It wouldn't be necessarily something that you'd have to look at sub 7-nanometers for.
+The Purion is doing very well at 28-nanometer and older.
+So there's a lot of custom logic, a lot of image sensor, a lot of power device kind of technology that's on 28-nanometer in older groups and Purion has done extremely well there.
+Purion XE and then Purion H, we announced at a tower facility that's 200 millimeter and so there's quite a bit of activity, 28-nanometer and older for this.
+Yes that's definitely exactly what we're saying Dave.
+We're focused on very specific projects that are moving along kind of regardless of the overall cycle and one thing to keep in mind is that non-leading edge, the different memory groups with leading edge, the industry as a whole has somewhat decoupled from sort of the way that it used to run in where the type would come in, the type would go out.
+Right now, there's I guess a lot of eddies that are going on.
+So we're focused in opportunities in these two memory sites that we talked about that we feel are going forward and that's happening regardless of the many macro trend that we might normally look at.
+So, the goal is to gain share.
+Yes, absolutely right.
+Last year, Purion H took off as a result of one primary customer in volume that allowed us to [seed three other customers, two additional memory customers].
+They have projects for this year.
+So the goal this year as <UNK> described in her remarks is to grow that share across those new customers and that really sets us up as memory continues to grow over the next several years we'll be tool of record at all of those memory companies as they do future big projects and that will continue to grow the volume that helps drive the business.
+Yes, I think they're real and we've got a strong organization in China right now and our sales folks are working with the appropriate people in China as some of the groundwork has been laid for those fabs.
+So, yes, they are definitely an opportunity for Axcelis.
+And in addition to that, I mean there are existing fabs there and we do have installed bases at those fabs and we're working to continue to expand our Purion footprint in those fabs as well.
+So the split in the quarter was 30% memory, 70% non-leading edge and for the full-year, it was a pretty even split.
+It was full-year, 49% memory, 51% foundry.
+We don't really have any requirements that would need brick and mortar.
+We have a fairly strong supply chain that also has contract manufacturers if we ever need additional capacity because I guess kind of to remind everybody we're pretty much a final assembly, integration, and test house and we can flex the supply chain for any real [steeper amps].
+Within the factory, we also have additional shift capability that we could add both testing and integration to.
+So, we wouldn't need to use money for that and if you look at our capital, our capital spending is typically small and it's more pointed at some small facilities modification, more maintenance, and then more some test equipment we use to support manufacturing, but again our capital requirements are typically pretty small.
+So, I said that we weren't providing guidance for Q1, but I said based on commentary from some of our peers and the fact that our system shipments are more heavily weighted to the end of the quarter, it's possible that the industry has begun to recover.
+Yes, it's based on the fact that we believe that IoT is going to drive a pretty large memory build both DRAM and non-volatile, whether it's flash or flash NAND or 3D XPoint or other types and so we think that really starts to kick off in 2017 and we know multiple customers that have projects that are on the planning boards for that.
+Well, you probably need to talk to Micron and Intel to get exact details on that.
+From our view, we think it probably looks more like a DRAM process in terms of implant, but all of that is -- it's still in the early stages for them.
+No, we haven't seen any significant shift in some of the things that they're trying to do to ensure that they keep their market share.
+No, that would be one of the tactics that they have employed in the past.
+We haven't seen anything significant come-up.
+There's two customers that we've talked about in the past, one who's got a DRAM project, one that has a NAND project and one of those projects we expect is starting in Q1 and we'll have multiple spend cycles through the year.
+The second one starts later in Q2 and again is likely to have expansions through the year as they fill out the fab.
+So, when we refer to it, the Q1 and Q2, it's the beginning of it, not the end.
+I think <UNK>, you're referring to one of the pages in our presentation that had probably a short-term, mid-term long-term.
+And at one point, I think that's how it was stated.
+We believe right now based on where we are with our improvement roadmaps that we're on plan to achieve those gross margins [at the revenues the share] regardless of where they turn out to be because again, we're not really guiding full-year revenues.
+Like I said, we're still doing engineering cost out work.
+We're still running kaizens in the factory.
+We're still making improvements on warranty and install.
+So those things will all come without the volume.
+The volume is kind of the icing on the cake that can really get us to that greater than 40% gross margin mark.
+Well, the common platform helps a lot.
+[There is a lot of volume associated using] all of our tools.
+Yes, we do because of the commonality of Purion, it does help the volume too.
+Hi <UNK>, it's Doug.
+The guidance down a little bit, I think one thing to keep in mind is again the difficulty of providing guidance at these revenue levels when your tools ASP's are [3 million to 5 million], makes a little bit difficult to distinguish sort of whether it's one Purion or one legacy tool or that kind of stuff.
+So we see a good mix in the quarter.
+As <UNK> said, we're continuing to see both the memory market and the non-leading edge.
+So both DRAM and NAND are increasing their activity levels and we see our shipments a little bit more loaded towards the end of the quarter as well, and so I don't think it's one segment or the other.
+I think we are seeing activity across the Board.
+Our bookings in the quarter are actually a much more even split.
+If you recall last quarter, they were much more heavily weighted towards the non-leading edge logic foundry, but taking a look at Q4 and where we ended up, it's again back to that much more even split.
+So I guess, probably a couple of things, the one thing that we know is the TAM number that the industry guys estimate in January is usually different than the number that they finalize the following January for the year.
+So that's something to remember that they're making their best estimates.
+In terms of probably what's driving those estimates, there is a fair amount of activity that's been discussed on all these calls regarding leading edge, logic and foundry and the 10-nanometer move.
+That's going be less capital intensive for ion implant and then the DRAM projects that we're talking about are much smaller than the large DRAM project that happened last year and so that probably brings it down a little bit and the 3D NAND move, there's a lot of new wafer starts, but there's also a lot of layer conversions.
+Those layer conversions don't require additional implant, but they do require additional [edge] and deposition equipment.
+So I just want to thank you all for your continued support and we plan to be out on the road over the next couple of months and we hope to see you then.
+Thank you very much.

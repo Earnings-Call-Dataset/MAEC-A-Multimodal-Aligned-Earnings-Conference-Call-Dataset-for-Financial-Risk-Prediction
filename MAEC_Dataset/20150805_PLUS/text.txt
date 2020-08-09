@@ -1,0 +1,190 @@
+Thank you, Nicolaus.
+and thank you everyone for joining us today.
+With me are <UNK> <UNK>, Chairman, President and CEO of ePlus; <UNK> <UNK>, Chief Operating Officer and President of ePlus Technology; <UNK> <UNK>, Chief Financial Officer; and Erica Stoecker, our General Counsel.
+I want to take a moment to remind you that the statements we make this afternoon, that are not historical facts, may be deemed to be forward-looking statements and are based on management's current plans, estimates and projections.
+Actual and anticipated future results may vary materially due to certain risks and uncertainties detailed in the earnings release we issued this afternoon and our periodic filings with the Securities and Exchange Commission, including our Form 10-K for the year ended March 31, 2015 and our 10-Q for the quarter ended June 30, 2015, when filed.
+The Company undertakes no responsibility to update any of these forward-looking statements in light of the new information or future events.
+In addition, during the call we may make reference to non-GAAP financial measures and we have posted a GAAP financial reconciliation on our website at www.eplus.com.
+I'd now like to turn the call over to <UNK> <UNK>.
+<UNK>.
+Thanks, <UNK>, and good afternoon to everyone.
+First quarter results were a solid start for fiscal 2016.
+Our gross margin on products and services expanded 150 basis points on a 2.1% increase and non-GAAP gross sales of product and services, boosted by a higher mix of software and services.
+Our growth in gross profit from services for the first quarter of fiscal 2016 was in excess of the 14.8% in organic services we delivered in the full year of 2015.
+Diluted earnings per share this quarter increased 6.1% to $1.21, as compared to diluted non-GAAP EPS in the same quarter of the prior year.
+On the call in the year ago quarter, ePlus recorded a one-time gain of $1.4 million.
+Overall, we believe shifts in our revenue mix, as well as the significant investments we made in the business last fiscal year, positions us to grow gross profit to increase faster than revenue moving forward.
+<UNK> will go into greater detail on the financials in just a moment.
+The entire technology landscape continues to evolve at a fast pace across hardware, software, infrastructure and the applications layer.
+In recent years, including fiscal 2015, we purposely invested ahead of what we see as major paradigm shifts in various technologies and how they are deployed, significantly increasing our complex systems integration capacity and our engineering capability and advanced technology such as flash storage and hyper-converged infrastructure.
+This has allowed us to work with clients, implement technology solutions that offer them greater efficiency, cost benefits and the option to explore OpEx-based IT models.
+As a result, we have been able to expand our gross profit ahead of revenue representing our capacity in these higher margin areas and demonstrating the positive ROI of our strategy.
+We are encouraged that the industry and our partners are recognizing our abilities to provide more robust and complex solutions.
+During the quarter, ePlus placed 32nd in the channel company 2015 CRN Solutions Provider 500.
+Again, moving up in the rank within this annual survey.
+Our relationships with the Tier One IT vendors including Cisco, HP, NetApp and EMC have never been better and we believe we are a partner of choice for both, as well as emerging technology companies with focused offerings in cloud, SAS, security and flash storage among others.
+With that, I will turn the call over to <UNK> for a more detailed discussion of our business.
+Thank you, <UNK>.
+As <UNK> said, our results for the first quarter of fiscal 2016 demonstrates our ability to execute on our strategy which provided growth in gross profit, expansion in gross margin, and positive comparisons in earnings per diluted share at a time when many customers are evaluating new technologies.
+Our [full] lifecycle approach provides high value to our customers and they see ePlus as true partners, starting with assessments and architecture through integration and managed services.
+I'd like to focus on a few areas of our strategy.
+The first is the work we've done with services to prioritize higher margin services, including managed services and staffing.
+As discussed previously, we continue to build out our infrastructure including our three managed service centers and to expand the overall breadth of services offered.
+We are pleased to report that we see many clients returning for additional services after the initial contract.
+The benefit of this business is not only high margin, but also in the fact that it represents an annuity with consistent revenue spread out over a long period of time.
+Our overall services backlog is the highest it's ever been and we're seeing increased demand for new service offerings.
+The second component to the strategy is the evolution and expansion of our engineering expertise.
+In recent years, we've greatly expanded our engineering capabilities to meet the demand for Big Data, converged infrastructure and security, as well as expanding our vendor certifications from both traditional and emerging vendors.
+This has allowed us to meet customer demand for higher margin solutions and de-emphasize lower margin products.
+Gross margin on product and services this quarter was 20%, representing a 230 basis point increase from 17.7% reported just 24 months ago in the first quarter of fiscal 2014.
+In the current environment, with IT budgets stretched and a whole range of new technology available, it's only the most advanced solutions that can really command that kind of margin expansion.
+The third component I'd highlight is geographic expansion.
+Over the last several years, we've grown organically or via acquisitions to expand our presence nationwide.
+We've shown our ability to stand up new regions with support from our existing operations in order to expand our footprint and develop new client opportunities.
+We have the resources and the expertise to continue growing both organically and through M&A and geographic expansion remains a key part of our strategy.
+To give one example that really sums up all the things that I just discussed, we were recently engaged by a medical devices company to provide a video conferencing solution to support their US and international growth.
+The client is based in upstate New York, one of our areas of geographic growth over the last few years.
+In terms of services, the solution we provided features professional services, enhanced maintenance services, with a managed services component pending.
+This solution allowed the client to communicate more effectively internally and externally and reduce travel costs.
+From our perspective, the key point is that we engaged early with the client and offered a combination of advanced professional and integration services, including leasing.
+As a result, all competitors were locked out due to our ability to provide complex solutions with flexibility in services the customer required.
+Before I turn the call over to <UNK>, I want to touch on a final subject that we feel is crucial, namely security.
+Security threats have become more prevalent and we have invested to build up a strong practice centered on perimeter security and data center security, overlaid with security services from assessments to staffing.
+Security solutions are among the most complex in the market and they are synergistic with many of the complex solutions where we have established practices.
+For the first quarter of the year, security revenues represented 15% of non-GAAP gross sales of products and services.
+We believe we have the expertise, the geographic reach, and the sales infrastructure to take advantage of this growing market.
+I'll now turn the call over to <UNK> for a closer look at our results for the quarter.
+Thank you, <UNK>.
+Results for the first quarter of 2016 showed healthy year-over-year comparisons in key metrics we focus on, including gross profit, adjusted EBITDA, non-GAAP gross sales of product and services, and earnings per diluted share.
+Our results were built on continuing margin expansion in our technology business, which is 97% of revenue, and by our focus on operational efficiencies.
+Net sales for the quarter declined 0.9% to $269.9 million, even as gross sales on product and services rose 2.1% to $332.3 million.
+In contrast, this contrast is the result of a focused change in our product mix which mirrors that of the broader IT industry where providers are moving away from perpetual software license models to work more of a subscription or term model.
+Security software is a good example of subscription-based software where the license and updates are provided for a term.
+In these transactions, we booked 100% of the profit on the transaction as net sales, contributing to the year-over-year improvement in gross margins.
+We are also executing a greater proportion of sales from third party maintenance and software assurance contracts that line with the overall trend in the IT industry.
+To highlight the trend, the adjustment recorded to present these transactions on a net basis increased to 23% of non-GAAP gross sales of product and services in fiscal year 2015, as compared to 20% in the prior year.
+We will continue to report gross sales of products and services and non-GAAP metrics to give investors a better understanding of our sales volumes and how we manage the business.
+Consolidated gross profit for the quarter was up 4.8% to $59.1 million.
+Consolidated gross margin was $21.9 million in the quarter, up from 20.7%, [for a 21.9% in the quarter, up from 20.7%] in the first quarter of fiscal 2015, with a 150 basis point improvement in our gross margin on sales of products and services.
+Last quarter, we began reporting adjusted EBITDA, a metric we believe gives insight into the operating performance of our business.
+We calculate this metric by taking net earnings and adding back interest expense, depreciation and amortization, provision for income taxes and other income.
+We consider the interest on notes payable from our financing segment as well as depreciation on assets, finances, operating [uses], to be operating expenses.
+As such, they are not included in the amount added back to net earnings and in the adjusted EBITDA calculation.
+For the first quarter of fiscal 2016, adjusted EBITDA totaled $16.3 million, a 4.2% increase from $15.6 million in a comparable quarter a year ago.
+Operating income was up 2.2% to $15.1 million from $14.7 million in the first quarter of fiscal 2015.
+The lower operating income figure when compared to adjusted EBITDA is the result of increased depreciation and amortization following the acquisition of Evolve Technology in August of 2014.
+Net income totaled $8.8 million, or $1.21 per diluted share, for the first quarter of fiscal 2016.
+In our first quarter last year, net income was $9.5 million, or $1.25 per diluted share, and it included a non-cash gain of $1.4 million from a retirement of liability in the financing segment.
+Excluding this gain, first quarter 2016 EPS was up 6.1% from a year ago.
+Turning now to results from our individual segments, in our technology segment, net revenues fell 0.7% to $261.5 million, despite higher non-GAAP growth sales in product and services for the reasons I just mentioned.
+Looking at revenue by end-market, we continue to be well diversified by industry.
+On a trailing 12 month basis, the SLED market remains our largest, accounting for 23% of revenue, next our technology and telecom at 20%, then media and entertainment at 18% with the remainder split between financial services, healthcare and other.
+Technology gross profit rose 6.5% to $53.8 million.
+As <UNK> mentioned, we saw double digit growth in gross profit from services last quarter, above the 14.8% organic growth we reported for full fiscal year 2015.
+Gross margin on sales of product and services was 20%, up from 18.5% a year earlier.
+This was driven by an improved sales mix, including the growth from services in terms revenue and gross margins, as well as by the increased proportion of sales booked as net revenue as previously discussed.
+Operating expenses in the technology business totaled $40.8 million, an increase of 7.1% year-on-year, driven by higher salaries and benefits which totaled $33 million, as compared to $30.7 million last year.
+Higher salaries and benefits are related to both increased headcount and higher variable compensation tied to increased gross profit.
+G&A expenses were also up, rising to $6.5 million from $5.8 million in the first quarter of fiscal 2015, partly due to non-cash expenses related to the Evolve acquisition in 2014.
+Professional fees were $1.3 million, down 20.4% from the first quarter of fiscal 2015 when we incurred certain expenses related to the secondary offering.
+Looking now at the financing segment, as you know, results in this business tend to be uneven due to transactional gains and post-contract earnings.
+Transactional gains are derived from our decision to sell financing arrangements at origination or during the term of the arrangement.
+We make the decision to sell a transaction for several reasons, including balancing portfolio risk or generating cash for other uses.
+In this quarter, financing revenue was $8.4 million, down from $8.9 million in the first quarter of fiscal 2015, due to lower transactional gains.
+Gross profit fell 10.1% to $5.3 million, while operating income was down 11.3% to $2 million, compared to $2.3 million a year earlier.
+Segment earnings were $2 million compared to $3.7 million a year earlier.
+This was partly due to lower transactional gains and also to the $1.4 million gain from the retirement of a liability that I mentioned earlier.
+This gain was recorded as other income in the financing segment in the first quarter of fiscal 2015.
+Although results can vary on a quarterly basis, we are confident in the financing segment's long-term outlook and ability to contribute to full year's results.
+Turning now to the balance sheet, we ended the quarter with a cash position of $88.8 million, up from $76.2 million at the end of March.
+These funds mean we have the financial flexibility to pursue growth opportunities, both organically and through acquisitions.
+I will now turn the call back to <UNK> for closing remarks.
+Thanks, <UNK>.
+To sum up, our long-term strategy continues to pay off.
+And we are pleased that ePlus ranks with the top of its peer group in both margins and return on capital.
+We believe we are well-positioned to take advantage of the current dynamics of the IT market and to post increases in gross profit that exceed revenue growth.
+In general, we see the solid demand across our customer base and we are particularly encouraged by what we are seeing in our services business and the opportunity in security related solutions.
+As we progress through fiscal 2016, we will remain focused operationally on further penetrating our vertical markets and capturing greater [wallet] share among our existing customers while also expanding our overall client roster.
+We also continue to also evaluate inorganic opportunities for growth given our solid balance sheet.
+At the same time, we remain disciplined in this effort, looking for acquisitions that provide the right strategic, operational and financial synergies required to provide the long-term benefit to ePlus.
+Operator, please open the call to questions.
+Thank you very much.
+A couple things that help drive it.
+If you remember about a year ago, we announced that we were expanding our maintenance renewal scheme and also talked about our enhanced maintenance service offerings.
+And what they are is where ePlus provides the first level of support to our customers.
+So, instead of just the traditional resell of maintenance, we're actually providing level one support and, in a lot of cases, managed service capabilities and staffing.
+And what we've done with that is we've gone back to our key vendors, like Cisco, NetApp and others, to build those programs.
+And then over time, we're going to look to expand it.
+The good news with it for us is it's a customer stickiness piece because we're that one throat to choke, so if you think about like a FlexPod, a FlexPod deployment, we can provide the FlexPod solution itself, both install and implementation.
+We provide the level one support.
+We provide the managed services.
+And if they don't have the staffing on site, we provide the staffing.
+I guess the easiest thing, <UNK>, the benefits to the vendor is, if you think about it, when you've got these integrated silos of compute, storage and networking they all know their own piece, but they're integrated solutions.
+So, when they have a problem, I don't want to say the vendors are pointing fingers at each other, but they all think that their technology's the best.
+So, what we're, we're involved, we're that one throat to choke and it's our responsibility to get it resolved across the multiple vendors, siloed solutions that are part of FlexPod.
+Sorry, <UNK>, you broke up.
+I didn't hear the last piece of that.
+<UNK>, I apologize, I'm not really sure what you're trying to ask there.
+So, if you can try maybe one more time.
+No, hey <UNK>, if it's important we'll answer it.
+I'm just not sure what you're asking.
+In some cases, it's a little bit difficult to tell based on the filings.
+But from what I've seen, there is still some differences across the board, at least in our peers.
+But it is difficult to ascertain exactly what they are taking net versus gross.
+Well, two things, on your second question first, on the leasing piece, I think we've always stated that there's lumpiness in leasing.
+And there was a one-time fee last year that was not replicated.
+So, that's kind of how to explain the leasing side of it.
+And on the services side, <UNK>, as you know we've made major investments in terms of implementing our third managed service center, adding significant headcount in the managed service for Tier One, Tier Two and Tier Three, expanding our managed service offerings with FlexPod, video and things of the like.
+So, we would not be doing that if there wasn't a market from our customers looking to us to provide that proactive [monitoring] and management.
+And as you know, the managed services is an ongoing annuity.
+So, it's an annuity-based service that we're providing.
+Let me think about this one, <UNK>.
+Here's the easiest thing, we're happy with what we've seen so far in services, both with what we'd consider professional or transactional services, as well as what I call the annuity services, which is your managed services and staffing.
+They're two types of businesses, though, if you think about it.
+One is kind of a total contract value which is your annuity piece and the other is just a booking of professional services that's recognized as it's delivered.
+So, it's kind of hard to give you an exact which one is expanding quicker, if you will, because they're both recognized differently, but they each have value to ePlus as we go forward.
+More importantly, they add value to our customers.
+It's both.
+It's both stand alone and it's combined with our existing solutions.
+What's nice about security is, as you know, everybody is concerned about what's going on in the market with all the different threats and hackers that are out there.
+So, whether it's a data center solution, whether it's a lab solution, we try to include security within each of our different offerings.
+We also have specific security offerings around securing a perimeter, kind of keeping the bad guys out, securing data.
+And that's, for example, if you had an on prem data center and an off prem and the data was going outside your network with the security solutions that go with that.
+And then we also have security services where we provide [PEN] testing, vulnerability assessments, risk and compliance assessments and a virtual [C-SO] capability.
+The things in the market that kind of fits to our strategy, about five years ago we saw where the market was going with security.
+We made an investment in NCC, which was an acquisition in the Midwest about four years ago, a little bit over.
+What that gave to us was security expertise that we were able to leverage across the rest of ePlus and build up our security practice across all of our offerings.
+The big thing that a lot of our clients look for from us, <UNK>, though, is to sit down and help build the roadmap and kind of build the gap analysis of where they have holes and things they've got to protect.
+Did that cover what you need, <UNK>.
+<UNK>, every customer's different.
+I think what you're seeing in the market, and you're seeing it and hearing it from some of these legacy storage vendors, if you will, customers have a lot of choices now.
+So, it's not just your old legacy storage solutions.
+You've got flash with what they call solid state drives, if you will.
+You've got converged infrastructure, which is kind of your FlexPod and Vblock play.
+And then you've got hyper-converge.
+So, I think in terms of as the market continues to evolve and we have more and more data in the market, both structured and unstructured, I think you'll see the continued need for more and more storage as we go forward.
+It's just going to be which solution is the solution of choice for each customer.
+I think as you've seen from our strategy and how we approach the business and what we've invested in, our services are continuing to be a larger part of our business.
+We did disclose that the services gross profit grew last year 14.8%.
+And that is contributing to our gross margin increase this quarter, as well as the amount that we are reclassifying on a net basis.
+Those products are a focus for us.
+As <UNK> mentioned, the team that we have in place selling maintenance renewals and also the trends in the marketplace that we're seeing in terms of how software is currently being licensed, and that's particularly prevalent in the security space where those licenses are on a subscription or term basis.
+And the way that those are licensed, we are required to account for those on a net basis.
+And those are a direct contributor to our gross margin.
+So, those factors, coupled with our strategy, we would believe that we would continue, we're well-positioned to continue to grow that gross margin over the longer term.
+A couple different things, what we're seeing so far.
+We haven't seen any indication of a slowdown from our customers yet.
+The other thing to note, our gross revenues were up.
+Our gross profit was up [6.5%] and our gross margins were up 150 basis points as we had talked about.
+The other thing is we believe pretty strongly in our strategy.
+And part of our strategy is working with both emerging as well as the existing technology vendors out there.
+So, we feel we're very well-positioned, as the market evolves and adjusts, to be right there both from a revenue and from a gross profit standpoint.
+And we believe we're still well-positioned to exceed the market on a gross revenue basis.
+Did you ask about our pipeline.
+I'm not sure what you asked there.
+We're still, as part of our strategy, one of the things that we're trying to do is build out our region, our national footprint.
+That's both organic as well as through mergers and acquisitions.
+And we will continue to hire customer-facing headcount, which is sales and services headcount, to address the market needs for our customers.
+Thank you for your time and interest today.
+And we look forward to speaking to you next quarter.
+Thanks a lot.

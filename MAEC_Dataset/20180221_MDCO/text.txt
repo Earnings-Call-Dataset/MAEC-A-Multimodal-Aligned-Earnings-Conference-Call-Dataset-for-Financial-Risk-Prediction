@@ -1,0 +1,178 @@
+Thank you, operator.
+Good morning, everyone, and welcome to The Medicines Company's Fourth Quarter and Full Year 2017 Financial and Operating Results Conference Call.
+I'm joined today by our Chief Executive Officer, <UNK> <UNK>; and our Chief Financial Officer, Bill O'Connor.
+Before we begin, I'd like to remind you that our discussion during the call will include forward-looking statements that are subject to risks and uncertainties that could cause actual results to differ materially from those indicated by those forward-looking statements.
+Additional information regarding these risks and uncertainties is discussed under the forward-looking statements legend in our press release issued this morning as well as in our periodic public filings with the Securities and Exchange Commission, which can be obtained from the SEC or by visiting the Investor Relations section of our website.
+During today's call, we may also refer to certain financial measures that were not prepared in accordance with the U.S. Generally Accepted Accounting Principles.
+Please refer to the reconciliation of GAAP to adjusted net income and adjusted EPS in this morning's press release for explanations of the amounts excluded and included to arrive at adjusted net income and adjusted earnings per share.
+The press release can be obtained by visiting the Investor Relations section of our website.
+With that, I'll now turn the call over to <UNK>.
+<UNK>.
+Thanks, <UNK>, and good morning to everyone.
+During 2017, we met our strategic objectives.
+We focused the company on inclisiran, divested our infectious disease business, started pivotal Phase III LDL-C lowering studies in the ORION program for inclisiran, completed inclisiran preclinical studies as planned, established manufacturing process at commercial scale and produced sufficient material to support the development of inclisiran for the initial NDA and MAA submissions and set up the ORION for cardiovascular outcomes trials, among other things.
+We reviewed the ORION program for inclisiran in depth on the 23rd of January with investors.
+The web link is available at www.themedicinescompany.com.
+In summary, atherosclerotic cardiovascular disease patients are underserved and overcharged for PCSK9 monoclonal antibodies.
+Adherence is not better than and is potentially worse than statins.
+Inclisiran is a new class of lipid-lowering drug based on RNA interference with solid and rapidly accumulating scientific foundations and proof of concept.
+Manufacturing dose and dose interval infer low cost of goods and unprecedented pricing flexibility, which we believe can accommodate value benchmarks.
+The emerging data from inclisiran show at least equal efficacy, safety and improved dosing versus PCSK9 monoclonal antibodies.
+And enrollment in Phase III trials is well ahead of plan with rapid accumulation of safety data now and for the rest of 2018, and the data expected for NDA and MAA submission will be available, we believe, in the second half of 2019.
+Inclisiran is designed to address the largest pharma market, LDL-C lowering; and since LDL-C is the unambiguous driver of atherosclerotic cardiovascular disease, we believe the compound can become a product with enormous commercial potential.
+We're very committed to our purpose, which is to address that unmet medical need at an affordable price, while maximizing shareholder value.
+Going forward, we'll remain focused on the development program, and during the first half of the year, we expect to announce completion of recruitment for ORION-10, the U.S. ASCVD Phase III pivotal, as we did for ORION-9 yesterday and for the ORION-11 European trial on January 25.
+We expect the second DSMB review by the end of the first half of the year when all 3,400 patients enrolled in the pivotal studies will have completed their first 30-day follow-up visit.
+We'll begin dosing in the ORION-5 homozygous FH pivotal LDL-C lowering trial, which will have a shorter treatment period than the 18 months of the other pivotal studies and will not be on the critical path for NDA submission.
+There will be further DSMB reviews going forward as we accrue data and patient numbers in our trials later in 2018 and beyond.
+And we will be initiating recruitment in ORION-4, multinational cardiovascular outcomes trials.
+ORION-4 will enroll approximately 15,000 patients with established ASCVD on a background of high-intensity statins.
+With the baseline LDL-C of around 100 milligrams per deciliter or more and median follow-up of 4 to 5 years, we anticipate the trial can achieve at least 25% relative risk reduction in cardiovascular events and should be positioned to demonstrate a potential cardiovascular mortality benefit.
+Our financial results for the fourth quarter demonstrate our continuing focus on progressing the clinical development of inclisiran efficiently and reducing costs in all other areas of the firm aggressively.
+We obviously have also got a careful eye on our cash position.
+The financial details are provided in this morning's press release, and Bill will summarize them for us now.
+Thank you, <UNK>, and good morning, everybody.
+Today, I'll focus on a few financial highlights from the fourth quarter.
+On January 5, 2018, we closed the sale of our infectious disease business unit to Melinta Therapeutics for a consideration consisting of $215 million of guaranteed cash, approximately 3.3 million shares of Melinta common stock and tiered royalty payments on net sales of Vabomere, Orbactiv and Minocin IV.
+Consequent to this divestiture, we have classified the infectious disease business unit as a discontinued operation in our accounts, with the net loss showing as a single-line item on the P&L.
+Assets and liabilities associated with the infectious disease business unit are highlighted in the balance sheet as held-for-sale.
+I will focus my comments today on results from continuing operations.
+Net revenue for the fourth quarter totaled $8.6 million, which includes $4.1 million of royalty revenue from authorized generic sales of Angiomax by Sandoz.
+Revenues were down 51% year-over-year, driven mainly by the loss of exclusivity in 2015 for Angiomax and further increased generic competition.
+Operating expenses were $168.7 million for the quarter versus $88.3 million last year.
+Cost of revenue includes a $15 million noncash reserved for Angiomax inventory obsolescence for the quarter.
+Also included in operating expenses is a noncash asset impairment charge of $63 million for the write-off of contingent consideration for Raplixa as a result of the decision by Mallinckrodt to abandon that product.
+R&D expenses were about $31.2 million higher compared to Q4 2016 due to increased spend for inclisiran and a milestone of $20 million incurred as a result of the initial dosing in the ORION trial.
+Our SG&A expenses were down about $20 million compared to Q4 2016, primarily due to lower headcount, legal and infrastructure costs.
+On a GAAP basis, net loss from continuing operations in the fourth quarter of 2017 was $159.4 million or $2.19 per share compared to $82.8 million or $1.17 per share in the fourth quarter of 2016.
+On a non-GAAP basis, adjusted net loss from continuing operations in the fourth quarter of 2017 was $44.4 million or $0.61 per share compared to $54.9 million or $0.78 per share in the fourth quarter of 2016.
+With that, I'll turn to 2018 guidance.
+Included -- including the upfront proceeds from the Melinta deal, we began the year north of $300 million in cash.
+We believe this, combined with the other sources of liquidity from the Melinta deal, namely the revenue earnouts, guaranteed payments in 2019 and shares of Melinta stock provide us a runway through data readout and filing of the NDA without the need to raise additional equity.
+We have implemented a restructuring to focus the company on inclisiran with less than 50 employees going forward.
+The annualized savings from the restructuring relative to the end of 2017 headcount is approximately $74 million, on top of $75 million we've already taken out for a total of $150 million of annualized head cost savings since the end of 2015.
+To achieve these savings, our onetime cash payments will be around $25 million to $30 million, which includes severance and closedown activities during the year.
+Virtually, all of these onetime payments will be made in the first half of 2018.
+Going forward, the inclisiran team, including the headcount cost of support services, typically included in G&A, will have an annual cash cost of approximately $22 million.
+Our R&D programs are well underway and moving more quickly than planned as <UNK> stated.
+Current estimates for the anticipated total cost to submit an NDA and MAA for an LDL-lowering indication is expected to be about $150 million over 2018 and 2019.
+Please note, this does not include the cost for the inclisiran team mentioned above.
+In parallel, we will begin ORION-4, our cardiovascular outcome study, in 2018.
+We can confirm that the estimated cost for ORION-4, which will recruit 15,000 patients, is up to $150 million.
+As the ORION-4 trial recruitment takes off, we will provide updated guidance on its rate of spending.
+As stated previously, nonfixed sources of liquidity from the Melinta deal, namely the revenue earnouts and shares of Melinta stock, together with fixed payments in 2019, are expected to provide us a runway through data readout and filing of the LDL-lowering indication, NDA and MAA, towards the end of 2019 without the need to raise additional equity.
+We are not providing specific guidance or estimates concerning nonfixed sources of liquidity, and we will not give further cash guidance at this time.
+And with that, I will turn the call back over to <UNK>.
+Bill (inaudible) we will happily open it up for questions.
+Jess, it's Bill.
+At this time, we're going to stick to the guidance that we just mentioned on the call from the perspective of the R&D for the LDL-lowering trial of $150 million over the course of 2018 and 2019 and the total cost for the outcomes trial of approximately $150 million; the expected headcount cost of $22 million, we expect that for 2018 and, of course, the onetime costs.
+But beyond that, we're not -- at this point, we're not going to give any further guidance.
+Again, I think we're going to stick with what we've stated, Jess.
+<UNK> <UNK>, thank you, it's <UNK>.
+First of all, thanks for the question on the quality of patients being enrolled.
+Obviously, you're right.
+They are being enrolled very quickly.
+We have very stringent quality control steps to make sure the right patients get enrolled.
+And for the LDL program that is currently enrolling as we've discussed, we have very frequent, more than weekly checks of baseline data and I'm happy to report, all of the baseline expectations, including LDL at baseline and including use of concomitant statins, absolutely being met with a very high degree of quality.
+So good news is the speed is going well, but the quality is also very much where we need it to be and we're very pleased with both.
+LDL at baseline, to remind you, in these ASCVD trials is 90 -- excuse me, is 70 or 100 milligrams per deciliter.
+If the patient has secondary ASCVD -- I mean, if they've had a heart attack or stroke or peripheral artery disease before, then they have to have a qualifying LDL of 70, and they do.
+And those who have risk equivalent disease as, for example, in the European trial, some patients have risk equivalent, they have to have an LDL-C of 100.
+And then in the HeFH -- the heterozygous FH trial, the cutoff is 190.
+So yes, all of those are being met by patients, included -- the count will actually be randomized through the IVRS system, the automated randomization system, without that being affirmed and, obviously, we check it very carefully.
+So it's a good question.
+I hope that's a helpful answer.
+Now in terms of the pace of ORION-10, I think at this stage, all I can say is it's going very well, and we'll update you on the completion of enrollment as soon is it's done.
+And again, we've been enthusiastic about its pace, and hopefully we can bring that in, in rapid order as well.
+Yes.
+So we're very encouraged by the Phase II data on homozygous FH, as you mentioned.
+We have a series of patients now that have responded very well by and large.
+And so we turn to the pivotal study, ORION-5, and the biggest issue, as you probably realize in homozygous FH, is finding patients.
+We've been working to find these patients around the world.
+I think we have a large cohort of people identified, who we will pull from.
+Somewhere around 40 to 60 patients is what we need, but we've already identified a lot more than that, which will make recruitment hopefully go well.
+However, the biggest question mark is how long should they be treated for.
+As you may know, other drugs have been approved on relatively short periods of treatment, 12 or 24 weeks.
+And we certainly don't believe that it's appropriate to take a homozygous FH patient and randomize them to placebo for 18 months.
+That would be thoroughly irresponsible.
+So we want to bring it down to a short period of efficacy treatment.
+The homozygous FH patients don't contribute a lot to the safety data pool that we're building.
+Most of those data come from the other trials.
+So the ORION-5 study will be short.
+And how short, we don't know.
+We're actually discussing it with the regulatory authorities right now to see what they're most comfortable with, but it will be significantly shorter than the 18 months of therapy and follow-up that the other trials have.
+And that's the uncertainty right now, just to finalize that last piece of the experiment.
+Two very good questions, <UNK>, as always.
+In terms of mortality, I think you're absolutely right.
+Mortality is the secondary endpoint in ORION-4.
+There's no certainty that it will show a mortality benefit, of course.
+Why do we think it's worth pursuing and pairing the trial for.
+Really because of the relationship -- long-established relationship between LDL lowering and mortality benefit.
+When trials are large enough and effect sizes are demonstrated over a number of years, there has been an ability to demonstrate mortality benefit for LDL-C lowering.
+And really, that's the, should we say, the basic rationale.
+Whether or not FOURIER is indicative of some alternative view that LDL with a PCSK9 -- LDL lowering with PCSK9 inhibit doesn't -- is not associated with that mortality benefit, I think would be a bit speculative given the relatively short follow-up that they had and relatively broad risk criteria they used.
+They didn't focus on especially high-risk patients.
+Obviously, we'll learn more from ODYSSEY as well.
+But we think it's worth pursuing and -- but I think if you're going to pursue the possibility of a mortality difference, you have to be very patient, and that's what we're willing to be.
+But I agree with your point, it's not primary expectation, it's actually a secondary endpoint.
+Esperion, look, I think that with 35 million people in the country -- in just the United States alone, who need further lipid lowering in some way, with the excellent work that's going on at Esperion, I think we can look forward to that drug being part of the landscape as well.
+And we're excited about that, as everybody is.
+So I think the more new therapies we have to be able to mix and match, getting patients' risk down as much as possible would be good.
+And I believe that the Esperion compound will hopefully have a place -- a part to play in that.
+The first is on the safety database to date for inclisiran.
+Can you give a sense of the number of patient years of data we have had on the last DSMB review and how that might compare to the next review.
+And then, a second question is on the salesforce for inclisiran.
+Can you just give a general sense of what type of sales force would be well suited to market it.
+Well, let me do those backwards.
+I mean, I think it's a little premature to be thinking about salesforce.
+The market is evolving very rapidly.
+We don't quite know the indication yet.
+We don't know the results.
+So I'd be speculating a bit, <UNK>.
+But physicians need education on new drugs, payers need information.
+Which of those is selling and which of those is educating is becoming a bit blurred.
+And how to do that is evolving in the industry all the time.
+So give us a year or 2 and we'll come back on that one.
+<UNK>te to avoid it, but it's just a little early to be speculative.
+As far as the safety data is concerned, as we said on the 23rd, the DSMB met in the first half of January.
+They had between 700 and 800 patients to review.
+And they recommended the trials should all continue as planned.
+As I said this morning, the next DSMB review is towards the middle of the year and that will obviously have a awful lot of more people to look at, potentially up to over 3,000 people by then.
+So that will be helpful.
+Our own blinded information, of course, we get serious adverse event information typically, and we get blinded data on laboratory values and adverse events continues to be accrued.
+And as we've said I think before, we will update any material findings from that, but obviously, there haven't been any that I could report today.
+Actually that's been an exclusion criteria for the most part, <UNK>, because we don't have any experimental pre-information about that.
+Obviously, the main study where we're studying switching between one of the PCSK9 inhibitor and inclisiran is ORION-3, which is the extension study of ORION-1.
+So we'll learn more about that, but for the large pivotal trials, having had a PCSK9 inhibitor recently was excluded.
+That's a very interesting point.
+A matter of considerable detail.
+Frankly, I don't know.
+It's a good question.
+On the surface of it, I would be comfortable therapeutically, but you're right, it might be a useful study to do and something we can think of down the road.
+At risk of negotiating against myself here, I think the short answer is, with therapeutic drugs, you should never be complacent about safety.
+There is no point at which, even after a drug is on the market, you can stop being super vigilant.
+So I wouldn\
+All of these outcomes trials, including FOURIER and ODYSSEY, and what we plan to -- they're testing the effects of long-term lowering of LDL through PCSK9 knockdown or antagonism.
+I think all of us would be very surprised -- I say all, most of us would be very surprised if the LDL lowering associated with Praluent is not also associated with improvement in MACE outcomes.
+I think -- so we're certainly expecting a positive clinical outcome result.
+Now there are nuances as everybody on the phone knows of patients that are being enrolled, end points that are being used, duration of therapy, all of which may show modest differences relative to the FOURIER trial.
+Some might speculate a bigger effect size, some might moderate that expectation.
+But we do expect it to affirm once more that cardiovascular outcomes are significantly lowered by LDL-C lowering when it's affected by PCSK9 monoclonal antibody.
+And we're, obviously, very happy about that and for this whole field, the better the data are, the more happy we are.
+Yes, we didn't make that perfectly clear, and the answer is over 4 to 5 years.
+I want to make it clear that one $150 million is not being spent in the next 2 years.
+That's the entire cost of the trial to its completion.
+I think it's 1 dose for that study.
+And the main way forward on that science, <UNK>, I think is to then take that information and change the inclusion criteria of your larger studies.
+Meaning, loosen the criteria for renal function at entry to allow for people with worse renal function than before, now that we know that it's -- that the body handles it pretty well.
+And so rather than thinking in terms of long-term data from a specific renal impairment study, I think you can perhaps look forward to data from larger trials, including LDL-lowering studies and outcomes trials, which include people with low GFR.
+Yes, yes.
+And hopefully, that will reflect the population at large.
+As you know, a lot of people with cardiovascular disease have concomitant renal impairment and having the right cross section of the population might be useful for prescribers.
+We're not going to make any comments about our partnering strategies at this time.
+Yes, thank you very much, everybody, for attending today.
+We're moving very quickly with this asset.
+We think it's an extremely valuable asset, and one that can make a huge difference in health outcomes for patients.
+And we also believe it will be the source of substantial increase in shareholder value.
+We thank you for your support in all those matters.
+Thanks a lot.

@@ -1,0 +1,304 @@
+Thank you, <UNK>, and good afternoon, and thanks, everyone, for joining us.
+Today, we're proud to announce very strong results for our fiscal third quarter, with unit and revenue growth in all of our product categories.
+We'll review our financial performance in detail, and I'd also like to talk about some of the major announcements we made in June at our Worldwide Developers Conference.
+It was our biggest and best WWDC ever, and the advances we introduced across hardware, software and services will help us delight our customers and extend our competitive lead this fall and well into the future.
+For the quarter, total revenue was at the high end of our guidance range at $45.4 billion.
+That's an increase of 7% over last year, so our growth rate has accelerated in 3 successive quarters this fiscal year.
+Gross margin was also at the high end of our guidance, and we generated a 17% increase in earnings per share.
+iPhone results were impressive with especially strong demand at the high end of our lineup.
+iPhone 7 was our most popular iPhone and sales of iPhone 7 Plus were up dramatically compared to 6s Plus in the June quarter last year.
+The combined iPhone 7 and 7 Plus family was up strong double digits year-over-year.
+One decade after the initial iPhone launch, we have now surpassed 1.2 billion cumulative iPhones sold.
+Services revenue hit an all-time quarterly record of $7.3 billion, representing 22% growth over last year.
+We continue to see great performance all around the world with double-digit growth in each of our geographic segments.
+Over the last 12 months, our Services business has become the size of a Fortune 100 company, a milestone we've reached even sooner than we had expected.
+We had very positive results for iPad, with broad-based growth in units, revenue and market share.
+iPad sales were up 15% year-over-year and grew across all of our geographic segments.
+We achieved our highest global market share in over 4 years based on IDC's latest estimate of tablet market results for the June quarter.
+And in markets like China and Japan, over half of iPads sold were to people buying their very first iPad.
+Our iPad product lineup is stronger than ever.
+The new iPad we launched in March offers great value and performance, and the all-new 10.5-inch iPad Pro launched in June features the world's most advanced display with ProMotion technology and is more powerful than most PC desktops.
+iPad is the perfect tool for teaching in new and compelling ways, and our iPad results were especially strong in the U.<UNK> education market where sales were up 32% year-over-year to over 1 million units.
+We believe that coding is an essential skill that all students should learn.
+We're thrilled that over 1.2 million students of all ages are now using iPad and Swift Playgrounds to learn the fundamentals of coding, and over 1,000 K-12 schools across the United States plan to use Apple's Everyone Can Code in their curricula this fall.
+And for high school and community college students who want to pursue careers in the fast-growing app economy, we announced App Development with Swift, an innovative full year curriculum designed by Apple engineers and educators and provided free to schools to teach students to code and design fully functional apps, gaining critical job skills in software development and information technology.
+I'd like to turn now to Mac, which gained global unit market share and reached new June quarter unit sales records in Mainland China and Japan.
+Mac revenue grew 7% year-over-year, driven by the strength of the MacBook Pro and iMac despite IDC's latest estimate of a 4% unit contraction in the global PC market.
+And with the refresh of almost our entire Mac lineup in June, we're off to a great start for the back-to-school season.
+Sales of Apple Watch were up over 50% in the June quarter, and it's the #1 selling smartwatch in the world by a very wide margin.
+Apple Watch is having a positive impact on people's health and daily lives and motivating them to sit less and move more.
+With features like built-in GPS and waterproofing, Apple Watch Series 2 is the perfect companion for hiking, running and swimming.
+We're also seeing incredible enthusiasm for AirPods, with 98% customer satisfaction based on Creative Strategies' survey.
+We have increased production capacity for AirPods and are working very hard to get them to customers as quickly as we can, but we are still not able to meet the strong level of demand.
+We made some big announcements during the June quarter that I'd like to quickly review.
+We launched a new investment in the future through our advanced manufacturing fund.
+We've earmarked at least $1 billion for this program aimed at helping our manufacturing partners develop innovative production capabilities and create high skill jobs in the United States.
+We believe this can lay the foundation for a new era of technology-driven manufacturing in the U.<UNK> The first $200 million from the fund has been committed to Corning to support R&D, capital equipment needs and state-of-the-art glass processing.
+And as we announced at WWDC, we have a very exciting fall ahead with stunning advances in iOS 11, macOS High Sierra and watchOS 4.
+iOS 11 will make iPhone better than ever with Apple Pay peer-to-peer payments, an even more intelligent and natural Siri, new expressive Messages with full-screen effects, richer and more powerful Maps, enhanced live photos, Memories and portrait mode effects and much, much more.
+iOS 11 will also take the iPad experience to a whole new level, with features such as a customizable dock, Multi-Touch drag-and-drop, powerful new multitasking, more efficient QuickType and great new markup and scanning capabilities.
+One of the most exciting and most promising announcements from WWDC was the introduction of ARKit, a new set of tools for developers to create augmented reality apps.
+It's still early in the beta period, but it's clear that ARKit has captured the imagination of our developer community.
+We think ARKit will help the most creative minds in the industry tap into the latest computer vision technologies to build engaging content.
+We believe AR has broad mainstream applicability across education, entertainment, interactive gaming, enterprise and categories we probably haven't even thought of.
+With hundreds of millions of people actively using iPhone and iPad today, iOS will become the world's biggest augmented reality platform as soon as iOS 11 ships.
+With iOS 11, we're also bringing the power of machine learning to all Apple developers with Core ML, enabling capabilities like space detection, object tracking and natural language interpretation.
+Core ML lets developers incorporate machine learning technologies into their apps with all the processing done right on device so it respects our customers' data and privacy.
+For Mac, we've provided a peek at the immersive gaming 3D and virtual reality experiences made possible with the upcoming release of macOS High Sierra and the amazingly powerful new iMac Pro.
+We're proud to make the best personal computers in the industry and are very excited to deliver even more innovation in the months to come.
+Apple Watch will become more intelligent than ever this fall with watchOS 4, featuring a proactive Siri watch face, personalized activity coaching and an entirely new music experience.
+watchOS 4 also introduces GymKit, a groundbreaking technology platform to connect workouts with cardio equipment.
+We also previewed HomePod, a breakthrough wireless speaker for the home that delivers amazing audio quality and uses spatial awareness to sense its location in the room and adjust the audio automatically.
+Visitors to our listening room at WWDC were blown away by the HomePod's incredible sound, which is unlike any other wireless home speaker on the market.
+With deep knowledge of music, HomePod is designed to work with your Apple Music subscription to help you enjoy the music you already love as well as to discover great new music based on your personal preferences.
+As an intelligent home assistant, HomePod is a great way to send messages, set a timer, get updates on new sports and weather or control smart HomeKit devices by simply asking Siri to turn on the lights, close the shades or activate a theme.
+We can't wait to deliver all of these powerful innovations in the months to come, and we might even have some others to share with you later in the year.
+Now for more details on the June quarter results, I'd like to turn the call over to <UNK>.
+Thank you, Tim.
+Good afternoon, everyone.
+Revenue for the June quarter was $45.4 billion, up 7% over last year, an acceleration to the growth rate we recorded during the first half of our fiscal year.
+We achieved these results despite a 200 basis point negative impact from foreign exchange on a year-over-year basis as currency movements, especially in Europe and China, affected our reported results.
+Our performance was very strong across the board, with growth in all our product categories and almost every market around the world.
+We achieved double-digit revenue growth in many developed markets, including the U.<UNK>, Canada, Germany, Spain, Australia and Korea, and emerging markets outside of Greater China grew 19% over a year ago.
+Gross margin was 38.5%, at the high end of our guidance range.
+Operating margin was 23.7% of revenue and net income was $8.7 billion.
+Diluted earnings per share were $1.67, up 17% over last year, and cash flow from operations was $8.4 billion.
+During the quarter, we sold 41 million iPhones and reduced iPhone channel inventory by 3.3 million units, leaving us with our lowest level of channel inventory in 2.5 years and well within our 5- to 7-week target inventory range.
+iPhone sales were up year-over-year in most markets we track, with many markets in Asia, Latin America and the Middle East growing unit sales by more than 25%.
+We are very pleased with these iPhone results, especially considering the tough comparison to the June quarter last year when we launched iPhone SE.
+iPhone ASP was $606, up from $595 a year ago, thanks to strong demand for iPhone 7 Plus, which represented a higher percentage of the iPhone mix compared to the Plus model a year ago.
+The impact of the stronger mix on ASP was partially offset by negative foreign exchange year-over-year and the reduction in channel inventory, which took place entirely at the high end of the portfolio.
+Customer interest and satisfaction with iPhone are very strong with both consumers and business users.
+In the U.<UNK>, the latest data from 451 Research on consumers indicates a 95% customer satisfaction rating for iPhone 7 and 99% for iPhone 7 Plus.
+Among consumers planning to buy a smartphone, purchase intention for iPhone was nearly 3x the rate of our closest competitor.
+Among corporate smartphone buyers, iOS customer satisfaction was 94%.
+And of those planning to purchase smartphones in the September quarter, 78% plan to purchase an iPhone.
+Turning to Services.
+We set an all-time quarterly record of $7.3 billion, up 22% year-over-year.
+The App Store was a major driver of this performance.
+And according to App Annie's latest report, it continues to be, by a wide margin, the preferred destination for customer purchases, generating nearly twice the revenue of Google Play.
+Revenue from our Apple Music streaming service and from iCloud storage also grew very strongly.
+And across all our Services offerings, the number of paid subscriptions reached over 185 million, an increase of almost 20 million in the last 90 days alone.
+The reach, usage and functionality of Apple Pay continue to grow.
+We launched Apple Pay in Italy in May, and the UAE, Denmark, Finland and Sweden are scheduled to go live before the end of this calendar year.
+Apple Pay is, by far, the #1 NFC payment service on mobile devices, with nearly 90% of all transactions globally.
+Momentum is strongest in international markets where the infrastructure for mobile payments has developed faster than in the U.<UNK> In fact, 3 out of 4 Apple Pay transactions happen outside the U.<UNK> And with the launch of iOS 11 this fall, our users in the U.<UNK> will be able to make and receive person-to-person payments quickly, easily and securely.
+Next, I'd like to talk about the Mac.
+Thanks to great performance from the new MacBook Pro, we generated 7% revenue growth over last year and gained share in the global PC market based on the latest data from IDC.
+Customer satisfaction for Mac is very strong at 97% in the most recent survey from 451 Research, and our active installed base of Macs has grown double digits over a year ago.
+We ended the quarter within our 4- to 5-week target range for Mac channel inventory, and we have a great lineup of Macs for our customers heading into the busy back-to-school season.
+Turning to iPad.
+We sold 11.4 million units, up 15% over last year.
+We were happy to see iPad growth in each of our geographic segments, with strong double-digit increases in key markets such as the U.<UNK>, Japan, Germany, France and Greater China.
+We exited the quarter within our 5- to 7-week target range for iPad channel inventory.
+NPD indicates that iPad had 55% share of the U.<UNK> tablet market in the month of June, including 8 of the 10 best-selling tablets.
+That's up from 46% share a year ago.
+And among tablets priced over $200, iPad's share was 89%.
+In addition, the most recent survey from 451 Research measured business and consumer satisfaction rates ranging from 95% to 99% across iPad models.
+And among those planning to buy tablets, purchase intent for iPad was over 70%.
+Our enterprise business continues to expand and our customers are transforming the way work gets done with iOS and iPad.
+Walmart will be deploying more than 19,000 iPads for employee training across 50 states, with projections of over 225,000 associates trained on iPad by the end of the year.
+The initial response from businesses to iOS 11 and the new iPad Pro has been amazing.
+And companies, including Bank of America, Medtronic and Panera tell us that they will be rolling out the 10.5-inch iPad Pro throughout key areas of their organizations.
+We're also seeing real traction with our enterprise partners.
+Just last month, we unveiled the next set of technology enhancements in our partnership with Cisco.
+This new wave adds a whole new category of security features designed to help enterprises and employees defend against growing cyber threats.
+We believe this investment in our joint security solutions for iOS will make cyber insurance even more attainable for businesses.
+SAP is making great strides since launching the SAP Cloud Platform SDK for iOS in March, with a pipeline of hundreds of global opportunities.
+SAP has also released SuccessFactors Mobile, its first native iOS app for human resources, which will support 47 million iPhone and iPad users worldwide across multiple industries.
+And our partnership with Deloitte has recently expanded to several more European countries.
+We're helping clients transform their businesses with iOS, with jointly developed programs such as the Connected Store, a pop-up version of a retail environment demonstrating iOS tools for sales and demand generation as well as tailored apps for safe associates, store management and customers.
+We also had a tremendous quarter for iPad in education, up 32% year-over-year.
+Following the launch of our new iPad in March, an update to our popular Classroom app and continued enhancements to iOS that make managing iPads in the classroom even easier.
+The Saint Paul Public School district in Minnesota is renewing its 1:1 program by deploying over 40,000 iPads across every student and teacher in the district.
+iPad was chosen because of its power and durability, ease of use, multimedia and accessibility features and the extensive Catalog of iOS apps designed specifically for education.
+The Shawnee Mission School District outside Kansas City recently purchased 19,000 iPads, extending its 1:1 program started in 2014, thanks to iPad's intuitive interface, superior reliability and expansive ecosystem of iOS tools for education.
+It was a very busy quarter for our retail and online stores, which collectively welcomed over 300 million visitors.
+In addition to our spectacular new store at the Dubai Mall, we opened our first stores in Singapore and in Taiwan during the quarter, expanding our total store footprint to 497 stores.
+In May, we kicked off Today at Apple, with new in-store programming from music to photography to art and coding and our stores collectively hosted 87,000 sessions during the quarter.
+As Tim mentioned last quarter, we have entered a new chapter in retail with unique and rewarding experience for our customers and some stunning new stores coming in the near future.
+Let me now turn to our cash position.
+We ended the quarter with $261.5 billion in cash plus marketable securities, a sequential increase of $4.7 billion.
+$246 billion of this cash, 94% of the total, was outside the United States.
+We retired $3.5 billion of debt and issued the equivalent of $10.8 billion in new euro- and U.<UNK> dollar-denominated debt during the quarter, including our second green bond, bringing us to $96.4 billion in term debt and $12 billion in commercial paper outstanding.
+We also returned $11.7 billion to investors during the quarter.
+We paid $3.4 billion in dividends and equivalents and spent $4.5 billion on repurchases of 30.4 million Apple shares through open market transactions.
+We launched a new $3 billion ASR program, resulting in initial delivery and retirement of 15.6 million shares.
+And we retired 3.4 million shares upon the completion of our 10th ASR during the quarter.
+We have now completed $222.9 billion of our $300 billion capital return program, including $158.5 billion in share repurchases.
+As we move ahead into the September quarter, I'd like to review our outlook, which includes the types of forward-looking information that <UNK> referred to at the beginning of the call.
+We expect revenue to be between $49 billion and $52 billion.
+We expect gross margin to be between 37.5% and 38%.
+We expect OpEx to be between $6.7 billion and $6.8 billion.
+We expect OI&E to be about $500 million, and we expect the tax rate to be about 25.5%.
+Also today, our Board of Directors has declared a cash dividend of $0.63 per share of common stock payable on August 17, 2017, to shareholders of record as of August 14, 2017.
+With that, I'd like to open the call to questions.
+Katy, sequentially from 38.5% that we just reported, typically, we have product transition costs during the September quarter.
+That's the primary driver.
+This happens fairly regularly for us.
+We also have a more difficult memory pricing environment this year than a year ago.
+And we think that we're going to be able to partially offset this with a positive leverage.
+As you've seen, we've guided up sequentially in revenue.
+So those are the major puts and takes.
+In terms of the range that we use for gross margins, we have a fairly good understanding on where we are with our hedging program, and that allows us to mitigate some of the volatility there.
+So we felt we could guide to a slightly narrowed range, which we've done occasionally in the past.
+Katy, as <UNK> mentioned, we did assume some transitional costs in our guidance for the quarter as is typically the case.
+And we're looking very much forward to the product rollouts.
+Yes.
+Thanks, <UNK>.
+We were very encouraged by the results this quarter.
+We improved, as we thought we would, from the previous quarters a little more than I thought we would.
+If you look underneath the numbers, Mainland China was actually flat year-over-year during Q3.
+And in constant-currency terms, we were actually up 6% in Mainland China.
+And so we're very encouraged by that.
+iPad grew dramatically more than the market.
+The Mac grew much more than the market.
+iPhone was relatively flat year-on-year as the same sort of -- similar as the market was.
+And so we see all of those as very encouraging signs.
+On top of that, Services grew extremely strongly during the quarter.
+The -- Hong Kong continued to drag down the total Greater China segment.
+And -- but on a sequential basis, we're probably sort of at the trough of that, which is nice.
+With the peg to the dollar there, from a currency point of view and tourism being what it is, I don't really know when that market will come back.
+But what I -- what we see in the mainland is definitely much more encouraging.
+It's interesting to note that upgraders through -- both for the quarter and actually for the full fiscal year to date was our highest ever.
+And so that we felt very good about.
+In terms of WeChat, the way that I look at this is because our share -- because iOS share is not nearly a majority of the market in China, the fact that a lot of people use that, it makes the switching opportunity even greater.
+And I think that's more the case than the risk that a lot of folks have pointed out.
+And so I see Tencent as one of our biggest and best developers.
+They've done a great job of implementing a lot of iOS features in their apps.
+And we're looking forward to working with them even more to build even greater experiences for our mutual users in China.
+The -- from an absolute quantity point of view, the upgrades for this fiscal year are the highest that we've seen and so we feel good about that.
+However, if you look at it from an upgrade rate point of view instead of the absolute number, the rate is similar to what we saw with the previous iPhones, except for iPhone 6, which as we've called out in the past, had an abnormally high upgrade rate.
+We do think that based on the amount of rumors and the volume of them, that there's some pause in our current numbers.
+And so where that affects us in the short term, even though we had great results, it probably bodes well later on.
+Sure.
+Switching outside of China was up year-on-year and so we're happy with that.
+We continue to see people moving over to iOS, and it helped with us making the results that <UNK> announced earlier, including the channel inventory reduction.
+Sure.
+Starting with the U.<UNK> -- and let me just take this question from what are we doing to increase jobs, which I think is probably where it's rooted.
+There's -- we've created 2 million jobs in the U.<UNK> and we're incredibly proud of that.
+We do view that we have a responsibility in the U.<UNK> to increase economic activity, including increasing jobs because Apple could have only been created here.
+And so as we look at that 2 million, there are 3 main categories of that, and we have actions going on in each of them to further build on that momentum.
+The first category is app development, about 3/4 of the 2 million are app developers.
+And we're doing an enormous amount of things to deliver curriculum to both K-12 with Swift Playgrounds and the K-6 area; other curriculum, as you proceed beyond Grade 6, under the Everyone Can Code area.
+And just a couple of months ago, we announced a new curriculum that's focused on community schools and community colleges, junior colleges, technical colleges for kids that did not have coding in their elementary and high school years.
+And so we're excited about that because we think it could increase the diversity of the developer community and the quantity.
+And I think this area, in general and all the things we do for the developer community, will be the largest contribution that Apple can make because this is the fastest-growing job segment in the country, and I think will be for quite some time.
+If you look at the second area, it's -- we have purchased or we purchased last year about $50 billion worth of goods and services from U.<UNK>-based suppliers.
+Some significant portion of those are manufacturing-related, and so we've asked ourselves, what can we do to increase this.
+And you may have seen that at the beginning of the quarter, sometime in April, I believe, we announced a fund, an advanced manufacturing fund that we're initially placing $1 billion in.
+And we've already deployed $200 million of that.
+And the first recipient is Corning in Kentucky and they'll be using that money to expand the plant to make very innovative glass.
+And we purchase that glass and essentially export it to the world with iPhones and iPads.
+We think there's more of these that we can do.
+I think there's probably several plants that can benefit from having some investment to grow or expand or even maybe set up shop in the U.<UNK> for the first time.
+So we're very excited about that.
+And then the third area is we have about 2/3 or so of our total employee base is in the U.<UNK> despite only 1/3 of our revenues being here.
+And we'll have some things that we'll say about that later in the year.
+And so that's what we're doing from a job growth point of view and we're very, very proud of that.
+If you -- now turning to China.
+Let me sort of comment on what I assumed is at the root of your question about this VPN kind of issue.
+Let me just address that head on.
+The central government in China, back in 2015, started tightening the regulations associated with VPN apps.
+And we have a number of those on our store.
+The -- essentially, as a requirement to -- for someone to operate a VPN, they have to have a license from the government there.
+Earlier this year, they began a renewed effort to enforce that policy, and we were required by the government to remove some of the VPN apps from the App Store that don't meet these new regulations.
+We understand that those same requirements are on other app stores, and as we checked through that, that is the case.
+Today, there's actually still hundreds of VPN apps on the App Store, including hundreds by developers that are outside China.
+And so there continues to be VPN apps available.
+We would obviously rather not remove the apps, but we -- like we do in other countries, we follow the law wherever we do business.
+And we strongly believe that participating in markets and bringing benefits to customers is in the best interest of the folks there and in other countries as well.
+And so we believe in engaging with governments even when we disagree.
+And in this particular case, now back to commenting on this one, we're hopeful that over time, the restrictions that we're seeing are loosened because innovation really requires freedom to collaborate and communicate.
+And I know that, that is a major focus there.
+And so that's sort of what we're seeing from that point of view.
+Some folks have tried to link it to the U.<UNK> situation last year and they're very different.
+In the case of the U.<UNK>, the law in the U.<UNK> supported us.
+It was very clear.
+In the case of China, the law is also very clear there.
+And like we would if the U.<UNK> changed the law here, we'd have to abide by them in both cases.
+That doesn't mean that we don't state our point of view in the appropriate way; we always do that.
+And so hopefully, that's a little bit probably more than you wanted to know but I wanted to tell you.
+I think the upgrade rate is a function of many, many different things, from the size of the installed base, the age of the installed base, the product that is new at the time, the regional distribution, the upgrade plans that are in various markets around the world.
+And so I think there's many, many factors in that it's not a simple thing that you can apply a set formula to -- or one variable or a couple of variable formula, in my opinion.
+And -- but I think in general, because our installed base is -- was up strong double digit once again, there's a lot of factors that are very positive for us.
+And between the upgraders and the switchers that we see and still -- the first-time buyer category is still out here, too, in several countries, including some that you may not think there is, there is still sizable base in some.
+Between those 3 areas, I think we have a lot of opportunity.
+As you know, Toni, we do not guide on channel inventory.
+We've never done that.
+We are providing a fairly wide range from a revenue standpoint, so obviously, that also has an impact on potential channel inventory levels.
+One thing that I would tell you is that we feel very good about the performance of the business right now.
+We think that our Services business will continue to grow well.
+We've got a lot of momentum on iPad and Mac because we refreshed the lineups of those products.
+Watch and AirPods are doing incredibly well.
+We're getting a lot of positive customer feedback.
+And I think in general, even the performance in China, Tim has mentioned it, we think that the performance will continue to improve.
+So those are the drivers of our guidance range for the quarter.
+On the first part of your question about original content, we have done some original content.
+It's focused on Apple Music.
+Currently, we have some more that's launching in a week or so that will be made available on Apple Music.
+The objective of this is really twofold.
+The one is for our own learning, given that we're new in the video space in terms of creation; and two is to give the Apple Music subscribers some exclusive content and hopefully grow our subscriber base.
+And we've recently hired 2 great folks with lots of experience in creating content like Breaking Bad and The Crown and some really top-notch content.
+And so we'll see how this area goes, but it's still an area of great interest.
+In terms of autonomous systems, what we've said is that we are very focused on autonomous systems from a core technology point of view.
+We do have a large project going and are making a big investment in this.
+From our point of view, autonomy is sort of the mother of all AI projects.
+And the autonomous systems can be used in a variety of ways, and a vehicle is only one, but there are many different areas of it.
+And I don't want to go any further with that.
+But thank you for the question.
+Mike, that is a great question.
+Since we -- and I could not be more excited about AR and what we're seeing with ARKit and the early going.
+And to answer a question about what category it starts in, just take a look at what's already on the web in terms of what people are doing and it is all over the place.
+From entertainment to gaming, I've seen what I would call more small business solutions.
+I've seen consumer solutions.
+I've seen enterprise solutions.
+I think AR is big and profound.
+And this is one of those huge things that we'll look back at and marvel on the start of it.
+So I think that customers are going to see it in a variety of ways.
+Enterprise, it takes a little longer sometimes to get going, but I can already tell you, there's lots of excitement in there, and I think we'll start to see some applications there as well.
+And it feels great to get this thing going at a level that can sort of get all of the developers behind it.
+So I couldn't be more excited about it.
+<UNK>, <UNK>.
+Our Services business is very broad.
+We got multiple categories in the Services business, so it's difficult to talk about ARPU in general.
+It doesn't make a lot of sense.
+The reason for the acceleration also here is multiple factors.
+One that is very, very important for us is the fact that the App Store, which is the largest of our Services categories, is seeing an increasingly larger amount of paying accounts.
+On a year-over-year basis, the number of accounts that are actually transacting and paying on the App Store is growing very, very well.
+It is happening for a variety of reasons.
+One of them, for example, is the fact that we are making it easier for customers to pay on the App Store.
+Outside the United States, in many markets, not every form of payment is accepted.
+We're making it easier all the time.
+We launched on Alipay, for example, in China during the December quarter.
+That has obviously helped a lot with the growth in the number of paid accounts.
+And we continue to bring more and more forms of payment in the App Store around the world.
+That's a big reason for that.
+The other reason why the number of paying accounts is growing is the fact that the quality and the quantity of content continues to improve, and so there's many more ways of experiencing games and entertainment and other apps on the store.
+We have other businesses like the Apple Music streaming service, which is growing very fast because we just started it a couple of years ago, so we are getting a lot of new subscribers there.
+Our iCloud storage business continues to grow very, very fast.
+So it's multiple services.
+The number of people transacting on our stores continues to grow.
+In terms of ARPU, and maybe I can make a comment on ARPU specifically related to the App Store.
+What we're seeing and we've seen over a long period of time as we keep track of these cohorts of customers, we see that as customers get on the App Store and start spending on it, we see this profile, spending profile is very similar across generations of customers.
+People tend to spend more over time.
+Obviously, you have different spending profiles in different geographies around the world, but in general, you see that trend across the board.
+We have no comment on anything that's unannounced.
+The answer to your first question is yes, I do think that we can grow both in units and market share.
+We don't predict those things.
+But yes, if you ask me what I think, that's what I think.
+And so what are the drivers.
+The installed base is growing.
+It's still growing very strongly.
+That will generate more upgrades over time.
+I feel good about our ability to convince people to switch.
+And where the developed markets, the first-time buyer rates are down other than places like Japan perhaps.
+The emerging markets, we haven't even got started yet really.
+And from a revenue point of view, we had very strong growth there on emerging markets ex China, we're up like 18% year-on-year.
+It was a record for us.
+So we see a lot of opportunity in these markets.
+We are investing in India.
+As you mentioned in your second point, we've already launched an app accelerator center, that's on top of working with the channel and looking at expanding our go-to-market in general.
+And we've began to produce the iPhone SE there during the quarter, and we're really happy with how that's going, and so we're bringing all of our energies to bear there.
+I see a lot of similarities where China was several years ago.
+And so I'm very, very bullish and very, very optimistic about India.

@@ -1,0 +1,55 @@
+A lot of these applications are where we either have both micro controller and wireless connectivity content, or where that is now getting integrated in to a single SOC.
+Those developments are being driven off of a Silicon platform and a software platform.
+In general, our customers are then connecting that into the cloud eco-system.
+So, we are not providing the cloud platform that they are using, although that's an interesting topic of discussion.
+So, I believe that our platform approach -- I mean this is a way to get leverage across a broad range.
+The IOT market is broad.
+I mean, you have applications with lots of different requirements.
+It requires a portfolio of products.
+To do that efficiently, you'd have to build it on a platform of both Silicon and software.
+And, so all of the developments that we have going forward, I mean today on our 32-bit micros going forward on our connectivity and our 32-bit micros, those are all going to be on the same platform.
+And, that is what is driving the majority of our engagements today.
+Yes, I mean, I think you look at -- what Amazon is doing, and what Microsoft is doing, what ARM is doing.
+We are working with all of those companies and more to integrate our solutions into those clouds platforms.
+And certainly, when you're in IOT, you're dealing with data and cloud and apps and you have to have strong partnerships and decide what you need to offer and what's cost effective for us to offer.
+Where we can make money.
+And where we can able partners to be successful.
+So, we are working throughout that entire eco-system to plan the best path forward.
+Thank you.
+I think we are cautious at this point in time looking in to the first half of next year.
+We've watched our peers report throughout last week, and in to this week.
+And there were a number of surprising guides for substantial reductions in revenue performance in fourth quarter.
+That concerns us.
+We feel fortunate and confident to deliver a guide that is slightly up for 4Q.
+But the industry, in general is not reflecting that.
+So I think we would look in to next year right at the moment, viewing the macro environment as not particularly encouraging.
+So, we'll track this very carefully and try to bake our view of the macro world into what we provide for you in the January call about 2016.
+Well, I would say that our integrated wireless connectivity with microcontroller set of products is in general, in extremely high demand and is highly differentiated versus everything else in the market.
+If I would have to put one on top is when you integrate microcontrollers and wireless connectivity, it is hard, it is especially hard to do it with robust software stacks, with multi-mode, where you're dealing with multiple wireless protocols at the same time.
+Getting that integration to work in high performance and robustly in a network and that is where we think we have the highest differentiation from a silicon and system perspective.
+Being able to deliver that in and in an easy-to-use way.
+And for instance, into modules [over] tools.
+That also, creates an additional level of stickiness and differentiation.
+Yes, <UNK>.
+I view consolidation actually as an opportunity for us.
+For instance, if we look at Broadcom going into Avago, they are going to find, let's say $1 billion worth of synergies, which means a lot to your engineers.
+They went from being a company that I was somewhat concerned about.
+They're a high-quality company executing -- they could have come after IOT.
+I believe that's not going to be the case now.
+That's favorable to us.
+If you look at companies like Atmel, and NXP and Freescale that are going through significant mergers and have, had challenges themselves in some ways.
+I think that they will be distracted over the next couple of years as they merge road maps and merge cultures.
+I also view that as an opportunity for us.
+That being said, I view our main competitors as TI, ST and Nordic and we -- in the IOT states.
+And all three of those states have stayed out the M&A [fray].
+I believe that they will all remain focused.
+I think it's all overall a net positive for us.
+But long term, I do believe that some of those companies may come out strong, if they can achieve the benefits of the scale.
+But you just look at the overall reduction in the R&D expenses.
+TI's now below 10%, I think they are now 9% R&D.
+And I think that the level of innovation in the industry is going to decline.
+And that's an opportunity for us to go and take share.
+Yes, <UNK>, we kind of touched on this earlier, but the OpEx was [living] at a 5% increase in 2015.
+The key points right now, are to view the first half of 2016 as seasonally high, as our fringe factors reset.
+We'll be able to provide more color on the January call for the overall annual overall profile for OpEx next year.
+Thanks, <UNK>, thank you.

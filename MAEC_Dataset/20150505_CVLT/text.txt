@@ -1,0 +1,65 @@
+Okay.
+Clearly Veems had an impact in the market, in the mid-market, and through their mid-market distributors they have gotten -- from an admin standpoint, they've gotten themselves positioned in the enterprise, not big-scale, but positioned there.
+And they're a viable competitor in the market and they've done pretty well.
+On the EMC side, in terms of our ability to compete and the things that they're doing in terms of including backup as part of their converged solution set, I think I have a different perspective on that.
+I mean, clearly your data protection market is being commoditized and being substituted with disbased replication and things like that.
+But from a customer standpoint, and the way the market is going to move and what you need to do with your data, I think that's only part of the story.
+And I think we believe that at the end of the day, how data is captured, indexed and managed is not going to be done through disbased replication over the long term.
+Near term, yes.
+Longer term, I think the technology we're developing, and managing -- I got to think, maybe I can put it this way.
+You are dealing with massive scale.
+And you can't just be putting data inside -- in a box inside an array, because data is moving.
+You're going to have massive data moving into the cloud, you've got data in array, you've got data on mobile devices.
+And doing a backup or doing a replication, if you think about that long term, it's just not going to work.
+It's a key technology for today, but I think if you look at what we're doing with our Edge drive, which we've just launched this quarter, is a pretty good indication of that in terms of a new and different way of managing data.
+I think our next-generation platform, which I just talked about, has got a much different way of managing data.
+So I think those are good things, what EMC's doing for their customers, but I think we have a different view on how this market is going to evolve and the fundamental technologies that we've built to more align with a big-scale cloud environment, which is -- which makes things a lot more complicated because you've got your data center, you've got your private cloud, you have your public cloud, you have virtualization and then you have containerization coming in.
+So you have a lot of technologies that need to be dealt with seamlessly and holistically, whether it's for a small enterprise or a large enterprise.
+And I think we have -- let's just put it this way, a different view on how data should be managed in those new emerging types of environments.
+Good question.
+As we have gained more confidence in this transition, another major initiative here is healthcare and business analytics.
+And what we're doing today and with the new technology is we're going to bring it out to market later this calendar year.
+Is pretty clear to us that as we go forward that we see more and more opportunity in the business analytics area and the unique things we can do with the platform we've developed, which is unique in the market.
+This is clearly going to open up opportunities.
+We have always been a Company, by the way, that's developed -- 100% of our growth has been organic.
+And it looks like with the new technologies that we've developed here, we're going to have opportunities in selected areas of business analytics.
+And there may be some acquisition opportunities.
+As we think about creating shareholder value, we think it would be prudent and smart on our part to keep our powder dry, because the odds of that opening up as we move through this year are high and we think that would be a better use of creating value than share repurchases.
+Doesn't mean we won't do share repurchases, by the way, but I think our point of emphasis and priority is going to be more on building the Company for longer-term growth.
+And some of that will be in unique, I'll call them business value-added solutions, in the business analytics area; just likely, over time.
+No.
+I think this would be selective niche acquisitions that we can add to our platform in certain markets, and healthcare is certainly one of them.
+I mentioned it on the call, but we have launched our healthcare platform and we're going to be expanding that as we move through this year.
+We're getting good traction on that.
+And that's going to become a -- number one, it's our third largest vertical today.
+We're making a big investment there.
+We're expanding partnerships there.
+And there's big opportunity in that market, and we have a good leader driving it for us.
+I think there'll be some good opportunity for us there to tuck in some analytics capability in that market and some others as we move forward.
+Veem is gaining share.
+You've got -- none of our large competitors are gaining share.
+You had a massive shift in this market on -- in the core data protection market, some of it's gone to disreplication, some of it's has gone to Veem, some of it's gone to converged, but that -- some of it has gone to the -- <UNK>'s just mentioned some of it's gone to the cloud.
+This is what we were talking about 1.5 years ago.
+You can see the shifts.
+These are substantial changes.
+I just went through this on the call.
+These were not tweaks to the business.
+This was substantial changes to our technology, monetization models, pricing, distribution, I mean tied to the shifts.
+So yes, there are a number of competitors, smaller ones, cloud, that are gaining share in the core, but the market is, I won't say completely wide open, but it's pretty wide open for these other areas, whether it's healthcare or it's compliance or it's legal, or it's, I call it inside incident the firewall mobile for applications.
+So I think you've got to look beyond the core.
+If you talk to a CIO, they're going to tell you that in a big enterprise, they want their data protected.
+So data protection is still important, and the big companies, these big deals, they would still like do that on a holistic global basis, the big banks.
+Got two of the large banks in here recently.
+They want it all tied together.
+So data protection, they need that locked down.
+But they need compliance, they need legal, they need business analytics, they need all their operations for these more complex environments automated.
+This whole process automation managed service piece becomes more important.
+It's a significant shift in the landscape of where the value is going in the market and how do you monetize that to maximize your revenue and earnings growth.
+It's different.
+It's taken us a while to put it all this together, but we're getting pretty close.
+But it's a substantial change.
+Pretty exciting.
+Maybe not exciting at your end, but pretty exciting at this end because we have the foundation laid to build a pretty interesting Company going forward.
+But it's a -- and companies that aren't making these massive radical changes, you end up where we are right now.
+You stall out your revenue and earnings growth.
+But the market's got massive potential in front of us here if you position yourself to take advantage of it.

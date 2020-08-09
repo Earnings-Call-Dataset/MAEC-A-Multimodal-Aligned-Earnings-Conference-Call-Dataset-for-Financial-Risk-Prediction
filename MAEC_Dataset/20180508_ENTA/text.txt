@@ -1,0 +1,135 @@
+Thank you, <UNK>.
+Good afternoon, everyone, and thank you for joining us today.
+I'll begin by providing updates on our key development programs, and then <UNK> <UNK> will discuss our financial results for the quarter.
+We had another productive quarter, enhanced by the growing market share of our licensed product included in AbbVie's MAVIRET regimen for HCV, which I will discuss in a few minutes.
+But right now, I'd like to talk about our exciting internal R&D pipeline including our 3 wholly owned clinical stage programs in NASH, PBC and RSV.
+Our most advanced programs are for NASH and PBC, where we are conducting Phase II clinical studies with EDP-305, our FXR agonist candidate.
+In NASH, our Phase II clinical study named ARGON-1 is a 12-week randomized, double-blind placebo-controlled study evaluating the safety, tolerability, pharmacokinetics and efficacy of EDP-305 in subjects with NASH.
+As primary endpoints, this proof-of-concept study will assess safety and changes in alanine transaminase or ALT levels, an important measure of liver injury in NASH.
+The study will also focus on evaluating multiple secondary endpoints that play a significant role in NASH, including imaging and noninvasive markers of fibrosis and steatosis.
+In PBC, our Phase II clinical study named INTREPID is a 12-week randomized, double-blind placebo-controlled study, evaluating the safety, tolerability, pharmacokinetics and efficacy of EDP-305 in subjects with PBC, with or without an inadequate response to ursodeoxycholic acid, currently available in chronic treatment for PBC.
+The efficacy of EDP-305 will be assessed by evaluating reductions in levels of alanine -- of alkaline phosphatase, or ALP, versus placebo.
+Both Phase II studies are ongoing and we plan to share data from them in 2019.
+In parallel, we continue preclinical studies to better understand the nuances of EDP-305's mechanism of action and recently 3 posters presentations on EDP-305 were made at the International Liver Congress in April.
+One focused on efficacy and highlighted new preclinical data demonstrating that EDP-305 favorably regulates the expression of key fibrogenic genes in vitro and in vivo.
+And the second focused more on safety and showed that EDP-305 had distinct transcriptional and post-transcriptional regulatory mechanisms for LDL receptor and SRB1 gene expression.
+The third presented data from our previously released Phase I study of EDP-305, highlighting its pharmacokinetics, pharmacodynamics and safety of EDP-305 in healthy and presumptive NAFLD subjects.
+Our next most advanced program is a Phase I clinical study of EDP-938, which is being developed for the treatment of RSV or respiratory syncytial virus infection.
+RSV infection is an area of high unmet need, particularly in infants less than 2 years of age and immunocompromised adults.
+Currently, there are no effective therapeutic treatments for RSV.
+EDP-938 is a potent inhibitor of the N protein in RSV.
+And I'm pleased to announce that EDP-938, the only N inhibitor in clinical development today, has recently received a fast-track designation by the FDA for RSV infection.
+This inhibitor of the N protein works by blocking the replication machinery of the virus and as a result, has the potential to be more effective at later stages of infection than fusion inhibitors.
+We believe this differentiates this class from fusion inhibitors, a mechanism under evaluation by several of our competitors.
+The Phase I clinical study of this inhibitor is currently ongoing.
+The objective of this study is to evaluate the safety, tolerability and pharmacokinetics of single-ascending dose and multiple ascending dose, or MAD, levels of EDP-938 in approximately 80 healthy volunteers.
+We've recently begun dosing the MAD portion of this study and PK data from this study, coupled with our preclinical antiviral data will guide us to the effective dose range for the Phase II challenge study.
+The 7-day duration in the MAD study is comparable to dosing durations for our planned Phase IIa challenge study and will likely be applicable to Phase IIb; studies as well.
+From a timing perspective, we expect to have top line data from the Phase I study later next quarter, and we expect to begin the Phase II proof-of-concept challenge study in RSV-infected humans by the end of calendar 2018.
+Let's move on to HBV.
+It's been estimated that 250 million people worldwide are infected with HBV and there's no effective cure.
+Our HBV program continues to move ahead and is generating promising inhibitors of the core protein.
+Core inhibitors, sometimes referred to as capsid assembly modulators or core protein allosteric modulators, are a new class of HBV inhibitors that can disrupt the assembly and replication of this virus at multiple steps in the viral life cycle.
+Preclinical data on EP-027367, one of several core inhibitors we are evaluating in advanced phases of preclinical testing represented at the 2018 International Liver Congress in Paris on April 12.
+The data demonstrated that in a chimeric skid mouse model with human liver cells, EP-027367 reduced viral DNA and RNA levels of HBV by up to 3 logs from baseline with 4 weeks of treatment and demonstrated favorable tolerability and pharmacokinetic profile.
+This compound also demonstrated potent pan-genotypic anti-HBV activity capable of preventing the establishment of cccDNA in vitro.
+We will continue to strengthen our patent portfolio and advance multiple new core inhibitors through preclinical testing, and we hope to announce our first HBV candidate later in 2018.
+I'll now comment on our licensed HCV products.
+We're very impressed with the high level of sales already achieved by AbbVie with the new MAVIRET regimen, which contains glecaprevir, a protease inhibitor that Enanta invented with its collaboration with AbbVie.
+On AbbVie recent financial results conference call, they stated that MAVIRET had climbed to a 45% market share position in the U.S. And internationally had strong position in major countries such as Japan, Germany, Spain and in Italy.
+As a result, AbbVie increased its global HCV sales guidance for calendar year 2018 to approximately $3.5 billion.
+In addition, AbbVie provided calendar year second quarter HCV guidance of $950 million.
+This correlates to Enanta's fiscal third quarter 2018.
+Given this guidance from AbbVie, the potential for increased royalties to Enanta for MAVIRET is significant.
+And I'll remind you that Enanta is eligible to earn annually tiered double-digit royalties on 50% of AbbVie's global net sales of MAVIRET.
+We look forward to AbbVie continuing to expand its successful launch of MAVIRET worldwide.
+In summary, Enanta's in a very strong position as a result of a dedicated group of employees and a disciplined approach to drug discovery and development.
+Enanta earns royalties on what is now the leading HCV product on the market through its partnership with AbbVie.
+Enanta also has 3 clinical-stage, internally-invented and wholly owned programs in areas of high unmet need namely NASH, PBC and RSV.
+And I would note, all 3 of these development programs now have fast-track designation.
+I'll stop here and turn the call over to <UNK> to discuss our financials for the quarter.
+<UNK>.
+Thanks, <UNK>.
+I'd like to remind everyone that Enanta reports on a fiscal year schedule.
+Our year ended September 30, and today, we are reporting results for our second fiscal quarter ended March 31, 2018.
+For the 3 months ended March 31, 2018, revenue was $44 million compared to revenue of $9 million for the same period in 2017.
+The increase in revenue in the current quarter was due to an increase in royalties earned on AbbVie's $919 million in global sales of hepatitis C virus regimens, including royalties on 50% of the $850 million of MAVIRET sales in the quarter.
+Moving onto our expenses.
+For the 3 months ended March 31, 2018, research and development expenses increased to $21.5 million compared to $13.0 million for the same period in 2017.
+The increase was primarily due to greater preclinical and clinical costs associated with the progression of our wholly owned R&D programs in NASH, PBC, RSV and HBV.
+General and administrative expense for the quarter was $5.7 million versus $5.5 million for the comparable quarter in 2017.
+Enanta recorded income tax expense of $5.4 million for the 3 months ended March 31, 2018, compared to an income tax benefit of $3.6 million for the same period in 2017.
+The company's estimated annual effective tax rate for fiscal 2018 of 27.1% includes the impact of a noncash revaluation charge against deferred tax assets to reflect the reduced federal corporate income tax rate as a result of the enactment of the U.S. Tax Cuts and Jobs Act.
+Net income for the 3 months ended March 31, 2018, was $12.6 million or $0.61 per diluted common share compared to a net loss of $5.4 million or $0.28 per diluted common share for the corresponding period in 2017.
+Enanta ended the quarter with approximately $289 million in cash and marketable securities as compared to $294 million at our September 30, 2017 fiscal year-end.
+We expect that these cash resources, our receivables for the royalties earned this quarter and our future royalty cash flow from MAVIRET will be sufficient to meet our anticipated cash requirements for the foreseeable future.
+Further financial details are available in our press release, and will be available in our Form 10-Q for the quarter when it is filed.
+I'd now like to turn the call back to the operator and open up the lines for Q&A.
+Operator.
+Sure.
+So this is <UNK>.
+I think one of the things we did at EASL is we looked at -- drilled down further on an observation that we had made previously.
+And that in a nutshell, is that EDP-305 seems to cause an up-regulation of LDL receptor, particularly when we compare it against another FXR agonist, which is OCA.
+And so mechanistically, we were very intrigued by this, because of course LDL receptor is the body's way of sponging up excess LDL that you have in the body.
+And so an up-regulation of LDL receptor then should help mitigate an effect that you might otherwise see with an FXR agonist.
+And so that was certainly the observation that we had made pre-clinically.
+It was born out in Phase I and studies where we didn't see an increase in LDL during the course of our Phase I study.
+And so really, what we've done is just taken that biology and dug deeper into how that whole regulatory process is happening.
+So that we can inform future decisions about candidate selection and also just better understand EDP-305, the molecule that we have underdevelopment today.
+Sure.
+So just maybe to back up a little bit, in Intercept's PBC study, they used alkaline phosphatase decreases as a marker for efficacy.
+And in fact, that's the FDA approved endpoint for registration.
+What is known is that alkaline phosphatase is a protein that can be regulated by FX<UNK>
+In fact, there are FXR response elements in the alkaline phosphatase gene.
+So what you have is sort of a potential anyway for a confounding situation, where clinically, you may see an increase in alkaline phosphatase at some dose level because you induce the alkaline phosphatase transcription.
+On the other hand, you may have a beneficial effect in a disease where you have -- such as PBC, where you have a lot of liver damage going on and you do see as a cause -- or as a consequence of the disease progression, pathological increases of alkaline phosphatase.
+So a drug, in theory, could reduce alkaline phosphatase as it improves the course of the disease.
+But it could also, in theory, cause the up-regulation of the very endpoint that you're looking at.
+And so I think that tug-of-war is a theoretical possibility going on.
+Clearly, Intercept did show, net-net, a decrease in alkaline phosphatase, as did Novartis.
+I think at 2 of their 3 doses -- well at all of their doses we saw decreases in alkaline phosphatase.
+It's just that they saw a less robust decrease with their highest dose.
+And so that led to a lack of a dose response.
+When you look at GGT, another liver marker, they saw a dose-related change in GGT.
+So I think that possibility is out there as a confounding influence.
+But I do believe that it is certainly possible on a steady design and the types that we're looking at to be able to demonstrate a net decrease on alkaline phosphatase.
+Sure.
+So the -- we, as we've said, we're targeting to announce a finalist candidate later this year.
+What we did at EASL was put up a representative molecule that's -- I would call it a contender but not yet a finalist, sort of as a calibration of the sort of state of play of the Enanta program.
+We have a sort of -- it's sort of a 20-dimensional problem that you're trying to solve.
+And at any time when you're coming up with a finalist candidate, in terms of optimizing lots of preclinical activities, lots of activities across multiple species in terms of pharmacokinetics and metabolism, metabolite profiling, safety, synthesis, scalability, CMC-related matters.
+And so all of that's beyond just the basic virology, which in itself, has a lot of different dimensions to it.
+So we're -- I think, the molecule that we showed at EASL, 367 is a very fine representative.
+But quite honestly, we got that one and bake off with some other molecules, and we're very close to wrapping up that very comprehensive exercise.
+And then out of that, if it's not 367, we hope it'll be a molecule that's even better than that.
+So getting back to what we showed at EASL, we showed just really good potent virology, looking at a number of different cell lines.
+Some people characterize activity in one or another of the cell lines, and we sort of wind them all up and profile their molecule across all of them so that we could benchmark our molecule to every other one that's been reported.
+And if you look at that data set, and that will be up in our presentation I think later today, if it's not already posted on our website, you'll see that 367 compares virologically really well across many of the core protein inhibitors that people have talked about to-date.
+And further, we put this one through a really rigorous animal model, where you basically take out the immune system of a mouse and -- so that you can reconstitute the liver with human hepatocytes.
+And so it's an immune-compromised mouse model.
+We test the drug in that model.
+And then when you're doing that study, you know that you're seeing a pure drug effect, you're not getting any help from the immune system, obviously.
+So it's a very high standard that we put that molecule through.
+And in fact, achieved the best results that anybody has reported in that particular model, which we think is the hardest one -- has been.
+So we've got, effectively, the best data in that model.
+So the virology is lining up, I think, really well.
+And we know that HBV is a tough virus and it's not likely to be a single mechanism that's going to take it down.
+But the beauty is, and others are starting to show this, you can go in and do some very basic viral kinetic studies over a few weeks of dosing.
+We are seeing with other core inhibitors that the mechanism is validated.
+And so now the next question is, if you add that on top of sort of a combination that you get for free by just using already on the market nukes, can a 2-drug combination, a core on top of a nuke provide some real advancement for HBV patients.
+And so we'll be looking at that data very carefully as we're bringing our first molecule forward, announcing it later this year and into the clinic in 2019.
+We'll have more to say about that at a future time.
+So thanks, for the questions, <UNK>.
+So RSV is going on track, where as I said in the prepared remarks, we're now dosing the MAD portion of the study.
+And we expect to report top line data on this Phase I study next quarter.
+And then in the fourth calendar quarter, we expect to start our Phase II in humans infected with RSV.
+So what we like about the way the plan is shaping up so far, as I indicated and maybe it kind of a cost over a little too quickly is in Phase I, we're dosing the MAD portion for 7 days.
+It's really unusual that in Phase I, that you capture the duration of treatment of most of your Phase II studies.
+And so I think that becomes really interesting, at least for us, a de-risking exercise in terms of looking at safety in PK over the course of a 7-day course in a Phase I, gives us a tremendous amount of information, and sort of confidence building as we head into Phase II of an equal duration of therapy.
+The other thing is that with most viruses, and I'll set HBV off to the side for the moment, but with most viruses and certainly bacteria, if you have good potency in the lab in terms of knocking down the particular bug, and if you deliver good exposure in humans, there is a pretty good chance that things are going to demonstrate the desired effect of knocking down the bug in the human.
+So again, we're looking forward to this Phase I dataset next quarter, and we'll try to put it all together with our antiviral potency, which is quite good as you know.
+And then get on with that Phase II study in calendar Q4.
+Okay, yes, the other question I think you had was about our other NASH programs.
+We have -- obviously, we've got a follow-on FXR program that's extremely active, and we've got another program that we haven't really disclosed the target on.
+So I think we probably won't say too much more about those today.
+But I think we will be later in the year.

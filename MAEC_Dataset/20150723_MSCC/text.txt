@@ -1,0 +1,48 @@
+Certainly.
+We assess capital very proactively in terms of what the demands on the business are, and certainly we see with the attractive valuation that the stock buyback is the number one thing for us now.
+However, we do have debt, we understand that, we will manage the debt as we go forward as well with the expectation of paying it back within its term.
+And we also have a target to be below 3.0, which is where we're at right now exiting this current quarter on October 1, because we actually see a price reduction in our term loan A debt and we'll save 25 basis points on that.
+So we're going to make sure that we get below that level, which we will be at through natural EBITDA growth.
+But that could be a consideration also in terms of our use of cash.
+And of course we're an acquiring company, and M&A is always there to take a piece of the money as well.
+Yes.
+Well, the wireless CapEx is still soft in China, that hasn't changed.
+We're seeing similar to most of our peers.
+But the real highlight is again the broadband gateway, extremely strong not only in China but pretty much worldwide.
+We're one of the few, I think, but communications is going to be up for Microsemi.
+We have a tremendous amount of new products, we have a lot of design wins, and for us it's a market depth position for growth stability and good cash flow contribution.
+They're all looking pretty attractive.
+I think most recently, because Boeing came out so bullish -- aerospace, we worked diligently on our positioning and new product introduction, into the aerospace marketplace.
+I would take it back to a product area.
+I couldn't be happier than I am with the RFPGA SoC group with the strength of their new product and generation product, design wins in all of our markets.
+Communications, I think we touched on it two or three times, bullish on communications.
+Again, very, very proud of our markets, defense, and I'll wait for 2016 for satellite.
+So at the end of the day, most all of our markets are built for growth stability and cash contribution, which they should be.
+Thank you.
+<UNK>, you want to jump on a capacity question.
+So specifically, we've had to increase some foundry capacity to get additional wafers.
+We've got some proprietary high-voltage processes that put us in a very unique position in our broadband gateway market.
+So communications definitely benefiting from that.
+We saw -- definitely saw, the upside in demand there.
+That has since the spending shifted a little bit from foundry capacity, putting that in place, to more test capacity, putting that in place and reducing some of the costs associated with the tests to get that [whipped] through the channel.
+So mainly that's the area, and then of course, every time we launch new product, it takes some of our FPGA platforms, new packages with higher speed testing.
+Some of the capacity is going to support some of those programs that have been captured and scheduled to launch to production with our customers mid next year.
+It's pretty broad.
+If you look at it, this is a technology partner place, so we work very, very closely with other chipset vendors, the who's who there we're working with.
+It's multi-continent, so it's not dependent on any one particular territory.
+It does appear, all the wireless infrastructure softness that people are seeing, there seems to be a wholesale shift from wireless to more endpoint broadband wireline bandwidth.
+And so we're benefiting from that greatly.
+The nice thing there is, the entire network is starting to change in terms of architecture.
+And it's got some nice implications not just from the position that we have today but in some of the adjacent product categories that were up-and-coming, timing, POE, there's now reversed power feed for [GDOT band].
+It's got a number of different areas that get us excited for the future.
+Yes, what you're getting is a good solid long lead time of good margin products.
+The aerospace as we mentioned was up 5% sequentially, 16% year over year.
+I see that actually strengthening going into the second half of the year.
+And, what we're really waiting for to double down, as we would call it, is the satellite business.
+And we see that slightly strengthening through September/December quarter, but we're looking forward to a strong 2016.
+Yes, sure.
+(Inaudible) power radio in the medical business, we did mention the oil-related business which is headwind for those of you -- for headwind.
+But the medical business is certainly recovering and balancing that off the industrial.
+As a reminder, it was 2% sequentially and down 2% year over year.
+So I think if we go year over year, we could call it kind of flattish, I'd be a happy CEO.
+Thanks for joining us today and have a great day.

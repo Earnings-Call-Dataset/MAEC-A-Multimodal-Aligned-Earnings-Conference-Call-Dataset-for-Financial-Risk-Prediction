@@ -1,0 +1,175 @@
+Good afternoon.
+During the course of this conference call, we shall make forward-looking statements, including statements regarding future growth and profitability, future restructuring charges and our guidance for revenue and earnings per share for the third quarter of 2017.
+We wish to caution you that such statements are just predictions and that actual events or results may differ materially.
+We refer you to the documents the company files regularly with the Securities and Exchange Commission, including the company's annual report on Form 10-K filed on February 16, 2017, and our quarterly report on Form 10-Q filed on May 1, 2017.
+These documents contain and identify important factors that could cause our actual results to differ materially from those contained in our forward-looking statements.
+With that, I will now turn it over the Chief Executive Officer of National Instruments Corporation, Alex <UNK>.
+Good afternoon and thank you for joining us today.
+My key messages today are revenue of $319 million, a record for a second quarter; core revenue growth of 7% year-over-year; and non-GAAP net income of $35 million, up 21% year-over-year and a new record for a second quarter.
+I'm pleased with our execution in Q2 as we continue to drive toward our revenue and profitability goals.
+This quarter, we saw core revenue up 7% year-over-year and record revenue for a second quarter and for a first half.
+We believe that alignment of our product and channel investments towards the growth opportunity areas of 5G communications, semiconductor tests, the connected vehicle and the Industrial Internet of Things continue to move our platform closer to our customers' challenges.
+These investments help increase our impact within these opportunity areas and will help our customers speed time-to-market, reduce cost of test and limit cost pay downtime.
+I'm pleased with the results that we saw across all 3 regions during the quarter as well as the revenue growth within automotive, wireless and semiconductor tests.
+Looking at order size, we saw strength in Q2 in orders over $20,000, driven by system-level products like PXI.
+Orders under $20,000 were flat year-over-year and we saw weakness in PC data acquisition products related to the weakness in the broader PC market.
+Software products saw continued year-over-year revenue growth in Q2 as price agreements continue to be a strong driver of adoption of our software tools in major accounts.
+This quarter was particularly exciting as we unveiled significant software launches at NIWeek.
+LabVIEW, our flagship software and enabler of our platform accelerates our customers' productivity and as a result, continues to be a strategic driver of loyalty in our customer base.
+The latest release includes new ways to measure and connect to the Industrial IoT, including the new LabVIEW Cloud Toolkit which connects LabVIEW applications to Amazon Web Services and additional support for Python.
+This release also expands the reach of LabVIEW to new users in the engineering design flow, including technicians that need measurement and analysis capabilities.
+With our programming, many new users can take measurements, visualize data and perform analysis to simplify iterative and common tasks in design and tests.
+In addition to the LabVIEW release, we added a new category of software value-add for our customers with the announcement of our new system management software.
+This product called SystemLink is a new monetization opportunity for NI.
+It will help production intense-facilities optimize asset utilization by centralizing software and data management on distributed test systems.
+These releases and the rapid innovation enabled by our software platform refresh will help us to meet the demands of a growing number of users with diverse needs.
+The value of our software driven by development efficiency, ease of hardware integration and enterprise access to data ensures that we continue to deliver new value to our broad base of software users.
+PXI instrumentation and RF products have continued year-over-year revenue growth in Q2.
+Over the past 20 years, the NI PXI portfolio has grown to include hundreds of products, spanning the measurement needs of thousands of automated test customers.
+In the past year, we have seen the second generation vector signal transceiver continue to drive penetration of PXI and the NI platform into new measurement and test applications at the cutting edge of communication prototyping and semiconductor production tests.
+At NIWeek this year, we heard from Analog Devices, how the PXI platform is helping to meet production timelines and budgets for new semiconductor products.
+We also heard from an alliance partner in our ecosystem, NOFFZ, about how PXI has enabled them to meet the production test needs of a wide range of products like wireless modules, gateways and router systems.
+In developing these systems, a large part of our partners' time can be spent integrating mechanical, electrical and safety infrastructure which tend to be standard across many applications.
+To help speed their system development, we announced more complete system configurations and services which will enable partners and customers to purchase complete test systems from NI.
+For our customers, this reduces the number of vendors for streamline purchasing and for NI, we can increase sales efficiency by delivering systems faster.
+At NIWeek, customers in automotive, aerospace and semiconductor showed how many new data NI data acquisition products are pushing the limits of measurement technology.
+We showed that these products can validate performance of battery stacks and electric vehicles, measure power consumption of low power integrated circuits and characterize high-speed acoustic signals like shock waves.
+By increasing measurement voltage, bandwidth and precision, we're expanding the capability of our platform to serve the real-world measurement needs of new technologies.
+In Q2, CompactRIO saw significant customer interest in the areas of energy and advanced control and monitoring.
+CompactRIO is ideally suited to take advantage of the ubiquitous connectivity in edge analytics needed for the Industrial Internet of Things.
+Combining the latest in FPGA and application processor technology with NI software enables our customers to integrate more sensing, more analysis and more control into the systems of the Industrial Internet of Things.
+For example, at NIWeek, Blue Origin showed how they use CompactRIO to automate dozens of test cells in parallel to meet their aggressive launch schedules.
+Also at NIWeek this year, our customers showed how our platform and ecosystem helps them harness the power of the exponential trends driving our industry and our world.
+Moore's Law, the explosion of intelligent devices and the rise of big data can be overwhelming but when harnessed, can bring self-driving cars to our roads, make everyday objects smart devices and enable new methods of high-speed transportation.
+With thousands of NI customers in attendance including AT&T, DARPA and Valeo, NIWeek is proof point in the industry for technologies from 5G to driverless vehicles.
+Not only are they becoming a reality, but our platform is significantly accelerating their path to market.
+Wireless communication, particularly 5G has been moving rapidly and accelerating toward first deployments.
+With strong revenue growth in the first half from our software-defined radio products, our customers continue to demonstrate the value of the NI platform and our differentiated position within 5G, as they grow the number of deployments used to test and validate these technologies.
+Each year in NIWeek, our customers demonstrate major steps towards market viable 5G communication.
+And each year, we see how the NI platform is helping them meet these accelerating timelines.
+For example, AT&T is using the NI platform to measure the signal effects of the real-world environment on new wireless transmission frequencies.
+By better understanding attenuation and distortion in the real world, the researchers at AT&T labs can create more robust transmission schemes and ensure more reliable connectivity.
+This example as well as others from Nokia, Samsung and the University of Bristol showcase our product and channel coverage within research and development.
+Given our long history with automated production tests, we believe we are in a unique position to serve the needs of these companies as 5G technology moves out of the lab and into products.
+Thank you.
+And I will now turn it over to our Chief Financial Officer, <UNK> <UNK>, for the financial update.
+<UNK>.
+Thank you, Alex, and hello, everyone.
+This is my first earnings release at National Instruments and I am proud to be part of such a strong and respected company.
+Today, we reported Q2 revenue of $319 million, a record for a second quarter.
+Revenue was up 4% year-over-year.
+Core revenue which we define as GAAP revenue excluding the impact of our largest customer and the impact of foreign currency exchange was up 7% year-over-year.
+Looking at our operational results, non-GAAP gross margin in Q2 was 75%.
+Total non-GAAP operating expenses were $194 million, relatively flat year-over-year.
+Our non-GAAP operating margin increased by 140 basis points year-over-year to 14%, demonstrating commitment to our new operating model.
+We reported net income of $25 million with fully diluted earnings per share of $0.19.
+Non-GAAP net income was a second quarter record at $35 million or $0.27 per share which represents a 21% increase in earnings versus the second quarter of 2016.
+Included in our GAAP net income is $4 million of restructuring charges.
+A reconciliation of our GAAP and non-GAAP results is included in our earnings press release.
+Now taking a look at order trends in more detail.
+For Q2, the value of our total orders was up 5% year-over-year in U.S. dollars.
+Included in that total is $12 million in orders received from our largest customer compared to $18 million in Q2 2016.
+Revenue from our largest customer was $10 million in Q2 compared to $14 million in Q2 2016.
+Now breaking down our Q2 order values.
+Excluding our largest customer, orders with a value below $20,000 were flat in the second quarter.
+As an indicator of the strength of our systems business, we saw all orders over $20,000 up 15% year-over-year.
+Orders with a value between $20,000 and $100,000 were up 1% year-over-year, adversely impacted by the soft spending by the U.S. government due to the late budget approvals, while orders with a value over $100,000 were up 42% year-over-year.
+We believe the systems order growth is indicative of the value of our innovative platform and the strength of our direct customer relationships.
+We continue to be deliberate in our sales channel investments in order to optimize our overall customer coverage and support our growth goals.
+Moving to the balance sheet and capital management.
+During the quarter, we paid $27 million in dividends, continuing our history of returning value to our shareholders.
+We ended the quarter with cash and short-term investments of $368 million at June 30, 2017, and the NI Board of Directors have approved a quarterly dividend of $0.21 per share.
+Now I would like to make some forward-looking statements.
+Included in our guidance for Q3 2017, is approximately $6 million in revenue from our largest customer compared to $8 million recognized in Q3 2016.
+Given our historic seasonality trends, we currently expect total revenue in Q3 to be in the range of $304 million to $334 million.
+The midpoint of this range represents a new revenue record for a third quarter.
+We expect GAAP fully diluted earnings per share will be in the range of $0.16 to $0.30 for Q3, with non-GAAP fully diluted earnings per share expected to be in the range of $0.22 to $0.36.
+Included in our Q3 2017 GAAP earnings per share guidance is approximately $1 million of restructuring charges.
+As of June 30, headcount is down 2% from December 31, 2016.
+For the full year, we estimate the impact of restructuring charges on net income to be approximately $7 million to $8 million.
+On other housekeeping items, we estimate that given current exchange rates, the impact of foreign currency will be minimal in Q3.
+We continue to expect total non-GAAP operating expenses to be up approximately 1% year-over-year in the second half of the year.
+In summary, we are encouraged by the strong order growth in Q2 and our focus on disciplined expense management.
+We believe this focus will keep us on the right path as we move forward toward our growth and profitability goals this year and in 2018.
+As data forward-looking statements, I must caution you that our actual revenue, expenses and earnings could be negatively affected by numerous factors, such as any weakness in global economies, fluctuations in revenue from our largest customer, foreign exchange fluctuations, expense overruns, manufacturing inefficiencies, adverse effect of price changes and effective tax rates.
+We will be participating at the Oppenheimer Conference and the Jefferies Summit in Chicago in August, the Deutsche Bank Conference in Las Vegas in September and the Stifel Conference also in September.
+We look forward to seeing you there.
+With that, I'll turn it back over to Alex for some closing comments.
+Thank you, <UNK>.
+I'd like to close today by thanking our employees for embracing our mindset of growth and profitability.
+We made good progress towards our goals in the first half, with record revenue and 26% year-over-year growth in our non-GAAP net income.
+This positions us well to deliver on our leverage goals for 2017 and for 2018.
+Thank you, and we will now open up for your questions.
+So for the -- helpful for all of us here would be helpful to note from you.
+Any qualitative color you can give us into the back half and ideally into next year in terms of end markets, any specific customer segments, any specific categories of order transactions.
+And where I'm coming from is it really helps us better model and think at the segment level, at the use case level and ideally, at the order category level.
+Sure.
+So <UNK>, as we look out into Q3 -- why don't we talk about Q2 first.
+From an industry point of view, space and semi and automotive and communications, we saw some definite weakness in U.S. government spending in Q2.
+As we look into Q3, we're really guiding based on our historical trends into the third quarter and at this point, we're not assuming any bounce back in U.S. government spending in Q3 at this point.
+We'll see how that plays out as we go through the third quarter.
+On the longer-term trends, we continue to be encouraged by the continued strength in Global PMI.
+We're seeing some evidence from the semiconductor companies, both in analog and recent results from Intel and others that there is some underlying strength building in the industrial economy.
+We certainly hope that, that plays through into the second half of next year and that's quite encouraging.
+But obviously, we're only giving guidance at this point for the third quarter.
+A quick follow-up for <UNK>.
+<UNK>, you might have a certain thought process of improving EBITDA margins incrementally or the operating performance of the company.
+How is it tracking versus your own internal goals and what might be some of the levers we could see for improving EBITDA margins incrementally as we head into the back half and into next year.
+Hi, <UNK>.
+We continue to be very focused on executing to the operating model that we presented at NIWeek.
+And from what we're looking at right now and our guidance for Q3 reinforces that model is going to play through.
+We've got the guidance for second half operating expenses at a 1% growth year-over-year, and we believe that's right in line with where we intend to be from that operating model perspective.
+I guess, my typical housekeeping questions to start.
+Could you help us with the employees x in the quarter and the average order size.
+Sure.
+The employees, so the headcount, <UNK>.
+It's right about 7,400 heads, 7,398, to be exact and that's a 2% decline from December year-end.
+And then the average order size that we saw was up 10% year-over-year at $5,900.
+And then are we still expecting a 21% tax rate for the full year.
+We are.
+That's our outlook at this point, yes.
+Perfect.
+And then the orders of $100,000-plus growing 42% year-over-year is incredibly impressive.
+Can you comment on drivers by maybe geography or end market where those orders are coming from.
+And are we right to think that these orders could take multiple quarters to fulfill, meaning on top of your industrial commentary, Alec, that this bodes well for back half of the year.
+Yes, certainly, when we look at system level business, in particular, it's kind of moved a little bit between the two brackets.
+But orders over $20,000 have been up 15% and the aggregate is a very encouraging sign for that strength of the areas of business that we're focusing.
+As I said earlier on, semi, automotive, communications is driving that.
+Those industries look pretty healthy right now, so that's encouraging as we look forward.
+And while we're being somewhat conservative as we look at the guidance here, we're just going with the historical pattern of being flat from a seasonal point of view.
+The majority of the trends we watch are displaying positive signals.
+And that answer, I think, dovetails nicely into the guidance because I think at the midpoint, you're looking for 4% growth.
+You said that FX impacts are expected to be minimal.
+And I think, given the large customer revenue that you provided us for 3Q, it looks like that's about a 50 bps headwind.
+So is it conservatism that has you decelerating your core from 7% just reported to what appears to be about 3.5%.
+Or is there something else that's fundamentally decelerating.
+No, I mean, I think the fundamental indicators and structural elements that drive our business are healthy.
+As we go into Q4 and into second half, we want to make sure we're delivering on the expectations that we set as we move forward.
+We have had very good profitability growth in the first half of the year.
+We want to deliver record revenue, record profit for 2017 and we want to be well positioned to deliver on our operating leverage goals as we move into 2018.
+And, <UNK>, let me add to that.
+I just want to add, the midpoint of our guidance just puts us at a 5% core revenue growth.
+Great.
+And then <UNK>, your first guidance as CFO of the company, are there any material shifts into how you're setting expectations relative to prior NI practices.
+I can't speak entirely to the previous NI practices, but I am certainly holding people accountable for focusing on our operational target and being very focused in execution and driving what we say we're going to do.
+Rick, thanks very much.
+So let me take the test and answer your questions.
+Last year, obviously, we saw a quite bit of growth from our largest customer.
+This year through the first half, we see that revenue to be down.
+As we look into Q3, we're looking for revenues from that customer to be reasonably close to where we were in Q3 last year, a slight decline.
+And the business of that customer has now become pretty broad-based, so we're serving a lot of different applications within that customer for a lot of their different products, addressing different test needs.
+The real driver ultimately there is what new technologies that they bring to bear that fundamentally obsoletes their existing fleet of test equipment.
+And so, that's really the driver that will, I think, dictate the test purchase that they make as we go through the next couple of years.
+That's primarily due to the drop in revenue from our largest customer, Rick.
+That's all recognized in APAC because we ship it into APAC.
+So when you look at the base business there, we saw above mid-single digit core revenue growth in APAC, pretty similar to the rest of the world in Q3, sorry, excuse me, in Q2.
+So the base business continued to grow and it's just the volatility caused by the fact that the largest customer's revenues is recognized in that region.
+As you know, Rick, I think there's obviously been some budget approval delays, especially in the U.S. for quite a while, those are pretty much resolved now.
+And when we're giving guidance, we're going with the historical pattern and we're not assuming a bounce back in government spending.
+I know the fiscal year ends in September, so that's a possibility we may see a better-than-expected result there, but in giving guidance, we go with the seasonal pattern.
+Yes, thanks, Rick, for asking that.
+What we're looking at is a second half, that's about 1% growth year-over-year from last year.
+Yes.
+Thank you for joining us today.
+We look forward to seeing you at one of the investor conferences we'll be attending in August and September, and we look forward to talking to you again in October.
+Bye.

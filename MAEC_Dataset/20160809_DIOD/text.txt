@@ -1,0 +1,276 @@
+Good afternoon, and welcome to Diodes Incorporated's second quarter 2016 financial results conference call.
+At this time, all participants are in a listen-only mode.
+At the conclusion of today's conference call, instructions will be given for the question and answer session.
+(Operator Instructions).
+As a reminder, this conference call is being recorded today, Tuesday, August 9, 2016.
+I would now like to turn the call over to <UNK> <UNK> of Shelton Group Investor Relations.
+<UNK>, please go ahead.
+Good afternoon and welcome to Diodes' second quarter 2016 financial results conference call.
+I'm <UNK> <UNK>, Executive Vice President of Shelton Group, Diodes' Investor Relations firm.
+Joining us today are Diodes' President and CEO, Dr.
+<UNK> <UNK>; Chief Financial Officer, <UNK> <UNK>; Senior Vice President of Sales and <UNK>eting, <UNK> <UNK>; and Director of Investor Relations, Laura Mehrl.
+Before I turn the call over to Dr.
+<UNK>, I would like to remind our listeners that management's prepared remarks contain forward-looking statements, which are subject to risks and uncertainties, and management may make additional forward-looking statements in response to your questions.
+Therefore, the Company claims the protection of the Safe Harbor for forward-looking statements that is contained in the Private Securities <UNK>tigation Reform Act of 1995.
+Actual results may differ from those discussed today, and, therefore, we refer you to a more detailed discussion of the risks and uncertainties in the Company's filings with the Securities and Exchange Commission.
+In addition, any projections as to the Company's future performance represent management's estimates as of today, August 9, 2016.
+Diodes assumes no obligation to update these projections in the future as market conditions may or may not change.
+Additionally, the Company's press release and management statements during this conference call will include discussions of certain measures and financial information in GAAP and non-GAAP terms.
+Included in the Company's press release are definitions and reconciliations of GAAP to non-GAAP items, which provide additional details.
+Also, throughout the Company's press release and management's statements during this conference call, we refer to net income attributable to common stockholders as GAAP net income.
+As a reminder, the results announced today are preliminary and are subject to Diodes finalizing its closing procedures and customary quarterly review by the Company's independent registered public accounting firm.
+As such, these results are subject to revision until the Company files its quarterly report on Form 10-Q for the quarter ending June 30, 2016.
+For those of you unable to listen to the entire call at this time, a recording will be available via webcast for 60 days in the Investor Relations section of Diodes' website at www.diodes.com.
+And now, I'll turn the call over to Diodes' President and CEO, Dr.
+<UNK> <UNK>.
+Dr.
+<UNK>, please go ahead.
+Thank you, <UNK>.
+Welcome, everyone, and thank you for joining us today.
+I'm pleased to report strong second quarter results, highlighted by achievement of record revenue and gross profit dollars.
+The growth was driven by our approximately 7% sequential increase in Diodes core business with a modest 1% increase in revenue from Pericom.
+Our industrial market revenue was higher in the quarter reflecting increased sales in North America and Europe.
+Revenue from our automotive market also had another solid quarter of growth, as this end market continues to outpace the average growth rate of the Company.
+In addition, we achieved 140 basis point sequential improvement in non-GAAP gross margin due primarily to increased utilization at our manufacturing facilities and improved product mix.
+We also continued to generate solid cash flow during the quarter, which enabled us to pay down $40 million of long-term debts or a total of $73 million since the end of third quarter 2015.
+It took approximately three years to pay off the debts from our BCD Semiconductor acquisition and we anticipate a similar timeframe for Pericom due to Diodes' strong cash flow generation.
+As we look to the third quarter, we expect revenue to grow 5.6% sequentially at the midpoint, representing $250 million in quarterly revenue run rate, which is an important milestone toward achieving our goal of $1 billion in annual revenue.
+Additionally, gross margin is expected to improve another 90 basis points at the midpoint of our guidance range of 32.5% with operating expense decreasing further as a percent of the sales.
+We are beginning to see improvement in the general market environment and anticipate a more typical seasonal cycle going into the quarter.
+With that, I now turn the call over to <UNK> to discuss our second quarter and mid-year results as well as third quarter guidance in more detail.
+Thanks, Dr.
+<UNK>, and good afternoon, everyone.
+Revenue for the second quarter 2016 was a record $236.6 million, increasing 6.2% from the $222.7 million in the first quarter 2016 and 7.8% from the $219.5 million in the second quarter 2015.
+Gross profit for the second quarter 2016 reached a record $74.8 million, or 31.6% of revenue, compared to the first quarter of 2016 of $64.2 million, or 28.8% of revenue, and the second quarter 2015 of $69.4 million, or 31.6% of revenue.
+The sequential improvement in gross margin was due primarily to increased utilization at our manufacturing facilities and improved product mix.
+GAAP operating expenses for the second quarter 2016 were $63.5 million, or 26.9% of revenue, and on a non-GAAP basis $58.6 million, or 24.8% of revenue, which excludes $4.9 million of transaction, retention, amortization of acquisition-related intangible asset expenses, and employee award costs.
+This compares to GAAP operating expenses of $62.8 million, or 28.2% of revenue, in the first quarter 2016 or 25.5% on a non-GAAP basis.
+Looking specifically at selling, general, and administrative expenses for the second quarter, SG&A was approximately $41.4 million, or 17.5% of revenue, compared to $39.5 million, or 17.7% of revenue, in the first quarter 2016.
+Investment in research and development for the second quarter was approximately $17 million, or 7.2% of revenue, compared to $18.1 million, or 8.1% of revenue, in the first quarter 2016.
+Combined, SG&A plus R&D was $58.4 million, or 24.7% of revenue, compared to $57.6 million, or 25.9% of revenue, in the first quarter 2016.
+Total other expense amounted to approximately $2.5 million for the quarter including $3.7 million of interest expense, which was partially offset by $1.2 million of currency gains and interest income.
+Income before taxes and non-controlling interest in the second quarter 2016 amounted to $8.8 million compared to a loss of $2 million in the first quarter of 2016.
+Turning to income taxes, our effective income tax rate for the second quarter was approximately 27.3%.
+Second quarter 2016 GAAP net income was $5.8 million, or $0.12 per diluted share, compared to GAAP net loss of $1.7 million, or negative $0.04 per share, in the first quarter of 2016 and GAAP net income of $15.1 million, or $0.31 per diluted share, in the second quarter 2015.
+The share count used to compute GAAP diluted EPS for the second quarter 2016 was 49.5 million shares.
+Non-GAAP adjusted net income was $9.8 million, or $0.20 per diluted share, which excluded, net of tax, $5.1 million of non-cash acquisition-related intangible asset amortization cost.
+This compares to non-GAAP adjusted net income of $5.9 million, or $0.12 per diluted share, in the first quarter of 2016 and $16.6 million, or $0.34 per diluted share, in the second quarter of 2015.
+We have included in our earnings release a reconciliation of GAAP net income to non-GAAP adjusted net income, which provides additional details.
+Included in the second quarter 2016 GAAP and non-GAAP adjusted net income was approximately $3 million, net of tax, non-cash share-based compensation expense.
+Excluding share-based compensation expense, both GAAP and non-GAAP adjusted EPS would have increased by $0.06 per diluted share in the second quarter.
+Cash flow generated from operations was $16.4 million for the second quarter.
+Free cash flow was $0.9 million for the second quarter, which included $15.5 million of capital expenditures.
+Net cash flow for the quarter was a negative $44.5 million including the pay down of approximately $40 million of long-term debt.
+Turning to the balance sheet, at the end of the second quarter, cash and cash equivalents totaled approximately $193 million and short-term investment totaled $44 million.
+Working capital was approximately $542 million.
+At the end of the second quarter, inventory increased approximately $5 million from the end of the first quarter 2016 to approximately $210 million.
+Inventory in the quarter reflects a $9 million increase in finished goods and a $3 million decrease in work-in-process and a $1 million decrease in raw materials.
+Inventory days were 117 in the quarter, which was comparable to last quarter.
+And, at the end of the second quarter, accounts receivable was approximately $230 million, an increase of $13 million from the first quarter.
+A/R days were 86 compared to 89 last quarter.
+Our long-term debt totaled approximately $410 million.
+A total of $73 million has been paid down since the end of the third quarter 2015.
+Capital expenditures for the second quarter were $15.5 million or 6.6% of revenue.
+As we mentioned in the past, Chengdu will be included in our full-year target model for CapEx, which will be 5% to 9% of revenue.
+Depreciation and amortization expense for the second quarter was $25 million.
+Now, turning to our outlook.
+For the third quarter of 2016, we expect to grow revenue to a range between $242 million and $258 million, or up 2.3% to 9% sequentially.
+We expect GAAP and non-GAAP gross margin to be 32.5% plus or minus 1%.
+Non-GAAP operating expenses are expected to be approximately 24% of revenue plus or minus 1%.
+We expect interest expense to be approximately $3 million and our income tax rate to be 28% plus or minus 3%.
+Shares used to calculate diluted EPS for the third quarter are anticipated to be approximately 50 million.
+Please note that purchase accounting adjustments for Pericom and previous acquisitions of $4.4 million after tax are not included in these non-GAAP estimates.
+With that said, I will now turn the call over to <UNK> <UNK>.
+Thank you, <UNK>, and good afternoon.
+The second quarter set a record for both revenue and gross profit dollars, with revenue increasing 6.2% sequentially, led by strong automotive and industrial growth in North America and Europe.
+OEM sales were up 6.9% and distributor POP was up 6%.
+Distributor inventory increased 9% in preparation for a stronger third quarter while POS grew 8% with Europe setting another record quarter for POS.
+Customer activity continued to be strong across all regions with solid design activity and wins.
+We are well-positioned with customers across our product portfolio to further expand our content and drive growth for the balance of this year.
+Also, the integration of Pericom continues to remain on schedule and we expect the completion of the sales integration by the end of Q3.
+We continue to penetrate our key customer base with a broader product line and see significant customer synergy and cross-selling opportunities with the Pericom products.
+We also continue to make progress with our automotive and industrial expansion initiatives with increasing revenue growth, new product introductions, and design wins.
+From a product perspective, the second quarter was a record quarter for our MOSFET and CMOS LDOs.
+We also continue to see strong momentum for our protection products and LED drivers along with a bounce-back in revenue for our Hall sensors and AC-to-DC product lines driven primarily by smartphone sales in China.
+Turning to global sales, Asia represented 78% of revenue, Europe 12%, and North America 10%.
+In terms of our end markets, consumer represented 29% of revenue, communications 24%, industrial 22%, computing 19%, and automotive was 6%.
+We continue to make progress on our automotive and industrial initiatives with both end markets increasing sequentially.
+Let me now provide more detail within each of our end markets.
+For the consumer market, we released two new audio devices, the first of which is a highly-integrated 3-watt Class-D power amplifier that provides excellent audio performance and system flexibility for portable speakers; and the second, a stereo line driver designed with pop-free architecture for high audio performance at low systems cost.
+We also saw the adoption of our adjustable current limit power switches by several key TV and set-top box customers.
+For mobile communications applications including portable device charging, Diodes once again introduced a wide range of products during the quarter.
+From our MOFSET platforms, we launched a family of CSP and DFN packets parts targeting reverse battery protection, quick charge, and load-switch applications along with two high-voltage parts targeted at charger applications.
+Building on Diodes' close relationships with several mobile communication customers, we released high-surge and general-purpose protection devices to meet the needs of these customers including one product offering the highest surge and clamping capability of its kind.
+Also during the quarter, our Hall sensor devices gained further market share specifically in China's smartphone market with several key wins across multiple platforms and major cell phone manufacturers.
+Other new smartphone wins include a USB signal switch and a high-performance signal re-driver with integrated equalization circuitry.
+In the computing market, we extended our support of USB applications with the release of a new high-performance linear re-driver designed specifically for the USB 3.1 protocol.
+We are well-positioned to support emerging USB 3.1 re-driver requirements and have several critical early design wins on market-leading platforms.
+We also released a bi-directional crossbar solution for switching USB 3.1 signals through a Type-C connector.
+Another recent release related to the emerging Type-C connector market was a flexible cost-effective device that detects plug-in orientation of the cable.
+Also in the computing space we are seeing growing demand for our SSD MUX product line to support high-density solid-state memory applications for data centers.
+The need to support these applications will continue to expand with the growth of cloud computing and big data initiatives.
+For the industrial applications, Diodes released several new products underpinning our commitment to meeting the needs of this segment.
+During the second quarter, we released a 200-volt ORing controller aimed at N+1 redundant power supply systems to support data center requirements for 100% system up time.
+Also new for this second quarter is a range of gate drivers in single channel, half bridge, and high side/low side configurations as well as a family of 40-volt 10- to 20-milliamp linear LED drivers.
+Additionally, we released 40-volt to 100-volt MOSFET products utilizing shielded-gate technology that were well-suited for industrial power supply applications.
+Also in the industrial space, we expanded our offering of LED drivers for non-dimmable retrofit bulb applications with a family of high-power, high-efficiency drivers that meets the latest Energy Star requirements.
+Additionally, our TRIAC dimmable product series continues to be very successful in LED applications with several major incremental design wins during the quarter.
+We are also seeing increased opportunities for our products in industrial camera modules for applications such as security cameras as well as e-meters and e-bike applications in China.
+And, finally, in the automotive market, Diodes once again extended our range of auto-qualified MOSFETs with the addition of six 60-volt and 80-volt products featuring 175-degreee C-rated shielded-gate technology.
+Diodes now has strong design win and sales momentum with this rugged technology with targeted automotive customers.
+Diodes also generated strong demand for its new NPN constant current linear LED drivers for interior, ambient, and courtesy lighting.
+Also within the automotive market, we are seeing an emerging trend in telematics where telecommunication capabilities are being embedded into the automotive electronic system.
+Our PCIe Gen-2 packet switch is on a key telematics reference design and has also been designed into a smart antenna project.
+Additionally, our new piezo driver has been adopted in several electronic tag and key-fob applications due to the efficiency and performance of this device.
+In summary, our initiatives to expand our presence in the automotive and industrial markets continue to show evidence of success.
+In conjunction with these efforts, we also remain focused on further expanding our presence in the portable and wearable space, which are markets ideally suited for Diodes deep expertise in miniaturization and power-efficient packaging.
+Our third quarter expectations for continued growth is representative of our solid position with customers and growing content across our portfolio.
+With that, I'll open the floor to questions.
+Operator.
+(Operator Instructions).
+<UNK> <UNK>, Raymond James.
+Great.
+Thanks a lot.
+And congratulations, Dr.
+<UNK>, on getting the good revenue results here and getting the gross margin back up to your more normal levels.
+Sure.
+I was hoping you could talk a little bit more about how we should think about margins here going forward.
+It sounds like you're seeing revenue pick back up to more seasonal patterns again.
+And so, assuming there's still some modest growth, is it fair to think; continue to fill the factories, get a little bit better utilization, continue to mix in the new products so we should see, generally speaking, sort of a modest move up in gross margins going forward.
+Is that the right way to sort of think about it at a high level.
+Well, <UNK>, the key thing, really, if you look at our products, the gross margin of our products is above or at least at the model we set it up, 35%.
+Right now, the step down of our GP was due to the under-loaded utilization problems.
+And you know every quarter when we\
+Well, from the expense, operating expense point of view, we mainly focus on growth of revenue.
+And then, as the percent of expense, percent of the revenue, will be going down.
+That is really main focus.
+And for the corporate costs, some of that corporate cost still here because executive bonus, the retention bonus, and some of the, like CFO, some of the people they still stay to helping us for consolidation.
+But those will be minor savings.
+But our key focus is how to mutual help each other to expand the market share to grow revenue such that, as a percent of the revenue, that expense would go down.
+And that's really our focus.
+Well, I'll let <UNK> later on to answer.
+But at the beginning, let me add it.
+Pericom product, it takes time to design in and takes time to ramp it up.
+We show effort to help Pericom product to expand again more this year.
+But it really takes time.
+But we see an opportunity and we see a lot of synergy between their product and our product.
+But that kind of roll-up it takes effort to do the design win, to ramp it.
+And we believe next year will be the year for us to see the result.
+<UNK>.
+That's right.
+Yes, we were very excited about the opportunities we've seen in our present customer base to advance their product line and even outside of their traditional markets, even into the consumer market segments and so forth.
+So, we have a lot of new opportunities that in, let's say, the first six months where -- I mean I'm actually a little surprised how well it's gone.
+The other nice impact is, within their customer base and even within our customer base with their product, it's allowing us to see things a little bit earlier and get a little bit more advanced look for some of our more standard product areas.
+So, actually, the match is quite good and the progress is actually better than I expected as quickly.
+So, we're very excited.
+Great, thank you very much.
+Good afternoon, everyone.
+Congrats on a good, strong Q2.
+I had a question about your Q3 revenue guide.
+If I look back in time at your previous quarterly revenue guidance ranges, the difference between the high and the low in your guidance ranges is about $16 million and sometimes as low as $10 million.
+This quarter it's $16 million.
+Why are you taking the approach of having a big plus or minus 3% guidance range relative to the midpoint this quarter.
+And what's the difference between achieving the high and low end of that guidance range.
+I don't know.
+When we give the guidance, we just think it.
+Well, first we decide; what is the midpoint.
+Then, from there, we see; okay, how much potential variance could be.
+And, from there, we decide.
+But I hardly pay attention to the percent or something.
+To be honest, like I say, first thing we decide is what will be the midpoint and after we decide the midpoint then we say; okay, what kind of range we think the market fluctuation will be.
+And that's what we doing.
+So, I never really pay attention of what the real percent or what's the reason behind the percent variations.
+Well, before we purchased Pericom, we know their history.
+And if you go back to their history, they're more focused on improving the gross margin as a percent instead of focus on the pure revenue growth.
+And if you look at Diodes, we are different.
+Diodes is more on growth and try to keep the gross margin at 35%.
+Then, when we combined, when we purchased that, we all know that's their tradition and we all know that's what Diodes do in the past.
+So, now, move forward what we will try to do will be how to help them to grow.
+And that's what <UNK> just mentioned.
+The opportunity is there and we see a lot of synergy.
+And we see a lot of good opportunity for Pericom product to hit a better growth mode.
+But like I said, it takes time.
+Their product actually needs a lot of design win effort.
+A lot of FAE type of effort to help them.
+And it takes time to ramp it, too.
+So, we would like to have both.
+One is growth at the same time as we improve the gross margins.
+And so, that's our charge and it's our -- but we are good at that so I have confidence we will move the path of growth at the same time improve the GP.
+Alright.
+And I just had one last question.
+There has certainly been a lot of industry consolidation that's taken place.
+I think most of your larger competitors -- and I know this is a very fragmented market -- but most of your larger competitors have been touched one way or another from some type of industry consolidation.
+Has that helped the market environment for you.
+And how do you view that as an opportunity to consolidate market share looking forward.
+Good afternoon.
+This is <UNK> <UNK> calling for Tristan.
+Thanks for allowing me to ask a question.
+So, Dr.
+<UNK>, in your prepared remarks you mentioned you began to see improvements in the general market environment.
+So, could you provide more color on that.
+Is it more about the seasonality or is it improvement on top of the normal seasonality.
+I think when we see the improvement in the third quarter it's really it's seasonality.
+Okay.
+Because, typically, third quarter is a growth quarter from second quarter.
+And we see similar things now.
+Last year is the year, it's strange, when you go into the third quarter all of a sudden it slows down.
+So, third quarter last year actually slower than second quarter last year.
+But this year -- I just came back from Asia and when I see the Asia business and I feel it's much to go back to the old cyclical type of business models now.
+So, that's why I put it, say it looks like it's better.
+So, overall, from fab point of view, Diodes' fab including OFab and KFab that you can -- one is over, one is slightly under, so you can consider that it's about for the model overloaded at 85%.
+Okay.
+And the BCD fab is the one we still under-loaded, especially SFAB2, which start from zero from when we took over.
+And they gradually improve.
+Now it's up to 70%.
+But it's still not fully-loaded yet.
+From the packaging point of view, what we try to do would be move everything we can move to CAT into assembly side.
+So, what we'll try keep to do assembly side fully-loaded.
+Okay.
+And then, now the Shanghai AT side is under-loaded.
+It's about 80% and we think that all the upside will push it to CAT.
+So, CAT can partially continue increase and continue our fully-loaded.
+It's fully-loaded.
+It's about the customer, right.
+Customer, yes.
+So, from people point of view, especially sales people, by end of third quarter we should be all consolidated.
+But then, for the administration and then in the corporate entity and all these ones, it takes time.
+You probably don't know that, for example, in Asia for corporate entity they need to be signed from Pericom and rejoined Diodes.
+And when they do that they could choose not to accept the offer from Diodes and then cost a lot of problem.
+So, we take it very slowly.
+Hi.
+Yes.
+I would expect it to level off in the third quarter, yes.
+So, I don't think it is a concern.
+I think they just saw ramps in the beginning and some new products coming in so they put their inventory in a little early in this.
+So, I think it's in pretty good shape.
+Well, yes, I don't have the exact details of why R&D went down.
+But we buy masks and sometimes you buy masks and then you don't have that mask expense the next quarter.
+So, it's tends to fluctuate up and down from that standpoint.
+.
+Reversals.
+Those were just costs associated that we took out from a non-GAAP perspective because they're M&A-related.
+Okay.
+Thanks.
+Pericom's internal manufacturing is their crystal and their oscillators.
+And the crystal, majority of the crystal produced from Shandong Province in China.
+And then, in Taiwan, Jhongli, they produce some crystal but the majority of it, the majority of the output is oscillators.
+So, look at that is the two manufacturing sites they have.
+Majority of -- their IE is used in foundry wafer fab and then packaging silicon.
+Okay.
+But only crystal and oscillator is produced themselves.
+So, presently, right now, there are certain products where we've actually been doing some qualification internally.
+But, presently, right now, all of their subcontract product and subcontract fab is still where it was and will stay there for some time.
+And nothing has changed with the crystals since our purchase.
+Oscillator is the same.
+No big change.
+Okay.
+And wafer fab, we won't change it either because we don't have the capability to provide because that's all from the external foundry.
+Packaging, majority of their packaging is a subaccount.
+We don't have that packaging.
+We cannot move in.
+No.
+Yes, that's true.
+You are correct.
+Thank you.
+Thank you for your participation today.
+Operator, you may now disconnect.

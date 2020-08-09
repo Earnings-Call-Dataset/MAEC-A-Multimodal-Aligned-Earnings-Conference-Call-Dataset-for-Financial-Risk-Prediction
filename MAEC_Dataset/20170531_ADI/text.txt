@@ -1,0 +1,116 @@
+Question for Vince.
+I just want to follow up on your comments around automotive with Linear Tech.
+And more specifically, can you talk about how expansive your opportunity set is.
+If there's any examples of things that you think they will help you expand the content within automotive.
+Yes.
+So automotive for us is a story of continuing content gain here for both LTC and for ADI.
+So we see it as a key growth market for the combined companies.
+So I think we've talked before about ADI having great strength in emerging applications like, for example, 77 gigahertz radar -- LIDAR, infotainment with our A2B technology, for example, bringing new technologies into the powertrain, such as the rotational and linear sensing magnetic devices and, as the powertrain electrifies, being able to get our battery management technologies in there as well.
+So I think both LTC and ADI have a lot of complementary capability, for example, to the ADI signal chains that I've just talked about here, we're adding LTC power management capability.
+And the outcome of that is we can architect an optimized solution for each of the subapplications here for the automotive customers.
+And the -- there's great complementarity between the signal chain and the power chain.
+So I think that's looking very, very good.
+And also, there's a lot of new power management things that we're looking at independent of signal chains that LT will be instrumental in helping us nail down over the coming few years.
+So as I said, there's a tremendous amount of benefit in coupling power management with the signal chain.
+And every single application in which we play within the transportation automotive sector requires both signal chain and power management.
+So -- and what I'm seeing so far is a tremendous level of collaboration between the applications teams, the design teams in really grabbing the opportunities here with both hands.
+Yes, I guess, just a brief one, just on the integration.
+Good to hear that it's on track and kind of good start out of the gate.
+Just any comments in terms of culture, key people and any kind of milestones we should be aware of.
+Well, we've known that LT is a very, very high-quality company.
+And I've been obviously hands-on involved in the integration of the 2 companies.
+I'm very, very impressed by the quality of the people throughout LT, and I'm also very impressed with just how fast both companies are coming together to create something better than the sum of the parts.
+So right now, we're laser-focused on leveraging the combined strengths of both companies to generate this long-term profitable growth possibility that we know is there.
+And we are taking our time to really figure out -- and we're being been very, very patient at figuring out how to combine the leadership -- we've combined the leadership teams, but we're being very patient in trying to figure out what the best of both really means here.
+So I think to answer your question very directly here, <UNK>, we're culturally I think in good shape.
+Our values, as I've talked about many times before, the values around technology and business and customer are very, very similar.
+And in creating this best of both, we're actually leveraging the differences in the way the operating routines of both companies -- to draw from, to create something greater than the sum of the parts.
+So we're focused, as I said, on delighting our customers, ensuring that we're capturing the upside demand here.
+And I think overall, the -- once the values are compatible, as I said, I'm using the cultural differences to create something greater than the sum of the parts.
+And the LT leadership is playing a key role.
+I've got 2 members of the senior LTC staff on my staff.
+And the LT leaders are contributing to this new company multiple levels down at this point in time.
+Yes, thanks, <UNK>.
+I think it's true to say that, first off, we're recovering from a relatively weak environment in the prior year.
+So the compare is kind of easy from that perspective.
+From everything that we can tell right now, the growth is broad-based across all the industrial sectors and, in fact, across all the geographies as well.
+And I think that's just a function of the better business environment versus last year overall.
+And if you -- just paying attention to our own customers as well, they're all guiding for low to high single-digit growth in 2017.
+As a company, several years ago, we made a strategic pivot in terms of where we placed our R&D, putting more into B2B applications.
+And industrial has been a great beneficiary of that.
+So I think just given the cycles in the industrial sector, in general, we're beginning to see some of those products really contribute in a meaningful way across factory and process automation, aerospace and defense, the instrumentation ATE business.
+And so I think the business environment is overall better, but we're also doing better in terms of grabbing share through the effects of our new product investments over the last several years.
+Yes.
+Thanks, <UNK>.
+Well, we're-- as ADI organic, we've been doing better and better in terms of building solutions for our customers from antenna right down to bits, leveraging the strength of ADI and Hittite combined.
+And we know that as customers put greater and greater pressure on for more integration, to be able to solve the noise problems more effectively in these radio systems, that power management is going to be a great help to us.
+And already, I think in the shorter term, we're being actively engaged in discussions to use existing products with ADI solutions, for example, in the transceiver space, in 5G systems, leveraging LT's power technology.
+And that's only the beginning because, over the coming generations, when we can start to architect the radio solutions now with the new advances in power management technology that LT has been making, I think we can have several generations here of success in both the wired and the wireless business in the years ahead.
+And there's no doubt there's tremendous symbiosis between the signal chain technologies that ADI has been so strong in over the years with the power technologies that LT now brings to the table.
+So the conversations with our customers are very active and -- with existing products, and we're now plotting the next new architectures based on the combination of the 2 companies.
+Yes, it's a good question.
+It's true that both companies have had very, very strong focus on gross margin.
+I think it's a great kind of proxy for the quality of the innovation that you're developing, the price you can command and, ultimately, the gross margins that you can get.
+So what I will say is that ADI has probably just -- given our buying power and our operational focus, we have combined now with LT, we've got more buying power.
+So we can be more flexible in terms of taking some market share with products already available without sacrificing the margins, just given the signings of the so-called bill of materials that we're now sourcing across both companies.
+So we don't intend to drop our standards, but we do intend to be aggressive in terms of leveraging all the available products and technologies that we have to grow our business profitably.
+I think that's the way to think about it.
+Well, let me tell you, Chris, we've -- obviously, we've retained the search firm.
+And what I can tell you is that we're making excellent progress right now.
+My expectation is that we'll have a replacement named by the end of the fiscal year at the latest.
+But I'm quite optimistic that we'll be able to announce something quite well before then.
+So in the interim, I'm taking a very hands-on approach with the integration of L<UNK>
+And I'm also relying -- we've a terrific bench of people at ADI across all the facets of the management of the finance function of ADI.
+So we can -- we're very, very well positioned to ensure that we hit our targets in terms of the ongoing operation as well as the synergies.
+So synergies are on track, and we'll update you on where we are at the Investor Day in the latter part of June here.
+Yes, well, I think as we've talked about earlier on, the various markets all have different cycles in terms of uptake, design cycles and adoption cycles.
+But I think obviously every sector in which we play, including consumer, has an opportunity for ADI to draw Linear Technology power management for additional revenue opportunity and growth.
+I would say in the -- it's the medium term to see the effect anyway of leveraging existing products and getting any meaningful revenue growth from those products, it's probably a 2- to 3-year proposition as we've experienced as well with Hittite.
+But I think the areas that we will see meaningful growth in the medium term here will be automotive, for sure.
+I think the communications sector will see a good uptick in the medium term.
+Very judiciously, as well, we're looking at some consumer opportunities.
+So obviously, those hit probably sooner than any other sector of the portfolio we manage.
+And I think industrial is 3 years plus from here.
+So I think that's the way to think about the adoption of existing products and new sockets and the effect that we should see on revenue growth here.
+No.
+I think when we've talked about synergies, we've been very clear that we've acquired LT for all its capabilities in terms of technology and customer management, channel management, operations and so on, to drive revenue synergy over the long term.
+But -- no, I think as I said in the prepared remarks, I'm very pleased with the progress that we're making.
+We've -- we had actually executed a lot of the decisions on the $150 million of synergies in advance of combining the companies.
+And the synergies are well identified and the actions are in place to get the synergies executed.
+So my sense is it'll take us, during the coming year, to really see the effects of the synergies in our P&L from a cost perspective.
+And a little bit longer than that, I think, as I've just been talking about to get the synergies from the cross-selling opportunities.
+Yes, I think your point is well taken.
+I think originally, when we began talking about 5G, we were talking about it being a facet of our business in kind of 2020-plus.
+It now seems that we're obviously in trials right now with 5G, all the major application areas, all the major customers globally.
+So my own sense is that we'll begin to see, I think, a meaningful ramp in revenue in the 2019 kind of area.
+Maybe it's a little sooner.
+Maybe it's a little later, but that's my sense at this point in time that there's an aggressive pull-in at the carrier level as well as the OEMs to make faster progress in deploying 5G.
+Yes, I think just to add a little bit of color to what <UNK> has said, small cell is still a small activity from a market perspective.
+We're very, very well positioned.
+And I think it will start to accelerate somewhat during the course of the next 12 to 18 months and become a more meaningful part of the overall wireless story in communications infrastructure.
+Okay.
+Let me try and unpack.
+There were a couple of key questions there.
+I think, with Hittite, we knew that the technology was very, very strong.
+And ADI -- one of the big synergies we got from acquiring Hittite was just the channel reach -- the customer reach and the channel reach that ADI had that Hittite didn't have, so we've been able to leverage that to tremendous effect.
+We knew that the portfolio of products was very, very strong, so that's been a huge help to us.
+Obviously, we've been able to architect.
+We've been together now almost 3 years, and we've been able to architect some really new creative solutions in areas like aerospace and defense, phased array antenna, for example, these days, these new radar systems that are being deployed as radar systems digitize across the globe.
+Even in instrumentation, where a lot of the high-frequency systems require the combination of mix signal and microwave technology.
+Obviously, in the automotive sector where all these microwave technologies are being deployed, having the combination of ADI and Hittite there has been really, really powerful.
+So I think it's -- it was a case of a lot of products that needed a new channel and a lot of re-architecting of customer systems based upon ADI's signal processing mix signal strength and Hittite's Microwave strength.
+So what was the second part of that question.
+So, leverage to Linear.
+I think the approach we have on the best of both was also true with Hittite.
+We tried to figure out how to be patient, understand the world-class capabilities that Hittite had in terms of people and technology.
+And we've taken the very same approach with LTC.
+LTC is obviously a world-class company as well.
+So just being patient, listening to create something greater than the sum of the parts, build a whole new operating system across the company for speed and simplification.
+That's what we did with Hittite, and that's what we're doing with LTC times 5.
+Well, clearly we've been able to reduce the public company cost of the combined company.
+That's one of the things that's been executed pretty much straightaway.
+I think we had talked before as well about an early retirement program that we had put in place at ADI, and we begin to see the benefits of that fettering in over the next couple of quarters.
+But the -- and obviously distribution channel optimization as well that we had talked about before, that will start to show benefits to us I think towards the back end of this year and the early part of the coming year.
+So they're just 3 or 4 examples of the things that we've already got in play that we'll start to see the benefit of.
+And all the other synergies are identified.
+And we've got the actions in place, and we're now just ready to realize them.

@@ -1,0 +1,194 @@
+Thanks, Andy, and thanks to everyone for joining us on the call today
+As you have all seen, we have just announced that I will be stepping down as CEO of HPE at the end of Q1. Antonio Neri, HPE’s President will become President and CEO and join the HP Board on February 1, 2018. I will remain a Director on HPE’s Board
+I said for many years that the next leader of HPE should come from within the company and Antonio Neri is exactly the type of leader I had in mind
+Antonio is a 22-year veteran of our company who began his HP career as a customer service engineer in the EMEA call center
+He is a computer engineer by training, has a deep technology background and is passionate about our customers, partners, employees and culture
+The Board unanimously agreed that Antonio should be my successor
+This transition is possible because of all the work we have done during the past 6 years to transform HP
+Many of you will recall the challenges the company faced when I became CEO and will recognize how far we have come
+During the first couple of years, we focused on strengthening the company across a number of metrics
+We stabilized and strengthened the leadership team, improved productivity and reinvigorated the culture
+We significantly improved customer satisfaction driving NPS scores from negative in some cases to an industry leading 80 for our services today
+And we pivoted hard back towards partners, rebuilding our entire partner ecosystem and shifting resources to this critical go-to-market channel
+We also rebuilt our balance sheet paying off the nearly $12 billion of operating company net debt that existed when I joined the company
+I am proud that today HPE is exiting the year with nearly $6 billion in net cash
+Most importantly, we reignited innovation and delivered groundbreaking new technology solutions
+For example, we invested in the machine research project, which is focused on creating an entirely new computing architecture for the Big Data era putting memory at the core
+We introduced the first prototype earlier this year and have also begun incorporating certain technologies from the project into solutions available today
+From a much stronger position, we then looked at our portfolio and made a number of strategic decisions to further sharpen our focus and accelerate performance
+The first critical step was the separation into two independent Fortune 100 companies, HPE and HP Inc
+This was exactly the right decision, because it allowed both companies to optimize for strength and invest in core strategies
+From there, we further separated the company by spinning off and merging our enterprise services business with CSC creating the world’s largest pure-play IT services company
+Next we spun off and merged our application software business with Micro Focus creating the seventh largest pure-play software company in the world
+The ES and software transactions delivered more than $20 billion in value for HPE and our shareholders
+We also made a number of smaller divestitures, including Tipping Point and Mphasis and we divested 51% of our China business to Tsinghua Holdings creating New H3C Group, the leading Chinese provider of technology infrastructure
+This unique approach has put us in a strong position to capitalize on the second largest IT market in the world
+We also made a number of strategic additions to strengthen our portfolio in key growth areas
+For example, in hybrid IT, we acquired SGI to strengthen our high-performance compute business, SimpliVity to bolster our hyper-converged offering and Nimble Storage to complete our storage offering from entry-level to the high-end and accelerate our transition to all flash
+We acquired Aruba, the leader in wireless networking, which has become the heart of our intelligent edge strategy
+Since then, we strengthened Aruba with Niara bringing machine learning and big data analytics to network security and Rasa Networks for network performance management and analytics
+And we have also enhanced our services capabilities
+We acquired cloud technology partners to extend our cloud consulting expertise and Cloud Cruiser to enhance our IT consumption models like our flexible capacity offering
+All of these acquisitions are highly complementary to our core business
+These companies are all in growth markets and we are accelerating their performance by leveraging our go-to-market channels
+We also continue to invest organically and introduce exciting new products and services
+For example, we launched the industry’s first composable offering called Synergy, and we now have more than 1,100 customers on the platform
+In high-performance compute, we launched Apollo, which is helping to bring supercomputing capabilities to the enterprise
+To address the explosion in industrial IoT, we launched our highly differentiated Edgeline Converged Systems
+With security becoming a board level issue, we launched the industry’s most secure standard server
+And beyond product innovation, we continue to introduce new service offerings like our flexible capacity, which provides flexible pay-per-use IT for customers
+The industry recognizes the progress we have made
+For the first time, HPE is a Gartner Magic Quadrant leader in all of its core business categories
+As a whole, these moves have paid off and I am very proud of the shareholder value we have created along the way
+HP and then HPE have returned nearly $18 billion to shareholders through share repurchases and dividends since 2012. And since the birth of HPE on November 2, 2015, we have delivered a total shareholder return of 89%, which is more than three times that of the S&P 500. I know Antonio will have the same focus on delivering value for our shareholders going forward
+By fixing, improving and reposition the company I joined, HPE has worked its way into a strong competitive position ready to drive the next phase of shareholder value and you are starting to see the payoff in our results
+In Q4 FY ‘17 we grew revenue 5% year-over-year capping a full year FY ‘17 where we grew the top line 1% when adjusted for currency and divestitures
+We have stabilized our core rack and tower server business, which grew 6% and 7% year-over-year in Q3 and Q4 respectively
+Services grew 3% in Q4 and our investments in key growth areas like the intelligent edge, high-performance compute and all-flash storage are clearly paying off
+Aruba performance continues to accelerate and outpace the market growing 19% in Q4 and 22% for the year
+Our high-performance compute portfolio is the best in the industry and we continue to win deals and extend our market leadership position
+HPC was up 28% in Q4 and 37% for the year
+From a profitability perspective, we are on the right track towards getting margins back to historic levels despite continued challenges in commodity pricing
+In Q4, EG margins improved sequentially for the second quarter in a row to 10.6% as we executed our cost takeout plans and shifted resources to align with our market segmentation
+We are confident in our ability to achieve our full year target of 11% to 12% in FY ‘18. At every turn, HPE is preparing itself for the future
+In Q4, we moved into the execution phase of HPE Next, our program to redesign the company to be purpose built for today’s and tomorrow’s competitive environment
+HPE Next is all about simplifying the way we work, driving execution and investing in innovations that will differentiate our solutions in the years ahead
+While executing HPE Next, we made sure to minimize disruption to the business and particularly our sales force
+I am very pleased that we saw no disruption in Q4. In fact, HPE Next has galvanized the entire company around our vision to drive tremendous value for customers, partners and ultimately shareholders and all of this is being driven by the strong leadership team we have in place
+In addition to Antonio, I hope it was clear at our Analyst Day last month what a deep leadership bench we have with Alain Andreoli, running hybrid IT, Ana Pinczuk, running Pointnext Services and Keerti Melkote, running Aruba, Phil Davis, our new Chief Sales Officer has already brought tremendous energy to the new role, and Irv Rothman continues to do an excellent job running financial services
+Together, this team has owned and refined our go forward strategy which is crystal clear and laser focused
+First, the world is becoming hybrid and we make hybrid IT simple
+We do that through offerings that help customers optimize their core IT environments with secure software-defined technologies that seamlessly integrate across traditional IT and multiple public and private clouds
+Hybrid IT will give customers a new level of transparency and manageability for all their applications and data from the core to the cloud to the intelligent edge
+But our vision doesn’t end there
+Simplicity ultimately means IT that is invisible and autonomous and that is exactly what we plan to deliver
+To that end just this morning, we announced that we have rolled out HPE InfoSight, our highly differentiated predictive AI technology across our entire 3PAR portfolio
+This is going to be a game changer for our storage business
+HPE InfoSight, which came with the Nimble acquisition, is the industry leading predictive analytics platform that brings software-defined intelligence to the data center with the ability to predict and prevent infrastructure problems before they happen
+Leveraging advanced machine learning, HPE InfoSight is the next step in our vision for an autonomous data center
+And next week at Discover Madrid, we will officially introduce Project New Stack
+New Stack is all about what our customers want most, simplicity and control
+It’s a hybrid IT management platform that lets you deploy, operate and optimize public cloud and on-prem private cloud environments through a simple and unified experience and it will accelerate app development and deployment with integrated DevOps capabilities
+This is what our customers have been asking for and no one else in the market can match the platform we have created
+Second, we power the intelligent edge
+We have highly differentiated offerings in this area that are helping customers drive a revolution across their business from the factory floor to the retail store, whether it is with our wired and wireless connectivity offerings from Aruba that allow customers to securely connect edge environments and drive new experiences for their customers, employees and new revenue streams for their bottom line, our Edgeline Converged Systems that bring storage and compute directly to the source of the data that needs to be analyzed or our universal IoT software platform that seamlessly integrates data from disparate IoT systems at massive scale
+These are all areas where we are well ahead of the market and the industry is taking notice
+Earlier this fall, Aruba was named a leader in Gartner’s Magic Quadrant for wired and wireless networking and placed first provision
+This is the first time that Cisco has ever been displaced from this position
+Third, services are more critical than ever
+More and more everything we do is driven by our services expertise across advisory, professional and operational services
+We are also seeing growing interest in consumption services as our customers look to us for financial flexibility through pay-per-use models
+Our offering in this area, Flexible Capacity is different than anything else on the market
+Through our services led solutions, combining hardware, software and financing, we make operating IT simple and elastic and because we offer pay-per-use model based on metered usage, customers never overpay on technology they don’t use
+Look out for more news in this area at Discover next week
+Let me say in closing that it has been the privilege of a lifetime to lead the company Founded by Bill Hewlett and Dave Packard
+I am proud of what we have accomplished during the past 6 years
+We have laid out a strong foundation for a prosperous future and now is the right time for Antonio and a new generation of leaders to take the reins
+I look forward to experiencing HPE’s progress as a board member and I am very confident that Antonio will enjoy tremendous success
+And now, I will hand the call over to Tim who will provide details on the financial results
+Yes, so – it’s Meg, the storage revenue was up 5% driven by the Nimble acquisition and as you said the all flash arrays grew 16% with Nimble was up over 80%
+So a good performance overall, but as Tim mentioned 3PAR performance was soft due to I think a very tough competitive environment in the – in the mid-range and then some sales challenges in the United States
+So we are taking action
+We are combining the Nimble and 3PAR storage sales teams which is going to give us more critical mass there and that’s going to be led by Keegan Riley, who led sales at Nimble
+And we are also going to aggressively add some more specialists to the field
+So I think you hit it right on the head a little weakness in the U.S
+and we are fixing it
+Yes
+No, I think you have got this exactly right
+Servers had another strong quarter outside of Tier 1. Remember, we had quite a large Tier 1 service provider business that had a fair amount of revenue, but not much profit associated with it, but outside that, it grew 6% and I think that was execution, market improvement and some good traction in our higher value offerings
+So in addition to stabilizing core rack and tower we are pivoting hard to our value and growth offerings like HPC, Synergy, SimpliVity, etcetera
+But you will see some declines in the server business next year as that Tier 1 business continues to bleed off
+So, why don’t you take ex-Tier 1 server growth and I will take the other question
+Great
+And then listen, our Gen10 server, which is on the new Intel chip called Skylake, is off to a good start
+There is some concern in the industry that because there is not quite the features and functionality advancement that there normally is in their tick-tock that, that might be a slower ramp, but thus far we are not seeing that
+So, we are cautiously optimistic about Gen10. What I will say about – based on Skylake, what I will say about Gen10 is we have a real point of difference in Gen10 which is we have produced the most secure server in the world
+Security is built in as a root of trust into the silicon
+No one else has anything like this and this is making a real difference, because security continues to be an enormous issue for everyone
+So let’s stay tuned on Skylake
+We are not seeing any diminution of that tick-tock, but we will have to see how it plays out
+So, Tony, I would say there hasn’t been a change in sentiment
+What I think is absolutely true is Antonio is ready to take the reins and go the distance
+And if you think about it, we have a much smaller, much nimbler, much more focused company
+And I think it is absolutely the right time for Antonio and a new generation of leaders to take the reins
+We have got a very good leadership bench
+We have got a strategy that is crystal clear and focused
+And Antonio is a deep technologist
+And I think I have added a lot of value here in terms of shareholder value creation, financial restructuring, nice ignition of the innovation engine, but the next CEO of this company needs to be a deeper technologist and that’s exactly what Antonio is
+He has been with the company 22 years
+He is a trained computer engineer and has worked in almost every business of this company
+So, I just think it’s the right thing
+And I also think Antonio is going to lead the next phase of value creation
+We have created a lot of shareholder value here
+I think over 220% shareholder value from right before the announcement of the turnaround in the fall of 2012, just HPE alone 89% increase since the separation, which is three times the S&P 500 and HPE Next and the simplification of our business and the execution of the strategy that Antonio and I put together between the two of us, he is going to lead that next generation of shareholder value creation
+The other thing I’d add to that Toni is this strategy to pivot to the value in the growth segments of our portfolio is absolutely critical because, just a mix shift of a couple of percent actually increases the operating margin
+And we anticipate that that will happen as we realign the sales force, as we focus marketing on the value and growth segment and we realize the potential of – of the portfolio
+I would say the competitive pricing environment is maybe slightly mitigated, but it would be hard for me to gauge that, because it varies by country, it varies by product line and it shifts from month-to-month and quarter-to-quarter
+So while I would say overall, there’s been some mitigation in that pricing environment I would not say it is universal and we’re not counting on that for the delivery of our operating margin in 2018. And then DRAM pricing appears to now be leveling out and you talk to people in the industry, it appears that supply is now beginning to match demand there is going to be more supply I think from the key vendors of memory and so we’ll see what happens
+We are not counting by the way on to deliver our results on a drop in DRAM pricing, we’re also not counting on another 15%, 20% increase in DRAM pricing, but we feel pretty good about the way where we are and I got a lot of confidence that we are going to hit our $1.15 to $1.20 and the 11% to 12% operating margin
+Yes, good question
+So during Q4,we moved aggressively from the design phase of HPE Next to the execution phase of HPE Next and we are very focused on minimizing disruption particularly with the sales team, but other areas as well
+And so we’re leveraging a lot of the best practices that enabled us to deliver our recent separations on time, on budget it was the divestiture management office approach or the separation management approach
+And so in Q4, we’ve already begun implementing the sales changes, I mean those are done actually we started in November 1, with a lot of changes, but we did a lot of changes in Q4 as well
+We dismantled actually the region overhead structure, we refocused our sales force, we put more specialists in the field and we saw no impact to frontline sales from those changes that we made in Q4. So that gives us confidence
+And they went started November 1, all firing on all cylinders with the new organization and with a couple of months under their belt
+So we feel pretty good about that
+Outside the storage challenge in the U.S
+was largely around not enough specialists in the field and frankly we need more scale in our storage sales here and combining Nimble and 3PAR under Keegan Riley, I think is going to really help here
+And lastly <UNK>, I would say we didn’t talk about it much, but Hurricane Harvey disrupted our supply chain in a reasonably dramatic fashion
+Tim mentioned, it was $93 million of cost to recover from Hurricane Harvey and that does not include Puerto Rico
+And so we had to divert a lot of our Houston manufacturing to Europe and then airfreight those products back into the United States
+So, we have announced that we are no longer going to be manufacturing in Houston, any U.S
+required manufacturing will be done in Chippewa Falls, Wisconsin and then we are redistributing our manufacturing to locations around the world
+So, that was another part of the weakness, some weakness in Q4. The good news is we go into Q1 with a nice backlog, because we just simply couldn’t turn the supply chain on a dime
+So, we have got a really nice backlog going into Q1.
+Yes, let me answer the strategy question
+So, the strategy will remain entirely consistent
+It was crafted by Antonio and I
+he has been leading HPE Next
+So, I don’t think he is going to lead another one in terms of reinventing that
+And we are completely aligned on the strategy
+As is the sales team, as is the entire organization and by the way it’s working, you can see it working in the field
+So, you can expect entirely consistent strategy from Antonio
+Yes, so what I would say is that HPE is a whole lot more relevant to customers and partners then it was
+This was an enormous conglomerate and you would go in front of customers he’d be talking PCs Superdome Integrity X servers, Enterprise Services, Software and they weren’t sure what we stood for and it was just way too broad and we were not executing with the right R&D against any of those segments
+So now HPE is more relevant they know what we stand for and the core value proposition is the software defined data center on-prem with public cloud like economics
+This whole moved to flexible capacity and a pay-per-use model is actually encouraging people to say, do I need to move every workload to the public cloud
+And then our new stack offering, our new stack announcement discovered next week, I think it’s going to be a milestone and a cap stone in some ways to the innovation and agenda that’s we’ve driven over the last 6 years
+So I’d say that those are the main things, I would also say the speed at which we move this company was a slower company then I would have like to seen 6 years ago, and now we jump on opportunities on problems it’s far more nimble, far more agile and I think you frankly just a better run company than it was 6 years ago
+And I think you mentioned that but just it’s important to note that the number of these acquisitions when we acquired them, were actually losing money and so we have now worked that of and I think virtually all of them will be accretive in 2018.
+So, we can’t
+I don’t think we will quantify that on this call
+What I would say is I think the sales team is hitting the ground running on storage
+Phil Davis who is our new Head of Sales comes from a storage background
+So, I think you will naturally see him pivot harder to storage than perhaps some of our earlier sales leaders
+And so I think you will see improvement in the U.S
+And by way, we did very well in EMEA, very well in APJ
+So, I think you will see an improvement in the U.S
+So, first of all, I am going to work with Antonio through the transition at the end of January and then I will be a very active board member
+And actually after a 35 year nonstop career, I have actually come to take a little downtime, but there is no chance, I am going to a competitor, no chance
+Listen I have to say I become quite loyal to Hewlett-Packard and to Hewlett-Packard Enterprise, I love this company and I would never go to a competitor
+Yes
+So, listen I think the storage business is benefiting from the explosion of data and we are seeing that every single day
+We are also benefiting by storage becoming embedded in server architecture
+InfoSight I think is going to be a major game changer for our storage business is part of the reason that Nimble is growing at 80% is because it’s AI for the storage arrays in a way that does predictive analytics and predictive maintenance
+With regard to acquisitions, you know what, when I came to this company I think we had a somewhat less than stellar reputation on acquisitions
+And I think the acquisition profile that had been successful for us whether it’s Aruba or SimpliVity, etcetera is the following
+Is there a complementary technology to one that we already own that can benefit by being – by leveraging our distribution channels, listen Aruba has accelerated its growth rate under HP, because we can introduce the Aruba product line to customers
+They had no way to get into before and also customers tell me everyday that they buy Aruba, because it’s not a standalone small startup company, it’s backed by big HP from a service perspective, from a warranty perspective etcetera
+So, those are the kind of acquisitions that we look at
+So, if we found something that we thought was important in the storage business that benefited from our distribution channel and we saw a good business case and it was priced right, we might think about doing it
+But I think you have seen Tim and I would be very disciplined about acquisitions, returns based by the company right and have a very clear business case, whether it’s cost take-out or acceleration
+And I promise you that Antonio and Tim will continue that disciplined approach to acquisitions
+And I will be on the board to make sure they do
+Yes, so you are right
+Aruba, both wired and wireless, has had a really great fiscal year ‘17. And the thesis when we bought Aruba was the wireless would actually drag along the wired and that has actually turned out to be the case, particularly in the United States, where the wired portfolio had a great ‘17 in a particularly strong Q4. Increasingly, we see demand for Aruba on a flexible capacity model
+And just like any other product that we sell, we are happy to do a flexible capacity model pay-as-you-go, annuity-based revenue stream for people who want to buy that way for Aruba
+We also I think are benefiting from the Gartner Magic Quadrant that I referred to or Tim referred to in the script where we are for the first time a leader in networking in the vision category and it’s been – this is the first time in three decades that Cisco has not owned that top spot and we can feel the momentum in the marketplace
+So, listen a number of our competitors are talking about a clone of flex capacity, would we dig into it, it is actually not the same thing as we are offering, it’s not entwined with services and it’s not – it’s really just sort of glorified leasing model and that’s different from what we are offering
+So, we think we have a competitive advantage
+With regard to Arista, so that partnership continues to go along
+We are opening up our channel in our direct sales group to the data center opportunity
+And I think it’s going along nicely
+I think we can do better
+At the moment it’s going along quite nicely and I think we are both pleased with where we are, but there could be more there

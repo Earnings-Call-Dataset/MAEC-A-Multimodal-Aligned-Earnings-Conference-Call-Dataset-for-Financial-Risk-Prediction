@@ -1,0 +1,158 @@
+Thank you, <UNK>, and thank you, everyone, for joining today's call.
+For the first quarter of 2015, Netgear net revenue was $309.2 million, which is down 11.5% on a year-over-year basis and down 12.5% on a sequential basis.
+The decline in revenue is due to the exiting of certain service provider business that does not meet our financial metrics, as discussed in our previous earnings call, as well as the negative impact of the strengthening dollar on our international business.
+I will expand upon this further in a moment.
+Non-GAAP diluted EPS for the first quarter of 2015 was $0.46, which is down 22% year-over-year.
+Our EPS was negatively impacted by the decrease of international revenue and profits, which <UNK> will discuss during her section of the call.
+For a full reconciliation of GAAP to non-GAAP financial results, please refer to the first quarter 2015 earnings press release.
+During the first quarter, net revenue for the Americas was $173.8 million, down 10.8% year-over-year, and down 10.7% quarter-over-quarter.
+Revenue in the Americas was primarily impacted by our exiting of certain service provider business that did not meet our expected level of profitability.
+Both the retail business unit and commercial business unit's performance in the Americas during the quarter met expectations.
+Europe, the Middle East and Africa, or EMEA, net revenue was $89.1 million, which is down 16.6% year-over-year, and down 16.1% quarter-over-quarter.
+We had expected the strengthening U.S. dollar to negatively impact EMEA results when translating revenues from local currencies into U.S. dollars.
+In addition to that, Europe underperformed more than expected due to increased volatility in the region's pricing environment.
+We believe this pricing volatility is a reaction to the fluctuating exchange rate and will continue for the rest of the year until the exchange rates are stabilized.
+Our Asia Pacific, or APAC, net revenue was $46.3 million for the first quarter of 2015, which is down 3.3% from the prior year's comparable quarter, and down 11.5% quarter-over-quarter.
+Similar to EMEA, our results for APAC were negatively impacted by the strengthening U.S. dollar as forecasted.
+All three BUs performed well against our targets in APAC.
+Overall, other than managing our service provider revenue to a reduced, but more profitable, level of $100 million to $105 million a quarter, we have seen renewed difficulty in our European retail and commercial businesses because of the continuous upward trend of the U.S. dollar exchange rate in a sluggish economy.
+In Q1, we shipped 5.7 million units.
+We also introduced 19 new products during the quarter.
+As always, sales channel development is the key focus for the Company, as our sales channel remains a critical strategic asset.
+By the end of the first quarter of 2015, our products were sold in approximately 44,000 retail outlets around the world, and now the number of value added resellers stands at approximately 33,000.
+Now let's turn to our review of the first quarter results of our three business units - retail, commercial, and service provider.
+For the retail business units, or RBU, net revenue came in at $121 million, which is up 2.3% on a year-over-year basis, and down 18.2% sequentially.
+While RBU performed well in the Americas and in APAC, the environment in Europe has been challenging.
+I'd like to highlight our launch of the Arlo Smart Home Security Camera has been very successful.
+A big congratulations is due to the entire Arlo team that worked so hard to bring such an impressive and innovative product to market.
+Sales and customer interest among the very limited set of retail partners we had in Q1 are very encouraging.
+We look forward to building on this success by expanding the channel and regional reach of the Arlo Smart Home Security Camera in the coming quarters.
+As we continue to ramp our production capacity to full speed, we expect to reach full channelwide and worldwide distribution of Arlo cameras during Q3.
+The commercial business unit, or CBU, generated net revenue of $72.7 million for the first quarter of 2015, which is down 7.8% on a year-over-year basis, and down 8.4% sequentially.
+While we were pleased with CBU's performance in the Americas and APAC during the first quarter, which was driven by the switching category, our Q1 results show declines due to the headwinds caused by the strengthening dollar in Europe.
+The commercial business started the new year with the introduction of two innovative switches.
+At the low end we introduced the Click Switch, which allows for innovative mounting and cable management with USB charging ports.
+It is ideal for conference rooms, cubicles, and home theater rooms.
+I'd like to highlight that the Click Switch was recently awarded a prestigious Red Dot Product Design Award by an international panel of 38 design experts in Essen, Germany.
+At the high end we introduced the M6100 Chassis Switch, which we believe is the world's best priced performance chassis switch with the densest 10 gigabit configuration for under $10,000.
+While it will take time for sales to ramp for both of these new switches, we are optimistic that they will be drivers for CM--CBU's performance in the second half of the year.
+For our service provider business unit, or SPBU, net revenue came in at $115.5 million for the first quarter of 2015.
+This is down 24.2% year-over-year and down 8.3% on a sequential basis.
+As stated on our prior earnings call, we had expected SPBU revenues to decline in Q1 as we have exited certain service provider businesses that did not meet our profitability metrics.
+Specifically, we have seen a decrease of service provider investment in the mature wireline technologies, and our competition in this market segment has been willing to take deals with low or negative profit margins.
+We on the other hand have chosen to pass on such deals.
+During the first quarter, we received additional orders above our original plan from various service provider customers that allowed us to deliver upside to our forecast.
+Nevertheless, we continue to expect that SPBU revenue will be approximately $100 million per quarter for Q2 and the remainder of the year.
+The restructuring of the service provider business unit is ongoing as we continue to work on bringing SPBU's expenses in line with this new revenue run rate.
+We expect that SPBU's restructuring activity will be completed by the end of the second quarter.
+While we are throttling back our investments on the mature wireline side of the business, we continue to strategically invest in newer technologies such as LTE, where we expect future service provider spending to flow.
+We are also developing cutting edge DOCSIS 3.1 and VDSL products, but only for select wireline customers where we know that we can add value and be profitable.
+We continue to believe that Netgear can offer service providers unique value and expect that we can improve the profitability of the service provider business over time.
+While we are currently challenged by our reduced revenue outlook, we continue to maintain a high level of R&D effort to ensure future profitable growth with innovative products, as demonstrated by the initial success of Arlo.
+We continue to maintain our market leading position in 802.11ac WiFi routers and gateways, WiFi extenders, and WiFi cable gateways sold through retail.
+On the commercial side of the business, the introduction of the Click Switch and the M6100 chassis switch proves that we are still the market leader in SMP switching.
+Meanwhile, SPBU was focused on being first to market with the latest LTE technology and delivering cutting edge DOCSIS 3.1 and VDSL products for our long term profitable accounts.
+All in all, we believe we are effectively navigating a choppy macro environment and making the right decisions to ensure the growth and profitability of the Company in the quarters to come.
+I will now turn the call over to <UNK> for further commentary on our financials for the quarter.
+Yes.
+Primarily right now, it fosters the line of business.
+I think we have different customers and different accounts.
+And certainly, if there is any opportunity that is left open, we would definitely be interested and going to take advantage of it.
+For the time being, I think our best winning chance is really focus on our innovative products, lines that will be based on the best WiFi, like the Wave 2 WiFi, as well as the DOCSIS 3.1.
+We believe that as long as we continue to maintain the product leadership, opportunities will open up.
+You're right.
+I mean, it is definitely a big challenge on a year-over-year basis.
+Both euro, Japanese yen, and Australian dollars have depreciated somewhere between 15% to 20%.
+And a lot of our competition in those markets were local, which are priced in the local currency.
+So either we lowered our U.S. dollar prices or we have to price at local currency, which means that there would be a big hit in the top line when we transfer it back into U.S. dollars.
+But an even bigger hit is on the margin.
+We estimated that on a constant currency basis we are losing about 240 basis points in operating margin because of this currency fluctuation year-over-year.
+So that's a big thing to overcome.
+So we're taking it in three aspects.
+The first aspect, of course, is to work with our supply source to constantly reduce our costs, so that we'll be able to cushion this big hit.
+But of course, it would take time.
+So we expect that it would take another quarter or so, so that we can bring the costs in line with the current exchange rate.
+And then, the second piece, of course, is try to really shift the mix of the products.
+And we would like to shift the mix of the products to the ones that we have higher margin, which are generally the newer, more innovative products.
+So that would help to really rebalance our portfolio towards more higher margin products.
+Third is to really introduce newer products that we could price at a higher margin price point.
+And that's why we made the decision that in Q2 despite the challenge of the top line we will maintain our R&D dollars level, so that we'll be able to bring newer products that will carry a higher margin into those markets.
+We've seen the success of this strategy in Asia where the economy is actually doing better, so our customers in Japan, in Australia, in China, are really receptive to our newer higher end, higher priced products.
+In Europe we are seeing less success of that.
+So we need to in Q2 and Q3, for the rest of the year, to offering--to using some more innovative products that might be of middle price point, but still high margin, to attract our European customers to buy into it.
+However, overall, we believe that the Arlo line is going to be a really interesting opportunity for us.
+The indication in the limited distribution in the U.S., in North America in Q1, indicates that it really fits the desire of many smart home users.
+And we're starting to put it into limited distribution in Europe.
+And this indication is very encouraging.
+So we'll continue to use these innovative products to really offset the headwinds of currency.
+But it will take time.
+However, we are looking forward to the second half when all these new products are fully in place and they will help us to offset the currency headwind.
+As a matter of fact, I was very encouraged by the feedback from the users.
+If you go to Amazon, which is our limited retail partner, and half of the Best Buy stores, and you could also get some feedback on BestBuy.com.
+I think the biggest differentiation of ours versus all our competitors is in the super ease of installation and use.
+If you look at that, I mean, we have a patented technology that put us uniquely that we would be able to operate these cameras by battery, which nobody else could do.
+By using battery, we are able to produce a camera that is very small and is weatherproof.
+You could use it--you could install it outside, outdoors, with ease without having to look for power, without having to look for protective gear.
+And furthermore, we added night vision to it.
+So when you combine all of that, it is very difficult for anybody to duplicate.
+And we have really good patents to protect--all of these technologies come together.
+So quickly we've seen that our market share has shot up in the first quarter in the U.S. We're not in the top three as yet.
+But we fully expect that we'll be in the top two by the second half of this year because of that unique differentiation.
+And as a matter of fact, in Asia Pacific and in Europe I don't think that the Drop Cam from Google is a major competitor because in those countries there is no unlimited data plan for most of the internet users.
+And given the fact that Drop Cam records 24/7 to the cloud, it would be very difficult for them to compete against us when we only record when there is motion.
+So we're pretty confident that we have a very unique differentiation that we will be able to attract customers.
+And the initial indication is very encouraging.
+It's all four stars no matter where you look.
+So in the Amazon review and in the BestBuy.com review.
+Hi.
+It's actually from multiple customers.
+It seems like these multiple customers ran some promotions through their install base.
+It involves 11ac routers.
+It also involves high end gateways--cable gateways, and also our Air Card Mobile Hot Spot.
+So from multiple customers, from multiple geographies, that they actually ran some promotions in Q1 to attract subscribers which require a bit more than planned quantities from us.
+The bulk of the drop off is in the service provider side.
+So that's a big drop off in units.
+And on the commercial and RBU side, commercial practically has very little drop off in units.
+In the RBU side, on a sequential basis it's primarily driven by the number of selling days also.
+There are four left selling days in Q1 versus Q4.
+That affects the shipment units.
+That is true.
+But then on the other hand, if the gap widens there is a point that people aren't going to--willing to pay the difference.
+We have no choice but to keep the local currency gap constant, which means that we have to drop prices in U.S. dollar terms.
+That put headwinds on both the units as well as the--I mean, not the unit, but on the dollar, as well as on the margin.
+So that's why we're trying to mitigate that by really looking at the source, by reducing our cost of acquisition of those products, and also by shifting the mix and as well as introducing new products.
+The first one is the 11ac penetration in North America is significantly better than in Europe, as I talked about earlier.
+The U.S. is pretty much close to 65% to 70% 11ac, as I predicted in previous earnings call.
+By Christmas this year, probably 90% will be 11ac.
+Europe is significantly behind that.
+They are less than 40% 11ac, which really hurts our position over there because we're all spearheading towards 11ac while competitors are more into the 11n yet.
+So we expect that when we introduce a little bit moderately price 11ac--because our 11ac products today are primarily in the high end.
+AC is 1650 and above.
+But starting in Q2 we are starting to introduce ac750, ac1200, more low end products into Europe that probably would be the right approach that we should have taken a little bit--while ago.
+But now we are there, so we believe that our position in Europe will be strengthened.
+And it would help the market to move to 11ac a little bit more.
+However, we still believe that Europe will be lagging behind.
+By Christmas they will still be probably 40% at 11n and 60% 11ac.
+So Asia Pacific is pretty much like the U.S. phenomenon.
+It has all moved to 11ac, while we are primarily in the high end, while the local vendors are primarily in the low end in the 11ac 750.
+So Europe is definitely the laggard.
+So that's where we're at from the 11ac penetration.
+I forgot about the second question.
+Could you repeat that.
+No.
+On the high end 11ac router the price erosion is pretty minimal.
+If you go to Amazon.com you would see that most of our 11ac products are probably at the most $10 off from it was introduced.
+If you look at the R7000, which is our flagship Nighthawk, today I just looked on Amazon and I think it sold at $189, versus what we introduced, $199, about two years ago.
+And then, the Nighthawk X6, which is our top end, I think is--the last I looked is still selling at Amazon at $289 versus our $299 price point that we introduced about a year ago.
+Sure.
+Yes.
+What I would like to say is that we're confident in the pipeline of new products of the three business units in the second half on the RBU side.
+Clearly we are very excited about Arlo--further products from the Arlo line, as well as from the Nighthawk line in the second half.
+And then, on the CBU side, there'll be more introduction on the 10 gig and POE switches, together with a refreshed line of Ready Now.
+And then, on the service provider side, we are still going to be first to market for the next generation Cat 9 products of LTE.
+And that's why--I mean, we believe that our prudent staff are protecting the R&D dollars for Q2 would really benefit us in the long term.
+And we expect that when those products hit and the existing Arlo camera gets full distribution in Q3, we will see a much better outlook for the second half of this year and beyond.
+And I look forward to report that progress back to you in the next earnings call in July.
+So in the meantime, thank you very much for joining us today.
+And look forward to talking to you again in July.
+Thank you.

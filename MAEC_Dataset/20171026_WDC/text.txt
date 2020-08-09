@@ -1,0 +1,90 @@
+Good afternoon, and thank you for joining us
+With me today are Mike <UNK>, President and Chief Operating officer; and <UNK> <UNK>, Chief Financial Officer
+After my opening remarks, Mike will provide a summary of recent business highlights, and <UNK> will cover the fiscal first quarter and wrap up with our guidance
+We will then take your questions
+We reported continued strong financial performance in the September quarter, demonstrating the power of our platform and underscoring the differentiated value we can deliver, as a comprehensive data storage solutions leader
+For the September quarter, we reported revenue of $5.2 billion, non-GAAP gross margin of 42%, and non-GAAP earnings per share of $3.56. We generated strong operating cash flow, reflecting continued healthy demand in our end markets, most notably in our flash-based businesses
+With unabated growth in data creation leading to new challenges and opportunities for our customers, our transformation continues to resonate in the marketplace
+I would now like to spend a few minutes reviewing where we are with Toshiba
+There has been significant media coverage around this situation, and a lot of it is speculative
+So, as a starting point, I want to emphasize that the JVs continue to operate efficiently and productively, which we intend to maintain
+The JVs benefit from the best talent in the industry, and we are deeply appreciative of the professionalism, focus and dedication exhibited by the teams from Toshiba and SanDisk
+From the beginning, our number one priority has been ensuring the longevity and continued success of the joint ventures
+That is why we have invested so much time and energy into finding a resolution, one that respects our partnership, and resolves this matter so we can move forward in the spirit of collaboration and innovation that has been the hallmark of this 17-year relationship
+Throughout the course of the negotiations, we made numerous allowances to meet the needs of Toshiba and other stakeholders, such as lenders, customers, suppliers and government agencies
+Most notably, we withdrew from the INCJ-KKR consortium
+This eliminated our participation in TMC equity ownership, thus minimizing regulatory risk and directly addressing key concerns of TMC's management
+It also would have meant that TMC would remain under full control of Japanese stakeholders
+While we believe we provided the best potential solution to Toshiba and their stakeholders, Toshiba announced the transaction with the consortium led by SK Hynix and Bain Capital
+We have made our concerns regarding their consortium clear
+It continues to be our position that the transaction is not permitted without our consent
+That leads to where we are today
+There are two potential paths for resolution
+The stakeholders will either engage in constructive dialogue in the near future, or this matter will be resolved through the objective arbitration process
+With respect to arbitration, we are moving forward with strong momentum, following our successful track record in the California courts
+On October 5, the International Court of Arbitration confirmed the three-member arbitration panel
+Shortly thereafter, we informed the panel of our intention to seek injunctive relief to prevent Toshiba from transferring its JV interests to SK Hynix-Bain consortium without SanDisk's consent
+The panel will set a hearing schedule soon, at which point, we will officially file our motion
+SanDisk consent rights are clear and explicit, and we therefore feel confident in our request for injunctive relief
+We expect a ruling in the first part of 2018 in advance of Toshiba's announced timeframe to close the proposed transaction
+Just to be clear, we do not undertake litigation lightly
+We are not litigious
+And it should only be a last resort, especially in the context of this joint venture relationship
+With respect to Fab 6, you may recall that, over the summer, during negotiations for the first investment tranche, Toshiba announced that it would unilaterally invest in Fab 6. This was a surprise to us
+In fact, when Toshiba made its announcement, we had more meetings scheduled to further discuss our joint investment
+This was the first time that SanDisk was prevented from participating in a new fab investment
+To remind you, Toshiba's actions, associated with the first tranche, are already the subject of arbitration
+The negotiations regarding the second investment tranche for Fab 6 are ongoing
+Just as we did during the negotiations for the first investment tranche, we intend to jointly participate in the investment, and we are agreeing to all good-faith commercially reasonable terms proposed by Toshiba
+However, we will not agree to terms such as SanDisk unilaterally waiving or negating its consent rights as a condition to participate, which is what Toshiba has proposed
+Consequently, at this time, we are not confident that an agreement will be reached on this next investment tranche either
+As we have noted, Toshiba's planned initial investment in Fab 6 is solely for its directly-owned capacity that is outside of the JVs
+If Toshiba proceeds unilaterally with the second investment tranche, it would also be for Toshiba's directly-owned capacity, not joint venture capacity
+It is also important to remember that the JVs are obligated to provide us our entitled share of flash supply through 2029. Based on the JV agreements, we remain confident in our planned supply bit growth rate of 35% to 45% for calendar 2018 and calendar 2019, irrespective of these initial investments in Fab 6. In closing, I want to emphasize the following; first, our board and management are focused on resolving our differences with Toshiba, whether that is through a negotiated agreement or the arbitration process
+Second, we are steadfast in our commitment to protect our interests and those of Western Digital's stakeholders
+We are confident in our fact-based legal positions and our right to injunctive relief
+Third, as I mentioned earlier, there has been a great deal of misinformation provided into the marketplace through various channels
+We expect this activity to persist, contributing to potential confusion about this situation and our legal rights
+Western Digital will continue to communicate consistently and transparently, as we did with the recently filed FAQ, and through public forums like this call
+And finally, I want to reiterate that our number one priority has been to ensure the longevity and continued success of the joint ventures
+From day one, we have not changed this priority or our commitment to acting in the best interest of our stakeholders
+I also want to thank the outstanding Western Digital team
+You have maintained your focus and continued innovating and delivering for our customers in spectacular fashion
+With that, I will ask Mike and <UNK> to share the highlights of our quarter
+<UNK>, this is Steve
+I'll take the second question first
+I would prefer not to comment on that in terms of how the technology licensing arrangements work
+And then the second thing is, as I indicated in my prepared remarks, the joint venture agreements require bit output to be provided to us over a period of time, out to 2029.
+I think those sort of long-term arrangements are can be part of our ongoing practice
+So, yes, we do those sorts of things, and from time-to-time, prepayments would be one of the elements of those agreements
+So, our allocation philosophy has two dimensions
+Obviously, one of them you referenced, which is economic
+The other is strategic
+So we're looking at our goals of, sort of, optimizing between our current and mid-term financial results and our long-term objectives of growing and diversifying our customer base across multiple product segments
+So, it's a complex formula, and it really is based on those two things
+Obviously, based upon our results, we are growing in basically all of those segments and you can see the results of some of that activity
+Mike can take the first part, and then <UNK> can take the second part
+Yes, I think at this point it's really too early to tell
+Certainly, we don't have any indication strongly to one side or the other, at this point
+Yeah, it's in both of our best interest that we continue to advance the capabilities of the joint ventures from a technology and from a manufacturing perspective
+And so, we're confident that ourselves and our joint venture partner will continue to invest appropriately in that capability going forward
+And that's independent, frankly speaking, of how the arbitration proceedings turn out
+I think we talked about last quarter that ASPs had flattened
+That was our expectation coming into this quarter, and that's really our expectation as we sit today
+So we don't see continued movement in a substantial way up, but it's being sustained at the current level
+Yeah, the color we'll give you is we did see significant quarter-to-quarter growth on 10 terabytes
+We also saw the initial ramp on 12 terabytes, and we would expect that will accelerate into the current quarter
+So, the continued movements of the market to the highest capacities in this case 10 terabytes and 12 terabytes is progressing very well
+And we're very pleased with how that's moving in our business
+I don't think we provided any numbers for calendar 2018 at this point
+But we are getting more fixed re-output (46:38) than the 2D NAND at this point, so we've realized that crossover point
+And we've seen no impact of the situation with Toshiba that's changed that
+No disruption to what our expectations and plans were previously, and we do not expect that into calendar 2018 either
+Yes, I think your perspective – one of the drivers for seasonality is PC, so, yes, you're on it
+Also the consumer segments of our business also see a seasonal trends, that would include gaming, as an example
+And yes, obviously, when we move into the second half of the calendar year, we do see some absorption benefits that help us on the margin
+All right
+So you've got a follow-up question quickly, please? I think we're done
+All right
+I want to thank, everybody, for joining us today, and we look forward to speaking with you going forward
+Have a great rest of the day

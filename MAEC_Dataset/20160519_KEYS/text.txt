@@ -1,0 +1,136 @@
+Sure, I will start with just answering the modular question, and then I'll turn it over to <UNK> <UNK> who heads up our Communications Solutions Group.
+With regard to modular we saw double-digit growth for orders and double-digit growth for revenue.
+So we were very pleased with the strength.
+Aerospace, defense, and optical in particular, were strong.
+But it is very good to see continued double-digit order and revenue growth in modular.
+Hi, <UNK>.
+This is <UNK> <UNK>.
+Maybe I will start out with a couple of macro comments about the communications industry.
+As <UNK> indicated in his opening comments, probably the biggest event during this previous quarter was the contraction in the overall supply chain associated with the devices and chipsets and component manufacturers.
+But we also saw a pretty big contraction in the R&D part of the communications market.
+A lot of the major accounts that operate in that ecosystem were still going through consolidation and restructuring, and that's putting a real damper on their capital equipment spend.
+So that's I think the color commentary I can make there.
+In regards to pockets of strength, we really do have a unique competitive advantage when you look at the data centers and what's going on there with the 100-gigabit roll-out, and an as well as the 400-gigabit R&D spend, more in the research phase.
+We are very well positioned from a portfolio standpoint.
+We've got a variety of high-speed digital products that are (inaudible) testers, arbitrary waveform generators.
+And in fact in the area of digital communication analyzers, we just introduced a new family of sampling scopes, from 1 to 4 channels, very compact form factor, low noise, and really designed for high throughput in a manufacturing setting.
+So I think we will continue to benefit from that 100-gigabit build-out.
+In the area of 5G, that's probably the other area to highlight.
+And I will go back to, again, some of <UNK>'s comments about Mobile World Congress.
+Several of us were there and met with a lot of customers.
+And going into Mobile World Congress, I think our general consensus was that we would see an initial deployment in the 6-gigahertz range.
+But what's happened since then, it is very clear that there will be at least a dual deployment and a much higher frequency band.
+28 gigahertz seems to be the sweet spot of a secondary implementation.
+That really plays well into the product portfolio that we have, and have had for decades on the aerospace, defense side of the house.
+And so in fact we've had something called a 5G test bed that we put out, which is a way for customers to upgrade their labs to have test equipment that's more compatible with the testing requirements of millimeter wave frequencies.
+We have seen that test bed be very well accepted in the market.
+And sales have far exceeded our expectations.
+And that's the primary driver behind our 5G strength right now.
+So hopefully that helps give you a little bit of perspective.
+Yes.
+First of all with regard to gross margin, our gross margins are really driven more by product mix than anything else.
+So I think as we look forward, we don't really see any fundamental drivers that would change -- would drive a meaningful shift in gross margins moving forward.
+With regard to OpEx, you'll notice that our OpEx has been reasonably stable through the first half of this year since the addition of Anite.
+And from a modeling perspective, I'd look to that moving forward.
+Thank you.
+I did, yes.
+The core growth rate is 2% and the absolute growth rate is 8%.
+No.
+No, the only comments that I can say is that we do continue to be very cautious around the communications space moving forward.
+We've taken the same approach that we always take to preparing our guidance, looking at incoming order rates, strength of our funnel, and the quality of our backlog.
+So our approach to guidance this quarter was entirely consistent with prior quarters.
+The only thing that I would note is in the current quarter, in our second quarter, we did post solid single-digit growth rate outside of the comms area.
+Yes.
+I think from an industrial orders perspective, we had a reasonably strong quarter.
+But I would note that it was against a pretty soft compare from Q2 of last year.
+So we were certainly happy with the order results in industrial.
+If I was to provide you with a little bit of commentary, it was driven -- the orders in the industrial side were stronger than the comm and semi side.
+But again, just noting the soft compare from Q2 a year ago.
+Yes, I will let <UNK> comment about can we quantify that, the magnitude of it.
+I can comment a little bit on the duration.
+We are seeing a very broad, widespread uptake in this whole 100-gigabit ethernet build-out in the manufacturing space.
+So I don't think that's a trend that's going to disappear overnight.
+In parallel with that, right on the heels we have the 400-gigabit wave that's coming.
+And there's quite a bit of research going on in that phase.
+And the manufacturing deployment of that will likely be in late 2017.
+So I think we've got a pretty good trend to play to here over the next year or two.
+With regard to size, and we just don't provide granularity at that level to individual portions of our product platform.
+The only think I would reiterate was the statements that <UNK> had made about we feel like we have a strong hand to play here.
+And as he just said, we think it is one that's a little bit of legs.
+I will take the first part of that question and then I will hand off to <UNK> for the second part, which is we're not going to provide granularity on the sequential gain at this point in time.
+The more than doubling year over year is all that we can give you.
+Yes, <UNK>.
+On the ramp, it's very difficult to call it this moment.
+You've been at Mobile World Congress.
+There is no doubt that it has shown acceleration currently in the market and with some customers.
+But I would say it is too early to call when the ramp-up is really going to happen.
+Thank you, <UNK>.
+I'm going to let <UNK> <UNK>, who is the Head of our Services Organization, get a chance to talk.
+I'm glad to answer that question.
+There are a number of factors going on.
+So yes, there are multi-year contracts in there.
+Some of the contracts come in in a lumpy fashion.
+But I think the real underlying story here is that Services is composed of two major components.
+One is our repair and calibration services business and that showed strong consistent growth.
+The other part of the equation is that we have a used equipment business that is also included in our Services numbers and that's very lumpy and goes up and down depending on our demo inventory that's available for sale as well as general product trends.
+The underlying growth area, the repair and cal was very strong.
+And the used equipment continues to be a little bit lumpy.
+We don't quantify the individual market segments by region, but I can let <UNK> see if he has any qualitative points that might be able to assist you.
+This is <UNK>.
+The thing I can say is that in the Americas we did see, as expected, growth in aerospace, defense.
+And this is true for the DoD and for the (inaudible).
+But clearly comms was slow, especially with the large accounts.
+And this comes back to the comment we did at the beginning of the call, still linked to the overall situation in the wireless industry.
+We cannot quantify that for you.
+Sorry.
+We guide one quarter out.
+Obviously there is a lot of -- there are a lot of dynamics that happen within the marketplace.
+We very glad that we have seen aerospace, defense business be steady.
+We are very glad that we see China being steady.
+We are glad that we see Russia return to growth this quarter and last quarter in orders versus last year when we saw a lot of solid declines.
+So outside of comms, the backdrop is reasonable.
+But when you integrate comms, it is still a little uncertain.
+However, there is one thing that we are very, very confident in.
+We have a very good business model.
+We know how to turn that into cash at the end of the day and produce the results that you have seen.
+So we will keep at it.
+And we think our relative position and our growth relative to the competition was pretty strong.
+And I remember talking about two years ago about how we want to -- wanted to return to market growth.
+And you can assess how we did relative to the other players in the industry.
+And very pleased with our posted revenue growth and our profit growth, as well as our 9% order growth for the quarter.
+Clearly the macro is still very uncertain, as you can see.
+You could look -- you can also look at all the competitors and see what they posted during the last quarter relative to what we posted.
+But at this point Japan still is soft, and we seem the comp semi business to be not so strong.
+China, clearly they're making some significant investments in semiconductor.
+But the question is, is how long or what will happen at the end of the year.
+So it is still a very uncertain background.
+But as we have guided the last almost nine quarters, independently from Agilent from the first quarters before we split until now, we have met our guidance every single quarter.
+Hopefully that gives you some confidence.
+Thanks, <UNK>.
+Yes.
+So obviously we have instituted the share repurchase program last quarter.
+We executed about 20% of it during Q2.
+And that's really designed to be an opportunistic program that -- and you can read into the fact that we executed a significant portion of that that we have confidence in our ability to perform in a variety of market conditions.
+Our stated strategic priorities have not changed.
+We continue to look for M&A opportunities that will help us to achieve our longer-term growth objectives.
+But at the same time, when the opportunities present itself we will continue to execute on the share repurchase program as well, although we don't give any particular color as to what our plans are with regard to that execution.
+Our aerospace defense business, Alex, has been very steady.
+It modulated down a bit when there were continuing resolutions going on.
+But overall, if you look at a trend line of that business for 16 years since we split from Hewlett-Packard, not Agilent, it is pretty darn steady compared to any of our other businesses.
+And again, we are the prime player in the United States.
+The United States is the largest spender in the world by a large amount.
+We believe in the long term that they will be bringing in new programs to strengthen our ability to deal with new types of threats.
+And we are very pleased with the position that's there.
+We don't expect any instantaneous sharp turns up or sharp turns down.
+But we feel very comfortable with our position.
+It is also worthwhile to note that our aerospace, defense business is not only in the US, that it is also overseas.
+And although it's somewhere around one-third of our business, a lot of the business for the International countries are sold through US prime.
+So in total, a higher percentage of our business goes to international countries, approaching 50%.
+So we are very well balanced with US and with other countries.
+We've had a very steady business in that area.
+And we are looking forward to capitalize on any gains in any defense spending around the world.
+I think we can also say that with the relative stability in the US budget situation over the past couple of years, we do expect aerospace, defense spending to return to typical norms as you think about government fiscal year end in September.
+Thank you very much, Alex.
+Thank you, and thank you all for joining us today.
+We look forward to seeing you at that upcoming investor conferences that I mentioned at the top of the call.
+And have a great day.

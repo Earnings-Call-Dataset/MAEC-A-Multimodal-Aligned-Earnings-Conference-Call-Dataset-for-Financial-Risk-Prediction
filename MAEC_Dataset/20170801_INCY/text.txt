@@ -1,0 +1,302 @@
+Thank you, Diego.
+Good morning, and welcome to Incyte's Second Quarter 2017 Earnings Conference Call and Webcast.
+The slides used today are available for download on the Investors section of Incyte.com.
+I'm joined on the call today by <UNK>, <UNK>, <UNK>, Dave and <UNK>.
+We'd like to remind you that some of the statements made during the call today are forward-looking statements, including statements regarding our expectations for 2017 guidance, the commercialization of our products and our development plans for the compounds in our pipeline as well as the development plans of our collaboration partners.
+These forward-looking statements are subject to a number of risks and uncertainties that may cause our actual results to differ materially, including those described in our 10-Q for the quarter ended March 31, 2017 and, from time to time, in our other SEC documents.
+I'd now like to pass the call over to <UNK> for his introductory remarks.
+Thank you, Mike, and good morning, everyone.
+We appreciate you all taking the time to participate in the call today, and we are very excited to share with you the significant progress we have made during the second quarter.
+First, Jakafi continues to show strong sales growth of 33% in its sixth year on the market, as the number of patients benefiting from this treatment continues to increase.
+Importantly, total revenue in Q2 also grew by 33% year-over-year, as strong royalties from Jakavi, sales from Iclusig and the first full quarter of royalties from Olumiant resulted in a total revenue of $326 million for the quarter.
+Speaking of Olumiant, it's now approved in Europe, in Switzerland and in Japan and let me quickly address the updates that we, along with Lilly, provided last week.
+Based on feedback from the FDA to its Complete Response Letter for the NDA for baricitinib, we announced that an NDA resubmission will be delayed for a period anticipated to be a minimum of 18 months.
+We and Lilly are now evaluating options for resubmission after the FDA indicated that a new clinical study is necessary to further characterize the benefit/risk across doses.
+We continue to disagree with the FDA's conclusion and we believe that the existing clinical data demonstrates a positive benefit/risk profile that supports baricitinib's approval as a treatment option for people suffering from RA in the United States.
+Moving now to our in-house portfolio.
+Incyte now has 5 products in late-stage development, which could provide us with significant commercial opportunities pending successful development and regulatory approvals in the 2019 to 2021 time period.
+These programs are ruxolitinib, itacitinib, epacadostat, our PI3 kinase delta and our FGFR inhibitor.
+I'll now briefly touch on several important advancements we have made here over the last few months.
+Most importantly, we have initiated 2 pivotal trials, REACH3, the pivotal trial of ruxolitinib in patients with steroid-refractory chronic GVHD, which dosed its first patient in June; and GRAVITAS-301, the pivotal trial of itacitinib in patients with treatment-naive acute GVHD, which began in July.
+This results in a total of 4 ongoing pivotal trials in patients with various forms of GVHD.
+We have also been working diligently with both Merck and BMS, and I can confirm that plans for the expanded ECHO Phase III program for epacadostat are on track for initiation later this year.
+<UNK> will provide you with some additional color in the clinical section.
+Our discovery and early development efforts continue rapidly, and I'm very pleased to say that 62079, our selective FGFR4 inhibitor, entered the clinic in June.
+This initial trial will be a dose escalation study in patients with liver cancer and other advanced malignancies.
+In summary, we have made significant progress in the first half of 2017.
+Jakafi and Iclusig sales are robust; we are executing on our clinical objectives.
+Our global operations are progressing as planned, with manufacturing and market mccess efforts expanding in Europe and the establishment of initial clinical operations in Japan.
+Incyte was founded on the belief that investments in innovation create value.
+This belief has served us well to date, and we look forward to keeping you updated as our company continues to grow.
+With that, I'll pass the call to <UNK> for an update on Jakafi.
+Thank you, <UNK>, and good morning, everyone.
+Jakafi sales in Q2 were strong at $276 million, a 33% increase over Q2 of 2016 and a 10% increase over the first quarter of this year.
+Demand growth was up Q2 versus Q1 by over 7%.
+We believe this momentum is due to both the quality of the data underlying Jakafi and to the efforts of our U.S. team here at Incyte.
+Jakafi's performance in the quarter was driven by strong patient demand for both indications, while total PV patient growth continues to outpace the MF patient growth.
+We believe that a key driver of demand in MF is the impact of the NCCN Guidelines that were published last year, which first included Jakafi as a recommended treatment for MF.
+Updated NCCN guidelines for MPNs were published late last week.
+And for the first time, these guidelines now cover polycythemia vera.
+Jakafi was included as a recommended treatment for patients with PV who have inadequate response to first-line therapies such as hydroxyurea.
+We are very pleased that the NCCN guidelines for MPNs now include Jakafi for both myelofibrosis and polycythemia vera.
+A quick word on inventory, which has been very steady within a range of 2.5 to 3 weeks.
+Last quarter, we stated that we exited Q1 at the high end of the normal range for inventory.
+This has now been normalized in the second quarter.
+Lastly, as a result of our strong sales growth, we are pleased to raise our full year 2017 net product revenue guidance for Jakafi from a range of $1,020 million to $1,070 million to a new range of $1,090 million to $1,120 million.
+Jakafi commercial momentum is clearly very strong.
+And now I'd like to share a slide on how we plan to further grow the brand.
+We have pivotal programs which are designed to evaluate ruxolitinib in patients with graft-versus-host disease and in patients with essential thrombocythemia, where there is both a need for new treatments and where the rationale for JAK inhibition is strong.
+As of late June, all 3 trials in the REACH pivotal program of ruxolitinib in patients with steroid-refractory GVHD have been initiated.
+This broad program encompasses patients with both acute and chronic GVHD, and we expect to enroll a total of 600 patients into the REACH trials.
+Should the REACH1 trial have a positive outcome, we would expect to file an sNDA, seeking accelerated approval of ruxolitinib in patients with steroid refractory acute GVHD during 2018.
+RESET-272, the pivotal trial of ruxolitinib in patients with essential thrombocythemia, is now open for enrollment, and we expect to dose the first patient in the coming weeks.
+ET is characterized by the overproduction of platelets in the bone marrow, which can lead to unnecessary clotting and cause heart attacks or strokes.
+The trial is being run head-to-head, ruxolitinib versus anagrelide, and we expect to enroll 120 patients who have failed or are intolerant of hydroxyurea.
+We are proud of the clinical benefits that Jakafi provides patients with MF and PV, and we look forward to investing further in the clinical development of Jakafi.
+With that, I'll pass the call along to <UNK> for a clinical update.
+Thanks, <UNK>, and good morning, everyone.
+We've made significant progress in the clinic since we updated you on our first quarter call in May of this year.
+Showing here on Slide 10 are our 5 key programs in development, within which we have initiated multiple trials in the last few months.
+In addition to <UNK>'s comments on ruxolitinib's comprehensive clinical development program in graft-versus-host disease and essential thrombocythemia, you can see that we have now initiated the pivotal program for itacitinib in patients with treatment-naive acute graft-versus-host disease.
+In the coming months, we expect to initiate multiple trials with our PI3 kinase delta inhibitor, 50465.
+Following positive proof-of-concept data presented at both ASH last year and ASCO this year, we intend to study this compound in follicular lymphoma, marginal zone lymphoma and mantle cell lymphoma.
+Let me provide a little extra color on our expanding ECHO development program for epacadostat.
+As a reminder, we are planning to initiate 6 Phase III trials of epacadostat in combination with pembro in 4 different tumor types.
+And we are also planning to launch Phase III trials of epacadostat in combination with nivo in 2 tumor types.
+On the epacadostat studies in combination with pembro, I am pleased to confirm that, together with Merck, we have obtained all the necessary regulatory feedback, and it remains our aim to open and achieve first patient initiated in all 6 studies before the end of this calendar year.
+With Bristol-Myers Squibb, we are at an earlier stage in our planning but are still targeting the planned initiation of these studies before the end of this calendar year.
+As we get a little closer to site initiations and first patients initiated, all of these designs will populate to ct.
+gov, but you can appreciate that, for a variety of competitive and other reasons, we will not be talking about the designs in any detail before that time.
+Moving now to ECHO-301, the ongoing Phase III trial of epacadostat in combination with pembro in patients with advanced or unresectable melanoma.
+The trial is ongoing, and as we disclosed on the Q1 call, has completed recruitment outside of Japan.
+The endpoints for ECHO-301 are event-driven, and we expect to be in a position to share those data with you in the first half of 2018.
+I'm also very pleased to announce that epacadostat, and specifically the ECHO-301 trial, has been granted fast-track designation by the FDA.
+This provision is intended to facilitate development and expedite review of drugs to treat serious and life-threatening conditions so that an approved product can potentially reach the market rapidly.
+In the near term, we look forward to providing you with an update to the melanoma patient cohort of the ECHO-202 Phase I/II trial at ESMO in September of this year in Madrid.
+We expect this update to include both the dose escalation patients, which were last presented at ESMO 2016, as well as new data from the Phase II expansion cohorts of melanoma patients from ECHO-202 for the very first time.
+I'll now discuss some highlights from our upcoming news flow.
+As I just mentioned, we look forward to sharing updated ECHO-202 data in melanoma patients at ESMO in September.
+We also expect to dose the first patient in the RESET-272 pivotal trial of ruxolitinib in essential thrombocythemia in the next few weeks.
+Towards the back end of 2017, we expect the presentation of dose escalation data for both BRD inhibitors, 54329 and 57643, as well as dose escalation data for our PIM inhibitor, 53914.
+Heading into 2018, we look forward to a number of trial outcomes, including 2 pivotal studies.
+We expect to be able to share data from the Phase III results of ECHO-301 as well as the pivotal REACH1 study of ruxolitinib in steroid refractory acute graft-versus-host disease.
+Lastly, we also expect the first presentation of data from our Phase II paired biopsy trials.
+We are encouraged by the significant progress we've made so far this year, and the next 12 months promises to be a very exciting time for Incyte.
+If we achieve the goals that we have outlined, we expect to be running up to 20 late stage trials in early 2018.
+This is a significant undertaking, but one that is enabled by the quality of our discovery and development teams and by the excellent commercial momentum of Jakafi and Iclusig.
+With that, I'll pass the call to Dave for the financial update.
+Thanks, <UNK>, and good morning, everyone.
+The second quarter was very strong.
+We recorded $326 million of total revenue.
+This was comprised of $276 million in Jakafi net product revenue, $16 million in Iclusig net product revenue, $34 million in Jakavi royalties from Novartis and $1 million in Olumiant royalties from Lilly.
+Jakafi's net product revenue of $276 million represents 33% growth over the same period last year.
+Based on Jakafi's performance for the first 6 months of the year, we are increasing our full year Jakafi net product revenue guidance to a range of $1,090 million to $1,120 million.
+Our gross to net adjustments for the second quarter was approximately 12%.
+We expect the total gross to net adjustment for the full year to be approximately 13%.
+Our cost-of-product revenue for the quarter was $20 million.
+This includes the cost of goods sold for Jakafi and Iclusig, the payment of royalties to Novartis on U.S. Jakafi net sales and the amortization of acquired product rights related to the Iclusig product acquisition in Europe.
+Our R&D expense for the quarter was $202 million, including $23 million in noncash stock compensation.
+For the full year, we expect R&D expense to be in the range of $1,050 million to $1,150 million.
+This is an increase from the previous guidance last quarter.
+The increase in R&D expense guidance is related to the acceleration of the Phase III plans for epacadostat.
+Our SG&A expense for the quarter was $90 million, including $11 million in noncash stock compensation.
+We recorded a $7 million expense related to the change in the fair market value of the contingent consideration for the Iclusig royalty liability.
+Moving on to non-operating expenses.
+We recorded $20 million unrealized loss on our long-term investments in Merus and Agenus and a onetime debt exchange expense of $1 million related to senior note conversions of $20 million during the quarter.
+For the second quarter, we recorded a loss of $12 million, primarily due to the previously mentioned $20 million unrealized loss on our long-term investments.
+Looking at the balance sheet, we ended the second quarter with $609 million in cash and marketable securities and expect to end the year with over $600 million.
+On our final slide, you'll see our full year guidance.
+In addition to the updates I've already mentioned, a $15 million milestone will be recognized in the third quarter for the Japanese approval of Olumiant.
+As a result, we now expect up to $145 million in milestones for the year.
+Incorporating all these previously discussed changes, including the $20 million unrealized loss on our long-term investments, we now expect a net loss between $180 million to $200 million for the year.
+To summarize, our second quarter performance reflects the strength of our underlying business, as well as the continued advancement of our clinical development programs.
+We continue to execute on our development plans for a robust pipeline and look forward to updating you on our progress during our third quarter call.
+Operator, that concludes our prepared remarks.
+Please give your instructions and open up the call for Q&A.
+Thank you.
+Hi Geoff, it's <UNK> answering your question.
+So obviously, whenever a Phase III reports out negative, this is disappointing for patients and investigators involved.
+From our perspective with epacadostat and the planning thereof of our studies, it was an eventuality we obviously considered may happen and it hasn't affected our plans to date.
+In terms of triple combinations going forward, that's really more in its infancy right now with us, and we're still doing enabling Phase I work looking at that.
+And we haven't decided whether we'll be progressing there or not.
+And there's no other substitution potential, to answer the third part of your call.
+So the simple answer to your question is, it hasn't impacted in terms of our execution of IDO going forward and, in our view, opens up the potential for I/O, I/O doublet now to be cornerstone by IDO with PD-1s in many diseases, and that's positive.
+In melanoma, we've always said that the PD-1 CTLA-4 doublet data as regards response rate in PFS is a clinical benchmark that we wanted to attain with our data.
+At the same time, we've always been very encouraged by the tolerability profile of our own doublet of PD-1 and IDO.
+So that's my comments as regard to MYSTIC right now.
+Yes, it's me again.
+Thank you for your question.
+We updated our data last year at ESMO.
+And as I just said on the call, we'll be doing it at this ESMO in Madrid in September, with more patient data.
+And you'll get some idea, albeit in a single-arm study, of what our potential progression-free survival rates are with our doublet.
+And I'll point you towards that meeting itself.
+In terms of the ECHO-301 study and the read-out, obviously it's event-driven and we need to wait for the events to occur.
+All our -- looking at the operational characteristics of the study -- point to us getting data in the first half of next year, and that's when we're expected.
+The benchmark there, just to be clear, is against PD-1 monotherapy, in that case pembro, per their labels, which are in the 5.5 to 6 months range, is what we have to beat.
+<UNK>, it's <UNK>.
+I'll start off with your ASCO question and then turn it to <UNK> on the 2 bromodomain inhibitors.
+The intent would always be, at an appropriate time, to update those data sets in terms of more mature data, just as we've done for melanoma, by the way, a year apart now: ESMO last year and then this ESMO.
+Each time, it involves collecting the data, cleaning it and doing data cuts.
+So it's not something we do in real-time or on a constant basis.
+But the intent would be to update it at a time point in the future.
+I can't commit on this call to you for each data set when that will be, but it will be sometime in the next 24 months or so.
+<UNK>, this is <UNK>.
+I'll take your BRD question.
+As we often do for our programs, we'll progress more than one more than molecule into the clinic, and that can be for various reasons.
+Sometimes it's a different structure to safeguard against a safety problem that could arise with the lead compound.
+Other times, it can be for differential pharmacokinetics and pharmacodynamics, so that we can evaluate the safety and early signs of efficacy of very different clinical drug profiles.
+And actually, both of those reasons underlie our decision some time ago to progress '57643 and '54329 into the clinic.
+Those Phase I dose escalations are all wrapping up now, and we'll present data from each of those in the second half of the year.
+I don't want to get ahead what those data show, but suffice it to say, we became quite comfortable with '57643 as having a more optimal profile and because of that, it's the compound that will now progress forward into both liquid and solid tumor combination studies.
+And you'll learn more about those over the coming months.
+<UNK>, it's <UNK>.
+In terms of ECHO-110 and the Roche-Genentech collaboration with atezo, as we've spoken about on the earnings calls in the last few quarters, it has been one of the studies that has been a laggard in terms of enrollment.
+Initially, the study included non-small cell lung cancer patients alone, and then was amended to try and capture metastatic bladder cancer as well.
+And it never took off in terms of enrollment.
+It's hard to give you all the reasons related to that, whether it was lack of interest in that particular PD-L1 combination or not.
+But it was always one of our collaborations because, at the time of NewLink and other reasons, that we knew that would be the case.
+And I don't think there's any readthrough at the moment, and obviously we'll commit to presenting that data when it's brought in and cleaned in the future.
+In terms of melanoma, I can't commit until the meeting itself, other than what I said on the actual call, that it will include both the initial patients and now the dose expansion phase as well.
+We will look at data in all-comers, in treatment-naive setting and at the 100-milligram dose, and present what we think is mature and adequate follow-up for those populations for you.
+Just getting back to your question and Geoff's question, we'll also try to show the different prognostic subgroups there as regards to some of the known prognostic factors to try and ascertain and give you clarity as to what impacts prognosis here.
+And then to your question and Geoff's, which has an answer clearly in the beginning, the Phase III study is in more than 600 patients and we have every belief, because of its size, it'll be representative of a melanoma population and will mirror what we saw in ECHO-202.
+Katherine, yes, it's <UNK>.
+As you and others are aware, with this particular class, they are all very active compounds and we've shown their activity at our compound now at multiple meetings.
+Across B-cell malignancies, whether it's diffuse large B-cell lymphoma or marginal, mantle cell lymphomas, they're highly active.
+The challenge becomes tolerability for the class.
+And as you allude to, how can you avert some of the longer-term toxicities.
+With our second generation inhibitor, we now have enough cumulative data that we look like the liver signals seen with the first generation inhibitors is not present with our particular compound, so that's very encouraging.
+But in terms of on-target B-cell effects, which tend to occur later on, there are 2 really things you can attempt to do, either change dose or change schedule or change both.
+And we're looking it at, without giving away everything, at trying to maintain efficacy for what we know is a very active compound, and once we have that efficacy achieved, then changing either the dose or the schedule or both to change the tolerability profile over time.
+And as we gather that data, we'll be able to prove to you whether or not we can do that.
+But that, I think, is a central challenge with this class.
+We think we have a best-in-class highly active compound, and I'll just point you to the activity data we've shown to date.
+In terms of oncology drug development, obviously we're always trying to move the benchmarks and increase either response rate or progression-free survival or survival itself to move the field forward.
+So currently, it's about I/O, I/O doublets with -- in our case, PD-1 plus IDO.
+And then, looking forward beyond that, is trying to work out the populations you work in versus where you may not work in at a biomarker perspective.
+Then there are multiple other targets.
+In our own shop, we already have GITR and OX40 in the clinic.
+And to come next year, there will further I/O compounds coming into our clinic.
+We have an arginase inhibitor in the clinic, which is certainly interesting in terms of its biology and potentially being able to address myeloid derived suppressor cells.
+And then, there are potentially other new exciting mechanisms of action, which we may explore in combination with PD-1 and IDO or with IDO alone going forward to move that benchmark further.
+But it's -- you have to do the slow, iterative experiment and prove first where you're heading and then execute on a Phase III trial to get there.
+You can't jump ahead of yourself.
+I'll leave it at that.
+<UNK>, I'll start and others may want to add to what I say afterwards.
+Obviously, you have to aim at, in these studies, at improving the event-driven endpoints, whether they're progression-free survival or overall survival or combinations thereof.
+Depending on the settings, sometimes the OS is short enough that, that may be the point you're trying to achieve.
+And that's in terms of demonstrating value for your doublet over the PD-1 alone in the settings we've selected to go after.
+In terms of the therapeutic ratio, though, once you hit efficacy, obviously tolerability comes into the equation as well.
+And I don't want to forget that.
+I've said it repeatedly.
+It's one thing, now we have hundreds of patients worth of data with some longer-term exposures and we're very confident in our tolerability profile, and that's going to be really important going forward in I/O, I/O doublets in general, but certainly as you compare to CTLA-4 combinations, potentially.
+There are populations where the tumors are either colder or where things don't work and then it's around trying to ascertain, at a biomarker level, why that may not be potentially working and then trying to address it with new MOAs, things like arginase inhibitors or other things will then weigh in.
+But to be clear, the Phase III programs are going after established entities where PD-1s, for the most part, are the care standard, and now trying to improve that in terms of time-to-event endpoints and then weighing in the tolerability profile.
+I don't know if <UNK> wants to add anything to what I said.
+Just a couple of things.
+I think, <UNK>, we sometimes forget that even in the so-called inflamed or hot tumors, where PD-1 antagonists are quite effective and are approved for use, generally your objective response rate in those populations, save melanoma, is in the 20% range.
+And so, there is still a substantial unmet need in those populations.
+And obviously, our goal with the IDO1 epacadostat program is to improve those response rates, improve the patient benefit and be able to capture a larger proportion of the patient pool to derive benefit.
+That's kind of one question.
+It's the central question in the epacadostat development program now.
+There's a separate question around what drives PD-1 resistance, either intrinsic or primary or secondary resistance.
+And that's a -- very much an important focus of our discovery efforts right now as we look at multiple mechanisms that could be operative in that space, and even molecules like arginase were in part brought into the portfolio in an attempt to address some of the immune suppressive mechanisms that may lead to T-cell exclusion in a cold tumor phenotype.
+So I think both of them are actively being pursued at Incyte, some in development, some in research.
+And hopefully in the coming years, we'll see the needle being moved in a positive way in both of those tumor settings.
+Yes.
+So the translational aspects of the ECHO program are very important.
+That does include assays to assess IDO1 expression directly.
+It also includes assessments of PD-L1 status, as you might imagine.
+It also includes quite a bit of RNA sequencing work to look at things like mutational burden and the inflammatory state of the tumor more generally.
+I think this is probably one area where we and the whole field have the most ground to make up, and it's very important for us to be able to be smarter when we select our patient populations for these doublets and ultimately triplets.
+And I think the translational data set that can emerge out of the ECHO program, just as one example, where you have 5 tumor histologies and hundreds and hundreds of patients, you can imagine what a rich data set that will be for us to mine and hopefully be able to help the field forward on the translational aspects of patient selection.
+<UNK>, yes, it's <UNK>.
+Yes, very much so.
+All the ongoing work will be looked at and examined on its own for signals that potentially -- we can pursue.
+The 2 tumor types you alluded to were immature at our last presentation: diffuse largeB-cell and MSI-highcolorectal.
+With AstraZeneca, it's the same thing.
+As we're looking at the data now and over the ensuing months, we will make decisions on whether or not there are go-forwards there.
+So the answer is a strong yes, from my perspective.
+In terms of -- assuming second half of 2017, in terms of decisions on the AstraZeneca program, yes, that is a potential time frame we would have the data to look at and make decisions.
+I think that's a fair statement.
+Maybe <UNK> here.
+I'll take the Lilly question.
+As you know, as we discussed, I mean, there are a lot of decisions that have to be taken on the path forward for RA.
+All of these decisions have not yet been made.
+And obviously based on that, we will have on our side to decide what is Incyte's position today.
+We are all in co-funding the development of baricitinib.
+That's the situation we have today.
+And depending on how the plans are developing, we will have to make further decisions, but none of them have been made yet, though.
+And then, <UNK>, in terms of the statistical questions related to the ECHO-301 melanoma study, we don\
+<UNK>, it's <UNK>.
+On your paired biopsy question, the studies have -- in terms of enrollment, we've done really well.
+It's now collecting this tissue, analyzing what we have, doing the required testing and then reporting it out.
+And that part is still under way and there are some tricky natures to understanding do you have adequate representative tumor samples.
+So we need a little bit longer, you're correct, and we expect to be able to show that data to you sometime during 2018.
+In terms of the timeline for the RESET program in essential thrombocythemia, and I just want to make sure you understand that this is in a patient population who have either progressed on hydroxyurea or were intolerant of it, and then are randomized to either, in our case, ruxolitinib or the control in this case, anagrelide, with an endpoint that is a composite around platelet control and white blood cell control.
+And the goal is 120 patients there.
+And we'll have to just see.
+Obviously, we always want to do better on operational enrollment than what we anticipate.
+But we don't expect this to be an incredibly easy population to find, and that's why we've guided to mid-2020 at the moment.
+<UNK>, it's <UNK>.
+In terms of the dynamics around how you conduct endpoint analysis and unblinding, it's a co-primary endpoint.
+Obviously, for a large Phase III, there's a data safety monitoring board who conduct these analyses to begin with.
+And they will, as is -- I mean, it's not a secret here, PFS will always be triggered before overall survival in terms of doing the analysis because it delivers earlier.
+So I guess the simple answer to your question is, yes.
+In terms of having mature overall survival data at that point in time, it will be whether it exists or not.
+Just going to the part 2 and part 3 of your questions, yes, we very much like both those programs.
+We feel, as we've said before, for '54828, FGFR1/2/3 inhibitor, that we have a best-in-class compound.
+We understand the compound.
+We dose the patients to the pharmacodynamic endpoint of hypophosphatemia there, and we have 3 open studies, all of which could serve as registration potential should they reach high response rates that are durable, and all of them are biomarker driven in terms of targets.
+So metastatic bladder cancer for FGFR 3, cholangiocarcinoma for FGFR 2 and for that rare myeloproliferative neoplasm that's driven by chromosome 8p11, those studies are all under way and enrolling well, and we really like that compound.
+I think it's premature to talk about potential NDA dates there or accelerated approvals.
+For the delta inhibitor, just to reiterate the comments I said earlier, I think we've been more stepwise and careful because of the tolerability profile and needing to understand how we can get the efficacy we know we can get, but then keep patients on therapy long enough.
+And so it's a little bit early to also comment on when those may potentially deliver, but we have programs in diffuse large B-cell and now in additional B-cell malignancies, like marginal and mantle cell lymphoma.
+So, Ren, I'll do the first part of your question and then turn it to <UNK> for the second part.
+So the REACH programs are comprehensive programs.
+They're 3 pivotal studies there, REACH1, REACH2 and REACH3.
+REACH1 is a single-arm study of rux in steroid-refractory acute graft-versus-host disease.
+The goal end is 70 patients.
+The response rate, as you can see -- the primary endpoint, as you can see on ct.
+gov is a 28-day response rate that would need to be durable to reach an acceptable file for a supplemental NDA.
+And that's felt to be an endpoint that would point to patient benefit in this particular setting in high unmet need.
+REACH2 is in the same setting but is randomized against best available therapies.
+It's a global study with our partner, Novartis, and incorporates the same endpoints.
+And then REACH3, again in partnership with Novartis, is a randomized study with best available therapy as a control by physician's choice and incorporates, in chronic graft-versus-host disease, longer endpoints in terms of being able to show that you can control the disease for longer.
+All are acceptable endpoints and there's a lot of regulatory feedback on all those studies.
+As regards the numbers in terms of predicting our revenue for rux, I'll turn it to <UNK>.
+Yes, Ren.
+So we said in the past that our top net sales for Jakafi will reach at least $2 billion.
+And that's for MF, PV and GVHD.
+We haven't included the numbers yet for ET.
+Ren, this is <UNK>.
+I'll pass it over to <UNK> if he has anything to add.
+The evaluation of clinical trials and prioritization within the I/O, I/O doublets space is an important one for us to get our hands around in the field, because I think we have enough mechanisms now, even within our own portfolio, that you can't do everything in a pair-wise comparison and just have a purely probabilistic approach to drug development.
+So we do hold a high bar for the preclinical data, one.
+And so that necessarily allows some mechanisms to move forward at a faster pace than others.
+Second, in the clinic, we will demand that we see the requisite harmacodynamics activities early on in the studies to take one step towards de-risking the activity of those doublets.
+And the third, and this is the most difficult one, is trying to have an underlying assumption as to the patient population that's most likely to respond or benefit from the therapy.
+We can think of a mechanism like arginase as a good example.
+Arginase is released from intratumoral myeloid cells and it's believed that, that can be an important immune suppressive mechanisms that decreases immunogenicity of the tumor.
+So you can imagine studying an arginase inhibitor in populations, either individuals or in histologies, which have an abundance of myeloid-derived suppressor cells and intratumoral neutrophils.
+That will be the approach that we'll take.
+And based on the preclinical studies, we know that arginase inhibition can synergize with PD-1 axis blockade, and it can synergize with IDO1 inhibition.
+So you can imagine taking the right patient population and walking through first a doublet study and then ultimately trying to get to a triplet study.
+Those are the kinds of activities we have ongoing all the time, and we try to always make sure that the programs that we're transitioning into the clinic and investing in meet all 3 of those ends in terms of underlying preclinical data, mechanistic pharmacology in the clinic and pharmacokinetic dynamics, and then finally, a patient population that's appropriate.
+<UNK>, it's <UNK>.
+I'll take your first question and then hand you over to <UNK> for the baricitinib question.
+So in Jakafi, we continue to see growth in both MF and PV.
+We've got new MF patients and new PV patients.
+As we've said in the past, PV, percentage-wise, continues to outpace MF in terms of total growth, but MF patients continue to stay on drug therapy for a long time.
+So for the future, we see that we'll continue to grow if we continue to penetrate the markets for both MF and PV, and then we'll wait for future indications for GVHD and ET, hopefully.
+<UNK>.
+Thanks, <UNK>.
+<UNK>, in terms of programs outside of rheumatoid arthritis, we'll just feed off what Lilly has already told you on their call.
+But to reiterate, the diseases that are being considered are psoriatic arthritis, atopic derm and lupus are the ones most often mentioned.
+At this juncture, it's just hard to comment on anything further other than what Lilly has already told you, and all are still being considered.
+Your comment around would this be able to contribute safety data to a potential resubmission on a file is also -- I'm unable to comment on at this time, other than any data would obviously be additive from a safety point of view.
+Thank you.
+Thank you, and thank you all for your time today and for your questions.
+So we look forward to seeing some of you at upcoming investor and medical conferences, including ESMO in Madrid.
+And so now we thank you again for your participation in the call today.
+Thank you, and goodbye.

@@ -1,0 +1,401 @@
+Thank you, Kevin.
+Good morning, and welcome to Incyte's First Quarter 2018 Earnings Conference Call and Webcast.
+The slides used today are available for download on the investor section of incyte.com.
+I'm joined on the call today by <UNK>, <UNK>, <UNK>, Dave and <UNK>.
+Before we begin, we would like to remind you that some of the statements made during the call today are forward-looking statements, including statements regarding our expectations for 2018 guidance, the commercialization of our products and the development plans for the compounds in our pipeline, as well as the development plans of our collaboration partners.
+These forward-looking statements are subject to a number of risks and uncertainties that may cause our actual results to differ materially, including those described in our 10-K for the year ended December 31, 2017, and from time-to-time in our other SEC documents.
+I'd now like to pass the call over to <UNK> for his introductory remarks.
+Thank you, Mike, and good morning, everyone.
+So there is much to be excited about for the future of Incyte with our fast-growing revenue line, the late-stage pipeline of compounds that could lead to new marketed products in the next several years and an earlier-stage portfolio offering multiple opportunities for the longer term.
+That said, it's definitely been a tough few weeks from a newsflow standpoint, and I would like to briefly share my perspective as we begin today's call.
+Epacadostat, was a pioneering development program and what is true in the biology did not translate into a benefit in patients with advanced melanoma.
+We have been working efficiently with investigators and our partners to downsize the ECHO program, while still allowing us to ask the right scientific questions, but in a much smaller program.
+<UNK> will detail these changes later in the presentation, and these changes should allow us to recalibrate our R&D spending going forward.
+Next, let me quickly address baricitinib.
+Last week, the FDA convened an AdComm to discuss a resubmission of the baricitinib NDA for rheumatoid arthritis, which voted in favor of the benefit/risk profile of the 2-milligram daily dose.
+The FDA action date for baricitinib is in June 2018.
+Looking forward, the next steps for Incyte are very clear.
+We will continue to grow our top line and from the new R&D and SG&A guidance we published this morning, I believe that we are now on a clear trajectory towards sustained profitability.
+We also have an obligation to deliver on the promise of our exciting portfolio of development projects, and Slide 4 illustrates the depth and breadth of our product pipeline.
+We have 5 molecules in later-stage clinical trials, and it is updates from these that we expect to drive our near-term newsflow.
+We plan to announce results from the first pivotal trial of Jakafi in GVHD before the middle of the year, and initial data from our FGFR inhibitor program in cholangiocarcinoma are expected in the second half of 2018.
+We continue to recruit patients into the delta program in NHLs and into the JAK1 program in GVHD, and we anticipate opening a number of single agent and combination cohorts with our PD-1 antagonist during this year.
+We look forward to highlighting these programs and other candidates within the Incyte portfolio at our Investor and Analyst Event on June 21, where we also expect to dig a little deeper into Jakafi commercialization trends and future market dynamics.
+Revenue from Jakafi in the U.S. continues to be strong, and Iclusig in Europe is now becoming a contributor to our top line growth.
+Royalties from Jakavi grew by over 40% this quarter, and we expect royalties from Olumiant will become significant in time.
+As shown on the right-hand side of Slide 5, we also have multiple opportunities to drive additional revenue growth in the future.
+New indications may be achieved for Jakafi, and we also have a number of new molecular entities that could be submitted for global approval over the coming years.
+With that, I will turn the call over to <UNK> for an update on Jakafi.
+Thank you, <UNK>, and good morning, everyone.
+Net product revenue for Jakafi in the first quarter of 2018 grew by 25% over the same period last year.
+Sales continue to be driven by robust prescription demand, and we saw a year-on-year increase of approximately 17% in total patients being treated with Jakafi.
+We exited Q1 2018 with normal levels of inventory and take the opportunity today to reiterate our Jakafi net product revenue guidance for the full year of 2018, which is in the range of $1.35 billion to $1.4 billion.
+Slide 8 illustrates the estimated penetration of Jakafi into its 2 approved indications.
+We believe that there are approximately 16,000 MF patients and up to 25,000 PV patients that are eligible for Jakafi therapy, and we continue to work to bring Jakafi to more of these patients.
+We see, therefore, a significant potential growth in both indications.
+And this potential is augmented because as a proportion of PV in the patient mix rises, so does the average duration of therapy.
+As you recall, in July last year, Jakafi was included as a recommended treatment for PV in the NCCN Guidelines.
+We believe that there is now a greater awareness of those guidelines among the prescribing community, and also that as more physicians become familiar with the PV guidelines that usage of Jakafi may increase.
+I will now pass the call over to <UNK> for an update on our portfolio.
+Thanks, <UNK>, and good morning, everyone.
+As you can see on Slide 10, we're making some important changes to the ECHO program following the recently announced results of ECHO-301, which clearly demonstrated that adding epacadostat to pembro did not add efficacy over pembro monotherapy in patients with advanced or metastatic melanoma.
+We've also moved very swiftly and with significant cooperation from the investigators from Merck and the conference organizing committee to bring the ECHO-301 data to ASCO next month.
+We think it's very important to share these data as soon as possible.
+We want to assess the IDO plus PD-1 combination in another tumor type as well as assessing it in combination with chemotherapy.
+We can achieve both of these objectives by changing the 2 ongoing lung studies with pembro into randomized Phase II trials.
+Specifically, we'll be looking at the IDO plus PD-1 combination in tumor proportional score high, non-small cell lung cancer versus pembro alone and thus performing the randomized Phase II test in a second histology after melanoma.
+And we would look at the IDO, PD-1 plus chemotherapy combination versus pembro plus chemotherapy in an all-comer non-small cell lung cancer population, thereby also asking the chemotherapy combination question in a lung cancer population.
+Enrollment in all of the other pivotal studies in the ECHO program has been stopped.
+And each of these studies will be amended to enable patients and their positions to consider alternative therapeutic options.
+The proposed pivotal study with durva will not be initiated.
+We will continue to investigate the potential utility of IDO1 inhibition in a variety of clinical settings, but these will be conducted in small proof-of-concept trials and where we believe the biology and translational data are compelling.
+The lower half of the slide describes these updates in more detail.
+On Slide 11, we summarize our commitment to finding the safe and effective treatment for graft-versus-host disease.
+The incidence of graft-versus-host disease has been growing due to the increase in the number of allogeneic transplants.
+Unfortunately, approximately 50% of these transplant patients develop graft-versus-host disease, and mortality rates in GVHD patients can be very high.
+In the first year, mortality rates can be between 25% and 75% depending on the grade of the graft-versus-host disease.
+So the unmet need here is very clear.
+The result of the REACH1 trial evaluating ruxolitinib in patients with steroid-refractory acute graft-versus-host disease is expected this quarter.
+And I can confirm that data emerging from this open-label pivotal trial continue to support our intention to submit a supplemental NDA in the second half of 2018.
+REACH2 and REACH3, the pivotal trials being run in collaboration with Novartis, are ongoing.
+We plan to enroll more than 300 patients in each of these.
+GRAVITAS is a pivotal program for our JAK1 selective inhibitor itacitinib in patients with treatment-na\xefve graft-versus-host disease.
+GRAVITAS-301 is expected to enroll more than 400 patients.
+And we anticipate the top line results may be available as early as next year.
+I'll finish my section by reminding you that we're expecting to announce initial data from the trial evaluating '54828 in patients with advanced or unresectable cholangiocarcinoma later this year.
+The trial is expected to enroll a total of 100 patients with FGFR2 translocations.
+20 additional patients with other FGF or FGFR alterations and 20 patients without any FGF or FGFR alterations for a total of 140 patients.
+The primary endpoint will be the overall response rate in patients with FGFR2 translocations.
+If the trial is successful, it could lead to an NDA submission as we seek to bring a new therapy to patients with cholangiocarcinoma, which is an orphan indication and represents a significant unmet need.
+In the second-line setting post first-line chemotherapy, overall response rates to second-line therapy in cholangiocarcinoma only approximately 10% with a short 2-month progression-free survival.
+We are also evaluating '54828 in patients with metastatic or surgically unresectable bladder cancer.
+As described in the lower half of Slide 12, this trial will focus on the efficacy of FGFR inhibition in bladder cancer patients with FGFR3 mutations or fusions.
+With that, I'll pass the call to Dave for the financial update.
+Thanks, <UNK>, and good morning, everyone.
+The financial update this morning will include GAAP and non-GAAP numbers.
+For full reconciliation of GAAP to non-GAAP, please refer to our press release.
+In the first quarter, we recorded $382 million of total revenue on both the GAAP and non-GAAP basis.
+This is comprised of $314 million in Jakafi net product revenue, $21 million in Iclusig net product revenue, $41 million in Jakavi royalties from Novartis, and $6 million in Olumiant royalties from Lilly.
+First quarter, Jakafi net sales of $314 million represents 25% growth over the same period last year.
+At first quarter, Jakavi royalties of $41 million represents 43% growth over the same period last year.
+Remember that despite significant growth in underlying Novartis sales of Jakavi, the royalties received in the first quarter of 2018 are slightly lower than the fourth quarter of 2017 because the royalty tiers reset each calendar year.
+And we begin each year in the lowest tier.
+Our gross to net adjustment for the quarter was approximately 16%.
+This is driven primarily by Jakafi.
+And as with similar oral oncology drugs, our gross to net adjustment is higher in the first quarter of the year than the rest of the year, primarily because of our share of the donut hole for the Medicare Part D patients.
+We expect that our gross to net adjustment for full year 2018 will be approximately 14%.
+Our cost of product revenue for the quarter was $13 million on non-GAAP basis.
+This includes cost of goods sold for Jakafi, Iclusig and the payment of royalties from Novartis on U.S. Jakafi net sales.
+Our R&D expense for the quarter was $266 million on a non-GAAP basis, primarily driven by clinical development programs.
+Our SG&A expense for the quarter was $109 million on a non-GAAP basis.
+This includes an increase in our donations to independent charitable foundations, which are typically higher in the first quarter and lower as the year progresses.
+Moving on to non-operating items.
+We recorded GAAP to non-GAAP net interest income of $4 million in the first quarter.
+In the first quarter, we recorded a net loss of $3 million on a non-GAAP basis.
+Slide 16 provides a summary of reconciliation from GAAP to non-GAAP metrics.
+And as I mentioned, a more detailed reconciliation is provided in this morning's press release.
+The next 2 slides provide a summary of our updated guidance.
+We have made no changes to revenue or cost of product revenue guidance.
+As we adjust our epacadostat development programs, our GAAP R&D guidance will change to a new range of $1.15 billion to $1.25 billion, which is a reduction of $50 million from our previous guidance.
+Looking further out and compared to our prior plan, we also expect that R&D expenses related to epacadostat will be significantly lower in 2019 and 2020.
+In addition, in April, we paid BMS a $15 million fee to exercise our option to purchase a nonexclusive license related to PD-1 intellectual property.
+This amount will be excluded from our non-GAAP earnings in the second quarter.
+Given the recent news of our epacadostat development program, we're updating our GAAP SG&A expense guidance to a range of $390 million to $410 million.
+This now excludes $125 million of epacadostat pre-launch expenses that were included in our previous SG&A guidance.
+Finishing with the balance sheet, we ended the first quarter with $1.2 billion in cash and marketable securities, and we expect to end the year with a similar level of cash and marketable securities.
+To summarize, we delivered strong product revenue growth for the first quarter.
+We believe we are well positioned from a revenue and cash perspective.
+And despite the ECHO-301 disappointment, we continue to make advancements on our clinical development programs, which we strongly believe have the potential to deliver long-term shareholder value.
+Operator, that concludes our prepared remarks.
+Please give your instructions and open up the Q&A.
+Thank you.
+<UNK>, hi it's <UNK>.
+Thanks for your question.
+So for MacroGenics PD-1, in many ways, it was independent of IDO.
+We needed that compound internally for upwards of 7 combinations to be done.
+But if you look at the compound at a high level, in terms of monotherapy, we'll be pursuing registration strategies likely in the niche tumor initially and then potentially exploring elsewhere thereafter in bigger tumor types.
+So just to reiterate, it will have a monotherapy strategy attached to it as well as numerous internal combinations that need to be done for proof-of-concept work.
+In terms of AACR and perspectiveson what is the potential best to way to select patients for immunotherapy in general and checkpoints, we're following all of what you mentioned, including PD-L1, tumor proportional scores, tumor mutational burden, et cetera.
+We haven't yet outlined which way we would potentially enrich.
+But all of the above are interesting.
+We'll also obviously be examining our own data from ECHO-301 to see in that program what biomarkers may or may not help us.
+<UNK>, it's <UNK>.
+I'll do the first part of your question and then somebody else will opine on the second.
+You're right.
+The single agents -- well, excuse me, combination of chemotherapy response rates are around 10% with very short progression-free survival of approximately 2 months in the setting.
+So for us, something north of that, that is durable.
+So response rates 20% to 30% range that are durable would be, for us, a reasonable consideration for an accelerated approval in that setting that's combined with a reasonable progression-free survival.
+You do have to couple that additionally with the likelihood that a single agent targeted therapy is likely to be a lot more tolerable than combination chemotherapy.
+So for all of those reasons, should the trial deliver the results we expect, we think we'll have a viable option for a submission there.
+In terms of the market opportunity, I'll pass it to <UNK>.
+Sure, remember this is a subset of patients with cholangiocarcinoma that have FGFR2 translocations that we're looking at.
+So in the United States, we believe the opportunity is about 1,000 patients with this disease and the translocation in worldwide about 3,000 patients.
+<UNK>, it's <UNK>, again.
+It is a single agent -- a single-arm study in FGFR3 patients with bladder cancer.
+So again, should it deliver a response rate that's durable, it would certainly be considered for an accelerated approval opportunity in the U.S. In terms of ex-U.
+S.
+that would be a matter for regulators to consider, but we may need randomized data additionally for that.
+So <UNK>, it's Dave.
+I'll answer the first part of your question.
+In terms of the R&D that is a percent of what is IDO in 2018, we don't break that out separately, but obviously it's going to come down.
+As we mentioned that will come down in our prepared remarks by about -- the overall R&D expense will come down by about $50 million.
+And obviously in 2019 and 2020, it will become very insignificant.
+There will still be some, but it will be far smaller than we originally thought it would be.
+Yes, regarding baricitinib, I mean the -- frankly, the opt-in option that we have is always open.
+And we look at it by indication.
+So there is no really direct correlation between that decision for new indications and what could happen in RA, but there is a connection in the sense that it has an impact on the royalty and the amount of royalties that we will be receiving.
+So it's far far too early for us today to make speculation about which way it will go.
+I think we have a month and a half now, up to June to see how the discussion are going with FDA, and then we will have all the opportunities to make decisions based on that one.
+<UNK>, it's <UNK>.
+So for ECHO-301 itself, as I said in my prepared remarks, we've been able to secure an oral presentation at ASCO on Sunday morning.
+So the data will be presented there.
+It is early from the biomarker point of view as we said repeatedly before and on calls.
+The biomarker data only comes in through the second half of this year.
+So at this junction, I can't tell whether or not that presentation will have biomarker data within it.
+In terms of sort of readthrough to lung and why lung.
+So firstly, we step back, we consider IDO a pre proof-of-concept asset now.
+And with Merck, we'll be doing randomized Phase II tests in the lung cancer setting -- in the 2 settings.
+So in the tumor proportional score high by the Merck definition of 50% or above, it's a very clean study of pembro monotherapy versus pembro plus IDO and isolates the potential effect of IDO very cleanly in the randomized Phase II setting.
+There's no other enrichment at the current time or any learning that we've read through to that.
+In terms of the second study, again, a different MoA being explored with chemotherapy in an all-comer lung setting and again, a very clean study of pembro chemo IDO -- the combination with IDO alone that then allows us to isolate the IDO versus pembro + chemo.
+So pembro + chemo + IDO versus pembro + chemo that then allows us to potentially isolate the IDO effect very cleanly there.
+And again, at this junction, no important biomarker stratification at this point in time.
+In terms of the checkpoint blockade doublet, we -- as I outlined, our principles are pretty clear.
+We want to test one other histology to sort of rule out a false-negative, if you will, randomized Phase II's and then the chemotherapy MoA.
+In terms of beyond that, in terms of other biology, I'll ask <UNK> to answer your question.
+Yes, this is <UNK>.
+So we remain -- and I think the field remains interested in IDO1 and maybe the most appropriate place to evaluate an inhibitor.
+And so in situations where we think that scientific data, preclinical or translational are strong, and we have a clear way to isolate treatment effects to evaluate the molecule in a clinical setting, we look to pursue those.
+They'll likely be in smaller Phase I/II studies, perhaps in randomized Phase II studies like <UNK> just described that we're going to conduct with Merck in lung cancer.
+But I think our thinking around IDO1 is evolving given the 301 data.
+But we do absolutely look to study the mechanism in other places such as with vaccines, perhaps with other immune stimulatory mechanisms, and I think the details on the early-stage program for epacadostat will evolve over the coming months.
+So <UNK>, it's <UNK>.
+I will start off and then <UNK> will talk about the commercial opportunity.
+So if you step back and look at graft-versus-host disease in its entire spectrum, you're dealing with multiple entities.
+So there's a steroid-refractory setting, which is where we started with the REACH1 study and that's a single-arm study that will be delivering data first half of this year looking at ruxolitinib monotherapy in a single-arm study with the 28-day endpoint in steroid-refractory acute graft-versus-host disease.
+To back up that study and with Novartis also to get approval ex-U.
+S.
+is REACH2, which is a randomized study of ruxolitinib in the same setting, steroid-refractory acute versus best available therapy.
+And then, there is a completely different clinical entity, chronic graft-versus-host disease, which occurs more than 100 days post transplantation, has a different clinical phenotype in terms of it being more fibrotic disease and more skin manifestations.
+And you're right, ibrutinib has an approval there in that chronic graft-versus-host disease setting.
+Our randomized Phase III study, REACH3, is ruxolitinib versus best available therapy, which could include ibrutinib in that setting.
+And the primary endpoint is response rate at month 6.
+So that's the spectrum of the steroid-refractory setting.
+And then there is a completely different entity, which is upfront steroid-na\xefve graft-versus-host disease, so before high-dose dexamethasone use.
+And if you remember, our proof-of-concept data with itacitinib, our JAK1 inhibitor was strongest in this setting.
+And that's where we're conducting GRAVITAS-301, which is in steroid-na\xefve graft-versus-host disease in the acute setting, 436 patients.
+It's a randomized study versus placebo in that setting with steroids to 28-day response rate.
+If that study is ultimately successful, then itacitinib will be used upfront in the steroid-na\xefve setting and that's the compound that's wholly owned by Incyte and is globally ours.
+And then rux will find its way more in the steroid-refractory setting as outlined above.
+I will also ask <UNK> to opine on the epidemiology.
+Yes, <UNK> here.
+So before <UNK> speaks about the U.S. just to give you the perspective of the potential for us.
+So the first program is ruxolitinib, where obviously it is Incyte commercializing in the U.S. and our partner, Novartis, outside in steroid-refractory GVHD.
+And that is a number of patients that has been estimated as shown on Slide 11, it's around 3,500 new cases of acute GVHD in the U.S. There is around 3,500 new cases of chronic GVHD also in the U.S. So that's the first thing where we do the work with Novartis, we will commercialize it in the U.S. and that's steroid-refractory setting.
+In the steroid-na\xefve GVHD where itacitinib is developed, we estimate north of 10,000 new cases of acute GVHD between U.S. Europe and Japan.
+And it's important because it's a project where Incyte will be commercializing itacitinib across the U.S. Europe and Japan.
+So <UNK>, unless you want to speak a little bit about the specific U.S. short-term opportunities.
+Well, so I think <UNK> has pointed out the epidemiology for both acute and chronic GVHD in the U.S. I think you asked the question about IMBRUVICA and obviously it's approved in the chronic GVHD setting.
+We think that there's an opportunity for both drugs there.
+We actually don't see the uptake in IMBRUVICA to be that great so far in chronic GVHD, and we think our profile will serve patients well there.
+Yes, thanks, <UNK> for the question.
+So we've said this a number of times, I think, about persistency and -- in the commercial setting how sometimes it's difficult to actually follow patients as they switch insurance and so forth.
+So the best evidence is to turn to our trials.
+If you look at the response trial, for example, more than 80% of patients are still on the therapy at 2 years.
+And if you look at the COMFORT trials, you have more than 50% of patients are on therapy at 3 years.
+So that's sort of our guidepost.
+There is actually information from our response trial from ASH, and there will be update at ESH, European Society of Hematology, where we've shown their response data that patients -- 66% of patients are still either on therapy or have completed at least 5 years of therapy.
+So the duration of therapy in PV is clearly longer than MF, but MF patients stay on therapy for long time as well.
+Dave.
+<UNK> here on the R&D and the profit question.
+We have said -- I mean, it is a series of decisions and choices that are made on the project-by-project basis.
+So the paradox of what happened with 301 is that by downsizing fairly drastically our epacadostat program as we just discussed.
+In fact, we are improving the profitability for this year.
+But obviously, it was not the goal.
+I mean, the goal was certainly to develop it in multiple indications very quickly.
+And it's interesting to look back at this as sort of an example.
+We have a project here that has a clear safety profile that was very well established.
+It's a program where we have good biology, we have early clinical data.
+And where from the cost and the strategic standpoint, it makes a lot of sense to test it in a larger scale as we did.
+If you look at the cost of 301, so the studies that were led -- the first Phase III study that led to the reduction we discussed over the past months.
+So total cost of that study for Incyte was around $50 million over 2 years.
+So it's the case -- because we have a partner that was sharing the cost because we have the supply also from the partnership, et cetera.
+So when you look at it from that standpoint, to say it makes total sense in the world to do that investment that would put us ahead of the curve from the competitive standpoint and gives us a clear advantage.
+So we will continue to look at research programs that way where we look at them as does it make sense to invest in the program based on the science and the safety and the biology and the efficacy that we are seeing and then, of course, on the competitive position.
+Overall, when you look at the portfolio as a whole the top line continues to grow very dynamically.
+It's 25% in the U.S. a little bit more outside from the royalties we are receiving.
+So you can imagine that over time, as we've said, there is -- the lines are going to cross or have crossed over the past quarter depending on some of the events.
+And what we are seeing today is that with the downsizing of epacadostat, it's clearly a situation that will go in that direction.
+It doesn't mean that if there is a case that requires resources to be fully realized, we would not do it.
+It's just looking at the trends and trying to project from the existing trends that we are seeing over the past quarter.
+Concerning the epacadostat program.
+Well, obviously, the first 2 quarters of this year will still carry the cost of the larger studies that we had ongoing.
+So don't expect Q2 to be certainly dropping very quickly.
+I think you will see most of the effect in Q3, Q4 and certainly in '19 and '20.
+So just to be very clear, by shutting down or stopping some of the studies in the middle of the quarter, you end up carrying all the costs of the closure.
+So that's what the perspective looks like.
+I believe having a robust R&D spending for a company like us is the right thing if the science is good.
+And I think we'll be following that science as we go.
+At the same time, I also believe that because we have this growth of our top line that we will be emerging in sustainable profitability over the next quarters just -- as we have always planned for.
+So that was always the plan in the way we were looking at the numbers.
+And specifically on the ratio of fixed cost and variable cost to emerge into sustainable profitability at some point, the fact that the IDO program has been more or less put back into proof-of-concept stage or very much a smaller investment is just making it happen a little bit earlier.
+Yes.
+I think -- I mean, you know we have been always open to acquiring assets.
+So you can see that over the past 3 years, it has been fairly selective.
+It has been targeted to some scientific questions that we were interested in and you can go back to arginase or it has been based on portfolio needs like the MacroGenics PD-1.
+And then there are some small scientific early-stage research programs like Merus and Syros.
+So you can see the appetite for partnership has always been there.
+I think the portfolio we have today is very full of sort of near-term opportunities.
+We spoke about them, but there are like 4 molecules that are at the stage of starting on being in the middle of pivotal studies.
+So we don't lack opportunities to launch new products over the next few years.
+And at the same time, if we see opportunities that would strengthen that, we will look at them, but we would not look at them at any price.
+I think it would have to be something that fits with the portfolio and something that is in the price range that is reasonable.
+We have $1.2 billion in cash.
+So that gives us some flexibility to do that if we see the right opportunity.
+And that's really the way we look at it.
+It's always the goal.
+There is no objective of not being profitable obviously.
+So it has always been the goal.
+It is always the goal.
+What we see today, because of the technical reduction of our R&D spend with the epacadostat downsizing, that is, in fact, happening in the short term.
+It should take the guidance we just gave.
+Maybe Dave, if you can describe it.
+Sure.
+What <UNK> is mentioning, if you take the guidance we just gave, we reduced the SG&A guidance and reduced the R&D guidance.
+Of course, we don't give guidance on milestones, but you assumed what the consensus is on milestones of Jakavi royalties of $200 million and $40 million in Olumiant, because that consensus, we're going to end up with non-GAAP profits of between $200 million to $250 million this year.
+So we are -- as <UNK> has mentioned, we're well on our way to that sustained profitability number, and we hope over time that will get better on a yearly basis.
+So, maybe, just transitioning to the early pipeline and your checkpoint strategy here.
+You've completed these dose escalation studies for OX40 and GITR.
+Could you just comment on what you're looking to combine these with going forward.
+And it looks like the TIM-3 and LAG-3 studies are progressing to clinic.
+So how are you prioritizing the relative targets particularly given competitive feedback.
+<UNK>, it's <UNK>.
+I will start.
+So for the agonist for OX40 and GITR, they've been in the clinic, the longest GITR is slightly before OX40.
+And as you pointed out, we've got 2 recommended Phase II doses for the monotherapy.
+They're likely both combination drugs should they continue to go forward.
+They neither the rational competitors that have demonstrated to date any large amount of monotherapy activity nor was it expected.
+And currently with checkpoint blockade, we hope over the ensuing next half of this year/early next year to get to the ability to discern whether or not there is proof-of-concept with these agonists in combination with checkpoints.
+In terms of TIM-3 and LAG-3, they are on track to go through their INDs this year and getting to the clinic.
+They're antagonists.
+The field as a whole is probably a little more bullish about the antagonist.
+And again, they're not likely to have a large amount of monotherapy activity based on what we've seen from competitors.
+So they will be combination products.
+One thing we can do, when we're not first is learn hopefully a great deal from our competitors and see where they go and where they potentially get proof-of-concept and then jump on that quickly.
+But as I said, it's very early with those programs, and they're only about to go into the clinic.
+And then, just I'll remind you that we are taking another compound as we speak into the clinic that's also has a biomechanism to it and that's our AXL/MER inhibitor, and we'll be taking that very carefully into the clinic as we speak.
+And that will round out our current immunotherapy portfolio.
+Great.
+And then just following up.
+You had first-in-man data in December for both the bromodomain and the PIM programs.
+What are the next steps there.
+So -- again, those targets, you're right.
+We have completed the early part of the work in terms of getting towards a dose.
+But for the bromodomain/BET program, we selected the backup compound to go forward with because it had a better PK profile than the lead compound.
+And we're busy looking at that very carefully to see if there is a route forward in terms of a proof-of-concept to work with.
+It does have on-target toxicity in terms of and we showed this publicly in our presentations, thrombocytopenia.
+So that will -- we have to work very carefully for it.
+For PIM, again, a program that we've been cautious with.
+There are not many competitors left.
+We have a dose, and again, we're looking at where are the paths forward there in heme malignancies and in combination.
+Both of them by the way have really good combination data with rux in myelofibrosis.
+So it's part of our rux combination work in MF.
+But they are still early programs and can't declare yet where we'd be going and haven't reached proof-of-concept yet.
+<UNK>, it's <UNK>.
+So I will try to answer your question is that for acute GVHD, we have to see the final results of the REACH1 study, to see what -- how long patients stay on therapy.
+We think -- we believe that in chronic GVHD, the potential could be much greater for persistency and for the provided a long-term benefit they have.
+But remember, patients even with acute GVHD can get retreated with the same product, or they can go on to get chronic GVHD.
+So overall, we think that the opportunity for both acute and chronic GVHD could be quite good.
+We also see the duration of treatment has been much shorter than what you observe in MF and PV.
+It's a good question.
+The way we organize the expansion, and we are happy we did it that way now was to make it proportional to the existing portfolio.
+So the way we organize it in the U.S. is basically, there is a team working on Jakafi.
+They have a very fast-growing top line and all of that is doing well from the commercial standpoint.
+In Europe, in fact, you can see -- you should look at the number on ponatinib in Europe, Iclusig.
+Because in fact, the commercial team in Europe is -- in fact, it is sustained -- self-sustained with the growth of ponatinib in Europe.
+So the fact that we have a delay for our first launch after Iclusig or Jakafi is in fact not changing the strategy on the efforts there.
+We have a team also working on development of our new pipeline in Europe.
+So the GRAVITAS study, the FGFR studies, the delta studies, they are all running in European centers.
+So all of that is very stable.
+Obviously, there is a delay in the hyper growth of the top line because of epacadostat moving back to proof-of-concept, but there is no change in the plan.
+And concerning Japan, we did the same thing, which is we have a development team there we started with development.
+It's a group of around 10 people today.
+They are working also on GRAVITAS and the other programs.
+And in spite of the delay on epacadostat, that is not changing.
+And the goal for Japan would be the same as for Europe and U.S. is that when we have a product that becomes viable for commercialization is when we will do the scale-up of the commercial team.
+So there is no -- I mean obviously, as the plans have been modified, but there is no change in the direction for each of these geographies.
+Ren, it's <UNK>.
+Thanks for your questions.
+So it is very interesting.
+It actually came from external investigator initiated research from a group of investigators in Germany led by Zeiser who showed in their study, which had approximately 60/70 patients in, 70%/ 80% response rates.
+[It's] not a classic sponsored study with tight controls and how you measure endpoints, et cetera.
+But very, very encouraging proof-of-concept data.
+And then we worked to get the rights back to run our graft-versus-host disease program with rux.
+Now remember, I also teed up the large unmet need here.
+There's approximately 10,000/ 11,000 allogeneic transplants that occur with more than half of them getting graft-versus-host disease and then if they aren't steroid responsive, which is about half the patients, they have an extreme morbidity and high mortality rates as I outlined to you.
+We got breakthrough designation here.
+We're able with the agency to run a single-arm study in steroid-refractory acute and where we would like to see the response rate is in the 50%-plus territory that's a durable.
+We think if we could meet that under the conditions that I just outlined, then we'll have a submission of supplemental NDA in The United States.
+The Europeans may also be interested in that single-arm data by the way if in that territory that I mentioned, but we have a randomized study REACH2 as well to go to if need be.
+So hopefully that answers your questions on how we got there on steroid-refractory acute.
+So, yes, thank you for your question on our PI3k-delta inhibitor '50465.
+So in many ways, we did take a time here in that we stepped back and looked at the class in general, and say, we have a second-generation compound that seems to have eliminated, for the most part, the liver toxicity seen with the first-generation compounds like idelalisib.
+But there's still long-term toxicities probably from chronic B-cell suppression like colitis.
+We knew we had a very active compound.
+We presented this data 2/3 times already.
+It has very high activity in B-cell malignancies, particularly in follicular, mantle and marginal zone lymphomas.
+But we also knew with time we were going to see some of the long-term toxicity.
+So what we did is dose through sort of an induction paradigm to get to the efficacy endpoint you want and most people respond by the time of the first scans at 8/9 weeks.
+And then, change thereafter to a different dosing schedule and see what ameliorating -- or changing that dosing schedule, we were able to ameliorate the toxicity profile.
+And data, we showed at ASH last year, again, small numbers and many caveats, that we're able for the most part to ameliorate the toxicity profile.
+So we think we're in a very good place with a highly active compound and we're able to change the tolerability profile with the dosing scheduling changes.
+So now we have ongoing efforts in the all the B-cell malignancies, diffuse large B-cell lymphoma, follicular lymphoma, mantle cell and marginal.
+The class as a whole is more active outside of diffuse large.
+It tends to have more activity in the follicular, mantles and marginal zones.
+We're conducting those studies this calendar year into early next year and hopefully have data next year.
+If they again meet the required high response rate that's durable, then there are potential accelerated approval strategies in those settings.
+So that's where we stand with the program.
+We are proud of what we did in trying to change the profile.
+We look like we've been able to, and now we have to execute the studies to show both the efficacy and tolerability.
+We will have to follow all of that work with the combinations.
+In many other settings, you require CD20 antibodies or other compounds.
+But the initial strategy is monotherapy and then we will begin safety with various combinations.
+We are looking at '50465 in combination with rux in myelofibrosis because there's very good preclinical rationale for that.
+The pathway is up regulated in myelofibrosis and we're conducting that study now.
+And then, you alluded to a very early data set that was in AACR with a lower dose of delta '50465 to try and change the tumor microenvironment of the PD-1 inhibitor that we're also looking at currently, and there's some early data that there may be some activity with that doublet as well.
+<UNK>, it's <UNK>.
+I'll try to answer your question first and <UNK> alluded to this because we don't have the final data yet.
+Our expectation is that in acute is once you have the data set and show what the duration of response is, that physicians will use the compound to get control of the graft-versus-host disease to then eliminate the steroids and then eventually potentially eliminate the JAK inhibitors as well once they know patients are controlled.
+I don't know what that duration will ultimately be.
+But it's probably of the order of somewhere around anything between 3 to 9 months approximately, not knowing the data.
+For chronic, as <UNK> said, it may be a slightly different paradigm.
+These patients phenotypically have a different disease.
+They tend to have a lot of skin toxicities, and it's a longer endpoint.
+It's a 6-month response rate endpoint.
+So we feel there that the likelihood, as <UNK> said, is there will be a longer use pattern of the JAK inhibitor in that setting and then people -- once they have control of the various organ systems, we'll look at weaning them off the therapy.
+For itacitinib, it's steroid na\xefve, but it's in combination with steroids.
+So it's an add-on therapy.
+You have to use the steroids as well.
+So it's not versus steroids.
+It's itacitinib plus steroids versus steroids in steroid na\xefve.
+So I hope that's clear in terms of the schema of the study.
+Yes, Chris, this is <UNK>.
+And so the arginase inhibitor program, we in-licensed and are co-developing with Calithera.
+We've completed -- or are completing now the Phase I dose escalation and expansion studies.
+The mechanism, as you pointed out, does have some similarities to IDO1 and the compound, epacadostat.
+But there's actually some very important differences as well, not the least of which is the cell types that express the enzyme and the types of immune complexities of those patients may have, which are actually quite a bit different than those that are IDO1 positive.
+So I don't think there is any direct readthrough -- to arginase from a mechanistic standpoint.
+Clearly, the epacadostat experience will color the kind of stepwise de-risking that we take to pursue the arginase inhibitor program.
+And the studies that the clinical team are working on now include both translational studies to look at effects of the molecule on the immune microenvironment as well as the initial thinking around safety studies to move the agent probably first in the combination with the PD-1 antagonist.
+But right now, it's a pre proof-of-concept mechanism and the translational data we generate over the coming months will be important to any next steps that we make.
+Yes.
+Again, so the translational work with the ECHO-301 include PD-L1 status, IDO1 status, tumor mutational burden and RNA-Seq.
+To the extent that there are learnings from those trials, it's probably going to apply more to more to the PD-1 doublet setting and certainly to melanoma.
+So I think there is a potential for some information content upload to arginase.
+But as I mentioned earlier, the types of patients that we believe are likely to have a dependency on the arginase biology are probably not those that you would normally think of as being inflamed tumor types like melanoma.
+So in short, probably some read through, but not very much.
+Okay.
+Thank you.
+Thank you for your time today for your questions.
+So we look forward to seeing you at some of the investor and medical conferences, but also at the 21st of June meeting, we're organizing where we will do a full company update.
+But for now, thank you again for your participation in the call today, and goodbye.

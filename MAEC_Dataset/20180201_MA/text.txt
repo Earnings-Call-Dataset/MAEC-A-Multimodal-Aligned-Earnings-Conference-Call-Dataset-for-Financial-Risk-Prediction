@@ -1,0 +1,180 @@
+So the first part, the merchant acceptance, there is growth across the European region on merchant acceptance, from large outlets that earlier used to prefer to take either local payment systems only or cash.
+That changes that, all the way to small ones.
+What you do see really changing also is the reduction in suppression.
+So even if the outlet said we accept, in actual fact, when you showed up for a small ticket charge or a low-value payment, they would encourage you to kind of lay off the idea of producing electronic payment, I think all that has changed quite dramatically.
+It's helpful.
+It's part of the secular change in the way cash is used in the European economy.
+I wouldn't declare we kill that right now because I think a year or 2 in Europe is a relatively small time in a set of complicated countries with lots of local dynamics vis-a-vis local schemes, local players and the like.
+So I will tell you, keep your eye on that space and we'll keep working into the acquiring community.
+You're talking about a full 5-year transition in a continent like Europe.
+It's good signs.
+It's a nice tailwind, but I'm not running with it to the bank yet.
+That's kind of the first part.
+Your second question was about -- remind me what the second question was.
+PSD2.
+PSD2, oh, favorite topic.
+So we're coming up to the time frame of when all this starts to go live in so many ways in different aspects of implementation in Europe.
+We have been working both internally as well as with the help of our largest clients, as well as in conversations with regulators, about the implications of PSD2 and the things we can do around PSD2 with these European merchants and European banks and the new European entities that will get created as a part of PSD2, the PSPs and the various acronyms that are being created in PSD2.
+Your question was around VocaLink and PSD2.
+So to get VocaLink onto the ground in different European countries beyond the software status, which is kind of what it is today in the Nordics and some other markets around the world, will require us to actually participate in the RFP process of different ACH systems being opened up in Europe.
+We are participating, you heard me in my opening comments, we are participating in those RFPs.
+These take a year or 2 to get resolved and settled.
+After they get settled, it'll take a while to get invested in and implemented.
+Well, we are very active in all of those.
+And one of the reasons why I think you will see us using some of the tax reform money in a sensible way in our business is to keep on focusing on the opportunity with Fast ACH, thanks to VocaLink's capabilities in Europe, but also outside of Europe, even in the United States and other markets, not just in infrastructure, but it could be in the application, it could be in the scheme rules and it could, of course, be in different aspects of the range of things we can do with Fast ACH.
+So I think in the world of e- and m-commerce space, there's so much going on, <UNK>, in that whole space.
+And I think if you go back in time when essentially Visa and Mastercard in those places and other brands like us, the other card -- what were called card network brands.
+We got into a position where we became part of a drop-down on a merchant's checkout site.
+Drop-down, you've got one brand or the other, and you enter a lot of details, you enter a lot of addresses, and that created its own friction and its own lack of branding at the checkout point, even though the consumer was aware of the brand because they were looking at their card and entering the data.
+I think that's moving and PayPal is one way of that movement.
+But our own efforts with branded checkout points is moving, and we will continue to do that.
+I think PayPal itself, its relationship with eBay, I would look at the IPO time, it's something for Dan to answer, but I'm pretty certain that all of you thought about one day that relationship will come up for reassessment, and it's come up for reassessment and eBay has chosen what it wants to do.
+I think Dan's done some interesting work of building out his partnerships in the meanwhile.
+So he's kind of consolidated his own position today with their second and third leg of the stool.
+And I think we are a key beneficiary of that because, as you know, we've got a great partnership with PayPal, which includes all their co-branded cards and their corporate cards and all the understanding around how their wallet is used, including the visibility of the brand and the non-steering towards ACH and the data flow and basically the pass-through angle compared to the stage angle, blah, blah.
+So my general net take of all this is this is still a wide-open field.
+It's going to be years before you can figure out who's playing what game here.
+All I'm trying to do with our company and all of us are doing is we want to be very much a part of that game.
+So we are going to keep investing in tokenization and secure checkout.
+We're going to keep investing in an enhanced consumer experience in digital.
+You'll find us doing all kinds of things with banks, with merchants in that space.
+We're going to keep investing and align the developer community to access our capabilities with digital and core payments through the simplest form of APIs and SDKs so we can get embedded in more and more locations.
+We're going to keep investing and creating good R&D with our Labs and making sure that we are capable of working with our clients, with Labs as a service.
+You heard me talk about that with specific reference to Bank of America, but frankly, it applies to many other clients as well.
+So we've got a whole series of strategies in digital to make us not be anywhere other than at the forefront of what's going on here, with simple transparent standards.
+And standards are important, because they enable merchants and banks to connect one time, not multiple times.
+So you'll see us over this period of years to come, that's the focus: Simple experience, simple standards, focus on security, secure every transaction, make sure we do good stuff with Labs, make sure the open APIs and SDKs are available and well-used and make sure that we focus on all forms of payment, not just card rails, but ACH, Fast ACH, all those so that you enable banks and merchants to do the best thing for their consumer.
+That's our digital strategy, not changed.
+PayPal, eBay, other issues will come and go.
+We're doing what we need to do.
+All right, <UNK>.
+First of all, on your first question, I'm not going to give you any guidance on rebates and incentives for 2018.
+And it is because of the new revenue recognition rules coming in.
+There are so many moving parts between growth -- gross revenue and contra revenue, that I just feel, given all of the work that we were able internally to do, I just feel that the net revenue number is just the best guidance that I can give you.
+But I do want to take the opportunity to deep dive into that just a little bit more.
+As you know, I called out $300 million of benefit on the net revenue line due to the new revenue recognition rule.
+$100 million of that is really in relation to customer business agreements and through -- to incentives.
+And there are a number of effects that we had to be estimating in this.
+So first of all, as you know, we had amortization of incentives in previous deals that have been previously expensed.
+So in prior years, we expensed those and they will be now expensed over the life of the deal.
+And that will be a negative, right.
+We estimate actually that roughly about $0.5 billion of incentives will need to be re-recognized as contra revenue under the new rules starting 2018.
+And we will -- the average life of this recognition is approximately 7 years.
+So it's not -- so it's a headwind.
+It's not really material in the context of our size.
+But then in addition to that, we would have had some incentives in 2018 or later that will now have to be carried back to prior years, to the original deal inception or carried forward.
+So that will actually reduce the amount of incentives recognized in 2018.
+So you can see these 2 things are toggling with each other.
+And then the last, the third thing is that, obviously, we will be having new deals coming in, and that could impact this calculation, too, depending on the terms and conditions in these kind of deals.
+So when you put all of this together, we do estimate the net benefit of that $100 million that I just referenced, but obviously, that could change over time.
+And then, beyond 2019, we will continue to amortize the remainder of that $0.5 billion, of that roughly $500 million that we have to re-recognize as contra revenues under the new rules.
+So you can see this is a relatively complex area, and that's why we're staying with net revenue guidance, and we're not going to split it up in gross and into contra.
+With respect to your second question, there's really not much more that we can say to you.
+And quite frankly, what our cross-border business, inbound business in Europe is has actually no relationship in terms of how the European Commission would be looking at fining us, if they fine us.
+But we have, at this point in time, really no new news.
+So I'm still going to point you back to the last Q that we filed.
+That is a pretty accurate statement in there.
+And unless something happens between now and when we file the 10-K on, what, Feb 14 or 15, if we have an update, obviously, the K will be updated by that time.
+<UNK> is in accounting heaven for the last few weeks and months.
+Yes.
+And you also got Venezuela, which she's done an outstanding job of and trying to put her arms around how to manage that through the next period of time.
+In Venezuela, we're still very much on the ground doing all the right things.
+We've got a great team.
+We're supporting a lot of our clients there.
+We're not pulling out of the business on the ground.
+That would be a very unfortunate thing to do.
+And I think it would spark all kinds of humanitarian issues, given the role we play in that economy.
+In fact, we are trying to work with other players, including multilateral institutions, trying to find a way to make this a sensible outcome, because there will be an outcome one day in Venezuela.
+So this is not a -- you've got to think out long term on what we're doing in all of these things, whether it's European cross-border or Venezuela or these rules.
+At the end of the day, we're trying to give you guys some thought of what we are thinking in terms of what the impact could be.
+But <UNK>'s laid out a pretty good estimate of where we think our '18 revenues and expenses and EPS and our combined '16 to '18 goals will go.
+And I'll say you, over '16 to '18, we've had a good run.
+We gave you an update in September when we raised our guidance.
+Now what we are doing basically is making sure the accounting flows through.
+Yes, there's a small improvement in '18 that she pointed out.
+Some of it gets eaten up by Venezuela, some of it gets eaten up by the lapping of the acquisitions.
+That's kind of where we are.
+We're driving our business to win share and keep taking advantage of the secular trend in the business.
+That's what we're trying to do and not getting ourselves tied up between rebates and incentives and gross revenue and net revenue at a time when there are so many moving parts that asking someone to estimate that accurately would be asking for the moon.
+It is.
+No, most of it is just that.
+And then all the other things you heard about is pending.
+They're all coming on board.
+So you'll see some benefit in the Bank of America when it starts issuing.
+It'll take time.
+You'll see some benefit from the Kroger co-brand, the Cabela's co-brand.
+But these things take time.
+Meanwhile, there's the natural spending pattern that SpendingPulse shows up and there, as I said, fourth quarter growth was actually lower year-over-year than third quarter, just to be clear.
+Don't go there.
+You're giving me nightmares.
+Okay.
+Just to let you know, the total cash tax benefit as a result of the tax reform on an annual basis is in the zip code of $450 million, right.
+And we're doing then 2 things.
+One, we're taking the $100 million in order to invest into the Center for Inclusive Growth.
+And the other part that Ajay was mentioning in terms of the employee benefits as well as the additional investments we're doing, we have that embedded in the baseline of the operating expenses, okay.
+And that's -- it's all embedded in the low double-digit guidance that I have been giving to you for 2018, based on the new revenue recognition rules.
+I don't want to run a business in which I'm paying employees for their retirement long term, because this is not a 1-year, $1,000 contribution kind.
+This is we're adding to our already good 401(k) and defined contribution plans around the world.
+And second, we are investing in data and digital and Fast ACH.
+We don't want to run a business where that stuff is kept as a separate item.
+So <UNK> has got those embedded in the way we'd look at the future of our business.
+The only thing that's not embedded in that is these lumpy contributions that are going to the Center for Inclusive Growth because, honestly, $100 million going into that center being directed for workforce training and financial inclusion in the U.<UNK> and elsewhere, that kind of lumpy contribution is the one that we've not got embedded in our guidance.
+We're telling you about it, but it's embedded in the total, but not in the net that we're looking at.
+Right, <UNK>.
+Well, it's in the low double-digit operating expense guidance.
+We put 2 ppt for that particular contribution.
+In the total.
+But not in the organic growth.
+No.
+First of all, I would always expect my competitors to make every effort possible there.
+They've got a strong company.
+They've got good people on the ground.
+They're going to make efforts to win back share.
+And that's the reality, and it's the -- I believe that we survived by being competitively paranoid about all our competitors.
+So that, to me, it just is, I take it as a given that they'll attempt.
+There's a lot of competition on the ground, it's not just Visa.
+It's Cielo.
+It's the local methods of doing a lot of work.
+There's a lot of competition on the ground locally.
+There's also a lot of regulatory changes that are going on in Brazil, including with the bankers' association attempting to look at the idea of the way installments are paid and the whole installment method is managed, including the settlement time.
+There's a ton of things going on in the market in which we are today, a very large market share player there.
+The political environment in Brazil, yes, this year '17 showed an improvement, but you got to remember, you're comparing '17 to '16, which was not a particularly, let's say, delightful year in Brazil.
+It was a hard year.
+And they got some political stability; '17 turned out to be better.
+Good economic policies were getting put in place.
+Remember that '18 has an election, and that election has currently identified 2 players to come there, none of whom is in the current government.
+And so it's a little unclear to me what instability that could cause in the economic environment.
+That's why <UNK> pointed out, and I pointed out, that there are pockets of instability across the world that we're careful of, and Brazil is one of those for this reason of the political circumstance and the longevity of their economic reforms.
+I've been around a long time with working with Latin America, and I've learned that you cannot take for granted what happens for a couple of years because it does find its way through change on where politics goes.
+So that's where we are.
+I'm relatively constructive about Brazil.
+We're investing on the ground.
+The number of people we have in our office have increased.
+Our capabilities on the ground have increased.
+Our technological investments on the ground have increased.
+And we're going to keep seeing growth there is what I'm hopeful for, but I -- 2018 is a year to watch out for.
+Yes, so <UNK>, obviously, the numbers in Q4 that you saw in the rebates and incentives and we had given you a little bit of a heads-up on our November call that, that number might be coming in a little bit higher than what we had forecasted before, that should show you that we have actually terrific deal activity in Q4, and those deals will be rolling in over the next 6 to 18 months.
+It depends which deal you're looking at.
+I, quite frankly, with everything that I'm seeing from the pipeline from our reach -- from our regions around the world, I think that we are going to have a similarly robust deal activity in 2018.
+I don't think there's any letting up.
+I think there is a lot of players in the market that are looking to do things with us as a network, and it will be similarly robust.
+And on B2B, <UNK>, the global travel deals that we did over the last couple of years, they're actually helping us in our cross-border, as an example, back to somebody's question, I forget, on cross-border.
+But there's all this work we're trying to do with the B2B hub.
+We've announced the one partner had signed up.
+There's a bunch of partners in the pipeline.
+Hopefully, a few of them will come into locking on.
+There's all the work we're trying to do with Fast ACH and Send in different parts of the world.
+So B2B is pretty active for us right now.
+We consider ourselves to have good assets in place.
+So we are working our pipeline hard.
+So I'm sorry, we're going to have to cut you off, <UNK>.
+We can chat another time, but thank you all for your questions.
+And I'd like to wrap up with some closing thoughts.
+We're pleased with 2017 financial results.
+We think it's all driven by strong operating performance and execution of our strategy.
+Overall economic trends are positive.
+And as we said a couple of times on this call, we're going to monitor some risks and uncertainties that <UNK> and I have spoken to.
+But overall, we expect 2018 growth to be similar to 2017.
+Meanwhile, we expect tax reform will benefit the U.<UNK> economy and have a positive impact on our company.
+We see this as an opportune time to further invest in our employees and communities and continue to strengthen our business with strategic investments in those key growth areas while continuing to return excess capital back to our shareholders.
+And so thank you for your continued support of all of us and our company, and thank you very much for joining us on the call today.

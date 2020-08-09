@@ -1,0 +1,96 @@
+Yes, Lou.
+I'm not going to get into a granular level of specific there.
+But really the $40 million of the 14th week was in software and was in the service revenue line.
+So it was all there.
+And in fact, you can see it on the deferred revenue side of the fence.
+So deferred revenue was down pretty substantially in Q1 on a year-over-year basis, and we haven't seen that kind of decline, really in quite some time.
+If you take $40 million out of that, which is the deferred component, you get back to a number that we're not thrilled about but that's a lot closer to those types of a sequential decline we've seen before.
+So what we expect to happen is obviously that 14th week doesn't occur again in Q2.
+We go back to a 13th week.
+We won't talk about 14th week again for six more years from now.
+So we're going to look at those pieces.
+It obviously means that the amount of revenue of $40 million was shared between software and hardware, and the share was $18 million and $25 million respectively.
+That's not going to occur again in Q2.
+All right.
+Thanks, Lou.
+Okay.
+So if I think about deferred being software entitlements and service revenue, on a year-over-year bases in Q2 I would expect those things to go up.
+They're not going to go up dramatically, they're not going to be reflective of the 14th week because there will be no such thing, okay.
+On the product revenue side, and I think the real question is what's going to happen with product revenue, on a sequential basis (multiple speakers) expected a pretty reasonable increase in product revenue.
+Why is that.
+That is because at the time we came to the end of Q4, we did not have a pipeline on the product revenue side of the fence and we had to rebuild that pipeline.
+What we're seeing and what we're doing as we build up the guidance for Q2 is that we're going to see some return on the product revenue side, and that's reflected in the guidance that we pulled out there.
+As you know, we don't guide below the overall revenue line for a quarter.
+All right.
+Thanks, <UNK>.
+First of all, I think we have a strong portfolio of technologies that are relevant to the modern architectures within our customers.
+In some cases, it is developing core technology.
+In other cases it is qualifying our technology for emerging use cases within our customers, what we call solutions development.
+I think that is all well underway.
+And we feel good about the portfolio we have.
+We are also constantly looking at the evolution of our customers' perspective on the IT landscape, their requirements for data management.
+And we'll always be on the look out for M&A tuck-ins where they make sense, have strategic fit, have the right financial criteria associated with them.
+And we have a disciplined way of scanning the landscape and discussing with our customers their choices ahead of them and for us.
+All right thanks, <UNK>.
+Next question.
+We are, as a percentage of our install base, we are about 15% of the total install base.
+And remember, the install base is growing.
+And last quarter we were at 11% of the install base.
+So pretty good sequential growth.
+Thanks, <UNK>.
+Okay.
+So <UNK>, why don't I just get started.
+So second quarter is when we generally see the government, the US government I should say, tic in.
+So our bottom-up includes our expectations from the US fed.
+It includes our view of contracts that are taking shorter, longer or sideways in terms of the time to land them.
+And as you know, we have a very strong presence there and a very good business condition overall and value proposition for them.
+So the second quarter will include a US public sector element to it, a federal fiscal year end element to it.
+We plan on all of those.
+We look at risks or opportunities to those as we build that bottom-up guidance.
+I think to answer your question in terms of the discussions we have with our customers, I've actually had several meetings with customers from all different parts of the world, and I'm just headed out to Asia Pacific as well.
+I think the things that encourage me are the breadth of discussions we have and the adoption of multiple products in our portfolio by the enterprise customers that we work with.
+I think they are expanding the range of things they are doing with us, and we are excited and encourage strong growth in terms of the number of customers, enterprises buying multiple products from us for broad sets of use cases.
+Thanks, <UNK>.
+I would say that if you were to look at two dimensions of new workloads being captured, I think the first one is new to NetApp customers where Cluster Data ONTAP has given us a footprint that we didn't have before.
+And as we said in our commentary, that has seen strong growth, up triple digits, 225%.
+And so that's a measure of the competitiveness of Clustered ONTAP in net new to NetApp environments.
+Within existing customers, the preponderant majority of Clustered ONTAP sales have been to new footprints.
+As we mentioned, the percentage of our install base that has migrated from their legacy 7-mode environments to Clustered ONTAP has been small.
+Let me answer first.
+The perspective I'm taking is a broad perspective looking at all aspects of the business, both the operating model of the Company as well as the opportunity to optimize our capital structure to maximize returns to shareholders.
+Then my quick clarification on the 303 million.
+This is what we've done based upon the first 10 days in the quarter.
+So we have not in the past and don't in the future plan to project out what we'll buy over the quarter.
+It is really based upon first 10 days, what happens last quarter, and how that falls in.
+But then really just the first 10 days of buying.
+Thanks, <UNK>.
+We've had a strong start to the year in the European theater with all of our parts of Europe doing very well year on year, both -- especially with FX being accounted for.
+So that's a reflection of both the leadership team in Europe as well as the value proposition for Clustered ONTAP.
+Some of the key features that our European customers were waiting for were made available to them in 8.3, and that is now translating into results from the capacity investments as well as the product readiness.
+Within APAC, we continue to monitor the situation in China.
+Of course, our China business is a small business and hasn't been affected by the changes in China.
+But we are evaluating the impact of the Chinese economy for the rest of the Asia Pacific theatre.
+Thanks, <UNK>.
+The focus for our E-series business is on the branded customer business and it is about building a pathways to market through our more traditional routes to market, resellers, system integrators and service providers.
+I think we feel good about the progress we've made.
+We think we feel good about the relationships that we have with enterprise and service provider customers who look to buy directly from us or through our reseller model.
+So we feel that the acquisition does not materially affect that business.
+Thanks, Andy.
+When we look at that, so there's sort of two or three sets of use cases within our existing customers.
+One is competitive displacement, or new workload growth.
+We are certainly seeing a strong set of trajectory around that.
+The second is replacing 7-mode for a workload that could have run on 7-mode where they choose to go to a new architecture.
+That certainly happens as part of our footprint.
+And then the percentage of those where you have a workload that is running on an old 7-mode system that now gets essentially upgraded and converted to a Clustered ONTAP system.
+The last one is the small percentage of the total.
+Thanks, <UNK>.
+Thank you.
+I'd like to conclude by saying I'm excited about honored to lead NetApp through the industry transition.
+I want to extend my thanks to the entire NetApp team for your hard work and for your support as we create opportunity for NetApp during this transition.
+We are taking action to better address the trends in the storage market and will manage our portfolio of solutions to target the requirements created by those trends.
+Our strategy resonates with partners, enterprises and service providers.
+And we are making investments to insure we are engaging in more customer conversations and opportunities.
+Those investments are yielding results that position us for a successful future, but we have more work ahead of us.
+We are committed to enhancing shareholder value and plan to return to our target operating model in the second half of this fiscal year.
+Our focus on cost structure, stock buyback program and dividends are important demonstrations to this commitment and to our confidence in our future.
+Thank you all for joining us, and I'll talk with you again on our next earnings call with a further update on how we're evolving the business to deliver greater value to customers and shareholders.

@@ -1,0 +1,182 @@
+Thank you, and welcome to ScanSource's earnings conference call for the quarter ended March 31, 2017.
+With me today are Mike <UNK>, our CEO; and Gerry <UNK>, our Interim CFO.
+We will review our operating results for the quarter and then take your questions.
+A slide presentation that accompanies our comments and webcast is posted in the Investor Relations section of our website.
+Certain statements made on this call, including our expectations for the fourth quarter and full year, will be forward-looking statements.
+These statements are subject to risks and uncertainties that could cause actual results to differ materially from such statements.
+These risks and uncertainties include, but are not limited to, those factors identified in the earnings release that we put out today and in ScanSource's Forms 10-K and 10-Q as filed with the SEC.
+Any forward-looking statements represent our views only as of today and should not be relied upon as representing our views as of any subsequent date.
+ScanSource disclaims any duty to update any forward-looking statements to reflect actual results or changes in expectations, except as required by law.
+We will be discussing both GAAP and non-GAAP results during our call and have provided reconciliations between these amounts in our slide presentation and in our press release.
+These reconciliations also can be found on our website and have been filed with our Form 8-K.
+Mike <UNK> will now begin our discussion with an overview of results.
+Thanks, <UNK>, and thank you for joining us today.
+For the third quarter, we delivered net sales of $814 million, GAAP diluted EPS of $0.49 and non-GAAP diluted EPS of $0.65, all within our forecast range.
+Net sales for our Worldwide Barcode, Networking & Security segment increased 4% year-over-year.
+And we had organic growth for every business unit in North America and Europe.
+For our Worldwide Communications & Services segment, net sales declined 2% year-over-year; however, we had organic growth in our North America communications business unit.
+We made progress on key opportunities for growth for 2017 that we identified last quarter.
+Starting with our physical security business, we had excellent growth with our video surveillance business and we gained traction with new vendors.
+And next, we had very good sales results in our ScanSource KBZ business led by the large deals that were delayed from last quarter.
+Another growth initiative is a strategy of ScanSource Communications to develop programs to recruit and support large VARs and service providers.
+And in late April, ShoreTel announced the transition of partners currently buying premises-based unified communications products directly from ShoreTel to ScanSource Communications in North America.
+We are excited to welcome these new partners to ScanSource and to offer ShoreTel-specific configuration and design tools as well as our implementation and installation services.
+Intelisys achieved record net sales for the quarter, growing more than 30% over the prior year.
+We continue to invest in high-growth recurring revenue business with our Intelisys business unit's purchase of the Verizon Partner Program assets.
+The indirect channel is key for Verizon's growth, and we believe that this is a great time to expand our Verizon capabilities and our relationship.
+Verizon and our other Intelisys suppliers are asking us to recruit VARs to expand suppliers' reach into the SMB market.
+Our VAR convergence team is in place, and we held our first VAR recruitment event focusing on how to develop a dedicated telecommunications and cloud services practice.
+We're very encouraged by the enthusiastic reception, and we will be tracking their progress.
+We expected our strategic plan for fiscal year 2017 to deliver somewhat better financial results than we are currently forecasting for the year.
+Our fourth quarter forecast reflects some weakness in our international communications businesses.
+Based on our fourth quarter forecast midpoint, we're estimating 3% year-over-year EBITDA growth for fiscal year 2017.
+We believe that our businesses have both top line and bottom line growth potential.
+We will continue to execute our strategic plan to grow our business organically and through acquisitions.
+And with that, I'll turn the call over to Gerry to discuss our financial results in more detail.
+Thanks, Mike.
+We produced solid financial results within our forecasted range.
+Higher than forecast gross margins partially offset the impact from lower sales volume.
+As a result, we ended up with non-GAAP operating income very close to our forecast midpoint.
+Our GAAP diluted EPS of $0.49 per share and non-GAAP diluted EPS result of $0.65 per share are summarized on Slide 4.
+Net sales for the third quarter increased 2% to $814 million.
+The dollar impact on sales due to foreign currency translation was a positive $7 million.
+4% net sales growth for our Worldwide Barcode, Networking & Security segment more than offset lower net sales for Worldwide Communications & Services segment.
+Worldwide Communications & Services segment net sales included $9 million of net sales resulting from the Intelisys acquisition.
+Our third quarter 2017 gross profit margin was 11.4% higher than prior periods and higher than our expected margin.
+The margin includes higher vendor incentive program recognition for our Worldwide Communication & Services segment, which we would not expect to continue.
+On Slides 5 and 6, you can see our current quarter, sequential quarter and prior year quarter margins by segment.
+SG&A expenses, excluding amortization of intangible assets and acquisition costs, increased $7.4 million from the prior year quarter to $67 million for the third quarter 2017.
+This increase reflects the addition of Intelisys, which was not in the prior year quarter, and to a lesser extent, higher bad debt expense.
+Our third quarter 2017 non-GAAP operating income was $26.2 million or 3.2% of net sales compared to $25.3 million or 3.2% in the prior year quarter.
+This represents a 3% year-over-year increase in non-GAAP operating income.
+We have a $113 million contingent consideration on our March 37 -- March 31, 2017, balance sheet, reflecting the present value of expected future earn-out payments for our acquisitions of Intelisys, which occurred in September 2016; and Network1, which occurred in January 2015.
+For the third quarter 2017, we recorded a loss for the increase in fair value of contingent consideration of $2 million.
+Our fourth quarter 2017 forecast, we estimate the change in fair value of contingent consideration to be a loss of $3.9 million.
+Our effective tax rate was 36.5% for the third quarter 2017 and 34.2% for the prior year period, in part from the mix of higher income in the United States.
+For the fiscal year 2017 forecast, we are using a 35.5% effective tax rate.
+Third quarter 2017 GAAP diluted EPS totaled $0.49, which decreased year-over-year from higher intangible amortization expense and the change in fair value of contingent consideration from the Intelisys acquisition.
+Non-GAAP diluted EPS of $0.65 increased 2% year-over-year.
+Average diluted shares for the third quarter totaled 25.4 million, down 2% from the year earlier period as a result of the share repurchases.
+Now shifting to the balance sheet and to the capital allocation plan.
+Our working capital balance sheet and cash flow measures are referenced on Slides 7 and 8 in our presentation.
+One of the highlights from Slide 8 is the $112 million of operating cash flow generated over the last 12 months, which is significantly higher than the prior year period.
+This reflects some working capital efficiency and the additional cash flow from our Intelisys acquisition.
+We had inventory turns of 5.6x and decreased inventory levels by 10% year-over-year.
+DSO, excluding Intelisys, came in at 60 days, still higher than our desired range and primarily reflects the aging of customer-specific accounts in North America and in Brazil.
+During the quarter, we experienced slower collections for our communications business in Latin America, including Brazil.
+Our balance sheet remains very strong and continues to provide us with the ability to execute our capital plan -- capital allocation plan, which includes, in order: organic growth, strategic acquisitions and share repurchases.
+At March 31, 2017, we had cash and cash equivalents of $62 million and debt of $114 million or net debt of $52 million.
+Our leverage totaled approximately 0.46x trailing 12-month adjusted EBITDA.
+And ROIC was 12.6% for the third quarter 2017.
+On April 3, 2017, we amended and extended our $300 million revolving credit facility for 5 years to mature in April of 2022.
+With the existing credit facility set to mature in November of 2018, it was an opportunistic time to complete the new facility with a strong banking group, including leading global banks.
+Our amended credit facility provides us with financial flexibility to meet our working capital needs and to invest in our future growth.
+During the quarter, we had no share repurchases and ended the quarter with approximately $100 million remaining on our share repurchase authorization.
+Now turning to our forecast on Slide 9.
+The forecast reflects weakness in our international communications business.
+We need scale and we also have higher forecasted bad debt expense for this -- for these businesses.
+Applying these impacts, we expect net sales for the fourth quarter of fiscal year 2017 to range from $860 million to $920 million with GAAP diluted earnings per share to range from $0.44 per share to $0.51 per share and non-GAAP diluted earnings per share to range from $0.64 per share to $0.71 per share.
+The foreign exchange rates used in our forecast are summarized in our presentation slides.
+And I'll now turn the call back over to Mike.
+Thanks, Gerry.
+We have 2 reporting segments, and I'll start with Worldwide Barcode Networking & Security, which represents 67% of overall sales.
+Net sales of $549 million increased 4% from the prior year.
+This reflects a great quarter for this segment and positive sales momentum for our POS & Barcode businesses in North America and Europe, physical security and ScanSource KBZ.
+In addition, as planned, our teams effectively managed inventory and lowered inventory levels from a year ago while delivering excellent services levels to our customers.
+We have benefited from having a diverse portfolio of businesses in this segment as well as a broad range of technologies and a large customer base, thus allowing the company to grow profitably.
+During this quarter, mobile computing and barcode printing led the growth for our POS & Barcode businesses.
+In North America, we had a record quarter for our Customer Configuration Center offerings, which reflects the growth in demand for our value-added services such as our payment terminal Key Injection Services.
+For our point-of-sale business, we are seeing demand for tablet-based point-of-sale solutions in the SMB, hospitality and retail markets.
+In addition, there is good demand for self-service kiosk solutions in quick service restaurant and self-checkout systems in grocery.
+In this segment, Latin America POS & Barcode had a difficult quarter as we saw our competitors become more aggressive, leading to some pricing pressure and lower big deals.
+In Brazil, while we're also seeing more competition, the tailwind we enjoyed for several years from the fiscal printer transition has now become a headwind with declines in net sales year-over-year.
+This quarter, we successfully stabilized and returned our networking business to growth and profitability after a few quarters of vendor consolidation and program disruption.
+Our physical security team achieved a record sales quarter, as growth returned in our video surveillance business.
+And we were pleased to achieve growth in our ScanSource KBZ business unit as it was a strong, big deal quarter for our collaboration business.
+Now to our second segment, Worldwide Communications & Services, which represents 33% of our overall sales.
+Net sales of $265 million decreased 2% from a year ago or down 7% on an organic basis.
+We are disappointed with the lack of sales growth in this business and are taking multiple paths to provide our customers with alternate growth options.
+As we have discussed previously, the successful acquisition of Intelisys is an example of the new services offerings we are bringing to our customers.
+We believe our customers appreciate the leadership we are taking in offering real solutions to the telecom industry as it transitions to cloud and services.
+And we are working with our traditional hardware manufacturers to develop channel-ready cloud solutions while more efficiently delivering premise-based solutions as the market demands.
+We will continue to develop new solutions for our large and varied group of channel partners, which now includes the Intelisys agent channel as well as the traditional voice telecom channel, AV or audiovisual integrators, networking data VARs and service providers.
+As we look at our traditional telecom business with market uncertainties surrounding Avaya's bankruptcy, not surprisingly, net sales declined, particularly for our large enterprise business customers.
+Some end users are delaying upgrading and expansion decisions.
+However as challenging as this is for our customers, we continue to support the Avaya channel partners and are managing our resources as the business demands.
+Other areas of our communications business in North America had strong growth with good demand for video and voice solutions, including a higher services mix.
+As we said earlier, we have identified multiple growth opportunities in this segment.
+And one in particular was recently announced by ShoreTel, where we are executing the transition of a book of direct channel partner business to ScanSource Communications.
+This is a perfect example of how a vendor in transition from a premise-based telecom business to the cloud is a value-added partner to provide excellent support and services to long-standing channel customers.
+ScanSource is uniquely positioned to provide the scale and support required by companies like ShoreTel.
+In Europe, we had modest growth in local currency, but importantly, we made great strides with the next stage of business (technical difficulty)
+Okay.
+Sorry about that.
+I'm going to back up to see if I can recapture what we said and you may not have heard.
+I'll go back to, hopefully, at the beginning of where we dropped out.
+I'll talk about, as we look at our traditional telecom business with market uncertainty surrounding Avaya's bankruptcy, not surprisingly, our net sales declined, particularly for our large enterprise business customers.
+Some end users are delaying upgrading and expansion decisions.
+However, as challenging as this is for our customers, we continue to support the Avaya channel partners and are managing our resources as the business demands.
+Other areas of our communications business in North America had strong growth with good demand for video and voice solutions, including a higher services mix.
+As we said earlier, we have identified multiple growth opportunities in this segment.
+And one in particular was recently announced by ShoreTel, where we are executing the transition of a book of direct channel partner business to ScanSource Communications.
+This is a perfect example of how a vendor in transition from a premise-based telecom business to the cloud needs a value-added partner to provide excellent support and services to long-standing channel [customers]... (technical difficulty)
+Sorry, folks.
+Apparently, our provider is having a problem.
+It's not on our side.
+We'll continue from where I left off here and we'll recap through your questions at the end in case we missed somebody.
+I'll finish with the Network1, the Latin America business outside of Brazil, has not met our expectations due to the project-driven nature of that business.
+This dependency on large projects creates working capital challenges as we try to manage inventory levels and DSO with our customers.
+However, in Brazil, we continue to see good sales results from one of the best vendor line cards in the country.
+Intelisys had a record quarter with a 5% increase in sequential quarter net sales and over 30% increase year-over-year.
+We expect good opportunities ahead with the Verizon Partner Program, our market-leading position with cable companies and our strong lineup of cloud suppliers.
+We will now open it up for questions.
+And again, if we missed any of the areas we normally would cover due to the technical difficulties, please ask those on your... (technical difficulty)
+Well, we certainly expect that we will have growth, I mean, we're planning for that.
+We've got multiple areas that in spite of some of the headwinds, we've got some new opportunities.
+As you mentioned, ShoreTel is certainly one of those.
+We believe our KBZ business is doing well.
+We talked about that one.
+And what we're trying to make sure we're cognizant of is where we've got a strong business, like we do in North America right now, we want to make sure we're prepared to invest in growing that business.
+And what we're finding is we're getting more vendors that are joining ScanSource in many parts of our businesses, whether it's in the Barcode POS side, in Networking or in the Communications side.
+So I would say, in general, <UNK>, for next year, as we go through this quarter, is that we're looking to add more products and more services, because we believe we've got a great customer base that is asking us for more themes, more products, more services than we have on our line card.
+So I think an expanded line card is part of that, including services much like we did with Intelisys.
+So we expect you'll see more services offerings from us as we finish up fiscal year '17 and into fiscal year '18.
+Sure, <UNK>.
+So I think over the last couple of quarters, we said we ought to be in the very high 10s or low 11s.
+So this quarter, we had 11.4% gross margins.
+Without Intelisys in there, that number would have been 10.4%.
+And so it's was probably somewhere in the 30 to 40 basis points related to this onetime thing in the current quarter.
+Yes.
+So we were, as usual -- you know the story.
+We're always trying to balance investments versus sizing for the business, as Mike talked about earlier.
+And so part of what we're trying to do is make sure that we have enough resources to get the growth that we're looking for.
+And at the same time, while we don't see growth, we are -- we do have opportunities to reduce some of that -- to reduce some SG&A.
+It's bit of a balancing act.
+Yes, <UNK>, It was -- no, I apologize for the problems we had technically.
+It was a Latin America comment.
+It was Latin America and Brazil, where we've got some renewed competitors, meaning that they've gotten stronger in their pricing to the market.
+We had -- for the last year or so, we had benefited from Brazil, and LATAM was not so strong.
+There was less competitive pressures.
+And that has changed.
+So we highlighted that.
+And it's -- like I said, it's primarily a Brazil issue.
+Well we don't break out Brazil, but our total international business is 23%, 25%, yes.
+And so Europe and Latin America combined, Latin America meaning Brazil plus Mexico, Colombia, Peru, they're equal roughly in size.
+So I'll give you just a way to put it together.
+Well, we were talking at the highest level about our international communication, so that includes Europe.
+So really it was a Europe, Brazil and LATAM message.
+And then as we drill into it, it's really a question of volume as well as bad debt.
+And so that's kind of the 2 stories here.
+As you've got bad debt hurting us on the SG&A and we need more volume to sell through that SG&A and support it.
+So that's kind of the 2 issues you've got going on right now.
+Well, so that does become a geographic-specific answer.
+So I\
+<UNK>, this is Gerry.
+So just trying to give you a little color on the forecast.
+So our forecast implies like a $0.68 non-GAAP as a midpoint, and there's roughly $0.01 in there for Latin America comms, roughly $0.01 for EU comms and roughly $0.01 for bad debt.
+So a more normalized midpoint for us will be similar around $0.71.
+It's roughly the same.
+Great.
+Thank you very much for joining us today.
+Again, we apologize for the technical difficulties.
+And we expect to hold our next conference call to discuss June 30 quarterly and full year results on Tuesday, August 29, 2017.

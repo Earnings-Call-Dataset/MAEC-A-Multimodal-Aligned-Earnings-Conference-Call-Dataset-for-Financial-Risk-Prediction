@@ -1,0 +1,120 @@
+Good afternoon, everyone, and thank you for joining us
+I'll start off by saying that I'm thrilled to be talking to you today as the Chief Operating Officer of CenturyLink
+I'm very excited about what we can do together now that we are one company
+With the close of the acquisition last week, we've begun executing on our integration plans
+And even with only seven days since the close, we've achieved several milestones
+For example, we've interconnected the CenturyLink and Level 3 networks and are now beginning efforts to integrate them as a single unified network
+We've enabled our sales teams to quote the combined company footprint as on-net and have given them full access to the customer information for the accounts they support
+We've defined the management organization, we've set out budget targets for 2018, and we have the business units developing their own detailed budgets and strategic plans for 2018. We have an aggressive but achievable integration plan for the year or two ahead and I have high confidence in our ability to hit the synergy targets we've discussed previously
+I view this as a three-step process
+Interconnection is the first step and ensures we can easily and efficiently pass and trade traffic between all of our networks
+Integration, the second step, is about being able to go to market as a single company and in a seamless way
+There's a lot of work to do, but we have an excellent integration plan in place
+And lastly, transformation
+It's not enough to incrementally improve on what CenturyLink and Level 3 were doing, we must transform the business to make it easier for our employees to do their jobs, to meet the evolving needs of our customers and to drive profitable growth
+As most of you know, the objective, I think, is the most important for driving shareholder value is increasing free cash flow per share
+Over the coming year, you will hear me talk more about our own transformation effort and our initiatives to support our customers and their own digital transformation
+All of these efforts are aimed at delivering profitable revenue and growth in free cash flow per share
+I thought I'd take a minute to talk about what the new CenturyLink is and what it is not
+Our goal is to become the world's best enterprise networking company, recognizing that our wholesale and consumer customers are essential to provide us the scale and scope and capabilities we need
+But today, we routinely compete and win against the largest telecom providers in the world for the business from the most demanding enterprises
+Sometimes, we are compared to a much smaller ROX (17:23)
+While we have rural service territories and I think we do a great job for those customers, we are also the local phone companies in cities like Denver, Phoenix, Seattle, Minneapolis, and many other large urban markets
+We have a great Consumer business that's very important to us, but we are not a primarily consumer-focused company
+Approximately 25% of our revenue comes from consumers
+75% of our revenue comes directly from enterprises or through the wholesale customers we support
+Some may think of us as a North America-only company
+And while we have an incredible network in North America, we are a global facilities-based provider with substantial networks in EMEA, Latin America and subsea, and we serve customers in more than 60 countries
+The reality is that the new CenturyLink is a leading telecommunications company in the global marketplace with excellent competitive capabilities
+We have organized our team around our customers and are focused on profitable revenue, operational excellence to reduce cost and drive a great customer experience, and increasing free cash flow per share
+<UNK> will provide more insight on this in a moment, but I want to get my perspective on the CenturyLink dividend
+I've had the chance to speak with the board of directors, <UNK> and <UNK> about it and we all agree, we are firmly committed to the dividend
+As I look at our financial plans over the next few years, I'm confident about our ability to meet the dividend obligation and believe it is an important component of our equity story
+Turning to Level 3's third quarter 2017 results
+We saw revenue growth in almost every area we measure: total revenue, core network service revenue, or CNS, and enterprise CNS revenue
+With our disciplined approach to managing the business, we also saw continued margin expansion and growth in adjusted EBITDA and free cash flow generation
+Even though we've seen a dampening effect due to the length of time it has taken to complete this transaction, our products and services resonate with our customers
+Since a low-point in the fourth quarter of last year, we're seeing sequential improvement in enterprise CNS sales in each and every quarter and as our service delivery team installs the pending orders, we expect better sequential revenue performance in the fourth quarter
+As we integrate this new company, we are focused on delivering value to our customers, improving the customer experience, competing aggressively to gain market share and managing our business with financial discipline
+Having spent the last year with <UNK> and the management teams from CenturyLink and Level 3, I can tell you, we are all excited about the transformation efforts underway
+We are confident in our ability to deliver the synergies we've announced
+We have aligned our focus around driving free cash flow per share growth and support the dividend
+And I intend to push hard to increase our intensity, agility and speed in managing the business
+In summary, we are well positioned as one of the largest enterprise communications providers in the world
+The scope and scale sets us apart from where CenturyLink or Level 3 have been before
+Together, we are a global enterprise-focused company and a strong competitor against the largest communications companies in the world
+With that, I'll turn it over to <UNK> to provide an overview of the Level 3 detailed financial results
+<UNK>?
+And one quick add-on to that
+Phil, this is Jeff
+It also includes us continuing to invest in growing our business
+We don't think that we have to massively cut capital expenditures or do anything unnatural
+We think we can grow this business
+We think we can capture the synergies
+We think we can continue to invest in it and support the dividend
+And you asked about integration and misses in sales did result from a lot of integrations
+Integration is tough and we need to make sure that we are very, very focused on maintaining the relationship between our sales team and our customers
+We've done a lot of integrations between the two companies
+We both have a lot of experience in it
+Our teams have a lot of experience in it
+So we're bringing that to the table
+But some of the specific things we're doing are making sure that we don't move a bunch of accounts unnecessarily, making sure that we move accounts one-time, making sure that we try and maintain that relationship between the customer and their account rep, making sure we give information to the account rep to be successful in selling
+And then that all the back-office support from service delivery to service assurance that we maintain the experience for the customer so that we can drive continued performance
+Integration is important
+But I also talked about transformation
+And transformation is something that we have an opportunity in front of the combined company
+We want to change the way our customers interact with CenturyLink
+We want to make it simpler for our employees to meet their needs
+We continue to deliver an enhanced customer experience for the customers
+If we focus our efforts on driving an extraordinary customer experience, then I worry far less about sales misses or the integration impacts of those things
+But we are very, very focused on making sure we maintain the momentum, keep up the effort to deliver great customer experience and drive sales and revenue going forward
+I expect – so, it's hard to say
+You're asking me to predict the future and I'll give a warning upfront
+I'm no good at predicting the future and now I'm going to go ahead and try
+I think that a year from now, we ought to seeing success in the target customers that we're going after with the target products and services that we're going after them with
+We think that we have a great capability today to deliver for Enterprise customers, and we want to continue to do that
+And so, we think we have a great capability today
+After we continue to work on integration and transformation, we ought to have a great capability a year from now and we ought to be seeing some results in it
+Now again, I'm hesitant to predict exactly when some change is going to occur, but those are the things we are focused on
+Yeah, first of all, <UNK>, I think that <UNK>'s comments on the quality of the product that we have are exactly right
+We have a very good product here
+And there are times – there's a lot of concern I'm hearing in questions, there's concern around will SD-WAN be a substitute for MPLS and, therefore, a headwind that we have to overcome? There will be cases where we sold an MPLS circuit, where an SD-WAN would've been a better solution
+Those will transition
+We're good at managing those transitions
+There are also places where we lost and we're not able to sell an MPLS circuit because MPLS was too expensive and SD-WAN would've been a better solution
+So there will be revenue opportunities for us to win in locations where we can't win today with just pure MPLS services
+And one of the things that we know absolutely is that our customers have a diverse set of networking needs, that there are data centers that they want to connect with dark fiber, that there are main locations that they want to connect with waves, that there are big branch offices that they want to connect with MPLS
+And there are small locations that they want to connect with SD-WAN and the strength of the CenturyLink offering is that we can go across all of those dimensions and solve those networking needs for the customer across each one of those product sets
+And so, so are there headwinds that could come from SD-WAN and other technologies that are being developed? Of course, there are
+But we're exceptionally good as an industry in dealing with those technology transitions and transformations
+And we will be, as a company, very successful in dealing with those things and making sure that we continue to focus on satisfying our customers' needs for networking services with profitable revenue and making sure that we're investing in the infrastructure and it will be another tool that we can go to the market with
+<UNK>, I'll kick off on your question about the market and what happens as we go from a four-player market to a three-player market, I don't really think about it that way
+I worry about one player in the market and that's CenturyLink
+And we know from history that if we perform well, if we execute well, our customers buy our services
+If we sell the right product, we can make money at those products and deliver for our customers
+Pricing dynamics and share dynamics, I hope that we get a greater share of our customer spend, that we become more integrated into their business and more essential for their success
+We see that that once a customer starts buying services from us, they continue to buy more and more, and so we see that trend and we want to continue that
+But pricing dynamics is less related to the number of players in the market and more to technology transitions and technology substitutions
+And one of the things that over the last 20 years, we've gotten pretty good at making sure that the pricing dynamics in the market that we're comfortable with them
+We've talked a lot, <UNK> and I have both talked a lot and I know <UNK> and <UNK> have about pricing over the years, but that's not a primary driver in our financials
+The primary drivers are, are we able to meet our customers' needs and sell them more services? We deal with the pricing, downward pressures pretty well
+And they're not near as aggressive as they used to be
+And Nick, I don't think that – none of the customers I've talked to have concerns about whether this is good for them, good for the industry, good for our ability to offer products and services that meet their needs
+I think someone want to know, well, I'm going to spend more with you, am I going to get a better discount? If I wait until after the close, am I going to get a better price? I think there are some of those things that have gone on, but nobody's come to me and said or anybody that I've gone to has said, wait a minute, we're really concerned about this
+No, they think it's good
+They think we're a stronger company
+They think we have the ability to bring the quality of both networks to bear for them
+They think that we have better products as a combined business
+There are always concerns about, are you going to mess things up during integration? But for the most part, I think our customers are very comfortable with this and think it's a very positive outcome for them in doing business with CenturyLink
+No, I think, look, we've been closed for eight days, so we'll work on exactly how we're going to allocate our capital going forward
+But I think that our capital needs to be allocated to drive the customer experience and that's true for the Consumer business
+That's true for the Enterprise business
+We need to get closer and closer to the customer with fiber
+We need to build infrastructure to drive the simplification of the way that the customers interface with us
+And the more we do that, the more we focus on driving a differentiated customer experience, the more – over time, that will equate to not only reducing costs and higher profitability and better free cash flow, but, over time, will also translate into better growth
+Customers will churn at a lower rate
+They'll buy more services from us
+And so that is really how we're going to continue to invest
+And as I said and as <UNK> said and <UNK> alluded to, we need to continue to invest that capital in driving our business forward
+And so we think that there's real opportunities to do that both in the Consumer business and in the Enterprise business
+I think some of those may have different growth trajectories, but we think they have all that we can drive better profit out of all of them

@@ -1,0 +1,132 @@
+I will start with the last question.
+We don't see really do-it-yourself outside the US.
+It's really only in literally a handful of giant US Media companies.
+So it's really not an issue there.
+In fact, it probably gets even harder outside the US to try to attempt that.
+Our international business, our EMEA business and APJ business are growing at very strong clips.
+Of course, that is where we get the most impact from the strengthened dollar, so you don't see either a percentage of our overall revenue growing as fast as it would otherwise.
+Yes, our international business grew 27%, so it is growing in the mid 20s%.
+So we are very, very pleased with performance in both the European markets and our Asian markets.
+I think, as we shared before, the Media business tends to have variability based on traffic volumes and pushing traffic at price points.
+So I would say we had a huge Q4 of 2014.
+We had a record number of gaming releases, software downloads.
+And so the fact that we grew 10% over that we are very, very pleased.
+There are some quarters where it does grow more than that, but that's when you have notably more gaming releases and notably more software downloads.
+But I would say was a very, very good quarter for Q4 outside of those two customers.
+And what was your second question.
+So, pricing.
+The pricing dynamic, as we said, with Media for some time is it remains a very competitive market, which means you have to offer competitive price points.
+But the rate and pace of pricing -- so pricing declines do happen.
+They happen annually.
+We track them religiously, and kind of the rate pace of pricing declines has been very consistent over the last several years.
+Yes, we were very pleased with the -- we had, like I mentioned, we had a very good online commerce season.
+Seasonally, if you have a good online commerce season, the weather acceleration will do well.
+So -- and we had a good online commerce season, which is why it grew 11%.
+That business admittedly in years past has grown faster than that.
+That business has the potential to accelerate and grow faster.
+But because it's a subscription-oriented business, effectively deals you book this year tend to be revenue next year.
+And so, I don't think you're going to expect any kind of a significant reacceleration in that business anytime soon.
+I do think that there is a significant opportunity.
+I think that there is work being done by the engineering teams to increase the pace of innovation and start to offer adjacent products and also improve the existing products.
+So I think there's a lot of potential in that business, but that business has been growing in kind of the lower double digits, and it has been decelerating slightly.
+It is true that when you have an offering like security that has been growing 50%, it was relatively new to the salesforce.
+It has gotten significant mine share.
+We have gotten significant traction.
+It has taken a little bit away from the web performance business.
+But I think there is still good opportunity for that business to grow, and I think it is up to us to execute now.
+<UNK>, I don't know what normal is at the time for the Media business.
+Well, the Media business declined last year, kind of Q4 to Q1 sequentially.
+So we are certainly -- we are implying from this guidance it is going to sequentially decline this year.
+There have been years past, so the Q4 to Q1 Media business has grown.
+So that is why said I can't state that there is more seasonality patterns in the non-Media business than there are in the Media business where those businesses do tend to show sequential declines, I am talking about organically, largely because of the online commerce season that I mentioned, that you don't have that in the first quarter.
+But I would say for Media, what you saw in the guide is, as we mentioned, that these top two accounts are going to weigh on growth rates here in the near-term.
+But I would say outside of those two customers, if there is something that is normal, it is going to behave more like it did last year.
+We are going to see a step down in volumes in these top two accounts as well from Q4 to Q1.
+Are they going to be the same magnitude that they were from Q3 to Q4.
+We will see.
+But, again, you will see a similar step down in revenue volume from Q4 to Q1 in these large accounts.
+I would view this as probably stabilizing.
+Hard to really predict into 2017.
+I think there's plenty of potential for actually upside there, especially if there is real progress in video over the top with these customers.
+So, what I would say, there is more upside than downside.
+And the very worst possible case, it's only 6% of revenue.
+So we are very diversified, and I like that position because now you have some giants, and only a total 6% of revenue could really grow from there and help reaccelerate the business going forward.
+I will take the server count.
+I mean obviously when you look at network CapEx and as you can imagine we are doing deployment in the US, outside the US, and as we talked about 2015, we did begin to forward build for what we thought was going to be the potential of an over-the-top offering.
+And so you can think of it as that network -- if you build a network out three to six months in advance, and so we built that out.
+It is fair to say we have not monetized that here in the near-term, and you will grow into that here in 2016.
+So we spent a little bit more as a percent of revenue in 2015 than we normally do.
+We normally spend kind of -- call it 8%, 8.5% of revenue on network CapEx, and we spend about 10% of revenue on network CapEx.
+But that is above our model.
+We think the model is more in that 8%, 8.5% range, and we will probably be back at those levels in 2016.
+And as <UNK> mentioned around what is going to accelerate Media, I think we talked about what those things are.
+I think there is significant opportunity for growth in Media outside these two accounts, and we do believe one catalyst for growth in the Media business is that as more and more premium content moves online, it is poised to push a lot more traffic online.
+We believe that we are in a good position to benefit from that when that happens.
+Yes, in terms of the visibility question, I think we probably have as good visibility as it is possible to have.
+And that said, but it is hard to predict the future.
+I think things that happen or don't happen that are even beyond the industry to really know for sure.
+We got caught a little bit last year with that.
+We and a lot of other folks had very good reason to believe that there was going to be good possibility of a large influx in OTT traffic.
+That did not take place.
+So generally, I would say our visibility is very good.
+We are very well connected with all the major players, but it is not perfect.
+No, as we mentioned, so the 13% is kind of, call it, what is average over the last few years.
+It has been coming down.
+So in Q4, it was not -- if it was lower than 13%, and as <UNK> mentioned that we think that you're going to see it come down probably through the middle part of 2016, and then we will have to see our expectation is that we think it may stabilize from there.
+Yes, we saw very similar statistics.
+I think our statistics were just a little bit less.
+That could be with our customer mix.
+We do carry almost all the major commerce sites on our platform, but mobile is certainly increasing its penetration.
+We are putting a lot of effort into improving mobile performance.
+Mobile performance is more challenged, obviously, than desktop performance, especially if you are using a cellular network.
+And there is a lot of interest in our commerce customers and our customer base as a whole in mobile site performance and mobile app performance.
+I think there's a lot of folks interested in the Security business.
+There is giant security companies that license software or sell you hardware.
+We come at it from really a different approach where we have built a fantastic platform that we can use in a multitenant way to provide excellent security with excellent performance in a very easy to consume manner.
+And there the big folks don't know how to do that.
+So we have got a great headstart there, and we've got 15 years of experience operating in that kind of platform.
+So there are just lots of customers for us to go and sign up, and it's up to us to execute there.
+Plenty of competition all around, but in Cloud Security, we have a very good value proposition.
+I think you will find it to be similar to past years, so I don't think you will see any fundamental differences.
+(multiple speakers)
+I think whenever you bring the customer closer to the developer, you get a better result.
+You make better products.
+You make them faster.
+Innovation gets into customers' hands faster.
+You are more efficient.
+And that is what we are trying to accomplish here.
+We are getting the folks that work day-to-day with customers lined up right next to the developers that make the products for them.
+As you can imagine, there is a very high correlation between the revenue we get from Media customers and the revenue we get from our Media products.
+And on the other side of the house, a very strong correlation from the revenue we get from banks and commerce sites as customers and the revenue we get from our application acceleration and web security products.
+So, by bringing those teams together, I think we will be more responsive to our customers and more efficient overall.
+And I think it helps us accelerate growth.
+That's right.
+I think if you want to view this as cost control, we weren't doing this in terms of absolute saving dollars.
+We are not doing a big layoff here.
+But I do expect us to be a lot more efficient, and I do expect that to help us ultimately on the bottom line for the Company.
+No and that is important.
+We put a lot of effort into that as we planned this realignment.
+I think we have less than 0.5% of our customers that will have any change in their account teams.
+I think 96% of the reps still have exactly the same territory, and that is probably more than you might even see in a typical year.
+So there is not really any disruption on the customer side.
+It's just that those teams will have their management change now side-by-side with developer management change.
+And so I think you'll see us be more effective as a result.
+Correct.
+Not really.
+We've got dozens of competitors in the Media space.
+We always have.
+We always will.
+There is so much potential in that space that you are going to have a lot of competitors.
+I think we compete very effectively.
+I am not aware of any significant share loss there.
+I think the only fundamental shift there really has been with the big carriers, and basically I would say the shift has been more towards standardizing Akamai.
+I think if you look back four or five years ago, most of the world's major carriers have some kind of DIY effort to build their own CDN and compete with Akamai.
+Maybe they bought a lot of equipment from one of the big box manufacturers, and today most of the world's major carriers are pretty much standardizing on Akamai.
+Obviously Verizon, an exception there having purchased EdgeCast, would compete with that.
+As said, Verizon is still a very large reseller for us.
+Level 3, of course, competes, always has, but the list is not long in terms of the carriers.
+The cloud providers, some of them partner with us; some of them have competing services.
+But we are not seeing erosion due to competition.
+We've got two large customers that have built out more of their own internal effort.
+We have not lost business to competitors there.
+So I think we are in a very good position on the competitive front.

@@ -1,0 +1,159 @@
+So the video, we were a bit surprised by the decline in bookings that we saw on Q2, and that's continuing into Q3, primarily with our tier 1 customers in Korea.
+We believe that our share with those customers remains strong.
+Our design win activity remains strong.
+But there is we believe that there's some over inventory in the channel.
+We've got some macro FX with you the Euro, we've got weak demand there.
+We also have higher dollar content there.
+So, that's kind of exacerbating some of the swing in revenue that we see.
+We don't really have visibility into what Q4 is going to look at this point.
+There are some indications that the TV makers are going to refocus, but we haven't seen that yet in our bookings.
+And really it's a little bit early for us to start talking about what it looks like in Q4.
+But if you just look at our market share with those customers, we would stand to benefit from any rebound if that was going to occur.
+Sure.
+We've traditionally been very strong in the ZigBee market, one of the, if not the leading supplier of solutions, and Thread is essentially the latest incarnation of the 15.4 standard which ZigBee is based on, and we have a leadership position there in the standards body.
+We have the leading stack and are partnered with all the key customers around this new trend.
+There are hundreds of customers signed up with the Thread group, and we believe that the momentum both with ZigBee and with Thread, especially the home automation and security markets is quite strong.
+We are seeing a lot of traction there with operators and in the retail channel with larger retailers coming in and putting platforms in place, many of which are based on our silicon and software solutions.
+So we start in the wireless connectivity market from that strong base, our next-generation platform has Bluetooth Smart capability to that.
+So we have both ZigBee, Thread, some proprietary solutions, as well as Bluetooth Smart in a common silicon platform.
+The Bluegiga software runs on that chip.
+And so the Bluegiga business came in.
+It was one of the strongest Bluetooth module providers, and they had a leading software stack with over a decade of maturity, and that software is running on our chip, and that chip is going into their modules, and they're also going on board, there's going to be an important SAM expansion for the Company.
+We have not traditionally participated in Bluetooth Smart.
+We've got predictions of that being over 40% of the low-power wireless chip set market.
+It's a very critical standard for the IOT.
+And it allows devices to connect directly to smart phones.
+And you can start to imagine where the ZigBee capability and the robust wireless mesh networking starts to dovetail with the ability to connect directly to smart phones in the same device.
+That opens up entirely new use cases.
+So, the multi mode capability is going to be a big advantage for us, and just the participation in that market, and the rapid expansion of the number of applications and volume is going to be an important growth driver for us.
+We've got important traction in that market with our Bluetooth module business, Bluegiga module business that we have, and a tremendous amount of customer traction both at the silicone level and the module level around Bluetooth Smart.
+So we're quite optimistic about this being a very important component of the IOT, and a very important component for us in our business and a growth driver for business going forward.
+We're quite pleased with our performance in the infrastructure business in Q2 and going into the second half.
+While we've seen a lot of companies talk about weakness in the wireless base station market, our business has traditionally been focused more on the core network and on data center applications, and we are seeing strength in bookings and in the trajectory of that business in the second half, really driven by our record design win activity and performance over the last 18 months.
+We've had very strong traction with new products, and with existing products in our clocks and oscillators, into those applications, and our latest generation products going into wireless PlayStations.
+We do believe there's a market expansion for us.
+But overall we are quite pleased with the performance of that, and also see that the market segments that we are in our healthier than many others have seen.
+<UNK>, this is <UNK>.
+Really the pricing is set on essentially a yearly basis and we are in the middle of a model year.
+There's no pricing dynamic that we are seeing in the market that's influencing with Q2 and Q3, and really there's not much difference in terms of --there are some design wins in mid-year models, but overall this is a purely an inventory and a macro issue that we are seeing.
+Not a pricing issue at all.
+Well, if you look at the performance of the IOT business over the last 5 quarters, we've driven 35% year-over-year growth.
+If you look organically, that is still in the strong double-digit range, that reflects broad traction across our 8-bit, 32-bit proprietary wireless, ZigBee wireless, really across the board and even our sensor products are starting to gain traction in the market.
+So if you look at it on a year-on-year basis, it's solid.
+And if you look at the design win traction we've actually been seeing increasing design wins and customer design and activities across all of those products of EFM8 MCU's, which we introduced in Q1.
+Our new wireless products that we are out sampling.
+So I believe that you know while we may see a little bit of impact from what's going on in the macro economy, I don't believe that there's any decline in the overall trajectory or in the long-term trajectory of that business.
+We had hoped that Q3 would be a little bit stronger than it is, and the design win activity would have indicated that, but overall, if you look at it just on a little bit longer scale we are very pleased and very optimistic with how that business is coming through.
+<UNK>, I think we have to look at this really two different ways.
+I believe that our market share with our primary customers, and really overall, has remained the same.
+We continue to enjoy dominant share in our Korean tier 1 customers.
+We did lose a little bit of share in North America due to the Cresta Tech lawsuit that we were involved in, and we believe that we will be able to get that share in Korea back, as we move forward through the year into next year.
+Overall our market share with our tier 1 customers, if anything, has increased slightly.
+I think that the other way to look at this business though is that the overall TV market is down, we've got a pronounced decrease in shipments out of our tier 1 suppliers.
+So whether overall market share, where last year we were 55% of the overall TV market, we really have to see how the year plays out, but our overall fraction of TVs ship may go down.
+It's not because we are losing share with our customers, but possibly because our customers have a smaller volume share of the overall TV market.
+But it really depends.
+I think we've also that the Chinese TV shipments have also slowed down with the Chinese makers, and certainly Japan is seeing these effects as well.
+So how it all shakes out.
+But I think overall our market share is solid with our tier 1 customers, our design wins are solid.
+We feel very good about where we are with our positioning going into the 2016 model year.
+But we will see how that plays out.
+Well first of all as the other components of the business perform, we've had Broadcast automotive, we've had our IOT products and Infrastructure products growing 25% year on year.
+We've had--that's now 2/3 of our business, so as the consumer portion of Broadcast, and specifically I think you're talking about the TV portion of, as that becomes a smaller fraction that will move the needle less.
+We do feel like this is a long-term business for us in terms of, this is not the -- TV tuners is something we believe is going to be a separate device over long period of time, and a very good technology and it generates good profits for us.
+So we believe that it's something that, while that's not the strategic growth area for us, that we do believe it will move into more of a mature category similar to our Access business, and once we get through the volatility that we are seeing recently, we will return into more of a steady-state sort of business for year to year.
+But that being said, we certainly will look at ways to optimize that situation.
+We have been redeploying a lot of resources and focusing in on our strategic growth sectors around IOT, and feel really good about those investments and how that's moving forward.
+And certainly we would consider all options.
+But at this point it looks like it's going to be a long-term business for us and a decreasing fraction of the overall business, but an important cash contributor for the Company.
+Certainly <UNK>.
+We, as <UNK> just mentioned, we have been undergoing efforts to redeploy our resources in some of the more mature categories into our strategic growth areas and we feel that is fundamentally important.
+This issue that we're seeing in Q3 certainly makes model performance a bit more challenging, but taking a longer-term view, it is fundamentally important to us to continue to invest for success in the Internet of Things, and in the Infrastructure markets, and we will continue to strike the balance between making those investments in optimizing our P&L.
+It's just something we will have to watch further, but we don't want to do something over reactionary and impact those development programs, which are very important for the long-term success of the Company.
+<UNK>, this is <UNK>.
+We believe if you look at the book-to-bill ratios that we had with this couple of customers.
+They were well below one in Q2, and we believe that on the order of, I don't how to quantify it, but they have many millions of tuners sitting in inventory that they are burning through right now, and the question is how to sell through their end products goes in the second half and how quickly they can burn that off.
+There's a substantial inventory.
+We shipped pretty heavily in Q1.
+They put the brakes on in Q2 and we are feeling the effects of that certainly was prominent here in Q3, and our hope is that they are burning off the inventory and are looking at how to reinvigorate sales during the second half.
+But we don't know exactly how long that's going to take.
+The guidance that we're getting here in Q3, is to the best of our knowledge, what we think the situation is at this point.
+Our tuners are global so they work across all of the various standards.
+And when you look at an HDTV versus an ultra HDTV, there's a general similar content from our side.
+So whether it's a high def 4K TV or an HDTV, it's essentially the same front and that's being used in all of those different applications.
+So it's --I think just all if you look at the TV market the 3-D trends didn't really play out.
+You've got Oled as an important driver, but that really hasn't sold through.
+You had the 4K TVs being quite expensive and an interesting technology, but not a whole lot of content yet.
+So I think if you just look at from a high-level the TV market, there's not really a killer feature or something like that's driving additional replacement cycles, and I think that as the pricing comes down on the 4K TVs, I think that could generate some additional demand here as we going to second half into next year.
+From our perspective whether it's an HD TV or 4K TVs it's essentially the same product from our end.
+It's really more advances on the display and on the processing side.
+Yes, our industrial business has been our fastest growing business and that's really centered around all of the IOT opportunities.
+If you look at the home automation, if you look at security, if you look at metering, a lot of those segments that have been very successful for us in Europe and the US, are classified industrial and that is now our largest market segment.
+So our mix has shifted from being more consumer and communications, to now being fairly well balanced between those three, with industrial taking the top place over communications at 35% here in Q2.
+We expect that the strength in industrial and automotive to continue as we move into the second half, and it's really driven by product cycles and design win momentum more than the health of the end market and the economy itself.
+So we're quite pleased.
+Although I think that some of the macro effects do our moderating our growth year as we move into Q3, but overall that's been driven by product cycles and market share gains.
+Yes, this is <UNK>.
+So our model range for gross margins zooming out is 59% to 61%, and where we end up within that model will depend on the product mix in any given quarter.
+So clearly when the Broadcast consumer is doing better that puts a little more pressure on margin, then higher market products like Infrastructure are running fast that increases our margins a bit.
+If you look at our September guide for IOT and Infrastructure, you know we've just come off some very strong run on year-on-year growth of 35%, and strong shipments in Q2 hitting a record--a strong record with those products.
+And so whether the Q2 number or the Q3 number is being flat, or whether we are being conservative, or if you know, I think just looking at the end-user demand and the consumer demand, I think it's taking a bit of a pause.
+It's not at all related to design wins traction or share gains.
+I believe that you just really have to look at it on a year-on-year basis and just look at the string of records that we've had.
+I think that there's nothing in the-- really if you look at the design win traction, it's increasing among all of those applications.
+So whether consumer demand or what's going on there in terms of the near term quarterly FX, not sure exactly what to read into that.
+In terms of Infrastructure, again we do not have a strong exposure to the wireless market.
+I know you've seen a lot of companies talk about you know serious reductions in shipments in base stations, especially in China.
+We do not participate directly in those.
+It does have an effect on the core network deployments, but I think that the strength in cloud and in data centers and in the overall backbone networks.
+You look at the CapEx spending.
+It is holding in there, and I think that's also laid on top of the fact that we've had record design performance at our Infrastructure businesses over the last couple of years, and so those programs are starting to come online and probably negating some of the macro effects that we're seeing.
+Hey <UNK>.
+This is <UNK>.
+There is some benefit to that, that's true.
+We have incorporated that in our planning for this year and those effects are included in our guidance, and that was true both at the beginning of the year with the 9% call and today with the 7% call.
+So, it's a valid observation and that is incorporated in our numbers.
+The IOT solutions that you are referring to really are our next generation Gecko platform.
+So to address the IOT market, it's a broad market, and you have to have a complete portfolio of products addressing a broad range of standards, a broad range of functionality in micro controllers.
+And so we are building our next-generation platform to be able to serve all of those.
+To spin out a lot of different parts.
+And our next gen part has been sampling since Q1.
+We have over 30 alpha customers in active development within all of the various wireless standards; ZigBee, Thread, Bluetooth Smart, as well as MCU functionality.
+These are single-chip solutions that are highly differentiated in terms of low power performance, in terms of multi-mode capability, dual band capability, and so really it takes the performance of connectivity and the power consumption and integration into the next level, reducing materials cost.
+In the second half we're going to be launching modules around that solution, around Bluetooth Smart and other standards.
+And we're going to be launching our single-chip solution out into the market more broadly.
+But today we are sampling that with a wide range of customers, and working through the initial product development cycles with that.
+But we believe that platform, that first chip, and you know all of the chips that are going to follow as we move into next year, are going to be a critical growth driver for the Company, as well as a really important component of those of the rollout of IOT.
+Low power, integration, costs, all of those things are going to be important.
+As these applications, you know, start to gain traction in the market and get deployed.
+So this level of integration, this level of power is going to be really revolutionary and transformational in the market.
+In our view.
+Yes <UNK>, we are continuing to hire in certain areas, particularly in the software development expertise, and we also have our new college graduate recruiting program that has had another year of successful recruiting progress.
+So while the first half headcount growth was a bit slower than what we anticipated, we are continuing to ramp heads in a few areas, to resource these critical programs that we need for IOT success long term.
+No, we're not seeing any inventory pulled down.
+We see strength in our 8-bit business, we see strong design win activity going on in our EFM8 solution, we continue to invest in the 8-bit area and are launching new products in that area.
+So, we believe that we are in share-gain mode with 8 bit and view that as an important driver of the microcontroller business at the low end.
+So no, we don't see an inventory issue at all.
+In fact fairly healthy metrics and that.
+Raj, your observation is spot on.
+This is been a very strange year from a seasonality point of view with a significant uptick in revenue in Q1 from the Broadcast business category, which is highly unusual and now a third quarter guide down for Broadcast, which is also highly unusual, so it has skewed the character of the year significantly.
+I also believe that if you look at our peer group and the guidance that we have been experiencing throughout this earnings season, many participants in broad-base markets are showing macro weaknesses in second half that is significantly impacted by the third quarter guides, and we are not immune to that type of activity.
+So, I think we are seeing an exacerbation in the third quarter from both the Broadcast dynamic around TV consumer demand and a general macro slowdown that's affecting all of our product lines.
+The big question for us is what will our fourth quarter turn out to be.
+And you know we are not able to give you a clear understanding of that today.
+I think by the time we get to the October call, we will know whether these TV OEMs have begun to resume more normal quarterly patterns and that business starts to recover.
+I think incrementally to all of this discussion about IOT guide for the third quarter, we would expect that business to continue to expand into fourth quarter and we would believe that IOT and Infrastructure will have good 4Q's and continue solid momentum going into 2016.
+But to summarize, this has been a highly unusual calendar year from a seasonality point of view, and we would expect to return to more normal trends and conditions next year.
+So Google is an important partner for us, and I believe that the drive to standardization, the way devices talk to one another, is of critical importance to the rollout of IOT.
+You've got a lot of different players building incompatible solutions and trying to stake out their claim, and I think that there is a coming shakeout of those players in standards, we've seen moves by Qualcomm into the Thread group, which is an important group at Google, and that's initiative together with us an ARM and Freescale.
+That is the networking layer which basically takes ZigBee and turns it into an IP-based low-power mesh network.
+Think of it as a Wi-Fi for the IOT.
+The Wi-Fi's application layer is essentially the language the devices can use to talk among themselves.
+You also have ZigBee, as an important application layer.
+You also have Home Kit to a degree.
+So, there are a variety of application layers that run on top of the networking layer, and I believe that there's going to be three or four major ways the devices will talk to one another, and those standards are all coming forward and shaking out right now.
+But the introduction of Thread--don't underestimate that, it is going to be a huge deal and the fact that we can get all of these IOT devices with an IP address and talking to one another, and talking over the Internet directly, allows these application layers to span across all of the various networking.
+Whether it's a wired network over ethernet, or Wi-Fi, or over Thread, and that's going to improve the interoperability of using Google and Silicon Labs, and ARM, and others, and now Qualcomm are all really pointed in the same direction that is the right way of connecting these devices, and the importance imperative of the low-power standard like Thread compared to Wi-Fi.
+If you are going to battery-power a lot of these nodes, which I believe the majority of the nodes in IOT are going to not have a wire, you have to have a low-power standard, and these new standards like Thread are going to be critically important.
+We're starting to see the companies coalesce around this and we will see how that plays out in 2016.
+It's very exciting for us moving forward.

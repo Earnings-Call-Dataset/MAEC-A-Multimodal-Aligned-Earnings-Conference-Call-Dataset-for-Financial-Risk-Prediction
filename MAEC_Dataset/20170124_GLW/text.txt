@@ -1,0 +1,162 @@
+Thank you, <UNK> and good morning
+As we noted in today's release, our fourth quarter core results reflect the sequential and year-over-year improvement we expected and we're very pleased with our strong operating performance
+Net income and earnings were both up significantly
+Looking ahead, we see year-over-year growth in the first quarter in sales, net income and EPS
+Before I get into the details of our performance and results, I wanted to briefly note that the primary difference between our GAAP and core results for the fourth quarter is, again, a non-cash mark-to-market adjustment
+As we have discussed previously, GAAP accounting requires earnings translation head contracts, settling in future periods, to be marked-to-market and recorded at their current value in the current quarter, even though those contracts will not be settled in the current quarter
+During the fourth quarter, the yen weakened which resulted in a GAAP gain of $1.1 billion, when we marked the contracts to market, as required by GAAP
+To be clear, this mark-to-market accounting has no impact on our cash flow
+We remain very pleased with the results of our hedging program and the economic certainty it delivers
+Since its inception, we have received cash totaling $1.3 billion under our hedge contracts
+These proceeds offset much of the yen-related decline in display's earnings
+Hedging our earnings and cash flow through 2022 substantially mitigates risk from a weakening yen
+For the investors who have additional questions on the mechanics of the contracts, please refer to the tutorial on FX hedge accounting on the digital media disclosure section of our investor relations website
+And as always, <UNK> and her team are available after the call
+Note that for the full year, marking those contracts to market resulted in a non-cash loss of $409 million
+The more significant difference between GAAP and core results for the full year was the $2.7 billion benefit from the strategic realignment of Dow Corning, that was completed in the second quarter
+As <UNK> noted, this transaction provided tremendous value for our shareholders
+Turning to fourth quarter core results, sales grew 6% year over year and net income was $534 million, up 24% year-over-year
+Adjusting for the former Dow Corning silicones business equity earnings which no longer contribute to our results, net income grew 36% year over year
+Fourth quarter EPS was $0.50, up 47%
+These positive year-over-year results were primarily due to rapid adoption of Gorilla Glass 5 and record Gorilla Glass volume which produced higher sales and a profit boost from its premium price; sales growth and higher profitability in optical communications; and LCD glass volume growth and moderate pricing
+We delivered a 43% gross margin, as expected which was up 140 basis points from last year
+SG&A was 14% of sales, at $350 million
+RD&E was 7% of sales at $173 million, benefiting from the proceeds of a joint development agreement with a display customer
+Total gross equity earnings were $112 million, driven primarily by our equity earnings from Hemlock which is seasonally strongest in Q4. Our effective tax rate for the quarter was 17%
+Turning briefly to the balance sheet, adjusted operating cash flow for the year was $2.75 billion and we ended the year with $5.3 billion of cash, approximately 40% of which is in the U.S
+Now let's look at the detailed segment results and the outlook for each business, beginning with display technologies
+The fourth quarter display market and our results were strong and in line with guidance
+Sales were $904 million and net income was $276 million
+Industry dynamics played out, as we said they would, in October
+The fourth quarter is the strongest season at retail
+Based on preliminary data, premium retail area growth year over year was robust, particularly in North America and China
+Our customers, the panel makers, kept their utilizations high to meet this demand
+Our fourth quarter glass volume tracked with the market and was up low teens year-over-year
+Sequentially, our volume was down slightly
+Supply chain inventory exited the year at a healthy level and panel makers' inventories remain lean
+Fourth quarter LCD glass price declined moderately sequentially, in fact, more moderately than Q3. For the full year, glass demand grew in the mid-single-digits
+As we predicted, growth was driven primarily by average TV screen size which grew more than 1.5 inches
+Our volume for the full year grew mid-single digits, in line with the glass market
+Now, looking into 2017, we expect the retail market, as measured in square feet of glass, to be up mid-single digits, driven primarily by demand for larger screen size TVs
+Let me walk you through the details
+First, TV units at retail are expected to be flat, or possibly up 1%
+This has a small contribution to glass market area growth
+Second, TV screen size should grow about 1.5 inches, consistent with the trend of the last three years
+This will contribute 4% to 5% to end market glass area growth in 2017. Third, we think IT will be flat, with larger screen sizes offset by lower units
+We do not expect IT and other smaller form factors to contribute to glass market growth
+And fourth, the value chain enters the year with healthy inventory levels and we think inventory will again be healthy at year-end 2017, expanding during the first half to prepare for a seasonally-strong second half, when inventory will contract
+Taken together, we expect our demand to be up mid-single digits in 2017, in line with the overall market
+Specifically for the first quarter, we expect the glass market and our volume to be up mid-teens over last year's first quarter
+This is down mid-single digits sequentially, driven by two fewer production days in the quarter and a reduction in panel maker capacity
+As context, late in Q4, Korean panel makers began to take down some lines, to convert the flexible OLED manufacturing for smart phones
+New fabs are coming online over the course of 2017. Therefore, panel capacity will increase throughout the year
+When one panel maker reduces production in one fab, other panel makers will need to produce more to meet retail demand
+We expect to maintain our worldwide share position, due to our broad and diversified customer base
+We believe the full-year 2017 glass price declines will be more moderate than 2016. In fact, we may see the smallest declines in the last five years, as the profitability of our competitors remains low and supply/demand remains in balance
+At this point, we already have more than 90% of our 2017 volume under contract
+For Q1, we expect the sequential LCD glass price declines also to be moderate and very similar to the decline in the first quarter of 2016 which was the best for our first quarter in the past five years
+Keep in mind, Q1 is typically the quarter with the largest decline for the year, as annual supply agreements are finalized
+Let's move to optical communications, where we're very pleased with the results, as fourth quarter sales rose 11% and NPAT rose 85% over last year
+The increased sales of our solution products and improved manufacturing performance contributed to the higher year-over-year sales and profitability
+North America carrier network business provided the fourth quarter growth highlight, as demand for our fiber-to-the-home solutions remained strong
+Turning to 2017, we're preparing to leverage the strong opportunities we see within the existing telecom market
+These include fiber market demand exceeding market supply; key industry leaders in telecom investing in optical solutions, particularly as they look to the next generations of network capabilities; and, finally, industry consolidations that favor some of our strong business partners
+These are organizations that have turned to Corning's optical communications business many times for help in solving their cost and network capacity challenges
+As a result, we expect low teens growth for full-year 2017 sales
+The increase will largely be the result of a continuation of the growth trends we saw in the second half of 2016. In the first quarter, we expect year-over-year growth of at least 25%
+As a reminder, a software implementation issue constrained sales in the first half of 2016. In environmental, fourth quarter sales were down slightly, in line with our expectations
+For this business, it's a tale of two end markets, in very different places
+The light duty automotive market grew mid-single digits for the year
+Our auto sales were a record, up 11% for the year, driven by winning additional business
+The heavy duty diesel market is in a different place, particularly in North America, where truck builds were down 30% year on year and our sales were down
+Net income for the fourth quarter declined in line with our expectations
+For the first quarter, we expect to report sales consistent to down slightly versus Q1 of last year
+For 2017 overall, we expect full-year sales to be consistent to up slightly from 2016. We expect continued sales growth in the auto market and lower heavy duty volume
+In 2017, we're making select capacity and engineering investments for the new GPF business, to prepare us to support customer commitments and you will see both cost on our P&L and capital expenditures in the near term
+As we've mentioned, we're excited about the GPF platform wins we have secured and expect sales to begin during the second half of the year
+Let's move to specialty materials, where we were very pleased with the performance
+Fourth quarter sales rose 22% over last year, ahead of our expectations, led by record Gorilla Glass volume
+Net income was up 48% year over year
+During the quarter, we saw rapid adoption of Gorilla Glass 5, as OEMs used it on more devices, a testament to our market leadership
+As <UNK> noted, our innovative products also can command a premium price
+We began to feel the benefit of Gorilla Glass 5 pricing in the fourth quarter and expect it to positively impact our financial performance in 2017. Our growth prospects remain strong in this market
+The newly-introduced Gorilla Glass 5 and Gorilla Glass SR+ provide added value for consumers in terms of durability and we're working on even more innovations to increase our sales in the mobile consumer electronics market
+In the first quarter, we're expecting specialty materials sales to grow in the high teens year over year, as our OEM customers continue to use Gorilla Glass on more devices
+Keep in mind, the supply chain in this market is driven by the timing of new product launches, not calendar years
+We're highly confident that our specialty materials business will grow in 2017. The only question is how big that growth will be which will depend on the timing and extent of customers employing Gorilla Glass 5 and other Corning innovations
+We will certainly keep you posted as the year progresses
+In Life Sciences, fourth quarter sales were up year over year and net income growth outpaced that of sales
+For full-year 2017 and the first quarter, we expect low single-digit growth year over year, ahead of forecasted market growth rates
+As for our innovation program in pharmaceutical packaging, we continue to make progress and look forward to sharing milestones as we can
+Now, let's turn to a few more details on our first quarter outlook
+As <UNK> noted, for the first quarter, we expect year-over-year growth in sales, net income and EPS
+We expect our first quarter gross margin will be in the range of 42% to 43% and SG&A and RD&E spending should be approximately 14% and 9% of sales respectively
+We expect other income, other expense to be a net expense of approximately $40 million and we expect first quarter total gross equity earnings to be approximately $15 million
+Those details should help you understand our view of the first quarter, but we wanted to provide a few insights regarding the full year as well
+First, we presently believe full-year equity earnings will be approximately $150 million, predominantly from Hemlock Semiconductors
+You may recall that we're receiving Hemlock's equity earnings on a pretax basis, since we closed the realignment of Dow Corning
+We've put a schedule in the appendix to the slides for this call, that will walk you through the comparison
+Further, we expect our effective tax rate for full-year 2017 and the first quarter will be approximately 17% to 18%
+Recall from our strategy and capital allocation framework that we plan on investing $10 billion from 2016 to 2019 in growth and sustained leadership which included capital spending
+We said the pace of CapEx would be dependent on customer demand
+We anticipate investing a total of about $1.5 billion in 2017 which is up from 2016. This is driven by expansions related to four growth opportunities in our market access platforms
+First, to support the double-digit growth of optical communications
+Second, to support the success of our innovations in mobile consumer electronics
+Third, to continue work on the gen 10.5 glass manufacturing facility, adjacent to BOE and display
+You may recall this project exceeds our target of obtaining $2 of every $3 from others, when we invest in new melting capacity
+And, fourth, to add capacity for the new gas particulate filter business in automotive
+Now, finally, I wanted to comment on our plans to return at least $12.5 billion to shareholders under our strategy and capital allocation framework
+Through year-end 2016, essentially the first year under the framework, we returned $6 billion
+In February 2016, the Board increased the cash dividend by 12.5%
+Our repurchase activity included $2.5 billion spent on repurchases, to offset the EPS impact from the loss of the silicone's equity earnings from Dow Corning
+In 2017, as we did in 2016, we planned to continue repurchasing opportunistically, reflecting our view that Corning remains undervalued
+For your modeling purposes, we anticipate spending approximately $2 billion over the course of the year for repurchases, or roughly what we spent in 2016, excluding the spending to offset the loss of the silicone's equity earnings
+Of course, the timing and amount of repurchase activities always depends on a variety of factors
+In addition, we expect the Board to approve an increase of at least 10% per share in the annual dividend rate, in line with the framework
+Let me close by saying that we're very pleased with the strong fourth quarter results and our positive momentum coming into 2017. Overall, we feel very good about our progress against our framework and the rich set of opportunities ahead of us
+With that, let's move to Q&A
+Let me start on the optical question
+We definitely had good growth in the fourth quarter
+It was higher than what we expected
+We did see the data center demand pick up in the fourth quarter
+It was higher than Q3 and it was also higher than last year
+I think what's important to remember about data center demand is it will be lumpy, because of the project nature of the business
+But over time, we definitely expect this to be a strong driver of growth
+And as we look out into next year, for our full year, we think our growth will be in the mid-teens
+A lot of that, of course, driven by fiber of the home and carriers
+But we do expect some growth in the hyperscale data -- enterprise in general, including hyperscale data centers
+Now, for the first quarter, we said the growth would be greater than 25%
+I think you can think about that, roughly half of that coming from the issues we had last year and half of it being the strong market that we have
+Because overall, we think the market in the mid-teens gives you a sense that -- our growth in the mid-teens gives you the sense that the market, we expect to grow greater than 10%
+I think that right now fiber supply is very tight
+Why don't I start with the telecom question, <UNK>
+I think from an overall standpoint, we did see the growth in the fourth quarter and that was on a year-over-year basis, also versus Q3. But I think one thing that we learned in the process of talking about hyperscale growth is, because of the lumpy nature of it and the timing
+It just doesn't make sense to think about it on a quarter in, quarter out basis
+I think it's more important to think about it on an annual basis and it's part of our mid-teens or low teens growth that we expect in 2017.
+And then, <UNK>, on your last question on IT and screen sizes, I think at the end of the day, we don't expect it to have a big impact on the market
+We agree, I think, IT is stronger than it has been over the last couple of years
+But we still think that, you know, the units themselves, relatively flat, screen size relatively flat
+So we just don't see it as a big contributor
+Of course, we could be wrong about that
+It may be a little bit of a positive contributor, but I think we would still end up in that range of mid-single digits in terms of the glass market
+Clearly, Gorilla Glass 5 adoption was strong in the fourth quarter
+I'm not going to give you the percentage of what it was, but it was strong in the fourth quarter and we expect it to continue to accelerate as we go into 2017 and that's positive, both in terms of the volume itself and of the premium price
+And that premium price clearly had a positive impact on our profitability in Q4. And it will continue to have an impact on our profitability in 2017.
+Sure
+I think on the overall growth standpoint, it's always hard for us to know exactly the impact of the software implementation issue that we had
+But I think if you were to adjust for that, you would still see growth in the double digits
+And that same applies to acquisitions
+The bottom line here is that we think that our position in this market and where we play in this market and the part of the market that is most important to us is growing very rapidly and we think it's seen a double-digit growth
+In terms to fiber-to-the-home, clearly North America is a place where we see lots of fiber to the home growth
+The payment was with a customer and I'm not going to disclose what development work we were doing with that customer
+And I'm also not going to disclose how much it is
+But I think, you think relative to what your expectations were and the difference that explains most of it
+So the answer to your second question is correct
+That is the way that we expect it to play out
+In terms of price declines and the amount of volume we have under contract, usually as we enter into the year, we have a high percentage under contract
+So 90%, I think, was important for everybody to remember, that's the way this business works
+And then relative to price declines more moderate, somewhere in the 10% range is how that would work out
+I think that when we entered into our exchange contracts originally in 2014, we said they would be for three years and that we would stay at a constant rate of 99%
+We have hedged about 70% of our exposure from 2016 to 2022 at about a $1.06 rate, but we're not ready to talk about the constant rate for 2018 yet, in part because we're looking at either other opportunities for us to hedge and we're also looking at different ways that we might hedge, as opposed to the FX contracts that we're using today
+So I think when we made the FX rate change previously, we did it towards the end of the year
+And I think that's probably the timing when you would expect us to talk about it again, or maybe even at the beginning of 2018.

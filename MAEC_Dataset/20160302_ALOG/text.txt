@@ -1,0 +1,245 @@
+Good afternoon around welcome to the Analogic Corporation second-quarter conference call for FY16.
+The following corporate officers are present: Mr.
+<UNK> <UNK>, President and CEO; Mr.
+<UNK> <UNK>, Senior Vice President, CFO, and Treasurer; and Mr.
+John Fry, Senior Vice President, General Counsel.
+I'd like to remind everyone that a supplementary presentation will be used during today's call.
+If you have not already downloaded that presentation, you can do so at any time at investor.
+analogic.com.
+That presentation will remain available until April 3, 2016.
+Now I'd like to turn the call over to Mr.
+<UNK> <UNK>, Head of Investor Relations.
+Good afternoon, everyone.
+Welcome to Analogic's second-quarter conference call for FY16.
+Earlier today after the market closed, we issued a press release describing our financial results for our second fiscal quarter.
+If you have not yet downloaded the press release, you can do so via our website at investor.
+Analogic.com.
+Before we review the quarter, I would like to remind everyone that today's call may include forward-looking statements such as comments about our plans, expectations, and projections.
+For more information on risks and other factors that could cause our actual results to differ significantly from our forward-looking statements, please refer to our most recent Form 10-K and 10-Q reports on file with the SEC.
+Also on today's call, we would be discussing certain financial measures not prepared in accordance with generally accepted accounting principles, or GAAP.
+We believe that using non-GAAP metrics provide investors a more thorough understanding of our business.
+An explanation and a reconciliation of our non-GAAP financial measures are provided at the end of the presentation materials and in our second-quarter press release.
+And now I'd like to turn the call over to <UNK> <UNK>.
+Thanks, <UNK>.
+Good afternoon, everybody.
+Let's move to slide 4 of the presentation, please.
+You can see that our overall strengthening mix drove a very profitable quarter, in spite of significant challenges in the security and detection market.
+Revenue came in at $128 million; that's down 5% from last year and down 4% on a constant currency basis.
+Gross margin was 46%; that's up 3 points from last year and includes a currency impact of 0.5 point.
+Non-GAAP operating margin was a strong 15%, up 2 points, and non-GAAP earnings per share was $1.18; that's up $0.10 from last year.
+Our GAAP EPS was negative $0.24, down $1.02, and it includes a $13.3 million charge in connection with the BK Medical inquiry.
+We're moving closer to a resolution in this matter, and of course, we look forward to putting it behinds us.
+And also there's a $3.1 million accrual, which was about $0.25 from the previously announced restructuring.
+Moving on to slide 5, we'll take a look at the segment highlights.
+Medical imaging revenue was flat versus prior year.
+CT subsystems saw some softness on timing of shipments in the quarter.
+We saw an improving mix on our growing movement toward private label CT shipments in China, and mammography continued double-digit growth driven by new OEM customers.
+Ultrasound continues to outperform, with revenue increasing 5% on a constant currency basis, and 2% as reported.
+Ultrasound direct increased 11% on constant currency basis, impacted by the expected reduction in OEM probes.
+North America, Europe, and China were all up on a constant currency basis.
+We saw initial production shipments of our -- to our technology partner, Carestream for general imaging, and are excited to see our first commercial order for our breakthrough Sonic Window product, which is initially targeted to kidney dialysis.
+Security and detection was down 39% in the quarter versus prior year.
+As you may have heard from others in the aviation detection space, the international airport purchasing delays are causing delays in high-speed shipments.
+Medium speed TSA shipment demand softened in the quarter, and Rapid DNA -- the continued payment delays impacted revenue recognition in the quarter.
+Now I'll turn it over to <UNK> <UNK>, our CFO, to get more detail on the financials.
+<UNK>.
+Thanks, <UNK>.
+Good afternoon, evening, everyone.
+I'll start on slide 6 of our quarterly performance.
+The quarter, for the most part, met our financial expectations, as ultrasound grew 5% on a constant currency basis and medical imaging was flat.
+The one exception, as <UNK> noted, was our security segment experienced delay issues leading to a 39% revenue decline, which was the primary cause of the overall 5% revenue drop, or 4% on a constant currency basis.
+The positive news within the quarter was strong gross margin improvement of 3 points, driven by favorable product mix and continued cost reductions offset lower revenue volume.
+Gross margin expansion led to a 2-point improvement on overall non-GAAP operating margin.
+Now, we believe a significant portion of the gross margin improvement is sustainable, but some of the mix benefit may not continue in the second half.
+Now I'll turn to slide 7 and quarter two financial results.
+We were able to overcome, from a non-GAAP perspective, the revenue reduction through higher gross margin and lower operating expense, which led to an 11% improvement in operating income and a 9% increase in EPS, or $0.10 higher from the previous year.
+On the GAAP financial side, the major item that reduced GAAP EPS was an increase in our accrual pertaining to the BK Medical matter.
+Further color is we are engaged in discussions was the SEC, DOJ and the Danish government concerning a final resolution of these matters.
+In the second quarter, we accrued a charge of $13.3 million, of which $10.1 million was classified as general and administrative expense and $3.2 million was classified as other expense.
+This is in addition to the $1.6 million charge that we accrued in the fourth quarter of FY15.
+Any resolution of these matters and the terms of and the amounts payable in connection with any such resolution is subject to negotiation and approval of agreements with each of the SEC, the DOJ, and the Danish government.
+Now, within the quarter, we also incurred $3.1 million, or $0.25, of EPS and restructuring cost.
+Without the BK charge of $1.07 per share and restructuring, we would have delivered positive GAAP EPS.
+Now a further important point was our GAAP statutory tax rate differed materially from prior year and the past quarter, primarily due to nondeductible and reserve items related to the BK Medical matter.
+For FY16, on a non-GAAP basis, we now expect our effective rate to be in the 20%s.
+I'll move to slide 8 and year-to-date results.
+For the most part, similar quarterly comments pertain to the year-to-date results with one further point: that revenue is impacted by 1% for FX and we have absorbed in the half 50 basis points as well from FX at the gross margin line.
+Now I'll turn to our operating performance by segment on slide 9.
+Medical imaging revenues were $74 million, a sequential increase of $9 million from quarter one and flat versus prior year.
+Revenue results reflect a double-digit growth in mammography, offset by CT softness.
+Non-GAAP operating margin, as compared to quarter two FY15, improved substantially by approximately 6 points, driven by stronger mix and reduced cost.
+As indicated earlier, we do anticipate continued operating margin improvement, but unlikely at the levels shown within the quarter because of our expectations on product mix.
+In ultrasound, revenue increased 5% in constant currency terms and 2% reported, despite a significant drop in OEM probes.
+When looking at our direct system sales, we saw an increase of 11% on a constant currency basis.
+Operating margin improved by 1 point, including absorbing almost 2 points at the gross margin line from FX.
+Security and detection revenues declined 39% in the quarter across all areas, caused primarily by timing delays.
+Non-GAAP operating margin decreased by 9 points because of the lower revenue volume.
+So I'll move to working capital and cash flow on slide 10.
+We generated $5 million in operating cash, with $3.5 million of free cash, returned approximately $5 million of cash to shareholders through dividends and stock repurchases.
+Now total cash and investments declined $10 million, reflecting both the Oncura Partners acquisition of $8 million and $2 million of fixed asset investment.
+Inventory levels increased from the prior quarter, reflecting primarily security shipment delays.
+I'll now turn the call back over to <UNK> for the 2016 outlook.
+Thanks, <UNK>.
+Let's move to slide 11, look at the summary.
+As suggested on our last quarter's call, we continue to expect strong growth in ultrasound and a solid performance in medical imaging.
+However, challenges in the aviation threat detection markets are impacting our year in security revenues.
+Looking to the reportable segments, our medical imaging business is picking up in the second half, and we expect overall revenue flat for the year.
+MRI subsystems are stable and the CT mix is shifting to higher level content, private label systems in China.
+Mammography is strengthening on new OEM customers.
+Ultrasound total revenue is expected to be up double digits in the second half.
+This is in spite of the drag from our legacy OEM probes.
+So for the full year, we expect upper single-digit revenue growth in the ultrasound segment.
+North American sales is growing at double digits in the second half.
+Augmenting this new growth, the bk3500 for point-of-care call points starts shipping here in our Q3.
+Sonic Window commercially launched with modest sales expected here in the second half.
+We acquired Oncura, which provides additional revenue growth and its cloud-based telehealth technology supports our strategy of enabling high acuity procedures in low cost settings, as we leverage the Oncura platform in our human healthcare markets.
+Sales to our technology partner Carestream is now in production and will accelerate solid growth in the second half.
+Security and detection is expected to be down significantly compared to a strong prior year.
+US TSA replacement on medium speed remains challenged in this year.
+The international market is struggling with fits and starts with tender delays impacting high speed shipments in this year.
+And though we still have high hopes for Rapid DNA, regulatory approvals are delaying market adoption and the customer payment delays are impacting our revenue here in this year.
+In closing, for the second half, we see strong ultrasound growth and solid medical imaging impacted by security declines.
+For the year, we expect revenue down mid single digits, low single digits on a constant currency basis, with favorable mix and cost focus driving -- and our focus on cost driving continued non-GAAP operating margin expansion of over 1 point.
+Thank you very much and now we'll open up the line for questions.
+Ladies and gentlemen, the floor is now opened for questions.
+(Operator Instructions) The first question comes from <UNK> <UNK> with CJS Securities.
+Good afternoon.
+Hi, <UNK>.
+Just on the mix issue and the margins were obviously much better than expected, and it sounds like certainly a portion of it is sustainable.
+And I gather that would be, with this ongoing restructuring, you're starting to see some benefits of that.
+Just in terms of the mix, is it the majority of that on the -- fair to say the private label systems in China is what's really was benefiting you this quarter or are there other things -- else besides that.
+Well, you saw a very nice positive mix both in our medical imaging business, which drove very strong operating margins, but you also saw it on ultrasound.
+With ultrasound, much of our -- as I said, much of our run rate spend is already baked into the business, and now we're starting to see the growth provide very nice operating drop down.
+Our ultrasound products are by far our highest gross margin products, so the operating leverage there is dramatic.
+So you saw that improvement in ultrasound, clearly that's a big part of it.
+But also the improvement in medical imaging side, where paying attention to the spend and making sure that as we continue to optimize the business, and there you did see some improvement, additional improvement in areas like mammography and the CT mix also looking good.
+So I think really paying attention to the spend and the growth in those two areas really gives very nice operating drop down and helps offset the lumpy situation that we have on the security side of the business.
+And then just on the medical imaging, 21%, you guys have never done, I think, greater than like a 16%.
+I realize quarters are -- they're lumpy and Q2 and Q4 are certainly the best.
+But it sounds like some of this is sustainable, right.
+It's not all just a --
+Certainly --
+It's hard to bucket it.
+I'm trying to figure out what portion is the one-timish or lumpiness versus sustainability.
+On medical imaging, we've been working to continue to keep that in the teens or even into the high teens.
+As we're in the teens or a little better, that's kind of our target.
+21% is certainly I would say a bit of an outlier, and maybe would have to have some one-time effect associated with it.
+So I wouldn't expect to maintain 21%.
+I'd love to be able to say that, but I think that's a little outside of what we would expect.
+But as we're sitting in the teens, we certainly could see some continued motion upward and some continued improvement in that area, but not to that level.
+The way I think about it is, you put it all together, the direct business in ultrasound is -- it's really where we're having dramatic growth.
+It does somewhat get hidden by the reduction on the probe side.
+We've said that the legacy probes we would expect to somewhere around 10% of the total segment revenue.
+That's going the other way by about 5 points of that segment, so that's a pretty heavy headwind.
+But we're seeing growth way substantially more than that to be able to talk about growth net in the upper single digits.
+And it is a combination of a number -- all these new things rolling in.
+You take all the investment we made with the new product launches, you have the Carestream product starting to layer in.
+You have the other newer products, the bk3500, it launches now.
+That will be layering in, in the second half.
+Oncura will be helping out some also, as that starts to fold into the business and as we start to leverage some of that -- some of those service offerings more across our business, that will start to come in over time.
+And the hand-held, that's another -- even though it starts off as a small number, that's completely incremental and starts to layer in.
+A lot of great things happening here in the second half in our ultrasound business, and they're all compiling, piling up to help keep moving that growth curve in a positive direction.
+The one thing that we've all seen is some of the players in that space have had substantial push outs of what they were expecting for shipments in this year, and we all know who some -- what they've said publicly.
+They're seeing -- so that's basically the market as we see it.
+The market is -- it's big, chunky stuff; it can tend to delay because you've got big airport authorities making decisions and then their sites aren't ready.
+So we still think it's a great overall market.
+There's a lot of sockets out there.
+The regulations are requiring the adoption to higher levels of detection.
+So then it just becomes a matter of how long does it take for them -- the different airports to pop in and lay out their demand.
+The US has been a little bit of a disappointment.
+It was down a little bit this quarter.
+This year we're expecting it to be down a little bit from last year.
+But we do think overall, as we look to that and as we talk with the TSA and such, that there is -- it should be stabilizing here.
+But again, in this year, we do think it's going to be a little bit of a headwind for us.
+You talked about, as originally with Rapid DNA, we still have some very high hopes there.
+The bills are making their way through the governmental bodies for the regulatory.
+We think the testing is -- we'll start to hear about the testing here pretty soon from the FBI.
+We're still hanging on with that, that that's going to be an opportunity.
+We've already made all the investments, so it's not like we're worried about any write-downs or anything there.
+But we're ready.
+As that market develops, we will turn it on.
+So I think that's pretty much where we are with it.
+It's a bit of a perfect storm here with security this quarter.
+This year's not looking so great.
+But the good news is what's really coming in, the things that we control and the acceleration in our direct ultrasound are by far best mix of products.
+It's going to start to really overtake a lot of other issues, and really that's where we see the big value creation.
+And our medical imaging business, it's a big part of our business and it's in very good shape and you see it delivering.
+Absolutely.
+Great.
+Thank you, <UNK>.
+Appreciate it.
+Thanks, <UNK>.
+Hi, thanks for taking the question.
+You just mentioned on Rapid DNA, you mentioned these bills and testing results.
+Any indication on when or a time line for this.
+We've struggled with timing, with government decisions like that.
+They tend to -- the one thing we learned is they tend to delay more than you'd expect.
+It's kind of hard to call, other than indications or the FBI's happy with the products.
+There's a lot of support for it, and they do have to get through their formal process of indication -- of indicating certification.
+And then secondary to that, for the US market for law enforcement to really take off, there are the Rapid DNA X that need to get through Congress.
+And again, there, a lot of positive support for it.
+Big backlog of DNA kits that need to be tested, but lot of reasons for it to happen.
+But very hard to call timing on it.
+We're positioned for it as it starts to develop.
+Okay.
+And again, on Rapid DNA, would you expect steady or would you expect some big leap in growth, like when it does come through.
+It's anybody's, guess first of all.
+Whenever there's a high risk, high potential upside business -- product like this, it could delay.
+Something could always happen that impacts the adoption of the market there.
+So far, it's really been fed only by sales to various military agencies that are using the product overseas with groups like special forces and such.
+The big opportunity is, if and when it gets through the hurdles for regular law enforcement, again, it's just almost impossible to say when that happens.
+And there's always a risk that something comes along and it doesn't happen.
+We recognize that.
+On medical imaging.
+No, there's no question; we feel like the medical imaging market is stable now and starting to tip upward a little.
+We hear certainly from our customers, we look out at the big OEMs who we generally sell through, that the hospital CEOs, CFOs are actively replacing products as they get older.
+They know they need to invest in infrastructure.
+So we think the US has stabilized, and it's moving toward a more normal type of expectation of procedures driving demand for equipment.
+Europe has remained fairly stable, but Europe, as you know is still -- it's going to bill be impacted or challenged by the euro.
+I think we're going to -- depending on where the dollar goes, that's been a bit of an issue.
+That's kind of settled in and annualized.
+China has slowed growth, but China is still a big market and it's still growing, especially in more of the mid-segment of the technologies.
+We're working with many of those companies that we think are going to be winners in China to address those middle performance levels.
+Thank you.
+The next question comes from Robert Ferris with Harvey Partners.
+Hi, <UNK>, it's <UNK>my for Rob.
+Hi, guys.
+Hi, question.
+Just can you go over the opportunity at the checkpoint, which it's not really a this-year story.
+But it just seems like a big story and really not -- it seems like it's almost inevitable that it's going to happen at some point.
+Just want to understand that opportunity.
+And also just in security in general, obviously disappointing near term, but also that seems like an inevitable long-term story.
+Maybe just talk about -- I assume you guys aren't losing share because it seems like everyone's struggling, but at some point, the replacement becomes that much stronger when it happens.
+Those are great questions, and I would never use the word inevitable personally, though I like it.
+It sounds great.
+We certainly think more positive right now than we ever did about automation and CT at the checkpoint.
+We've published that -- and actually at [skip hole] and in London's Luten Airport, we've published that with our technology using automation and CT at the checkpoint, that we're able to more than double the throughput, which means -- that means a lot as far as efficiency of getting a better service to the traveling public and a safer service.
+We also think the US is now much more interested in this kind of technology.
+We see much more global interest in starting to see this start to be adopted.
+We're in a great position with it.
+We think we're the only ones that really have a viable product.
+When that happens, there's more people who jump in.
+We know there's going to be other big players who want to be in this market, and we'll look and make overall decisions on whether -- how much we want to do ourselves there or how much we might want to team with somebody; maybe some incumbents in some of these spaces where it makes sense to also take advantage of where there's incumbents that will help us draw our technology and take advantage of this market as it develops.
+So the bottom line is we're bullish on it that there's -- again, I wouldn't say inevitable, but we think that now's the best ever as far as interest in that space.
+And we think we'll start to see some development over the next couple years.
+And just --
+On checked baggage, you asked about checked baggage, again, the demand is there.
+It's developing.
+The sockets need to be upgraded.
+They need to go to higher levels of technology.
+It's a competitive market.
+I can't say that we're going to have more or less share of that market as it develops.
+I can say, we think we're well positioned and our technology is outstanding.
+We do the traditional bedrock rotating CT, which is the fundamentals of computer tomography.
+Certainly other technologies might get some headway into some of these areas.
+We expect a lot of competition where there's a lot of business, but those markets are going to develop.
+There's going to be demand for it, and we think we're in a good position for it.
+And just in terms of market opportunity, is it like 7,000 lanes at -- what's the ASP, just paint the market.
+I've said publicly that we think it's in that late neighborhood of -- if you were to look at the total potential market, that there's somewhere in the neighborhood of 6,000 to 7,000, maybe 8,000 lanes.
+It's anybody's guess as to what percentage of those would go to full automation.
+I've said in the past, the end-user pricing in that space, that's somewhere around $200,000 was kind of the expectation for end-user selling price for a product that we think would be compelling in that market, in that space.
+Thanks a lot, <UNK>.
+Well, thank you, everybody.
+Thanks for your interest in Analogic and I'll invite you to call in again in June when we review our third-quarter FY16 results.
+Thanks again.
+Have a good evening.

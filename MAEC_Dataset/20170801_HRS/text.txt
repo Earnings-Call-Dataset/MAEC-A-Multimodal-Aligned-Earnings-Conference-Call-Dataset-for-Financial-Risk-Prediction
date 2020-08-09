@@ -1,0 +1,88 @@
+Thank you, Bill, and good morning, everyone
+As a reminder, discussions today are on a non-GAAP basis and exclude Exelis integration and other costs
+Turning now to segment details on slide 6. Communication Systems revenue in the quarter was $449 million, up 3% versus prior year
+Operating income for the segment was up 22%, resulting in margin expansion of 500 basis points from higher tactical radio volume, integration savings and the benefits of operational excellence initiatives
+Legacy tactical revenue grew 28% in the quarter and was about flat for the year versus previous guidance of down low-single digits and down high-single digits at the beginning of the year
+This strong performance in legacy Tactical resulted in full year segment revenue down 6% versus our previous guidance of down 7%
+Following the end of the CR, DoD tactical procurement picked up with the Air Force placing a $23 million order for radios for MRAP vehicles, and we ended the full year revenue growth of 3%, better than our previous expectation of flat revenues
+In international Tactical, revenue was up 37% in the quarter over a relatively weak compare from last year
+As expected, Eastern Europe continues to be an area of strength and we also saw positive signs in the Middle East with an order from Iraq and growth in the Asia Pacific region
+Improving conditions in the international tactical market throughout the year resulted in full year revenue being down 1% versus our prior expectation of a mid single-digit decline and a mid-teens decline at the beginning of the year
+Regarding the Australia opportunity, in June, we have received a $19 million order to conduct risk reduction and planning activity for Australia's Phase 3 modernization program
+And in mid-July, the program was approved by Australia's DoD Investment Committee
+Following that, letter of intent was issued to Harris for an order of approximately $260 million for part of the Phase 3 modernization
+This order is expected sometime later in the first quarter
+For full year fiscal 2017, segment revenue was $1.75 billion with operating margin of 29.9%, up 80 basis points versus prior year
+This margin improvement was driven by synergies and the team's continued focus on cost and operational excellence
+Book-to-bill for the segment was well above 1 in the quarter, with strong bookings in PSPC and legacy Exelis Signal and greater than 1 for the year even with Australia moving base to the right
+In Public Safety, although revenue was down 8% in the quarter and down 5% for the year, we had a solid book-to-bill driven by a $75 million contract from a utility company to upgrade the legacy analog system to a digital network
+Additionally in July, Public Safety was awarded a five-year, $461 million IDIQ contract with an initial $10 million order from the U.S
+Army to upgrade and modernize existing land mobile radio infrastructure
+Electronic Systems on slide 7. Electronic Systems was up 4% for the quarter and the year versus full year expectation of up 3%, driven by continued strength in electronic warfare, the ramp of UAE battle management system and a strong fourth quarter in avionics
+Operating income in the quarter declined 15% as the ADS-B program continues to transition from build-out to sustainment
+For full year fiscal 2017, operating income was up 5% with margin expansion of 30 basis points from 20.3% to 20.6%, driven by solid program execution, a contract adjustment in the second quarter, and higher pension income
+This was partially offset by the ADS-B program transition
+Book-to-bill was slightly than 1 for the quarter, but above 1 for the year
+In addition to the new avionic content wins in F-35 that Bill spoke about, the avionics business also received a $30 million order from the Navy for 300 ejector racks for F-18s, and an initial $10 million order to develop ejector systems on the Korean Next-Gen Indigenous Fighter with significant future production potentials
+We also continued to see positive momentum in other parts of the segment, including $64 million order for the U.S
+Army's MET terminals and a $36 million award to implement surveillance capability at seven airports
+Space and Intelligence Systems on slide 8. Revenue in Space and Intel was down 4% for the quarter and as expected was about flat for the year
+We saw continued solid demand in the classified programs, offset by the wind down of some environmental programs, particularly in the back half of the year
+Segment operating income in the quarter was flat
+The full year fiscal 2017 revenue was about flat, operating income was up 8% with margin expansion of 120 basis points from 15.2% to 16.4%, driven by solid program execution and higher pension income
+Book-to-bill was slightly less than 1 for the quarter and the year while we continued to see strong bookings from our classified customers, including for space superiority programs like the SENSOR contract, where we received additional orders of $63 million from the U.S
+In other areas, we received a $51 million production order for payloads on GPS III vehicles 9 and 10, and a $32 million follow-on contract for the GOES-R program
+Moving to slide 10 for fiscal 2018 guidance, today, we initiated fiscal 2018 revenue guidance in the range of $6.02 billion to $6.14 billion, up 2% to 4% for the year, and EPS in the range of $5.85 to $6.05, up 6% to 9%
+We expect total company margin to be between 19% and 19.5%
+Fiscal 2018 EPS guidance reflects about $150 million in share repurchases for the year and an effective tax rate of 28.5%
+2018 tax rate is consistent with our performance in fiscal 2017 and reflects the effect of the stock compensation accounting change which we adopted in fiscal 2017 and the benefits of various tax planning activities
+We also expect to pay down $600 million of debt in fiscal 2018, which will achieve our debt repayment commitment and we would not expect any further net reduction in debt over the medium term
+We expect free cash flow to be in the range of $850 million to $900 million
+We ended fiscal 2017 with working capital of 43 days, a six-day improvement over 2016. And fiscal 2018 guidance reflects continued improvement in working capital performance and capital expenditures of about $130 million
+For segment guidance, growth in all the segments
+Communication Systems revenue is expected to be up 3% to 5%, with DoD up double digits, from growth in modernization revenue and International about flat to down modestly
+Modernization growth in DoD will primarily be in the second half of the year, as we start to ship handheld radios for the Special Forces and manpack for the Army
+The guidance for DoD and International includes both legacy Harris and Exelis product line, reflecting the integration of the two legacy operations and our current management of the business
+Slide 14 provides historical orders, revenue and backlog for the combined legacy Harris and Exelis businesses, which we expect to report on a consolidated basis going forward
+Public Safety is expected to be about flat
+Segment operating margin is expected to be between 29.5% and 30.5%, reflecting the impact of new program starts and incremental systems work, offset by benefits from operational excellence programs and fixed cost leverage from higher volume in the Rochester factory
+Electronic Systems revenue is expected to be up 3% to 5% driven by higher avionics revenue from backlog growth in fiscal 2017, strong electronic warfare revenue and the continued ramp of international battlefield management system
+Segment operating margin is expected to be between 19% and 20%, reflecting the remaining transition of the ADS-B program from build-out to sustainment, partially offset by volume growth and additional pension income
+In Space and Intelligence Systems, revenue is expected to be flat to up 1%
+Classified business representing about two-thirds of the segment is expected to grow mid single-digits as we leverage (18:42) synergies between Harris and Exelis, build on strong customer relationships and benefit from growth in the intelligence budget
+However, this growth will be partially offset by program transitions and incremental budget softness in the environmental business, which is expected to last for most fiscal year
+Segment operating margin is expected to be between 16.5% and 17.5%, reflecting operational efficiencies and additional pension income
+Turning now to fiscal 2018 EPS bridge on slide 11. We expect the ADS-B transition to bring EPS down by $0.22. We started seeing the impact of the transition in the second half of 2017 and it will continue through first half of 2018. This headwind will be mitigated by lower share count and interest expense from our capital allocation actions in fiscal 2017. Increase in segment operating income from higher volume operational efficiency savings and increase in pension income will contribute an additional $0.30 to $0.50 to EPS, resulting in EPS guidance of $5.85 to $6.05. With that, let me now turn it back to Bill
+So your question, <UNK>, was on the fiscal 2017 free cash flow or fiscal 2018?
+Yeah, absolutely
+So the big thing – so there are two ways to look at this, <UNK>, one going from kind of 2017 to 2018. The big piece is we were targeting about three days improvement in working capital, and we got six
+So, it was slightly increased benefit from working capital in fiscal 2017 versus fiscal 2018. And most of that was driven by some collections that we are forecasting in July that came in early in June
+So that creates a little bit of headwind for us
+Also keep in mind that our revenue is growing up
+So, as we continue to improve working capital base, the contribution from working capital in dollars will not be that much
+So, as we look from 2017 to 2018, the big drivers will be reduction of integration and restructuring cost that we had this year, about $10-ish million of working capital dollar improvement, while we continue to improve our days, and does get offset by some increase in CapEx
+So that's kind of the bridge between 2017 and 2018. And going from net income to that, I mean it's depreciation, and basically offsetting some of the non-cash pension income and some improvement in working capital and the D&A
+So, it's pretty standard stuff
+So, longer-term, it's the same, the drivers of getting to $1 billion (25:02) have not changed
+As we look from where we end fiscal 2018 and going to $1 billion, it will be driving working capital improvements, and continuous improvement in capital efficiency
+I think Bill has mentioned before, I think in the last four years, five years that we've done a great job of reducing our CapEx
+And as we've taken 2 million square feet of our floor space, out of our consolidated business between Harris and Exelis, that continues to drive a lower CapEx
+And then growth in top line will drive earnings growth
+So, those are the big pieces of getting to a $1 billion
+And the only other thing, <UNK>, I would say is that given the order that we got in fourth quarter allowed us to keep the program on track with some of the development, risk reduction, and other work, so that way the slight delay in order did not impact the revenue profile, so that was important
+You bet, <UNK>
+So, <UNK>, ADS-B, I mean I think this contract goes back to 2007, 2008, when Exelis started it
+The first phase ended, which was kind of the build out phase, ended in September 2016. So, it ended kind of Q1 of our last fiscal year
+Then, we got some extension and one-time award and all that for settlement
+So, realistically speaking, it kind of ended Q2 last year
+So, we started seeing the ramp down on margins, and it's a fairly – because it was build out, going to more sustainment, there're still very, very healthy margins, but it's not at that level that we've been getting
+So that's – we've kind of been talking about it
+We spoke about it in the Q3 call as well as we were seeing that come down
+So it creates whatever $0.22 of headwinds on EPS for us and to be largely be in the first half and then the margins stabilize and kind of stay at that level for going back next four years
+It'll be slightly north of $100 million in fiscal 2018.
+There will be dividends
+So, we expect to generate between $850 million and $900 million
+We typically keep kind of $300 million of cash
+We ended the year with $484 million
+So, we've got about $200 million extra as we start the year and we will deploy that about $600 million for debt, $150 million for stock buyback and about $270 million-ish for dividends
+So, that's the layout

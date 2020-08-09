@@ -1,0 +1,136 @@
+Sure, <UNK>.
+Let me address your question by answering the entire company.
+I'll note where the North America elements are strongest.
+So for the quarter, we came in at the highest end of our revenue range, $60.5 billion, 26 -- 36% FX-neutral growth and 25% FX-neutral growth, excluding the Whole Foods acquisition.
+So the fact that we came in at the high end of the range, volume was high, especially in North America, and a lot of times in Q4 and other quarters actually, we see better efficiencies when the warehouses are busy.
+So it was very clean operational quarter, I would say.
+The ops team did a great job handling record volumes in Q4 and also incorporating all the new capacity we had opened in 2017.
+If you remember, we have added over 30% to our fulfillment square footage in 2017, coming off a similar increase in 2016.
+So amid all these opening of new buildings, many of them late in the year, the ops team did a fantastic job.
+Advertising was also a key contributor as we're continuing to make more value -- the offerings more valuable, both to customers and advertisers alike, and that was particularly strong in North America.
+Although not in the North America segment, I would also point out, AWS had a strong quarter, accelerating growth versus Q3 and also expanding operating margins by 100 basis points.
+So particularly in North America, I would say it was the -- the strong volume -- top line volume, combined with increased advertising revenues and also a very clean operational performance.
+Obviously, there's a lot of things that can happen in Q4 from weather to demand patterns changing.
+We've seen additional costs creep in, in the name of customer experience in prior years.
+And this was, in hindsight, probably one of the cleaner Q4s recently.
+Sure.
+I -- we'll be giving you guidance quarter by quarter, but I can talk to the general trends in the large investment areas.
+Let me start with AWS infrastructure and growth in technical and sales teams.
+That will continue.
+We're in a $20 billion run rate in top line revenues for AWS, up from 18% -- excuse me, $18 billion last quarter.
+So we're very happy with the -- both the progression in new services and features that we've been able to bring to customers and also their response.
+We'll continue geographic expansion and continuing to, again, build on our tech teams and our sales teams.
+So that would -- that expense is going to continue and likely increase.
+Prime benefits will continue to increase as well.
+Prime Now -- excuse me, Prime Video, Prime Now, AmazonFresh, all of our major Prime benefits we continue to expand globally.
+Devices, as Jeff said in the press release, we are very happy with the results of Alexa.
+It's a very positive surprise for us, both on a -- adding a little bit more to that, we had record device sales, we had very high levels of customer engagement, including increased levels of voice shopping, growth in functionality, growth in our partner -- partners we work with.
+Skills there, we've increased rapidly.
+We're over 30,000 skills for Alexa.
+We've got 4,000-plus smart home devices from 1,200 unique brands.
+So the -- the relationships we're having with external companies is actually helping to accelerate the adoption of Alexa with customers.
+So really strong usage of -- excuse me, Alexa with our devices.
+Obviously, Echo, Echo Show and the Echo family all directly tied to Alexa, but also Fire TV and tablets.
+And we're seeing more and more engagement.
+Alexa usage on Fire TV is up 9x year-over-year.
+Music listening time on Alexa was 3x higher this holiday season.
+So that's what we mean when we said far exceeding our expectations.
+Those are the things I would point to.
+And that is an area, again, where we'll continue to invest heavily and as we say, double down on that.
+Fulfillment, again, is -- fulfillment capacity, especially to fuel the strong top line growth and growth in Amazon fulfilled units, which, again, is growing much quicker than our unit growth rate, we expect that and hope that to continue as well into 2018.
+Video content, we spoke about on the last call, we do like the results we're seeing with engagement on customers, their buying habits, their engagement with the video content, their use of it on devices.
+And we will continue to increase our budget in that area.
+But I'll be release -- yes, I'll incorporate that into the guidance each quarter as we move through the year.
+Sure.
+Let me start with that last one.
+Yes, shipping costs are going to be very tied to AFN unit growth and also the impact of greater Prime adoption and faster shipping methods.
+So yes, we consider that a very strong quarter, down sequentially in the growth that we've seen recently.
+That will fluctuate quarter to quarter.
+Again, it was a very strong operational quarter in Q4, and we've expanded the number of items that shipped free.
+We're now over 100 million items in the U.S. So yes, shipping cost is always going to be a strong part of our offering, and we're -- it's going to be increasing due to our business model.
+And we, at the same time, look to minimize the cost by getting more and more efficient in that area.
+AWS, yes, if you remember last year, we did have price increases in December of last year towards the end.
+So it had a partial impact on the quarter.
+But generally, just strong usage growth.
+Usage growth continues to be strong, growing at a higher rate than our revenue growth rate and customers continue to add workloads and expand.
+And as I said, we're adding new services and features all the time, over 1,400 in 2017 alone.
+So it's a number of factors, I would say.
+It's not as simple as lapping a cost there -- excuse me, a price decrease last year, but very happy with the performance in -- of the AWS business.
+Now over a $20 billion run rate.
+Sure.
+Let me start with guidance.
+So yes, the operating income guidance is $300 million to $1 billion.
+Operating income last year was $1 billion.
+Q1 is generally when we see the volume drop off from Q4, obviously, but a lot of the costs remain from the year-over-year buildup in costs, particularly in the fulfillment network.
+So it's generally a headwind every Q1.
+It's -- given the 30%-plus growth in square footage last year that we've built, that's one major headwind from Q4 to Q1.
+But we also continue to invest, particularly in Alexa and our device area.
+As I mentioned in a number of comments earlier, we're very happy with the results, the customer adoption, the device sales that we're seeing and the general customer acceptance there.
+So we will continue to invest there.
+Those are probably the 2 largest factors in Q1, I would say.
+And on advertising, I would say our strategy is to make the customer experience additive by the ad process.
+We want customers to be able to see new brands and have easier time discovering products that they're looking for.
+For brands, we think the value proposition is that we can find ways for them, especially emerging brands, to reach new customers.
+So we're working with advertisers of all types and sizes to help them reach our customer base and the goal of driving brand awareness, discovery and better purchase decisions by the customer.
+Sure.
+Let me start with the Whole Foods question.
+We're continuing to be very excited about the opportunities we have to innovate with the Whole Foods and Amazon teams together in our physical stores.
+It states in our supplemental disclosure that physical stores revenue was $4.5 billion in Q4, which is primarily comprised of Whole Foods and was slightly better than what was built into our guidance that I gave you last call.
+So -- so far, our focus has been on continuing to lower prices even beyond the initial ones that we discussed at the close of the deal in late August.
+We've launched Whole Foods products on our Amazon website.
+And the technical work continues to make Prime the Whole Foods customer rewards program.
+And we expect to have more on that later in the year.
+We've also added Lockers and much more to come.
+So we're very happy with the initial results out of the team in Whole Foods down in Austin.
+Also, I will mention that we did see a small operating income/loss for the quarter from Whole Foods.
+At the time of the acquisition, we had stepped up the fair market value of certain assets on the balance sheet.
+This is going to increase the amortization.
+It's a noncash charge, but it will increase the amortization over the useful life.
+And a lot of that is forward front-loaded, so we'll see higher amortization in the first few years and then it reverses later.
+So excluding these noncash expense items, Whole Foods had a positive operating income in Q4, but you'll see in the 10-K that the operating income, including the charges, was slightly negative in Q4.
+International growth, your comment about slowing down, I think there's a slowdown versus Q4 -- 3, if that was your point.
+28% growth in Q3, FX neutral, was helped quite a bit by Prime Day and kind of the strengthening of Prime Day in a number of locales.
+Although we've had Prime Day in most of those countries, it's really starting to gain more and more traction there.
+So that is probably more of a help to Q3 than a discussion of any weakness in Q4.
+So we're -- continue to be pursuing the same strategy as we have in North America, adding Prime benefits, adding devices, adding video content, adding AmazonFresh, Prime Now, giving a lot of value to the Prime customers in international countries as well.
+And also in that number is India.
+And India continues to be a good story for us.
+We feel that it's had a lot of growth in the past year.
+In fact, more Prime members joined India's Prime program in the first year than we've seen in any other country in the history of the world, our world.
+So the selection is also increasing Prime eligible selection is up over 25 million items, launching video there and also continuing to add other Prime benefits such as Prime Music will be coming soon.
+Amazon Family is there.
+As I said, Prime Video, and we had our first Prime Day in India.
+So that's a little bit on international growth.
+Yes.
+And on new businesses or expansion of categories, as you discussed, I would not talk to anything that's not been publicly announced, but on some of the ones you mentioned, they are underway and are continuing.
+I would say on logistics, we will continue to build our logistics capability both -- and that will be all the way, too.
+And delivery, we've been able to increase service levels in many cases by delivering it ourselves.
+And although we have a strong partner network here, we will always be able to leverage our strength and our knowledge about where shipments are going, both within our network and to final customers that will create opportunities for us there as we increase or better the customer experience as well.
+We continue -- I would say on the category side, the biggest effort will continue to be on groceries and consumables with the Whole Foods acquisition.
+And again, we continue to look at our whole offering of AmazonFresh, Prime Now, Whole Foods, how can they work together to create better and better offerings for our customer base.
+And to a lesser extent, versus grocery, I would say, we continue to build our business, B2B businesses, and very happy with the initial performance there with a number of the companies and universities that we've been working with and their initial results.
+Yes.
+I'm not -- let me just back it to a more general statement.
+I'd say, Whole Foods is not less in their commitment to providing the best selection of high-quality products and having them in stock for customers.
+We made no changes post the acquisition that would have impacted anything related to in-stock, except perhaps the fact that price decreases have brought up demand and there's an amount of rebalancing related to that.
+So I think the out-of-stock issues that may be getting press are tied more to the increased demand that we're seeing and also selective weather-related restocking issues.
+But stepping beyond any short-term issues, the commitment is -- remains to have healthy, high-quality selection in stock for products.
+That's what the Whole Foods team has committed to.
+That's what the Amazon team, with them, is committed to.
+And also across any delivery channel that we have, AmazonFresh, Prime Now or Whole Foods.
+So where there's issues, they'll be corrected.
+Where there's areas we can improve our selection and delivery for customers, we'll do so.
+But it'll be something that we're working on.
+So the immediacy, the perishability are all challenges everyone has in this area, but we're confident that we will have a good service and continue to delight customers.
+Sure.
+We see a lot of value in all of our businesses.
+And AWS is a key component as is the physical consumer business.
+The -- what I'll point out is the management team is a common management team.
+The consumer business, if you will, is, if not the biggest, one of the largest customers of AWS.
+So we see a lot of commonality there where we as -- depending on position in the company.
+On the consumer side, the use of AWS has driven great infrastructure efficiencies, just like other companies see when they use AWS, turning fixed cost into variable cost and pooling resources and not having a lot of trapped capacity throughout the company and taking advantage of all the new services and features.
+So as a internal customer, the consumer business is very happy with AWS.
+And I think AWS is also very benefited by the fact that they have a large internal beta customer that tries out and uses a lot of their products and services.
+So it's a good combination for a lot of reasons, and we see no reason to change the structure that we have.
+I think we're also part of the key lean in from a lot of brands and agencies into the e-commerce marketing space.
+So whether it's our site alongside search or social marketing, it's really helping them engage customers on a high, efficient -- highly efficient manner.

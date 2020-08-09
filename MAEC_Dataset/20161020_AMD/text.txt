@@ -1,0 +1,84 @@
+<UNK>re, <UNK>.
+So look, there is a lot of interest in the deep learning space overall, and certainly our GPUs are very applicable to that space.
+So when we look at competitiveness and all that stuff, we think we can be very competitive there.
+We will be talking more about our strategy in the coming quarters, so maybe let me refer to that, <UNK>.
+But I think suffice it to say, I think we looked at GPUs as overall secular growth, whether you're talking about consumer, professional workstations, server GPUs, or any of this machine learning area.
+So we're going to continue to invest and lean in, in those areas.
+I think if you look at a 14-week quarter, I think, <UNK>, you're right, it depends upon many factors.
+Our 14-week quarter is in the Q4 time frame, which is this quarter we are in.
+On the revenue side, I would say looking at it overall, there's not much of an impact, as the extra week falls during the holiday season, when a large portion of our operations and our customers are in shutdown mode.
+There is an impact on the expense side, but that's already contemplated within the guidance of OpEx that I gave, the $350 million due to the extra week.
+Absolutely, <UNK>.
+I think it's fair to say that we've been very prudent in how we've invested overall.
+If you look at our operating expenses, 2016 to 2015, although we've been relatively flat overall, we've actually increased R&D, relative to other elements of the P&L.
+But as we see revenue growth and as we've seen progress over the last couple of quarters, I think you've also seen us increase our R&D spend.
+I think there are several areas that we see as very large opportunities, and we talked about some of the graphics areas in the previous question with <UNK>.
+I also think in the data center, there's a large opportunity for us on the CPU side, as Zen fully comes to market.
+So I think we have an opportunity to invest a bit more in R&D as our revenue grows, but we're still going to be very prudent with how we do that.
+I think the key metric there in terms of being net income profitable this quarter, ensuring that we get free cash flow positive from operations for the full year, those are all important metrics for us, and we're going to continue to manage very diligently.
+Yes, so <UNK>, I think we would expect overall that the CG business or the Computing and Graphics business will grow in Q4.
+The EESC business will be down.
+And then within the Computing and Graphics business, I would expect growth on both the graphics, as well as the computing side.
+Yes, I think on the semi custom side, <UNK>, I will say that we previously announced three, and that's the number that we'll talk about today.
+Two of them are now known, and they're both in the game console area, one is outside of game console.
+I will say that we have some very good active discussions on future products and applications, and we'll update more as we get further along.
+Thanks, <UNK>.
+I would expect that there will be a relatively good initial demand for <UNK>mmit Ridge, that may be not quite at the seasonal patterns.
+From where we see, <UNK>mmit Ridge is playing in a space in the high end desktop, that we currently aren't offering a product.
+So we believe we'll be competitive certainly with Core I5 as well as Core I7, and we will be launching in those areas.
+We're very happy with how Polaris ramped in Q3.
+The customer demand across all geographies was very strong.
+Q3 was primarily a channel-based quarter.
+With our board partners, and as some of you noted, in the early part of Q3, we actually had some supply constraints, given the customer demand.
+We did catch up towards the end of the quarter.
+So very pleased with how that's ramped.
+I think it's a very competitive market.
+We've leaned into VR, and we've leaned into our work with CX12 and I think you can see in some of the benchmarks that we're doing very well there.
+As we go into Q4, in addition to the channel partners continuing to ramp, you should expect some OEMs launching in Q4 more broadly.
+And so Polaris is off to a very strong start.
+<UNK>re, <UNK>.
+Let me start with that.
+I think, relative to our second sourcing or our supply sourcing flexibility, I think we make it on a product-by-product basis, based on where we are in the business.
+So we will have multiple products in 14-nanometer and 16-nanometer that will be sourced across foundries, and similarly when we talked about the Wafer <UNK>pply Agreement, we mentioned 7-nanometer as being a key target node for that.
+Relative to how we make the decisions, I think it's a combination of factors.
+It includes the complexity of the product.
+It includes the timing, customers, all kinds of things.
+So I think that's part of our product planning process.
+I think that's one element, but frankly, I think what's more important to me is, I need to commit a strong, five-year product road map to the customers, and so we want to make sure that we have all the flexibility to ensure nothing happens.
+I'll give you just a little bit of context, <UNK>, because I think you know our business well.
+In this past six months, we've ramped five new FinFET products.
+It's the fastest transition we have ever made in a process node, and it's gone really, really well.
+And I think what's helped us with that is the fact that we've had two sources ramping at the same time.
+So I think our expectation is, we may ship some production samples in Q4, but the volume launch for desktop will be in Q1, and that's consistent with everything that we've planned into the business.
+And as it relates to server, I think it's a little early to tell.
+I think we'll go through our process, and our customers' processes, and we'll have more color on that, as we get into next year.
+If you look at it from an overall standpoint, let's talk about Q2 to Q3, first of all.
+Q2 to Q3, we had a significant ramp in the semi custom space, which led to significant revenue in the EESC side, and we were able to manage the margin flat quarter on quarter, which we are pleased with.
+Going to Q4, essentially with the Computing and Graphics business, that's what <UNK> said ramping, and then EESC business, in particular semi custom coming down.
+The gross margin is up a percentage point, primarily due to the mix in revenue between the two segments.
+I think right now, as you observe, it's through the end of Q3 we did have some remaining net proceeds from the capital market transactions.
+After completing what we did in the early part of Q4, we have about $162 million of remaining net proceeds.
+What we plan to do with it, I think from a long-term strategy, that hasn't changed.
+Our plan is to continue to delever the balance sheet, reduce debt towards our longer-term targets getting to the net debt cash neutral that I talked about previously, and getting the leverage ratio down to about 2 times from a longer term standpoint.
+Operator, we'll take two more questions, please.
+Yes.
+So I think if you look at our PC market share, as it's published by Mercury, we're talking about somewhere around 10%, plus or minus.
+I think we view that historically we've been higher than that in the PC market, and certainly the desktop market, especially the desktop channel market.
+We're fairly well-known by that customer set.
+So we're enthusiastic about <UNK>mmit.
+We think the performance is right on the mark with what we wanted to achieve.
+And we're hopeful that as we launch into the first quarter, that there will be a good, solid ramp in that business.
+I would expect certainly there are a lot of confidential benchmarks at the moment, but in terms of third party benchmarks, you would expect that in the first quarter.
+So, <UNK>, I think the game console shouldn't be really looked at on a quarterly level, when you're looking at sell-in and sell-out.
+It's so different from the other markets.
+I would say on an annual basis, everything trues up.
+The thought process is, in Q2 and Q3, there is a bit of build ahead as the customers are really building for the holiday season.
+And the customers do so much of their business in the last six weeks of the year.
+That's when all of the inventory is drained.
+My view is that if you look on an annual basis, the game console business is doing quite well.
+We expect units to be up.
+We expect revenue for the business to be up for us, and the quarterly transitions are less important.
+It's more, we want to ensure that we're meeting our customers' build cycles, so that they get to build everything that they want, and get it into their channels.
+But from my standpoint, I think it's a very well-managed system.
+Operator, that concludes today's call.
+If you could wrap it up, please, that would be great.

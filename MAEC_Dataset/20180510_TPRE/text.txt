@@ -1,0 +1,147 @@
+Thank you, operator.
+Welcome to the Third Point Reinsurance Limited Earnings Call for the First Quarter of 2018.
+Last night, we issued an earnings press release and financial supplement, which is available on our website, www.thirdpointre.bm. Leading today's call will be Rob <UNK>, President and CEO. But before we begin, I would like to remind you that many of the remarks today will contain forward-looking statements based on current expectations. Actual results may differ materially from those projected as a result of certain risks and uncertainties. Please refer to the first quarter 2018 earnings press release and the company's other public filings, including the Risk Factors in the company's 10-K, where you will find factors that could cause actual results to differ materially from those forward-looking statements. Forward-looking statements speak only as of the date they are made and the company assumes no obligation to update or revise them in light of new information, future events or otherwise. In addition, management will refer to certain non-GAAP measures, which management believes allow for a more complete understanding of the company's financial results. A reconciliation of these measures to the most comparable GAAP measure is presented in the company's earnings press release. At this time, I will turn the call over to Rob <UNK>. Rob.
+Thank you, Chris.
+We produced a small loss in the first quarter with flat investment results and a $6 million underwriting loss.
+Third Point LLC, our investment manager, continues to generate solid risk-adjusted returns and performed well in the first quarter relative to broader market indices after producing a 17.7% return for us in 2017.
+In the first quarter, our combined ratio improved to 104.5% from 106.3% in the first quarter of 2017 and from 107.7% for all of 2017.
+We are committed to driving our combined ratio lower by continuing to carefully manage expenses, pushing for improved pricing on renewals and carefully expanding our writings into higher-margin lines of business and forms of reinsurance.
+The increased focus on higher-margin business includes increasing our ratings of specialty lines, writing lower-layer excess covers in addition to quota shares which we currently write, and writing some shorter-tail event-type covers.
+In the first quarter, we wrote $378 million in premium, a record quarter for us at a blended composite ratio of 96%.
+Please note this business will gradually improve our composite ratio as the premium earns in over time.
+The blended composite ratio was 300 to 400 basis points better than recent quarters due to an increase in writings of higher-margin mortgage business in the quarter and some improvement in market conditions.
+We believe the improvement is due to -- in part, to the heavy cat losses experienced by the industry in 2017.
+Outsized cat profits and historically low cat activity years leading up to 2017 had been masking the rampant underpricing of non-cat lines of business.
+Now I'd like to take a minute and repeat some of what I said on our last earnings call regarding the impact of the U.<UNK> tax legislation passed at the end of last year.
+As we have emphasized, we do not believe the new tax legislation will have a material impact on our financial results.
+The only piece that could potentially impact us is the test for determining a passive foreign investment company or PFIC.
+The tax act modifies the active insurance exception to PFIC status by adding a requirement that reserves must generally constitute more than 25% of the company's total assets for the relevant year.
+However, the tax law uses an odd definition of reserves.
+Only loss and loss adjustment expense reserves are used in the formula and not UEP reserves.
+Our loss and loss adjustment reserves, as a percentage of our total assets, is currently 16%, which is below the 25% threshold.
+One factor working against us is the structure of our investment account.
+Instead of investing through a traditional limited partnership arrangement where only the net asset value of our portfolio managed by Third Point LLC would be presented on our balance sheet, our investments are managed through a separate account with the gross assets and gross liabilities related to our investment activities reflected.
+Under our current investment account structure, our gross investment assets exceed the net asset value of our investment portfolio by more than $1 billion.
+We're in the process of restructuring our investment account so that we will present only its net asset value on our balance sheet going forward and plan to have that restructuring completed in the third quarter.
+As a result of this change, we expect to meet the 25% threshold at year-end with minimal impact to expected shareholder returns and operations.
+I will now hand the call over to <UNK> <UNK>, who will discuss our investment results in greater detail.
+Thanks, Rob.
+And good morning.
+The Third Point Reinsurance investment portfolio managed by Third Point LLC was down 0.2% for the first quarter of 2018 net of fees and expenses, compared to the S&P 500 decline of 0.8% for the same period.
+The Third Point Reinsurance account represents approximately 15% of assets managed by Third Point LLC.
+An important shift in markets happened in the first quarter.
+Over the past 2 years, markets were boosted by positive surprises in growth and benign inflation, but during the first quarter, uncertainty returned in each of these areas.
+Investors have become increasingly concerned about multiples, particularly since after many years of low rates, there's finally an alternative to equities in the form of relatively riskless 2-year money.
+We've also seen manufacturing indices start to decline from elevated levels.
+As the markets today grapple with multiples and which inning of the late cycle we're in, we're watching closely to see if a recession, which we don't think is close, might be getting closer.
+In the first quarter, our equity portfolio generated a return on assets of about minus 0.5%.
+Positive returns in financials and TMT were offset by losses in other sectors, primarily consumer and industrials.
+Our equity short portfolio returned positive 2.4% on average exposure.
+We intend to further increase short exposure to fundamental single names and quantitative derived baskets in 2018 and rely less on market hedges to dampen volatility and reduce net exposure.
+Credit exposure remains light in a market with tight spreads generally and limited opportunities.
+Corporate credit returned minus 1.1% on average exposure, roughly in line with the iBoxx high-yield index return of minus 1%.
+Our minimal exposure to sovereign credit produced a return on assets of positive 5.6% driven by strength in emerging markets.
+Structured credit was our strongest performing credit portfolio of the quarter.
+The book was up 7.1% for the quarter, comparing favorably to the HFN mortgage index return of 0.9% for the same period.
+Looking ahead, we still anticipate S&P growth in the U.<UNK> supported by fiscal stimulus in 2018.
+We remain focused on maintaining a portfolio that can deliver compelling risk-adjusted returns across market cycles and we'll opportunistically adjust the portfolio across expected further waves of volatility.
+Now, I'd like to turn the call over to Chris to discuss our financial results.
+Thanks, <UNK>.
+Our return on equity for the first quarter was a negative 1.6% and our diluted book value per share at the end of the first quarter was $15.39, which was a decrease of $0.26 or 1.7% from December 31, 2017.
+During the quarter, we repurchased approximately 1.6 million of our common shares for $24 million.
+We continue to believe that buying back shares below book is a smart use of our capital.
+As we've noted in the past, we plan to buy back shares during open windows when we trade at or below 95% of diluted book value per share, and we have $176 million available under our existing share repurchase plan.
+The net investment loss for the quarter was $2 million and reflects the small negative return for the period, which <UNK> discussed in detail.
+Our gross premiums written for the first quarter was $378 million, which was an increase of $232 million or 159% from the prior year's first quarter.
+This was our largest quarterly premium written since our inception and included $106 million of new business, including 1 large multi-line quota share contract for $92 million.
+However, it also included $136 million related to contracts renewed in the current year period that were originally written in 2016 and in the third quarter of 2017, and therefore did not have comparable premium in the first quarter of 2017.
+As a reminder, we tend to focus on large contracts, which may not renew in a comparable period.
+As a result, our top line gross premiums written can be lumpy from quarter to quarter.
+The significant increase in the first quarter should not be viewed as an indication of expected premium growth trends.
+We generated a $6 million net underwriting loss in the current quarter and our combined ratio was 104.5% compared to 106.3% in the prior year quarter.
+There was very little impact in the quarter from reserve development and the improvement in our combined ratio primarily reflects a lower G&A expense ratio compared to the prior year's quarter.
+As Rob mentioned earlier, we did see some improvement in terms and conditions on a number of contracts that renewed in the period.
+As a result, we would expect that our combined ratio will continue to improve as the business written late in 2017 and in 2018, at improved margins, is earned.
+Total general and administrative expenses for the first quarter of 2018 were $9 million compared to $11 million for the prior year period.
+The decrease was primarily due to lower payroll-related costs and lower stock compensation expense.
+The increase in foreign exchange losses were primarily due to the revaluation of foreign currency loss and loss adjustment expense reserves denominated in British pounds, where the United States dollar weakened in the current year period compared to the prior year period.
+As a reminder, we have minimal net exposure to foreign currency movements from our foreign currency reinsurance contracts, as we typically have collateral accounts with a similar amount of foreign currency assets as the net reinsurance liabilities.
+However, these offsetting FX gains on the collateral flow through net investment income.
+We thank you for your time and we'll now open the call for questions.
+Operator.
+I wouldn't necessarily characterize it as bearish.
+I do feel that you aren't -- we aren't in a time right now where you're going to be rewarded for taking a lot of long market exposure risk.
+I do feel we'll be in more of a trading range environment and we're also improving on the short side, so I just think it feels like it's a good time for us to continue to have the portfolio of long concentrated positions that we have but to have more balance on the short side.
+And I feel like shorting -- this is the time where I think we can make money on the longs and on the shorts.
+Where do we see the most risk.
+I think -- it's also less about markets and more about the nature of the environment that we're in, where there's just a lot more disruption, and I think the same kind of stock-picking skills that apply on the long side, apply on the short side.
+And we're just seeing more opportunities to find companies that we think are going to go down or at least materially underperform the rest of the portfolio.
+I -- we can't give all of our secrets away on these calls.
+Yes.
+Look, it's something we're following very closely, and I think it's just too soon to say what impact it's going to have on the market broadly.
+Obviously, there are some specific companies that have China as a large end market and -- but we're following the back-and-forth very closely.
+We do think China has more to lose here than the U.<UNK> based on the analysis that we've done, but having said that, we're -- I think it's just too soon to say.
+Sorry, I was just going to comment.
+If fully earned out, which will take a couple of years, it would be breakeven, and I guess to answer the last part of your question, we've seen an improvement in our combined ratio this year.
+To get down to 100, we're probably a couple of years out, but that's certainly our goal, and I think we're on a good track right now.
+As far as the premium in the first quarter, a lot of the increase had to do with timing.
+We had done a number of off-cycle deals that just happened to renew at 1:1.
+I think we had Chris, 19 deals.
+Yes.
+There was 19 or so deals in aggregate, and that's right, <UNK>, as we said in the opening remarks, there is about $136 million, as Rob said, was off-cycle renewals that just happened to come up in the first quarter.
+And then just -- I think you mentioned the 1 new deal that we mentioned, that was a large multi-line specialty contract.
+It was a new placement into the market.
+It's a retro of an established reinsurance company, and the underlying mix is a mix of sort of traditional casualty and other specialty lines where we expect to generate a small margin and it's good float-generating business.
+It sort of fits into our strategy of looking at more contracts that have a little bit more heavily weighted mix towards specialty lines at slightly higher margins.
+Yes.
+And so a lot of it's timing, but we did see some improvement.
+And I don't want to overstate that.
+We saw a little bit of improvement and there was a couple of deals that we did not expect to renew that did renew.
+And so we're -- it's timing, but we're also happy with the way that market conditions slightly improved.
+Yes.
+I mean, I think, <UNK>, really no change.
+I think we've been pretty consistent in our messaging around our intent around share repurchases.
+And the repurchases you saw in the first quarter was a reflection of making open-market repurchases within our open window, which of course for the first quarter is a fairly narrow window, given the timing of our 10-K filing and then closing back down again for the first quarter.
+So as we said in the opening remarks, our plans continue to be to repurchase shares in the open market during open windows, at around 95% of book value or lower.
+We are limited to daily volume limitations just within the normal limitations of buying back shares in the open market.
+And that's roughly $2.5 million or so worth of shares per day in open window to give you a sense of what the opportunity is, depending, of course, how our shares trade relative to book.
+Yes.
+And maybe I'll start with talking about cat.
+And so I think, Chris, as you've heard from others, the market is very disappointed in what's going on in cat renewals.
+And in the past couple of weeks, we've heard from many brokers and many of our reinsurance company peers that the Florida cat submissions were renewing flat, which is too bad.
+Now, interestingly, we think the cats might have had a bigger impact on pricing, a positive impact on the types of deals that we focus on, which to date have been surplus relief type deals.
+And we think they had been underpriced for some time, but the sort of lucky, low-cat activity, years leading up to 2017 just masked that underpricing.
+So with the cat losses, we have seen some improvement.
+Just roughly, I would say, we're renewing deals at maybe 200 to 300 basis points better.
+It happened that we saw more of an improvement in our portfolio in the first quarter because of mix, but there's a noticeable improvement.
+Now whether that continues or not, I guess we'll see.
+We're feeling pretty good about a moderate positive trend for the rest of the year.
+I don't think we're seeing an uptick in submissions.
+And just -- let me explain what we're doing with casualty retro contracts.
+So we have a couple of offices, a relatively small team.
+We are very well-connected relationship-wise with brokers in the other reinsurance companies.
+And so we look to do casualty retro instead of writing the underlying, when we think we get a reasonable economic deal with the overrides.
+And so the overrides sort of averaged 7%, and we think that is a fair deal for us because we believe it would cost us at least 7 points to build out the global infrastructure that these reinsurance companies have.
+Now over time, we're going after the underlying business and to the extent we're successful, and we already have some success, we'll peel that from the retro.
+No.
+We're not going to write any property cat this year, and -- we follow it, there might come a time when we write property cat excess of loss.
+So now examples, we have written a couple of stop-loss contracts so this is the total results of the company and there is some cat in there, that's one example.
+We do write some higher-layer excess mortgage covers, another event-type cover that we write, we have some marine in the portfolio, that would be in that bucket.
+And so we've written some from the start, in order to bring our combined ratio down, we need to move from pro rata to excess in different forms, and so we're going to do that incrementally.
+Yes.
+Maybe I'll -- <UNK>, Chris here.
+I'll start with a couple of specifics and then Rob can give you a sense of sort of our view going forward on premium.
+For example, in last year's -- I think it was third quarter, we wrote a couple of large reserve covers and -- actually, sorry, the second quarter.
+And as you know, those don't -- those are not necessarily subject to renewal.
+Now, of course in some cases, we may upsize deals or make changes that result in some premium, but for the most part, reserve covers don't result in a renewable premium base.
+And in the fourth quarter of last year, we renewed a couple of large property homeowners contracts that were written on a 2-year basis.
+And so those won't come up for renewal again in this year's fourth quarter.
+So those are a couple of examples.
+I mean, I think we've talked quite a bit about this in the past, just the nature of the portfolio is very difficult for us to reasonably predict our top line premium over the course of quarter-to-quarter comparisons, or even annual is often difficult.
+And maybe just to emphasize that, the average size of our transactions is much bigger than the average in the industry, we're somewhere near the top.
+And so that causes issues, especially when renewal dates and terms of contracts get moved around by the clients.
+Just before the call, we had a meeting with the senior underwriters to estimate, we discuss what our gross written premium is likely to be this year, and our best guess, and this is a guess given all the factors we just mentioned, is sort of flat to up as much as 20% this year.
+Thanks, everybody, for your time today.
+If any other questions come up, please give us a call.
+Otherwise, we look forward to talking to you next quarter.
+Bye-bye.

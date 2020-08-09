@@ -1,0 +1,200 @@
+Thanks, <UNK>, and thank you to all of our shareholders, as we summarize our results for the second quarter of fiscal year 2017. We achieved solid double-digit global revenue growth this quarter, led by sales from Brightree and continued strong growth in our device platforms
+We also saw the start of a steady ramp our latest mask technologies
+For the call today, I will review top level financial results, outline some regional highlights and discuss key announcements this quarter
+Then, I will hand the call over to <UNK> who will walk you through our financial results in further detail
+We achieved strong device sales due to our leadership in digital health and connected care
+The number of patients managed on the AirSolutions platform and the number of daily uses of our Brightree platform continue to grow rapidly
+This quarter, we announced that we have reached a milestone with more than 1 billion nights of sleep data in our cloud-based physician and provider solution called AirView
+We have well over 2 million, 100% cloud connected medical devices
+We are liberating data and unlocking value for physicians, providers and patients like never before
+Midway through the quarter, we commenced the launch of our new AirFit range of mask, the AirFit N20 nasal mask and the AirFit F20 full face mask
+Both of the products leverage new step change technology called Infinity Seal that provide significant advances in fit and comfort to the patients
+Earlier this month, at the JPMorgan healthcare I announced that we had received FDA clearance for the ResMed AirMini, our world leading, travel friendly, sleep app technology
+I will talk more about that a little later
+At the bottom line, in terms of non-GAAP net operating profit, we grew at 13% on a year-over-year basis in Q2. Including financing costs, our diluted earnings per share or EPS was $0.73 on a non-GAAP basis
+We continue to balance revenue growth and gross margin improvements as well as ensuring an appropriate investment in both R&D and SG&A, so that we can maximize the success of multiple product launches across our global markets
+Now for some regional highlights
+The Americas region produced double-digit revenue growth
+These results were fueled by Software-as-a-Service revenue from Brightree and 13% growth in devices
+Device growth was particularly remarkable given that we were up against a 24% year-over-year comparable
+The mask and accessories category in the Americas grew 4% in the quarter
+This is up sequentially and reflects the fact that our sales team that received products around Thanksgiving timeframe has started showing the new technology to physicians and providers
+There is clearly a long way to go in the ramp of these products in Q3, Q4 and into fiscal year 2018. Growth in devices was driven by the continued support for the AirSense 10 systems by our customers
+These are powered by the cloud-based AirSolutions software platform, including the myAir patient engagement app that has over 1,000 new patients signup every day
+We achieved good growth in our respiratory care device platforms in the Americas, particularly our cloud-connected life support ventilation platform called Astral
+We earned strong growth in our combined EMEA and APAC regions this quarter, primarily driven by Flow Generator sales, with some outstanding performance from our combined Curative and ResMed China businesses
+We have now completed the earn out and the integration is going very well
+As we enter the Chinese New Year, we have truly formed one ResMed China team with one vision, one mission, two brands and many and varied customer channels, the thing is really coming together well
+Mask, accessory and other sales in the combined EMEA and APAC regions were down year-over-year due to a couple of factors, one we had some international licensing revenue from the comparable quarter a year ago in the region and two, the N20 and F20 were only released in a few countries, and as we know uptake of new masks is a lot slower in EMEA and APAC then the U.S
+We expect this mask category to return to public growth in EMEA and APAC as we continue to launch the N20 and F20. Feedback from patients, physicians and homecare providers on the fit range and comfort of the N20 and F20 are very positive
+This is a great indicator for stronger mask growth in Q3, Q4 and into FY 2018. Looking at our Software-as-a-Service revenue Brightree continues to grow strongly and in line with our acquisition model in the low-to-mid teens
+We are on track with our work to integrate Brightree software functionality into the AirSolutions portfolio
+We are truly creating end-to-end software solutions for our customers and Brightree is achieving strong double-digit growth, with high levels of customer's satisfaction and customer workflow efficiencies gains
+Let me now take a few minutes to update you on the progress against each of the three horizons in our 2020 growth strategy and then I’ll hand the call over to <UNK>
+In the first horizon of growth which focuses on our core sleep apnea business, we are making significant advances with the smallest, quietest, and most comfortable products, catalyzed by digital health and connected care solutions
+We launched our new AirFit F20 full size masks and our new AirFit N20 nasal masks in the second quarter
+The Infinity Seal technology is a step change in comfort for patients and fit ranges of 97% to 99% of patient populations approving a winning value proposition with respiratory clinicians
+We are seeing exceptionally strong demand for the N20 and F20 products and for some of the masks SKUs demand is in fact outpacing supply as we ramp up our production capabilities for these new technologies
+We will continue to ramp up our supply and expect to be out pacing demand as we go through Q3 and into Q4. At the JP Morgan Healthcare Conference in San Francisco earlier this month, we announced the FDA clearance of the world's most CPAP called the ResMed AirMini, it's a tiny portable travel PAP with all of ResMed's best in class comfort features
+AirMini is intended to be a secondary device for travel, and it truly compliments our world leading AirSense 10 platform
+AirMini is an amazing technology and we expect to launch this product commercially before the end of the fiscal year
+I have personally been using a prototype of the ResMed AirMini for over 12 months
+It has traveled with me to Asia, all over Europe and throughout the Americas
+For those listening to this call, who may also be CPAP patients feel free to go to airmini
+com and signup
+We’ll make sure that you’re amongst the first to know when the product is fully launched through our Homecare Channel Partners
+We continue to lead in the field of connecting care, one of the key foundations of our growth strategy
+We have reached as I said earlier 1 billion nights of sleep data and are focusing on algorithms to convert big data into actionable information
+The ultimate goal is to unlock even more value for physicians, providers, payers and most importantly for patients
+This quarter, we announced results from a European study published by PricewaterhouseCoopers analyzing data from more than 23,000 patients in Germany and the UK
+The study shows that myAir patients when compared to controls, used their CPAP devices for longer durations and have significantly higher adherence rates
+This adherence study was executed in our core sleep apnea vertical, we are extending this cloud based coaching algorithms to our ventilation and oxygen technologies, watch this space
+This is a great transition for the second horizon of the ResMed 2020 growth strategy
+We know that COPD is the number three cause of death and the number two cause of re-hospitalization in the western world
+The spectrum of cloud connected respiratory care products across our ResMed portfolio will play a big role in reducing costs for providers and improving outcomes for patients with this debilitating disease
+Connected Care in ventilation can reduce costs and improve patient outcomes in COPD and beyond
+We continue to see portable oxygen concentrators or POCs as an important addition to our spectrum of respiratory care products
+Our integration of the Inova acquisition has focused on quality improvements to the current Activox POC platform
+We are gradually ramping the launch of this technology to our global sales team as we continue to improve quality and functionality of the product
+We will ultimately add cloud connectivity to our POC platform which will help drive adherence for patients, fleet management for providers and activity tracking for physicians
+Our third horizon of growth encompasses a portfolio of long term opportunities including sleep help and wellness as well as clinical adjacencies, such as atrial fibrillation and heart failure with preserved ejection fraction
+Another key area of horizon three growth is our work in chronic disease management algorithms, including population health models, health care analytics, care co-ordination and Software-as-a-Service models for home health, home nursing and hospice
+In the area of sleep help and wellness we are making good progress with our new joint venture called Sleep Score Labs with capital investments from ResMed, Pegasus Capital and Dr
+Mehmet Oz
+We started the partnership last quarter with an entire Dr
+Oz show dedicated to the field of sleep wellness
+Michael Bruce and Dr
+Oz leveraged the S+ by ResMed the world's first non-wearable sleep device and Smartphone app designed to help people track, better understand and improve their sleep
+The sleep awareness campaigning encompassed anonymous sleep data from a database with over one million nights of sleep
+Sleep Score Labs calculated America's overall sleep score and Dr
+Oz announced the results at the Consumer Electronics Show or CES in Las Vegas earlier this month
+Dr
+Oz reported that people are not sleeping as well as they should, we're getting less than what the National Sleep Foundation recommends which is seven to eight hours plus of sleep
+We are about one hour behind the minimum with around six hours of sleep
+People say they're tired and people say they want to understand their sleep better
+Sleep Score Labs will do just that, they will truly quantify sleep and help people objectively determine which sleep solutions are best for them
+For ResMed this is about driving the importance of sleep awareness and sleep health
+We will be helping people realize that they need to go see their doctor if they have any risky breathing at night or any shortness of breath day or night
+These and other signs and symptoms of sleep apnea and COPD impact overall health
+We will continue to drive sleep health and sleep awareness and our ResMed brand as a leader in the field
+Let me close with this, we are incredibly excited about the ongoing launch of our N20 and F20 mask technologies and our pipeline of products in 2017 including the new ResMed AirMini
+We continue to lead in connected care with enhanced solutions that lower cost for providers and improve outcomes for patients
+We are leading the industry, driving consumer awareness of sleep, so that undiagnosed consumers go to see their doctors and healthcare providers
+We continue to bring out strategy into action for the benefit of physicians, providers, payers and most importantly to improve the lives of tens of millions of sleep apnea and COPD patients around the world
+With that I will turn the call over to <UNK> for his remarks and then we will go to Q&A
+Over to you <UNK>
+Thanks for the question <UNK>
+Look the patients and provide and clinician acceptance in the mask has been great
+The Infinity Seal technology particularly and its ability to reach 97% to 99% of the patients that coming to a sleep lab or through a clinic
+And so these acceptance has been great and certainly exceeding what we had thought it may be
+And so what we’re finding with the new production technology that we’re using for this infinity sale is that, as we ramp across the different stock keeping units, that in some of those SKUs, we are not keeping up with very high demand, but as we look forward over Q3 and Q4 we will start to catch up and we will expect by certainly, the end of Q4, that we’ll be well ahead of the demand for the product
+Rob, do you want to add something on that?
+Thanks, <UNK>
+Well both the N20, which is mask, and F20, which is the full face mask are doing very well
+They both have the Infinity Seal technology this year, single-layer technology that provides excellent fit and moment for patients, I personally wear a CPAP mask and the N20 is particularly comfortable for me, but those products are going very well and doing well in the U.S
+market and that’s what got us to the sequential uptick in the U.S
+mask growth and we expect to, as we go through Q3 and Q4 and pick our production up to continue to grow quite strongly there and to turn back to a positive growth in EMEA and APAC
+Yes, certainly as the DME or HME home care providers, as we call them in Europe start to see this product, that fit range, fitting 97% to 99% of the patients that walk through the clinic has just been a real winning value proposition for the respiratory technicians
+The N20 is the go to mask for nasal now for them
+And the F20, we believe is a go to mask for them on full-face, and its early days in the rollout, the U.S
+team got this at the weak of Thanksgiving, they’ve really only had half a quarter and one with the bunches of Thanksgiving and Christmas holidays, but we do expect as we look for Q3 and looks to Q4 and start to ramp the production up, that’ll be a slow steady gradual increase in both the U.S
+and in other regions through Q3, Q4 and of course beyond FY2018. These technologies have a lot of legs
+Correct
+[Multiple Speakers]
+<UNK>, you want to take that?
+Thanks for the question <UNK>, it's <UNK> here
+So we did have very strong growth in devices in the Americas, it's 13% on a constant currency basis
+We think that was primarily fueled by AirSolutions, the portfolio of AirView and myAir capabilities to lower the labor costs for setting up a CPAP by 50%, 60% for a home care provider
+Also the ability for engagement apps like myAir to drive adherence from previous industry standards of 50%, 60% up to 80%, 87% in some of the data that we have talked about publically
+So we think all that comes together to drive good sustainable growth and that does of course include some of the growth in the respiratory care line, our Astral ventilation, our life support ventilation line
+Look we talk in terms of the industry growing in the mid to high single digits
+Clearly, we were taking some share in devices in this quarter and you know as we look forward we'd expect to see you know good mid to high single digit growth of the industry and we'd like to lead or beat that and clearly we beat that this quarter
+Okay, I'll hand it to Rob to talk about international devices and licensee
+The only thing I'd add to that, Rob, which I think is really good is that ASV turned from the post survey check where it was a headwind into a tailwind again
+And so we're starting to see growth in ASV, not just in complex sleep apnea and central sleep apnea, but the pain management and in the U.S
+in the PTSD category
+So all that together, <UNK>, is sort of what's one of the tailwinds driving those strong device numbers
+Yes, got you loud and clear <UNK>
+I'll hand that question to Dave <UNK>, our Global General Counsel, Dave
+Yes, <UNK> I think it was really about good execution
+The value proposition of AirSolutions has shown itself to be very sustainable
+It's a sustainable compelling value proposition for customers
+When you're reducing the costs of therapy setup by 50% or 60%, it's just embedded -- becomes embedded into the work flow and just how our home care provider partners like to work, they like to work with the cloud-based system
+They like to work with one that's lower costs and drives adherence
+And so as Rob said there was some sort of good acceleration in China and some good sales of our China team running through the tape
+But then globally we're seeing the AirSolutions platform have a really good impact and Astral as it comes into play and is now part of the cloud-based or cloud connected system, is getting some good traction as well
+And then the third factor is ASV, the Adaptive-Servo Ventilation technology coming to a tailwind
+So all that together has provided strong flow generator growth and we expect strong growth to continue
+And obviously the rates will be what they'll be, but mid-single digits -- mid to high single-digits is what we see the market going at and again we'd like to meet or beat that
+Thanks <UNK>, I think I'll hand that question over to <UNK> <UNK>, who runs the Americas
+I'll just start off with, yes the low to mid-teens growth from Brightree is strong, again it's a compelling value proposition for our home care providers, and they like it incorporated into their work flows
+<UNK>, any further color with regard to ongoing resupply sales associated with Brightree?
+<UNK>, we don't talk about future pipelines to a great extent
+We did open up a little bit on this call about the ResMed AirMini, the world's smallest travel seat CPAP that we got FDA clearance on, that was a public FDA clearance, but we won't be talking about the pipeline of future masks
+But thank you for the question
+<UNK>, I think you're referring to something maybe 18 plus months ago, where they were some changes around competitive bidding round two
+So 18 almost, 24 months ago [Multiple Speakers] when there were some resets
+<UNK>iam <UNK> I'm referring to the latest round of competitive bidding
+So, okay
+Well if it’s related to that they know that what we’ve being saying, which is the reality around the competitive bidding round three and round three national expansions, and the rebids going on now is that it’s pretty steady pricing picture, in fact no step change at all
+Industry normal price changes year-on-year in a steady pricing environment
+Obviously, we’re seeing a lot of competition amongst the innovation
+Innovation in the masks and innovation in the cloud connectivity and connected care side
+So intend complication for us and our competitors in masks and digital offerings
+But in terms of price it’s been a very steady environment last four, eight, plus quarters
+And then could you just talk to demand for the AirSense in Europe please?
+Rob, do you want to address?
+Thanks for the questions <UNK>
+Thanks for the question <UNK>
+The current travel PAP is a very small niche segment and what our goal at ResMed as the global leader in sleep apnea therapy is to bring the world’s smallest, the world's most comfortable, the world’s quietest and most engaging travel CPAP to the market
+And so we think we will actually expand on what is currently a very small travel CPAP niche and create a sizable segment of travel CPAP users that are willing to pay retail cash and work with our home care provides who access those products and really make it as part of their care so that you can have the same experience when you’re traveling around the country, around the world as you do at home
+So that’s the goal of the ResMed AirMini and as we launch that between now and June 30, you'll see us talk about how we're going to drive awareness, create that niche and make sure that patients the world over have the opportunity to have ResMed therapy with them wherever they are
+Thanks, Michael
+I’ll hand that over to <UNK> any thoughts on AirStart?
+Thanks for the questions <UNK>
+I’ll take the second one first and then I’ll hand to <UNK> maybe to talk a little bit about AirMini and we're looking at segmenting the cash-pay market and working with our provider, customers
+But the second part first, Tom Price was a Congressmen from Georgia who spoke at the Mid Trade Conference in Atlanta last fall
+And I don’t think anyone in the room knew or thought that he might become HHS Secretary, but when he got off on the floor and made a very passionate speech about the importance of home care, importance of keeping patient's out of hospital, taken well care of in the home
+He's an Orthopedic surgeon, I think he understand the economics of the broken sort of sick care system where patients are frequent fliers in the ICU and CCU with COPD and we believe also sleep apnea is a big impact on that
+I think he will be a big supporter
+And if he puts in place some of the policies that he was advocating for in behalf of the homecare industry as HHS Secretary, we think it could be beneficial for our industry
+But look you know as Dave said earlier, there is a lot of things going on in Washington right now, a lot of change and we're going to wait and be ready to hopefully see some more homecare friendly policies out of Washington, but we'll wait till we see them and then we'll act on them
+But that sort of the early take on Tom Price, I’d say it's a positive for our industry
+<UNK>, on the AirMini, thoughts?
+Right, <UNK>, well look, the underlying device rate, we don’t split up sleep versus respiratory care and then respiratory care down to ventilation and oxygen
+But as you saw in the Americas, a really strong 13% constant currency growth in devices and in EMEA and APAC, very strong 21% with the global 17% growth
+We think that growth is strong and sustainable, but there are elements, as we've said earlier with regard to China where there were some things that where sort of onetime and there were other more sustainable parts such as the AirSolutions platform and its ability to continue to drive AirSense 10 and AirCurve 10 sales along those lines
+But with regard to margins and as we look forward, I think other than the foreign exchange impact, it was pretty reasonably good quarter in terms of margins
+Any color there Rob, you'd like to add?
+Right, thanks <UNK>, I think somehow you managed to get four questions in there, but we don’t quantify the breakdown there
+Rob was talking qualitatively to the curative ResMed China combination and its impact on the quarter, so we're not going to break all that out
+Dave do you have any comments with regard to 21st Century Cures and impacts for ResMed?
+Thanks <UNK>, well yes clearly the market acceptance has been ahead of our expectations and Rob you want to go into some detail with regard to the manufacturing?
+Hey <UNK>, excluding Brightree
+I’ll take that
+Matt, I’d say we’re pretty much on schedule for that sort of 18 months, I'd get it to, where we think ResMed's quality and functionality should be
+Look the Activox product is a great POC
+It’s light and very portable
+But it can improve in some areas and we’re really working on the improvement of those areas in terms of oxygen delivery and sustainability of that over the many months that they’re out there helping patients get freedom back
+And so I’d say, I don’t track and we’re looking forward to gradually ramping that Inova product out there
+And as we said in the prepared remarks earlier adding communication capability onto that and pulling it as part of the whole AirSolutions portfolio, we think we’ll allow home care providers to do better fleet management of all these POCs that are out there, but really engage the patients in terms of inherence for the product as well
+So the conclusion is, I think we're just pretty much right on track with the versus the timeline that you talk about
+Thanks <UNK>
+So I mean, I’m sure, you heard the prepared remarks what we talked about
+There are two factors behind EMEA and APAC on the masks
+Number one, we had a big comparable, what was about around 8% constant currency growth in the quarter a year ago in EMEA and APAC
+So we had some licensing revenue in there and some really good sales to particular customers
+And we just launched the N20 and F20 at the ERS
+And so it’s the first quarter out there and as you know, you’ve been following our stock for a long time, mask launches in EMEA and APAC, you're talking hundreds of countries and you go country-by-country and thy see the masks, they don’t immediately buy the masks
+It can even slowdown the purchases of current masks, because they see the next generation technology and they put it through their systems, they have it as their frontline setup and they work out how to put it into the protocols and starts to get launch through
+So as we said earlier, we expect to gradual improvement of masks growth not only in the Americas, but also in EMEA and APAC
+Certainly the positive in that region and then through Q3 and Q4, we really think the impact N20 and F20 are going to be there and sustainable throughout fiscal 2018.
+We’re seeing pricing as I said earlier in the pretty steady state these last six to eight quarters
+Back to industry standards on year-on-year in terms of price
+So the competition is fierce, but it’s around innovation
+Who's got the best fit, the best comfort, the quietest device and now best informatic solution to really improve quality of care with patients and provide us to improve their world flow efficiency
+Thanks for your questions <UNK>
+Yeah, thanks
+In closing, I want to thank the 5,000 strong ResMed team from around the world for their commitment to changing tens of millions of lives
+We remain laser focused on our long term goal of improving 20 million lives by 2020, and we look forward to executing on everything we talked about this last 60 minutes and driving this innovation, great products throughout 2017. Thanks for your time today
+And we’ll talk to you again in about 90 days

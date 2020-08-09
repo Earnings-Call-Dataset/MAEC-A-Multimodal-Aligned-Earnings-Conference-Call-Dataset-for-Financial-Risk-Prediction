@@ -1,0 +1,111 @@
+Good morning.
+My name is Bill <UNK>.
+Welcome to our earnings conference call for our fiscal second quarter ended March 31, 2018.
+After the market closed yesterday, we issued a press release reporting our results for our second fiscal quarter of 2018.
+This release is available on our website at www.intlfcstone.com as well as a slide presentation, which we will refer to on this call, in our discussions of our quarterly and year-to-date results.
+You'll need to sign on to the live webcast in order to view the presentation.
+The presentation and an archive of the webcast will also be available on our website after the call's conclusion.
+Before getting underway, we're required to advise you, and all participants should note, that the following discussion should be taken in conjunction with the most recent financial statements and notes thereto as well as the Form 10-Q filed with the SEC.
+This discussion may contain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934.
+These forward-looking statements involve known and unknown risks and uncertainties, which are detailed in our filings with the SEC.
+Although the company believes that its forward-looking statements are based upon reasonable assumptions regarding its business and future market conditions, there can be no assurances that the company's actual results will not differ materially from any results expressed or implied by the company's forward-looking statements.
+The company undertakes no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise.
+Readers are cautioned that any forward-looking statements are not guarantees of future performance.
+With that, I'll now turn the call over to Sean O'Connor, the company's CEO.
+Thanks, Bill.
+Good morning, everyone, and thanks for joining our second quarter fiscal 2018 earnings call.
+We achieved a sixth straight record quarter in operating revenues, up a strong 33% from a year ago and up 22% sequentially from the immediately prior quarter.
+We recorded our best ever quarterly earnings of $22.7 million, up 106% from the prior year.
+After adjusting for the tax reform, second quarter adjusted net income was up 46% from our immediately prior quarter.
+Our diluted EPS was a record $1.18, up 103% from a year ago, and on an adjusted basis up 47% sequentially versus the first quarter.
+Our return on equity for the quarter was 20%, and for the year-to-date period, excluding the tax reform, was just over 18%.
+Our ROE numbers are calculated on total equity, not tangible equity, tangible equity being the way a lot of other financial companies report their statistic.
+Using tangible equity would boost these numbers by around 3 percentage points.
+The market environment we operate in has become increasingly positive for us over the last 4 to 6 quarters, with interest rates increasing and volatility slowly and sporadically increasing to more normal levels, as the Fed withdraws from the capital markets.
+During the [finder] review, we certainly benefited from a spike in equity volatility around the VIX issue, which positively impacted our equities and futures clearing activities.
+Also we benefited from higher interest rates on our $3 billion plus of customer float.
+Clearly, these more extreme spikes, as we saw in the VIX, are not sustainable, but it does seem that moderately higher volatility has crept back into many of the asset classes, such as metals and agricultural commodities off the back of political and other concerns.
+We think this is a more normal situation, which if sustained will continue to be beneficial for us.
+We achieved very good growth in segment income in all of our operating segments.
+Some brief highlights.
+Commercial Hedging segment, which is our largest, increased segment income an impressive 48% from a year ago, and was up 31% sequentially, with strong growth in both futures and OTC revenues and revenue capturing the OTC business, aided by increased volatility.
+Global Payment segment income increased 15% from a year ago, but was down 7% sequentially due to seasonality with the December quarter always being our strongest for the payments business.
+In the current quarter, payments volumes were flat, but revenue per payment increased by 9%.
+This anomaly was discussed last quarter, and was due to a very high volume, but low-value client favorably changing the way they process their payments with us.
+We have seen spread compression in some of our key markets in Africa due to a reduced demand for dollars.
+After nearly 3 years, we received an upgraded regulatory permission in Brazil, allowing us to better facilitate client flow into and out of this important market.
+This happened late in the quarter that has significantly boosted our Brazil payments revenues.
+The Securities segment income increased 9% from a year ago, and was up 16% sequentially.
+This quarter's result was driven by an 81% increase in operating revenues from our equity business, largely due to the increased volatility in the mix.
+I would like to highlight that this revenue increase was off the back of a 35% increase in volume as well as a 17% increase in revenue catch-up, which highlights the impact of volatility on both volumes and spreads in businesses where we act as a trader in facilitating client orders.
+Physical Commodities segment income increased 44% from a year ago, and was up nearly fourfold sequentially.
+This was off the back of a 53% increase in Precious Metals revenues and a 22% increase in the agricultural and energy activities.
+Our Clearing and Execution Services segment income increased an impressive 61% from a year ago and 21% sequentially.
+This was primarily due to a record result for our futures clearing business, with volumes up 51% due to increased client activity as well as volatility.
+This was further aided by a 21% increase in revenue captured per contract as well as higher interest rates.
+With that, I'll now hand you over to Bill <UNK> for a more detailed discussion of our financial results.
+Bill.
+Thank you, Sean.
+I'll be referring to slides in the information we have made available as part of the webcast, specifically starting with Slide #3, which shows our performance over the last 5 fiscal quarters.
+The top of Slide #3 is a chart that depicts our reported net income, earnings per share and ROE over the last 5 quarters, while the bottom of the slide shows the same metrics on an adjusted basis, removing the effect of tax reform and the previously disclosed bad debt on physical coal.
+In the second quarter, the only difference between our GAAP net income and adjusted net income was an $800,000 income tax benefit related to an adjustment to provisional discrete tax charges taken in the immediately preceding first quarter related to the enactment of the Tax Cuts and Jobs Act.
+The bottom graph shows the strong growth we have seen over the last 5 quarters in our core operating results, with the near doubling of our earnings per share and an ROE from the current period in excess of our internal target of 15%.
+Our adjusted net income was $36.9 million, with earnings per share of $1.93 for the fiscal year-to-date period.
+Moving on to Slide #4, which represents a bridge between operating revenues for the second quarter of last year to the current year fiscal second quarter.
+Operating revenues were $260.2 million in the current period, up $64.4 million or 33% versus the prior year.
+As shown, all operating segments showed revenue growth over the prior year, led by our Clearing and Execution Services segment, which added $23.8 million or 37% in operating revenues, driven by strong exchange-traded revenue growth, as noted by Sean earlier.
+In addition, our largest segment, Commercial Hedging, had its strongest quarter ever, adding $15.6 million or 25% in operating revenues versus the prior year.
+This growth was driven by improved performance in both Exchange-Traded and OTC products as well as an increase in interest income.
+Exchange-Traded revenues increased $6.4 million or 18% versus the prior year, primarily as a result of increased volatility in prices in the U.S. grain markets, while OTC revenues increased $7.1 million or 34%, with the growth coming from Brazilian grain market as well as increased activity in food service, dairy and cotton.
+Our Securities segment added $17.6 million or 46% in operating revenues versus the prior year, driven by strong performance in Equity Market-Making, as Sean noted earlier.
+This growth in Equity Market-Making was a result of increased customer volumes and a widening of spreads as well as a $3.6 million increase in interest income related to our Securities lending activities.
+In addition, our debt trading business added $4.4 million in operating revenues, driven by a $2.4 million increase in interest income in our domestic institutional fixed income business as well as increased performance in our Argentina and municipal Securities businesses.
+Our Global Payments segment added $1.9 million in operating revenue or 9% to $23.4 million, with the number of payments relatively flat with the prior year period, but the average revenue per payment increasing 9% versus the prior year.
+Physical Commodities added $4.3 million or 38% in operating revenues versus the prior year, with growth in both our Precious Metals and Physical Ag & Energy businesses.
+The number of gold equivalent ounces traded doubled versus the prior year, driving the growth in Precious Metals revenues, while business expansion, particularly in cotton, drove the growth in Physical Ag & Energy.
+The next Slide, #5, represents a bridge from 2017 second quarter pretax income of $14.3 million to $29.5 million, a 106% increase, which demonstrates the strong core operating results versus the prior year.
+Sean covered the variances in pretax income on our operating segments during his portion of this call, but I'll just note a couple of items.
+While Securities segment operating revenues increased 46%, segment income in that business increased $1.1 million or 9%, mostly driven by the strong performance in Equity Market-Making, which was partially offset by weaker performance in debt trading.
+While interest income and debt trading increased $2.9 million versus the prior year, that was outpaced by a $4.4 million increase in interest expense.
+The $3.1 million negative variance in our unallocated overhead segment was primarily driven by increase in variable compensation related to improved overall company performance as well as an increase in conference expenses related to our bi-annual global sales meeting.
+Slide #6 shows the interest in fee income on our investments and our Exchange-Traded Futures & Options businesses as well as customer balances held in our Correspondent Clearing and Independent Wealth Management businesses.
+As noted on this slide, our earnings on these balances have increased $5.1 million versus the prior year to $10.8 million, as the yield on these balances has increased 70 basis points to 145 basis points in the current period.
+The bottom of this slide shows the potential annualized interest rate sensitivity, which the balance is held at the end of the current period based upon an increase in short-term rates at various levels.
+As shown, a 100 basis points increase in short-term rate has the potential to increase our net income by $15 million or $0.79 per share on an annualized basis.
+Moving on to Slide #7, our quarterly financial dashboard, I'll just highlight a couple of items of note.
+Variable expenses represented 62.9% of our total expenses for the quarter, well above our target of keeping more than 50% of our total expenses variable in nature.
+Non-variable expenses, which are made up of both fixed expenses and bad debt expense, increased $5.2 million or 7% versus the prior year.
+As noted earlier, we reported net income of $22.7 million in the second quarter for a 19.9% return on equity, above our stated target of 15%.
+Finally, in closing out the review of the quarterly results, our book value per share increased $0.32 to close out the quarter at $24.74 per share.
+We did not repurchase any of our common stock during the second quarter.
+Next, I'll move on to a discussion of our year-to-date results and refer to Slide #8.
+Year-to-date operating revenues were up $91.5 million or 24% to $472.8 million in the current year-to-date period.
+The largest increase was in our CES segment, which increased $32.4 million, driven by strong growth in exchange-traded volumes, while our Securities segment added $23.2 million in operating revenues versus the prior year as a result of increases in Equity Market-Making volumes as well as an increase in interest income related to our Securities lending and domestic fixed income activities.
+Our Commercial Hedging segment added $19.6 million in operating revenues, primarily as a result of higher OTC revenues, while our Physical Commodities and Global Payments added $5.1 million and $3.4 million, respectively.
+Moving on to Slide #9 for a discussion of the variance in pretax income by segment for the year-to-date.
+The largest increase was seen in our Commercial Hedging segment, which added $14.6 million in segment income, driven by the very strong second quarter performance.
+The growth in CES operating revenues resulted in a $9.6 million increase in segment income versus the prior year, while Global Payments added $3.2 million or 13% in segment income versus the prior year-to-date period.
+These increases were partially offset by modest declines in our Securities and Physical Commodities segment.
+Finally, I'll touch on the year-to-date dashboard, which is Slide #10 in the presentation deck.
+Variable expenses are above our internal target of exceeding 50% of total expenses coming in at 60.8%.
+Non-variable expenses increased $8.6 million or 6% over the prior year.
+Net income was $15.8 million for the current year-to-date period as compared to $17.3 million in the prior year.
+As noted earlier, on an adjusted basis, net income was $36.9 million in the current year-to-date period.
+The return on equity for the year-to-date was 6.9%, while our average revenue generated per employee of $591,000 exceeded our internal target.
+With that, I'd like to turn it back to Sean to wrap up.
+Thanks, Bill.
+Our operating revenues and core earnings have been accelerating for a number of quarters now as we scaled our business by increasing our capabilities and our client base.
+We have created a financial platform that connects over 20,000 clients with over 40 exchanges and hundreds of execution venues.
+We have a scalable platform with high operational leverage.
+Around 50% of incremental revenue drops to the pretax line.
+We have been steadily increasing our footprint and growing client acquisition and our volumes across our platform, which has resulted in the steady and positive trend in our results.
+The positive overall trend has now been impacted by improved market conditions, with higher volatility and higher interest rates unleashing long dormant components of our business model, and resulting in what we think is an industry-leading ROE.
+We believe that these more positive market conditions are a return to a more normalized situation in the capital market.
+Since the spike in volatility around the VIX issue, we have seen general and more widespread volatility across different asset classes, and we also anticipate that interest rate increases are not yet over.
+All of this is very positive for our business environment long term.
+Despite the better overall market conditions, we continue to see consolidation in our industry with scalers becoming a bigger issue for smaller players, and banks continue to focus on their larger clients.
+With that, I'd like to turn it back to the operator and open the answer -- question-and-answer session.
+Operator.
+Okay.
+Well, thanks, everyone, for participating, and we will speak to you again in 3 months' time.
+Thank you.

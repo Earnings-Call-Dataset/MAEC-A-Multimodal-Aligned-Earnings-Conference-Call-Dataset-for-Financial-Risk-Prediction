@@ -1,0 +1,265 @@
+Thank you, and thank you for joining us today to discuss our first quarter 2017 earnings.
+Hosting the call are Doug <UNK>, Chairman and Chief Executive Officer; Dave <UNK>, President and Chief Operating Officer; and <UNK> <UNK>, Chief Financial Officer.
+We've posted presentation slides to our website that accompany management's prepared remarks.
+And these slides can be accessed in the Investor Relations section of our site, echo.com.
+During the course of this call, management will be making forward-looking statements based on our best view of the business as we see it today.
+Our SEC filings contain additional information about factors that could cause actual results to differ from management's expectations.
+We'll also be discussing certain non-GAAP financial measures.
+The definition and reconciliation of each non-GAAP financial measure to its most directly comparable GAAP financial measure is contained in the press release we issued earlier today and the Form 8-K we filed earlier today.
+With that, I'm pleased to turn the call over to Doug <UNK>.
+Thanks, and good afternoon, everyone.
+The first quarter was a continuation of the recent trends that we've been talking about.
+The freight market remained quite tepid and the capacity relatively loose.
+This dynamic compressed our net revenue margin by about 200 basis points over the prior year, and in large part is a primary driver of our performance.
+At the same time, we continue to have success growing our managed transportation business and we signed a record amount of new business in the quarter, reflecting synergies we're achieving with our acquisition of Command.
+We'll get into the numbers in a few minutes, but first I want to cover a few of our strategic initiatives and the progress we are making.
+Last quarter, we talked about our integration with Command and some of the change management challenges our teams were facing.
+Those challenges were a mix of new technology, new truckload processes and the general teamwork challenges you might expect when combining our 2 truckload operations which were 2 businesses of effectively equal size at the time of integration.
+We've completed 19 acquisitions prior to Command.
+Many of them were flat or down during the first year after acquisition, only to have strong and consistent growth in the years following.
+The other point we've highlighted is that this integration did not just impact Command but it impacted all of Echo's employees that sell or operate truckload.
+Since we're multimodal, that's pretty much all of our sales and operations teams.
+While we acquired Command almost 2 years ago, we are only 6 months into the full integration.
+Our internal expectation is that we are through the most difficult adjustments and our proficiency from a system and process perspective are near 100%.
+This leads me to the next thing I want to talk about, our technology.
+First, I want to remind all of you of something we've been saying for a long time.
+Our proprietary technology gives Echo a competitive advantage in the marketplace.
+And this is true for 3 reasons.
+First, it's a multimodal platform, enabling our salespeople to offer a full suite of transportation modes to shippers.
+This enables our salespeople to penetrate a supply chain with the right services for different segments of the market.
+LTL and truckload for small to midsized customers, truckload and intermodal for large companies and a managed transportation offering across all segments.
+While it's true a select few of our competitors may have similar capabilities, the vast majority do not, and this differentiates Echo in a big way from the broader market.
+Number two, our LTL capabilities are robust, unique and we have a high degree of integration with both carriers and customers, enabling very efficient operations.
+We serve small companies with a portal giving them self-service capabilities.
+And I'm excited that we're about to launch a new improved portal which we're calling Echo Ship.
+This new portal will be even easier to use, more intuitive and offer our customers a very efficient, one-stop shop to move their LTL freight.
+We're also serving large LTL shippers utilizing our incredibly efficient managed transportation platform.
+Number three, our truckload capabilities are among the best in the market.
+When we acquired Command, we acquired not only talented know-how, but a system to enable us to interact with carriers to improve the utilization of their capacity in ways that many of our competitors cannot.
+Now that it's fully integrated, we can continue down a path of driving new features and ideas into our platform and this is what we're doing right now.
+In fact, in the first quarter, we integrated our new web-based dispatch portal and our new driver mobile app, Echo Ship, to improve our interactions with carriers.
+Initial feedback from our users has been tremendous and we plan to continue to roll this out throughout the year.
+These apps will improve our internal process around tracking, scheduling and collecting documents, which all serve to further automate our internal marketplace.
+And that automation will give accurate, real-time information to our shippers that enable them to better manage their supply chains while providing Echo with efficiencies and operational cost savings.
+So now let's move on to Slide 3, where I'll give more specifics on our first quarter results.
+Revenue was up 2.6% compared with the same quarter last year at $416 million.
+The productivity of our brokered sales force has improved since the fourth quarter and our managed transportation business grew nicely during the quarter at 13%.
+Net revenue was $74.5 million, declining 7.8% over the prior year, but up 4% sequentially.
+The driver behind the year-over-year decline in net revenues was our margin decrease of 202 basis points, again reflecting a difficult year-over-year comp and challenging brokerage environment.
+On a sequential basis, margins were up 29 basis points.
+Non-GAAP EBITDA declined by 39% to $10.0 million.
+GAAP fully diluted earnings per share were a $0.10 loss per share compared to $0.01 per share in the prior year period.
+Non-GAAP fully diluted earnings per share were $0.09 per share.
+We ended the quarter near the midpoint of our guidance for both revenue and G&A spend and we're seeing signs of improving performance out of our teams, a comfort level with the new systems and processes and an acceleration in productivity with growth on our managed transportation.
+I will now turn the call over to Dave, who will discuss our Q1 results in more detail.
+Thanks, Doug.
+I'll start by thanking our employees for working very hard over the last few months, to get our clients and carriers first while we were adjusting to our new systems and processes.
+I've been very impressed by the work ethic, dedication and capability of our team as we've united our business technologically and culturally.
+On Slide 4, we've got a comparison of our results by transportation mode.
+So starting with truckload, our revenue increased by 2% to $280 million in the first quarter.
+This increase was the result of a 50-basis-point increase in volume and a 1.6% increase in rates.
+There are few key factors impacting our growth, most of which we highlighted on our last earnings call.
+Those primary factors are relatively soft truckload market and the remnant impacts of our integration.
+On the market, demand has been relatively soft.
+As we've discussed in the past, most of our truckload business is transactional in nature, either spot or small to midsized company transactional.
+So our propensity to provide services in this portion of the market have been met with a clear cyclical headwind.
+At the same time, we've gone up market over the years and our business with larger shippers has increased.
+Today, this business is quite competitive as asset-based carriers and other brokers are fighting for increased share.
+Our strategy remains consistent which is to say, we compete and offer our capacity in places and situations where it makes the most sense to us and our carriers.
+Speaking to the second factor, we're through the most difficult phase of the integration.
+We mentioned on our last call that we thought we had a couple of months left of adjustment for our people and we've seen that play out.
+Our growth rates were escalating, and we're on the right path to drive ongoing consistent growth.
+In terms of the modest rate increase.
+Fuel is the primary factor driving rate growth and in fact, line haul rates were slightly down in Q1.
+Our LTL revenue was up 7.6% on a year-over-year basis, totaling $114 million.
+LTL volume grew 4.2% during the quarter and LTL revenue per shipment was up 3.3%.
+We're excited about the growth we see in the LTL space both through our brokered sales force and our managed transportation offering.
+On the intermodal side, our revenue was down 13% at $15 million for the quarter due to lower volume, partially offset by higher revenue per shipment.
+Consistent with recent quarters, the excess capacity in the truckload market continued to impact the volume in this portion of our business.
+Slide 5 breaks out our revenue by customer type.
+Our transactional revenue, which represents 80% of our total revenue, increased by 30 basis points on a year-over-year basis, totaling $333 million in Q1 '17.
+This is heavily impacted by the overall trend in our truckload business.
+We ended the quarter with 1,643 sales reps which includes both client, sales and ops and carrier sales.
+This is a decrease of 8 people from a year ago and an increase of 32 people sequentially.
+The year-over-year decrease is all attributed to client sales as the size of our carrier sales team remained flat.
+Continuing our recent trends, we had strong gains in our managed transportation business.
+Total revenue was up 13% to $83 million.
+Our transactional sales people are doing a great job of identifying and cultivating opportunities.
+And with the help of our solutions and business development teams, we're bringing many of these opportunities to fruition.
+None of these will be possible without the dedication of our managed transportation operation staff.
+They work tirelessly everyday to drive client satisfaction, simplifying transportation management for our clients.
+These efforts led to another 11 new accounts during the quarter which represents $56 million of new business for Echo.
+Congratulations to everyone involved here.
+This is a record for us.
+This is the largest MT closings we've ever had and a good portion of this was driven by synergies from Command.
+As you all know, integration of these new accounts can often take a couple of quarters but a few larger ones have already begun implementation and started shipping in the beginning of the second quarter.
+To make this happen, our integration teams along with our clients have done some outstanding work in short order to automate critical components of the transportation process.
+In addition, our pipeline and new opportunities are strong.
+We're optimistic about our opportunity to continue to drive growth in this portion of our business.
+Slide 6 highlights our net revenue and net revenue margin.
+Our truckload net revenue margin declined on a year-over-year basis by 275 basis points, but improved sequentially by 42 basis points.
+The year-over-year decline was driven by 2 factors: low prices to shippers due to increased competition, bolstered by the lackluster demand in loose capacity and increasing fuel costs.
+The sequential improvement is a sign of stabilization, consistent with the sequential trend from last quarter.
+On the LTL side, net revenue margin declined 55 basis points over the prior year, and increased 22 basis points sequentially.
+Rising fuel prices is again a primary factor in the modest deterioration of the LTL net revenue margin.
+I'll now turn it back over to <UNK> to review the details of our financial performance.
+Thanks, Dave.
+On Page 7 of the slides, you'll find a summary of our key operating statement line items and I'm going to highlight a few of those.
+Commission expense was $22.4 million in the first quarter of 2017, decreasing 10% year-over-year.
+Commission expense was 30.0% of net revenue, representing a 70-basis-point decrease from the first quarter of 2016.
+Non-GAAP G&A expense was $42.1 million in the first quarter of 2017, up 7% from the first quarter of 2016.
+Depreciation expense was $4.5 million in the first quarter of 2017, increasing 26% year-over-year.
+And that increase is primarily the result of our headquarters expansion in Chicago and then other recent technology infrastructure upgrades.
+Our cash interest expense was $1.7 million during the first quarter of 2017 which is flat with the year ago period.
+And our non-GAAP effective income tax rate was 34.2% for the first quarter of 2017.
+During the quarter, we benefited slightly from the favorable outcome of a recent state tax audit.
+As Doug mentioned, non-GAAP fully diluted EPS was $0.09, decreasing 63% from the first quarter of 2016, and the primary differences between our GAAP and our non-GAAP EPS in the first quarter of 2017 are $3.6 million of amortization of intangibles from acquisitions, $2.0 million of noncash interest expense and $2.7 million of stock compensation expense.
+Moving to Slide 8.
+We have cash flow and balance sheet data.
+In the first quarter of 2017, we had free cash flow of $10.1 million and operating cash flow of $14.1 million.
+Capital expenditures totaled $4.0 million in the quarter.
+On the balance sheet, we ended the quarter with $24 million in cash, $233 million of accounts receivable and nothing drawn down on our $200 million ABL facility and we continue to be in full compliance with all the covenants related to our borrowing facility.
+During the quarter, we used $851,000 to repurchase 37,000 shares of our common stock at an average price of $22.94, which marked the completion of our authorized buyback program.
+We continue to evaluate the most appropriate use of our capital resources and our free cash flow for reinvestment in the business, M&A activities and additional buybacks.
+I'll now take a moment to reiterate our 2017 full year guidance, all of which remains consistent with our prior call.
+Total revenue of $1.85 billion to $1.97 billion.
+Commission expense of 29.5% to 30.5% of net revenue.
+G&A cost of $165 million to $175 million.
+Depreciation of $19 million to $20 million.
+CapEx of $15 million to $20 million.
+Cash interest of $6.7 million.
+And a tax rate of approximately 37.5%.
+As it relates specifically to the second quarter of 2017, we expect total revenue between $455 million and $485 million; commission expense should continue to be between 29.5% and 30.5%; G&A costs should be between $42 million and $43.5 million; depreciation expense, approximately $4.6 million; cash interest expense, proximately $1.7 million; and we expect our tax rate to be approximately 37.5%.
+Excluded from our non-GAAP calculations, we expect amortization of about $3.6 million, noncash interest of $2.0 million and stock comp expense of $2.5 million.
+Thus far, in the second quarter, our revenue growth has been about 3%.
+And as Dave mentioned, just last week, we went live with 2 of our bigger new managed transportation account wins, which will add to our revenue growth in the quarter.
+So far through the first 3 weeks in the second quarter, we've seen our gross margins decline modestly sequentially from the first quarter.
+I'll now turn the call back over to Doug.
+Thanks, <UNK>.
+When I break down the business, I see 3 critical components that drive Echo.
+Those components are: our truckload business, our LTL business and our managed transportation business.
+While we do have other pieces, those are the keys for right now.
+Our truckload business is doing well given internal and external challenges, opportunities and conditions.
+We have a slowed growth rate, mostly due to market conditions and the integration as Dave discussed.
+We can't do much about the market, but we can work on the integration which we have done.
+Our people continue to adjust, we are through the toughest phase of the integration, so I'm very optimistic about our future here.
+I'm thinking about the broader truckload market, clearly the brokerage environment has impacted both volume and margin.
+On the volume side, when capacity is looser for sustained periods of time, fighting for contract freight can be more competitive.
+We've chosen to remain committed to taking appropriately priced freight to ensure high service levels for our clients.
+In an environment with less spot market freight, this impacts our volume growth.
+This dynamic is also impacting margin as participation in the routing guide is more price competitive and spot rates still depressed.
+Moving to the second key driver of our performance, our LTL business is doing quite well.
+We are continuing to grow and take market share despite the potential for distraction as we integrate.
+The combination of our LTL offering and our truckload offering give us a very strong multimodal capability that is attractive to the middle market, where we do business everyday.
+Our managed transportation business is thriving.
+This has always been at the core of what we do as we have grown through acquisition this component of our overall business has declined as a percentage of our entire business but it has delivered double-digit growth consistently over the last 5 years.
+One of the items we talked a lot about is the time of the Command acquisition were the revenue synergies.
+These were to be achieved by one, selling multiple modes and managed transportation solutions through the Command sales force.
+And two, growing our truckload business through better technology and a larger, more competitive carrier network that will lead to better capacity sourcing abilities.
+We're doing great on the first item and we're continuing to work on the second.
+We've closed over $60 million of managed transportation deals, delivered over $10 million of additional partial and LTL business and cut overhead by $3 million, all while completing the integration.
+The downside is the market conditions have reduced or slowed our ability to achieve the truckload network synergies as well as induced some margin compression.
+We still believe we'll get there, but it'll take a little more time or different market conditions to catapult us there.
+The long-term strategic benefits of this deal remain compelling.
+With the recent margin compression and our facility expansion in Chicago, we are seeing reduced operating leverage.
+This is something we've talked a lot about as we're investing in the long term.
+When margins are up 1 point or 2, the positive impact is significant.
+When we are feeling a squeeze, we continue to evaluate our level of investment and growing our sales headcount and our technology platform to offset the margin decline.
+At the same time, we're investing for the long-term growth to ensure we maximize our competitive position, our truckload network and drive the kind of automation that's required as our business grows.
+As we talked about last quarter, we're planning to update our long-term guidance later this summer.
+And with that, I would like to open it up for questions.
+Yes, that's -- it's a good question.
+And if you think about -- we talk about investing for long-term growth and so there's some different components of that.
+There's technology infrastructure and services.
+There's the facility expansion that we've recently built out and there's continuing to add to our sales force.
+So those are all areas of increased cost this year.
+Another area is adding operational support to manage our significant level of new managed transportation wins.
+So when you break that down, the variable cost could be the decisions to add or not add as many salespeople, but our operational support for our customers and the investments we've made in technology and infrastructure are much more fixed.
+And then obviously, on the commission line, that's 100% variable there.
+Sure.
+So in terms of how much of our total increase over last year, which is roughly $20 million once you pull out the integration costs, 2/3 of that relates to increased headcount both operational and sales investment or investment in sales personnel.
+Sure.
+So as you know, we don't give specific cash flow guidance but this is a good cash -- free cash flow generating business.
+And I think that when you look at the Q1 cash flow, that profile looks a lot more normal than what we saw last year which included integration costs and a decent amount of additional capital investment as we brought the 2 companies together and expanded the facilities.
+And obviously, that quarterly cash flow is impacted on the seasonal growth of our business and the organic growth of the business, so as we grow faster and obviously implied in our guidance later this year, we do expect that to happen.
+That does cause us to invest a little more in working capital since we generally pay our carriers faster than we collect from our customers.
+But I think you'd see a cash flow profile relative to EBITDA that looks a lot more like it did in '15 and '14, than what you saw last year.
+Yes the -- a couple of questions there.
+I think in terms of the second half of the year, we would anticipate growth coming across all segments of the business.
+So it's not isolated, so to speak, to the managed trends.
+Part of the business I'd expect to see growth in, certainly in the truckload and LTL modes as well as in the managed transportation component of our business.
+In terms of the impact on managed transportation margins, the $56 million that we talked about, and that will phase in throughout the year, that's the gross revenue component of that.
+So I didn't give this quarter, we didn't -- I think all of our deals would be kind of gross revenue deals, so we didn't have any additional freight under management.
+So as we move forward, that could have a modest drag on the margins but it's still not a huge number relative to the overall total.
+So I wouldn't expect that to be too material.
+And I'd just add -- I'd add one thing, <UNK>, just on the first part of your question in terms of our guidance for the full year.
+We've built in to that guidance kind of low-single-digit LTL rate growth, and in the first half of the year similar truckload low-single-digit rate growth, and in the back half of the year, kind of mid-single-digit rate growth, just to give you an idea of how we're thinking about the market environment as it impacts that guidance.
+Yes, <UNK>.
+I think that the fact that those 2 companies are interested in brokerage just speaks to the size and the attractiveness of the market.
+We've always said that it's a very, very big market, there's lots of competitors from the time that we started Echo.
+We've had stiff competition, and I don't see that changing at all even as there's a consolidation in the industry.
+It's still the same people that we're competing against.
+So I don't know what their plans are but I think that they've got a lot of their own freight that they're probably interested in taking some cost out on.
+And I don't know how much impact that would have on us, but I think it just validates the size of the market and the fact that outsourced 3PL transportation continues to grow at a rate that's faster than the overall freight market.
+While most of that business that we've talked about winning has not actually come online yet.
+We mentioned that there's some that just started shipping in the early part of April, but Q1 did not actually include any of that business in the revenue line.
+Yes, we stopped throwing that number out about 2 or 3 quarters ago.
+So we're just not disclosing the numbers anymore because we felt like it was less relevant disclosure and not necessary to continue.
+So it differs by mode.
+I mentioned in my prepared remarks that the LTL shipments were up I think 3% and truckload shipments were basically flat, 0.5% up.
+Sure.
+I'd be happy to.
+Let me -- I want to clarify a question <UNK> asked, it's 4% on the LTL side with the shipment growth not 3%, so and I had that in the prepared remarks.
+So <UNK>, I think that when we initially completed the acquisition of Command, one of the things that we felt was very valuable and their sales force thought would be really valuable was the opportunity to sell a managed transportation offering.
+I think that what we've seen in the marketplace over the years is that more and more companies outsource and that's one of the ways that they do it is through coming to a company like Echo and outsourcing the entire portion of their transportation spend.
+So one of the things that we've done is we've taken a very aggressive path in terms of educating our people on what our capabilities are, gaining confidence with our sales folks that our execution capabilities are very solid, making them familiar with our technology and how we operate so that when they have opportunities for customers to present these capabilities, they can spot those opportunities and we team them up with a team of our internal experts who help them work with potential clients to go through a traditional sales cycle.
+So I think it's kind of got 2 key factors.
+One, it's education of what we have to offer, which we've been doing on an ongoing basis.
+And then two, it's just the capability.
+We've got lots of sales people touching lots of clients all the time and so the value proposition is very strong.
+Our teams are learning how to spot good opportunities with us, whether it's the good strategic fit between our company and the target and then obviously developing a value proposition that helps save money for our shippers and delivers a high degree of automation.
+And I'd just add, I think there's a level of excitement with the former Command reps that this is a new product to offer to their customers so they can leverage existing long-term relationships and bring something new to the table and it's a long-term commitment.
+So it's not a transactional shipment-by-shipment type of business, it's a long-term contractual business.
+I think starting with the fact that we know it's a cyclical market and it ebbs and flows and we want to make sure that when the market rebounds, which we believe will happen in the not too distant future, we're poised to take advantage of that.
+Secondly, we invest today in headcount that takes a period of time to get productive.
+So there's the continuous growth of our people.
+Their productivity improves as they gain tenure.
+So we've got to continue to make that investment to hit next year's growth numbers.
+And it's also just the size of the market.
+We've got a CRM system with millions of customer leads in it.
+We're active with about 40,000 shippers, so there's lots of opportunities to knock on doors and call on new shippers and introduce them to Echo and move their freight for them.
+So I think it's combination, <UNK>.
+It is -- we do have easier comps that start to work in really in Q2, later in the quarter and then kind of stay that way throughout the rest of the year.
+And we do anticipate tightening later in the year due to regulations in ELDs, so we expect a combination of those to get us to that kind of mid-single-digit number.
+I wouldn't say that there's any new players that we're running up against.
+I just think that the pricing in those routing guides is very aggressive and that's how we feel the competition right now.
+So it's more associated with the supply and demand dynamics and how people are pricing.
+Well, we've thought it all along that we're a technology company and from the beginning, we've invested in technology and we continue to do so to this day, and in my prepared remarks I mentioned 3 new applications that we rolled out this quarter that we think put us on the leading edge with customers and carriers, and also bring internal efficiency.
+So we're all about technology.
+We're all about improving our effectiveness and our efficiency and our productivity.
+And there's a lot of talk in the market these days about tech startups but I think we've had a lot of tech for a long time and we've got our own marketplace with 40,000 shippers and 40,000 carriers.
+And so I think we're well positioned with our technology and with our marketplace.
+I think that -- I'll give you a little insight.
+I think that today capacity remains pretty loose, and so everyone's speculating as we have been for probably the last 6 to 12 months on the impact of ELDs.
+I was with 1 customer yesterday and they were telling me that for the past couple of years, one of their primary objectives was to reduce the number of brokers in their routing guide.
+But they said that because of the potential for a capacity crunch coming up within the next 6 to 12 months, they thought that, that strategy was no longer appropriate.
+So it's pretty interesting in terms of companies out there starting to think about the future -- the potential for rate increases and the capacity crunch coming in connection with ELD implementation.
+Now having said that, everyone's kind of working off estimates that I don't think anybody's quite certain of to the magnitude of the impact, but I would say that shippers are asking questions about it, kind of they're certainly very aware that there's a potential for a capacity crunch around the corner, but the precise amount of that and the timing of that is still a bit uncertain.
+So I don't know that I'd ever want to pick a top or a bottom for the margins, and where we're going to be a few quarters out.
+One of the reasons we don't give margin guidance for the next quarter is because it is very challenging to put your finger on that because there are a lot of moving parts and the market really impacts that.
+So trying to go out to Q3 or Q4 would be real challenging.
+You are correct that the comps get a lot easier.
+So I guess I'd say on Q2, it's not unusual to see a little margin compression in truckload but we're only a couple of weeks into the quarter so I wouldn't want to use that as a prediction for which way margins will trend through this quarter or in Q3 or Q4.
+I guess a couple of things that I would add to that, if we add truckload faster than we add LTL, which wasn't the case this quarter, truckload margins are typically lower, so that would put some downward pressure on margins and managed transportation business can come in different forms.
+And as one question referenced earlier, sometimes we will have fee-based revenue in managed trans that is very high margin.
+And other times, because of the very significant automation involved in the managed trans contract, it might have a little bit lower margin.
+So there really are a lot of moving pieces in addition to the market so it's hard to pinpoint that for you for later in the year.
+So you're saying given where the mix was at the end of this last year or where we are today at kind of an 80-20 mix, what does that look like later this year.
+Or at the end of this year.
+Without putting precise numbers on it and not having targets for you because we are trying to grow both as quickly as we can and take advantage of really both that transactional product and the managed trans product.
+Having said all that, when you look at the amount of wins that we've had in managed trans and the success that we've had without additional acquisitions and factoring in how that might impact the mix, managed trans will be a higher percentage at the end of the year.
+All right.
+I want to thank you for joining us today.
+We mentioned that it's a tepid market but we feel like we're well positioned to really exploit an improving market when the market turns and take advantage of a lot of spot freight and our ability to operate efficiently and effectively.
+So we're looking for that later this year hopefully and thanks for joining us.
+We'll talk to you next quarter.

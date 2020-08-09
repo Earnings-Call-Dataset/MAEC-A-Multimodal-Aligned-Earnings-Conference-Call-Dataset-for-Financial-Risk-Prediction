@@ -1,0 +1,281 @@
+Thanks, Latoya.
+Good morning, everyone, and welcome to our first-quarter earnings conference call.
+Joining me today are <UNK> <UNK>, our CEO, and <UNK> <UNK>, our CFO.
+Last night after market close we distributed and filed our Q1 earnings release as well as made available our prepared remarks on our Investor Relations website located at ir.
+tripadvisor.com.
+In the release you will find reconciliations of non-GAAP financial measures to the most comparable GAAP financial measures discussed on this call.
+Also on our IR website you will find supplemental financial information which includes certain non-GAAP financial measures discussed on this call as well as other performance metrics.
+Instead of reading our prepared remarks on this call, <UNK> and <UNK> will provide a couple of thoughts about the quarter and our recent progress and then we will jump right into Q&A.
+Before we begin to like to remind you that this call may contain estimates and other forward-looking statements that represent the Company's view as of today, May 5, 2016.
+TripAdvisor disclaims any obligation to update these statements to reflect future events or circumstances.
+Please refer to our earnings release and our filings with the SEC for more information concerning factors that could cause actual results to differ materially from those expressed or implied by such statements.
+And now, <UNK>, I will turn the call over to you for opening remarks.
+Thank you, <UNK>, and good morning, everyone.
+Thank you for joining the call.
+The first quarter 2016 was pivotal for TripAdvisor, as we continue to rapidly build the best end-to-end user experience in travel.
+First, some comments on our hotel segment.
+We are excited to be mostly complete with our instant booking rollout.
+Phase one was getting hotelier and OTA partner adoption in 2015.
+Phase two was executing the global product launch.
+And we are now in phase three, which is perfecting the booking experience and educating users about their ability to book on TripAdvisor.
+And finally, phase four is all about delighting more users, achieving higher conversion rates, driving direct business and repeat behavior and plugging the monetization leak.
+We are pleased with our continued progress, although we recognize there is still a lot of work ahead of us.
+In our non-hotel segment these businesses are performing well.
+They are aimed at big market opportunities and are tailor-made for mobile devices.
+We are hard at work in improving our products, creating the best end-to-end user experience at all stages of travel planning and trip taking.
+We are focused on doing what is in the best interest of our business for the long-term.
+<UNK>.
+Thank you, <UNK>.
+Our first-quarter results were in line with our internal forecasts.
+And I want to reiterate that our growth outlook and margin commentary for the full year remains intact.
+In our hotel segment we saw significant revenue growth deceleration due to our global instant booking launch with a corresponding impact on EBITDA.
+Both were expected and communicated in February.
+In our non-hotel segment revenue growth was masked this quarter as we shift towards a transactional model in vacation rentals, which results in a substantial portion of bookings made in Q1 being recognized as revenue when the stay happens later in the year.
+This increased seasonality of non-hotel is another driver we communicated in February.
+As we have discussed, 2016 is an important transition year.
+We are executing on a long-term strategy and in the near-term we expect decelerating growth in the first half and improving growth rates in the back half.
+With that we will now open it up for questions.
+Thank you, <UNK>.
+Indeed in the US we have seen, since the launch in the US, improvement that we have been able to make in the monetization of instant booking.
+And the most important lever for us has been to work on the supply both in terms of the number of hotels available in instant booking as well as on the content that we provide for those hotels.
+So we have been working hard on that throughout the year and we saw -- we continue to see improvements in our ability to improve that monetization in the United States.
+In the rest of the world where we have just rolled out in the first quarter, not surprisingly we see that that monetization is less good than it is in the US today and like it was in the US early days.
+So we are seeing that we have a larger gap outside the US between meta and IB than we have in the US.
+And that is to be expected.
+And when you just roll out you have a few teething problems that we are working hard on to improve and expect to improve over the year.
+In terms of some of the underlying repeat metrics, we have seen in the US, because that is where the data is most relevant because we have a longer series here, we see -- month on month and quarter on quarter we see improvements in repeat rates.
+Not just what percentage of bookings is repeated, as you said in your opening, but also the percentage of first-time bookers that come back in any period of time.
+That percentage is improving quarter on quarter, month on month.
+What we also see is that bookers that do come back then tend to convert better.
+We also see that bookers that come back tend to convert better than meta clickers that come back and click again.
+And so, we see a couple of very important trends here that we believe are indications that the thesis is at least starting to work in the US.
+Now as I said before, outside the US it is very early days and we have that path to climb in the rest of the year.
+The largest driver of it is instant booking.
+That is the most significant driver here.
+And if you unpack instant booking impact, the largest driver there is just that monetization difference that I described just before.
+And then there is a secondary impact which is the revenue recognition component of it as well.
+So instant booking as a whole is the most important driver.
+Then sort of the mix between desktop and phone and how we comped last year is a secondary much smaller impact.
+And then lastly there is also a bit of currency, 1% to 2%, of currency as well which negatively impacted.
+But instant booking is by far the largest driver.
+This is <UNK>.
+Thanks, <UNK>, for the question.
+So there is actually quite a few components and it is great to finally have the product rolled out almost everywhere because that is a lot of heavy lifting that takes a bunch of resources.
+But it is now about making sure everyone in all of our markets understand that you can book on TripAdvisor.
+And we started this approach over a year ago on desktop US and we found it has taken a while to get that repeat rate up.
+But we have seen that kind of steadily climb.
+And that is kind of the signs that we are looking for and we are now on day 1 or day 30 for a bunch of our other international markets.
+So, as that grows, and we can kind of count on it growing globally, it is fundamentally taking the audience that is on TripAdvisor, helping them, guiding them where appropriate down the instant book path.
+We see that when they do go down the instant book path they tend to come back more frequently than if they went down a meta path.
+But we are very cognizant that pricing is a critical factor.
+And where the instant book price isn't the best, we have meta available everywhere.
+And as I have said before and for the avoidance of doubt, we expect our meta business to continue to be strong for -- in that kind of forever timeframe.
+We want folks to -- travelers to be able to come to TripAdvisor, find the best price.
+If instant booking has that great price and the great experience that is going to be with that initial booker is going to book.
+And as we have a credit card stored, it is going to be where the repeat booker might well prefer to transact out of ease-of-use, out of the simplicity, out of offering a great price and a past great experience.
+That takes a while.
+In terms of the actual kind of interface of instant booking what we can do on the site and how we can do more promotions to help drive awareness of the fact that you can book on TripAdvisor, I think you see a lot of change on the site on a frequent basis.
+And you see a number of different marketing programs that we have launched on the site in many countries.
+We had a sweepstakes running; we have a Viator attraction coupon running right now -- just lots of different ways to subtly and, frankly not so subtly, remind people/let people know that Trip is a great place to complete your booking.
+Well, actually I am glad you brought up the mobile because that happens to be a piece we are particularly proud of this year.
+There is no question that as our traffic shifts from the traditional desktop platform to the phone we have been facing a monetization headwind, because the phone had just monetized.
+I remind folks that was one of the reasons we launched instant book a while ago because we saw this coming.
+We want to make sure we are the best platform to be able to plan and book your trip.
+And so, as you look at the phone we are in the US certainly fully rolled out with instant booking, we are building that repeat usage, we are vaulting the cards, we are getting more and more repeat booking.
+So our revenue per hotel shopper -- not only is our hotel shopper growing nicely on the phone, but the revenue per hotel shopper had that very nice lift in Q1.
+What really changed.
+Well, it wasn't IB roll out per se because we were already rolled out on the phone.
+It was the better -- some combination of the better experience, better pricing, better content -- all the things that we work on from a supply perspective, better optimization of the user experience, so all the good work that the UI team has been doing.
+And the fact that folks are comfortable booking on the phone on TripAdvisor because they have experienced it in the past.
+So that was a nice 20%-plus lift.
+And as we look forward, and as we start to see that in some other markets, we are excited about closing the gap on phone to desktop as we know phone is a huge percentage of where our business will be.
+Yes, thanks, <UNK>.
+The conversion rates meta versus IB in the US, a quarter ago we said they were comparable.
+There are many puts and takes throughout the quarter also dependent on what happens to meta itself.
+But I think as a broad statement that is true.
+IB conversion rates are in the US also still lower.
+As we say comparable, it means that they are at least closer in approaching compared to outside of the US.
+I will give it to you, <UNK>, for the hotel partners.
+And we are really quite pleased with our hotel partnership.
+I don't detect much concern left frankly in most parts of the world regarding midsize folks or even large folks coming onto instant book.
+That logjam, if you will, was broken last year and we have frankly more hotels interested in popping on IB now than we can kind of get through our system, if you will.
+So, from a supply perspective that is the plan.
+We want to connect with every hotel that is on our side so that it can be instantly bookable.
+We will get there.
+We have more and more chains coming online, we have more and more independents coming online.
+But with our OTA partners that is not a gate to teaching people that they can book on TripAdvisor; it is an optimization of giving our travelers the choice of where they want to book and to leverage the better pricing through the different channels.
+We don't share that number, but the trend is obviously positive as we continue to vault a good portion of the credit cards as we move forward.
+I'd back it up a level and remind folks one of the awesome things about the TripAdvisor business is that we had such reach, such scale, that 130 million -- million shoppers a month, oh my goodness, it is just -- it is phenomenal.
+But a lot of those shoppers were folks that had come in, taken a look and leave and all we would know about them is their IP address.
+And we built a wonderful business over a decade and a half doing that, but with IB -- sort of -- with instant booking, because we are now taking the transaction, all of those folks, if they weren't already members, are now becoming members as part of that process.
+And we get to remarket to them, remind them that we exist, build more of the transaction loyalty.
+So again, that pays dividends for quite some time and obviously is a significant benefit of shifting or augmenting our meta model to be transactional.
+I couldn't possibly answer from the perspective of what goes on inside of their companies and how they are choosing to bid on TripAdvisor, sorry.
+We point to a meta auction in the first quarter and say, it was a very healthy auction.
+We have nice competition across our partner set.
+We in turn launched some additional capabilities to our partners in terms of enabling them to retarget using our platform.
+So it is a great opportunity; a number of partners have started to take advantage of it.
+It is, again, just another piece of -- another sign of commitment that we have that we are showing our partners to the meta auction is building in this type of technology that allows them to bid more effectively and get the type of traffic that they want from our platform.
+So again, I couldn't comment on our partner specifically, but I can tell you that the meta auction is quite healthy right now.
+While there has been some movement on VR side with some of the other companies, I don't see the competitive landscape as having meaningfully changed.
+I have no particular reason to think being part of Expedia, the HomeAway companies will be behaving meaningfully differently.
+They are changing their business model, but I am -- it's a little hard for me to see a meaningful change in our cost of traffic acquisition or our margins there.
+What I would add is what you see is that some of the smaller players are subscale at the moment.
+And the reason why we are making some of these acquisitions because we see great scale benefits in adding some of these smaller players onto our platform.
+So we are one of the sort of big players in the vacation rental space.
+We view it as a great alternative lodging type.
+As you know -- as you well know, it is perfect for a certain type of traveler looking in a certain type of location and we aim to -- and we have been quite successful at fulfilling that need.
+To the question on sort of macro conditions, there was -- what we believe to be a small [admitted] impact from Brussels and the overall macro issues aren't something that is keeping us up at night.
+Thanks, <UNK>, two excellent questions.
+So, I absolutely think attractions is a phenomenal business for us going forward.
+We are so well positioned because of the number of folks currently using the TripAdvisor app in market.
+And then you combine that with the supply that Viator already had before we made the acquisition.
+And then the tremendous efforts that that team -- super kudos to that team for picking up that much more supply on a regular repeatable basis.
+And we are by no means done but we have now aggregated, we think, the best supply footprint around the globe.
+Match that with the best demand footprint around the globe and we think this is an awesome, awesome business to be in.
+It is a pain in the neck to aggregate all of the individual suppliers, many of whom aren't using a lot of technology, with a lot of individual pieces along the way.
+Again, one of the reasons why we entered the space via the supply piece via an acquisition.
+But now that we have it, now that a lot is bookable online instantly, now that we have learned how to match it with the TripAdvisor demand, not only on the phone for instant booking for attractions but now on the desktop for instant booking on attractions.
+And you look at a business with a margin profile that is quite similar to hotels and like, wow, all the ingredients are there.
+And that's not to say that we are the leader in every single market.
+It is not to say that it is straight sailing from here to there; we certainly have competition.
+But it is a natural fit for what travelers currently turn to TripAdvisor for.
+We have a global reach and we have global supply in a nice margin business with some competitors, but it is not like we are coming from behind in any shape or in any sense.
+So, that is my short thesis to the $1 billion business, because it is a market that, as you know, is phenomenally sized by itself.
+To the second question on sort of instant book versus meta and the longer-term mix.
+Obviously we expect instant book share to grow as we continue to roll it out, as we drive more repeat usage.
+But I really don't foresee the time when meta is an afterthought and it is just instant booking.
+I think there will be a large segment of the consumer base that has loyalty to a brand direct or an OTA, or another OTA, one of our other clients.
+And they are very comfortable keeping that booking path, if you will, and TripAdvisor hopefully will facilitate that preference, be it directly with the brand, in instant book for the brand online or any of the OTA partners.
+And we would hope that a number of OTA partners around the globe would wish to participate in our instant book marketplace as Priceline and Getaroom and others have.
+So I don't model out a specific, but I do expect IB to grow and I would never expect meta to disappear.
+Thanks, <UNK>, for the question.
+So restaurants, a large component of our traffic is currently on restaurants.
+We have been investing over the past year in kind of building up the usefulness of the product, both expanding the number of restaurants that we have all around the globe.
+We have a lot of restaurant reviews and info and engagement with restaurant owners around the globe.
+And we really haven't paid all that much attention to it product-wise prior to -- from a monetization wise prior to Fourchette -- to us purchasing La Fourchette.
+So we feel on the restaurant reservations basis, the model that OpenTable has, we have the model enhanced with discounts in other parts of the world and geographically it tends to be shaping up as OpenTable is super strong in their set of markets and TheFork or La Fourchette is super strong in our set of markets.
+And it is hard for one to make an inroad into the other in any direction.
+But that is not the only thing that we or, I presume, OpenTable can do in the restaurant space.
+So we have a lot of traffic, we have a lot of eyeballs, we have a lot of app downloads, we have a lot of users engaging in learning about restaurants.
+We look at it as not only how can we help users find the best restaurant, how can we help users come back to TripAdvisor more and more often, leveraging the fact that they may only -- or noting the fact that they may only travel a few times a year, but they are actually eating out several times a month.
+And how can we leverage that -- sort of that restaurant use case to drive overall adoption and engagement of our app.
+And those plans have been in place and that is in part why we continue to invest in that category -- not just the reservations piece but the whole restaurants as part of the TripAdvisor solution.
+Sure, two good questions.
+Thanks.
+So, on the marketing side, we do believe that we can make significant inroads in any particular market by focusing on the audience that is already in travel research and purchase mode.
+And we have 100 million plus of those already on our site in any given month.
+So, that is a lot of traffic and we really want to hone that message.
+So I wouldn't put -- or at least we don't think of our on-site promotions as kind of small or kind of not being able to move the needle for us in terms of awareness.
+US is where we are sort of choosing to focus now because the product is the most mature, the pricing is the best and we have had longer to tune the user experience.
+So, I would say steady as she goes from a marketing perspective on teaching folks to do -- to trial instant book as we improve their ability to come back and use instant book again.
+In terms of price, we don't -- as you know, we don't take the booking ourselves from a charging the credit card perspective.
+We are taking all this information and we are sending it along to our instant book partner, be it the independent hotel, the brand or the OTA.
+So, we don't have the ability, or we choose not to create the ability to offer a price discount ourselves.
+We have no interest in having our OTA -- we are looking to offer the best price that is out there on the Web via the TripAdvisor instant book strategy.
+So no matter who the OTA is, no matter who the individual hotelier is, come put your pricing in our instant book environment and therefore we will be able to offer it as the best.
+And if we don't have the best, well, our meta offering, if you are a meta partner, can also show an even better price than IB, and you do see that on the site sometimes.
+Pricing, as any OTA will tell you, is a long tail game.
+There is no one magic bullet.
+No one site out there has the absolute best pricing anywhere.
+But that is the Holy Grail that everyone looks for and we are no exception to that.
+We think our model is extremely well-suited to being able to offer consumers the best pricing, period, full stop, via meta and great pricing in almost all cases using our instant book initiative where we have stored the credit card so we are building you the convenience to come back because you will always find the best price.
+But that takes a while and we wouldn't be trying to do that by offering sort of price discounts on our end because we are not the merchant of record.
+Sure, <UNK>.
+So, Google has been doing a lot over the years, quite a few years now in the travel space.
+What can I say.
+They continue to try to get into the travel space.
+They have a phenomenal ability with their search engine to direct traffic to their own products, even when their consumers demonstrably do not like that.
+To this particular product, the new mobile offering, I'd say way too early for anyone to have a meaningful opinion on it.
+It is not really kind of likely, in my opinion, to have a big impact on the transaction components of a site.
+It is way up in the discovery set.
+But time will tell whether they continue to invest in that.
+On the RevPAR, we tend as a business not to track our financials on RevPAR.
+We look at how -- we look at our top of funnel metrics, how many people can we get in the store and how quickly can we convert them as fundamentally RevPAR isn't something that we have any control over.
+Hey, <UNK>, this is <UNK>.
+As you know, we are not giving explicit guidance for the full year, nor for the second quarter.
+However, we did three months ago and we are reiterating that.
+Describe the pattern of the year, and what we described is in the first half of the year we expect revenue deceleration and you have seen that in Q1.
+And in the back half of the year we see revenue growth rates expand again.
+And that is as much as we want to comment on the profile for the year.
+In terms of HouseTrip, we have not disclosed a purchase price for HouseTrip, which in itself indicates that it wasn't very material.
+And the impact it will make will be helpful for our vacation rental business but not significantly material for their overall financial results for the year.
+Certainly.
+Yes, we do see a meaningful difference in IB adoption on desktop versus phone.
+Not surprisingly instant book is used a lot more and represents a higher percentage of our phone revenue.
+Our credit card vault rate, as we call it, how many store their credit card after the transaction is much higher on the phone; credit card usage -- vaulted credit card usage rate is higher on the phone.
+Again, all kind of after-the-fact evidence that having instant book on the phone, as people move more and more their transactions to the phone, is a good thing to have -- we believe a requirement to have to be a credible offering in the future.
+So, yes, we see a difference and, yes, it is kind of as expected.
+The second question, is loyalty programs a threat.
+Yes, every program that tries to drive a consumer to go straight to a booking site that is not TripAdvisor is taking customers that we would like to service and make them loyal somewhere else.
+We note they have been around for a long time, some of the biggest players don't have them and seem to be doing great.
+So obviously I have no inside knowledge, but I would assume those programs would continue to grow in terms of visibility.
+And everyone has some set of reasons why a secret deal here or there as to why one might want to go back to the site.
+TripAdvisor has our set of reasons why you want to come to TripAdvisor, namely the incredible content, the candid photos, the room tips, the being able to compare all the prices, because nobody want a secret deal on a particular site if in fact that is not better than what you can find elsewhere.
+And of course through instant book or through meta we can allow our clients to offer their special deals or their special offers to our audience as well should they choose.
+We don't think the dynamics around consumer loyalty have changed all that much over the past set of years.
+So while it is on the horizon it is not something that I think will materially change behavior over the next several years.
+So, I am not entirely sure the question -- I can tell you what you do and then -- I will tell you what we do and then I will ask you for a follow up if it is not clear.
+So we currently, for our online marketing campaigns, leverage retargeting as we buy TripAdvisor traffic that left TripAdvisor and is on other third-party sites and we buy them back with banner ads and search retargeting.
+From a what we offer our clients -- if a visitor is on a site, for instance, Expedia, and then are visiting TripAdvisor, we allow the client to bid differently in the meta auction in order to determine -- in order to reflect the fact that that visitor may be worth more or less than the average visitor they get from TripAdvisor.
+And that is rolled out in more and more partners are adopting that just as a way to optimize their bidding strategy exactly in the same way that TripAdvisor looks to optimize our bidding strategy when we acquire traffic to our site.
+So much the same sort of on a conceptual basis for how that is done.
+Did that --.
+Go ahead.
+The third-party ad tech platforms that we use to acquire traffic to TripAdvisor.
+No, I mean I don't -- the platform that we have developed is for our clients to use re-buying or remarketing to the traffic that was on their site and is now on TripAdvisor.
+Criteo or anyone else, they can't do that, they can't offer that, that is something that we had to offer ourselves.
+And then since we buy traffic elsewhere on the Web we are not trying to get into the business that Criteo is in by way of a broad ad tech platform.
+We have a huge audience; we will offer to our CPM clients the ability to buy -- to spend on TripAdvisor and buy a banner ad for Hilton, for instance, that is placed on TripAdvisor and is also placed on a third-party site to a visitor that was on TripAdvisor.
+So we do offer that.
+It is a growing part of our business, it's a nice part of our business.
+It doesn't really affect our reliance on other ad tech platforms one way or the other.
+I am not sure I quite followed on the partnership piece.
+When we kind of add content to room descriptions, room tips, we're doing that ourselves.
+If the content you are referring to is more pricing and more availability of rooms, well that is our supply footprint for hotels or attractions or restaurants.
+And we have our teams going out and getting more and more supply.
+With that supply comes just more choice in rooms and tours and attractions.
+So with our partners -- well, you can ask a follow-up if I am missing the point on that one.
+We don't really comment on partner contracts with respect to things like the booking.com contract.
+You have seen more and more suppliers be added to our instant book offering over time and we continue to add partners every single quarter.
+So we have a lot of flexibility to deliver the product that we want to our customers.
+Was there something in the partner contracts I missed.
+The phases are meant kind of as guideposts.
+We're certainly already doing a little bit of phase four right now because we are trying to get people to do more and more repeat bookings.
+That is great, we have been improving the experience, educating folks, which is phase three, we were starting that in phase two.
+So, they are fuzzy, but we articulated them because, hey, everyone had seen IB in the US.
+But we wanted to remind everyone the clock is just now starting to run on the rest of the major countries throughout the world.
+That is great.
+And this phase coming forward, is it less about intro, less about roll out and now about honing that user experience and driving the behavior that we want.
+Certainly if you want to combine three and four the phase lasts forever.
+If you want to split them out, phase three will be a while.
+Yes, thanks for asking that question.
+We made a comment in the prepared remarks about our vacation rental business.
+What we outlined is, and this is happening both in instant booking and in vacation rental, is as we move our business models -- and we have talked about instant booking.
+But if we look at vacation rentals, we are moving our business model and vacation rental, we have progressively over the last year.
+So if you look at Q1 2015, we had a small portion of the revenues recognized on stay and other elements of revenue but recognized on book or on subscription.
+And as we migrated over the year, now we are in Q1 2016, we see the substantial portion of our revenues is recognized on stay.
+So that has a significant impact particularly on the seasonality of our business.
+Q1 is a quarter in vacation rentals in which are lots of bookings for later in the year for Q2, but specifically for the summer in Q3.
+And so, what you see if you compare the year-on-year growth rates is what you see is that the total of 14% year-on-year growth for non-hotel, which is not just vacation rentals obviously, is suppressed by that impact.
+And as we look at -- out for the full year, we believe the growth rate for non-hotel will be significantly north of that 14% for the whole year, because of that seasonal -- additional seasonality that has been built in with this change of business model.
+I will take the first question.
+We have not broken out the relative impact of IB in other.
+However, if you look at businesses where we have been booking at stay or at consumption for a longer time like attractions for instance, attraction doesn't have a big impact on that growth rate impact.
+But it is really localized to instant booking and vacation rentals.
+But we don't want to give any further breakdown beyond that.
+And this is <UNK>.
+With respect to pricing initiatives that some of the big hotel chains have put on with kind of special rates, we can absolutely see a case in point or an example set where those brands choose to push their special pricing onto the TripAdvisor meta or -- and/or IB platforms, such that they want the exposure of some great rates.
+And our perspective is if it is a rate that is available to travelers then we are happy to show it.
+So, our model sort of encourages travelers to find the absolute -- well, I mean if you wind it all the way back, folks are coming to TripAdvisor because they love the site.
+It offers that great user experience, the full trip.
+They have more content, more choice, pricing is a key component of that.
+They find the things -- the place they want to stay and the things that they want to do; they make the bookings on TripAdvisor if the price is great.
+And brands play into that if they are giving us their best pricing, they find what they want to do, they book those pieces on TripAdvisor to have the great trip, to share the experience back on TripAdvisor to therefore become more engaged with our site and, again, more likely to share their experience with their friends about how TripAdvisor helped them and start their very next bit of travel planning with us.
+Having the price from the brands is -- or the best price from all components is one of the many things that we need to do right in order to earn that virtuous cycle.
+Great.
+Well thanks, everyone, for joining the call.
+The first quarter 2016 was pivotal for TripAdvisor.
+We still have a lot of work ahead of us, but we are making great strides towards our goal of building that best user experience in travel.
+I want to thank our employees around the globe for their continued hard work and we look forward to updating you on our progress next quarter.
+Thanks again.

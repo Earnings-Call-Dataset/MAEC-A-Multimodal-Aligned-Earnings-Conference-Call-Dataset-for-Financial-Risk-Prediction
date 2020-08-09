@@ -1,0 +1,148 @@
+Okay.
+Thank you, <UNK>.
+I'd like to start off with some key takeaways for today.
+And then I'll hand it over to <UNK> to discuss the financial details.
+First, bookings and outlook remained strong for 2018.
+We performed well in our seasonal first quarter and expect continued success as we benefit from ramping data center markets, an improving aerospace defense environment led by another strong year in satellite, a continuing contribution from our industrial end markets and a constructive outlook for the late year return in the bottomed out communications market.
+Second takeaway.
+We are focused on execution.
+With favorable tailwinds in 2018, we are diligently executing our plan, growing market share, driving organic growth and delivering industry-leading profitability.
+Our third takeaway.
+We are making excellent progress towards our operating margin target.
+We came in ahead of plan in OpEx savings.
+We're on a clear path to exceed our long-term operating margin target of 35%.
+In Q1, operating margins reached 32.2%, up 170 basis points from Q1 a year ago.
+As results of revenue growth and improved operating efficiencies, revenue growth and improved margins on those revenues will drive increasing free cash flow generation, which we plan to use for acquisitions, delevering and share buybacks.
+Lastly, this is our Q1 earnings call for fiscal 2018 and will be our sole topic of discussion.
+With that, I'm going to turn the floor to <UNK> to discuss the financial results.
+<UNK>.
+Thank you, Jim.
+In the first quarter of 2018, we reported net sales of $468.7 million, up 7.6% from the $435.5 million we reported in the first quarter of 2017.
+Our recent Vectron acquisition contributed approximately $8.5 million in net sales to the quarter.
+Excluding Vectron, year-over-year net sales increased 5.6%.
+For the first quarter of 2018, we reported GAAP gross margins of 61.6% and non-GAAP gross margins of 63.2%.
+GAAP gross margin is inclusive of the effect of inventory charges related to the closure of a nonstrategic operation and noncash purchase accounting charges from our acquisition.
+Next quarter, we expect our non-GAAP gross margins to be between 61.6% and 62.8%, reflecting a full quarter of lower margin Vectron contribution at the outset and a lower core Microsemi mix.
+Our forecast reflects strengthening broadband gateway and semi cap revenues, which are our lower margin products, coupled with a seasonally lighter pattern for our data center products, which are our higher gross margins products.
+We expect gross margin improvement in subsequent quarters, driven primarily by stronger data center and aerospace and defense mix.
+Margin improvement and earnings accretion over the next year from the Vectron acquisition will be more back-end loaded as it involves the consolidation of an overseas fabrication facility.
+GAAP operating margin for the first quarter of 2018 was 12.7%.
+Included in GAAP operating results were amortization of intangible assets of $50.3 million and stock-based compensation of $25.6 million.
+We forecast stock comp to be approximately $26.3 million next quarter.
+Related to income tax, on December 22, the Tax Cuts and Job Act legislation was enacted into law.
+This new tax legislation contains several changes that will impact the company, including the permanent reduction of the U.S. federal corporate tax from 35% to 21%, effective January 1, 2018, as well as a onetime U.S. transition tax on earnings of certain foreign subsidiaries that were previously tax deferred.
+After evaluating the impact of the tax law -- tax legislation on our overall GAAP and non-GAAP effective tax rates, we do not expect our non-GAAP rate of 7.5% to adversely change in fiscal 2018.
+The tax legislation also includes changes that will not be effective for Microsemi until our fiscal year 2019, including new taxes on certain foreign-sourced earnings at a combined effective rate of 10.5%.
+In fiscal year 2019, we expect our non-GAAP rate to increase in the range of 200 to 300 basis points.
+In fiscal year 2018, we expect our cash taxes paid to be in the range of between $10 million and $14 million, inclusive of the aforementioned transition tax and higher projected income.
+GAAP net income for the first quarter of 2018 was $47.9 million or $0.40 per diluted share, up $0.23 from $0.17 in the first quarter of 2017.
+Non-GAAP selling, general and administrative expense was $56.5 million or 12.1% of sales compared to $61.4 million or 14.1% for the first quarter of 2017, and $58.9 million or 12.4% of sales for the fourth quarter of 2017.
+We expect, in the second quarter of 2018, that SG&A will increase by $1.3 million to $2.3 million due to a full quarter of expense from Vectron.
+Non-GAAP research and development expense was $89 million or 19% of sales compared to $82.3 million or 18.9% for the first quarter of 2017, and $87.3 million or 18.4% of sales for the fourth quarter of 2017.
+We expect R&D expense for the second quarter to increase from $3.5 million to $7.5 million, primarily due to a full quarter of expense from Vectron and key product [takeouts].
+Non-GAAP operating income and operating margin for the first quarter of 2018 were $150.8 million and 32.2%, respectively.
+This is inclusive of a partial quarter of expense related to Vectron.
+This compares to operating income margin of $132.7 million or 30.5% for the first quarter of 2017, and $160 million or 33.7% for the fourth quarter of 2017.
+Our non-GAAP operating margin has improved 170 basis points in our year-over-year first quarter results.
+For the first quarter of 2018, we recorded $20.9 million in non-GAAP interest and other expense and expect non-GAAP interest and other expense in the second quarter of approximately $22 million due to acquisition-related borrowing and a 25 basis point increase in LIBOR, whose effect was partially offset by the Term Loan B repricing we completed in the first quarter that reduced TLB interest by 25 basis points.
+Non-GAAP net income for the first quarter of 2018 was $120.1 million or $1.01 per diluted share.
+Our diluted share count for the first quarter of 2018 was 118.9 million, and we expect share count of 119.6 million for the second quarter of 2018.
+For the first quarter of 2018, depreciation expense was $13.8 million, and amortization expense was $15.2 million.
+We expect amortization expense to decrease approximately $8 million in the second quarter of 2018.
+As you may recall in the first quarter of 2018, we recorded $7 million in incremental amortization expense due to the write-off of an in-process research and development intangible related to the PMC acquisition.
+EBITDA for the first quarter of 2018 was $163.5 million or 34.9% of revenue.
+EBITDA increased $20.2 million or 14.1% from the $143 million reported in the first quarter of 2017.
+At the end of the first quarter of 2018, accounts receivable were $276 million, with a DSO of 49 days.
+Inventories were $270.7 million and a days of inventory of 123 days.
+Cash used for capital spending was $9.9 million in the first quarter of 2018 compared to $10.6 million in the prior year first quarter and $17.6 million in the fourth quarter of 2017.
+Next quarter, we expect CapEx to be approximately $20 million.
+We are forecasting our fiscal year 2018 capital spending to be $85 million.
+We generated operating cash flow for the first quarter of $65.3 million.
+Free cash flow was $55.4 million.
+These amounts reflect payments for acquisition-related restructuring and severance costs of approximately $7.6 million.
+We ended the first quarter with a debt balance of $1.94 billion at a blended interest rate of 4.0%.
+We increased debt by $130 million for the purchase of Vectron, which was offset by a subsequent debt repayment of $20.2 million during the first quarter.
+At quarter end, our net leverage was 2.7:1.
+This week, we further reduced our debt balance by an incremental $20 million.
+Our best estimate of the end market percentage breakout of net sales for the first quarter was approximately: aerospace and defense, 27%; communications, 35%; data center, 22%; and industrial, 16%.
+Now for our business outlook.
+Microsemi currently expects net sales in the second quarter of fiscal year 2018 of between $477 million and $502 million and expects non-GAAP diluted earnings per share of between $0.93 and $1.07.
+With that, I will turn the call over to <UNK>.
+Yes.
+Certainly, we're not going to break out exactly what costs we're going to be taking out.
+But it is delayed, or I should say it is a few quarters from now.
+And so it will kind of weigh on the gross margins as we move forward, as we described in our prepared remarks.
+Okay.
+I'm going to start with the last one first.
+As far -- concerning the Broadcom FTC investigation.
+We -- I'm not going to comment on an ongoing investigation other than the fact that it's quite obvious that if some companies can't compete on features and performance, they will rely on other tactics.
+And I, for one, welcome the FTC investigation.
+Second, satellite, then I'll turn the other one over to you, the geopolitical, to you <UNK>.
+Satellite really is a driver.
+It's extremely strong.
+We have a stronger backlog that we've ever had.
+Started back in September quarter and continues to gain momentum.
+And just as a reminder, it's one of our highest-margin products and longer lead time products.
+So it helps give us extreme confidence in our backlog.
+<UNK>, you want to go geopolitical.
+Sure.
+And as it relates to space, I'm assuming that's what, <UNK>, you were referring to.
+It's -- I think last quarter, we said 3 of the previous 4 quarters were positive book-to-bills.
+This is atypical for space.
+Usually, it's all booked in 1 quarter.
+It's now 4 of 5 quarters where we have positive book-to-bill.
+And one quarter that was not was really just right at 1 to 1 or just under.
+So we're definitely seeing, I'll say, increased activity in space, and a lot of this is more government-driven.
+It is viewed as a frontier, one, for offensive means, but certainly defensive means.
+And there are some definitely some well-known exploits that can happen with respect to GPS.
+A few other things, and there's a lot of activity that's happening to go mitigate and defend against some of those threats.
+So certainly, North Korea is certainly adding fuel to that fire, if you will.
+And so I think we're going to see a nice positive trend in space in particular for the next couple of years.
+Thank you, <UNK>.
+Yes.
+It's pretty easy to explain.
+If you think about it, so early adopters are mainly high-performance computing focused.
+And so if you look at those compute notes, there's a nice little uptake that's happening there.
+On the storage side, which is where we would typically benefit, I think that the cost benefit, maybe that analysis has been delayed a little bit given some of the other distraction and activities that we've had.
+But don't anticipate that that's going to last too long.
+And so it's definitely going to happen, and we anticipate it happening in the second half.
+Yes, certainly.
+Across the whole balance sheet, we have the additive impact of the Vectron being added in.
+That would include receivables, inventory, et cetera.
+In terms of their turns, we do believe we will be able to aggressively address that and get their turns down over time.
+You'll notice, though, as the combined days of inventory, we actually improved from last quarter, I believe it was 7 days.
+Thank you, <UNK>.
+Yes.
+That's a good question.
+So we're definitely seeing the broadband gateway business pick up considerably.
+We're seeing other parts.
+There's good activity going on.
+And last quarter, we talked about the RFP process happening in China more from an infrastructure standpoint, which will be some of that high-margin business pickup for us.
+That activity is moving along nicely.
+And It's going to pan out here in the second half of the year.
+Hey, Charlie, the word <UNK> told me is that the outlook is dramatically improving.
+Just to give you a little <UNK> <UNK> color.
+Okay.
+Let me just jump in the front.
+Vectron, if you dial in another about $20 million, you won't be far off.
+Defense, we're seeing strengthening in defense.
+And the 10% hike is still yet to come.
+Our early mention, we mentioned it last quarter, was the strength of foreign military sales.
+That's pretty much an accelerator.
+And the real reminder to everybody is our content growth in the defense space.
+Even during the mighty sequestration, we invested heavily in FPGAs and clocks and ICs across-the-board and worked with the end customers.
+And we historically had mid-single-digit growth with defense.
+But as this hike starts to come to play and the foreign military sales increase, I see it more towards the high end of our 6% to 8% growth, maybe even a little stronger.
+Yes.
+So if we look at timing, there's definitely -- if I watch [what] some of the newer devices that are planned for -- that enable those high-speed applications, we're actually supply-constrained on those.
+If you look at the whole business, we were seeing -- of silicone timing in particular, we're seeing a nice little uptick in clock management.
+If I look at kind of the backhaul, mid-haul sector, if I try to narrow down the network on that, there's a lot of activity.
+But we're seeing some schedules being put in place, but it hasn't quite translated or it's not going to quite translate in the March quarter.
+But we're definitely seeing it tee up for the second half.
+Yes, certainly, <UNK>.
+What our goal -- and we talked about it in the prepared remarks is we're on our path to the 35% operating income.
+So by definition, as a percentage of revenue, you're going to be seeing OpEx come down.
+That may include certain quarters where it nominally will increase in order to support the business, but we're driving to the 35%.
+Yes.
+Just to [be sure].
+Thanks for joining and have a great day.

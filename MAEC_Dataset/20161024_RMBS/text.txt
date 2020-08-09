@@ -1,0 +1,60 @@
+Well, unfortunately, I can't give you any specifics on anything.
+Obviously, we're talking to many companies out there about our broad licensing program.
+One of the reasons we were excited about Xilinx is it expanded into the FPGAs where we only had done small license with small players.
+So, I think that bodes well for us finding extended partnerships.
+With respect to Tsinghua University, I'm really excited about our resistive RAM program.
+We continue -- we've expanded our sales team in Greater China with some industry -- strong industry players.
+We have this -- a broad partnership that we're working on.
+It remains in the same position where we are doing test chips together.
+We're proving out the feasibility of it in embedded applications.
+We don't think that this class of storage-class memory or in fact any class of storage-class memory is ready for primetime in terms of big chips for replacement of flash type applications.
+But we think that we're on a good track to doing that.
+I see the segments that are first maybe to be adopted would be things like smart cards where you don't need high temperature capabilities.
+That's a next step in it, and you have relatively small arrays.
+And we are just going to continue to work on that and try to expand the collaboration and ultimately license the technology and get more people to use it in real world applications.
+We are very happy with the lighting business.
+Clearly, we've described it as somewhat of adjacent business because it's not aligned with the rest of the Company.
+We think it's a very interesting business.
+We have close relationships with a variety of customers.
+The design time and cycles in lighting is slow relative to the classical semiconductor and software businesses so it takes time to evolve it.
+We have new customer interest in Asia and Europe and the team is executing well.
+Having said that, it doesn't align precisely with the Company.
+The team knows that, and they know that there is opportunities to create shareholder value that will step up and do that.
+So, it's a great business but things can happen.
+And in the interim, <UNK>, the business is operating well.
+The revenue from that business has grown.
+We had a bit of a step-down in Q3.
+I expect it to bounce back in Q4.
+The business is either cash flow neutral or generating cash for us and continues to perform very well.
+I'm proud of the people we have in that group.
+Sure.
+We don't break out the dollars.
+At least, I don't think we have in a very long time.
+The DPA countermeasures, the broadest place where it's deployed is in smartcard technology, specifically for banking and SIM cards where I think on the order of 7 billion chips a year shipped with our technology and licensing.
+Of course, the royalty rate per device is very small, so the amount of money that we get is relatively small because if the SIM card is $2, you can't charge $1 for this class of technology.
+With respect to other areas besides the smartcard and financial institutions or Fintech, there is strong interest in a few different areas.
+One is in all sorts of defense contracting applications where we have an increasing number of customers interested in that area.
+There is a lot of interest interestingly in networking equipment where some of the specifics in networking, there is a lot of counterfeiting.
+We mentioned in printers, the cores that we use for anti-counterfeiting solutions in printers have strong DPA capabilities in them.
+There is interest in mobile.
+I think we are going to find more interest in mobile devices as things like postcard emulation are there.
+Some of the things already in mobile devices like secure elements with NFC, those people are our licensees.
+We have many licensees in that space already.
+So it's a very broad applicability.
+Having said that, in terms of the things that you hear about a lot of cyber security, this is obviously very, very different.
+Those are very big issues at data center level and software exposures.
+This is more of an embedded security capability, so inherently a smaller revenue opportunity.
+I don't have the numbers right off my head, but there is already printer revenue today and last year.
+What we have done is win new customers and continue to engage more partners in this, so we see it growing fairly substantially over the next couple of years.
+It's a very broad question, <UNK>, but let me take a shot at it.
+So there is a lot of complexity in our technology, which is what makes it rather unique and sticky once it's designed in, but it takes time for customers to understand it, understand how it works, understand how our solution is there, and for us to prove the total cost of ownership.
+So there is a latency in designing them in.
+I think the reason we are seeing more interest in security is that security is really important and there is more exposures and more hackings as we go every single day.
+So from our standpoint, what we are really doing though is in the security division is moving from what was just an embedded security solution to solutions that even touch end consumers and have security as requirement in trying to do that connection from chip to cloud to crowd.
+So we have really good demand in all elements of that business, whether it be the historic embedded security piece including the architecture and patent licensings for like DPA, the cores, the security cores, the semi conductor IP cores for it, the software that we sell whether it's in ticketing or in mobile payments.
+So it's really across the board and really nice increasing backlog.
+And I think having more security breaches unfortunately will make our solutions even more interesting.
+Thank you.
+As you can see, we are well aligned with the needs of the industry and have the right programs in place to capitalize on the trends driving technology choices.
+Thank you for your continued interest and time.
+Have a very nice day.

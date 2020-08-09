@@ -1,0 +1,18 @@
+About half.
+No, <UNK>, it's actually not a concern of mine.
+We're not looking to raise debt at this moment in time.
+We've got $2 billion in cash and liquidity in other ways, and we've been repurchasing a lot of stock, at the same time.
+So if we need to go approach the capital markets in the future, we'll address that based on the facts and circumstances that are present then.
+<UNK>, let me take that at a high level.
+Yes, we're doing a lot of things with Microsoft.
+I'm sure that if you go back and you look at some of the materials and announcements we've made, whether it's at Summit or Synergy a year ago, you'll see that everything from Windows Server updates to Windows endpoint migrations, always an important part of our strategy around workspace services.
+We had <UNK> Anderson on stage with us at Summit just a couple of weeks ago talking about all the great things we're doing together.
+And so yes, a lot of opportunity, definitely a driver in the business.
+And just allows us to collaborate that much tighter.
+In terms of Azure as a stand-alone, yes, lots of things we're doing both with Azure, AWS and other major cloud providers, whether that's migrating workloads to the infrastructure, whether that's running control planes in the infrastructure, whether that's providing, frankly, infrastructure to the data centers, and we've got a multifaceted relationship there.
+Kyle, are there any more questions.
+Okay.
+I just want to thank everyone again for joining us today.
+Really excited to have <UNK> on board, part of the team.
+Looking forward to 2016, and we'll talk to everyone again at the middle of April.
+Thank you very much.

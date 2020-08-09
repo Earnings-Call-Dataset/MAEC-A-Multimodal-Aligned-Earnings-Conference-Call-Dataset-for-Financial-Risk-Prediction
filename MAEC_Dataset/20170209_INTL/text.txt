@@ -1,0 +1,158 @@
+Thanks, <UNK>, and good morning everyone from a snowy New York.
+Welcome to our fiscal 2017 first quarter earnings call.
+During the quarter, we saw President Trump getting elected in a political black swan event, which has had fairly dramatic, and at least for now, overall positive impact on the markets.
+It is now clear that we're dealing with a different type of administration that is likely to have an impact our market environment.
+I would expect this to be generally positive for our business, with more volatility in the financial markets, and perhaps a greater probability of interest rate increases, as well as some easing of the regulated burden on the financial industry generally.
+The market seems to concur with this view and has rerated financial stocks since the election result, our share price included.
+This is a marked change in financial sentiment, which has largely been negative to the sector overall, since the financial crisis eight years ago.
+While there was generally increased market volatility for the reasons just mentioned, the Q1 market environment has been somewhat mixed for us, with moribund grain markets, and on the other side of the spectrum, extreme volatility in the metals market, which led to some customer stress.
+Overall, the Q1 was a disappointing result.
+We recorded an EPS of $0.34 a share versus $0.46 last time, a decline of 26%.
+On a sequential basis, we're down 62% versus the Q4 EPS of $0.90, albeit that quarter included a $6.2 million after-tax gain on the Sterne acquisition.
+These results were impacted by a provision for bad debts of $2.5 million, due to the extreme market volatility of the LME metals markets, and a negative mark to market adjustment on our interest rate enhancement program of $5.6 million, due to interest rate increases.
+These items accounted for approximately $0.29 of EPS.
+In terms of our recent acquisition, we realized a net loss from the recent Sterne Agee acquisition of around $600,000 for the quarter, including related overhead costs assumed, slightly worse than Q4, but still less than originally anticipated.
+We are very pleased with the integration of this new capability and believe we remain ahead of schedule and ahead of projections made at the time of the acquisition.
+Q1 results also included the ICAP energy voice-brokerage business for the first time.
+An incremental bottom line of $500,000 offset the loss from the Sterne Agee business.
+The net result for the energy voice-brokering business was after expensing $900,000 related to compensation commitments, which were part of the acquisition cost, and will continue for the first two years, as well as additional $300,000 resulting from the amortization of intangibles, also related to this acquisition.
+We're very pleased with the energy voice business, which has transitioned well from ICAP.
+Some highlights for the quarter, and obviously, <UNK> will get into more detail: We achieved record operating revenues of $185 million for the quarter, up 23% from a year ago.
+This was largely due to the addition of the Sterne Agee business, although it should be noted that these incremental revenues did not produce a positive bottom line at this stage for us, but we believe will do so in due course.
+On a transactional volume basis, the outliers were global payments, up 53% year-on-year, debt trading up 49% year-on-year, and the FX prime brokerage up 36%.
+On the other hand, assets under management declined 21%, due to the devaluation of the peso.
+Four out of five of our business segments had positive revenue growth and positive growth in segment income.
+Securities revenues were down 23%, and the segment income for that segment was down 41%, due largely to a decline in revenues from Argentina, which benefitted in the prior period due to gains resulting from the significant devaluation of the peso a year ago.
+Global payment segment income resumed its strong growth and was up 32%, off a 53% growth in transactional volume, as we continue to gain more traction with our bank partners.
+The physical commodities business realized a 200% increase in segment income, with good ongoing performance from the precious metals business and a significant increase from the agriculture and energy business.
+This after a significant restructure of that activity over the last 18 months.
+Procuring and execution services segment income was up 63%, due largely to improved results from exchange traded futures and options business, as well as the addition of the Sterne Agee [tiering] and independent wealth management business, as well as the ICAP energy voice-execution business.
+This was offset by a decline in performance from our FX prime brokerage business.
+And again, just to remind everyone, segment income does not include overhead costs, and if we include these overhead costs, the Sterne entities were -- if we do not include the overhead costs, the Sterne entities were accretive to segment income, but obviously, as mentioned before, not to the bottom line.
+As mentioned earlier, we experienced dramatically enhanced volatility and sustained price movements in the LME metals, post the presidential election.
+The cumulative scale of the price moves had not been seen for decades.
+This resulted in both dramatically increased revenues for us, but also elevated liquidity stress for our customers, some of whom were unable to perform.
+This resulted in a bad debt provision of $2.5 million for the quarter.
+So, while volatility such as this drives our revenue, we need to be careful in times of extreme volatility, as this can manifest itself in liquidity stress and counterparty issues.
+I will no hand you over to <UNK> for a discussion of the financial results.
+<UNK>.
+Thank you, Sean.
+I'm referring to slides and the information we've made available as part of the webcast, specifically starting with slide number 3, which represents a bridge between operating revenues for the first quarter of last year to the current fiscal first quarter.
+As noted on the slide, first quarter operating revenues were $185.5 million, which is a $34.2 million increase over the prior year.
+Looking at the performance of our operating segments, the most notable change was a $33.8 million, or 113% increase, in our clearing and execution services segment.
+This is primarily related to the acquisition of the Sterne Agee correspondent securities clearing and independent wealth management businesses, as well as the ICAP business, which Sean touched on, which collectively added incremental operating revenues of $30.2 million in the current quarter.
+The second-largest increase in operating revenues was in our global payments segment, which added $4.8 million on 53% volume growth.
+In addition, physical commodities operating revenues added $3.9 million over the prior year, as the precious metals business increased $900,000, and the physical ag and energy business added $3 million over the prior year.
+Commercial hedging added $2.1 million in operating revenues, as increased exchange trading revenues, primarily on the LME, more than offset declines in OTC revenues, which resulted from lower energy and renewable fuels volumes, as compared with the prior year.
+These gains were offset by a $11.4 million decline in our securities segment.
+While our equity market making and domestic debt trading businesses grew operating revenues over the prior year, these gains were offset by an $11.3 million decline in operating revenues in our Argentine debt trading and asset management businesses.
+The prior-year period included a strong performance in Argentina, primarily due to the devaluation of the Argentine peso.
+Moving on to slide number 4, which represents the bridge from first quarter pre-tax income in 2016 to the current period, overall pre-tax income declined 31% to $8.4 million in the first quarter of 2017.
+The CES segment increased segment income by $2.2 million, to $5.7 million for the first quarter of 2017.
+While CES achieved significant growth in operating revenue, a significant portion of these revenues are paid out to independent representatives in the independent wealth management business.
+These payments, which are recorded as introducing broker commissions, represented the majority of the $16.6 million increase in IB commissions in this segment, as compared to the prior year.
+In addition, as Sean mentioned, as part of the acquisition of the ICAP voice-brokerage business in the first quarter, we recorded a $900,000 charge to compensation and benefits, per the terms of the acquisition, which will continue to be expensed through the end of fiscal 2018.
+Global payments included increased segment income $3.2 million to $13.2 million, while physical commodities and commercial hedging increased segment income $2 million and $400,000 respectively.
+These gains were primarily driven by the increases in operating revenues.
+However, the commercial hedging results were dampened by an $800,000 increase in bad debt expenses versus the prior year, as a result of the $2.5 million bad debt in the LME business in the current-year period.
+The prior-year period reflected a $1.7 million bad debt in our energy business.
+As shown in the table in our press release, corporate unallocated overhead reflects a $5.6 million unrealized loss on our investments in our interest rate management program.
+However, this is lower than the $6.7 million unrealized loss in the prior year.
+This $1.1 million positive variance was offset by a $3.6 million increase in overhead costs acquired with the Sterne Agee businesses, leading to an overall $2.5 million negative variance in overhead versus the prior year.
+The bottom of slide number 8 in the presentation shows the after-tax effect of these unrealized gains and losses in the interest rate program by quarter.
+Included in unallocated overhead in the first quarter is a $921,000 acceleration of unamortized debt issuance costs on our 8.5% senior unsecured notes, which we redeemed during the first quarter.
+Slide number 6 shows the interest income on our investment in our exchange-traded futures and options businesses, which hold our investible customer balances and encompasses our interest rate management program, excluding the mark to market fluctuations I just mentioned.
+The continued implementation of this program and increase in short-term interest rates, and a 14% increase in customer deposits, led to an underlying increase in interest income, shown here, of approximately $500,000 versus the prior-year period.
+Moving on to slide number 8, our quarterly financial dashboard, I'll just highlight a couple of items of note.
+Variable expenses represented 57.5% of our total expenses for the quarter, exceeding our target of keeping more than 50% of our total expenses variable in nature.
+Non-variable expenses, which are made up of both fixed expenses and bad debt expense, increased $14 million, or 24%, driven by the acquisition of the Sterne Agee and ICAP businesses, which made up $10.8 million of the increase.
+The remaining increase in non-variable expense was primarily driven by the $500,000 increase in bad debt, the $300,000 of intangible amortization mentioned by Sean, and a $1.2 million increase in professional fees, excluding the portion of those related to the acquired businesses.
+Net income from continuing operations for the first quarter were $6.3 million versus $8.8 million in the prior-year period, which resulted in a 5.8 percent return on equity, below our target of 15%.
+Finally, in closing out the review of the quarterly results, our book value per share increased 12% to $23.77 per share.
+We did not purchase any of our common stock during the first quarter.
+With that, I'd like to turn it back to Sean to wrap up.
+Thanks, <UNK>.
+While we're a little disappointed with our Q1 results, we remain positive about the outlook for our business.
+The growth and expansion of our business and its capabilities over the past couple of years has positioned us to take advantage of a still-consolidating industry.
+And in addition, the market environment is now providing a tailwind for our business.
+As we said last time, we stand poised to become a best-in-class franchise, offering our global customers high-quality execution, both high touch and electronic, insightful market intelligence and post-trade clearing services in almost all markets and asset classes.
+This is a comprehensive array of products and services, which should allow us to take advantage of large and noticeable, and as yet unfilled, void in the market created by the demise of larger financial franchises during the financial crisis.
+So with that, I'd like to hand back to the operator and see if we have any questions.
+Operator.
+Good morning.
+On our exposure.
+Okay, so I would say we had a pretty exceptional situation in Argentina a year ago, and that probably continued back for maybe two, three quarters of last year, so if you sort of extend backwards, right.
+And that all resulted with the turmoil that was going on there, change in administration, the government manipulating interest rates and foreign exchange rates and such.
+That led to a lot of activity in the markets we trade in, so we had increased volume.
+And in addition, to hedge our equity exposure in the markets, we took up a short position in our trading book to help offset any potential devaluation.
+And so, both of those things created an exceptional profit situation for us, and that was probably most notable in the fourth quarter.
+So I think we're now returning to a more normal situation in Argentina.
+I think if you had to go back and look at sort of the two-year-ago type results, I think we're probably more along that kind of line, maybe sort of up 20% or 30%.
+But we certainly have lost the exceptional sort of market environment that we were a beneficiary of last year.
+We are now in a position, also, to extract some of the equity and retained earnings that have been built up in Argentina, so we are reducing the capital that we need in that business, and that business continues to produce a great ROE for us.
+Even in a more normalized situation with slightly less capital, with a more normalized situation, that business is definitely achieving its hurdle rates on its committed capital for us.
+The upside potential for us is we are one of the few international companies that remained in Argentina during the crisis.
+And so the sort of -- the next opportunity for us beyond the baseline business is how do we become more involved in cross-border financial activities out of Argentina.
+And we're working pretty hard on that.
+We're one of the few [tiering] members on the futures exchange down there.
+We are a member of the securities exchange down there.
+So we're starting to see slow and incremental progress for us becoming kind of the counter-party of choice for international financial institutions looking to do business there.
+So I hope that's answered your question.
+So I think there's a longer-term sort of new opportunity for us, but the baseline business has probably returned to where it was, you know, maybe two years ago.
+Very happy with the business, making the right return on capital.
+We now need to sort of transition that business into more of a cross-border opportunity, which we see coming.
+Yes, so you know, we sort of always think about the business in terms of the core economic earnings.
+I mean, we are a little bit reticent to put that in our earnings releases and so on, because it sort of sounds sometimes like you, you know, trying to justify bad results.
+But I would say two things.
+You know, the last two years, we have been pretty close to that 15% ROE.
+We think we are now sort of getting some tailwinds, you know, just generically at a high level.
+You know, we put in a slide in the last quarterly call, which showed the impact of interest rate increases on our business, which have now been magnified because of the Sterne Agee acquisition.
+You know, that alone, if we see another two or three interest rate increases of 25 basis points, that alone could add about 4 percentage points to our ROE.
+So, you know, I think we feel, at a high level, very confident that if we continue on our current track, with the sort of tailwinds we have, that that is achievable.
+If I had to sort of look at this quarter, what I would say is if you sort of normalized our earnings for bad debts, the mark to market on our interest rate enhancement program we have, which we explained a number of times, if you look at the fact that we're effectively expensing, with the ICAP deal, we're expensing the purchase consideration.
+So we're not sort of raising goodwill, but we're expensing it because we get a tax shield on that.
+If you adjust for all of those things, I mean, this was more like a $0.70 quarter, right.
+So, you know, from our point of view, we're looking at the -- it's still below 15%, but it's sort of more like a 10%, 11% ROE, if you look at the core operating results of the business.
+And you know, those things will reverse at some point.
+So I -- you know, it looks like we're sort of way off our target, but I'm not sure we feel, looking at the core operations, that we're that far behind.
+Does that make sense.
+Yes, so a couple things.
+So firstly, the interest rate increase we saw, which will impact the customer assets we hold in short-term securities, which is about 40% of our total float is sort of held in short-term securities, that increase happened in -- I forget now exactly, but I think it was December, right.
+So you know, that really didn't come into play at all for the quarter we're reviewing now.
+So we should see a pretty immediate impact, at least for that portion of our float, our customer float.
+And obviously, as we see subsequent rate increases, you know, that should come through pretty fast.
+In terms of the portion of our assets where we've invested further down the curve, we have a laddered program.
+It has a duration at the moment of around about 20 months.
+You know, we are earning on that ladder higher rates than we would if we had kept the float short, on the short end of the spectrum, so it's clearly adding value.
+It is adding noise in terms of the mark to market, but in our view, as always, we manage the business for a good economic result.
+That ladder is starting to roll off.
+So, for example, we've just recently in the last two weeks had a tranche roll off, and you know, it was earning something like 50 basis points, and we switched it to back end of the ladder, and it's now earning 150 basis points.
+So we should see the average yield on the invested portion of our portfolio probably increase, and you know, it should settle, all things being equal, at around 120 basis points, and I think at the moment we're at about 80 basis points.
+But that will take close to probably 18 months to achieve, or maybe 12 months to see some real impact.
+So I think the upside potential over the next year or 18 months is an enhancement of something like 50 basis points on our investment, all things being equal.
+And I think what you'll see is on sort of 40% of our floats, you'll see very immediate impact when we have short-term rates go up.
+So I don't know if that helps you.
+But it would probably be helpful if you went back to our earnings deck from last quarter.
+We actually put a table in there, and you know, we estimated that once the full effect of interest rates had come through, a total of 100 basis points increase I think was about a 4.8% ROE impact.
+Now, that would take some time to realize, obviously, but that's how we calculated it.
+Yes, so I think we've sort of -- we have had conversations about this before.
+I mean, this is a very real risk we run in our business.
+You know, we have 15,000 customers, and we rely on those customers to honor their obligations to us.
+We obviously have a very, what we think, rigid and robust credit process to assess all of that risk.
+But it is implausible to think that you're not going to have some bad debts when you have 15,000 customers, right.
+So, you know, we think that on average, somewhere between $5 million to $8 million a year should be the sort of high-water mark for bad debts.
+We'd like to see that happen with lots of smaller amounts rather than big chunks.
+But this was definitely an extraordinary situation based on a market circumstance we had never seen in the metals market.
+I mean, you know, we do stress tests and so on, and this was sort of off the scale of probabilities.
+And you know, the result was, in those environments, our customers sometimes don't pay as much attention to their liquidity stress situations as we do, and you know, they end up not being able to make margin calls.
+So I would say that this was probably exceptional.
+I think we would like to see probably more like half of that $2.5 million sort of as a reasonable quarterly amount.
+But it's probably, as always, if we look back three, four years, we seem to have it come in big chunks when we have market kind of turmoil.
+So anyway, I would say if you want to model it up, I would say somewhere between $5 million to $8 million is how I would bracket it a year.
+And certainly, we're trying very hard to be well below that, but I would say that's kind of a realistic expectation.
+Does that help.
+Well, thank you.
+Operator, do we have any other questions.
+No one.
+All right, well thanks very much for attending the call, and we will speak to you again in three months' time.
+Thank you.

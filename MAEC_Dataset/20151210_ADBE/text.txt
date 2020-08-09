@@ -1,0 +1,123 @@
+Yes, give me one second, <UNK>.
+If you had another question while I'm looking.
+Sure, I'll answer both of those, <UNK>.
+So the mix was [52] Complete and [48] point on Creative Cloud.
+And as it relates to digital marketing, what we would say is that as <UNK> mentioned we're the leader in this category, we've had record revenue and record bookings.
+In that space, AM and Analytics are the largest pieces of the business and as you know, AEM for a little while now has been going through this migration from perpetual to more of a managed services offering.
+In Q4 -- to put some numbers around it, in Q4 we had roughly $20 million of perpetual revenue.
+That was well below what we thought in that $365 million to $400 million range we provided.
+So even though we were anticipating perpetual being less than it was a year ago, it came in well below the range that we had provided you.
+In 2016 -- the FY16 targets have less than $45 million in perpetual for the entire year.
+So we've basically taken almost all of the perpetual revenue risk out of the targets for this very reason.
+So it should not be an issue going into next year.
+It's out of the guidance for the most part.
+And it's really the only reason we came in below that range we had provided for Q4.
+And just to clarify, <UNK>, when <UNK> says that perpetual was low, it did change to [rackable] rather than dropping out.
+And so as it related to bookings, especially when you consider it FX adjusted for constant, we saw both quarterly and annual growth rates greater than 35%.
+So strong bookings.
+And the last thing I would add to that is the quarterly growth, when you look at the quarterly growth next year on a quarter year-over-year basis, it's going to vary under the 20%, over the 20% slightly each quarter based on how much perpetual was in the FY15-related quarter.
+But we still believe we're going to hit the 20% on the year.
+It's the latter, <UNK>.
+And it's not the former.
+Again, as we introduce new subscriptions that will target mobile or education as we said.
+And as we are looking to attract tens of millions of subscribers, we don't necessarily foresee a decline in year-over-year growth in subscriptions.
+To put another way there is more growth there.
+I think the two things I would highlight, <UNK>, is first, adoption of the entire <UNK>eting Cloud as well as some of the core services.
+So I would say Audience Manager is seeing good strength.
+Audience Manager, again, just to clarify like a data management platform as well as the ability for people to use the same customer segments across each of our products.
+So we're seeing good growth in Audience Manager.
+The two large components of the <UNK>eting Cloud, Analytics as well as Experience Manager, continue to power along.
+We made some good progress with Campaign.
+Campaign growth has been really good to see.
+And last but certainly not least I would say Primetime.
+I think with video being an explosive category we've haven't touched on that as much, but TV Everywhere and digital consumption of videos increasing.
+And so I think we're continuing to see some good progress in video.
+But there is a clear requirement on the part of our customers to say does all this stuff work together.
+And I think that's only playing to our strength as well, <UNK>, so across the board we continue to see good strength.
+That is a fair question, <UNK>.
+Churn has not been a problem, retention remains really high.
+We have done really well from that perspective.
+We've talked about the fact that as customers do larger deployments, it does take a little bit longer to get them up and running and that delays the revenue clock a little bit.
+It's not huge material problem.
+In fact, it's a good thing because they are doing larger deals with us.
+But nothing has changed from that perspective; it's really mainly been this perpetual shift.
+<UNK>, when we look at what's happening with the business in Asia-Pacific, certainly both Japan, we continue to see good adoption of the Creative Cloud, and the rest of Asia-Pacific had a very strong digital marketing growth as well.
+We see more adoption of that in financial services, Australia continues to perform well.
+And as it relates to Europe as well, we're seeing good growth in digital marketing in both regions.
+We focused our digital marketing on a few geographies, so the UK, Germany, Australia, and Japan I would highlight as the areas where we're focusing a lot of our digital marketing.
+But nothing stands out in terms of what is happening in those regions; all of them continue to show promise for both Creative Cloud as well as digital marketing.
+From our point of view, I think the focus that we have for the digital marketing business and the <UNK>eting Cloud in particular is how can we enable people to have a great experience across mobile devices, tablets, and create that compelling web experience that people want.
+From our point of view, everything starts with the content platform and the data intelligence.
+The data management platform itself for us, it's a means to both how are you spending your advertising dollars and ensuring that you get the return of investment on that.
+And the advertising part is just a small portion of our overall <UNK>eting Cloud revenue as well as our offering.
+So it's an important strategic part to enable people to understand who their customers are, the demographics, the profiles, so that they can effectively give them the offering that they need.
+But it should not be construed as a further increase into the advertising ecosystem even though that is a healthy business for us.
+Hey <UNK>, its <UNK>, I will start.
+On the OpEx side, the bulk of the increase will show up in sales and marketing.
+COGS is going to go up because it's variable with revenue, especially in the digital marketing business.
+But across both businesses, if we're going to go after these large new TAMs that we outlined at analyst day, we're going to need the sales and marketing dollars to do that.
+So that's what is baked into the model for the next three years, frankly, and that's included in the guidance that we provided.
+And <UNK>, on your first question, first with respect to attribution, clearly versions of the <UNK>eting Cloud have attribution.
+We're continuing to enhance the attributions so that we can not just do attribution at the individual spend level but we can also do it across both the entire <UNK>eting Cloud as well as what's happening between online spend, display spend, search spend, social spend, and offline spend.
+So we've been spending more of our research efforts to better enable marketers to understand the efficacy of their dollar spent.
+I think respect to mobile, it's actually driving every one of our individual solution components.
+I think <UNK> alluded to something like 40% plus of the transactions that people now have out on mobile.
+So if you think about it from the point of view of the content that's being delivered to mobile devices, the video that's being consumed on mobile devices, the campaigns that require SMS or messaging.
+Mobile has been just this huge tailwind for us across each of our solutions in terms of the importance for people to have new solutions.
+The advertising component, again, for us as represented in the Media Optimizer, that business is showing growth.
+But it's not just the advertising part of mobile that is fueling our business.
+It's the consumption just as much.
+I'll take the first question and the first question as it related to the lag between US markets and international markets.
+The way I would describe it is Australia was the first place that we introduced it and so we've got tremendous experience through what we did in Australia and certainly a lot of the focus that we've had has been in the US.
+The other non-speaking international markets, consider them a year behind or a year and a half behind in some cases, and catching up.
+Because we put a significant amount of our attention in the US.
+So nothing in those markets would lead us to believe that we won't see the same kind of success but that may give you some sort of measure of where we are in the US versus the rest of the world.
+We haven't yet really targeted, and we've always talked about this being an opportunity, the emerging markets and having completely different pricing available there, because we continue to believe that there is so much opportunity in what we would say our markets where the propensity to both take subscriptions as well as the network bandwidth is higher than in some of the other markets.
+So that continues to be on the road map.
+And if you look at the headcount, it's pretty consistent with what I told <UNK>, the headcount adds in Q4 were primarily in sales and marketing.
+The headcount adds frankly across the entire year were primarily in sales and marketing.
+And it's really just to drive sales capacity in the sales organization quarter carrying sales capacity, and to do marketing activities to address these larger TAMs that we talked about.
+Next question.
+Sure, <UNK>.
+Certainly for sub adds we would expect that we will continue to drive net new subscribers to Adobe.
+You're right, it's been more like 30%.
+We would expect that to continue; that's how we're going to address these large new TAM opportunities that we outlined at analyst day.
+And in digital marketing, the margin on that business continues to improve from a gross margin perspective.
+We fully expect that we can do better and better from a hosted gross margin perspective as well as from a professional services perspective.
+And I would expect that to continue.
+Well we did, for the first time, give a cash flow guide from a CAGR perspective over 2015 through 2018 at analyst day.
+So as we get more and more predictable, I will look at whether we bring that in a bit tighter but we did give a 25% cash flow CAGR through 2018.
+Operator, we're coming up on top of the hour, why don't we take two more questions.
+It's <UNK>.
+Yes, you're right.
+It's a big ARR guide and smaller revenue guide, if you will.
+They do converge over time and there are pieces in that segment that are perpetual that are tailing off that we've talked about, things like Lightroom, things like the hobbyist product, things like the interactive development, the monetization of our website.
+Those pieces of the business have been perpetually oriented and are definitely tailing off.
+And that is causing a little bit of a short-term slowdown on the revenue growth.
+But over time they definitely converge ARR and revenue.
+I think another way that you should be thinking about it is the customer in question may have the most immediate need of completely replacing their website.
+But what they decide to do because of the breadth of our offering is say not only are going to take the experience manager and analytics solution which is natural, but because all of the solutions work together we're actually going to go ahead and engage Adobe in the entire solution.
+But in terms of how they implement them, then they may implement them sequentially in order to make sure that they get the most benefit out of it, and that it goes smoothly.
+Some of these are just that large complete replacements of the web infrastructure and the entire online presence.
+And from our point of view they are making a very strategic decision to go with Adobe for the entire platform and so we think that is good.
+And as <UNK> pointed out, the revenue starts to flow starting FY16
+I think as it related to ARPU even this year we did see in the commercial segment actually an ARPU increase.
+So certainly the ARPU as it related to commercial increased.
+The ARPU as it related to the other services were relatively consistent, and then when you look at it from a blended point of view it was also relatively consistent.
+We definitely expect to see stock getting uptick in terms of the existing install base.
+At the same time there are opportunities for us to attract a completely new set of customers, whether they be in education, whether they be mobile-only customers.
+And we would be crazy not to get them to our platform and drive future ARR and revenue.
+And so that's the way we are looking at the business.
+I realize it's easier to just do a P times Q, but the truth is we don't have just one single offering that allows you to take it.
+It's the breadth of our offering that will actually enable us to be more predictable and honestly drive future growth more than sticking to only the Creative Cloud and Single offerings.
+So we are pleased with where that's going but hopefully that gives you some color into where we're headed.
+Given that was the last question, I just wanted to say we feel like we had a fantastic finish to a great year.
+And more importantly we enter FY16 with significant momentum as well as an incredible opportunity for us to continue to innovate on behalf of our customers and grow.
+As I think about it for individuals, good design and creative have never been more important.
+And I think with Creative Cloud we've delivered a one-stop destination that delivers everything from inspiration all the way up to monetization.
+And for businesses, the digital disruption topic is absolutely dominating board room conversations.
+And we realize that a direct compelling digital experience is so critical to enabling this transformation, and our leading digital marketing solutions enables all of these customers to make the transition happen.
+And from our point of view, when you combine these two opportunities, the power of creative content as well as data intelligence, we feel that is going to continue to fuel our business and excellent execution by our employees helps us deliver the results that you saw.
+So thank you for joining us today and we look forward to the next call.
+This concludes our call.
+Thank you.

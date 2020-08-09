@@ -1,0 +1,167 @@
+Good afternoon, and thank you all for joining us today either by phone or by webcast for a discussion about eHealth, Inc.
+'s First Quarter 2017 Financial Results.
+On the call this afternoon, we will have <UNK> <UNK>, eHealth's Chief Executive Officer; and Dave <UNK>, eHealth's Chief Financial Officer.
+After management completes its remarks, we'll open the lines for questions.
+As a reminder, today's conference call is being recorded and webcast from the IR section of our website.
+A replay of the call will be available on our website following the call.
+We will be making forward-looking statements on this call that include statements regarding future events, beliefs and expectations, including statements regarding the impact of the CMS marketing guidelines; our increased focus on the profitability of our Medicare business; shift in our Medicare marketing strategy and our focus on direct and strategic partner channels; the interim slowdown in submitted Medicare application growth; our intent to aggressively pursue the Medicare supplement market; expected submitted applications growth for all Medicare products; our work with partners in the labor union and military personnel markets; progress on establishing a more effective connection to the federal exchange; expected benefits from our new online enrollment platform for small businesses with our largest carrier partner; our data proposition and investment in the small business insurance markets; revenue and earnings generation potential of our Medicare and individual and family plan businesses; operating and financial leverage inherent in our individual and family plan business; profitability of the individual & family plan business; expected loss in the Medicare segment for the full year 2017; and our guidance for the full year 2017, including revenue, adjusted EBITDA, earnings per share and segment revenue and profitability.
+Forward-looking statements on this call represent eHealth's views as of today.
+You should not rely on the statements as representing our views in the future.
+We undertake no obligation or duty to update information contained in these forward-looking statements, whether as a result of new information, future events or otherwise.
+Forward-looking statements are subject to risks and uncertainties that could cause actual results to differ materially from those projected in our forward-looking statements.
+We describe these and other risks and uncertainties in our annual reports on Form 10-K and quarterly reports on Form 10-Q filed with the Securities and Exchange Commission, which you may access through the SEC website or from the IR section of our website.
+We will be presenting certain financial measures on this call that will be considered non-GAAP under SEC Regulation G.
+For reconciliation of each non-GAAP financial measure to the most directly comparable GAAP financial measure, please refer to the information included in our press release and in our SEC filings, which can be found in the About Us section of our corporate website, under the heading Investor Relations.
+And at this point, I will turn the call over to <UNK> <UNK>.
+Thank you, <UNK>, and welcome, everyone.
+Our first quarter revenue was $78.9 million, representing 7% annual growth.
+And our adjusted EBITDA was $35 million or 31% annual growth.
+Non-GAAP net income per diluted share was $1.93.
+Cash flow from operations was positive $8.4 million, bringing our cash balance as of March 31 to $68.2 million.
+We are very pleased with our first quarter financial results.
+The performance of our Medicare business allowed us to post meaningful year-over-year growth in overall first quarter earnings despite the decline in our Individual & Family membership and the investment we are making in the small business market.
+As a reminder, during the first quarter, in addition to commission revenues from new Medicare enrollments, we recognized substantially all of our annual renewal commissions from our existing Medicare Advantage membership.
+Given that the vast majority of Medicare renewal revenue falls to the bottom line, it had a meaningful positive impact on our first quarter earnings.
+Our total estimated Medicare membership at the end of the quarter was 29% greater than our estimated membership at the end of the first quarter a year ago.
+Medicare renewal revenues further benefited from better-than-expected commissions per member that we observed on our Medicare Advantage book of business.
+First quarter 2017 Medicare Advantage and Medicare Part D renewal commissions of $41.3 million grew 43% year-over-year, outpacing the growth in our estimated Medicare membership.
+Total Medicare revenue for the quarter was $58 million, representing 33% annual growth.
+First quarter submitted applications for all Medicare products grew 1% year-over-year.
+Our application activity during the quarter reflected the lingering impact of the CMS marketing guidelines introduced last year, which we will anniversary at the end of the second quarter, and also increased focus on the profitability of new Medicare Advantage members.
+As we deemphasize less profitable customer acquisition channels and work on building out the more efficient direct and strategic partner channels, we expect to continue to experience a near-term slowdown in submitted Medicare application growth.
+At the same time, in line with our new strategy, we intend to more aggressively pursue the Medicare Supplement segment of the market.
+Medicare Supplement submitted applications were up 32% compared to the first quarter of 2016.
+For the full year 2017, we continue to expect that submitted applications for all Medicare products will grow in the mid-teens on a percentage basis.
+Now I'd like to highlight 2 important developments in our Medicare business.
+First, last month, we won an RFP with Union Plus to provide a Medicare Exchange and distribute Medicare products.
+Union Plus was founded by the AFL-CIO, America's largest labor federation, to provide voluntary consumer benefits and services to members and retirees of its 55 affiliated unions that represent 12.5 million working men and women.
+There are currently 2.5 million union retirees over 65 years of age and approximately 25,000 members per month that are aging into Medicare.
+To win this RFP, eHealth competed against some of the leading brokers and insurance carriers in the space.
+We are very excited to work with Union Plus and believe this win is a true testament to the strength of our online platform, our customer care and enrollment capabilities and our extensive Medicare product offerings.
+This is also a great example of our news channel strategy in the Medicare business, which emphasizes strategic partnerships over lead aggregator and paid search sources.
+I'm also pleased to announce that earlier this month, we signed a contract with USAA to distribute their branded Medicare Supplement products.
+The USAA family of companies provides insurance, banking, investments and retirement products to 12 million current and former members of the U.S. Military and their families.
+USAA is a well-recognized and respected brand, and we are honored to have the opportunity to offer their Medicare Supplement plans to eHealth customers.
+Upon launch of their products, which is slated for June of this year, eHealth will be the first external distribution partner USAA has ever used for this product.
+With these 2 wins, eHealth gains a significant presence in the important labor union and military personnel markets.
+In the Individual & Family Plan market, we are currently in what is known as the special enrollment period, or SEP, during which only a small subset of consumers are eligible to enroll into the new Individual & Family plans.
+Many of the insurance carriers do not pay any broker commissions on enrollments during the SEP or pay a fraction of their normal commission rates.
+In addition, we continue to be constrained by the inferior connection to the Federal Exchange, which precludes us from efficiently signing up subsidy-eligible consumers.
+As planned, we discontinued the vast majority of our Individual & Family Plan-related marketing efforts after the open enrollment period, which is reflected in our first quarter Individual & Family plan application and membership metrics.
+Our Individual & Family Plan submitted applications were down 70%, and our estimated Individual & Family Plan membership was down 49% compared to the first quarter of 2016.
+Nevertheless, this business continues to be highly profitable, and we expect it to be a significant earnings generator this year.
+Dave will provide more color on the financial performance of our Individual & Family business later on the call.
+Last month, we were disappointed in the failed effort by the U.S. House of Representatives to pass the Health Care Reform Bill and bring meaningful improvement to the health insurance market and, specifically, to the individual market, which has been disproportionately impacted by the Affordable Care Act.
+At the same time, we are encouraged by the discussions that we are having with the administration on reestablishing a more effective connection to the Federal Exchange for eHealth and other web-based entities.
+We are also encouraged by some of the near-term fixes recently put in place to bring more stability and choice to the individual market.
+Turning to the small business market.
+As I shared with you on the last call, we are investing aggressively in this market with approximately half of our total projected adjusted EBITDA loss for 2017 being driven by our small business investment.
+We believe this market is underserved by traditional brokers, and that eHealth can offer a superior value proposition to small business owners by combining the strength of our technology platform with our best-in-class customer care support.
+In the first quarter, we reached an important execution milestone in this market by rolling out an online enrollment platform for small business with our largest carrier partner, UnitedHealthcare.
+This is our first major carrier implementation in what has historically been a predominantly paper-based, agent-driven business.
+The new platform significantly simplifies the enrollment process for both the employer and the employees with a guided online shopping and application process; tools that allow employers to track and manage their employee enrollments; and a self-service document management solution.
+In addition to making the process more customer-friendly, the platform significantly reduces agent involvement which should, over time, result in higher member profitability.
+Our first quarter small business enrollments were up significantly, albeit off a small base.
+The number of approved groups grew in excess of 80% compared to the first quarter of 2016.
+I'm also proud of our small business team for generating a significant increase in cross-selling into our small business customer base with approved ancillary policies up 60% year-over-year.
+As I shared with you on the last earnings call, we see 2017 as a transition year for eHealth, and our first quarter results reflect this notion.
+Our results point to the significant revenue and earnings generation potential of our Medicare business as well as the operating and financial leverage inherent in our Individual & Family Plan business, which continues to be solidly profitable despite the challenging market environment and declining member base.
+At the same time, our first quarter results reflect the ongoing regulatory challenges in the Individual & Family market as well as strategic changes we are making, including a shift in our Medicare marketing strategy and a stronger emphasis on Medicare member profitability, each of which impacted our application volumes during the quarter.
+Overall, I'm encouraged by the progress we are making in executing on our 5-year strategic plan and look forward to seeing many of you at our Analyst Day next month.
+And now I'll turn the call over to Dave to cover the financial and operating items in more detail.
+Thanks, <UNK>.
+Good afternoon, everyone.
+Our first quarter results reflect solid revenue and earnings growth in our Medicare business and continuing profitability of our Individual & Family Plan business, which we currently operate with emphasis on earnings and cash flow generation while maintaining the flexibility to focus additional resources on the business should the regulatory environment become more favorable.
+Our first quarter 2017 revenue was $78.9 million, an increase of 7% compared to $73.8 million in the first quarter of 2016.
+Commission revenue for the first quarter was $76.2 million, an increase of 10% compared with $69.4 million in the first quarter a year ago.
+First quarter Medicare revenue grew by $14.5 million, a 33% increase compared to the first quarter a year ago.
+This increase was primarily driven by better-than-expected commissions per member that we experienced within our Medicare Advantage membership who renewed in the first quarter.
+As <UNK> mentioned, during the first quarter, we recognized the vast majority of renewal revenues on our existing Medicare Advantage book of business, making it the largest Medicare revenue quarter for the year.
+We are pleased with our Medicare renewal performance this season, and we'll discuss the impact of these renewal revenues on our 2017 financial guidance at the end of our prepared remarks.
+The estimated number of revenue-generating Medicare members was approximately 285,000 at the end of the first quarter, up from approximately 220,000 at the end of the first quarter of 2016, an increase of 29%.
+Medicare membership declined slightly on a sequential basis compared to the fourth quarter of 2016, which is a reflection of a typical seasonality of our Medicare business, where a large number of new members are added during the fourth quarter annual enrollment period.
+In contrast, much of the member attrition associated with the annual enrollment period occurs during the first quarter.
+First quarter Individual, Family and Small Business revenue was $21 million, down 31% compared to the first quarter of 2016, driven primarily by a significant decline in our Individual & Family Plan membership and revenue.
+As we have discussed frequently, we continue to observe a challenging market and regulatory environment in our individual business and are managing our IFP-related variable spend accordingly.
+To further illustrate our expense management in the IFP business, our first quarter variable marketing spend was down 77% compared to the first quarter a year ago.
+Our estimated Individual & Family Plan membership at the end of the first quarter was approximately $265,000, down 49% compared to the estimated membership we reported for the first quarter a year ago.
+This was a greater decline than we had originally anticipated, likely driven by the combined effects of carrier withdrawals from the market and substantially increased premiums.
+We will discuss the impact of this decline in the estimated IFP membership on our 2017 segment guidance in a moment.
+The estimated number of members on small business products was approximately 31,000, a 7% increase compared to a year ago.
+Our total estimated membership at the end of the quarter for all products combined was approximately 893,000 members, including approximately 312,000 members on ancillary products.
+Now I would like to review our operating expenses.
+Driven by a broader revenue base as well as a significant decline in IFP-related spend, first quarter non-GAAP operating costs, which exclude stock-based comp and amortization of intangibles, declined both as a percentage of revenue and in dollar terms compared with the first quarter a year ago.
+First quarter 2017 non-GAAP marketing and advertising expense, which excludes stock-based compensation expense, was down by approximately $5.5 million year-over-year.
+First quarter 2017 non-GAAP customer care and enrollment expense grew by approximately $2 million year-over-year, driven primarily by an increase in Medicare sale -- excuse me, Medicare agent headcount.
+We also hired additional customer care personnel to support our small business initiatives.
+First quarter non-GAAP technology and content costs, which excludes stock-based compensation expense, were down by approximately $0.5 million compared to a year ago.
+First quarter non-GAAP G&A expense, which excludes stock-based compensation and amortization of intangibles, grew by approximately $1 million year-over-year, driven primarily by lobbying expenses and costs associated with recent executive changes.
+Adjusted EBITDA for the first quarter of 2017 was $35 million compared to $26.8 million for the first quarter of 2016.
+We calculate adjusted EBITDA by adding stock-based compensation and depreciation and amortization, including the amortization of acquired intangibles to our GAAP operating income.
+Our Individual, Family and Small Business segment remained very profitable on a stand-alone basis, generating segment profit of $11.1 million despite reductions in revenue.
+Our Medicare segment generated a profit of $30.7 million compared to $17.9 million for the first quarter a year ago.
+Please note that Medicare profitability is seasonally strongest during the first quarter, driven by renewal revenues that have little variable costs associated with them.
+We continue to expect a loss in the Medicare segment for the full year in 2017 as reflected in our guidance.
+I will remind you that segment profit or loss for our 2 business segments excludes depreciation and amortization expense, stock-based compensation expense and amortization of intangible assets, in addition to shared general and administrative expenses, which, under our new segment reporting structure, are reflected under the corporate category.
+First quarter corporate shared services expenses, which exclude depreciation and amortization and stock-based comp, were $6.8 million, relatively flat compared to the first quarter of last year.
+First quarter 2017 non-GAAP net income per diluted share was $1.93 compared to net income of $1.10 for the first quarter of 2016.
+GAAP net income per diluted share was $1.80 for the first quarter of 2017 compared to net income of $0.99 for the first quarter of 2016.
+Our first quarter 2017 cash flow from operations was $8.4 million compared to $4.7 million for the first quarter of 2016.
+Capital expenditures for the first quarter of 2017 were approximately $1.7 million.
+Our cash balance was $68.2 million at March 31, 2017.
+Before moving to our guidance, I want to quickly remind you of our Investor and Analyst Day scheduled for May 10 in New York, where we look forward to providing more color and context on our business and growth strategy at that point.
+With respect to financial guidance and based on information currently available, we are reaffirming the overall revenue, adjusted EBITDA, and earnings per share guidance for the full year 2017 that we provided on our fourth quarter 2016 earnings call.
+At the same time, based on our first quarter results, we are adjusting our segment revenue and profitability and non-GAAP earnings per share guidance.
+We now expect Medicare segment revenues to be in the range of $96.5 million to $101.5 million compared to the prior range of $91.5 million to $96.5 million.
+We expect Individual, Family and Small Business segment revenues to be in the range of $68.5 million to $73.5 million compared to the prior range of $73.5 million to $78.5 million.
+2017 Medicare segment loss is now expected to be in the range of $11.5 million to $12.5 million compared to the prior range of a loss of $16.9 million to $17.9 million.
+Individual, Family and Small Business segment profit is expected to be in a range of $23.5 million to $24.5 million compared to the prior range of $29 million to $30 million.
+2017 non-GAAP earnings per share is now expected to be in a range of negative $0.86 to negative $0.96 compared to the prior range of negative $1.06 to $1.17.
+The adjustment to our non-GAAP earnings per share guidance results from a reduction in estimated cash-based operating expenses, primarily compensation, benefits and other personnel costs, due to lower projected headcount, which are partially offset by higher projected stock-based compensation.
+As a reminder, segment profit or loss for our 2 business segments exclude depreciation and amortization expense, stock-based comp expense, restructuring charges and amortization of intangible assets, in addition to the shared general and administrative expenses, which are -- which, under our new segment reporting structure, are reflected under the corporate category.
+Our 2017 guidance for corporate shared services expenses, excluding stock-based comp and depreciation and amortization expense, is unchanged at approximately $27.2 million.
+I want to remind you that these comments are based on current indications for our business, which are subject to change at any time.
+We undertake no obligation to further update our guidance.
+And now we'd like to open up the call for questions.
+Operator.
+Right.
+Thanks, <UNK>.
+I appreciate the acknowledgment.
+Yes, we were just thrilled with the Union Plus RFP win against very substantial publicly traded brokers, whose names you know, as well as other competitors.
+And it was a highly competitive and attractive deal for us.
+I think that we can be looking at a launch in early Q3 for both USAA and for Union Plus.
+These are big whales that we closed.
+We have other deals in the pipeline but don't have the materiality of projections that these represent.
+But we're encouraged that, because of the scale and the competitiveness of the process, that we're well positioned to win these other deals.
+We don't have experienced marketing in, to these membership basis, but we are expecting 8-figure memberships, per year, from the Union Plus deal, which is slightly meaningful for our Medicare Advantage business.
+<UNK>, it's Dave.
+The -- essentially, the renewal revenues or the renewal numbers that we were anticipating coming through in the quarter were largely in line with our expectations.
+We took what we believe to be a conservative approach, relative to budgeting for what the commission rates were going to be attached to those renewal members, and the renewal rates came in from certain payers at a higher level than we had been anticipating.
+So all around, a positive result for us for this renewal period.
+Also, I just -- I want to tack on to <UNK>'s comment, too, about the Union Plus and the USAA deals that, we view these as significant points of validation relative to our value proposition in the marketplace and is emblematic of what we are -- some of the changes that we've been talking about making relative to our go-to-market strategy in trying to identify higher-quality, lower-cost sources of customers in the Medicare business.
+So again, it's going to take a little bit of time for these things to impact the P&L but are very good early indicators of the strength of our value proposition as we continue to go-to-market in this regard.
+Yes, <UNK>.
+We are actually holding this call in <UNK>
+C.
+, where I was attending TechNet, which was founded by <UNK> Doerr and <UNK> Chambers from Kleiner Perkins and Cisco, respectfully.
+And I've been making the rounds here in <UNK>
+with <UNK> <UNK>, who is our SVP of Government Affairs.
+And I actually asked him to sit in anticipating such a question, so I'm going to let him answer it.
+<UNK>, yes, we're still going through the amendment but -- and our General Counsel is as well.
+But as has been reported in the press, it seems to give the states the option of opting out of essential health benefits and potentially having a different rating ratio than is outlined in the Affordable Care Act.
+Generally, I think <UNK>'s view about this, as we've been talking about it, is that it'll provide the consumer more flexibility and more potential options in the states for the type of coverage they can buy because it could allow the insurance companies to offer new products.
+And so I think our opinion is that this is good for the consumer.
+And usually, what's good for the consumer seems to be good for us.
+And <UNK>, just let me add on to that.
+We run monthly surveys of our customer base, and one of the reasons that we get at audiences at all levels of members of both the House, Senate as well as the administration, is that we represent the voice of the consumer.
+Truly, many of our customers have been buffeted by ACA.
+And they're the middle class, working class, they're early retirees, and these stories really resonate.
+And what they say is that even more than price, they want more choice and more selection.
+So in this regard, I regard the MacArthur Amendment as -- would be highly constructive if it could survive the House Senate reconciliation process and be signed into legislation.
+Tobey, so this is consistent with the greater level of transparency that we began providing with our Q4 print, in terms of breaking out segmentation of the P&L and giving -- trying to give everyone a better sense as to what's going on in the different parts of the business.
+Well, I'll be the first to acknowledge to you that the corporate bucket is one that is a fairly large one.
+It encapsulates all of the parts of the business on the support side that can't be adequately allocated between the 2 parts of the business at this point in time and serve evenly both parts.
+So it's meant to give -- the entire move toward transparency is meant to give you and the rest of the investing public a better look as to the dynamics of the business and a relative look at the different profit levers within each, understanding that there's a significant cost basis to support those as well.
+So again, trying to give you as much transparency as we can.
+Tobey, we're having a hard time hearing you.
+Thank you, everyone, for participating in the call, and we look forward to having individual conversations with those of you who want a more detailed update.

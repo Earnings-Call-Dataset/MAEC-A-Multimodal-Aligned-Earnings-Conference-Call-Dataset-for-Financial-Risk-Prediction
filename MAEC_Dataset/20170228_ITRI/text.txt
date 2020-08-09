@@ -1,0 +1,67 @@
+Thanks.
+Actually, both of those are the case.
+We discussed Public Service in New Mexico as an example specifically, because that award was relatively late, and it is in the process of obtaining regulatory approval at this point.
+The other significant announcement that we have made that is not yet obtained regulatory approval is National Grid Massachusetts, in which the selection was announced, but the approval is not complete, and therefore we do not place it into backlog.
+So those are the two largest examples.
+We're not providing guidance specifically on EBITDA, but I think you can assume that we are going to see continued improvement in our EBITDA margins as we move from 2016 to 2017.
+So, let me leave it there.
+We're not at our mid-teens target yet, but we're getting closer.
+Yes, <UNK>, thanks.
+I would reiterate the statement I made on prior calls, which is that we absolutely aspire -- by the way, this is not our final state, but I think an achievable one -- to get to $500 million in software and services, and to have that segment not only grow faster than the historical hardware business, but also at a higher level of profitability.
+We're doing that through an increase that we saw in 2016 of increasing focus on managed services and analytic outcomes.
+We've commented before that we've increased the number of managed services customers significantly in 2016, going from 300 to 375, or a bit more than that.
+And through doing that, we have the opportunity to provide an extended range of analytics solutions.
+A number of the opportunities that I discussed on recent wins involve solutions outcomes that we're providing.
+Talk about Itron Total Solutions -- we're managing not only the data collection, but also even analyzing the data and moving beyond the revenue cycle.
+So we see a range of organic opportunities there.
+You have seen and did see at DistribuTECH a wide partner ecosystem with whom we're working to extend offerings there, and then again are looking for opportunities, both organically and inorganically, to continue our growth in that area.
+There's a tremendous opportunity for us there.
+You're Welcome.
+Thank you.
+Sure.
+We have, as an example, in water, a acoustic leak center that we provide in addition to a metering solution on the waterside, in which we are listening for leaks in pipes, and giving the ability to triangulate on very significant amounts of water loss.
+So there are sensing solutions such as those that we are directly providing.
+The gas PACE cathodic protection pressure sensing, methane sensing, kind of solutions where we may be the provider of the sensor or a partner may provide that sensor.
+But we would provide integrated communications for that solution.
+We're demonstrating the Itron Riva communications embedded in streetlights, charging stations, solar inverters: there are a wide range of opportunities there.
+I mentioned smart city opportunities.
+These are generally the use of large-scale networks for these types of extended canopies and extended sensing devices.
+So Itron intends to both provide some of its own extended sensors, in the case of the leak senor, and partner with others to embed communications.
+We're making that very easy to do with a Itron Riva partner community website and developers' kit.
+Willing is not the way I would characterize this.
+The reason that we made a very conscious effort to strongly partner with Cisco is we believe that the Internet of Things is going to be powered by the world's largest networking company and others in the networking space who are embracing open standards.
+And so we actively embrace the notion of multi-tenant open systems, because we believe that this is going to promote more value for our customers and ultimately more value for us by changing the competitive paradigm.
+And we have really worked diligently with our Riva offering to offer a truly open and standards-based system.
+(Laughter) That's fine.
+Well, the first is to get integrated electricity, gas, and water networks -- to extend those networks I mentioned on the gas, in the waterside leak sensing and other telemetry devices on gas.
+Again, pressure, cathodic, methane sensing.
+On the electric side, we've demonstrated streetlights charging and solar.
+But we are exploring a wide range of other embedded devices.
+<UNK>, what I would say is that we are being selective in the revenue that we're taking.
+As you see double-digit earnings growth -- it's a great question, that we are targeting the opportunities that we are pursuing with higher profitability in mind.
+So it's not necessarily a headwind faced from past actions that we taken.
+This is becoming a standard part of our operating model, that we are being selective and very disciplined about revenue opportunities that we're looking at.
+That being said, the way we're approaching that is by relentless cost reduction in operational efficiency to give us the broadest opportunity to bid on business that we possibly can.
+But there is a tension there and the order of predictability, profitability, and growth is listed in that sequence on purpose, because we're focusing on profitability.
+Which is not to say growth is not also very important.
+We are absolutely looking at those opportunities, and I think have quite a lot of 9% growth last year and a number of significant competitive wins and opportunities here to drive significant additional growth.
+But growth with a good focus on profitability, and continuing to focus on that mid-teens EBITDA target and beyond.
+<UNK>, I'll just add -- you'll remember that a couple of years ago, we mentioned specifically that we were exiting $40 million to $50 million of basic metering business in the electricity segment.
+There's not another announcement like that coming here.
+But as <UNK> says, the ongoing strategy of the business is to focus on the higher-margin smart metering and network and solutions businesses.
+So there is sort of a tail to that strategy that we rolled out a couple of years ago.
+Yes, well, you're right on.
+I'm glad you raised that question because we feel good about it, that the implementation of our Oracle ERP system is largely behind us.
+We still have Asia-Pacific to do, and that will be implemented in 2017.
+But there isn't a whole lot of cost associated with that, it's nothing like we've experienced in prior years.
+And the implementation of our global business services business, which is located in Cork, Ireland, we've now got the automation -- a good part of the automation, not all, but a good part of the automation now is implemented.
+Though it's now hit its stride, and it's contributing positive results in business.
+So, this is what we said would happen a couple years ago, that it would take some time to get new systems implemented, the automation underpinning them to embed the processes.
+And while that's not all completely done, we're certainly seeing the benefits of it now.
+Thanks, <UNK>.
+Thank you.
+I had the opportunity to say a couple of times already how pleased we are about 2016.
+I would point out that 2017, with double-digit earnings growth, we continue on in this operational improvement side, but are not neglecting growth in any way, shape, or form.
+We have tremendous backlog opportunity, a high degree of deal activity, strong products that we're bringing to market in order to drive future growth and continue to develop our software and services offering.
+We're energized and excited about our opportunity in 2017, and look forward to giving you an update here in the next quarter.
+Thanks very much, everyone.

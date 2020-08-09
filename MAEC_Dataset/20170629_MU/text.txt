@@ -1,0 +1,120 @@
+Thank you, <UNK>
+We had a strong quarter with record revenue, non-GAAP EPS and operating cash flow, driven by the continued positive industry environment, additional bit growth from our current technologies and progress on deploying our next-generation technologies into manufacturing
+I will provide an overview of the fiscal Q3 results by technology and business unit, followed by comments on our overall corporate financial performance and guidance for F 'Q4. DRAM represented 64% of our total revenue with the following segmentation: Mobile was in the mid 20% range
+PC was in the low 20% range, down from the prior quarter
+Server represented approximately 30%, up from 25% the prior quarter, and specialty DRAM, which includes networking, graphics, automotive and other embedded technologies, was in the mid 20% range
+Our trade NAND revenue represented 31% of total revenue with the following segmentation
+Consumer, which consists primarily of component sales to partners and customers, was approximately 40%
+Mobile, which includes managed NAND discrete solutions and the majority of our MCPs, was in the mid-teens percent range
+SSDs were in the mid 20% range, up slightly from last quarter, and automotive, industrial and other embedded applications were in the high-teens percent range
+Turning to performance by business unit
+The Compute & Networking Business Unit reported fiscal Q3 revenue of $2.4 billion, up 25% sequentially due to increased bit shipments, ongoing success in penetrating growing segments like enterprise, graphics and high-performance memory and cloud and a stronger pricing environment
+Non-GAAP operating income was $1.2 billion or 51% of revenue, up from 38% to prior quarter
+20-nanometer products were greater than half of CNBU revenue and were shipped primarily in the enterprise, cloud and client segments
+Revenue growth in the enterprise segment was driven by the continued expansion of DRAM content per server
+And in the cloud space, we experienced good sequential bit growth
+Both segments also benefited from the current pricing environment
+We saw ongoing growth of our 20-nanometer DDR4 products with particular strength coming from the latest industry server platforms
+In networking, we saw shipment and revenue growth bolstered by the continued transition to 20-nanometer, 4-gigabit DDR3 and 8-gigabit DDR4 products
+We also continue to see strong interest in our high-performance memory portfolio
+This strength was primarily evident in data center networking equipment
+Double-digit client revenue growth was driven by a continued firm pricing environment and product mix optimization, resulting in modestly declining bit shipments
+Our 1X nanometer revenue was predominantly in this segment
+Graphics also saw double-digit revenue growth, driven by strength in the game console market, as well as new PC graphics card product launches, including the G5X-based Titan Xp from NVIDIA
+The Mobile Business Unit delivered fiscal Q3 revenue of $1.1 billion, up 4% sequentially, driven primarily by a stronger pricing environment and our non-GAAP operating income was $304 million or 27% of revenue, up from 16% to prior quarter
+The embedded business unit delivered fiscal Q3 revenue of $700 million, up 19% sequentially
+Non-GAAP operating income was $256 million or 37% of revenue, up from 33% the prior quarter
+The results were driven by strong bit demand and increased average selling prices of DRAM, combined with record shipments of SLC and MLC NAND in the consumer and connected home segments and record shipments of DRAM and eMMC NAND into the industrial and automotive segments respectively
+The Storage Business Unit delivered fiscal Q3 revenue of $1.3 billion, up 26% sequentially
+Non-GAAP operating income was $276 million or 21% of revenue, up from 7% the prior quarter
+The results were primarily driven by strong unit growth of SSDs and a stronger pricing environment
+Moving to overall company results
+Revenue for the third fiscal quarter was $5.6 billion, up 20% sequentially and driven by primarily stronger DRAM ASPs and higher NAND bit volumes
+On a year-over-year basis, revenue increased 92%, primarily due to a stronger DRAM pricing environment, increased bit volumes in both DRAM and NAND and our focus on higher value-add solutions to improve our product mix
+Examples of this improved mix includes SSDs where year-on-year revenue tripled, while in DRAM bits embedded in high-value solution for enterprise, cloud and graphics customers, together grew at a rate twice our overall DRAM bit output for the same period
+Non-GAAP gross margin for the quarter was 48%, up from 38.5% in the prior quarter, driven by increased DRAM ASPs and cost per bit reductions in both DRAM and NAND
+On a year-over-year basis, non-GAAP gross margin increased 30 percentage points, driven by a stronger DRAM pricing environment, a better product mix and lower cost per bit in both DRAM and NAND
+Non-GAAP net income was $1.9 billion or $1.62 per share
+Turning to results by product line
+DRAM revenue increased 20% compared to the prior quarter as a result of a 5% increase in bit shipments and a 14% increase in ASPs
+DRAM non-GAAP gross margins for the third quarter increased 10 percentage points sequentially to 54%, driven by a 6% cost per bit reduction and better product mix
+As a reminder, we noted last quarter that second half fiscal year 2017 DRAM bit output would be about 10% higher than first half fiscal year 2017. As we look forward into fiscal 2018, the timing of the 1x technology transition is expected to result in our bit growth at or slightly below industry growth rates over the same period
+We consider this bit growth pattern when we provided our 2 year bit growth CAGR earlier this year
+Trade NAND revenue increased 21% compared to the prior year quarter, reflecting a 17% increase in bit shipments and a 3% increase in ASPs
+Non-GAAP gross margin was 41%, up 10 percentage points, driven by a 12% cost per bit reduction and better product mix
+As a reminder, we noted last quarter that second half fiscal year 2017 bit growth would be about 30% above first half fiscal year 2017. Based on the timing of technology transitions, we foresee relatively muted bit growth in the first half of fiscal 2018 follow by stronger growth in the second half
+Consistent with DRAM, we considered this bit growth pattern when we provided our 2 year bit growth CAGRs earlier in the year
+Non-GAAP operating expenses for the quarter were $600 million, down $12 million from the prior year quarter
+The company generated operating cash flow of $2.4 billion in fiscal Q3 compared to $389 million in the year ago period
+During the quarter, we deployed $1.3 billion for capital expenditures, net of partner contributions and free cash flow for the quarter was $1.1 billion as we retired approximately $1 billion of debt via a tender offer for certain of our high-yield notes
+We currently expect fiscal year 2017 free cash flow of approximately $3 billion and continue to prioritize the deployment of our cash flow toward advancing our production technology capabilities and reducing our debt
+For fiscal year 2017, we are trending to the upper end of our indicated net CapEx range of $4.8 billion to $5.2 billion
+We will provide a fiscal year 2018 CapEx perspective later this year
+We ended the third quarter with cash, marketable investments and restricted cash of approximately $4.9 billion
+Our guidance for fiscal Q4 is informed by our view of sustained, healthy supply and demand dynamics, our ongoing work around cost reduction and the improvement of our product mix
+On a non-GAAP basis, we expect the following, revenue in the range of $5.7 billion to $6.1 billion, gross margin in the range of 47% to 51%, operating expenses between $575 million and $625 million, and operating income ranging between $2.2 billion and $2.4 billion
+EPS will range between $1.73 and $1.87 per share, based on 1,179 billion [ph] diluted shares
+At our Analyst Day in February, we outlined how our production technology execution and the results in bit growth and cost reductions have enabled us to significantly strengthen our cash flow and financial performance in any market conditions
+We've been reporting our incremental progress each quarter
+However, I wanted to share the tremendous progress we've made over the 12-month period ending in fiscal Q3. During that time, our bit output has been above industry average for both DRAM and trade NAND and our cost per bit has declined approximately 25% and 30% in those technologies respectively
+In addition, we continue to improve our competitiveness by successfully delivering solutions to deliver higher value-add opportunities
+Our ability to deliver these results has enhanced our energy and excitement to make further progress, and we look forward to sharing that with you
+With that, I will turn it back to <UNK>
+So <UNK> may team up for this
+But relative to the gigs shift or volume shift into the PC segment, as we said in our prepared remarks, we did have a slight decline in unit volume
+It wasn't very significant at all, but that was part of our plan to address higher value-added markets
+I don't think it was reflective of a decreased demand environment in any way, shape or form
+We don't typically comment on the going forward pricing environment, other than the general statement that we see fairly good balance between supply and demand
+And we're going to continue to monitor that segment quite carefully from a bit growth perspective
+I think we're thinking that that segment would somewhere be in the range of plus low to mid-single digits in aggregate for us in fiscal '17 and I think that that addresses the three points you raised but if not, please let us know
+In terms of driving our growth ahead, of course, we have several tools available to us
+Our technology and product capabilities, our engagement with customers and our ability on the manufacturing side in terms of implementing the new technologies into production
+We would never rule out any M&A, if and when appropriate, we would absolutely consider it, but it would have to be something that does provide ROI
+So we just want to make sure that we focus on our priorities
+And our priorities at this point are to strengthen our strategy and product execution and increasing the mix of high-value solutions in our portfolio mix, while engaging with customers on defining the future generation architectures
+So again, I don't rule out any M&A, but it of course always has to be considered in the context of what value it brings and what ROI it brings
+We've mentioned earlier in the year that one of the biggest variables in terms of the quarterly level of OpEx is something we call pre-qual expense
+So as we are going through the process of qualifying either new packages or new technologies for customers those carry with them significant expenses
+When we went into this fiscal year, we suggested that they would be more heavily weighted toward the front part of the first year and you've seen that play out here as our operating expenses have flattened out
+As we look forward, we're considering OpEx as part of our fiscal year 2018 planning process and we're not quite through that
+So I think we'll be in a position to share a little bit more color on that with you on the next call
+But we are, as always, very mindful of operating expenses and operating expense progression
+So we're taking a very close look at that
+So consistent with one of the earlier answers, we are in the middle of our planning process for fiscal ’18 and certainly as we look at some of the priorities of the company, they have always been highly centered around continuing to drive our costs down
+So, despite the fact that we have been, to some degree, mindful of in the context of the cash flow of the company in the past, we’re going to continue to do the right thing and be prudent and disciplined in that regard
+We have ample opportunity to reduce the debt profile of the company
+So I appreciate your thinking we're flush with cash
+We're still not as flush as I would like to be
+So that's going to continue to be a priority of – about generating that free cash flow, as well as reducing the debt
+So consistent with our prepared remarks, those are the two things we're focused on
+And you will continue to see us be very thoughtful in how we pursue both of those here as we enter our fiscal year 2018.
+We certainly do think that that will, as it gets launched it will be driving greater demand, certainly for bits, yes
+I would expect it to be increasing over time
+I think it's important to remember that was a long-term target, and that there are years where we've been below, there are other years where we've been above
+And so I don't know that relative to a long-term target that we would be prepared to be making any changes at this point
+But by the same token - and if we do, certainly as we did earlier last year, will share that with you
+But at present time that target remains the same
+Bear in mind that it is a long-term target
+Well, I think as we noted, we are making progress every single quarter with penetrating higher value-added solutions
+And we would expect, if we are successful in continuing to execute on that, that we would be in a position to have greater revenue from those segments which may, depending on the pricing environment, to some degree mitigate a little bit the bit growth profile
+But bear in min, <UNK>, that we talked about our bit growth in context of an industry that we were estimating
+But we also used the words at or slightly below, not materially below
+So I do think it's important to keep that in mind
+And on the NAND front, we just simply said we would have a little slower growth in the first half of the year versus the second half of the year
+I wouldn't expect that we were going to be dramatically different or so underperforming the industry that it would disadvantage the company
+And <UNK> just add to that, I would refer you back to some of the 2 year cost reduction CAGR we've provided at our Analyst Day, which gives you a view of fiscal ‘17 and ‘18 together
+So that might be helpful to you as well as you think about that
+We think that the channel inventories are well within the range that we would considered to be normal
+Certainly, they have improved from a quantity point of view over the first part of this year when they were extremely, extremely short
+But in aggregate, I think that - we think that channel inventory levels are still within healthy ranges
+J
+, we think the industry for calendar '18 could be slightly higher than the range of growth in calendar '17 which is 15% to 20%
+So maybe add a couple of percentage points to either end of the range
+And we haven't shared yet bit crossover for 1x
+We've said we have meaningful output by end of fiscal year
+We're clearly on track to do that and we'll provide more perspective on that as we more fully describe our 2018 plans
+So just to make sure we're on the same page, we have given a range this year of $4.8 billion to $5.2 billion
+And we said we were trending toward that $5.2 billion range
+So it's just a couple of hundred million dollars
+And I would say that really there is no specific area that I would point you toward
+It's just doing what we need to do to make sure we are well set up here as we exit the end of the fiscal year

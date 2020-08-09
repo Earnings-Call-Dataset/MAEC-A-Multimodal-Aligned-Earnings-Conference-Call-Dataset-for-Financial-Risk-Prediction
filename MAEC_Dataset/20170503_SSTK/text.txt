@@ -1,0 +1,181 @@
+Thanks, <UNK>, and thanks, everyone, for joining us today for Shutterstock's first quarter 2017 earnings call.
+We had a solid start to the year and remain focused executing against our long-term vision.
+In the first quarter of 2017, on a constant currency and year-over-year basis, we grew revenue 14% and adjusted EBITDA 4%, as we continued to deliver strong growth across each of our key metrics.
+On a year-over-year basis, during the quarter, we grew our customer base by 13% to 1.7 million customers.
+We grew paid downloads by 6% to $43.5 million.
+We grew revenue per download by 7% on a constant-currency basis.
+We expanded our image library by 63% to 132 million images and we increased our video library by 64% to 6.9 million clips.
+We are pleased with our first quarter financial results and continued operational momentum.
+Over the past several years, we've been successfully diversifying and expanding our offerings, including providing customers with additional content type beyond stock images and more innovative search tools.
+Offering localized products so that we can increase our relevancy to customers globally, and providing best-in-class functionality to help our customers more efficiently and effectively utilize and manage their content asset.
+By building a broader product, we continue to differentiate our business from the competition and attract an increasing number of customers and contributors to Shutterstock.
+As we continue to focus on growing and enhancing our current business, we also have our sight set on bigger goals that we believe will propel us to further grow shareholder value.
+This means continuing our transition from a stock image marketplace to a broader platform that provides individual's enterprises with the various content types and tools needed to collaboratively design, build and distribute their creative projects.
+We believe that execution on this vision will result in expansion of our market leadership in a large and growing addressable market, translating into consistent growth for our business.
+On today's call, I want to share a little bit about how we are organizing ourselves to successfully execute against this vision.
+We'll start with our technology platform.
+Over the past couple of years, as we continue to scale Shutterstock, it became clear that our legacy tech stack needed an upgrade to accommodate features, functionalities and products that were being developed and which we had acquired.
+Therefore, as we have previously discussed, we've spent considerable resources over the past 18 months on this effort.
+The work that we do in this area will enable our face of innovation to be sustained far into the future, and provide us with the ability to launch more and better products with a more personalized and localized customer and contributor experience.
+We believe our technology is now set for where this business is going, not where it came from.
+We are also ensuring that we continue to be well positioned for international growth.
+We currently offer our products in 20 languages and generate approximately 2/3 of our revenue from customers outside the United States.
+International growth continues to be a big opportunity for us, and just like in the U.S, we are assembling a significant amount of data that will allow us to customize our product offerings and ensure that our customers, globally, are having a best-in-class experience on Shutterstock.
+As we looked at our technology systems and saw the need for an upgrade, we also looked at how our organization was structured.
+Over the past 2 years, we were functionally organized.
+Teams were grouped according to a similar set of rules or tasks.
+This worked well when the business was primarily an image marketplace.
+But it was something we needed to improve on as we scaled into new areas.
+Over the past quarter, we have organized ourselves to align more deliberately with our customers.
+We now have 5 customer-centric teams, including e-commerce images; enterprise, which is focused on teams and large organizations; motion, which includes our video and music offerings; editorial, including news, entertainment and sports content; and WebDAM, which delivers digital asset management and workforce solutions.
+By organizing ourselves this way, we are able to focus our product engineering and marketing efforts according to customer needs and demands, and ultimately, respond more quickly to market dynamics.
+In our e-commerce image business, we are focused on optimizing our current customer acquisition funnel and extending customer lifetime value.
+We're doing this by taking a hard data-driven look at how we are acquiring customers.
+Our pricing and packaging and also by ensuring that we have the right set of innovative products that are geographically relevant and personalized according to specific customer segments.
+There's a lot of testing and turning of the dial taking place, but we are already beginning to see significant benefit to this approach.
+In addition to these improvements, we're also continuing to develop Editor, and continue to see increased usage engagement from customers who use editor as part of their e-commerce experience.
+In our enterprise business, the team is focused on continuing to scale our global sales force and improving our enterprise product to better meet the needs of these customers.
+Our enterprise business has seen significant growth, and in Q1, represents 32% of our total revenue as compared to 29% in the first quarter of 2016.
+To keep that momentum going, we hired sales leaders for Europe and Asia last year.
+We also continued to improve our sales through rated video, music and editorial, expanding the usage of our enterprise customers, and very importantly, we are continuing development of feature-rich workflow platform to make it easier and more efficient for enterprises to manage the entirety of the creative projects on Shutterstock.
+In our motion business, which includes video and music, we are market leader and continue to focus on customer acquisition by having the best-in-class library and products experience across both of these asset types.
+We now have roughly 7 million video clips, and a paired video with an exclusive curated collection over 20,000 music tracks across genres.
+This combination is proving very powerful as we continuously get positive feedback from our customers.
+More important than the number of clips and tracks we offer is, that organizing ourselves to align with our customer needs enables us to have dedicated and streamlined resources from product, technology and market to deliver a best-in-class customer experience.
+Our editorial business is just getting started, but it's a big opportunity for us.
+Over the past year, we have built an incredible library of news, sports and entertainment content, which is seeing the sales channel and growing our customer base.
+Content partners want to work with Shutterstock and editorial and we are capitalizing on the expanded content that we have in place.
+We also believe we have an opportunity to take editorial prior to a level that hasn't been seen yet in the industry and we look forward to showing you the features and functions we are working on in the future.
+Finally, we have a growing offering in enterprise workflow around our WebDAM brand.
+In addition to WebDAM's flagship digital asset management offering, we launched our brand management tool in 2016, and earlier this year, created a collaboration and project management tool named Workstream.
+With WebDAM, we are busy building a comprehensive suite of services with various enterprise customers that come to us for the creative needs.
+As you can see, we are taking actions to organize ourselves for future growth across our business, and in time, we plan to provide more details around progress in each area.
+In summary, we had a solid quarter, and we are taking the right steps to continue acquiring content for our customer base and provide valuable solutions for customers.
+All of which, we will believe will deliver long-term shareholder value.
+We have an organization of framework, for where we see our business heading into future and how to differentiate a set of assets and tools that we believe will enable us to create significant value for our customers, contributors, employees and shareholders.
+I will now turn the call over to <UNK> to go into more detail on the drivers of our financial performance this past quarter.
+Thanks, Jon, and thank you, everyone for joining us today.
+Before I discuss our performance, I want to let you know that we have posted a brief presentation deck on our website, which contains supporting materials for our quarterly results, as well as other items discussed on today's call.
+As Jon highlighted, Shutterstock had a solid start to 2017, and continued to deliver profitable growth and operating momentum.
+Continued growth across our business, translated into revenue growth in the first quarter of 2017 on a reported basis of 12% and an adjusted EBITDA margin of 18%.
+On a constant currency basis, revenue growth was 14% and adjusted EBITDA growth was 4%.
+We continue to see growth trends across our key metrics as we attract the new customers across our multiple product offerings and increase engagement and customer lifetime value.
+This past quarter, our customer base expended 13% to 1.7 million customers as compared to the prior year's first quarter, we saw a 6% increase in paid downloads, driven by growth in new customers as well as increased activity across our existing user base.
+We also saw revenue per download increased 5% on a reported basis or 7% on a constant-currency basis, primarily driven by continued growth in our enterprise and motion businesses, which operate at higher price points than our traditional e-commerce images offering.
+As Jon mentioned, international expansion and localization continues to be a core part of our long-term growth strategy.
+In the first quarter of 2017, on the approximately 64% of our revenues is from customers outside United States, approximately half of this customers in Europe, with the balance from Asia-Pacific and Latin America.
+Excluding the impact of foreign currency movements, revenue from all of our regions grew at double-digit rates in the first of quarter 2017, as compared to the same quarter of 2016.
+Shifting to the cost side of the business.
+We continue to align our expenses against revenue opportunities in a focus on long-term profitable growth in cash flow.
+For the first quarter of 2017, operating expenses increased 13% versus the first quarter of 2016, driven primarily by higher contributor royalty payments associated with our growing revenue and an increase in sales and marketing spending year-over-year.
+Contributor royalty payments were approximately 28% of revenue in the first quarter of 2017, which was consistent with the second half of 2016.
+Now we will discuss some of the major expense categories.
+For each of the categories discussed, my comments and the numbers referenced exclude stock-based compensation expense.
+Our sales and marketing expense increased 21% versus the first quarter, a year ago.
+It's important to note that on year-over-year basis, our sales and marketing spend is compared to the first quarter of 2016, in which our sales -- in which such spend was a lower than normal level as a percentage of revenue.
+In the first part of this year, our sales and marketing spend represent the 24% of revenue, which is consistent with 2015 as well as the full year of 2016 spend.
+Overall, the cost of acquiring a new customer remain steady and our customer lifetime value remains consistent due to steady retention and repurchase rates.
+Additionally, as we continue to build our enterprise sales engine, we've been able to keep sales rep productivity and ramp rates consistent with historical levels.
+Product and development costs increased 8% in the first quarter of 2017 versus the first quarter last year, primarily due to higher personnel and consulting cost related to building a more expansive platform, which will -- which was partially Offset by the capitalization of labor of approximately $5 million.
+General and administrative expenses increased by 30% versus the first quarter last year, driven primarily by higher personnel cost and consulting expenses related to implementations of the applications Workday and salesforce.com.
+Overall, our revenue growth in the first quarter, along with our consistent focus on managing our cost, translated into the adjusted EBITDA growth of 4% on a constant-currency basis.
+GAAP net income grew -- in the quarter grew 8% to $6.6 million or $0.19 per diluted share.
+This increase was driven primarily by improved operating performance, lower tax expense and a decreased year-over-year in our diluted shares, resulting primarily from our stock buyback program.
+Adjusted net income was $11 million or $0.31 per share for the first quarter of 2017.
+As a reminder, we acquired PremiumBeat in March of 2015 and we have seen positive results from the acquisition.
+In the first quarter, we paid the final contingent consideration payment related to this acquisition, and as a result, free cash flow was reduced by $6.3 million, and $3 million of which was for the first quarter.
+We finished the quarter with approximately $250 million of cash, cash equivalents and short-term investments.
+Finally, we want to provide an update on our stock buyback program.
+This past quarter, we repurchased roughly $23 million worth of stock, reducing our share count by approximately 450,000 shares.
+Through the end of the first quarter, we have utilized approximately $100 million of the total $200 million that has been approved and authorized by our Board of Directors.
+Looking to the remainder of 2017, we remain encouraged by the momentum across our businesses and on leaving our full year guidance unchanged.
+For the full year and first quarter of 2017, we provided detailed guidance in our press release.
+Headline financial guidance is as follows.
+Revenue of $545 million to $560 million, and adjusted EBITDA of $105 million to $110 million.
+In closing, and as Jon has highlighted earlier in his comments, we are confident in the fundamentals of our business.
+We are growing both our e-commerce and enterprise customer bases, increasing engagement on our platform with tools like Editor and to our full suite of content options, like images, video, music and editorial, and we are continuing to invest in our product and technology to position us well for long-term profitable growth.
+We thank you for your time today, and now Jon, and I would be happy to answer any questions you may have.
+Emily, please prompt the call participants for questions.
+Just a couple of questions.
+If I just look at e-commerce growth and show it to kind of mid-single digits.
+And Jon, just putting that in context with your remarks about things that you're doing to basically drive better engagement, do you think e-commerce can, again, come back into a double-digit growth.
+And then I had a follow-up question on the enterprise.
+Yes, I'll start.
+Yes, I think that the core part of our business can grow again.
+And we are focused every day on coming into this office and working together to do that.
+Part of the reorganization we went through where we organized the company into GM verticals is really going to help us do this.
+We are in new tech stack, we have a lot of great ideas.
+We know the market is really large.
+We sell to businesses.
+Businesses use our images every day to sell their products and service.
+We have 1.7 million of these customers today and we know there is tens of millions of more customers out there that need these assets to sell their products, to sell their services.
+As we've talked about the web in prior calls, we, in 2016, moved our tech stack to update it after many years of kind of not bringing into if you were the next generation.
+So that we believe, based on that, we'll improved the ability of our launching of features and functionality to improve the customer experience and so we clearly have done that with the expectation of reacceleration of the growth in e-commerce business.
+Okay.
+And then on the enterprise side.
+It looks like it's doing very well, going on 25% or so.
+How much of that is driven by growth in calendar versus penetration of existing calendar you might have.
+And can you just also touch upon the opportunity within enterprise outside the U.S.
+What do you see there and where you are at, currently.
+So the split between expansion within existing customers and new is about 50-50.
+And so we're seeing our continued retention and spend from our existing customers as well as the attraction and spend from new enterprise customers.
+It -- that's primarily in the image business.
+We see opportunities in video, editorial and music, both domestically as well as outside the U.S. So that's really a global opportunity as those products become more greater utilization in from stock providers.
+In addition, we -- our strategy and as we've indicated in our remarks, we've put a senior sales leader in Singapore, because of the significant opportunities in the Asia-Pacific region.
+About a year ago, we put a senior sales leader in Europe to further expand our presence and our opportunities there.
+And so we continue to see significant opportunities globally.
+Despite the fact that 2/3 of our revenue come from customers outside the U.S., we believe that the opportunities continue to be material.
+Okay.
+And then the 2/3 comment also applies to enterprise, so 2/3 of enterprise there in is also from non-U.
+S.
+No, it's 2/3 of overall.
+But still, remember, as you know, in the lifecycle of a customer, it's often that a customer will be in our e-commerce business, and then either evolve to or come to our enterprise business.
+So we look at the 2/3 as a total number.
+That's the best, because that's what it is mathematically, but that's the best way to evaluate it.
+Yes, it's early days for all of our workflow tools.
+We know that people that use editor stay with us longer.
+We can see that they're more engaged.
+We see that they're using the tools, we're adding features and functionalities to Editor every month.
+And I see a pretty big future for Editor as it's only available on our core product.
+We eventually want it to be available on our enterprise product and even for other asset types as we start to build that out.
+We have an entire team working on machine learning and artificial intelligence type features that will be implemented more and more in our search results and even could be part of our editor product in the future.
+So there's a lot of stuff we're working on that hasn't reached the customer yet that will be very exciting when it does.
+I'll start on the platform.
+So through the history of Shutterstock, we fought hard to build and grow fast through individual [file] load asset types, and that worked for a while.
+Until around 2013 or '14, when we decided to agree on a common tech stack and bring all of our asset types and platforms, whether we organically built this or we acquired this onto a single tech stack.
+We are well through that process.
+There's always going to be pieces of the platform that we're upgrading.
+There's always going to be tech stack we're working our way out of.
+But we're going to a place now where we have an agreed upon platform throughout the company that we all build on.
+And we are moving the remaining pieces of those acquisitions and organic pieces that we grew on to this new platform.
+That will enable us to move faster, cross-sell between products, understand who customers are between all of our products, and our customers that allow us to do things like focus on reaccelerating growth in the quarter, for instance.
+As it relates to the LTV metrics, what I would tell you is that we're looking at overall conversion rate.
+We look a total overall volume, and we look at retention.
+And so when we take the combination of these across all of our products, we are seeing very good results.
+We don't share specific results by product, but what we can tell you is that we believe that our offerings are finding the customers, they are attractive to customers and on an overall basis, we believe that as we have done in the past, will continue to iterate to make sure that we are meeting the needs of customers globally, and it's a dynamic customer base and we'll continue to serve their needs, but we feel very good about where we are at this time.
+The retention rate.
+Yes, 92%.
+Yes, I'll just refer back to the last answer I gave in terms of -- what we are seeing is that we have -- we recognize that there are everything from project-oriented users, there are small and medium-size businesses that utilize images and other assets, music video and so on a more regular basis.
+There are freelancers and then there are, if you would, large enterprises that are utilizing huge numbers of assets over by -- on a daily basis.
+And what we are doing is, we're making sure that from our small medium-size business products, our enterprise products, our team subscriptions, as well as our individual users, that we are providing them with the pricing and packaging that meets their needs on a fair value basis, and so we're not ever trying to be the lowest price.
+We're trying to be the best value for the work and the projects that they're doing, and when we do that, we see high long-term values existing with our return on investments that we've had historically.
+So I would start with a couple of things.
+One is, in terms of -- if you think about the history that we've gone through in terms of the legacy business of just traditional 25 a day images, now that being a multi-asset platform with tools for users to modify their assets into, to create assets that are customized for their particular need.
+When we think about that, whether it be the editorial business with Rex where we really utilize that as the basis of our platform to build out our editorial business.
+And then signed deals with PMC and associated -- Penske Media, Associated Press, Billy Farrell.
+We recently had, for the second year in a row, the exclusive of the Met Gala, inside.
+We've done numerous events on a global basis that we hadn't.
+So using that, we've lots of customers who want to actually acquired both editorial, as well as commercial that is creative assets that are, if you would, the traditional images that we've sold.
+So that enables us to cross-sell primarily to enterprise, but also some more and medium-size and some individual customers, so that's significant.
+As we think about music and video, when you -- there are upcoming movies and upcoming commercials in which we have typically sold, for instance, to studios and the productions arena images who are now using our video product in major feature films, where that had been, I'd say, less common in the past, it's now not just more common, it's actually a place where creative talent in terms of videographers and cinematographers and directors will come to Shutterstock as a first stop for that type of content.
+And the same is true for music.
+So it's becoming a much more -- as those assets are easier to use, as the technology has become easier to incorporate stock content into their productions, we're seeing cross-platform activity once again, from all venues, with all customer type segments, whether it be on a production side or on creatives in major corporations or a even small medium-size businesses.
+Yes.
+I mean, if you look at our pages, they change all the time.
+We constantly updating them.
+If you look at the even the responsiveness of our core site, speed is way up.
+The site will feel snappier from page to page.
+That is our new platform at work.
+And we plan to get better and better at things like site speed globally as we start to move that could to the edge in a more cloud-based environment.
+Thanks very much for your time today.
+We appreciate it and we'll talk to you in the next quarter.

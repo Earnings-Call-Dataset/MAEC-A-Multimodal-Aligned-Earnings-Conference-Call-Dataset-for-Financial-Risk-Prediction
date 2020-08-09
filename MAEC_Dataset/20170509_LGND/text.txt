@@ -1,0 +1,193 @@
+Good afternoon, and thanks for joining the call.
+The first quarter of 2017 was a very solid quarter, financially, coming in line with our expectations and setting us on a path to achieve our core revenue outlook of at least $130 million for the year.
+We signed a few important new licensing deals during the quarter; and the OmniAb business, our antibiotic discovery technology, continues to perform very well.
+Now of note, royalty revenue was especially strong, coming in just over $24 million for the quarter.
+That\
+Thanks, <UNK>.
+I'll start today by reviewing recent developments for some of our partner programs, and I'll also provide updates on our Captisol and OmniAb platforms and related licensing activities.
+And I'll discuss our Phase II clinical trial for our glucagon receptor antagonist or GRA diabetes program.
+We're continuing to see late-stage positive progression by a growing number of our partners.
+Our partners at Melinta Therapeutics presented data from the Baxdela clinical program at the European Congress of Clinical Microbiology and Infectious Diseases or ECCMID conference in late April.
+Baxdela has completed Phase III testing and it is the subject of a new drug application that is currently under review at the FDA for the treatment of patients with serious hospital-treated skin infections.
+The presentations at ECCMID included data from the Phase III program and demonstrated that Baxdela is comparable to vancomycin as treatment in combo therapy in the treatment of patients with acute bacterial skin and skin structure infections.
+Importantly, this was demonstrated not only in the global study population, but in 3 key subgroups: patients with diabetes, patients with renal impairment and obese patients.
+The action date for the Baxdela NDA is June 19, so about 5 weeks from now.
+If approved, Ligand will earn a $1.5 million payment, given Captisol's use in the IV form of the drug.
+Melinta also recently announced the execution of a license agreement with the Menarini Group for exclusive rights to commercialize Baxdela in 68 countries in the EU, Asia-Pacific and other ex U.S. regions.
+Menarini is a global, leading pharmaceutical company, with over 16,000 employees worldwide and with a presence in more than 100 countries, including a direct presence in more than 70 countries.
+As a general reminder, Ligand has a 2.5% royalty on global net sales of Baxdela IV.
+Additionally, our partners at Eli Lilly indicated on their recent Q1 earnings call that they continue to be excited about Prexasertib, which is a small molecule inhibitor of checkpoint kinase 1 or CHK1 and, to a lesser extent, CHK2.
+Prexasertib utilizes our Captisol technology in its formulation.
+Just for some foundational background, CHK1 is a global regulator of the cell cycle, and in addition to the regulating DNA damage checkpoints, CHK1 plays essential role in the normal DNA replication, resolving replication stress, progression to mitosis and cytokinesis.
+Inhibition of CHK1, in the absence of DNA damage, can cause impaired DNA replication, loss of DNA damage checkpoints, premature entry into mitosis with highly fragmented DNA in cell death in what's called replication catastrophe.
+Prexasertib is being investigated by Lilly in Phase II clinical trials in patients with head and neck cancer as well as small cell lung cancer.
+And Lilly indicated on their recent earnings call that we should see more data on Prexasertib over the coming next few months, along with updates from them on future development plans.
+Switching now to Sparsentan.
+Our partners at Retrophin met with FDA in the first quarter and received agreement on a path to approval with a single Phase III trial that is to include an internal readout.
+Retrophin have indicated that they expect to finalize the Phase III protocol with the FDA in the second half of this year and start the Phase III near the end of the year.
+Additionally, Retrophin has indicated that they are working with the European regulatory authorities to position the Phase III trial for European registration as well.
+We look forward to further update from this high-profile program and also look forward to more dialogue around the asset at upcoming renal scientific meetings.
+Our partners at Aldeyra Therapeutics recently announced the start of a Phase III clinical trial of Captisol-enabled topical ocular ADX-102 for the treatment of non-infectious anterior uveitis or NAU.
+They started the trial following positive results from a Phase II trial that was announced last year.
+ADX-102 is a novel aldehyde trap and is being developed for a rare and potentially blinding ocular disorder that affects approximately 150,000 patients in the U.S. In contrast to corticosteroids, which are often used to treat NAU, ADX-102 does not appear to cause increases in intraocular pressure, which is a precursor to glaucoma.
+And according to our partners and Aldeyra, ADX-102 may represent a safer therapeutic option than the current standard of care.
+The Phase III clinical trial that was recently started is expected to enroll up to 100 NAU patients with active disease, randomized equally to receive either a topical ocular ADX-102 or vehicle for 4 weeks.
+Consistent with the successful Phase II trial, the primary endpoint will be the resolution of inflammation.
+Results from that Phase III trial are expected in the second half of 2018.
+As announced previously, in the first quarter, Vertex announced that it licensed rights to Captisol-enabled VX-970 to Merck KGaA, also known as EMD Serono.
+Now that the program has been brought into the clinical pipeline at Merck KGaA, it has been renamed as M66207, and we look forward to future progression and to discussing the program at next month's ASCO meeting.
+Switching now to Licensing.
+Both our Captisol and OmniAb technologies continue to bring significant value to partners and are facilitating growth and progression of our partner pipeline.
+We continue to be pleased with the progression of the OmniAb technology and with the feedback we get relating to the technology from current and prospective partners.
+Our OmniAb team is coming off at very successful Protein Engineering Summit or PEGS conference last week in Boston, which is one of the premier annual globally attended event in the antibody discovery space.
+Dr.
+Christel Iffland of Ligand presented the technical details and benefits of the OmniAb platform to a full room of over 130 PEGS attendees during an oral session at the meeting.
+Our existing OmniAb partners are showing significant intangible progression of OmniAb antibodies.
+One of the latest example of this is the Janssen J&J, who filed an IND for an OmniAb antibody in Q1 that resulted in a $1 million milestone payment to Ligand.
+At PEGS last week, our partners at Aptevo, who formed via a spinoff from Emergent Biosciences, (sic) [Emergent BioSolutions] presented positive preclinical data for their OmniMouse-derived anti-CD123 antibody, showing strong in vitro efficacy and picomole arranges and favorable manufacturability properties when formatted as a bi-specific antibody along with and anti-CD3 for key cell engagement.
+Aptevo refers to the drug as APVO436, and we look forward to watching the progression of this new OmniAb preclinical program.
+We also recently completed a worldwide OmniAb platform license agreement with bluebird bio.
+Under the terms of the deal, bluebird will be able to use the OmniRat, OmniMouse and OmniFlic platforms to discover fully human mono- and bispecific antibodies as well as antibody fragments targeted to the CAR field.
+For Captisol.
+In Q1, we entered into new Captisol license agreement with Eisai, and we expanded our clinical-stage relationship with Marinus for Captisol-enabled IV ganaxolone to a full commercialization and supply relationship.
+Merck also added an additional novel compound to their Captisol platform license agreement with us in Q1.
+And I'll conclude with a brief remark about our internal pipelines, specifically our glucagon receptor antagonist or GRA program, also known as LGD-6972.
+We completed enrollment into our Phase II trial in February, and are on track to have data in September.
+We've been pleased with the conduct and progression of the trial thus far, as we initiated this trial -- this Phase II trial in September of last year, and are on track to have the data within a year from when we started the trial.
+We're excited about the program and believe we have what could be a first-in-class and/or best-in-class molecule for a novel mechanism of treating diabetes.
+I note that the landscape in the GRA space continues to evolve.
+Lilly and Pfizer have attempted to develop small molecules, and glucagon also remains a target of interest in diabetes with other therapeutic approaches, too, with Ionis progressing an antisense program; and Pfizer beginning early work on a Phase I-stage antibody targeted at the glucagon receptor.
+We believe that we may have a best-in-class and highly differentiated small molecule compared to prior molecules that were tested clinically.
+We're excited to see our Phase II data in September and expect to talk more about the various differentiating technical features of LGD-6972 at the right time.
+And with that, I'll turn the call over to Matt <UNK> to discuss the financials.
+Thanks, Matt.
+I'll start my remarks today with financial highlights from our earnings release.
+Total revenues for the first quarter of 2017 were $29.3 million and included royalty revenue of $24.2 million.
+Royalty revenue increase to 68% versus the year-ago period reflects higher Promacta and Kyprolis royalties as well as the addition of the EVOMELA and CorMatrix royalties.
+Captisol material sales for Q1 were $1.1 million, and license fees and milestones for Q1 $3.9 million.
+As <UNK> mentioned, our corporate gross margins were almost 99% this quarter.
+Our royalty revenue and our license and milestone fees are reported net on the revenue line with a 100% gross margins.
+For the year, we continue to expect overall corporate gross margins in the mid-'90s, as we look for material sales to be a larger portion of revenue mix for the balance of the year as compared to Q1.
+On the expense side, our cash, R&D and G&A expense came right in line with our expectations at just under $10 million this quarter.
+This quarter was expected to be heavier compared to the balance of the year, due primarily to the ongoing GRA trial and completion of enrollment.
+For the full year, we continue to be on track for $28 million to $30 million of cash expenses.
+Turning to cash flow.
+Our cash flow from operations for the quarter was $24.2 million, and we continue to track towards $96 million of EBITDA, assuming our guidance for core revenue of $130 million as achieved.
+And we continue to pay less than 1% cash taxes.
+But for both GAAP and adjusted income purposes, we show a fully taxed net income.
+For the quarter, we reported adjusted net income of $12.6 million or $0.57 per diluted share, and we had GAAP net income of $5.1 million or $0.22 per diluted share.
+One quick comment on the GAAP earnings.
+This quarter will (technical difficulty) one of the larger items that impacted GAAP earnings related to stock-based comp associated with the OMT transaction.
+As previously disclosed, as part of our transaction to acquire OMT and the OmniAb technology, we issued a sizable equity-retention package to the OmniAb scientific founder and employees that we brought into the Ligand fold.
+We're pleased to report that the OmniAb business continues to outperform our former expectations and, as such, the employees of OMT earned a portion of their equity rents this past quarter by achieving performance goals.
+Specifically, there was a $2.5 million charge for the vesting of those shares that was booked to R&D in Q1.
+With the transaction having closed in early 2016, these type of incentive payments were structured to run 2 years and should end in 2017.
+On the balance sheet, we ended the quarter with just over $159 million of cash and investments.
+And now turning to guidance.
+We continue to see solid revenue growth for 2017 and our guidance is unchanged.
+Our core revenue estimate continues to assume about $87 million of royalties, about $23 million of material sales and at least $20 million of milestones and license fees.
+With respect to the upside on milestones, we still see $24 million of potential upside for the balance of the year, in addition to the $20 million of core milestone revenue.
+This range of upside's tied to over 20 events, mostly of a clinical and regulatory nature that are impossible to predict the outcomes of until more information comes in.
+Adjusted earnings per diluted share, at the $130 million level, is still projected to be $2.70, and each additional million dollars of revenue generates about $0.025 to $0.03 a share in EPS.
+Lastly, I'll address a few other accounting topics.
+Regarding ASC 606, the new revenue recognition guidance that will be widely implemented by all companies in 2018, we continue to make good progress in evaluating the potential impact to Ligand.
+We're continuing to go through each of our contracts with our partners in determining the change, if any, under the new guidance.
+As mentioned in our previous disclosures, we expect the primary impact for Ligand to involve an acceleration in timing of the recognition of our royalty revenue by 1 quarter.
+We do not expect the guidance to have much impact to our materials revenue on our milestone and license fee revenue.
+The other accounting topic I wanted to comment on relates to our CyDex CVR payments.
+As investors in Ligand well are aware, we acquired CyDex and their Captisol technology in 2011, and since that time, we've shared a portion of CyDex-related revenue over certain thresholds with the former CyDex shareholders.
+We made our last revenue sharing payment to CyDex in the first quarter and, going forward, will benefit from 100% of the revenue related to CyDex, other than specific CVR payments tied to our clopidogrel and topiramate programs.
+As a result, starting in 2017, we'll benefit from improved cash flow from our Captisol material sales and other CyDex-related revenue streams.
+Finally, as a reminder, our adjusted diluted EPS guidance excludes stock-based compensation expense, noncash debt-related costs, changes in contingent liabilities, transactions related -- transaction-related purchase price amortization, pro rata net losses of Viking Therapeutics as well as fair value adjustments to our holdings in our common stock, convertible note receivable and warrants, and mark-to-market adjustments for amounts owed to licensors, and the excess convert shares covered by bond hedge and certain one-time non-recurring items.
+With that, I'll turn the call back over to the operator and open it up for questions.
+<UNK>, it's Matt.
+Generally speaking, Captisol has traditionally been a Q4-heavily weighted business, and similar to last year, we continue to expect second half to be heavier than the first half and Q4 to be heavier than Q3.
+So I think our assumption is we'll see sort of a steady growth over the next couple of quarters and then a bigger Q4.
+Matt, do you want to comment on other Captisol dynamics.
+Yes -- no, there are elements, Drew, to the second part of your question, for some contracts that will have binding and non-binding windows when people graduate to commercial stage.
+But on the clinical stage, obviously, the orders can be lumpy as people start-up trials or have meetings with the FDA that define the design of their preclinical or clinical trial, so there's still little a lumpy element to it.
+Yes.
+So the total trial was $8 million to $10 million over the course of -- from we started it and through the balance of this year.
+So most of that will happen in this year, but some of it was last year.
+The R&D number really will be more heavily weighted as it relates to the trial for Q1, and that's really the bulk of the budget in terms of -- or certainly the biggest line item in the budget for the year.
+And so if you're talking about quarter-over-quarter this year, I'd expect the balance of the year to be roughly similar for the -- each of the remaining 3 quarters, so spread evenly for the rest of the 3 quarters.
+Yes, <UNK>, I can comment on that.
+Matt can probably add a little more color.
+There is a milestone payment associated with Phase III initiation, so that was disclosed recently.
+So there is a milestone payment associated with Phase III start of the Retrophin Sparsentan trial.
+Yes.
+And in terms of milestone pacing for the year, it's the same answer.
+We don't have as much control or visibility into when the timing of those milestones are going to happen, but we do expect a bit more in Q4 this year than we do in the other quarters, sort of similar to last year.
+Yes.
+The milestone itself is $1.6 million to Ligand.
+There's a portion that we owe to BMS, given their heritage with the program, but it's $1.6 million to Ligand.
+<UNK>, thanks, it's <UNK>.
+I'll add a comment.
+Then Matt <UNK> can remark as well.
+Clearly, a lot of interest on a program you just asked about, Sparsentan and also SAGE's program.
+They're developing SAGE-547 for SRSE.
+Both of these programs are very interesting.
+There's good data out.
+I think, a lot of clinical and regulatory momentum with the programs.
+With Sparsentan, it's a 9% royalty.
+It's a significant royalty, and it's an indication that has been described to have a potential for a fairly large market size.
+So that's the data we saw the first time last fall and, obviously, we're monitoring closely, Retrophin's messaging about timing for when the next trial will start, but that is one -- SAGE-547, again, is very interesting.
+It's being developed by a highly capable team at SAGE.
+Tremendous amount of clinical data has come out of it for SRSE, a coma-related indication, and also PTD.
+Those are 2 that have garnered a lot of interest from institutional investors.
+We have highlighted a few recent developments for their OmniAb program, and this is a substantial developing story.
+We have over 23 partners.
+Each one has numerous antibodies in various stages of development.
+This year, we're seeing several move into human testing.
+And the eventual potential for any one of these programs, plus the royalty rate, makes these assets a really attractive and growing narrative for Ligand.
+Although, they are still earlier stage.
+So those are the 2 headlines, and I'll just turn it over to Matt to add a little more color.
+Yes, just as -- you were asking about kind of looking across the pipeline, and I'll say that the pipeline grows and progresses and it has been over the recent quarters.
+It's really the diversity that starts to stand out, in many ways, too.
+There are, obviously, a number of programs.
+<UNK> highlighted a couple that are exciting and there are a number of other ones emerging as well.
+But as you look across the portfolio, the diversity of underlying technologies between Captisol, OmniAb, those that have underlying intellectual property associated with the NCE, as is the case with Sparsentan, those that came by way of the Selexis transactions, you really start to get a sense of that element of diversity, but also the diversity of therapy area as well and oncology and cardiometabolic, specialty Pharma as well as biosimilars, now that are starting to emerge and graduate and start to get a lot more attention as they become late stage.
+I'll mention the Coherus program as an example.
+So a number of those are starting to become more visible as well as, I'll say, the Lilly programs that utilize Captisol; the Prexasertib as well as merestinib, which is the small molecule MEK kinase inhibitor at Lilly, these are ones that we're starting to pay more attention to, internally.
+Yes.
+Thanks, <UNK>.
+We -- as we said, we still see Captisol right in line with where we did at Analyst Day when last week we gave our sort of our core revenue estimate, and also that the pattern that we see every year is sort of a back-end half of the year Q4 heavier buying from our customers, and so we expect to see that again this year as well.
+So we're still right on track with Captisol.
+Yes, thank you.
+This is Matt <UNK>.
+The folks at J&J Janssen have moved a Phase I candidate into the clinic.
+So that -- we are obviously pleased with that progression.
+We also have a couple of others that are in the clinic now through a Chinese partner, so those are in the clinic in China.
+Genentech also has a Phase I program that entered into the clinic in recent months as well.
+I'll note, on that program that Genentech actually did an early deal with OMT prior to our acquisition of them, so they have a fully paid license.
+But from a technical perspective, it's been very good to see that program progressing well and began being highlighted at Genentech.
+Also, I'll just briefly mention Aptevo, which is the newest named Captisol -- or sorry, named OmniAb antibody that is now progressing its preclinical at this point, but they highlighted some very impressive data on an antibody that was pulled out of OmniMouse at the PEGS conference last week in Boston.
+Yes.
+Thanks, <UNK>.
+Obviously, we talked a little bit about Sparsentan in prepared remarks and the folks at Retrophin gave an update that they are finalizing the Phase III protocol right now with the FDA.
+We'll be doing that in the second half of the year and they expect to start Phase III near the end of the year.
+You're going to bring up -- at the -- it's a good point.
+At their call last week, they talked about -- the folks at Retrophin talked about other potential indications for Sparsentan downstream of FSGS.
+We really don't have a lot more information on what those indications are.
+I think it's safe to say there are a number of glomerular nephropathies where Sparsentan could play an important role.
+So we'll keep an eye and ear out on Retrophin's disclosures there as they explore other indications.
+So I heard CorMatrix.
+On CorMatrix, the -- they're right on expectations.
+They continue to commercialize the business in a way that is right in line with our expectations.
+And on Carnexiv, I'll turn it over to Matt.
+Yes, so Carnexiv, a drug that's approved, Captisol-enabled drug.
+Lundbeck got approval in October of last year.
+We're still awaiting an update from them on launch.
+They were getting some supply chain elements ready prior to launch.
+So that's still pending launch.
+Thank you.
+Well, we appreciate the people's turnout and interest in our call today.
+Apologize, we'll work with the operator.
+Not sure what happened in the early minutes of the call, and just want to acknowledge those who were disrupted by that.
+We'll look into it.
+We have a couple of conferences coming up.
+May 31, we'll be at the Craig-Hallum conference in Minneapolis with investors.
+And then, a week later we'll be in New York City presenting at the Jefferies conference on June 8 -- I'm sorry, June 7 -- June 8th.
+The conference is the 7th and 8th.
+Anyhow, we do appreciate your interest and turnout, and we look forward to keeping you updated as the year progresses.
+Thank you very much.

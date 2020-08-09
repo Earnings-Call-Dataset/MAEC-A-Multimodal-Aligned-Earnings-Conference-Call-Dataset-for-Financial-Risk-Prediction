@@ -1,0 +1,196 @@
+Thank you, operator, and good afternoon, everyone.
+Welcome to VeriSign's Fourth Quarter and Full Year 2017 Earnings Call.
+With me are: Jim <UNK>, Executive Chairman, President and CEO; Todd Strubbe, Executive Vice President and COO; and <UNK> <UNK>, Executive Vice President and CFO.
+This call and our presentation are being webcast from our Investor Relations website, which is available under About VeriSign on verisign.com.
+There, you will also find our fourth quarter and full year 2017 earnings release.
+At the end of this call, the presentation will be available on that site.
+And within a few hours, the replay of the call will be posted.
+Financial results in our earnings release are unaudited, and our remarks include forward-looking statements that are subject to the risks and uncertainties that we discuss in detail in our documents filed with the SEC, specifically the most recent reports on Forms 10-K and 10-Q, which identify risk factors that could cause actual results to differ materially from those contained in the forward-looking statements.
+VeriSign retains its long-standing policy not to comment on financial performance or guidance during the quarter, unless it is done through a public disclosure.
+The financial results in today's call and the matters we will be discussing today include GAAP and non-GAAP measures used by VeriSign.
+GAAP to non-GAAP reconciliation information is appended to our earnings release and slide presentation, as applicable, each of which can be found on the Investor Relations section of our website.
+In a moment, Jim and <UNK> will provide some prepared remarks.
+And afterward, we will open the call for your questions.
+With that, I would like to turn the call over to Jim.
+Thanks, <UNK>, and good afternoon, everyone.
+I'm pleased to report another solid quarter, which capped a strong 2017 for VeriSign.
+Fourth quarter and full year results were in line with our objectives of offering security and stability to our customers while generating profitable growth and providing long-term value to our shareholders.
+For 2017, VeriSign delivered strong financial performance, reporting $1,165,000,000 in revenues, resulting in $653 million in free cash flow and generating full year 2017 non-GAAP operating margins of 65.3%.
+2017 was a strong year for the .com and .
+net domain name base in which the company processed 36.7 million registrations and finished the year with 146.4 million names.
+During the year, we marked more than 20 years of uninterrupted availability of the VeriSign DNS for .com and .
+net.
+Also last year, we renewed the .
+net registry agreement for another 6 years until 2023.
+During the fourth quarter, we continued our share repurchase program by repurchasing 1.3 million shares for $145 million.
+During the full year 2017, we repurchased 6.3 million shares for $593 million.
+Effective today, the Board of Directors increased the amount of VeriSign common stock authorized for share repurchase by approximately $586 million to a total of $1 billion authorized and available under the share repurchase program, which has no expiration.
+Our financial position is strong with $2.4 billion in cash, cash equivalents and marketable securities at the end of the quarter.
+We continually evaluate the overall cash and investing needs of the business and consider the best uses for our cash, including potential share repurchases.
+At the end of December, the domain name base in .com and .
+net totaled 146.4 million, consisting of 131.9 million names for .com and 14.5 million names for .
+During the fourth quarter, we processed 9 million new registrations and the domain name base increased by 0.57 million names.
+During the quarter, we continued to see strength from domestic registrars, which was offset by a lower second-time renewal rate associated with the remaining China surge names from late 2015.
+Although renewal rates are not fully measurable until 45 days after the end of the quarter, we believe that the renewal rate for the fourth quarter of 2017 will be 72.2%.
+We expect full year 2018 domain name base growth of between 2% and 3%.
+For the first quarter, we expect an increase to the domain name base of between 1.5 million to 2 million registrations.
+I'd like to comment now on a recent positive development in our efforts to become the registry operator for .
+web.
+You may have seen the 8-K we filed in January.
+In it, we disclosed that the U.S. Department of Justice's Antitrust Division notified us that it had disclosed its investigation regarding the .
+web top level domain.
+We are now engaged in ICANN's process to move the delegation of .
+web forward.
+<UNK>owever, as this is ICANN's process, we cannot say when it will conclude.
+And while it's possible that our operation of .
+web will commence this year, the 2018 revenue guidance we will provide does not include any revenue from .
+Of course, we'll provide you with updates as appropriate.
+And now I'd like to turn the call over to <UNK>.
+Thank you, Jim, and good afternoon, everyone.
+For the year ended December 31, 2017, the company generated revenue of $1,165,000,000, up 2% from fiscal 2016, and delivered GAAP operating income of $708 million, up 3% from $687 million for the full year 2016.
+Revenue for the fourth quarter totaled $296 million, up 3.2% year-over-year and up by 1.1% sequentially.
+During the quarter, 60% of our revenue was from customers in the U.S. and 40% was from customers abroad.
+As it relates to fourth quarter GAAP results, operating income totaled $176 million compared with $169 million in the fourth quarter of 2016.
+The operating margin in the quarter came to 59.7% compared to 59% in the same quarter a year ago.
+Net income totaled $103 million compared to $106 million a year earlier, which produced diluted earnings per share of $0.83 in the fourth quarter this year compared to $0.84 for the fourth quarter last year.
+As of December 31, 2017, the company maintained total assets of $2.9 billion and total liabilities of $4.2 billion.
+Assets included $2.4 billion of cash, cash equivalents and marketable securities, of which $729 million were held domestically with the remainder held abroad.
+I'll now review some additional fourth quarter financial metrics, which include non-GAAP operating margin, non-GAAP earnings per share, operating cash flow and free cash flow.
+I then will discuss our 2018 full-year guidance.
+As it relates to non-GAAP metrics, fourth quarter operating expense, which excludes $13 million of stock-based compensation, totaled $106 million compared to $97 million last quarter and $103 million in the same quarter a year ago.
+Non-GAAP operating expenses were higher in the fourth quarter as we had indicated on our last call, primarily due to an increase in sales and marketing spending in the fourth quarter.
+Non-GAAP operating margin for the fourth quarter was 64.1% compared to 63.9% in the same quarter of 2016.
+Non-GAAP net income for the fourth quarter was $119 million, resulting in a non-GAAP diluted earnings per share of $0.96 based on a weighted average diluted share count of 124.3 million shares.
+This compares to $0.92 in the fourth quarter of 2016 and $1 last quarter based on 125.5 million and 124.1 million weighted average diluted shares, respectively.
+Dilution related to the convertible debentures was 25.2 million shares based on the average share price during the fourth quarter compared with 20.6 million for the same quarter in 2016 and 24 million shares last quarter.
+The share count was reduced by the full effect of third quarter 2017 repurchase activity and the weighted effect of the 1.3 million shares repurchased during the fourth quarter.
+Operating cash flow for the fourth quarter was $199 million and free cash flow was $190 million compared with $205 million and $198 million, respectively, for the fourth quarter last year.
+Now I'd like to provide an update on implications to the company of the Tax Cuts and Jobs Act enacted in December 2017, which I will refer to as the Tax Act.
+As stated in today's earnings release, fourth quarter and full year 2017 GAAP financial results include a net $9 million tax expense increase resulting from the Tax Act.
+This increase is comprised of a provisional income tax expense of $196 million, consisting of onetime U.S. taxes on accumulated foreign earnings triggered by the Tax Act and related foreign withholding taxes, both net of applying previously unrecognized foreign tax credits.
+This expense is offset by an income tax benefit of $187 million resulting from the revaluation of our net deferred tax liabilities from 35% to the 21% U.S. federal income tax rate in the Tax Act.
+As a result of the onetime U.S. taxes on accumulated foreign earnings, we also intend to repatriate by early in the second quarter of 2018 approximately $1.1 billion of cash held by foreign subsidiaries, net of foreign withholding taxes and based on current exchange rates.
+Additionally, on a go-forward basis, due to the Tax Act, annual earnings of our foreign subsidiaries will be taxed by the U.S. This allows for annual repatriation without further U.S. taxation of distributable capital reserves from foreign entities.
+The taxation of foreign earnings and withholding taxes associated with ongoing repatriations will increase cash taxes over the amount the company has historically paid.
+Also the lower corporate tax rates and limitations under deductibility of interest implemented by the Tax Act decreases the value of future interest expense deductions.
+In light of the Tax Act, we are presently evaluating our capital structure, including a possible redemption of our convertible debentures.
+Finally, since mid-2017, we have used a tax rate of 25% to calculate our non-GAAP net income and non-GAAP earnings per share.
+Looking ahead, we believe a more reasonable estimate of the tax rate to calculate our non-GAAP net income and non-GAAP earnings per share is 22%.
+As a result, we will begin to use 22% non-GAAP tax rate when reporting first quarter 2018 non-GAAP results.
+With respect to full year 2018 guidance, revenue is expected to be in the range of $1,195,000,000 to $1,215,000,000.
+Non-GAAP operating margin is expected to be between 65.5% and 66.5%.
+Our non-GAAP interest expense and non-GAAP nonoperating income net is expected to be an expense of between $115 million and $122 million.
+Capital expenditures are expected to be between $45 million and $55 million.
+And finally, cash taxes are expected to be between $70 million and $90 million.
+This 2018 cash tax guidance reflects our best estimate of the various impacts of the Tax Act, including the impacts of our intended repatriation.
+In summary, the company continued to demonstrate sound financial performance during the fourth quarter and the full year 2017.
+Now I'll turn the call back to Jim for his closing remarks.
+Thank you, <UNK>.
+2017 was another solid year for VeriSign.
+There was further expansion of the domain name base and revenues.
+We generated an efficiently returned value to shareholders.
+We renewed the .
+net registry agreement for another 6 years until 2023.
+And we marked more than 20 years of uninterrupted availability of the VeriSign DNS for .com and .
+net.
+Finally, earlier this year, we disclosed that the U.S. Department of Justice notified us that it closed its investigation regarding the .
+web top level domain.
+We continued our work to protect, grow and manage the business while continuing our focus on providing long-term value to our shareholders.
+We think our focus on profitable growth and disciplined execution will extend the long trend lines of growth in our top and bottom line and allow us to continue our consistent track record of generating and returning value to our shareholders in the most efficient manner.
+We will now take your questions.
+Operator, we're ready for the first question.
+I don't think I have at the tip of my fingers the precise numbers.
+But I don't believe that they're material.
+I have seen a lot of activity in the secondary markets of trading in .com registrations that have crypto in them.
+But I don't think that there any meaningful direct contributions to new .
+net registrations in the numbers that we reported.
+And there's just a huge amount of interest in cryptocurrencies and Bitcoin, as you know, now that it's hit the exchanges.
+And what we've seen, I would say specifically, is a spike in value in the secondary market of .com names with any multiple keyword names with crypto in them.
+Sure.
+I mean, keep in mind though on an annual basis, our total marketing expense is pretty flat year-over-year.
+As I talked about a few quarters ago, we clearly look to execute our marketing programs that we think drive the best return for the company.
+And sometimes those programs we have to pivot during the year.
+And we had lighter marketing expenses, as we talked about, in the middle of 2017.
+And we finally got some programs coming out.
+We did make a little bit of a shift away from some registrar marketing programs to more direct marketing programs.
+We did do some of our advertising for our brands, both .com and .
+net, both domestically and abroad.
+And so we've been doing a little bit more direct marketing as a result of that.
+And those programs came out in the fourth quarter and will continue to run in the first half of 2018 here.
+Yes.
+So as mentioned in my prepared remarks, from a GAAP perspective, we made an accrual for the onetime transition tax.
+And that was partially offset by the reevaluation of our DTLs.
+So from a GAAP perspective, that was about $9 million.
+From a cash tax perspective, as you mentioned, we're guiding to $70 million to $90 million in 2018.
+And that's up from about $28 million this year.
+As mentioned, this reflects a variety of the impacts from the Tax Act, including the impacts of our intended repatriation.
+And while I don't think it makes sense to go through all the puts and takes of the tax calculation, I think the big items impacting the company from a cash tax perspective going forward are really the tax on foreign earnings, the U.S. tax on foreign earnings, and then the U.S. limitations on interest deductions, partially offset by the U.S. tax rate.
+But that amount does include impacts as well from our repatriation.
+As far as interest limitations, yes, tax reform clearly has diminished benefits for interest expense.
+There are some limitations there.
+And as a result, as I've mentioned, we are looking at our entire capital structure.
+We're looking at it.
+We'll be evaluating it.
+And as our converts are part of that capital structure, we look at them as well.
+Yes, I think it's just too early at this point to discuss any details about go-to-market or launch plans for .
+web.
+There's an ICANN process that we're now engaged in with the Department of Justice having closed their investigation of .
+And when that process completes, I'm sure we'll have a lot more to say.
+But at this point, it would just be premature.
+So in 2017, we absolutely have seen a good U.S. market.
+But having said that, European markets have also done well for us.
+Our expectation is that we'll see good growth in both U.S. and international markets next year.
+But we don't guide to the specific markets or their performances.
+Well, I think in general, I don't think there will be a change in how we approach capital allocation.
+As always, we look at the needs of the business using our strategic framework of protect, grow and manage.
+And we do what we think is best for the business.
+As you may recall, our strategic framework includes making sure we maintain an adequate amount of liquidity for the business, both today and for tomorrow, what we think the needs are to continue to invest in our protect mission for the network and our business for today and tomorrow, to invest in technology and innovation that we think will drive profitable growth of the business.
+And then once we accomplish those goals, we then evaluate how much excess capital we think is appropriate to return to shareholders and in what form.
+So we think that framework, which we've been using for the past 6 years, has served us well.
+And we'll continue to use that framework as it relates to the capital of the corporation.
+Yes.
+So we don't guide renewal rates by country.
+As mentioned, the cohort that was originally from the 2015 China surge, that cohort was about 1.4 million names coming into the year.
+And that renewal rate was probably, on a blended basis, maybe about 40% for that cohort.
+So we did have a portion of those names come out.
+<UNK>owever, we were anticipating that.
+We did comment on that last quarter.
+And that was in the guidance that we gave and we fell within the range of the guidance.
+But most of that cohort now is, I would say, through the system for many material names.
+And I would expect renewal rates to go back to more normalized rates.
+Well, so first of all, I guess just to remind everybody on the call, in late September 2016, NTIA approved the .com Registry Agreement to be extended to November 30, 2024.
+At that time, NTIA chose not to extend the Cooperative Agreement.
+So it is currently scheduled to terminate on November 30 in 2018.
+Whether to extend that Cooperative Agreement or not is NTIA's decision and their process, and so can't comment on that.
+They do have the right to conduct a public interest review for the sole purpose of determining whether or not they'll exercise their right to extend the term of the Cooperative Agreement.
+Now one update that is new since the last time we talked is that <UNK> Redl was confirmed as the Assistant Secretary and Administrator of the NTIA in November of 2017.
+Unfortunately, that's all the update I can give you there.
+We can't comment on Mr.
+Redl's appointment or the NTIA in regard to their process related to the Cooperative Agreement.
+That's theirs, not ours.
+As soon as we can, we'll share whatever information we do have though.
+So <UNK>, as I mentioned, we're just evaluating our convertible debentures in conjunction with evaluating our capital structure.
+So we're still looking at that.
+So our guidance is really based on where we see it today of what we're doing.
+It doesn't involve looking at any changes from that fact.
+We're still evaluating it.
+Yes.
+So if you're referring to -- so I think you're referring to the transition tax.
+The Tax Act allows you to look at your taxes, what they would have been with the Tax Act or without.
+So it's a with-or-without calculation.
+And for us, when we do that calculation, we expect to actually defer that amount of tax over the 8 years allowed by the Tax Act.
+So as we mentioned previously, we don't guide to a long-term cash tax rate.
+<UNK>owever, I would say in the short term, we expect that, that rate to still be below our GAAP tax rate as we use up foreign tax credits.
+At the end of 2017, we had about $122 million of foreign tax credits.
+And we now expect to utilize those over the next 2 to 3 years.
+That's correct.
+Like I said, they'll be probably fully utilized over the next 3 years.
+So obviously, you'll use them up -- use more of them up in year 1 and 2 and probably less in year 3.
+But the utilization of FTCs, to be perfectly candid, is somewhat complex and is dependent on a variety of factors.
+So it's a little bit -- clearly, I have an idea of what they'd be.
+But it's probably premature to give that number because they can change over time depending on how foreign income is recognized overseas.
+Thank you, operator.
+Please call the Investor Relations department with any follow-up questions from this call.
+Thank you for your participation.
+This concludes our call.
+<UNK>ave a good evening.

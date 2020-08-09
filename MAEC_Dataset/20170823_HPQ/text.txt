@@ -1,0 +1,154 @@
+Thanks, <UNK>
+We've continued the momentum from our strong first half and I'm very pleased with our third quarter results
+We delivered net revenue of $13.1 billion, up 10% year-over-year as reported or 11% in constant currency
+We continue to see broad-based and consistent performance across businesses and geographies
+Regionally, year-over-year, Americas grew 8%, EMEA was up 14%, and APJ grew 15%, all in constant currency
+Gross margin at 18.6% was up 30 basis points year-over-year
+The increase was driven primarily by print margins, resulting from productivity improvements and higher supplies mix, partially offset by higher commodity costs in Personal Systems
+Sequentially, gross margin was down 60 basis points, driven by an unfavorable Print mix and a higher sequential growth in Personal Systems
+Non-GAAP operating expenses of $1.4 billion were up 35% as reported, but this year-over-year variance is largely driven by gains recorded last year, resulting from the divestiture of certain marketing optimization software assets
+Sequentially, operating expenses were down 1%
+Net OI&E expense was $66 million for the quarter
+With a non-GAAP tax rate of 22% and a diluted share count of approximately 1.7 billion shares, we delivered non-GAAP diluted net earnings per share of $0.43. Non-GAAP diluted net earnings per share primarily excludes restructuring and other charges of $46 million and acquisition-related charges of $40 million, partially offset by non-operating retirement-related credits of $34 million, tax indemnification credits of $10 million and the related tax impact on these charges
+In Q3, GAAP diluted net earnings per share from continuing operations was $0.41. Turning to the segments, Personal Systems net revenue was an impressive $8.4 billion, up 12% year-over-year as reported or 13% in constant currency
+This was our fifth consecutive quarter of year-over-year growth and third consecutive quarter of double-digit constant currency growth
+We continue to segment the market and offer some of our most innovative products ever
+These efforts have helped us sustain revenue momentum, deliver consistently across each region, and drive strong market share as an end result
+By customer segment, consumer revenue was up 14% year-over-year and we gained unit share across each of the three regions in calendar Q2. Commercial revenue was up 11% year-over-year and, similarly, we gained unit share across each region
+We also achieved strong results by product category, with notebooks up 16%, desktops up 5% and workstations up 11% year-over-year
+We delivered 3.7% operating margin in the quarter, which is up 0.5 points quarter to quarter, above historical seasonality, and down 0.7 points year-over-year
+Consistent with what we said last quarter, margins have been pressured by industrywide increases in component costs and currency headwinds
+We have increased pricing globally and have continued to see positive mix shifts in the business, both of which have helped improve operating margin sequentially
+However, we remain cautious about the potential negative impact on demand, which could result from higher prices
+Turning to Printing, the momentum gained in Q2 carried into Q3. Revenue was $4.7 billion in the quarter, up 6% year-over-year or 7% in constant currency
+Hardware units were up 1% year-over-year, with consumer units up 1% and commercial units flat
+As noted previously, our total unit growth includes HP Sprocket, our handheld photo printer
+In calendar Q2, overall print unit share was roughly flat sequentially and year-over-year
+We remain optimistic about our print growth businesses
+Our A3 business is off to a strong start since launching its new product lineup in Q2 and we're excited about the opportunity to be a disruptive new entrant in this $55 billion market
+As <UNK> highlighted, both graphics and managed print services continued to grow revenue year-over-year and we have the opportunity to increase our growth rates
+Now, moving to Q3 supplies performance
+Revenue of $3.1 billion was up 10% year-over-year and represented 66% of print revenue
+The supplies growth was better than anticipated, driven by improving four-box model drivers
+As we described in the past, the way we look at supplies revenue growth operationally is to take our as-reported number and adjust for two things
+First, we look at constant currency growth
+In Q3, currency represented less than a point of delta, so supplies grew 10% year-over-year in constant currency
+Second, we adjust for changes made in the second half of last year to our supply sales model
+In Q3 2016, reported supplies revenue was negatively impacted by approximately $225 million or eight points of growth
+Therefore, when you deduct the eight points against the 10% constant currency growth, net adjusted supplies growth for Q3 2017 was 2% year-over-year
+We are very pleased to have achieved supply stabilization a quarter earlier than expected
+We also expect to consistently operate with supplies channel inventory levels, remaining at or below our ceiling
+And in Q3, channel inventory levels were below the ceiling
+As a reminder, as part of making the supply sales model changes last year, we lowered our channel inventory ceiling to better reflect the more demand-driven sales model
+Looking forward to Q4 2017, we expect that our year-over-year supplies revenue growth will remain flat to slightly up when making similar operational adjustments for currency and then backing out approximately $225 million for the supply sales model channel inventory adjustment taken in Q4 of 2016. Print operating profit was 17.3% in the quarter, down 3.1 points year-over-year and down 10 basis points sequentially
+The year-over-year decline was primarily due to the one-time adjustments I mentioned earlier
+The positive margin impact of deducting certain marketing optimization software asset, offset by the negative impact of changing the supply sales model, plus productivity improvements year-over-year
+Excluding the one-time adjustments, we saw good operating profit dollar expansion year-over-year
+Sequentially, the 10-basis point decline is consistent with normal seasonality
+Now, turning to cash flow and capital allocation
+Cash flow from operations was $1.8 billion in Q3 and approximately $3 billion year-to-date
+Free cash flow was $1.7 billion in the quarter and approximately $2.8 billion year-to-date
+Cash conversion cycle was minus 35 days, a five-day sequential improvement, driven by an eight-day increase in days payable outstanding, offset by a one-day increase in days of inventory and two-day increase in days sales outstanding
+The strong Q3 results were driven by Personal Systems revenue performance, which grew sequentially by over $700 million or 10%, well above historical norms
+This incremental volume materially helped near-term working capital including days payable
+As you know, since Personal Systems has a negative cash conversion cycle, the timing of cash flow is impacted either positively or negatively depending on its sequential revenue performance
+Also, we saw positive business linearity in purchasing and other receivables, which supported improved timing of cash flows by couple of hundred million dollars
+Year-to-date cash flow is now ahead of our full-year range provided during last year's security analyst meeting
+We are now targeting a higher revised full-year free cash flow outlook of at least $3 billion
+This assumes a cash conversion cycle down sequentially, more-than-normal seasonality, and more in line with the first half performance
+Finally, we expect higher fourth-quarter capital expenditures, but will not exceed our full-year CapEx guidance of $500 million
+During the quarter, we had a total capital return of $524 million through share repurchases and cash dividends
+Year-to-date, we have returned 56% of free cash flow as compared to our full-year target of 50% to 75%
+For the full year, we still expect to deliver returns towards the higher end of the range
+Looking ahead, keep the following in mind related to our financial outlook
+For the full year, we are on track to deliver our productivity initiatives as announced at SAM
+In Personal System, we expect to see continued increases in cost of components in Q4. We expect to offset these headwinds with increased pricing, which could have a more significant impact on demand and operating margins than we've assumed
+With this demand uncertainty, combined with our very strong Q3 revenue performance, we expect Personal Systems Q4 revenue to grow less than normal sequential seasonality
+For Printing, we expect supplies revenue to be flat to slightly up in Q4 in constant currency and adjusted for last year's supply sales model change
+We also expect to continue placing units with a positive NPV
+Given our hedging strategy, we have rolling currency hedges, which extend into future quarters and, therefore, we do not expect a material tailwind from currency in Q4 2017. We will also continue to leverage our balance sheet if we see attractive economic opportunities to do so
+With all that in mind, Q4 2017 non-GAAP diluted net earnings per share in the range of $0.42 to $0.45. Q4 2017 GAAP diluted net earnings per share from continuing operations is in the range of $0.37 to $0.41. We are raising the midpoint of our full-year fiscal 2017 non-GAAP and GAAP EPS
+Full-year fiscal 2017 non-GAAP diluted net earnings per share to be in the range of $1.63 to $1.66 and full-year fiscal 17 GAAP diluted net earnings per share from continuing operations to be in the range of $1.46 to $1.50. With that, let's open it up for questions
+Question-and-Answer Session
+And, <UNK>, we'll talk more about FY 2018 specifically at our security analyst meeting in October
+So, everyone should join us then
+So, from a growth perspective – first off, it's a little bit tougher compare, right? So, if you actually look at what's happened to unit growth, kind of each of the quarters this year, each quarter, the previous year is a bit tougher
+So, I think that's part of what's going on
+And then the other part is that we are very much focused on high-value units
+As we've talked about before, all units are not created equal in the market
+And where we want to focus all of our energy is really on positive NPV and those typically are really the high usage categories
+That's where we want to grow and where we want to gain share
+I don't think there is necessarily a normalized free cash flow
+One of the things that you saw in the strength of our free cash flow this quarter was the business mix impact
+So, Personal Systems grows $700 million in revenue sequentially or 10%, well above normal sequential, you're going to see a big increase in accounts payable, as you saw and a lot of free cash flow
+So, the concept of normalized free cash flow is really not one that I can really comment on directly
+Sure, Katy
+So, it's that it'll grow less quickly than what is typical seasonality, not that it'll decline
+We do expect it will grow sequentially
+And then in terms of price sensitivity, we see the greatest impact in the commercial space
+Consumer price increases have taken hold and we continue to perform very well in the consumer space
+I think consumer revenue was up 14% year-over-year, even though we have done price increases
+So, it’s much more in the commercial space
+And our view is that, as we mentioned on the Q2 call that it would take a quarter for them to kind of catch up and we did see some of that in Q3. Hence, some of the sequential improvement in operating profit for Personal Systems
+<UNK> mentioned that we had 6% share
+That is up both year-over-year and sequentially, a point or a little over a point
+So, that's one of the metrics you can absolutely see externally and track as we make progress here
+So, <UNK>, let me take the second one first
+Just to make sure that we're all communicating well, what I said was that our business in Personal Systems would grow slower than normal seasonality for our business
+We have been outgrowing the market by quite a bit
+So, I don't expect that we will lose share even though our revenue will be a little bit behind normal seasonality
+So, Toni, we'll talk a lot more about 2018, obviously, at the security analyst meeting in October
+But I think one of the things that needs to be brought into that analysis is what's going to happen in the market from a pricing perspective
+We've now seen in fiscal 2017 pretty significant price increases
+And so, if there is a tailwind from currency in 2018, our expectation is that prices are going to have to come down pretty significantly to relieve some of the pressure that's building because we've been increasing prices this year
+And so, then it's going to be, ultimately, what is the total impact, it's going to be how many price declines do you have to do and what impact does that have on both revenue and EPS
+So, first, on the Samsung part of your question, Toni, we don't expect that Samsung is going to close until calendar Q4. So, we do not expect that in our fiscal Q4. And so, I think that's important
+It will be – Q4 will be without Samsung
+And then, in terms of kind of the puts and takes of the sequential view, probably, the two biggest things to call out
+First is commodity costs
+We do expect commodity costs to go up sequentially
+And so, that'll be a bit of a headwind
+But probably the bigger impact is just the opportunity that we see to place more positive NPV units
+And so, that's really what is kind of the biggest impact sequentially on EPS – I’m sorry, relative to normal seasonality
+So, <UNK>, I think it's a bit difficult
+We don't break out kind of that level of detail
+What we have talked about is, obviously, our commercial business is bigger because of the usage than our consumer business
+And, therefore, you'll see a difference in toner and ink as a result of that
+Although, just to be clear, some of the consumer now has our low-end laser in it
+So, when we talk about our home print system, it includes low-end laser
+But, ultimately, what's going to drive the supplies is really the four-box model divers
+It's not ink or toner, it's really about driving across the four boxes, focusing on placing the right units, the high-quality units, working on your installed base, working on, obviously, our market share – our aftermarket market share, as well as the pricing related to supplies
+So, I'm not aware of other views that say it's going to be flat
+We actually think it's going to continue to go up, but at a slower rate
+This is particularly true from a DRAM perspective
+And then when you step back and you look at it kind of Q4 versus Q3, in the course of Q3, the commodity prices continue to go up
+So, of course, that will represent a headwind for us in Q4, but we do expect some additional increases in commodities in Q4 as well
+And then the other thing that I would add is that, I was asked to make a relative comment, and we saw consumer revenue this year – this quarter grow 14% year-over-year and commercial 11%
+Last quarter, we said that the commercial price increases were going to take a while to work their way through and we saw some of that pickup in Q3. Some of that pickup on in Q3. So, I'm not suggesting that commercial customers are completely sitting on the sidelines at all
+I think that with our great product lineup, we're certainly able to make the sales that we need to make in that space and get them off kind of the fence
+So, Rod, let's just make sure we're level set
+So, what I have is for OI&E last year was a negative $65 million in Q3 and for this year it's a negative $66 million
+So, I don't see a real big difference there on a year-over-year – are you looking at a full year basis?
+Sorry, I haven't been focused on Q4 last year
+I don't remember off the top of my head what happened last – can we take that offline and I can look at that? And maybe even while we're talking here, I can look it up
+But I haven’t focused on it
+And then, on OpEx, OpEx numbers were a little higher than we had modeled
+Maybe we just mismodeled it in July
+But just wanted to understand, in the October guidance, what you're thinking in terms of operating margins in OpEx?
+I’m sorry
+Can you say that again?
+So, the big drivers off of normal sequential performance from Q3 to Q4 is basically the units that we expect to be able to place
+We have made great progress in our Printing business on our cost structure, and that is enabling us to go into the market and find opportunities that used to be negative NPV opportunities that are now positive NPV opportunities and we expect to take advantage of those opportunities
+That’s the biggest reason for not being in normal sequential
+The other is that we do have commodity cost increases that we see in Personal Systems
+We don't guide at an OpEx or an operating profit level
+We are fairly well hedged, in the sense that we have a fair amount of inventory, strategic buy inventory
+But that's never for multiple quarters or has never been for multiple quarters, and so we will absolutely face increasing commodity costs, both in Q4 to some extent and into 2018.
+I don't really think of the cash conversion cycle as redefining itself
+For this quarter, very pleased with the performance
+We had a cash conversion cycle of minus 35 days, which was five days better sequentially
+But as I mentioned, that was really driven by the incredible strength and sequential performance of the Personal Systems business
+Because the Personal Systems business has such a negative cash conversion cycle that when it grows – its growth increases sequentially, you're going to see a fair amount of free cash flow
+Similarly, if the growth is less in the following – in the next quarter sequentially, you're actually going to see a little bit of a reduction in free cash flow
+What we expect for this year is that we would do at least $3 billion in free cash flow, so making great progress on free cash flow, and that our cash conversion cycle would likely end the year at a minus 29 days, kind of in line with FY 2016's exit
+And I think of that more as kind of the range that I would be modeling over the longer-term

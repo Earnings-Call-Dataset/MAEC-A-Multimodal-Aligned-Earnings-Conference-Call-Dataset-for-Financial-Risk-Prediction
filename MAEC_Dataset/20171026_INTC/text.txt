@@ -1,0 +1,186 @@
+Thanks, <UNK>
+The third quarter exceeded our expectations with revenue $16.1 billion, which is $400 million better than our outlook
+Operating income of $5.6 billion was more than $700 million better than our outlook
+Our data-centric businesses grew 15% year over year, reaching 45% of our revenue, proving that Intel is becoming a data-centric company
+The fiscal discipline that Bob and I have talked about is delivering results even faster than we had forecasted while simultaneously allowing us to focus more on innovation in our key growth segments
+Revenue grew 2% or 6% after adjusting for the McAfee transaction
+Operating income grew 8% and earnings per share grew 26%, both reaching all-time records
+Add it all together, and this was a remarkable quarter in what is shaping up to be a remarkable year
+Our strategy is to be the driving force of the data revolution across technologies and industries
+Our data-centric businesses are the company's growth engine
+Individually, these businesses provide great value to our customers
+Collectively, they're solving our customers' problems in a way that no individual business or product could
+We've built a collection of capabilities that is unmatched
+At the same time, our PC business remains central to our success
+It's a source of great profit, cash flow, scale, and intellectual property
+We've made great progress in both our data-centric and PC-centric businesses over the last few months, and I'll share a few important milestones that illustrate that progress
+We're going to start with CCG [Client Computing Group], which produced exceptional results despite a declining PC TAM
+PC market conditions continued to improve, and we achieved record Core i5 plus Core i7 client mix
+Our focus on an annual beat rate of innovation and thoughtful segmentation combined with an investment strategy designed to produce results, even in a declining market, is paying off
+We're especially excited about the launch of our latest 8th Generation Core processor, code named Coffee Lake
+The Coffee Lake family includes our first six-core desktop CPU. And it's our best gaming processor to date, with up to 50% better performance than the competition on top game titles
+We're on track to ship our first low-volume 10-nanometer part by the end of the year
+That will be followed by the initial ramp in the first half of 2018, with both high volume and system availability in the second half of 2018. We shipped our first modem into the auto industry, and our modem revenue was up 37% in total over last year
+Moving on to our data-centric businesses, DCG [Data Center Group] revenue grew 7% in Q3 and remains on track for high single-digit growth for the year
+We saw strong cloud growth, outgrew the comm service provider end market and, while the enterprise decline moderated sequentially, we still see workloads moving to the cloud
+Cloud and comm service provider revenue combined is nearly 60% of DCG revenue now
+In less than three months, we've had more than 200 Xeon scalable OEM systems begin production shipments, and our customers across all of our segments are beginning deployments that will continue to ramp in Q4 and through 2018. In our Internet of Things business, revenue was up 23%, with strength across the retail, industrial, and video segments
+We also continue to build momentum in the vehicle infotainment market, winning designs from our competitors at leading automakers
+Early in the quarter, we closed the Mobileye transaction a full four months ahead of schedule
+So far this year, Mobileye has won 14 ADAS [Advanced Driver Assistance Systems] designs across 14 automakers, a pace well ahead of the 12 wins they recorded all of last year
+These designs provide for typical features like automated emergency braking, lane keeping, and adaptive cruise control
+But several also include next-step functionality like highway autonomous driving
+We're also winning marquee designs for Level 3 and higher levels of autonomy, including our strategic partnership with BMW and Fiat Chrysler
+Most recently, we announced that Waymo's newest vehicles, the self-driving Chrysler Pacifica Hybrid minivans, feature Intel-based technologies for sensor processing, general compute, and connectivity
+With 3 million miles of real-world driving, Waymo cars with Intel technology inside have already processed more self-driving car miles than any other autonomous fleet on the U.S
+roads
+Intel and Mobileye provide the auto industry with unmatched product breadth, the architectural flexibility to support open and closed implementations, and technology leadership
+Our progress in just a few short months illustrates the benefits of our combination
+And together, we can deliver the promise of autonomous driving in a safer, collision-free future
+Let's move on now to memory and FPGAs
+Our memory business grew 37% over last year and operating margin improved significantly, as Fab 68, our Dalian factory, continued to beat both its ramp rate and yield goal
+Fab 68 accounted for more than half of our supply in a quarter where more than 70% of the total bits were 3D NAND
+Our memory innovation and technology leadership is having an impact
+We shipped the industry's first 64-layer data center SSDs and have a strong Optane design win pipeline
+That leadership technology has also resulted in strong customer interest in long-term supply agreements, and we've already signed two such agreements
+Bob will share more about our approach, but this is an important step that will mitigate the short-term cash flow impact of ramping our memory capacity
+And finally, in our FPGA business, revenue was up 10% over last year, with growth in the data center, embedded, and automotive segments, where we're ramping designs like the Level 3 autonomous 2018 Audi A8 and DENSO's stereo vision system
+Strength in these segments was partially offset by continued weakness in comms infrastructure
+Our design win revenue value was up more than 10% in the third quarter, the highest level in more than three years
+This business is central to our success in artificial intelligence
+In Q3, Microsoft announced that it would use our 14-nanometer Stratix 10 FPGAs for its accelerated deep learning platform that's code named Project Brainwave
+And as part of a broadening engagement between our companies, Alibaba is using Intel FPGAs to power the acceleration of the service of Alibaba Cloud
+We've made tremendous progress in AI and advanced computing technologies over the last few months
+In addition to our FPGAs and autonomous driving wins, we launched the Movidius Myriad X, the world's first vision processing unit with a dedicated neural compute engine to deliver artificial intelligence capabilities to the edge in a low-power, high-performance package
+We also achieved new research milestones, as Intel scientists pursue exciting emerging forms of compute
+We delivered a 17-qubit superconducting test chip for quantum computing to our research partner, QuTech
+And we'll follow that up with a 49-qubit test chip by the end of the year
+We also unveiled the Loihi, a self-learning test chip that mimics the brain's basic mechanics and makes machine learning faster and more efficient
+Later this quarter, we'll ship the Nervana neural network processor, the industry's first commercially available processor of its kind
+I also announced last week that Facebook is working in close collaboration with us, sharing their technical insights as we bring this new generation of AI hardware to market
+Together, these accomplishments reinforce several things for me
+First, Intel is the leader in AI inference from the core of the data center to autonomous vehicles out to the edge devices where low power is especially critical
+Second, artificial intelligence takes many forms and will require computing solutions that are tailored for the workload, the environment, and the user, rather than a one-size-fits-all
+And third, our investments and pipeline of innovation position us to lead for years to come
+We had a quarter any CEO would be proud of
+And I'd like to take a moment to remember our former CEO and my friend, Paul Otellini
+Paul had an enormous impact on the industry and this company, and his Intel family will miss him
+He would be proud of our growing momentum, and it's an important part of his legacy
+Wrapping things up, I'm excited about both our progress and our prospects
+And we're competing aggressively for our $260 billion TAM, the largest opportunity in our history, with lots of room to grow market segment share
+In some of our segments, we're facing new or resurgent competitors
+In other segments, we are the new competitor
+But in all cases, competition brings out the very best in our company, as our third quarter results demonstrate
+We're now well ahead of our commitments we made to you in January
+Our transformation is accelerating
+And we're raising our full-year expectations for revenue by $700 million and for operating profit by $900 million, our third consecutive increase this year
+This puts us solidly on track to deliver the best year in the company's history for the second year in a row
+And with that great news, I'd like to hand it over to Bob
+Hi, <UNK>
+So let's talk about this
+We can kind of break this down
+So, first, we are already seeing the benefits of AI in that
+Remember, as I said, we lead in inference, which is the actual application of artificial intelligence, and we're continuing to really grow in that space
+I think AI, if you take a look at it in general, machine learning, it's the smallest segment to a workload if you look at the data center, but the fastest growing
+So you're going to see it continue to become a bigger and bigger portion of our business
+You're seeing the effects in our numbers already around Xeon, Xeon Scalable, the FPGAs; we talked about the Microsoft Brainwave launch that's occurring
+So those products you're going to see, I'll call those more of our traditional products
+And also at the lower end, outside the data center, things like Movidius and now Mobileye, you're seeing those hit our P&Ls as well real-time now as we speak
+The other products like Nervana, you'll start to see really more towards the back end probably of 2018 from a P&L perspective
+If you take a look at Nervana, it actually – we get our first silicon out
+It will be handed out as test silicon
+We have a yearly cadence of products, and so I expect the first substantiations to be more people figuring out how to use it
+It won't be a big impact
+But as we go through next year and move on beyond that and get the second generation and beyond, that will grow, we believe, quite considerably
+And then products like Loihi, which is our neuromorphic, are same things
+The part we've put out so far is really a chip for people to begin to use and learn how to program with neuromorphic, which is a very different type of machine learning
+It lets you learn at hundreds of times faster rates than traditional, I'll say, GPUs and CPUs, especially around visual learning
+Those as well you'll start to see late next year and beyond as people really begin to learn how to program with these
+So seeing it already and those newer products really think late 2018 and beyond before they really start to hit P&Ls
+I'll start and Bob can jump in, <UNK>
+First, because you've got a couple questions in there, what I would tell you is that the Purley ramp has just really started
+It starts with the big cloud service providers
+You saw Google talk about it a couple weeks ago
+You saw Microsoft talk about it earlier this week
+Those ramps are just beginning
+I talked about the 200 design wins or design-ins at customers
+Those are just starting to come out, so we're really early
+These ramps, remember because we have to – it will go through the cloud service providers and the Tier 2 cloud service providers, then on into comms and eventually into enterprise as well
+This is going to take a year or more
+So I think it's early to make this judgment
+The ramp is right within the range we predicted it to be from a ramp of that product The second part of your question, is 7% high single digits, I'll just make it simple and say look, if you look mathematically, I think it would meet a minima of high single digits, but it's certainly not necessarily where we're targeting to get to, but it's a high single digit number
+I'm not going to – the math doesn't lie
+<UNK>e, we don't separate out inference
+So what we said is simply in the past publicly that AI is one of the smallest workloads and in fact one of the fastest growing
+We haven't broken out – beyond just saying here's what cloud is growing at and here's what comms and here's what enterprise, we don't break out by workload
+And there's a variety of reasons for that
+Part of it, it's sometimes hard
+The mixture of what – when somebody goes out and builds a rack, what is it going into? How much of its workload is really being used by AI? Anybody who tells you exactly what that number is, is just wrong, to be honest with you
+So it's very hard for us to say with precision that X percent of our units went into AI workloads because it's rare that a rack is purely AI except for rare cases
+But we know that it's small, just by the type of interactions we have, but also fast-growing and one of the biggest areas of interest
+So you've captured it quite well
+Let's just talk about this
+We can talk about it from a unit standpoint and then we can talk about it from how has our business done
+From a unit standpoint, the decline has certainly slowed down
+If you go back a year or two ago, we were high single digits to low teens declines at times year over year from a unit basis, and that slowed into the low single digits that we're seeing today, but we still are seeing a decline on a unit level
+And I always remind people, we've taken probably something like 25% of the annual units out of this business, yet grown in that timeframe the profitability of that business significantly
+So, that I think just talks about both the great execution in products and segmentation strategy and just the leadership that that team, at first with Navin Shenoy and now with Greg Bryant, have really delivered to the company
+So our view is, <UNK>, that if you take a long-term view, we see the pattern kind of stabilizing at about where it is
+I think we'll come in here and there will be quarters when the units are up slightly, and there will be other quarters when the units are down a little more slightly
+But when we look at it over the long haul, they're probably going to be down those low single digits
+But we also see segments that are growing, that are very performance focused, which allow us opportunity
+So you talked about them, gaming, 2-in-1 devices, thin and light, the Ultrabook as we like to think about it from the old, those products are continuing to see growth actually, and they are pushing that record Core i5, Core i7. They're pushing the desire for Core i9, which is a new product we introduced
+Those are what's driving the segmentation, the ASP uplift, and the increased profitability
+We think to some level that trend will continue
+How long? I'm not going to be that good a prognosticator, but certainly for the near-term future, we don't see this trend shifting very much
+<UNK> <UNK> <UNK> - Credit Suisse Securities (USA) LLC And then, <UNK>, just on the modem side, your prepared comments, I think you said it was up 37% year over year
+What's the sustainability of that business and your ability to continue to grow that business through penetration?
+I'm excited about the modem business
+We, I think, really gotten a team together that is world-class
+We believe we now are on a yearly cadence of world-class modems, which is really critical
+That's a big hurdle to get that technology to where you can reliably put out on a yearly cadence a world-class modem
+We believe we're there now
+We continue to increase the profitability or the efficiency of that organization, which we've always talked about in the past, and that's continued
+So we think we can continue to both drive the technology and continue to grow that business
+<UNK> <UNK> <UNK> - Credit Suisse Securities (USA) LLC Thank you
+<UNK>e
+I think in our statements and in the release, we showed you that we actually lowered CapEx by about $500 million for this year
+We've talked about CapEx and thinking about it as being in this range
+I don't think we have anything else to say about – it's pretty close right now
+We're just focused on the execution into Q4 and prepping for our view for 2018. So I don't want to have any other discussion on CapEx until we get to the January timeframe right now for 2018.
+Yes, think of it – so first, absolutely you're right that we are going to move much more of our focus towards data center products coming first
+It's not going to be the early part of 10-nanometer, though
+You've got to look at the design cycles
+And you make a decision like that, even if you make it last year, you'll start to see the effect at the back end of 10-nanometers and you'll really see it affect 7-nanometers, so not these early products on 10-nanometer, though
+They were already in the hopper when we made that move
+<UNK>e, that's a great question
+So we mentioned that even out of those 14, many of those continue on up into Level 3, Level 4. The Level 5 work that you see out there is pretty far out there
+And I'd tell you that's there's a lot of just experimental work going on there
+If I take a look at the bigger picture, which is what you're asking, this whole picture that we've been putting together is – I said in the statement that individually these businesses are great
+But when you put all these together into one package and you're able to walk into a customer with a complete solution, they're truly world-class and something nobody else can deliver
+So you're right, when we go in and we talk to somebody about autonomous driving in general, whether it's Level 2 bots, Level 3, Level 4, or Level 5, we bring with us a suite of products, depending on what kind of architecture
+And what we're seeing is different OEMs, different customers thinking about those architectures even differently across that spectrum
+Some are thinking but by Level 5, I think my skills will be up
+I want a closed system
+I want to have much more control of the software
+So we have a set of solutions we bring to them there
+Some of them want to have more FPGAs for how they bring their software down onto the silicon earlier on
+But what we're able to do is bring our modems
+We shipped, and we mentioned it in the release, our first automotive modem
+So we're able to bring automotive modems all the way through 5G
+Most of these car companies are having to build data centers, and not just data centers, centralized data centers, but really a data center architecture that goes all the way out with data and compute at the edge
+You're going to want to be able to manipulate and transfer mapping, high-precision mapping, to the cars and data back from the cars to change those maps' construction and things like that
+So we're building that architecture, and we have the products and the talent to uniquely work with them all through that infrastructure
+And then you get out to the car again and we can bring the FPGAs, the Mobileye for sensor fusion or compute
+We can put Xeons in there
+And each one of these discussions, they're all a bit different
+They all have multiple phases as you go through 3, 4, and 5 on the levels
+And what we're able to do is say you don't have to just take this one solution
+This is not the only solution there is
+What would you like to do? What best solves your problem in the most cost-effective, lowest power, efficient way? How much work do you want us to do in software and development versus how much work do you want to own and have IP within your company? And that's changing, as we said, over time
+And that's part of also why we're building out that 100-car fleet
+Amnon [Shashua] really has driven a vision that says it's one thing to bring foils to a meeting
+It's another thing to bring a car and say now let's go out and drive and show you how all of these fit together
+So all of that is – this package that we have is unique and it's resonating quite well as we walk in to the various car OEMs. And I'm out there with them in various modes almost every week, every other week
+Amnon is out
+We're all talking about a complete package

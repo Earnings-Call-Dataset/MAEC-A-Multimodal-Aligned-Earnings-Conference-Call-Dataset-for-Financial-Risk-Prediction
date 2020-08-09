@@ -1,0 +1,211 @@
+Okay, <UNK>.
+The sector where we saw the weakness, as you were guessing, is mobile phones.
+And we did see that sector weaken late in the quarter, in the back half of the month of December.
+If I just take and look at, for the year, how our end markets did, I will put that into perspective.
+I'll start with an area of strength, in automotive.
+That grew in the mid-teens.
+Most of the sectors inside of that growing double digits.
+Industrial revenue was about even for the year, and we had -- about half of the sectors there were increasing, offset by the others.
+Personal electronics, as we've just talked about, grew single digits.
+I'll note that we had, certainly, growth in one customer that grew significantly that year, but that was up, primarily offset by declines in other.
+So therefore, our percentage of our revenue in personal electronics really didn't change too much.
+It went from 29% last year to 30% this year.
+Communications equipment was down 20%, and that was primarily driven by wireless infrastructure, and that was down around 30% for the year.
+And then finally, enterprise systems was down slightly, due to projectors.
+So with that said, <UNK>, I think, as we talked about earlier in our prepared remarks, outside of that one area of weakness, everything else came in about as we had expected.
+So that would be inclusive of PCs, and the other areas that you talked about.
+You have a follow-on.
+(multiple speakers) Go ahead, <UNK>.
+Yes, so our revenue profile inside of personal electronics, obviously, it will be more back-half weighted.
+As that customer did well in the marketplace, obviously, our revenues would be reflective of that.
+I could point out that we sell a very diverse set of products to that customer, and, in fact, hundreds of products to it, and products in every major platform.
+That said, I think that the revenues of that customer are reported to be, somewhere around two-thirds of it is in smartphones.
+And you'd expect since, we've got a pretty diverse position across that customer, our revenues would be very similar.
+So -- and certainly, I think that whenever you have a fairly significant change in demand of any customer, there is supply chain considerations, where you've got different pieces of inventory sitting inside of that supply chain.
+We happen to be on the beginning part of that supply chain, so I won't try to handicap where that is.
+It's where we think the demand will come in, in the first quarter, and we will see -- we'll make a prediction on second quarter later.
+I would just add, on that demand profile, we did discuss that we expect about $150 million year-over-year decline, attributable to this particular sector in personal electronics.
+The rest of it will be about even with last year.
+Right, good point.
+<UNK>, do you have a follow-up.
+Yes, <UNK>, I think that at the highest level, we think we continue to operate in a relatively weak macro-economy, as we have been for the last couple of years.
+So nothing terribly exciting in the economy as a whole.
+But to look at the compares that we're talking about, recall that a year ago, we were seeing sharp declines occurring in communications infrastructure.
+And we were also seeing some pretty stiff headwinds, in the form of foreign exchange, where the rate of exchange moving against us, from a US dollar strength standpoint.
+So despite that, when you take a look at all of that, we actually see, aside from this one sector of personal electronics, the balance of it is going to be about even, on a year-over-year basis.
+So again, the headlines that we are seeing on the macro front, and a lot of the angst that you mentioned, certainly sounds real.
+But actually, from a demand signal standpoint from our customers, it's consistent with what I just said.
+We continue to operate in a weak macro environment, with lots of cross currents going on.
+Again, last year's weakening in comms infrastructure, very strong auto, foreign exchange issues that we were dealing with.
+This year, we don't see where those things are coming into play right now.
+Yes, and I will just add that I think inside of that weak macro-economy, just the diversity of our products, and the business model, we continue to operate extremely well inside of that environment.
+Thank you, <UNK>, and we will go to the next caller, please.
+Hello, <UNK>.
+Yes, there's a lot of assumptions insider there, <UNK>.
+But let me remind you of some moving parts that are going on here, and you can spot it if you take a look at the release that we just put out there.
+I think the most apparent number you can see on there is the decline in depreciation begin to occur.
+And clearly, just from an accounting standpoint, that increases our gross profit margin, and falls through to EPS.
+That depreciation will continue its glide path down in 2016, consistent with the fact that a lot of those purchases we made five years ago are now reaching the end of their depreciable life.
+In addition to that, we're seeing a growing portion of our chips being produced in 300 millimeter capacity.
+And as you know, it costs us about 40% less per chip, or about 20% less per device, to manufacture on 300 millimeter versus 200 millimeter.
+So as that mix improves, that will also fall through to the bottom line.
+And then the third element that I would just point out is that we continue to see a mix shift in the source of revenue into industrial and automotive, which tend to have higher overall margins, and certainly stickier revenue and margin profiles, over time.
+So collectively, those should help our overall margin and earnings performance, notwithstanding whatever direction revenue takes us through, over the next 12 months.
+In addition to that, from an EPS standpoint, as we have been doing for 11 years now, as long as the intrinsic value of the company is higher than the market value, we will continue to be buyers of TI shares.
+We reduced our share count 3.4% this past year, and certainly, at current prices, it says we should continue to be active accumulators of TI shares.
+Though combined, we certainly would have momentum in our favor, notwithstanding a significant change in the revenue profile, we continue to help us with earnings per share.
+Great, okay.
+Thanks so much, <UNK>, and sorry about the difficulty there.
+And operator, we can go to the next caller, please.
+Yes, <UNK>, I guess the way I'd answer that is that there are no knobs on the horizon right now, of any measure that were similar to what you've seen in the last couple of years.
+As you pointed out, we had some restructuring actions that we took in Japan, and also in certain parts of Embedded Processing over the last two years.
+And those have removed quite a bit of OpEx cost.
+And those are about done now.
+They pretty much finished up in the middle of last year.
+As we look forward, what we would expect to see is what we've talked about in the past, is that our OpEx should operate somewhere between 20% and 30% of revenue.
+In a weak market, it might be pushing 30%.
+In reasonably strong markets, we might be pushing 20%.
+I think we're in the low 20%s right now, 23% for 2015.
+So again, as I look forward, I don't see any real material changes to the OpEx profile.
+I will just remind you that we do always have a seasonal pattern in our OpEx.
+Just like OpEx was down 3Q to 4Q, because of holidays such as Thanksgiving and <UNK>tmas, the OpEx will be up again in 1Q versus 4Q, because of the absence of those holidays.
+And also the annual pay and benefits increases that we institute across the company in the first quarter.
+And to give you some parameters on that, it is probably in the 4% to 5% range increase, 4Q to 1Q, on OpEx.
+Do you have a follow-on, <UNK>.
+Yes, I think if you look at that, sequentially, it was down around mid-teens, but -- from a year ago, it was down mid-teens, but actually did see some growth.
+That was the second quarter in a row that we had growth inside of there.
+So I think that business continues to be one that, over the last couple of decades, has been very, very choppy.
+That characteristic probably won't change, but we're on a position where we've got a couple of quarters of growth.
+I think that when we look at it longer-term, we do believe that carrier CapEx won't grow.
+It certainly won't drop to zero, either, but we do think that it will get smaller slightly, in time.
+Okay, thanks, <UNK>.
+And we will go to the next caller, please.
+Okay, first off, let me make sure we've got the score keeping going on correctly here.
+I think we were clocking about 130 basis points of improvement this past year.
+Don't want to miss out on an extra 10 there, <UNK>.
+(laughter) As I look into 2015, clearly, any meaningful revenue growth will incrementally have a much stronger impact than any other piece of the P&L, on improving overall gross margins.
+But independent of margin growth, I'd go back to what I talked about a few minutes ago, on <UNK>'s question.
+And that would be, really, the increasing mix improvement on 300 millimeter, the mix to industrial and auto, and then just the decline in depreciation, as we continue to march through 2016.
+It's pretty tough to handicap which one would be the biggest contributor, or how to sequence those.
+But I think that they will all collectively be quite meaningful, as we move into 2016.
+And I think we will probably pleasantly please ourselves again for another year.
+Yes, and I'll just add to that, <UNK>, that on essentially flat revenues, all of that came down to free cash flow growing by 6%, right.
+So there are some things going on with accounting rules of -- on the gross margin line.
+But really, we are focused on growing that gross margin -- or on the free cash flow growth specifically, and it clocked in pretty nicely, as well.
+So you have a follow-on.
+<UNK>e.
+And if you look for the year, it was down -- I'm not sure if your question was for the year or for the quarter -- it's actually the same reason.
+It's down primarily due to custom ASIC products.
+If you remember, those products have a very high exposure to wireless infrastructure, and that's where we saw the headwind.
+It was also down because DLP, and DLP had a very good year in 2014, so a very difficult compare on that.
+It had a good year because there was a strong World Cup demand pulling through DLP.
+Yes, so I think that if you look, last year, it was in the mid-teens.
+If you go back several years, it's actually been in that same range.
+Previous years were primarily driven from the exit of the wireless business.
+But as we go into next year, and as we look, essentially, that we've got some long-term growth potentials inside of DLP.
+I think calculators have been flat to slightly down, and we would continue to expect to see that.
+Growth in royalties, the royalties have been about 1% of our revenue, and we'd expect them to continue to run in that area.
+And then we've got ASIC, that will shift, over time, into our Embedded Processing, as we pick up that functionality.
+So we'd expect that mid-teens to slow somewhere in the mid- to low-single-digit declines, going forward.
+Okay, thank you, <UNK>.
+And we will go ahead and move on to the next caller, please.
+Yes, so I think when you look at the Embedded sector, if I look for the year, the increase was due to Connectivity and Micro-controllers.
+And both of those product lines, I would say, have a very diverse customer footprint.
+And so there's really not one sector or market that's driving it.
+Collectively, you are right.
+It's in industrial, as well as automotive, but probably has a bias to industrial, just because of the diversity of those customers, and where they are winning designs.
+So very, very broad-based, and that's part of the reason why we're encouraged with that business, and the growth.
+And I think that also, you see how that contributes to the bottom line and the profitability of that sector, or that business, for the year.
+You have a follow-on, <UNK>.
+Yes, so we don't really have our business so much lined up by catalog or not.
+I'd say that the majority of the products by number, certainly, are more catalog-based, as we've got tens of thousands of products.
+But we're not quite organized that way.
+We've got the four businesses of High Volume Analog & Logic, which will be more application-specific products.
+And even there, even though they are application-specific, many of those products are available to multiple customers, and even sometimes multiple markets, even though they are application-specific.
+Something like motor drivers, as an example, selling into multiple markets and multiple sectors.
+And we've got Power, and then High Performance Analog and SVA.
+So we just don't have a cut between that.
+Okay, thank you, <UNK>.
+And we will go to our next caller, please.
+<UNK>e.
+I think, <UNK>, as we look at our business, and as <UNK> mentioned before, we believe that we've been operating in a weaker environment, and that will continue for some time.
+We've had some people ask us if we think a semiconductor cycle is underlying what we are seeing, and we just haven't seen those signs of a traditional cycle.
+So there are things like, our lead times continue to remain short.
+Our cancellations remain very low, our distribution inventory continues to hold around four weeks.
+And we continue to deliver our products on time to our customers, when they are asking, at very, very high service levels.
+So those are some of the bigger ones that come to mind, that you would see some movement, if you were moving through a bottom or a top of the cycle.
+And we just haven't seen that, in quite some time.
+<UNK>e.
+Yes, and before I talk about industrial, I just want to remind those that may not be as familiar with us.
+When we talk about our industrial market, it's something that's very broad, and different than what a typical investor would look, from an industrial screen.
+So we've got 14 sectors that makes up industrial.
+And they'll include things like factory automation, medical and healthcare, building automation, grid infrastructure, test measurement, motor drives, electronic point-of-sale, space and avionics, display power delivery appliances, lighting, industrial transportation, and then a bucket of everything else that goes into it.
+So slightly -- or very different than what most people would think of in industrials.
+And you are right, it was -- it had a strong year the year before.
+I think when we started the year, we had expected it to be stronger than what it turned out.
+And typically, a lot of people ask us, hey, we hear the rumors in China, we see the stocks that they follow, maybe in the industrial segment, are seeing very, very weak demand.
+But we turned in revenue that was consistent with what we saw, after a very strong year.
+And fundamentally, what we think is going on inside of that is that there is more semiconductor content going into the industrial market, and we think we're in the very early stages of that.
+And if you look at the automotive market, I think it's much easier to see that content, because we know how many cars ship per year.
+It's much easier to see the difference between total SAR unit growth, and what semiconductors are shipping into it.
+Certainly impossible to be able to see inside of the industrial market, because it's very, very broad and very, very diverse.
+But that said, we believe that we've got a decade or more of runway of increasing content inside of the industrial market.
+So that's about all the insight I think I can share on that.
+Okay, thank you, <UNK>.
+And we will go on to the next caller, please.
+Yes, <UNK>, the fab in Greenock, Scotland, is one that came with us with the acquisition of National Semiconductor in 2011.
+Most of the parts that are manufactured in there are part of our Silicon Valley Analog business.
+We announced today that we are going to -- that we're putting together plans to wind down operations there, and move the production to other 200-millimeter fabs that we have in Germany, Japan, and Maine in the US.
+These are larger, more cost-effective, more technologically advanced factories, that can just give us a lot better economics with those chips that are produced there.
+It will take us about three years to wind down those operations, by our estimate right now, as it takes just that much time to re-qualify those parts into other factories.
+And at the end of that period, we will no longer have an operation in Greenock.
+We took a $17 million charge in the quarter, as we began planning for that activity.
+And we expect that we'll probably continue to incur roughly $2 million of charges per quarter, each quarter, through the end of 2018 as we wind it down, for total charges of about $40 million, over a three-year period.
+<UNK> and I are going to have to tag team that one.
+(laughter) I will finish up the Scottish fab one, the why not 300 millimeter.
+The short answer is, most of those processes are dual qual-ed already in other 200-millimeter factories, and it's just a whole lot easier to transfer into qualified processes that already exist in other factories.
+Not all, but enough of them.
+And so consequently, we will just go ahead and put those into open capacity in 200-millimeter factories, versus bringing them into 300 millimeter.
+And <UNK>, you want to take the --
+Yes, <UNK>, your question on Connectivity, what's driving the growth there.
+There, we've got a very broad portfolio of products we support, about a dozen different standards, from a connectivity standpoint.
+So low-power Bluetooth, to Wi-Fi, to other sub-gigahertz standards.
+And so if somebody wants to connect something, we have a solution that we can offer them.
+And so we're just seeing really good uptake of the products that we've got there.
+I think you rolled in a question about, does it change our penchant for acquisition.
+Again, our belief is that when you acquire a company in the Embedded space, you're picking up additional architectures.
+And additional architectures doesn't make you stronger, it just makes you bigger.
+And so we'll continue to look for companies that have characteristics much like a National does, if we -- when we are interested, and that's the profile of the type of company.
+Let me just add, too, on the Greenock facility, that we do expect to save about $35 million, once we've completed all the transition.
+That's on an annualized basis, and once we do complete the transition of the products to the more cost-effective fabs.
+Okay, thanks, <UNK>.
+And we will move on to the next caller, please.
+<UNK>, I said the benefit is really happening right now, in the Analog portfolio, and it's happening across all four of the business units inside Analog.
+Because of it, the 300 millimeter factory we have in RFAB being highly automated, somewhat counter-intuitively, you don't have to have really high volume parts running through there.
+Because of the automation, we can actually run relatively low-volume parts through there, and still gain significant cost benefit.
+So what -- the way we been employing a 300-millimeter strategy is not so much to re-qual existing 200 millimeter into that factory, but instead to release new products into that factory, on already qualified processes.
+And that's really the focus that we have had, and that we will continue, going forward.
+And we'll give a further update, as to our progress, to date, on both the Renner fab, as well as the DMOS6 fab that we're converting that we announced last year, coming on February 9, in our capital management call.
+So stay tuned for that, and we'll give a new update on that, as well.
+(multiple speakers) Go ahead, <UNK>.
+Yes, I was just going to say that we've obviously competed with both of those companies for a couple of decades, and them combining together really doesn't change much, from a competitive landscape.
+And we believe that our four competitive attributes that make us unique, they are hard to replicate.
+We'll stay focused on those, and those are: our approach to manufacturing, the breadth of our product portfolio, the reach of the market channels that we've got, and our diverse and long-lived positions.
+And that's -- we will stay focused on those.
+And we think those have helped us gain share, and they will help us continue to gain share.
+Okay, we've got time for one more caller, please.
+Yes, <UNK>, we just won't provide color at that level, on a specific customer.
+I would just -- overall, I think if you look at how Apple has impacted our business with their success in the marketplace, personal electronics was about 30% of revenue in 2015.
+If you look at the market overall, I think that if you take memory out, personal electronics is probably around 60% of the market, and so we have about half of the exposure there.
+So we try to find places where we've got some differentiation, where we believe that those products will last more than one cycle.
+Perhaps they're products that we develop, that we can use in other customers, or even in other markets, in some cases.
+So that's really what we'll stay focused on, overall.
+So do you have a follow-on question.
+Yes, I don't think you're going to see a CapEx and depreciation crossover before the end of 2016.
+Depreciation will continue to run down during 2016.
+And really, the kind of gentle roll-over you saw beginning to occur in 2015 is your best proxy for how to model 2016.
+Okay.
+Thank you, <UNK>, and thank you all for joining us.
+Again, please plan to join us for our capital management call on February 9, at 10:00 AM Central Time.
+A replay of this call is available on our website.
+Good evening.

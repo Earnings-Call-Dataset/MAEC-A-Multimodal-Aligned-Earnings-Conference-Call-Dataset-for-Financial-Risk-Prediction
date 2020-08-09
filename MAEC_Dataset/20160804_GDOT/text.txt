@@ -1,0 +1,157 @@
+Yes.
+The answer is it has because we've lost, and this is what I mentioned in the prepared remarks.
+It's a good question.
+I'll give you some color on it.
+We've lost the repeat one-and-done customers.
+That was part of the design of the products.
+A significant part of our customer base used the products as a free throw away product, which is not their fault, it's our fault.
+That's how we essentially designed the product and they were taking advantage of it.
+The card was cheaper than a gift card.
+So you could buy a Green Dot card or a Walmart card, you buy it; it's a couple bucks to buy to cheaper than a gift card that maybe is $5 to buy.
+You buy it, you register it with a fake name, like Rumpelstiltskin or something.
+We decline you, right.
+We are not going to approve you for the card.
+But you can spend down the card in the package and they do it and they pay their Verizon bill or they pay their Sprint bill or whatever it is, or their DirecTV bill, it was a very common one.
+And they throw it away.
+And they just do that every month.
+But every month we are doing a CIP and going out to Experian to get their data and to Lexus Nexus and we are sending out plastic in the mail and all this kind of thing.
+So you are sitting here running a fulfillment cost and, of course, the retailer commission because the retailer gets paid whether that customer turns out to be long-term or short-term.
+So you're sitting here with an acquisition cost that is maybe $6 or $7 all in and a customer who, by the time we went to collect the fee, was already long gone.
+They had made their bill.
+They used it up; they threw it away.
+And that's the way it's been for years with the Company.
+So it shouldn't be a surprise to us that it encouraged one-and-done behavior.
+The other thing that we used to do is we sold cards for free on promotion.
+And we may still do that.
+It's a great way to get people into the card.
+But for a long time, we were free at Walgreens, we were free at Rite Aid, I forget where else, we may have been free for a little bit at other retailers.
+And you generate these massive amounts of unit sales.
+The quality of those customers were horrific.
+You'd see our revenue rise a little bit, then you'd see EBITDA get crunched as these customers just generated losses and repeat losses.
+So what we've done is we peeled off by design that layer of repeat one and dones and the card is priced now where you're more likely to want to reload it.
+You've already bought it, you've invested in it, it's now cheaper to reload than it is to buy a new card.
+Before it was cheaper to buy a new card than it was to reload -- and we've changed those dynamics.
+So we don't look into our market share as unit count because that's somewhat frankly irrelevant to the long term.
+Obviously, it's important, intake fact, but I'd rather sell, let's pretend 10 card holders who are reloading and generating strong lifetime revenue, than 100 guys where we're losing $1 per card.
+The answer is we are still far and away the share leader, but we have absolutely given up some unit sales on the rack and we are okay with that.
+Now the question is -- in fact, it was part of the design -- now the question is how do we sell and introduce the cardholders to a different kind of customer segment that people are buying us now and say, Green Dot is for the serious prepaid card holder and generate more of those customers.
+It's gone very well so far, as you can see, but we want to make sure that we get that out there.
+The mantra in our sales effort is to cut expenses, sell more quality cards.
+Cut expenses, sell more quality cards.
+It's a very simple metric.
+You'll see our promotional activity, or if you see what <UNK> Harvey talks about on his TV shows, or any of those, you'll see where the thrust of our promotional effort is.
+So the answer is we don't really, we clearly have an expectation for new card sales, but we model based on active cards.
+So the active cards we assume would be within a certain range.
+I forget what it is, a few points up or down.
+I think we are basically within our range of that.
+Ultimately, it's a combination of active cards and the revenue per active.
+That's how we run the model.
+We don't particularly guide on unit sales and we have a forecast for each retailer.
+The reason is because it's somewhat of a meaningless metric.
+I can blow the door off of unit sales by saying, buy a Green Dot card for free and we'll put $10 in acquisition, right, but you could see the Company not do very well.
+That's how we model it.
+That's within line -- mean the active cards and the revenue.
+The next question was about direct deposit.
+I'm sorry.
+Would you give me that last one again.
+The cost of--.
+The answer is, it's an implied cost.
+We are using our bank's balance sheet, right.
+Every day you have settlements incoming.
+Every day you have settlements posting and outgoing.
+That would be a settlement in transit and that's what that is because you're getting the money every business day.
+It's no different, by the way, in fact it's identical to what we do with our retailers and we have for 15 years.
+When I reload a card at, pick your favorite retailer.
+Dollar General.
+When I reload a card at Dollar General, the customer is getting access to those funds the second they leave the store, right.
+But Green Dot doesn't get paid the second they leave the store.
+We're going to get paid the next business day or two days later or, if it's a long holiday weekend, four days later.
+But the customer got to use the money right away.
+So there's always a fairly large outstanding receivables balance at the bank or a settlement in transit.
+So, when we underwrite and do a risk analysis on our balance sheet at the bank, we're underwriting that retailer or that organization for their ability to make sure they pay us back in the time agreed to and there would be an implied cost of money for that overnight or there would be an implied money for the two-day, but as you can imagine, it wouldn't be significant.
+It's just part of the revenue and the EBITDA model for the product.
+Been a long time.
+Good to hear from you.
+So the answer is we are going to do EMV, but it's not going to be until the later years.
+When I say later, I'm talking the end of 2017 and then go out from there.
+It'll be on those customers.
+Boy, the softball analogy is going to do me well today.
+Back to that inner core.
+I was trying to think of like a mountain where you water brush, the clay falls off easy and makes a hard clay, but I settled on the softball.
+So the question was the EMV.
+We will serve the EMV chips up on the cards that go to those hard core customers.
+It would be very, very wasteful to put an EMV chip on a card that hangs on the rack.
+That would be preposterous.
+Or to put an EMV chip on a one-and-done reloader.
+But clearly, for our high-value customers, direct deposit customers, reloading customers, there's a number of ways we can segment our active base.
+We've actually done the analysis and we do believe it will save us net some losses of person-to-person card transactions and we'll see those rolling out towards the end of 2017.
+So that's one of the ways we're going to both control the cost of that and, at the same time, make sure it's a net positive by only putting the chip on those cards where the fraud risk is higher and where the loss of charge-offs is higher.
+I don't know that we disclosed it.
+You know what you can do, is you can look at the segment called processing settlement and you'll see a segment number and that's comprised of our cash transfer business, reload to retailers and TPG and there's probably some metrics in there.
+I know there's metrics in there as it relates to the numbers of taxes, refunds they've processed in the quarter and that type of thing.
+That's probably your best disclosure.
+It is when you think of margins because TPG generates no revenue at all or a very tiny revenue in the second half of the year, but they still have the same staff.
+If you will, you have your fixed expenses are evenly divided over the course of the year.
+You have some higher variable expenses, the call center or whatnot in the first part.
+But over the full year, they have their fixed expenses evenly divided, but all the revenue frontloaded primarily into Q1, straggler revenue into Q2 and then tiny revenue Q3 and Q4.
+So it does affect your margins where you're going to have big fat margins in Q1, which is not sustainable, clearly, for the whole year.
+And then you're going to see in the back half compressed margins as a result of having to pay for that company's existence even though you're only generating revenue from your prepaid card business lines.
+Well, if you call the new cards and the cash-back cards and so forth an initiative, clearly, those are the drivers of our business; that's our core business right.
+Those would be big.
+If you look at some of what I'll call the ancillary initiatives or more of the side initiatives that could be high potential, the Green Dot Money on paper should do really well if we can get lenders to say yes.
+I know that sounds trite, but if you think about the lending market, the biggest issue people have in the lending market is the cost of acquisition and the ability to get that in there because you have to pay, what is it.
+You probably track it better than I do, but as much as $400 or $500 for a funded loan for a lender.
+At Green Dot, we have so many millions of customers coming in that we are playing nothing for our applicants.
+The problem is we've got to figure out a way to get better applicants and to give that appended data to the underwriter so that they can have more to work with.
+That could be a good one if we can get that rolling.
+Uber is going very well.
+I'm stunned by the numbers of Instant Pay and how fast that's growing and I gave some statistics on that.
+But that isn't as profitable or as big clearly selling a prepaid card account.
+I think that does it, but if you had to say two, I would say Uber and Green Dot Money have exciting potential initiatives.
+Not only for those companies like with Uber, but others like it; and then as we can have more product sale, work together exponentially.
+Remember, on one of our slide decks, we had the wheel of synergy and we talk about the fact that as we can build a lending product or as we can build another kind of product, can you sell that through to the Uber driver or you can do this or that.
+These are all the conversations that we're having about how we look at the long-range planning of the Company, how we can continue to grow with our existing customer base with new products and services.
+That's all part of what we look at, but those are two good ones.
+MoneyPak is doing well, which, is in effect for us, free for the price of asking.
+It's already our brand and already our product and the technology was already built or at least the core technology to process it.
+That's doing well.
+So I think we have a lot of irons in the fire, as you point out, but our focus is always the core business because that's what pays the bills.
+We always want to have the best prepaid products; we always want to have best and most compelling fee schedules and services and features.
+We always want to have the most beautiful packages on the rack.
+We always want to make sure we are the best retailer.
+All of that blocking and tackling is something we focus on all the time.
+Well, gosh, I don't know how to say that.
+It's all part of our active cards.
+I would think of it as me as thinking of it as being incremental and additive but not generating what a prepaid card would generate in total.
+Although the Uber GoBank accounts if that driver is using it as their core checking account, clearly, not all of the 80,000 that we've registered so far are, just like with prepaid cards.
+You have a lot of people that just want to get paid and they could care less, right, and they get their money off the card at their nearest ATM.
+You have others who say, oh, this is a cool checking account; I'll use this and those guys will do very well.
+But they are all part of that active card portfolio in the account services segment.
+That may be a better question for the Board.
+I can give you my perspective as a guy who has been here for a while.
+I think it's going extremely well.
+It's painful to see folks like Tim Greenleaf and <UNK> Moritz.
+I'll say this, Sir <UNK>, for those of you who are blessed to have met him or know him, he's without question one of the coolest, most important guys.
+Hang on one second, <UNK>.
+Anyhow.
+Great guy.
+Tim, of course, did so much work on our audit committee so well.
+But the new Board is fabulous.
+Nino has done a great job.
+George is contributing.
+<UNK> Jacobs as your Chairman has been spectacular.
+Rajeev [Date] has been so impressive, Chris Brewster has been amazing.
+And you would think the Board has been together for years.
+If this were a band, you would assume we would have been rehearsing the charts for years and it's a new band, if you will.
+I feel very fortunate.
+It's functioning.
+They are learning Green Dot; we are learning them.
+But I've enjoyed it.
+It's gone a lot better than I would've thought.
+If you would've asked me what it would be like before all this happened, I would've given you a different comment.
+Now that it's happened, I feel very fortunate and very pleased and I think for the most part I'm sure they'd tell you the same thing.
+You bet.
+I think that's all she wrote from looking at the board.
+My only closing remark is thank you for listening.
+We appreciate you hearing our message today and we look forward to talking to you next or seeing you at a conference near you.
+Have a great day.

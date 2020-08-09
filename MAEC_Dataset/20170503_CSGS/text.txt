@@ -1,0 +1,174 @@
+Thank you, Sharon, and thank you to everyone for joining us.
+Today's discussion will contain a number of forward-looking statements.
+These will include, but are not limited to, statements regarding our projected financial results; our ability to meet our clients' needs through our products, services and performance; and our ability to successfully convert the backlog of customer accounts onto our solutions in a timely manner.
+While these statements reflect our best current judgment, they are subject to risks and uncertainties that could cause our actual results to differ materially.
+Please note that these forward-looking statements reflect our opinions only as of the date of this call, and we undertake no obligation to revise or publicly release any revision to these forward-looking statements in light of new or future events.
+In addition to risk factors noted during the call, a comprehensive discussion of these factors can be found in today's press release as well as our most recently filed 10-K and 10-Q, which are all available in the Investor Relations section of our website.
+Also, we will discuss certain financial information that is not prepared in accordance with GAAP.
+We believe that these non-GAAP financial measures, when reviewed in conjunction with our GAAP financial measures, provide investors with greater transparency to the information used by our management team in our financial and operational decision-making.
+For more information regarding our use of non-GAAP financial measures, we refer you to today's earnings release and the non-GAAP reconciliation tables on our website, which will also be furnished to the SEC on Form 8-K.
+With me today on the phone are our <UNK> <UNK>, our Chief Executive Officer; and <UNK> <UNK>, our Chief Financial Officer.
+With that, I'd now like to turn the call over to <UNK>.
+Thank you, <UNK>, and thank you all for joining us.
+I'm pleased to report that for the first quarter we executed according to plan with strong revenue growth in our cloud and managed service offerings and a continued investment in our products, solutions, people and go-to-market strategies.
+For the first quarter, we grew revenues 3% to $192 million, one of our strongest first quarters ever.
+In addition, we generated non-GAAP earnings per share of $0.62 per share.
+Our non-GAAP operating margin was 18% and is in line with our target range.
+And finally, our cash flows from operations were $30 million.
+<UNK> will walk you through more details regarding our financial performance later in the call.
+In February, I shared with you 4 key initiatives that we are focused on, all aimed at increasing shareholder value.
+These include: first, continuing to drive revenue growth, in particular, through our cloud-based and managed service offerings; second, expanding our broadband and cable footprint globally and getting broader and deeper in our international clients' operations by helping them solve their business challenges; third, investing in our platforms and go-to-market strategies like our next-generation Ascendon cloud-based solution, enabling operators to participate in a highly dynamic and growing digital economy with a highly cost-effective platform that allows them to launch and generate revenues from digital services quickly; and fourth, continuing our relentless focus on executing extremely well on behalf of our clients.
+Our proven reputation for doing what we say has served us and our clients extremely well in a highly competitive business environment.
+Let me share with you how we are doing on those initiatives.
+First, we continue to grow our relationship with our largest client, Comcast.
+We converted another 975,000 Comcast residential customers off of a competitor's legacy platform and onto our advanced convergent platform in the first weeks of April.
+This brings the total number of Comcast residential customers converted onto our platform to approximately 8 million since 2014.
+In addition, Xfinity On Campus, which serves students attending universities around the country and is fueled by our cloud-based Ascendon platform, continues to expand to more college campuses around the country.
+We are pleased with the confidence that Comcast has placed in CSG to serve its residential and college customers, and we'll continue to work diligently to help them successfully execute on new business opportunities and help them solve their business challenges.
+Next, we continue to make solid progress on our efforts to convert our traditional software clients into longer-term managed services engagements.
+This past quarter, we signed several small new contracts, including one with New Zealand's largest broadband providers and another one with Airtel Africa, a leading provider of mobile services in Africa.
+In addition, we expanded the services we provide to one of our existing managed service clients, Telstra, Australia's leading communications and technology company.
+Since 2013, when we signed our first managed services contract with Telstra, we've grown the annual revenues generated from this operator by almost 500%.
+Telstra is a great example of how once our professionals get in and start working side by side with our clients, we are able to identify more ways in which we can help them streamline, standardize and automate their operations, resulting in lower cost for our client and increased opportunities for CSG.
+Overall, we have more than doubled our global managed services revenue over the last 12 months, helping us increase the visibility and predictability in our overall enterprise revenues.
+And when we look at our business overall, today, we generate around 90% of our total revenues from highly visible, multi-year relationships with communication service providers around the globe.
+That allows us to manage our own business and investments in a highly thoughtful and intentional manner.
+Third, we continue to generate strong momentum and excitement with our Ascendon next-generation digital services platform.
+Today, we announced that iFlix, the world's leading subscription video-on-demand service for emerging markets with 2-plus million customers, will use our Ascendon platform to manage its customer payment options, whether that's a credit card, PayPal, a gift card or Google in-app purchasing on multiple devices.
+This allows consumers to determine which payment option works best for them versus iFlix dictating that, leading to high customer satisfaction and loyalty.
+Importantly, managing the complex ecosystem required to provide all these options to consumers is one of the cornerstones of the Ascendon platform.
+Finally, we continue to focus our attention on helping our clients execute very well in their business while providing the scalability, security and reliability that is required to compete today.
+For example, we just successfully migrated our Ascendon next-generation platform to the Amazon Web Services public cloud.
+AWS has commended CSG on being the first BSS provider offering their next-generation digital services solution in the public cloud.
+This move aligns with our cloud-first strategy and provides benefits to both CSG and our clients, including being able to accommodate our customers' requirements for data sovereignty while broadening our capabilities and agility, enabling a significantly more cost-effective architecture and pay-for-use business models, fostering growth with elastic capacity and providing the resiliency, scalability and security that our clients demand in today's world.
+This is not just moving the architectures and legacy business models into the cloud.
+This is changing the game on time to market and fundamental cost structures, and we are pleased to be on the leading edge of this in the BSS space.
+We continue to look for ways to optimize our own operational processes and technologies so that we can share those savings with our clients.
+Moving to a cloud-first strategy for our key solutions continues to differentiate us from our competitors.
+So as I look back on the first quarter, quite simply, we're doing what we said we would do, and it's showing up in our financial performance.
+I really like our position.
+We have an enviable business model with strong fundamentals that position us well to drive shareholder value.
+We have unrivaled domain expertise in the broadband and video markets.
+We work with some of the largest and most innovative communications providers in the world, and we continue to grow our footprint both with these clients and new clients around the globe.
+We have proven technology and a solid reputation for operating our solutions really well.
+We have a financially sound company.
+We generate strong cash flow and have a strong balance sheet, which gives us tremendous flexibility for investing in our people, our solutions, our clients and still return capital to our shareholders through our dividend and share repurchases.
+And most important, we have talented and dedicated employees across the globe who are committed to helping our clients and our company achieve greatness.
+Before I hand it over to <UNK> to review our first quarter financial results, I want to thank our employees for making our clients' success their success and to our clients for putting their trust in our people to help them deliver.
+With that, I'll turn it over to <UNK>.
+Thank you, <UNK>, and welcome to all of you on the call today to discuss our financial results for the first quarter as well as our outlook for the remainder of 2017.
+We were pleased with our solid start to the year and the progress we're making on our strategic initiatives.
+Now I'd like to walk you through our financial results in more detail.
+Total revenues for the first quarter were $192 million, an increase of 3% from the same period last year.
+Sequentially, revenues were down 1% from the fourth quarter mainly due to our seasonally stronger software and services revenues we typically see at the end of the year.
+Our cloud and related solutions grew 6% over last year.
+This was driven largely by the conversion of new customer accounts onto our cloud solutions and the increased revenues from our recurring managed service offerings, which, by itself, doubled from last year.
+This strength helped to offset our expected decrease in software and services revenues as we continue to transition this part of our business into a more predictable recurring revenue model.
+Our first quarter non-GAAP operating income was $35 million with a margin of 18%, which is in line with our expectations.
+GAAP operating income for the first quarter was $27 million or a margin of 14%.
+Our non-GAAP adjusted EBITDA was $43 million for the first quarter or 22% of our total revenues.
+Our non-GAAP EPS for the first quarter was $0.62 compared to last year's $0.77.
+Our non-GAAP effective income tax rate was 34% for the current quarter, slightly better than our previous expectations of 37%.
+This lower effective income tax rate provided approximately $0.03 of non-GAAP EPS benefit to the quarter.
+I will provide more color on this later in my comments.
+And finally, our GAAP EPS for the first quarter was $0.62 compared to $0.64 for the same period last year.
+In summary, our financial results for the first quarter reflect our solid execution as planned with the year-over-year decrease in our operating results reflecting our commitment to invest in the long-term strength and growth of our business.
+Moving on.
+Before I address our balance sheet and cash flow items, I wanted to briefly summarize 2 significant capital items that occurred in the first quarter.
+The issuance of shares as part of these 2 transactions was contemplated in our initial 2017 guidance and completed in combination with cash payments such that our expected overall share dilutions is unchanged from last year, consistent with the February guidance.
+First, we settled the final obligation related to the refinancing of our 2010 convertible debt in the first quarter as follows: We paid cash of approximately $35 million for the remainder par value of the notes, and we delivered approximately 700,000 shares of our common stock to settle the $29 million value of the conversion obligation in excess of the par value.
+Second, Comcast exercised its $1.4 million vested stock warrants during the quarter.
+We net share settled Comcast's exercise by issuing approximately 650,000 shares of our common stock, which had a market value of $32 million.
+If you recall, the stock warrants vested as Comcast converted new customer accounts onto our ACP cloud solution.
+Since 2014, we have converted nearly 8 million of Comcast residential customer accounts to our solution.
+Also, the appreciation in our stock since the warrants vested will provide a net income tax benefit for this year, which is the primary driver of our lower 34% non-GAAP tax rate for 2017 that I mentioned earlier.
+Overall, we believe the warrants have proven to be an effective financial incentive and reward for both Comcast and CSG.
+Now onto the numbers.
+We ended the quarter with $238 million of cash and short-term investments compared to $276 million at the end of the fourth quarter.
+The sequential decrease is mainly attributed to the final settlement of our 2010 convertible debt that I just mentioned.
+We generated $30 million of cash flow from operations and $20 million of free cash flow for the quarter.
+Our ability to generate strong, consistent cash flows from operating activities continues as one of our fundamental business strengths.
+This, plus our solid balance sheet, positions as well for future growth opportunities.
+We paid over $7 million in dividends this quarter, which reflects an increase of 7% in our per-share dividend rate over last year.
+In addition, share buybacks totaled $5 million in the quarter.
+Let's move on to our outlook for 2017.
+As a result of the solid execution in the first quarter, we are raising the bottom end of our revenue guidance and now expect our 2017 revenues to come in between $765 million to $785 million.
+Our expectations for our non-GAAP operating margin percentage for the year are unchanged at approximately 18%, which is consistent with our current quarter results and reflects our current commitment to invest in the long-term strength and growth of our business.
+We are increasing our 2017 non-GAAP EPS guidance range to $2.45 to $2.59, which reflects an improvement of about $0.10 per share over our previous expectations.
+This change is mainly driven by the expected improvement in our non-GAAP tax rate to 34% from our prior guidance of 37% as I mentioned earlier.
+We continue to anticipate our outstanding shares to be approximately 33.1 million shares for the year.
+In addition, we raised the bottom end of the range for our non-GAAP adjusted EBITDA to $171 million to $179 million.
+And finally, we increased our range for operating cash flows to be $105 million to $125 million for the year, an improvement of $5 million over our previous expectation; and we expect our 2017 CapEx to remain at $20 million to $25 million.
+In summary, we are off to a good start to the year.
+We are growing our top line with new logo wins, transitioning our software clients to long-term managed services arrangements and by continuing to win market share in the cable space.
+We are investing in our people, our products and our clients to drive long-term value, and we are continuing to return cash to our shareholders.
+We like our position.
+With that, I'll turn it over to the operator for questions.
+Yes.
+Matt, I'll take a shot at that one.
+Telstra is a great customer.
+And when we first started working with them, they had some internal systems in the BSS areas that we operate that they had on multiple different platforms that they wanted to consolidate together for efficiencies.
+So we worked with them on that, and we worked very closely with them.
+When I was in Australia not too long ago, it was great because when you walk on the floor with them, it's really tough to tell the difference between a Telstra employee and a CSG employee because they're all heads down working on the same objective of improving their business through the operational integrity.
+And so the domain knowledge and the domain experience that we have from doing it for 35 years, combined with the relationships that we picked up in the Intec acquisition a couple years ago, allows us to leverage that domain knowledge with the great relationships and software products that were there to take on more accountability and responsibility for their systems in a way that it improves their bottom line economically and it improves the overall service they could take to their end customers.
+So we just continued to take on more international managed services business, and what starts to happen is that becomes a model.
+When we can show that and show the return on investment, then we can share that broader with some of the other customers that we mentioned there.
+And it -- a lot of people can talk about the success they're going to have in the future, but these items are -- they're in the rearview mirror.
+We did it.
+It's over.
+And so it creates a great platform to keep going not only there at Telstra but at other customers around the globe.
+Absolutely.
+You know the cloud has been an underlying fundamental transformational activity.
+I used a lot of Dilbert words there.
+But it really changes the game because what we used to do is bring great value in Software as a Service, managed service type activity because we had such large investments in hardware, storage, processing, network and that great -- brought great benefit over time.
+But then what happened is, as it became a public cloud, we all see the great big ones that are out there in that space, if it's Amazon, if it's Microsoft.
+And they've just taken the same model we've used for 35 years and spread it around the globe on a much larger scale.
+So when we can get the multi-tenancy and we can roll our applications into that, we can get a great price point on the services we deliver.
+But not only that, the ability to roll it out very fast.
+So whereas it used to be very challenging for us to put a data center in a foreign domicile and work through the data security issues, the data sovereignty issues, they've already done that on a global scale basis.
+And that's why we keep pushing that this is a game changer in the business model because we can drive materially lower cost per unit and we can roll it out in 90 days in our Ascendon platform.
+And we've got proof points of that.
+So as I mentioned in the prepared comments is that this isn't just taking old architects and redoing them on new technology that we see happening or redoing business models, if it's still going to be a professional service gig where we charge you a ton in the future.
+This is a game changer for the customers that we're deploying it for, and we're getting some good traction with it.
+Yes.
+We have a great relationship with Charter, and if you recall, Time Warner was our very first customer 35 years ago.
+So we've got a lot of depth and domain knowledge in that area.
+When Charter did the acquisition, we worked very closely with them and worked with them daily on their systems and the processes we go through.
+Charter is very focused.
+They're an incredible operator, and they're very focused on that integration and doing the right things.
+And so we've been working with them and are extending that contract on a month-to-month basis, which is way outside of our norm because of our long-term contracts and our important relationships.
+We would only do that in a situation where we have a committed relationship, which we have with that Charter relationship.
+And so we're in close discussions with them on a day-in, day-out basis, and we hope to have that resolved in a longer-term fashion very soon.
+And hopefully, and that you should take that as yet another sign of the value and the partnerships that we have is when we get that done and in place.
+But we have extended and gone outside of our model to do a couple of 1-month extensions just because of how important the relationship with the client is.
+Two quick questions.
+First, on the new products that you guys are doing, the development, how's that going.
+And what's looking good this quarter.
+And I'm sorry, Larry.
+I misunderstood you.
+Thank you for the question.
+But was it around the new products, did you say.
+Yes, around the new products and the new developments.
+Just, I guess, how it's going this quarter.
+And what's looking good.
+It's going well from a product development and delivery.
+We're getting a much better understanding of how we can continue to accelerate the products into the marketplace.
+But we talk about a lot of Ascendon and some of the pieces that are there both from a digital BSS and also from a OTT, over-the-top type activity, as we mentioned in today's press release, around iFlix.
+That's a huge one, a huge win for us, and it's all based upon the net new products and the R&D that we've done.
+And those are 7- and 8-year development efforts that are positioning us well to win in next-generation providers of those services.
+So we're feeling really good about the products.
+And then in addition to that, we still have folks that are moving onto legacy platforms that we're having good luck with.
+So we see a combination of honoring our past and inspiring our future, and those R&D dollars are really starting to get us some traction in those areas from Ascendon onto our other components.
+And [Colin] the other thing is similar is the Telstra reminds me.
+How -- anything new in other nations, Europe or Asia or so forth.
+Or anything that's motivating potential clients there to make them look at your products and possibly hiring you in the near future.
+We still see activities in those spaces.
+We talked about Airtel Africa is also in India, along those lines.
+And I just sat through the other day a portion of our more detailed pipeline review, and Brian Shepherd and the teams around the world are doing an incredible job of building that pipeline.
+And we see it as a very healthy pipeline, and we're getting some of them across the finish line.
+And importantly, we are investing in our go to market and our brand, which is helping to build that pipeline and get the focus on where it should be, which is solving customer problems with those solution.
+Well, thank you very much, and thank you, everyone, who was on the call.
+Once again, I couldn't be more grateful and blessed for those employees that are on the call to make sure they understand, also customers and interested financial partners as we go through this journey together.
+But we really like our position.
+We really like how the business is positioned, and we want to keep bringing you quarters of delivering to plan.
+So thanks again, and have a great quarter.

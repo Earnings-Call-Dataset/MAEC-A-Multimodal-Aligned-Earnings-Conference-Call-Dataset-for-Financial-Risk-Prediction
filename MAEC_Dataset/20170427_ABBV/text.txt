@@ -1,0 +1,133 @@
+Today I'll highlight recent pipeline updates and discuss some of the key milestones we anticipate for the remainder of 2017. I'll start with our hem-onc programs, where we continue to make significant progress with both Imbruvica and Venclexta
+Starting with Imbruvica, as we've outlined, expanding into new indications is an important driver of future growth
+Earlier this year we added relapsed/refractory marginal zone lymphoma to our growing list of approved uses, and we continue to make progress with other indications as well
+During the quarter, we submitted a supplemental new drug application for the use of Imbruvica in patients with chronic graft-versus-host-disease who failed prior systemic therapy
+GVHD is a severe and potentially life-threatening complication that can occur in patients who have undergone an allogeneic stem cell or bone marrow transplant
+There are currently limited treatment options for this disease, and if approved, Imbruvica would be the first and only therapy specifically indicated for chronic GVHD
+In Phase 2 data presented at the end of last year, 67% of patients who failed steroid therapy responded to treatment with Imbruvica, with one-third of the responders achieving a complete response and almost two-thirds substantially reducing steroid use
+Based on these data, we expect a regulatory decision in the second half of the year
+Later this year, we anticipate several key data readouts for Imbruvica, including data from an interim analysis in front-line mantle cell lymphoma, as well as additional potential interim analyses in other forms of non-Hodgkin's lymphoma
+Moving now to Venclexta
+We're expecting data from the MURANO study evaluating the combination of Venclexta and Rituxan later this year, which we believe will support a broader label in relapsed/refractory CLL and help establish Venclexta as a foundational therapy in this patient population
+The Phase 3 program evaluating Venclexta in front-line CLL is also ongoing, with studies been run in younger, more fit patients as well as older patients with comorbidities
+These studies, as well as other combination studies with Imbruvica, are important parts of the Venclexta strategy to drive toward chemo-free regimens in CLL
+We anticipate key data from the CLL14 study in older patients with comorbid medical conditions to be available in 2018. Beyond our core strategy in CLL, we are making great progress with our development programs to expand Venclexta across multiple hematologic malignancies
+We have Phase 3 studies ongoing in multiple myeloma as well as AML, where we have received Breakthrough Therapy Designation
+And these studies are progressing well, with key data becoming available in the 2019 timeframe
+Later this year, we are also expecting additional data readouts from Phase 2 studies in indolent non-Hodgkin's lymphoma and diffuse large B-cell lymphoma, which will inform decisions regarding advancement in these indications
+I'll now turn to our solid tumor programs, where we continue to make good progress with our late-stage programs, Rova-T and ABT-414, as well as with our early-stage oncology pipeline
+Starting with Rova-T, our registrational trial in third-line-plus small cell lung cancer, the TRINITY study, continues to progress nicely, and we expect data later this year
+Our submission will follow soon thereafter, enabling a commercial launch in 2018. In addition to TRINITY, we have a comprehensive development program in place for Rova-T to evaluate this promising therapy in earlier lines of treatment in small cell lung cancer, as well as in other tumor types that express DLL3. The Rova-T program includes additional studies currently underway in small cell lung cancer, including MARU, a Phase 3 study evaluating standard chemotherapy followed by Rova-T in the front-line setting, and a mid-stage combination study evaluating Rova-T with Opdivo and – with Opdivo and Yervoy in small cell lung cancer
+And this quarter, we will also start the TAHOE study, a Phase 3 trial in second-line small cell lung cancer
+Beyond small cell lung cancer, the neuroendocrine tumor basket study is progressing nicely, and we anticipate beginning to see early data from this study towards the end of this year
+As we've discussed, the acquisition of Stemcentrx not only provided AbbVie a late-stage asset in Rova-T, but brought a highly attractive discovery and early development platform as well
+In addition to Rova-T, we have four Stemcentrx assets in the clinic, and we are on track to transition several additional programs into human trials this year, adding to our growing oncology pipeline, which includes more than 35 late preclinical or early clinical stage assets
+Beyond Rova-T and our other Stemcentrx assets, we're continuing to make progress with our solid tumor programs, including our antibody drug conjugate for glioblastoma multiforme, ABT-414, which was granted Fast Track Designation earlier this month
+At the upcoming ASCO meeting, we plan to present full data from the Phase 1 study of ABT-414 in glioblastoma, including overall survival and progression-free survival data
+And later this year, we'll see data from the Phase 2 study in second line GBM that, if positive, would support regulatory submission
+In our early-stage oncology pipeline, we continue to build capabilities and explore new technologies that will extend our reach in the solid tumor market
+We're making good progress with our next-generation immuno-oncology programs and other novel approaches such as our bispecific technology, with a number of assets having recently entered the clinic and more study starts expected through the remainder of 2017. Moving now to our HCV program, where we recently received priority review from the FDA for our pan-genotypic next-generation HCV therapy
+In the quarter we also received EMA accelerated assessment and priority review in Japan
+Last week at the International Liver Congress we presented new results from our Phase 3 program, including data from the EXPEDITION-1 and ENDURANCE-3 studies, which together with previously reported data reinforce our next-generation therapies' potential to provide high cure rates and a shorter treatment duration for the majority of patients across all genotypes, including patients with compensated cirrhosis and those with genotype 3 infection
+Results from EXPEDITION-1 demonstrated that 99% of patients with compensated cirrhosis achieved SVR12 with 12 weeks of treatment across genotypes 1, 2, 4, 5, and 6. We also presented data from ENDURANCE-3 in patients with genotype 3, the second most common (16:22-16:33) genotype globally and the most challenging to treat
+These results showed that with just eight weeks of treatment, 95% of genotype 3 patients without cirrhosis and who are new to treatment achieved SVR12 with our next-generation therapy
+We're excited about the high cure rates across all major genotypes and the results in difficult-to-treat patients that we've seen in our Phase 3 program, and remain confident that our pan-genotypic once-daily ribavirin-free HCV therapy will be competitively positioned within this market
+We remain on track for regulatory approval in the U.S
+, EU, and Japan later this year
+Moving now to our immunology programs, where we have two very promising late-stage assets, risankizumab and ABT-494, each with the potential to significantly advance standard of care in a number of immune-mediated conditions
+Risankizumab, our anti-IL-23 monoclonal antibody licensed from Boehringer Ingelheim, has the potential to provide best-in-class efficacy and increased dosing convenience with quarterly administration
+Results from the Phase 2 study of risankizumab in psoriasis were recently published in the New England Journal of Medicine
+These data show that selective blockade of IL-23 with risankizumab was associated with a superior clinical response compared to Stelara
+In this study, approximately 2.5 times as many patients achieved PASI 100 with risankizumab compared with those receiving Stelara
+The Phase 3 program in psoriasis is well underway, and we look forward to seeing data from three of the pivotal studies later this year, with commercialization expected in 2019. Earlier this month, we also published results from a proof-of-concept Phase 2 study of risankizumab in Crohn's disease
+Results from this study show that patients receiving risankizumab achieved higher clinical and endoscopic remission rates than placebo, suggesting that blocking IL-23 could be a very promising therapeutic approach in Crohn's disease
+52-week data from the open-label maintenance portion of this trial will be shared in a late-breaking oral presentation at the upcoming DDW meeting in May
+Phase 3 studies in Crohn's disease will be starting soon
+This year we'll also see Phase 2 data in psoriatic arthritis, with Phase 3 studies expected to begin in the first half of 2018. Additionally, we are expecting to begin a Phase 2 for risankizumab in ulcerative colitis in the second half of the year
+Moving now to our selective JAK1 inhibitor, ABT-494, where we continue to make significant progress with our development programs in RA and inflammatory bowel diseases
+At the upcoming DDW meeting, we'll be presenting data from the Phase 2 CELEST study in Crohn's disease, showing that treatment with ABT-494 demonstrated endoscopic improvement and clinical benefit as induction therapy in patients with moderate to severe refractory Crohn's disease
+Based on these strong Phase 2 results, we'll be initiating a Phase 3 program later this year
+We have two additional mid-stage programs for ABT-494, including an ongoing Phase 2 study in atopic dermatitis and a soon-to-begin Phase 2 study in ulcerative colitis
+Turning our attention to rheumatoid arthritis, we expect to begin seeing data from the first of six Phase 3 RA studies in the coming months, with top-line data from the SELECT-NEXT trial in patients who have failed conventional DMARDs expected in June, and data from the SELECT-BEYOND study in biologic inadequate responders expected later in the summer
+We plan to present full data from both of these studies at a medical meeting later this year
+We believe ABT-494 has the potential to be best-in-class with an optimized benefit risk profile, and we are particularly excited about this asset's potential in the difficult-to-treat anti-TNF inadequate responder population, a growing segment of the RA market representing roughly 35% of the biologic treated population
+And finally, in the area of women's health, we are nearing completion of the Phase 3 program for elagolix in endometriosis and are on track for regulatory submission next quarter
+In addition to the endometriosis program, we have Phase 3 studies underway in uterine fibroids
+This program is investigating the effect of elagolix on heavy bleeding related to this highly prevalent condition
+We anticipate beginning to see data from this Phase 3 program late in the year
+Earlier this month we presented detailed results from the Phase 2 study in uterine fibroids at the meeting of the Society of Endometriosis and Uterine Disorders
+These data demonstrated that treatment with elagolix provided superior efficacy and rapid control of heavy menstrual bleeding associated with uterine fibroids compared to placebo, as well as improved quality of life
+Treatment with elagolix was well tolerated, with hormonal add-back therapy substantially attenuating the side effects of elagolix on bone mineral density and hot flashes
+Importantly, there were no abnormal endometrial findings, demonstrating that elagolix has potential as a chronic, uninterrupted treatment for this condition
+We remain excited about this potential new medicine for women with both of these highly prevalent conditions, where there are few effective treatment options
+So in summary, we've continued to see significant evolution of our mid- and late-stage pipelines, and we look forward to many important data readouts, phase transitions, regulatory submissions, and approvals later this year
+With that, I'll turn the call over to Bill for additional comments on our first quarter performance
+Jeff, this is Mike
+I'll take the first part of that question
+So obviously we've been following the situation very, very closely
+Of course, we don't have access to the complete response letter or knowledge of Lilly's conversation with regulators
+But we do have a very clear understanding of our own program, our own data, and our own extensive conversations with regulators here in the U.S
+and in major jurisdictions around the world
+And based on that, we remain confident in our program and don't see any read-through from the Lilly situation
+We've designed a very comprehensive and robust Phase 3 program that will thoroughly characterize the efficacy and safety profile of both of the doses of ABT-494 that are being studied in Phase 3. And we remain confident in the data that we've seen, our Phase 2 data, we're very strong not only from an efficacy, but also from a safety perspective
+An important issue here is dose selection, and we designed a very robust Phase 2b program that explored a wide range of doses across different patient populations, because dose response is not necessarily the same in an earlier population or an TNF-inadequate responder population, for example
+And we ran Phase 2 studies in both of those patient populations
+That allowed us to select doses that we think optimize benefit/risk, and as I said, we've designed a Phase 3 program that will fully demonstrate that benefit/risk and support regulatory decisions
+So our level of confidence or enthusiasm on ABT-494 remains high and hasn't changed a bit this past week
+So, this is Mike
+I'll take that question
+We feel very good about the data that we've generated across the program and across genotypes
+If you look at our response rates, they're very high across both the common and uncommon genotypes, and in particular in some of the most difficult to treat patient populations, like genotype 3. And so, while it's difficult to speculate about a label, we think that the evidence that we've generated strongly supports pan-genotypic use of the product
+And with respect to the eight-week data, I would make similar statements
+The eight-week data have been very strong across genotypes, including in very difficult to treat patients like genotype 3 patients
+There, it's been studied in genotype 3 patients at eight weeks who don't have cirrhosis and are new to therapy, but that's a very, very significant portion of the market, not only in the U.S
+but around the world
+And our results are very strong, and again, while it's difficult to speculate about a label this early in the process, we think the data supports the use of the regimen in that manner
+Okay, this is Mike, I'll take the question about Rova-T and TRINITY
+So what we know about small cell lung cancer is that treatment options are severely limited for these patients
+We know that in the front-line setting, we can drive good response rates with traditional chemotherapy, but those responses aren't durable and patients relapse
+And when they relapse, they're very, very difficult to treat
+Second and subsequent lines of therapy have much lower response rates and very poor durability of those responses
+In the third-line setting, where we're conducting the TRINITY study, for example, one-year survival is at best 12%, and many experts would put that number lower
+So what we're looking for in TRINITY is something that really changes that picture, something that shows response rates that are different from the chemotherapy options and clearly differentiated – chemotherapy drugs response rates in the teens here – and responses that have the promise of being durable, and increasing that long-term survival to the greatest extent possible
+And you asked about our confidence
+We remain confident in Rova-T and TRINITY
+Rova-T is supported by a very, very strong package of preclinical biology and early clinical data
+And this is a situation where the early clinical data are predictive of TRINITY
+We're essentially looking at the same endpoints in TRINITY that we did in the early studies
+So we feel good about that asset and about the overall Stemcentrx pipeline
+Okay
+This is Mike, I'll take those take questions
+With respect to the risankizumab data, if we look at the Phase 2b data for risankizumab, it shows the strongest observed results in the category, which would include the IL-17s and the IL-23s
+We had very high PASI 90 response numbers and very high PASI 100s, so complete clearance of skin disease in that program
+And there were other features about the data that were very striking
+First, we had very good durability response, and there's a very good administration, with the ability to drive quarterly administration in our Phase 3 program
+So basically what we're looking for is a result in Phase 3 that is consistent with those Phase 2 data
+The other thing I'd point out, with respect to other agents, is we run active comparators in our Phase 2b, now that's against Stelara not against the IL-17s, but we saw very high PASI 100 rates there
+And as I pointed in out in my prepared remarks, PASI 100 was about 2.5 times higher for risankizumab as compared to Stelara in that Phase 2, and the results of PASI 90 were similar, that there were substantially higher PASI 90 response rates, about double that of Stelara
+So we feel good about the competitive profile and the ability to drive that through Phase 3 and into the market
+With respect to Crohn's disease, the data that we've seen are very encouraging
+We're moving very fast already
+So I'm not sure if the data at DDW accelerate that, but we're poised to move into Phase 3 and we feel that there's a lot of potential for this pathway in inflammatory bowel diseases as well
+So with respect to the framework that Rick laid out, we have a number of opportunities to move forward in lines of therapy
+And one that we would expect to see data on later this year is mantle cell lymphoma, an aggressive form of non-Hodgkin lymphoma, where we're anticipating interim data from a pivotal study in front-line, which would be an important step towards moving to front-line therapy there
+In mantle cell, we also have combination work ongoing with Venclexta, and that combination has shown very strong results
+And so those data would continue to mature over the course of the timeframe that you described
+We're also going to see data in other forms of non-Hodgkin lymphoma over the course of the next 18 or 24 months, including data in diffuse large B-cell lymphoma, where we've seen good results in patients who have the ABC or activated B-cell phenotype of that disease, and also additional work in follicular lymphoma, which is the largest form of indolent non-Hodgkin lymphoma
+Outside of NHL, we're making good progress with GVHD
+As I mentioned in my prepared remarks, we have the initial submission in but we have ongoing data generation in GVHD
+So all of those data will mature over the course of the timeframe that you described
+And then, at the back end of that two-year period, we'll start to see more data on multiple myeloma and other opportunities as well
+So with respect Veliparib, as we've said on other occasions, we were exploring a different hypothesis with Veliparib
+We know that Veliparib – or we know that PARP inhibitors play a role in treating patients with inherited mutations in DNA repair, germline BRCA mutation and similar mutations
+But we didn't view it as a substantial opportunity for a company like AbbVie to come third or fourth to market in that population
+Essentially, the medical need was met for those patients
+So we were testing a different hypothesis, and that hypothesis specifically was whether PARP inhibition would augment DNA-damaging chemotherapy; that the first hit, if you will, didn't have to be genetic, that it could from that DNA-damaging chemotherapy
+We've now seen across a couple of studies that that hasn't played out in the way we had initially envisioned
+We see that in the triple-negative breast cancer neoadjuvant study and in the squamous non-small cell lung cancer study
+And so, while that's not the result we had hoped for, we knew going in that this was a higher-risk, higher-reward sort of approach, and that the evidence while reasonable, from a preclinical and early clinical perspective, isn't entirely predictive in this setting
+And so we knew that it was going to take Phase 3 data to answer the question
+We've seen the first two readouts, and those studies did not meet their primary endpoint
+With respect to ongoing work, we have ongoing studies, some of which will read out very soon
+So we can't speculate about what those results might be, but we will complete the ongoing studies and update you on the progress as soon as possible
+<UNK> - Credit Suisse Securities (USA) LLC (Broker) Okay

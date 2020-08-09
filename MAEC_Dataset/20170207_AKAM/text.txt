@@ -1,0 +1,106 @@
+I think they're very large.
+Bot Manager fits in with our Kona Site Defender in the web security product space, and Bot Manager's market is at least as big as Kona, and we're seeing that in terms of the ARPUs with customers that are adopting that.
+EAA and ETP are on the Enterprise side, and that is a new market for us to go into.
+That's a market that has traditionally used devices that are purchased by the IT manager, operated in the private network.
+I think, as we go to the future, you are going to see those capabilities sold as cloud services in a recurring revenue market.
+We are bringing those kinds of products to market now to help that fundamental change in enterprise architecture and enterprise security.
+In the long run, I think the services for enterprise networking and security have a bigger TAM than web delivery and security.
+Of course, it's just at the beginning, so it will take a long time to catch up.
+But there's a lot more money spent in enterprise networking than there is in content delivery.
+And I think the enterprise -- the term often you will hear in the industry is enterprise networking is turning inside out, and I think you'll be seeing the adoption of cloud services replacing a purchase of devices operated by the IT manager and the WAN.
+As we talked about, I think as the percentage of revenue, we expect or are certainly prepared to see a decline in percentage of revenue.
+First, you have the rest of the business, the core business over 90% growing at a very strong clip, and I think these six, of which there's really three that are larger today, quite possibly could decline in the revenue they pay us, which would mean their percentage would continue to decrease.
+And that is -- as we look to the future, that is the way we are thinking.
+Of course, we're going to do everything we can to maximize revenue in those accounts.
+I think we provide them tremendous value, and three of them are still sizable customers and I think will always be sizable customers for Akamai.
+You know, I don't think there's so much of an issue there, and the impact that anyone of them can have is now much less than it used to be.
+So I don't think that's an issue really to be thinking about.
+I think the key is they are less than 10% today.
+We are anticipating further declines certainly as a percentage of revenue through the year and potentially in the future.
+But I don't think there's any giant event in a single quarter associated with any one customer.
+Well, I think -- you know, again, I think you should look at our depreciation expense a bit as a percent of revenue.
+To take the depreciation expense that we have been incurring as a percent of revenue and as you ramp CapEx as a percent of revenue, you should be ramping depreciation as a percent of revenue in a similar way.
+Yes, we're not giving guidance at that level of detail, other than to say we expect some further declines.
+Not at the rate we have already seen obviously because now they are less than 10% of our total revenue, and this is associated with -- these companies spend billions of dollars a year in infrastructure generally, and they are doing more of the delivery themselves.
+I think we still provide them significant value, and of course, I would like to see the revenue there increase as we go forward, but we're not expecting to have that happen.
+Yes, I would say OTT is growing at a very solid pace.
+It hasn't exploded.
+At times, people think that might happen, but that has not taken place.
+I think there's a lot of new offers out there who continue to be new offers.
+People are going to try lots of different kinds of things, and some will have more success than others in the marketplace.
+It is a very hard thing to do.
+Just even the delivery of the videos at high levels of quality is very hard, and that's where we really excel.
+And so we get a significant share of that market, and as it grows, we should be in a position to benefit from it.
+And there's other things besides the delivery that are complicated technically.
+Things involving ads with ad-supported OTT.
+Very complicated to do, and there's a lot of players in the ecosystem in getting everything to work just right.
+There's problems sometimes.
+And, again, this is where Akamai really helps their customers in being able to make sure that OTT has delivered reliably to handle large-scale at high bit rates, which means high quality pictures and at a reasonable price point.
+Because as that industry grows, they need to see the cost per bid delivered come down.
+And so that's a place where we've got great strength, and I am very optimistic about the future growth of our OTT business.
+Yes, we don't really operate on an overflow basis, so it's -- whatever you are seeing is not really attributed to that.
+I don't think there has really been a fundamental change in the Internet platform companies in terms of their utilization quarter to quarter.
+Generally the trend that we expect to see is they are going to try to do more of the delivery themselves.
+Obviously they will take the easier stuff and work on that first.
+That's one thing that we have seen in the past.
+That said, this stuff is hard to do and to do well and to actually to do affordably.
+And I think -- so I think that we will continue to have business with these customers.
+I just think it will be a lower percentage of revenue going forward.
+No, I think you're going to see a steady increase in investment throughout the year.
+I think you're going to see that investment occur.
+It's going to begin in the first quarter.
+You won't see it manifest itself significantly because it's going to take a while to get the headcount onboard and the spending to ramp.
+So I think you're probably going to begin to see that effective in Q2.
+And then my expectation is that, again, it will stay in the high 30s% thereafter.
+So I think it will probably -- I'm not going to specifically guide for Q2.
+But, as I said beyond the first quarter, which I said 39% to 40%.
+And I think it will be 39% to 40% depending upon where revenue lands in the range.
+But I do expect that in Q2 and beyond, it is going to operate in the high 30s%.
+Yes, well, part of that is, again, when you talk about acceleration, you're talking about year on year.
+So, as <UNK> mentioned, the declines we've seen in these large customers were much more significant in 2016.
+So the wraparound impact of that really began a little bit in Q4.
+You're going to see that continue in Q1, and so some of it is the wraparound effect of these customers not having nearly the impacts on the Company growth rates as they did a year ago.
+My comment was more of a sequential comment, the Q4 to Q1.
+We always see some seasonal decline in the Company revenues and also with these big customers.
+And I expect to see that happen in -- as I mentioned, I think some of the seasonal decline is going to be much more notable in the media business, and I think you're going to see steady growth in the Performance and Security business.
+Yes, roughly, yes.
+Yes, you can click to buy Akamai whole site delivery on Azure.
+A lot of companies have done that.
+It's not a material amount of revenue to us.
+The Microsoft relationship, on the other hand, is very important to us.
+We have a substantial number of customers and revenue that flow through Microsoft, and of course, they are a large customer themselves.
+Yes, we have a new CMO, Monique Bonner, and really making substantial progress in our digital marketing effort, and I think that will help quite a bit in terms of generating more efficient inbound sales.
+I wasn't referring to a specific timeframe.
+I think you know the Company has been operating in double-digit revenue growth.
+This is actually the first year we have not.
+I think you know that certainly the driver of that has been what's been going on with these large Internet platform customers.
+The Company growth rate outside of them has been growing in the mid-teens.
+So we have been growing in the double digits.
+I think -- my point was that as we make these investments, these investments are going to take a bit of time to see revenue ramp, and so you are going to see the dividends from these investments more in 2018 and 2019, and I think that is what's going to lead to consistent double-digit growth for the Company.
+We're pretty pleased with our international growth.
+You are right that our international growth has been growing very fast and growing very fast in particular in our Asia-Pacific region.
+So our investments -- our investments are much more weighted, I would say, on R&D innovation, to be frank.
+Our investments are not heavily weighted towards more go to market.
+I actually think the go-to-market side of the equation, we will make some investments there.
+It's a matter of giving our existing salesforce more products to sell.
+Our salesforce is pretty confident at penetrating our products into their installed base set of customers.
+It's a matter of giving them more products to sell.
+And I think that by stepping up investment in R&D, getting more products announced I think will lead to more revenue.
+And we have proved that we can do that, security being the most recent example.
+<UNK>, I think we have time for one more question.
+Yes, I think in general that we continue to get good traction in upgrading Ion into our customers that buy our Web performance products that, as you can imagine, that it's a hierarchy of -- it starts with customers that really, really care about performance.
+And so I think we have further room there, but I think that kind of the customers that are going to buy Ion, many of them are already buying their products.
+But while there is more to sell there, I would say they are probably not a significant, significant opportunity there.
+And yes, we have seen when customers upgrade to Ion that there is an ARPU uplift at times, but I also think there's other things to sell for our Web performance solutions.
+As <UNK> mentioned, Image Manager is another offering to sell into the installed base.
+So, if they are buying Ion, now they can buy Image Manager.
+If they are buying DSA, now they can buy Image Manager.
+And I think you're going to see us have other adjacencies like that within Web performance as well.
+With the top six, we have obviously lost share to the do-it-yourself effort.
+We are not seeing lost share to other third-party CDNs.
+So it's an issue with the DIY, which is the big Company has their own platform, and they want to try and do more of it themselves.
+Okay.
+Thank you, everyone, and we want to -- appreciate you joining us for today.
+And then closing, as <UNK> mentioned, in addition to our 2017 Investor Summit on March 14, we will be presenting at a number of investor conferences in February and March.
+And details of these can be found on the Investor Relations section of Akamai.com.
+Thank you all for joining us, and have a wonderful evening.

@@ -1,0 +1,189 @@
+Thank you.
+Good morning, everyone, and welcome to today's call.
+Joining me today from Seagate's executive team are Dave <UNK>, Chief Executive Officer; and Dave <UNK>, Executive Vice President and Chief Financial Officer.
+We've posted our earnings press release and detailed supplemental information for our December 2017 quarter on our Investor Relations section of our site at seagate.com.
+During today's call, we will review the highlights for the December quarter, provide the company's outlook for the March quarter and then open the call for questions.
+We're planning for the call today to go approximately 0.5 hour, and we will do our best to accommodate your questions following our prepared remarks as time permits.
+We received a lot of interest in our next strategic update, and we will be finalizing a date shortly, most likely in the early fall time frame.
+In addition, we would like to note that our March quarter quiet period will begin on March 26.
+On our call today, we will refer to GAAP and non-GAAP measures.
+Non-GAAP figures are reconciled to GAAP figures on our supplemental information available on the Investors section of our website.
+We have not reconciled our non-GAAP financial measures guidance to the most directly comparable GAAP measures because material items that impact these measures are out of our control and/or cannot be reasonably predicted.
+Accordingly, a reconciliation of the non-GAAP financial measures guidance to the corresponding GAAP measures is not available without unreasonable effort.
+As a reminder, this conference call contains forward-looking statements about the company's anticipated future operating and financial performance; customer market demand; industry trends; technology and product development advancements; demand for our products; continuity of access to long-term NAND supply; consummation of the Bain Capital Private Equity transaction; our perspective of the cryptocurrency market, blockchain technology and assessment of our equity investment in Ripple; our ability to execute our road map and address supply constraints to generate shareholder value; the impact of the Tax Cuts and Jobs Act; and general market conditions.
+These forward-looking statements are based on management's current views and assumptions and should not be relied upon as of any subsequent date.
+Actual results may vary materially from today's statements.
+Information concerning our risks, uncertainties and other factors that could cause results to differ from these forward-looking statements are contained in the company's SEC filings and supplemental information posted on the Investors section of the company's website.
+I would now like to turn the call over to Dave <UNK>.
+Please go ahead, Dave.
+Thanks, <UNK>.
+Good morning, everyone, and thanks for joining us today.
+For today's earnings call, I will cover the high-level trends we're seeing in the business.
+Our CFO, Dave <UNK>, will then discuss certain financial highlights, and I will close the call with our outlook for the March quarter.
+Beginning with our operational results for the December quarter, Seagate achieved revenues of $2.9 billion, up 11% sequentially and up 1% year-over-year; GAAP gross margins of 30.1%; and a net income of $159 million.
+GAAP diluted earnings per share were $0.55, including a onetime provision for income taxes of $208 million related to tax reform.
+On a non-GAAP basis, Seagate achieved gross margins of 30.4%; net income of $431 million, up 5% year-over-year; and diluted earnings per share of $1.48, up 7% year-over-year.
+HDD exabyte shipments for the December quarter were a record 87.5 exabytes, up 28% year-over-year.
+The average capacity per drive across the HDD portfolio was also a record 2.2 terabytes per drive, up 29% year-over-year.
+And the average selling price per unit was $68, up 3% year-over-year.
+GAAP operating expenses were $444 million, down 15% year-over-year, and non-GAAP operating expenses were $390 million, also down 15% year-over-year.
+Cash flow from operations for the quarter was $850 million, up 30% year-over-year, and free cash flow was $773 million, up 38% year-over-year.
+Achieving revenue and profitability growth and significant cash flow generation in the December quarter reflects Seagate's strong execution and the competitiveness of our storage portfolio, particularly in cloud-based environments as average capacity per drive continues to grow rapidly.
+I'm very pleased at the traction we have gained with our mass storage solutions across the enterprise, edge and consumer markets.
+In addition to the solid December quarter results, in January, we announced that Seagate has entered into a long-term NAND supply agreement with Toshiba Memory.
+This agreement will provide continuity of NAND supply for our expanding product portfolio.
+We have matured our entire technology portfolio over the last several years and today, we have a broad offering of flash-based products that are ready to scale and grow across multiple markets.
+Diversifying and expanding our competitive HDD mass storage portfolio with SSD and enterprise storage solutions will enable meaningful future revenue growth and profits over the next several years while providing significant value for our storage customers.
+We look forward to updating you on our progress in the future.
+I'll now turn the call over to Dave <UNK> to go into more depth on our operational activities.
+Thanks, Dave.
+For the December quarter, we achieved year-over-year revenue and profitability growth, with record exabyte shipments of 87.5 exabytes and record average capacity per drive of 2.2 terabytes.
+For the enterprise HDD market, we shipped a record 37.4 exabytes, with a record average capacity of 4.3 terabytes per drive.
+In the nearline market, we shipped 35.1 exabytes, and our average capacity per drive reached 5.9 terabytes per drive, up 31% over last year's strong demand and up 75% from the December quarter 2 years ago.
+Overall, HDD revenue was up 2% year-over-year in the December quarter.
+The growth in hyperscale and cloud storage deployments continues to represent an important opportunity for Seagate, and we are confident in our nearline HDD portfolio designed to serve these environments.
+Our 10 TB nearline product was the leading enterprise revenue SKU in the December quarter.
+In addition, we achieved sequential volume and revenue growth in our 12 TB nearline product as we continue to ramp for material revenue contribution in the March quarter.
+As nearline capacity demand continues to grow, we expect continued opportunity for our mass storage portfolio that delivers multiple capacity points for different application workloads.
+Use cases will cause capacity points to span from 2 to 4 terabytes for certain applications and up to 16 terabytes for other customer needs.
+At Seagate, we believe we're well poised to help our cloud customers with their stringent and diverse requirements.
+Looking ahead, cloud-based enterprise market demand continues to be strong, and supply remains bit constrained.
+In the enterprise market, the long-term trajectory of growth and infrastructure spending in the large cloud service providers and hyperscale companies continues to have significant velocity.
+Critical to supporting the massive growth in data is our ability to continue to provide mass storage solutions that optimize areal density and have the greatest reliability, quality and total cost of ownership benefits.
+Seagate has demonstrated technology leadership with generations of storage technologies and products.
+Over the last 5 years, we've been the leader in areal density with our SMR and TDMR areal density solutions.
+And we continue to make progress towards the introduction of our heat-assisted magnetic recording or HAMR technology, which will open up a rich space for high capacity and great value.
+We anticipate launching our HAMR portfolio in 2019, and the future investment costs are already contemplated in our existing operating expense and capital expenditures long-term model.
+In the edge and consumer verticals, we had a strong year-over-year exabyte growth in almost all end markets, including PC compute, consumer, surveillance, gaming and NAS markets.
+Our 1 terabyte per platter, 2.5-inch platform, continues to perform well.
+Using our areal density advantage, our 2 terabyte per platter, 3.5-inch platform continues to ramp for desktop markets, providing a great value for customers needing a 2-, 4- and 8-terabyte capacity points.
+In addition to positioning ourselves for growth in the silicon business, we continue to minimize our alignment with the 500 GB client consumer and mission-critical 15K hard drive markets as we believe these workloads will, over time, move to mobile silicon cloud storage.
+In the December quarter, these products represented less than 8% of our total consolidated revenue.
+December quarter non-HDD revenue, primarily from the Cloud Systems and Silicon Group, was $213 million, down 12% year-over-year, mostly due to the divesting of our high-performance computing assets and OEM legacy system demand.
+Looking ahead, we continue to be bullish about our opportunities to leverage our long-term NAND supply agreement with Toshiba Memory Corporation for significant revenue growth and expanding margin contributions of our silicon product portfolio in the SaaS, SSD and the PCIe, NVMe and consumer and gaming markets.
+This value creation is above and beyond the base economics previously disclosed with our equity commitment letter for Seagate to invest up to $1.25 billion with the Bain-led consortium acquisition of the Toshiba Memory Corporation.
+We believe that our strategic approach to the participation in the silicon market allows us to address customers' storage portfolio needs and provide for revenue growth opportunities in our business model without overhang from additional capital requirements and cyclical market exposure.
+Operating expenses for the December quarter were $444 million on a GAAP basis and $390 million on a non-GAAP basis, down 15% year-over-year.
+We remain on track to exit the fiscal year with non-GAAP operating expenses of approximately $375 million per quarter.
+Capital expenditures were $77 million for the December quarter, for supporting the continued ramp of our new highest-capacity HDD products and maintenance capital.
+For the March quarter, we expect capital expenditures to be approximately $120 million, primarily for maintenance capital and some incremental capital to address the strong cloud market demand.
+We anticipate capital expenditures to remain less than 5% of our total consolidated revenue for FY '18.
+Cash flow from operations in the December quarter was $850 million, and free cash flow was $773 million.
+These results include approximately $34 million in cash payments related to previously announced restructuring charges.
+For the first half of the fiscal year, we have generated nearly $1.1 billion in cash flow from operations, including $80 million in cash payments against restructuring charges and nearly $900 million in free cash flow.
+Our balance sheet remains healthy, and we ended the December quarter with $2.6 billion in cash and cash equivalents and 285 million ordinary shares outstanding.
+Our board has approved our quarterly dividend payment of $0.63 for the December quarter, which will be payable on April 4, 2018.
+Interest expense for the December quarter was $61 million.
+Our debt structure and levels of interest expense continues to be well within our financial capabilities, given our staggered maturities and low interest rates.
+In the December quarter, we deployed $130 million towards redeeming our November 2018 senior notes.
+Our net debt-to-EBITDA ratio continues to trend down and is 1.1x as of the December quarter.
+As Dave <UNK> mentioned, in the December quarter, we made a onetime provision for income tax adjustment of $208 million related to the Tax Cuts and Jobs Act.
+Specifically, the company recorded a onetime reduction of $208 million to earnings due to the remeasurement of our U.S. deferred tax assets at the lower enacted 21% corporate tax rate, which has no cash impact.
+The deemed repatriation of accumulated foreign earnings and profits to be taxed at 15.5% for liquid assets and 8% for nonliquid assets is not impactful for Seagate because our U.S. corporation has no unrepatriated earnings.
+The interest expense disallowance impact will be minor since Seagate does not have significant long-term debt held in the U.S. We believe that the impact that the international provisions, including the global intangible low-taxed income provision and the foreign-derived intangible income and the base erosion anti-avoidance tax, will be minimal to Seagate.
+In summary, Seagate has evaluated the impact of the most significant provisions of the Tax Cuts and Jobs Act.
+We do not expect the tax act to materially impact Seagate's effective tax rate going forward.
+As we consider future use cases for storage growth, we invest in companies that align to our long-term thesis of exponential data growth in new verticals, some of which are outlined in the Data Age 2025 report with IDC.
+A few years ago, we made an investment in Ripple, a company driving technology innovation for distributed ledger and blockchain use cases.
+We believe the proliferation of these companies will create tremendous amounts of data, require high levels of data integrity and will alleviate friction in global financial operations and other important use cases that require the transfer of value with improved agility and transparency.
+While recent attention is on the valuation of the XRP crypto assets, we believe Ripple has a real and robust blockchain technology platform, a defined and validated use case for XRP and a leading management team.
+Overall, our operational and financial performance in the December quarter reflects execution of our business model and profitability improvement objectives.
+Looking ahead, we will continue to optimize our business and focus on aligning our go-to-market and product portfolio advancements towards the future growth opportunity markets.
+I would now like to turn the call back to Dave <UNK>.
+Thanks, Dave.
+The Seagate team is focused for the past 2 years on reducing our operational footprint and reshaping our cost structure to address the current demand environment.
+Our supply chain, from suppliers to factories to sales and fulfillment, are now entirely focused on agility and flexibility for our customers.
+I'm proud of the team for completing our significant restructuring plans.
+And while we will always have cost reduction efforts, we are well positioned to shift our focus as a company to capturing new market opportunities and achieving sustainable revenue growth and profitability.
+Turning to our market outlook.
+We remain conservatively optimistic about the current macroeconomic environment as well as spending trends for cloud-based environments.
+On the heels of the various IT component supply constraints we witnessed over the last year or so, we're continuing to monitor outgoing inventory closely.
+From Seagate's vantage point, our channel inventory positions and inventory for our customers that are visible to us are, in general, lower than last year.
+For the March quarter, we anticipate year-over-year exabyte growth with continued strong demand in cloud storage as supply remains tight in our highest-capacity solutions.
+For the other markets we serve, we anticipate normal sequential seasonal demand declines.
+As a result of the strong cloud demand and seasonality in our other markets, we expect total revenues to be down 5% to 7% sequentially from the December quarter.
+This represents lower sequential revenue declines than the last few years and year-over-year revenue growth for Seagate.
+We expect gross margins to be sequentially in line with the December quarter's gross margins and continue to be within our 29% to 33% long-term range.
+Non-GAAP operating expenses will be down sequentially 2% to 3%, with further cost containment measures as we continue to manage our operating expenses tightly, targeting approximately $375 million per quarter by the end of fiscal '18.
+In summary, I'd like to thank our customers, employees, suppliers and business partners for their contributions to our quarter's results.
+Thank you for joining us on the call today, and we'll now open up the call for questions and answers.
+I think we are -- I'd characterize us more as flat year-over-year.
+But to your point, are there opportunities to move higher.
+Yes, there are if the demand picture continues to improve like we saw it do so in last quarter.
+It's -- I would say that there are some markets -- and in particular, we called out the enterprise solutions, some of the non-HDD assets that we're still continuing to pare, so that's work that we have to do that may have been a slight drag, and I think we can fix that over time.
+But I think there are opportunities if we see the demand picture continue.
+I'll let Dave answer that.
+Yes.
+Yes, we've been confident on some of our previous comments that we thought cash flow from operations would be $2 billion to $2.5 billion, so I still think we're well within that scope.
+Clearly, when you see strong linearity and strong velocity on the results, you'll see that end up in our working capital.
+So I think there's a lot of confidence going into the back half of the year.
+I think the quick answer is no, I won't go into any of those details.
+What I will tell you is we have a fairly broad portfolio with which to play the hand.
+So we have all the way from enterprise even into consumer devices that we can use.
+We're developing those right now, and we're trying to intercept not only the Toshiba NAND but all the NAND supply that we get.
+And we believe that this is a good chance for us to grow.
+But we haven't really quantified it yet, and we won't for a while until the deal's finally done.
+Let's see.
+I like our portfolio.
+There's a lot of times where people tend to fixate on one product versus another.
+We have a fairly strong product offering across many.
+And so therefore, when we can satisfy customers who are fairly diverse in their requirements, we will do well.
+I think as we've talked about before, we've been moving a ways from some of the lower capacity points over the past year, and that has served us well as well.
+And from a competitiveness standpoint, all I would say is that we're -- from our portfolios perspective, we're leading in areal density, so we have a lot of flexibility into how to play those components into the various markets.
+Yes, as are we.
+We're -- I would say when you compare it to last year, cloud growth was almost nonexistent last year.
+Exabyte growth was almost nonexistent in some of the quarters last year.
+I think we ran 3 quarters in a row with a fairly flat demand profile.
+If you go back historically, over the last 5 years, it's been 35%.
+So to your point, to go from 0% over 3 quarters, there's going to be some backlash, higher than 35% for a while.
+And we are seeing that demand in calendar '18.
+When it ends, don't know at this point.
+But right now, to the point, we're a bit constrained, as we've said, for the last few weeks, and we'll continue to chase it.
+Let's see, logical is an interesting question.
+What I would say is when -- a year ago, when we were being asked the question in a different way, we remained committed to it.
+So we remain committed to returning value to shareholders via these mechanisms right now.
+I really don't want to get into the forward-looking pieces of this because as we've seen, the market can be fairly volatile.
+I think we're happy with where we are right now.
+There are product launches -- there are products in qualification right now across NVMe, multiple flavors of NVMe; SaaS, a refresh to the SaaS portfolio; and also SATA products; even consumer products.
+So specifically which product, what capacity points, it's a fairly diverse offering.
+And I think this is reflecting the same thing that's going on in those markets.
+So we're fairly happy with it competitively, and I think that's why we think that, both on brand strength and customer service, we'll be able to get some revenue growth when the bits all come online, when we get -- when we intercept all the -- that flash supply and get the technology integrated.
+Yes.
+I look at it a little bit differently.
+We've taken factory footprints down, and as we did that, we had to actually move and build some buildings and things like that.
+So the -- even the capital that we talked about, 4% to 6% of the range, we'll start applying some of that capital to bit growth, if you want to look at it that way.
+We're really pleased with the way that average capacity per drive is moving north, and we're going to have the capital there to achieve that kind of growth.
+Yields are something that we continue to work.
+We've had a lot of focus obviously in the factories on moving things in the last 2 years as we did this restructuring.
+But now we can just focus wholeheartedly on improving our yields and getting after better equipment utilization and things like that now that we have the footprint.
+All right.
+That's interesting.
+I think there have been what we call digestion cycles in the past where large cloud service providers would buy in big tranches and then they would digest for a while, which means they'd buy less relatively.
+I think we're starting to see more diversification especially in this last cycle.
+And it may have been magnified by the -- some of the component supply, other components, not hard drives, component supply issues that happened last year.
+But right now, we see a very, very healthy diverse market geographically, by capacity points, by application space, which -- the cloud isn't all about one application space, as people know.
+There are many different types.
+So to your point, helping with that -- addressing all those different customers with all their diverse needs is going to help us get better visibility, I think.
+Let's see.
+On the first point, gosh, if we start by looking at all the different customers we serve, there are some markets where we were competing with people who didn't necessarily control the core componentry like we do, but they build really cheap.
+And there's a lot of disruption going on in the market.
+I don't need to tell you guys that.
+There's a lot of complexity in the market as well, so people can move from solution to solution very quickly.
+I don't think that's going to be in our bailiwick.
+I do think that longer term, it's important that Seagate is able to add value above and beyond the drive at the system level, if you will.
+And part of the reason for that is we have to do it anyway when we integrate into customers' chassis and so on.
+I think as you see less -- or as you see some of those markets stabilize a little bit, less complexity, there'll be -- it'll be more obvious as to what we should do and which customers ultimately we're building for.
+And so we've -- it's been a churn for us.
+I think it's going on in other places in the industry as well.
+Relative to how far are we through that, I can't really tell.
+But I do think it started 5 or more years ago, and it's not over yet.
+So we're going to do the smart thing.
+We believe that long term, it's important that Seagate maintains this kind of ability to understand and add value above the drive.
+On the second part, I think your question was tightness in the market for enterprise drives.
+And it's really back to the question I think Rob asked, which was long-term visibility, does that give you better visibility.
+I think it does.
+Most of the scale players, as they sense these kind of problems, are actually talking to us quite a bit about longer-term visibility and making sure that our supply chain is properly architected to address their needs.
+So hopefully, that helps the demand picture as I answered Rob, too.
+With that, thanks, everyone.
+I'd really like to thank our customers, employees and suppliers and business partners for their help this last quarter.
+And we'll talk to you next quarter.

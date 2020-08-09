@@ -1,0 +1,233 @@
+Thank you, Shiri.
+And thank you all, for joining us for the Universal Electronics First Quarter 2017 Financial Results Conference Call.
+By now, you should have received a copy of the press release.
+If you have not, please contact LHA at (415) 433-3777.
+This call is being broadcast live over the Internet.
+A webcast replay will be available for 1 year, at www.uei.com.
+In addition, any additional updated material nonpublic information that might be discussed during this call will be provided on the company's website, where it will be retained for at least 1 year.
+You may also access that information by listening to the webcast replay.
+After reading a short safe harbor statement, I'll turn the call over to management.
+During the course of this conference call, management may make projections or other forward-looking statements regarding future events and the future financial performance of the company including the company's ability to build and maintain, and build its relationships with its customers, including Comcast, and its syndication partners, such as Cox & Shaw, DIRECTV, EchoStar, DISH Network, Charter, Sony, Samsung, Panasonic, Sky, Liberty Global, Vodafone, Microsoft and SK Broadband.
+The company's ability to anticipate the needs and wants of the customers and timely develop and deliver products and technologies that will meet those needs and wants, including the company's advanced AV control software and hardware solutions and technologies, which include the click set and voice control, home security, temperature controllers and automation and other technologies identified in this call.
+The ability of the company to achieve its sales growth as anticipated by management.
+The significant percentage of the company's revenues attributable to a limited number of customers and particularly, the sales growth and benefits of the company's relationship with Comcast.
+The timing of new product rollout orders from the company's customers as anticipated by management.
+The continued trend of the industry in providing consumers with more advanced technologies.
+The continued success and growth of Ecolink as anticipated by management.
+The successful integration of the recently announced RCS acquisition.
+Management's ability to manage its business to achieve its revenue, margin and earnings as guided.
+The continued ability to identify and execute on opportunities that maximize stockholder value.
+Management's ability to successfully and profitably transition the company's manufacturing operations.
+And other factors described in the company's filings with the U.S. Securities and Exchange Commission.
+The actual results the company achieves may differ materially from any forward-looking statements due to such risks and uncertainties.
+Management wishes to caution you that these statements are just projections and actual results or events may differ materially from those projections.
+The company undertakes no obligation to revise or update these statements to reflect events or circumstances that may arise after today's date.
+For further detail on risks, management refers you to the press release mentioned at the onset of this call and the documents the company files from time to time with the SEC, including the annual report on Form 10-K for the year ended December 31, 2016.
+These documents, along with the risks identified earlier on this call, contain and identify various factors that could cause actual results to differ materially from those contained in management's projections or forward-looking statements.
+In management's financial remarks, adjusted non-GAAP metrics will be referenced.
+Management provides adjusted non-GAAP metrics because it uses them in making financial, operating and planning decisions and in evaluating the company's performance.
+The company believes these measures will assist investors in assessing the company's performance for the period being reported.
+A full description and reconciliation of these adjusted non-GAAP measures, versus GAAP is included in the company's press release issued today.
+On the call today are Chairman and Chief Executive Officer, <UNK> <UNK>, who will deliver an overview; and Chief Financial Officer, <UNK> <UNK>, who will summarize the financials.
+<UNK> will then return to provide closing remarks.
+And it's now my pleasure to introduce <UNK> <UNK>, please go ahead.
+Thank you, Becky, and thank you all for joining us today.
+For the first quarter of 2017, we delivered 7% growth in net sales and 30% growth in EPS over the same period last year.
+The business as a whole performed well, with the role out of advanced remote control technologies and the proliferation of connected devices supporting continued strength in our subscription broadcasting, consumer electronics OEM, and wireless home security businesses.
+Within subscription broadcasting, as the industry transitions to more advanced technologies and connectivity protocols, our customers around the world are introducing new products featuring UEI's advanced AV control software and hardware solutions.
+We continue to gain momentum in supplying our technology and I'm pleased with our progress thus far.
+Comcast rollout of its X1 entertainment operating system, and XR11 voice remote, to its subscriber base continues to grow and other syndication partners, such as Cox and Shaw have begun their product rollouts.
+As we have discussed before, the industry is moving towards new IP connected 2 way platforms that will allow a dramatic improvement in home entertainment, as well as an expansion into other smart home services.
+We are beginning to work with some of their earliest implementers on their second and third generation products for their new platforms.
+Which enables us to further increase share with our customers into the months and years ahead.
+The long-term opportunity this trend represents is tremendous.
+As we are the de facto provider of next-generation control solutions to industry leaders around the world.
+In the short term, we anticipate seeing order volumes that are below average from some of our customers, as they deplete existing inventories in advance of their new product rollouts.
+It is common in most industries and ours is no different, for customers to burn through inventory prior to introducing new products.
+With that said, as this year progresses, we expect volumes from these customers to ramp and contribute to a strong second-half performance.
+The benefits of these next-generation platforms to those who have implemented them, has been substantial.
+Higher customer engagement, higher ARPU, lower churn and growth in their subscriber base.
+Based on the number of these projects, we are working on, we believe that the industry is going through a change for the better.
+Better entertainment options that are significantly easier to access than ever before.
+And a growing list of services that can make life easier for the consumer and more successful for our customer.
+Companies who have not made this transition are keenly aware of the benefits that an enhanced user experience can bring.
+Including better content navigation and search, direct access to popular over-the-top service, and an advanced interactive remote control solution.
+Most of the major players in home entertainment across the world, are already well into development of these next-generation platforms, and will soon introduce them.
+Some in the coming months, and some into next year.
+Overall, we will be supplying next-generation control solutions to customers representing nearly $140 million subscribers, or nearly 1 quarter of the entire world's subscriber base.
+Our QuickSet product family continues to expand its worldwide customer base with hundreds of millions of devices now integrating the solution.
+QuickSet enables the effortless setup and control of devices within an ever-growing home entertainment landscape, including traditional, audio/video devices, but also are growing library of home automation, Aircon and IOT devices as well.
+Over the past few quarters, QuickSet has been integrated into 6 major European operator platforms, including liberty global, Sky and Vodafone.
+Our technology integration is complete, and we expect these advanced product features to be rolled out over the coming year.
+Similarly, we continue to see strong customer demand for QuickSet in Asia.
+As we added SK broadband and others to our advanced control platform solution.
+We are actively in discussion with many other operators around the world, who see the benefits that QuickSet can bring to their end-user experience.
+Our QuickSet Cloud solution, which we introduced in late 2016, represents the world's most comprehensive device discovery and controlled code database.
+It ensures the automatic recognition, and control of virtually any consumer electronics device in the home.
+As we have previously announced both Comcast and dishes AirTV platform are deploying this industry leading technology.
+Over the past 30 years, UEI has established a strong history of performance within the home controlled environment.
+With each advancement in technology, consumer demand shifts, to requiring more sophisticated solutions.
+In each instance, UEI has anticipated the changing trends in the market and developed innovative products, technologies and solutions that meet our customers' needs.
+Beyond that, today's smart home includes a host of new platforms and services that integrate an increasingly diverse array of devices and application.
+Our acquisition of Ecolink in 2015 put us at the forefront of this evolution, enabling us to offer our subscription broadcasting customers, intelligent home sensing technologies that provide consumers with a complete smartphone solution, integrating home entertainment with home security and safety.
+We achieved strong early momentum with the rollout of our new home security and safety products in the first quarter, and we expect volumes to continue to ramp throughout 2017.
+Overall, we are seeing significant value in this part of our business.
+In fact, by the end of this year, we expect total sales from Ecolink to have grown approximately 5x from what they were at the time of the acquisition.
+In addition to our presence in the home entertainment control channel, we have an established and growing customer base in residential temperature and home automation control, where we currently supply handheld and wall-mount control products to some of the world's leading brands in the HVAC market, including Daikon, Panasonic, Fujitsu General, Mitsubishi, and Toshiba Carrier.
+Complementing our success with Ecolink, we have recently taken action to further expand our suite of sensing, control and monitoring products for the home.
+This morning, we announced our acquisition of RCS technology, a leading designer and manufacturer of energy management and control products for the residential, commercial and hospitality markets.
+The RCS assets build on our existing business and residential temperature and home automation control.
+Giving us an expanded capability in delivering smart and communicating thermostats.
+To our existing customers, such as ADT, as well as new customers, such as Trane and Nexia Home Automation Systems who are part of the Ingersoll Rand group of companies.
+This acquisition positions us to broaden our opportunity in this new market.
+In fact, according to navigate research, the global market for smart and communicating thermostats is expected to double in size from $1.1 billion in 2016 to $2.2 billion in 2020, with the largest growth forecast in North America.
+While we see significant opportunities to expand our product offerings in addressable markets.
+Over the longer term, this acquisition better positions us to provide our existing base of subscription broadcasting and consumer electronic OEM customers with additional smart home capabilities.
+With that, I'd now like to have <UNK> <UNK>, our CFO, take you through the financial results.
+Thank you, <UNK>.
+As a reminder, our results for the first quarter 2017, as well as the same period in 2016 will reference adjusted non-GAAP metrics.
+First quarter net sales were $162.3 million, compared to $151.5 million for the first quarter of 2016.
+Business Category net sales were $151.3 million, an increase of approximately 7%, compared to $141.5 million in the first quarter of 2016.
+This growth comes from the continued role out of higher-end platforms in North America and Europe, as well as increased market share in Latin America.
+In addition, sales of our home security products were nearly 5x that of Q1 2016.
+Consumer Category revenue was $11 million, compared to $10 million in the prior year quarter.
+Gross profit was $43.4 million, or 26.7%, compared to 25.6%.
+Operating expenses were $31.7 million, compared to $29.5 million in the first quarter of 2016.
+R&D expenses $5.4 million, compared to $5.1 million in the first quarter of 2016.
+We continue to invest in technologies and enhance the user experience in the home entertainment, home security and with the recent acquisition of RCS, the HVAC control channels.
+SG&A expense was $26.3 million, compared to $24.4 million.
+Operating income was $11.8 million, compared to $9.4 million.
+The effective tax rate was 20.2%, compared to 25.7%.
+Net income was $9.5 million, or $0.65 per diluted share, an increase of 30%, compared to $7.3 million or $0.50 per diluted share in the prior-year period.
+Next I'll review our cash flow and balance sheet at March 31, 2017.
+We end the quarter with cash and cash equivalents of $62.7 million, compared to $50.6 million at December 31, 2016.
+We have approximately 200,000 shares remaining on our share buyback program.
+Depending on -- upon market conditions, we may buyback our shares over the next few months.
+DSOs were approximately 72 days at March 31, 2017, compared to 66 days the year prior.
+Net inventory churns were approximately 3.7 churns at March 31, 2017, compared to 3.8 churns the year prior.
+Now turning to our guidance.
+As <UNK> mentioned, we are currently working with a significant number of customers who are at a various stages of the transition to higher end platforms.
+We expect these rollouts to occur over the next several quarters.
+And as a result, we may, on occasion, experience greater variability in our quarterly sales growth rates, as certain customers deplete their inventory stock, prior to their respective product launches.
+These product launches will have a yield higher SP's and will continue to fuel our growth.
+The second quarter of 2017, we expect net sales to range between $172 million and $180 million, compared to $172.2 million in the second quarter of 2016.
+EPS for the second quarter is expected to range from $0.72 to $0.82, compared to $0.77 in the second quarter of 2016.
+Based on the continuing strong demand for our products and services, in the forecasted growth in the industries we serve, we are reaffirming our long-term financial outlook.
+We expect to average annual sales growth of 5% to 10% and average earnings per share growth of 10% to 20%.
+I would now like to turn the call back to <UNK>.
+Thanks, <UNK>.
+We are encouraged by our strong start to 2017, and the outlook for UEI has never looked brighter.
+As advanced technology and connectivity quickly become the de facto standard in today's home entertainment environment.
+And more and more devices become integrated into the home control landscape.
+Consumers require increasingly sophisticated solutions that can keep their experiences positive and their entertainment enjoyable and simple.
+This is where UEI excels.
+We have been and will continue to be, at the forefront of emerging trends in our industry to ensure we meet our customers and consumers evolving needs.
+Stay tuned.
+I'd like to now open up the call for questions.
+Operator.
+Okay.
+I'll try to address each of those pieces of the questions.
+The -- in terms of the rollouts, some customers, not all, when they rollout will discover that they may have held, I guess, what I would call a little bit more safety stock or inventory that is in place to handle any of their forecasting variances.
+That they hold on the old platform.
+And that's fine while the platform is going strong, because they have it there to fill in if they should get 50,000 or 100,000 or 200,000 more installs than they had expected.
+Because products, unless it's air shipped can take weeks to get to the U.S. and of course, we forward plan with them and they have to often pay to speedily ship, so instead, there is stock that's held in the field.
+What happens at the end of a platform is some of our customers plan very well, and they plan for the dissolution or the sell down of that inventory and their order patterns don't change very much at all.
+We do have some customers, however, who may not plan this as well as one might like, if they were to look at this from a total logistics stream perspective.
+And thus their orders during a quarter or the time period prior to installation will truncate somewhat, because they don't want to buy the normal deployment amounts for that period.
+Because they want to run their inventory on the older product down to 0.
+Now the good news is, the reason they don't want to keep very much of their inventories, is because they are going to go more aggressively into the new platform.
+We've seen that with some of the customers that have already made the transition and move aggressively to the new platform, which makes the inventory from the last platform more -- less deployable, let's say.
+So, you do go through this, I think it's not unique to our industry, I think a lot of industries go through this.
+We can see a truncation of orders.
+But as <UNK> and I both said, what happens in the next stage, and I think it was another part of your question, you'll then see them get back to normal ordering patterns, and sometimes even higher ordering patterns, particularly if they've moved the share more towards us.
+On top of that, the ASPs of these next-generation products are usually higher than the prior generation for all the technical reasons that I mentioned earlier.
+Voice-enabled, 2 way, IP connected, different finishes, different backlighting, the products are far advanced from, that which came before them.
+So typically the ASP's carrier, they're higher than in the prior generation.
+So there's a lot of good news embedded in there.
+But over the short-term, we do have a couple of customers that have logistic challenges and want to work through some inventory.
+So that's the story on that.
+Did I answer your entire question, Greg.
+Sure.
+Yes, well as far as, those customers are concerned.
+I can't give you a lot of details about their deployment.
+Just naming them can be a challenge sometimes.
+So just wanted to give a flavor for some of the names, add some additional names that were prior to this we hadn't been able to talk about.
+As far as the number, it has changed.
+Last year, we did disclose that we were at just over 110 million, I think we were at 112 million, are just under 20%, we've now moved that up to nearly 140 million.
+Remember that the entire world market for subscription broadcasting is about 600 million subscribers.
+So at nearly 140 million, you are approaching nearly 1/4 -- companies representing nearly 1/4 of the entire worlds subscription base.
+So anyone who were out there that was to think that only some of the operators are doing this as an experiment.
+I guess, I'm here to tell you that the number we gave before was high, the number we just gave today is even higher, which means our sales team has gone out and closed even more converse to these advanced products powered by QuickSet.
+And the home entertainment world is changing.
+They are putting out these advanced platforms with making entertainment easier to access than ever before.
+This is officially a trend towards that happening in the coming months and in the coming years.
+Yes.
+Well I guess I'll say this, I can't give specific customer details, but I will say this.
+That in more cases than not, on advanced remotes, the operators typically are working with us and they do it with 1 vendor.
+The reasons for that are multiple, not the least of which is -- some of the technologies we employ are unique to us.
+And also, it's quite a bit of work on an advanced product to bring along more than 1 vendor, not just for that vendor but for the company itself.
+So for our customer it's difficult to bring along 16 vendors or even 2, because it's twice as much work.
+So -- and because of the unique offerings that we have, I would say, more often than not, the customers that are moving to the next-generation products have typically chosen 1.
+In cases where they don't, however, there are possibilities to do licenses or chips or other methods of incorporating the technology.
+So I can't tell you that every project in the future must incorporate UEI technology, but if they wish to have our differentiating factors, we usually work out a way by, which they can buy hardware from us and then on other units license the technologies and our software to enable our unique features.
+Yes, Comcast was 26.2% of sales.
+And DIRECTV was 10.3%.
+Yes.
+In terms of the customer concentration, Comcast sales grew both remote control sales, as well as home security.
+So it's really those 2 items that drove it.
+So again, it's both remote controls and home security channel.
+DIRECTV, sometimes customers having a flow, their buying patterns, they don't buy the same amount every quarter.
+So, sometimes when you're in the 10% to 11% range, it doesn't take a lot to dip below the 10% threshold.
+So there's nothing really, I would say for DirectTV that's alarming.
+It's just -- last quarter I think some people were asking questions about why they dip and well, again, it doesn't take much to dip below 10%, when you hover just above it.
+In terms of your other question, it can -- the sales growth that we expect to happen to occur from all the products that <UNK> has mentioned, will -- should decrease, the concentration risk because as the other customers grow at a quicker rate.
+You know obviously, mathematically, you'll end up having a lower percentage of the customers we just named for sales.
+Well, the majority I think all but 1 actually, I think we said 12 was in Q3 that had been delayed.
+All but 1 has begun shipping.
+So it's just 1 customer that did not ship of the 12.
+Yes, we have the capacity.
+The challenges, was when we moved from our southern factory to our northern factory, it's a big task.
+You are moving, what probably, 1500 miles away and you're starting up a whole -- we added to an existing factory, but we added a significant amount of volume into that factory, so you have to train people, etc.
+So, it was a big challenge, it's still a challenge, I think we're making improvements each and every day, but as far as the capacity to be being able to handle the demand, absolutely, it's why be increased the head count.
+We increased machinery equipment.
+We actually expanded the factory to accommodate this growth.
+So, being able to handle the demand isn't the issue, I think we just -- I think we made progress in terms of efficiency standpoint, but we still have a little ways to go with that.
+But again, each -- we're learning each and every day and it's a continues improvement.
+I want to go into this guidance issue again.
+So you've got a couple of customers that are going through inventory transitions.
+And given the last comment by <UNK>, that the dozen or so that you had delayed.
+Most of those are in the process of shipping.
+So were these kind of the next wave of customers.
+And after this transition, which will [collected] hits Q2, are there customers in the pipeline where this issue might recur again.
+Or are we getting to smaller customers where any kind of inventory reduction will be less of an issue.
+Yes.
+It's a good question, Steve.
+I think that -- obviously as you just pointed out, the larger the customer, the more risk there is on this.
+I will say that again, some of our larger customers actually have been very good at this, this transition.
+We have some in our list of top 10 that have moved to a next generation product, with little to no unit volume of droppage or slip, as they move to the next generation product.
+Precise inventory management, forward -- good forward planning, et cetera.
+So it is possible that it will happen with other customers.
+You're right to note that some of the customers we're talking about for this quarter were relatively large, which causes the problem.
+Even smaller customers could have such an issue, but the expectation would be that as you go forward, if you have a few small customers that go through this, but at the same time, you have the surge of orders from -- and the higher ASPs from other customers that go through it, it more than offsets it.
+And it becomes somewhat irrelevant to the overall number.
+It still happens, but it's somewhat overall to the number.
+I will say though that to be fair longer term, as I noted in my prepared comments, I think a lot of people think that these new platforms are one -- are sort of a one and done sort of thing, where they do it, and then they deploy and then you just track the deployment of that next one or that new platform and then that's the end of it.
+What we're seeing now is that we have customers that are working on second and in some cases third generation of accessory products around these platforms, because the platform -- the IP enabled platform with 2 way, low-cost, radio frequency protocol is capable of doing a lot more things than the first generation achieved and the customers are very aware of this, so they are working on those next-generation products.
+So just to follow-up on that, is there a pipeline of potential customers beyond Comcast and subscription broadcast that might be interested in Ecolink or RCS.
+And or other AV products that we could be adding to -- so the answer is yes, to those 2, but there may be other products that you'll begin to see from subscription broadcasters that would apply not just to one of them but potentially all of them.
+AV control products that we're working on and what I would call second or third generation products to the platform, that once the subscription broadcaster goes through the first iteration and perfects their AV, their initial AV implementation, there's a lot of other things that their engineering teams and we can work together to add to their system.
+And these will be proven because we've done them with the early adopters or the initial implementers.
+And we will see that coming -- and we'll see some of that in 2017, but we'll see it also in '18 and '19.
+And following up on the factory utilization question.
+Once we get through this inventory collection, are we -- are you positioned to start to get leverage in terms of growth and operating margins without forcing you to forecast.
+But just position wise, should you now start to see some benefits of the new more efficient factory.
+Yes.
+So the more units you put in the factory, the better you're going to absorb your overhead.
+So the answer is yes.
+Okay.
+Thank you, everybody for joining us today.
+And for your continued interest in our company.
+Just a couple of announcements, we will presenting at: The B Rally 2017 Institutional Investors Conference on May 25, in Los Angeles; and the Baird, Global Consumer Technology and Services Conference on June 7; and the Citi Small and Mid-Cap Conference on June 8.
+So 2 days in a row in New York, both of those conference.
+So we look forward to seeing you at one or more of these events.
+Thanks, for participating today and goodbye.

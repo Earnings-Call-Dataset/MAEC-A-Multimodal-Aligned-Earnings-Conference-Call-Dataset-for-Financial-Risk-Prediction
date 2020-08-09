@@ -1,0 +1,121 @@
+This is <UNK>.
+As you can see, our renewal yield was very strong.
+And even when you backed out the large system integrator you can see it was in the low 90s.
+We think being in the low 90s is pretty standard if you look back over the last few years.
+We'll have an occasional where we drop into the 80s and we usually talk to you guys about that.
+That tends to be more on the side of a company going through a merger or a divestiture than it is them abandoning our products, for the most part.
+I think when you look at it from the overall success of the business, the way we fragmented that, as <UNK> said in his prepared remarks, about platinum, named and growth accounts having sustained now two quarters in a row.
+Now, two quarters in a row aren't necessary that we've moved beyond but is really a very strong indication that that strategy is starting to take hold around the world.
+With respect to sustainability, we're seeing a lot more traction and predictability out of the sales force.
+I think our sales team has become much stronger.
+I'm much more happy with the sales leadership, I think, in both named and platinum.
+They consistently follow the techniques and processes you would expect from a modern software organization.
+We still have some work to do with our partner community.
+That's something we're really paying attention to.
+And we've got some great products that are really driving high growth.
+APIM, for example, is a best-in-class product.
+We had PPM which is another SaaS product, which grew 70% quarter over quarter, like we put in the press release.
+So, we have a lot of focus that we've put on products, and the sales force really understands how to articulate that value.
+So I'm feeling more optimistic that we are into an upward trajectory.
+Now, on the Mainframe side, as <UNK> talked about, we're going to see some lumpiness based on some of the renewals that we go through, which is just natural to our model.
+Correct.
+What I would say is, there's two things.
+Inside of that you have a little over 0.5 point of our services backlog, which is always going to be current.
+And as we've been saying, services over time will continue to go down, by design, as we build our products that need less and less services.
+So, that drags almost half of that current point down.
+And the second part is really just as you look at the timing of renewals.
+So, you look at the back half has more than the front, and then you start to reach into next year.
+That's just more timing as we see them come out.
+To your point, over time we believe, and if we continue to have sustained improvement, we will be able to offset both of those.
+So, as we close the gap from prior quarters, we have a few more quarters before that will turn positive.
+First of all, if you take a look over the last year, the majority of the large-scale public hacks has been the lack of identity management with respect to machines, where a user has either control of root and gets to other machines and imposes their user identity on those other machines, or even inadvertently opens up ports on a machine that allows hackers to get into it.
+This is a very important piece of technology.
+We have a very comprehensive PIM solution.
+Xceedium just adds to that PIM solution.
+So, this was additive to an already existing portfolio.
+And what we have, which I think is differentiating the market, is we have a much broader solution that covers more use cases with respect to privileged identity management.
+There are a number of different competitors in this space.
+I think it's a big market.
+I think there's room for multiple players to be successful.
+I think the differentiating factor for us is that we are not a small company.
+We have global breadth and depth.
+We are continuing to invest large sums of capital into this solution.
+And, secondly, we have adjacencies in and around the PIM solution so that when a customer comes to us we're taking a more holistic look at protecting their infrastructure.
+Sure.
+If you look at our portfolio, and I think you heard <UNK> talk about, we had UIM was up, APIM was up.
+We had a strong APM management, PPM, SaaS.
+And then you get into, of course, what we just purchased, so Xceedium and Rally.
+But the entire security portfolio did very well this quarter.
+Around the horn, we actually did pretty well, which is what <UNK> was trying to talk about earlier.
+This was more than just the system integrator having a strong influence on the quarter.
+We saw a large part of our portfolio perform well and it was fairly balanced.
+We had another strong quarter out of Europe and we had a strong quarter out of North America.
+We had a strong quarter out of Latin America despite Brazil, so it was the rest of Latin America.
+So, really the only geo that was a little soft was APJ.
+It was a very good ES quarter.
+And when you put on top of that the Mainframe, it was one of the best quarters we've seen in a while.
+Sure.
+This is <UNK> again.
+Remember, that's a ratable transaction and that will be spread over five years.
+So, as you see that go out over time, there will be some benefit in the out quarters, it's just muted because of that.
+When you look at the rest of the portfolio and how well we performed, what we were trying to say is what we saw in Q1 was a slight trend of about 1% of our ES business went ratable more than our historical.
+We saw that again in Q2.
+Not that two quarters make a consistent line for Q3 and Q4, but we were giving headlights that if that trend continues it will drive the revenue in near-term year to the lower end of our guidance.
+To the degree they flip back to their historical rate of attach versus not attach, you would be closer to the other end of guidance.
+All that revenue, though, we'll capture.
+Now we're just talking about the timing of when that revenue will actually be on the P&L.
+So, all in all, we've had a very strong first half.
+Now we're talking about when that revenue will show up on the P&L.
+What we're seeing is it's starting to move more towards the out years.
+We're excited by open source.
+We're a huge open source user and we view that as a catalyst for our business.
+At the end of the day, you have to remember the heritage of this company has always been in managing heterogeneous platforms.
+We're probably one of the largest manager of open-source heterogeneous platforms out there.
+If you just take a look at our APM solution, APM 10.1 was launched just last week, and what we added into that release would both support a Cloud Foundry and Docker, two very powerful open-source systems that are getting extraordinarily quick traction in the market.
+I know we've been managing multiple versions of Apache for years with our APM solution, which is all open source.
+When you take a look at the UIM product, the UIM product supports almost all the popular open-source Linux platforms including Red Hat, SUSE, CentOS and Open SUSE.
+And I think that as we see more innovation coming out of open source, folding that into our platform on both APM and UIM, I think that makes, once again, a differentiator.
+We're the only ones that have the wherewithal to invest in multiple platforms as they come out instead of waiting for them to be thrown into either legacy systems or for an open-source project to start to manage multiple heterogeneous systems.
+We just haven't seen a lot of traction in the open-source community to do that.
+I think that that's a unique place where we can fill a void.
+No, it's not a macro issue.
+What we've seen, we now have a very methodical approach to how we build pipeline and then move pipeline through the system.
+And our headlights into Q3 and Q4, especially on those single product type transactions where named and growth tends to be, we can see what our pipeline is for Q3 and what we believe would be the right yield from that, and we see it for Q4.
+So, it's nothing more than sharing with you guys headlights into what we see as our pipeline mix between Q3 and Q4.
+If you back out, we would be down to a little over 4.
+So, 4.1.
+It is up.
+Last year it was in the mid 3s.
+No.
+What you see is you had a lot of transactions in the quarter.
+As I said earlier, you had a very strong Mainframe quarter.
+Some of the Mainframe customers want to be locked in because they see the value of this platform so they want to get locked into a three-, four- or five-year transaction.
+So, they're buying a ahead capacity in anticipation of growing into that.
+It's actually a very healthy statement when you see that type of a mix with the Mainframe customer set.
+Sure.
+I'll hit the geographic.
+We had a very strong quarter in North America, as you would expect.
+It's the biggest market for us to sell in.
+And I was very happy with how the sales team progressed deals and were able to hold the line on pricing, as well as get strategic accounts to buy more software.
+I got to tell you, I've been very happy for the last several quarters with the EMEA team.
+They've been able to really drive the value proposition.
+They're getting into the right accounts, they're talking to the right people, and they've had strong, steady improvement across the board.
+We have had rough air in the last few quarters in Latin America.
+I was happy to see Latin America really push and do a nice job this quarter.
+But most impressive I was happy with the way that that management team attacked the market.
+Knowing that Brazil is a tough market, they repositioned some of their sales capacity outside of Brazil and did a nice job outside across LA.
+Japan is a market that we really count on to be able to drive growth.
+Their quarter was a little soft and the rest of APJ was pretty much in line with what we usually see.
+From the Mainframe side, as you had asked, we didn't see any particular price pressure, if you're asking from a dollar per MIPS standpoint.
+So, that was in line with what we had anticipated.
+We did see a nice take up, though, with the capacity people were looking for, which is always, as I said earlier, a positive sign.
+And we think we're still in line with our low single digit revenue over time, which is in line with the market.
+Thank you again for joining us this afternoon and for your continued interest in CA.
+I'd like to leave you with the following thoughts.
+First of all, we had a very strong quarter in terms of new sales.
+Secondly, our renewal yield was in the high 90s, the best we've seen in years.
+Excluding the large system integrator, the renewal was still in the low 90s.
+Third, following our strong second-quarter performance, we expect a softer third quarter.
+And then, lastly, our product and sales execution are beginning to show measurable improvement.
+We look forward to showing both of these drivers and the fruits of our work at CA World in the next month.
+Thank you very much and have a great night.

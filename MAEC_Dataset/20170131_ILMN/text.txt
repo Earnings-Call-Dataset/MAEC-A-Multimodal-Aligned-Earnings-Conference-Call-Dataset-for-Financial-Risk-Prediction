@@ -1,0 +1,65 @@
+Thank you, <UNK>
+As <UNK> mentioned, Q4 revenue grew 5% year-over-year to $619 million, consistent with our preliminary estimates on January 9. Fourth quarter consumable revenue represented 66% of total revenue or $407 million, an increase of 18% compared to the fourth quarter of 2015. Sequencing consumable revenue grew 20% year-over-year to $331 million
+As a result of growth in our installed base, increased HiSeq X utilization and gains in NextSeq pull-through, which again reached the top end of our $100,000 or $150,000 guidance range
+MiSeq pull-through was in our projected range of $40,000 to $45,000 and MiniSeq utilization equaled $24,000. We ended the year with 370 active MiniSeq instruments, which we now forecast will generate annual consumables of $20,000 to $25,000 per box
+HiSeq and HiSeq X utilization were within their respective guidance ranges of $300,000 to $350,000 and $625,000 to $725,000. Going forward, we plan to report a combined pull-through figure for this family of instruments, which is expected to decline as customers use fewer HiSeq consumables or fully decommissioned instruments
+Utilization on the HiSeq family of instruments will depend upon the rate of adoption of the new platform
+Services and other revenue equaled $94 million
+Strength in genotyping services and sequencing instrument maintenance contracts was offset by an expected decline in NIPT service revenue, as customers migrated to in-house testing
+Turning now to gross margin and operating expenses, I will highlight our adjusted non-GAAP results, which exclude non-cash stock compensation expense and other items
+I encourage you to review the GAAP reconciliation of non-GAAP measures, which can be found in today's earnings release and presentation
+Please note that all subsequent references to net income and earnings per share refer to the results attributable to Illumina stockholders
+Our adjusted gross margin for the fourth quarter was 69.9%, lower sequentially by 260 basis points, including 150 basis points of product transition reserves associated with the end-of-life of NeoPrep as well as the HiSeq family
+In addition, we have scaled manufacturing operations
+Given this investment is to support future growth, it will take several quarters to be more fully absorbed
+Finally, the variable compensation accrual benefits we saw in Q3 contributed to the sequential decline
+As a result of these last two factors, as well as the introduction of a new platform, which historically depresses gross margins, we are forecasting margins to be roughly flat sequentially, but growing later in the year
+Adjusted research and development expenses in Q4 were $121 million, or 19.5% of revenue, an increase of $7 million over Q3, and adjusted SG&A expenses for the quarter equaled $130 million, or 20.9% of revenue, an increase of $13 million sequentially
+Adjusted operating margins were 29.5% compared to 34.4% in the third quarter, lower primarily due to the variable compensation accrual benefits we saw in Q3, as well as Q4 gross margin impacts previously discussed and head count addition
+Operating margin was lower compared to the 33.4% reported in the fourth quarter of last year due to increased investments in manufacturing, head count, GRAIL and Helix
+Excluding GRAIL and Helix, operating margin was 33.9%, a sequential decrease of 430 basis points, again, related to the gross margin impact and variable compensation accrual benefits we saw in Q3. Stock-based compensation expense equaled $27 million, down sequentially from $35 million and lower than expected due primarily to the timing of executive departures and appointments
+In 2017, stock-based compensation is expected to be 6% of revenue on average and, going forward, we will report gross margin, R&D, SG&A and operating margin including the respective allocations of this charge
+This is consistent with the treatment of the expense in our non-GAAP diluted earnings per share figures
+We reported fourth quarter GAAP net income of $124 million and EPS of $0.84 per diluted share
+Non-GAAP net income was $126 million or $0.85 of EPS with GRAIL and Helix dilution of $0.05 and $0.03, respectively
+This led to 2016 non-GAAP EPS of $3.33, including GRAIL and Helix dilution of $0.27 and $0.09, respectively
+Cash flow from operations equaled $280 million, reduced by 100% of the GRAIL and Helix cash burn of $33 million this quarter
+Q4 DSO totaled 56 days, down slightly compared to 57 days last quarter, due to the benefit of higher revenue and strong collections
+Capital expenditures in Q4 were $82 million, and we reported an additional $25 million increase in property and equipment recorded under build-to-suit lease accounting, where such expenses were paid for by the landlord
+Consequently, Q4 free cash flow was $199 million
+We ended the quarter with approximately $1.6 billion in cash and short-term investments, including the consolidated cash balances of GRAIL and Helix
+During the quarter, we repurchased 1 million shares under our previously announced buyback programs at an average price of $129, leaving us with approximately $100 million of remaining authorization
+Moving now to guidance, we are projecting Q1 revenue of $580 million to $595 million with the low-end of our range reflecting an ability to manufacture and recognize a dozen NovaSeqs and the upper end two dozen instruments
+We believe high throughput customers will choose to wait to purchase the NovaSeq platform and, as a result, expect to ship approximately 10 HiSeq instruments in the first quarter, including HiSeq X
+Additionally, as we work through the transition from HiSeq to NovaSeq, customers will pause experiments, work down consumables on hand, place fewer inventory buys, and take time to validate their new workflow
+Hence, consumable sales will also be impacted as a result of this transition leading to decelerating sequencing consumable growth versus prior year for a number of quarters and flat to slightly down sequencing consumables sequentially
+As we previously shared, total company revenue is expected to grow 10% to 12% in 2017, including less than 1% revenue contribution from each of GRAIL and Helix, as well as a 100 basis point currency headwind versus the prior year, given current rates
+We are forecasting Q1 GAAP earnings per diluted share of $0.51 to $0.56 and non-GAAP earnings per diluted share of $0.60 to $0.65. For the full year, GAAP earnings per diluted share is expected to be $3.25 to $3.35 and non-GAAP EPS is expected to be $3.60 to $3.70. Our GAAP and non-GAAP EPS guidance assumes no meaningful impact to tax expense from the new stock-based compensation pronouncement
+We will report GAAP results that reflect the impact of this guidance and our non-GAAP results will exclude the impact on our effective tax rate due to the potential volatility and so that our results are comparable to prior periods
+Our Q1 and full year EPS guidance does not include any one-time items associated with the close of the GRAIL Series B, which we have assumed is completed by the end of Q1. We have included $0.08 of dilution from the consolidation of GRAIL's financial results in the first quarter only and $0.18 of Helix dilution for the full year
+Thank you for your time
+We will now move to the Q&A session
+To allow full participation, please ask one question and rejoin the queue if you have additional question
+Operator, we'll now open the line
+Question-and-Answer Session
+And a combined number, just to clarify, for HiSeq and HiSeq X
+And when we eventually have a good sense of what the NovaSeq pull-through looks like, we will probably give a range for that at that point
+And I would say the change in the agencies that we're talking about, there's nothing – no reason for us to assume that's not going to continue under the new approach that they've adopted
+We don't see an end in sight to that
+I'm happy to handle that
+Obviously, the array business grew very well in 2016 and fueled largely by the consumer business, but also a couple other areas that we cited in the call
+And so, we are expecting growth in 2017, but it will be lower than the growth for the company overall
+On the services question, <UNK>, I think it will have an impact obviously as customers decommission or stop using or stop renewing their services contracts on existing legacy HiSeq instruments
+But with the kind of rollout being more of a ramp throughout the year and mostly the instruments will be shipped in Q2 and the decommissioning will – Q2 and beyond and the decommissioning will tend to lag that
+I think it's a fairly marginal impact and it's included in our guidance to the extent it's going to happen this year
+And then once you get past the first year of NovaSeq, you start to charge instrument contracts for that as well
+So, it tends to offset
+On the share repurchase, we completed $100 million in Q4, as I mentioned, and currently have $100 million left on our authorization and we'll evaluate it going forward
+One of the point, don't forget that any gain on the GRAIL has a tax impact on it too, so make sure you take that into account
+Well, you might – it depends
+I mean, it depends on a lot of factors
+And have you saw a restocking effect, then you wouldn't necessarily want to extrapolate a restocking
+But really the best way to think about consumables, I like to think about it as, it's really driven first and foremost by samples
+And so, if you believe that more samples will get sequenced sequentially quarter after quarter, time over time, then ultimately it translates to consumables whether you get a lumpiness due to a stocking buy or a customer buying every six months instead of every quarter, you'll see those effects
+But over time, it's just correlated to the number of samples that get sequenced and the price per sample that we put out there, and the elasticity that we're creating with new instruments
+And bear in mind you, you wouldn't be getting updates from us on GRAIL on for Series B closes, just like you don't on any other of our customers

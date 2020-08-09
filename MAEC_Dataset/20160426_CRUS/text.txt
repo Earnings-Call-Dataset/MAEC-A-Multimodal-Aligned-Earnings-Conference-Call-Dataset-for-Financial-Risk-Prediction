@@ -1,0 +1,131 @@
+So the difference between our product and anything that we are aware of that's out there is that our product is fully adaptive.
+It's all adaptive digital signal processing.
+That's far from a refined art.
+There will probably be people getting their PhDs in that exact field a long, long time from now.
+It's a very challenging system to come up with in the first place.
+And the neat thing about it is that it enables you to create a number of form factors that are just flat not possible without the adaptability.
+If you've got an over-the-ear pair of cans, there's a number of different solutions you could choose from there, but that's obviously going to be pretty unlikely to ship in a handset box both from a size and a cost perspective.
+And then even the sealed up jobs, whether it's a little silicon ear fitting or whatnot become problematic from a fit perspective.
+They don't fit everybody.
+You've got to ship three different sizes, all of that kind of thing.
+What our adaptive solution enables as far as wear wear, no other solution on the market does enable, is what we refer to as a non-sealed or a leaky ear bud.
+So a leaky ear bud would be typically the sort that you find in the handset box.
+So it doesn't seal up your ear canal.
+It's just a nice ear bud that rests in your ear and it does all of the noise cancellation electronically rather than relying on passive isolation from the design of the headphones themselves.
+So that eliminates further cost in the materials surrounding the earpiece.
+It makes it smaller.
+It makes the fit better.
+Now, it's definitely not without its challenges from a design-in perspective because it does rely on having a number pretty significantly talented acoustics experts, who we happened to have a bunch of.
+But our customers don't all have a bunch of, depending on who we are talking about.
+And so it is a support-intensive design win.
+It is a product that -- it's just a new product of its type.
+It takes customers a while to figure their go-to-market strategy.
+How are you going to test it.
+How are we going to price it.
+How are we going to market it.
+And so that's the kinds of things that we see customers going around and around on at the moment.
+But we're engaged with a bunch of interesting folks.
+I suspect we will see -- our current expectation is to see products on the market this year in some form or another.
+We don't expect it to be a huge contributor to revenue right out of the gate, but it is something that's a real wow factor device that we think can make some meaningful changes out in the industry.
+We've got high hopes for it in the long run.
+Well, I think it would be unlikely we would integrate the microphone with the Smart Codec.
+Certainly, there's possibilities to embed more of the DSP intelligence in the microphones.
+That's kind of a long-term goal.
+But in order to do that and win anybody that is going to move the needle at all, you have to prove that you can be a single source, which I don't know that anybody in the industry has done yet.
+From a microphone perspective, we are trying to put one foot in front of the other and prove that we can be a significantly more reliable supplier.
+So that's a work in progress that I feel very good about, but it's a work in progress nonetheless.
+The Smart Codec and the amplifier, certainly, I kind of indicated earlier, but just to be direct, yes, we definitely expect opportunities that after we've migrated the amplifiers down to 55-nanometer, in addition to all of the other competitive advantages that is going to give us the ability to integrate that with the Smart Codec and also to embed in stand-alone amplifiers a lot more DSP capability.
+Both of those things are pretty meaningful advantages of consolidating around the 55-nanometer node.
+As to whether we want to ship a chip set of microphones and amplifiers of Smart Codecs, certainly, of course, it's definitely easier to grow your business with your existing customers.
+So any time we get a customer on any one of those devices, then the sales team has got pretty clear marching orders and a pretty good way to grow their commission check of making sure that whatever device they've got in there today, they are pitching the other ones and trying to find an advantage to ship in the whole chip set.
+These products are complicated.
+Customers value having one supplier to look to, to help them get through the design-in process.
+It's an incredibly complicated thing involving an intersection of DSP and electrical design and acoustics design.
+We are the largest supplier of that type of device today and we are well known for it.
+We are well known for our great support and we think that's a meaningful advantage for us going forward.
+Well, it does in the long-term.
+I mean in the short-term, we've got our hands full in trying to serve what are customers are looking for in the handset space.
+And that's all, whether the handset market is growing, as people wish it would or not, that's all incremental.
+A lot of that is incremental business for us so there's good growth opportunities and certainly bigger and nearer in than some of the other markets we might go after.
+Automotive is a great opportunity for a lot of our technologies in the long-term, but it's difficult to prioritize that over some of the other things that we see that are driving nearer-in opportunities.
+But yes, over the long-term, certainly, we would expect to see.
+I think prior to seeing it in automotive, you'd see us in other things that are low-power or battery driven, or just smaller in general, as we see some of our technologies migrate out from handsets into wearables in the connected home and things like that.
+Thanks.
+Yes, I think we are being very careful with our go-to-market strategy.
+We are partnering with customers that value the stuff we bring to the table and we're trying not to bite off more than we can chew until we really get to the point that we're not going to be showing up on the front page of the paper, having dealt somebody a supply issue.
+Pretty much, it seems like every quarter somebody's got an with microphone supply.
+And so we've got a very good reputation for execution and we don't want to be one of those stories for anyone.
+We are approaching it pretty cautiously.
+It's a long-term investment for us.
+There's definitely a capacity element as well, but we're partnered with some folks.
+It's a pretty small die and so we are definitely partnered with folks -- the folks that we are shipping volume out of today can support a reasonably good amount of volume and we've got good plans for how we would expand that going down the road as volumes increase.
+But again, just to be clear, we're talking about microphones because it's a meaningful portion of the long-term strategy, but we're certainly not counting on a crazy growth in that space for us over the next year or so.
+Relative to kind of the indications we gave on headsets, I mean, none of the products are on the market yet.
+And again, we're pretty cautious about making sure any of our customers were -- it's not our job to launch their products.
+We're trying to be reasonably cagey about that other than just generally, there's a pretty significant transition going on in the market and we're pretty uniquely positioned to capitalize on that.
+So aside from that and the color that you've heard before that's in the IR deck, et cetera, that's kind of the level of detail that we can get into there.
+I don't actually have any visibility into smartphone channel inventories.
+Relative to our own inventory, we're expecting to build inventory to support new product ramps that will happen later in the year.
+We don't get any further visibility into ends own inventories than I guess whatever you guys get or whatever the yahoos that write news stories about such things get.
+Yes, generally speaking, all of our customers, certainly all of the ones that move the needle, know how to run a tight ship.
+They generally, at least as it relates to us, seem like they run a very smart, modern, lean and mean operation.
+I haven't seen any of them get meaningfully oversupply on our components.
+I don't think that's been a huge part of any of our issue.
+It's flattish, call it.
+It's maybe up modestly but it's flattish.
+We do have a number of good factors going on in the Android space.
+I wouldn't say it's any one thing that's real remarkable.
+I talked about, in response to a previous question, obviously, I think it's pretty well-publicized that we got some headwinds from the share change at our largest Android customer.
+I think that has been pretty well understood for a while, but we are doing a pretty good job of helping to offset some of that headwind with growth with our third largest customer, which is also in the Android space, with a pretty broad range of wins and a growing portfolio of stuff we're doing there.
+I like our -- that it was a bit of a bluebird last year that we got 100% share at the biggest Android account.
+And so now we are on a base that's probably a little bit more sustainable place to grow from.
+If that helps.
+From a growth perspective, obviously, Q1 is really not the story for us this year.
+It's kind of the second half of the year and all of the various good things we've got going on there.
+Yes and no.
+It's primarily -- I apologize we did not give you a ton of time to read the shareholder letter.
+There's some in there about some of the breakout of the employ -- some of it's employee costs.
+Actually, headcount went up.
+But a good bit of that, to be honest, is variable compensation.
+So we've got a very robust variable comp program and when our expectations get scaled back, then that obviously scales back the variable compensation pay out and that ratchets back the OpEx quite a bit, which is clearly not what, as employees, we want to see, but definitely the right answer from a variable comp program.
+We think that's well-designed and doing what it's supposed to do in a environment where we have a bit of a softer market.
+So, no, it's not sustainable, because we expect to grow a lot in the back half of the year.
+And that will drive variable comp, as it should, and additionally, much like the challenge that we had in FY16, in FY17, we expect to grow pretty significantly.
+We expect to see, in fact, in excess of our long-term model again, and so that always causes us a challenge on the R&D side to keep up with the hiring.
+So there is a very real chance if we don't keep our foot to the floor there that we will fall behind on the R&D side.
+That said, as <UNK> alluded to earlier, we are a big, mature company.
+We don't need to adding all sorts of systems or other things to continue to grow.
+We feel like we've got the right infrastructure in place, so we're keeping a very close eye on SG&A and that should provide additional leverage on the operating model as we go forward over the next couple of years.
+But, relative to the numbers we reported for Q4, you can expect OpEx primarily driven by R&D to go up through the year.
+Yes.
+Sure.
+Well, I mean, yes.
+From a meaningful revenue contribution, certainly, they're longer-term, which is, if my glass is half-full, that's kind of a good thing, because we've got, obviously, a lot of growth dialed in for this year.
+So it's good to have something in the tank to drive the outer years.
+It's a key part of our growth strategy that we think a lot of the technologies we are already developing for handsets and mobile will migrate out very naturally into wearables and smart accessories and the connected home.
+We call out connected home.
+A lot of the things that we're doing are very applicable there, whether it's amplifiers so that whatever smart connected thing that is in your house can respond to you with your voice, whether it's the noise suppression so that it responses in a loud environment, or also on the long-term, the voice biometrics investment we're making, which is something that, again, it's out there a ways.
+But it's one of the coolest long-term things we've got going.
+It's a really compelling technology that, essentially, does for your voice what the thumbprint sensor did for fingerprints.
+We think we've got technology that can be a similar error rate to fingerprint in the long-term.
+We don't have any ambition of replacing thumbprint in a handset, although, we do think there is a good case for augmenting it with voice in a hands-free environment.
+But in a connected home, there's all sorts of devices that you would like to have be at least a little bit secure where it would be very inconvenient if you had to put your thumb on them all the time.
+Maybe it's mounted on the ceiling or somewhere where you're not sitting.
+So we think voice security is a great opportunity there.
+So it's a lot of things that we are already developing for handsets that position us well to be able to sell the same technologies and in some cases, the same chips, into a lot of other applications.
+Which is good because the dreaded internet of things is really an amalgamation of a whole bunch of stuffs, some small percentage of which are probably really going to take off.
+So if we had to invest in that meaningfully to drive any one of them, that would be a challenge.
+But the really cool thing about being an audio and a voice supplier is, almost across the board, the things that people are asking for are very, very similar.
+So ideally, we can go to market with the same hardware, small tweak on the software and help people get in the game.
+So, longer-term but very, very exciting things that are happening in that space.
+Thank you.
+Thank you, <UNK>.
+In summary, we are extremely proud of our progress in FY16, as sales of our Smart Codecs and amplifiers drove revenue up 28% year-over-year.
+As we move into FY17, we are delighted to see that the demand we experienced this past year for innovative audio and voice products across the signal chain continues to gain momentum.
+With a diverse product portfolio and extensive road map that addresses the technology and price requirements of flagship and mid-tier devices in the mobile, digital headset, smart accessory, wearable and connected home markets, Cirrus Logic is poised to deliver strong revenue growth above our long-term target in FY17.
+I would also note that we will be presenting at the Stifel conference in San Francisco on June 7 and the Baird conference in New York on June 8.
+A live webcast of these events will be available at investor.
+cirrus.com.
+If you have any questions that were not addressed today, you can submit them to us via the ask the CEO section of our investor website.
+I would like to thank everyone for participating today.
+Goodbye.

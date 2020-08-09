@@ -1,0 +1,111 @@
+Thank you, and welcome, everyone.
+If you've not already seen our earnings press release or written management report, please go to the Investors section of our website, where both are posted.
+Today, we will discuss the first quarter of 2018, both business progress as well as the environment we experienced.
+I'll also describe the business environment we're anticipating for the remainder of the year in our response.
+First, let me summarize the significant contracts closed in the first quarter, an extension to a 7-nanometer IYR contract, a contract with an IDM for Exensio-Test, contract with an Asian foundry for Exensio-Control and many other contracts for Exensio platform and modules, including Exensio-Test and related services.
+The market opportunity at logic foundries in all geographies, including China, for the Integrated Yield Ramp solution, which we refer to as IYR was softer in the quarter.
+Capital spending reports by semiconductor capital equipment companies indicate that the large spending was by -- driven by memory fabs, while spending at logic foundries was weak.
+While we have some early adoption of our IYR solution at memory fabs, the primary market for IYR is still logic fabs -- foundries.
+As we've been reporting over the past few quarters, with few exceptions, logic foundries has slowed down their investments.
+And we see the effects and that slow down on decreased business activity in IYR solutions.
+We also continue to see mix 28-nanometer volumes at logic foundries.
+As a result, our gainshare revenue continues to be lumpy.
+Beginning in Q1, [indiscernible] gainshare became the more significant node for gainshare revenue contribution, which we expect to continue through the remainder of the year.
+Our business activity in areas outside of logic foundries -- technologies continue to be robust.
+Our newer products, including new applications of our Characterization Vehicle infrastructure, applied primarily to More-than Moore technologies are Exensio Big Data platform and our Design for Inspection, or our DFI solution, all continue to receive interest in the marketplace.
+In particular, we have a number of ongoing demonstrations of DFI, where we are testing customers wafers in our Milpitas facility.
+Exensio, while strong overall, it is garnering notable interest for applications that's our unique ability to improve quality in yield and multichip assembly.
+Overall, revenue from these newer products and services now make up about 50% of our Design to Solutions -- silicon solutions revenue.
+For DFI, the initial hardware development of our next generation tool, DFI tool, the eProbe 250 is complete and our focus is shifted to developing applications for customer's ramp and production control needs.
+While already meeting our goals for throughput improvement over the previous generation tool, we continue to make improvements beyond the capability of the eProbe 150 to find the logical defects that have importance to our customers.
+Most recently, the machine is demonstrating unique features, we believe are critical to inspect for mass production applications.
+As far as selling activity for DFI, we continue to design on-chip instruments for a number of applications and demonstrate capability on customer's wafers at various test facilities.
+We expect such demonstrations to continue throughout the year.
+Importantly, we plan to release our fifth generation pdFas Tester in the third quarter of this year.
+This generation is designed to increase our effectiveness at characterizing both commodity and embedded nonvolatile memories.
+We have a number of pilots ongoing with customers and some contracts already in place to take advantage of this innovative capability.
+This will present increased opportunities with embedded and stand-alone memory customers and More-than-Moore technologies.
+For the remainder of the year, we believe that business activity will continue to be in our solutions for fabless systems in more than more fabs.
+We anticipate spending in logic foundries, particularly second-tier foundries to remain soft.
+As yield ramp for second-tier logic foundries has been such a big part of our revenue, we expect that the softness in this part of the market will make 2018 a challenging year from a revenue perspective.
+As we look to the second quarter, we have a number of new customer selling activities, but the timing, during the quarter, is not clear at this time.
+Further revenue from DFI Exensio and contracts covering CV infrastructure, plus Exensio for legacy fabs, is primarily ratable, without a large bump in the quarter, in which the new contracts are signed.
+Hence at this point, you will see in our outlook in the management report, we are cautious about our expectations for Q2 revenue in comparison with revenue in the future quarters.
+As I have said on previous calls, we believe that for these legacy fabs that are using our CV infrastructure and for Exensio platform, primarily to control manufacturing, a ratable business model tied to usage, much like the model we are using for DFI and Exensio, allows us to better capture long-term value.
+We intend to continue selling yield ramp engagements with gainshare in cases with the customer's values tied to market -- values tied to time-to-market and our investment is heavy.
+As a result, the environment we are experiencing and the slower revenue recognition related to usage-based models, we took some actions in the first quarter to reduce spending, primarily related to yield ramp business in the U.S. and EU.
+As we move through this year, we will look for opportunities to further improve efficiencies and to further reduce spendings associated with our yield ramp business, particularly outside of Asia.
+Further, we experienced -- we expect spending on third-party development to begin the taper off over the next 2 to 3 quarters as spending associated with the now completed development of the eProbe 250 ends.
+Some of these savings will be offset by further investments, primarily in Exensio, with some additional investments in field applications for DFI.
+In summary, we are transitioning PDF's business from a dependency on the introduction of new nodes, to value across the manufacturing lifetime.
+Moreover, we are bringing our technology that was primarily used at leading-edge fabs, up to the fabless and system companies.
+These changes are aimed at diversifying our revenue sources, returning the company to growth and providing more predictability to our financial performance.
+With this, I'll turn the call over to Greg.
+Thank you, <UNK>.
+As you may have seen in our earnings release, we have posted in the Investor Relations section of our website, a management report with detailed comments regarding the financial results of PDF for the quarter.
+Given that, I'm going to focus my verbal comments for the quarter and a few key highlights reflected in those results.
+Looking at revenue first, as you are aware, the company has adopted ASC 606 or Topic 606 methodology for all revenue reporting, beginning with Q1 in 2018.
+The company has elected to implement this change using the modified retrospective method.
+There is a summary of the adjustments related to this change, which is published as part of our Q1 2018 management report, available in the Investor Relations section of our website.
+Additionally, a detailed description of all the adjustments, impacts and methodology changes related to ASC 606 will be included with our upcoming 10-Q filing.
+At the summary level, the major adjustments for Q1 are as follows: for opening balances, there was a $5.7 million increase to opening retained earnings, which includes revenue adjustments plus deferred commission expense changes; there is a $1.3 million adjustment to deferred tax liabilities related to the increased opening balance for retained earnings; and then finally, for Q1 activity, the net effect on revenues and costs for Q1 was immaterial and essentially zero.
+For the remainder of the year, we expect the impact of the new accounting rules to be a reduction of our total revenues for the year of approximately $2 million to $3 million.
+Now looking at the Q1 results in summary.
+Total revenues at $24.7 million for the quarter were down $2 million as compared to Q4 2017.
+Solutions revenues at $18.2 million decreased by $800,000 when compared to Q4 2017, while gainshare revenues at $6.5 million decreased by $1.2 million.
+The Q1 over Q4 decrease in solutions revenue was primarily the result of higher perpetual software license revenue and related hardware revenues recognized during Q4, which did not reoccur in Q1.
+The decrease in gainshare revenue was primarily due to 28-nanometer volumes in revenues across multiple customers, partially being offset by an increase in 14-nanometer revenues.
+Expenses on a GAAP basis, total expenses for the quarter were $25.2 million, approximately $700,000 lower than the previous quarter.
+This decrease in expense was primarily due to lower variable compensation expenses, lower third-party development cost on the next generation eProbe tool, lower cost to sales related to hardware sold to a customer as part of a software sale in Q4 and lower stock compensation expenses.
+This decrease in spending was partially offset by severance payments incurred during the quarter related to some of our cost-reduction initiatives begun during the quarter and higher legal expenses and audit fees.
+On a non-GAAP basis, total expenses for the quarter were $21.8 million, approximately $800,000 lower than the previous quarter.
+This decrease was primarily due to the items previously mentioned for the decrease in GAAP spending, except for the impact of the severance payments and lower stock compensation expenses, which have been excluded from non-GAAP expenses.
+Once again, on a GAAP basis, cost of sales was $11.5 million, which was approximately $800,000 lower than the previous quarter.
+This was primarily due to lower hardware cost mentioned earlier, lower compensation expenses due to reductions in force, lower travel expenses and lower stock compensation expenses, partially offset by the severance expense and payments that I mentioned.
+On a non-GAAP basis, cost of sales was $10.1 million, approximately $900,000 lower than in Q4.
+And this was primarily due to items previously mentioned for lower GAAP cost of sales, once again, excluding the impact of stock compensation expense in the severance payments.
+GAAP R&D expenses were $7.2 million, approximately $400,000 lower than the previous quarter, once again, due to lower third-party development cost on the next generation eProbe tool.
+Non-GAAP R&D expenses were $6.3 million, approximately $400,000 lower than Q4, again, due to the lower third-party costs.
+GAAP and non-GAAP SG&A expenses were $6.4 million and $5.4 million, respectively, each increasing approximately $500,000 from the previous quarter, primarily due to higher audit cost involved with the 606 implementation and legal fees.
+Other expense was approximately $400,000 higher than Q4, primarily due to the impact of a weaker U.S. dollar with respect to our foreign currency denominated expenses.
+GAAP net loss for the quarter was approximately $400,000, an improvement of $2.2 million over Q4.
+Non-GAAP net income for the quarter was $2.2 million, down $1.9 million from Q4.
+Refer to our call transcript from Q4 2017 for an explanation of the impact of the 2017 tax act on our Q4 GAAP net loss results.
+Turning to the balance sheet.
+Total cash at $98.4 million declined by $2.7 million during the quarter.
+This reduction was primarily the result of stock repurchases, totaling $4.1 million.
+The purchase of company stock related to the settlement of employee tax obligations and RSU grant of $600,000.
+And PP&E expenses related to purchases relating to our -- development of our DFI solution, of $2.4 million.
+These uses of cash were partially offset by the cash generated from operations of $3.3 million and stock option exercises and ESPP purchases of $1 million.
+Accounts receivable at approximately $66.2 million at the end of the quarter consisted of $35.4 million of trade accounts receivable and $30.8 million of unbilled accounts receivable.
+The combined AR was approximately the same as the previous quarter.
+Additionally, under ASC 606, $3.7 million has been reclassified from unbilled accounts receivable to contract assets and recorded as other current assets.
+DFO for the combined accounts receivable, increased from 225 days in Q4 to 243 days.
+DSO, including contract assets, is now 257 days.
+Of the $30.8 million unbilled AR balance, we expect to bill $23.1 million over the next 12 months, of which, $12.2 million will be billed during Q2.
+During Q1, we collected $25.2 million, which was up from $22.3 million collected in Q4.
+Since the end of Q1, we have collected $11.11 million of the $35.4 million trade accounts receivable outstanding, which if they had been collected by the end of the quarter, would have reduced our DSO by approximately 40 days.
+Looking at taxes, our GAAP tax benefit for the quarter was $381,000.
+This provision consisted of the gross GAAP tax rate of approximately 23.7%, plus adjustments for discrete items of about $190,000.
+We expect our full year net GAAP and non-GAAP tax provision rate, after discrete items, to be approximately 18.5%, which is in line with our previous outlook.
+Looking at the remainder of the year, given the market conditions that <UNK> has described, we now expect 2018 revenue, excluding ASC 606 impacts, to be approximately flat when compared to 2017.
+Looking at the impact on revenue of ASC 606, we expect total revenues for the year to be reduced by approximately $2 million to $3 million.
+As <UNK> stated, we expect Q2 revenues to be more heavily affected by the current market conditions in either Q3 or Q4.
+During Q1, we began implementation of our cost-reduction initiatives aimed at reducing the company's total non-GAAP expenses.
+These cost reductions will allow the company to make some strategic investments, while still reducing our total non-GAAP spending by approximately 5% or more year-over-year.
+Given the uncertain market conditions, our goal is to deliver improved non-GAAP earnings as compared to 2017 excluding the impact of ASC 606.
+With that, I will turn the call over to the operator for Q&A.
+Yes, I -- probably not of that detail, but I think, we did talk about gainshare.
+We were expecting it to be up slightly year-over-year.
+At this point in time, I think given the Q1 results, we're probably thinking more flat around gainshare, with Exensio and DFI growing and that growth being offset almost completely by decline in the yield ramp business.
+No change from our prior discussions on the number of machines or the schedule.
+We're still expecting to ship 250s around midyear or so.
+I think, it's really getting down to 1 or 2 customers.
+If you go look at the $11 million we collected after the end of the quarter, that brought, almost, all of our customers' balances to nearly current with the exception of two.
+One of which is very large foundry in China.
+Based on what we're seeing that they are, basically, slow on payment across the board not just with us.
+That's one that we are battling every day to get as low as possible.
+The other one is a situation where the customer has already agreed to pay, we're basically processing a tax filing through the government that's in Asia, that's taking some time to get clear, but it does save us money on withholding tax.
+So once that's cleared, we know that we'll get paid, which will really leave us, primarily focused on the one large foundry in China.
+I believe, it's about $12 million at this point in time.
+Thank you.

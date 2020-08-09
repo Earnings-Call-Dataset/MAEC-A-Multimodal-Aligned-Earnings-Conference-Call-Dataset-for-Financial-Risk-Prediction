@@ -1,0 +1,51 @@
+Thanks for the question.
+We really wanted to, just to provide the transparency on how important this litigation is to us, and what we're doing to support that with the expenses and the range.
+We don't have a crystal ball of how this will go, so we know about what we're approximating for the full year in there.
+We indicated in Q1 we spent about $16 million, but we'll take it day by day at this point.
+It's a very, very important set of cases for us.
+And we'll keep you updated as it goes throughout the year.
+They've been a strong competitor for as long as I remember and they remain a strong competitor.
+It's just that our strategy is very different now.
+We use to be much more of a component supplier, competing directly with other component suppliers, but increasingly, we're really a differentiated platform supplier.
+And so you find that the software investments that we've made over the years, you really increasingly define our product.
+If you think about Tesla, the amount of software that stacked on top of Tesla from all the tools that we created, the middleware, the libraries, the programming models, the robustness of all of it, the integration with all of the industry's software products, and everybody else's software that's built on top of Tesla, is pretty daunting.
+And so it's hardly just a GPU anymore.
+GRID is all about software.
+Otherwise, it's just another one of our GPUs.
+The GRID is largely about software, virtualization software, concurrency software, the ability to deal with very, very low latency streaming.
+The integration with all the tools in the world, and all the other platforms of the world.
+So I think we think about our products and our platforms, it's really about the differentiated value that we built on top of our GPUs, number one, and number two, the deep integration with the large ecosystems around the world, to the point where other companies' capabilities are really glommed on to this platform, making this platform more valuable to customers.
+And so that's really what's changed about our company strategy and why increasingly, we look very different than other component suppliers.
+I think first of all, we're one of the few companies that didn't miss last quarter, and Q1 was relatively fine for us.
+What we said was that we're going to let what is broadly impacting the rest of the industry inform us about Q2, and we think that when it comes down to enterprise, that's one of the factors.
+Enterprise does affect us.
+When enterprise slows down, because of FX issues or delays in purchase because of Windows 10, workstations is a part of enterprise, servers that they buy is part of enterprise, and so it affects us there.
+We still have a piece of our business that even though it's a rather small percentage of our business at this point, it's still non-zero.
+Our PC OEM business is affected by what's happening around the world.
+And so I would say that yes, our Q2 is informed by all of those factors, but I would say that also our core business is really doing well.
+Gaming is robust, and I expect gaming to continue to grow.
+The work we're doing in accelerated data centers grew 50% year-over-year, and my expectation is that it's going to be a strong business for us going forward.
+And the success that we're seeing in automotive and the expansion of car computers has allowed us to double our business there.
+So our core businesses are growing very nicely, and largely independent of what is being experienced in PC OEMs globally.
+I'm not sure that we've ever had process leadership.
+We go to a new process when we're ready to go to a new process.
+And as you know, we could wring out new architectural efficiencies in exactly the same process technology for several generations with 28 nanometer The difference between Kepler and Maxwell is pretty amazing.
+To be able to deliver twice the energy efficiency in one generation using exactly the same process is pretty exciting.
+And so I think there are many ways to skin a cat, and we surely expect, and we surely expect and look forward to going to next-generation nodes, but the GPU is a piece of the puzzle.
+The algorithms we put into the GPUs is a very important piece of the puzzle.
+The software on top of it is a piece of the puzzle and the system design is a piece of the puzzle.
+There so many ways for us to deliver energy efficiency and performance.
+I wouldn't get too obsessed about the process technology all by itself.
+Within our overall GPU business and how big is notebook.
+We don't give out that.
+I don't have it actually front of me right here on this side, but we are seeing definitely a good amount of growth in terms of our notebook for gaming.
+And we still have a very strong position as well, just in general PC notebooks.
+So they're both about equal in size, in terms of our total.
+It's a percentage of our PC number.
+This is <UNK>.
+First of all, I want to thank all of you for tuning in today.
+We're really pleased with the quarter.
+Our businesses are performing well.
+Looking beyond the broad industry headwinds of Q2, we have a great growth drivers in our core platforms: gaming, HPC cloud, enterprise and auto.
+And in each market segment as we discussed, our position is differentiated and strong.
+We are excited that visual computing is more important than ever, and I look forward to talking to you next time.

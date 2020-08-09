@@ -1,0 +1,121 @@
+Thanks, <UNK>, and thank you all for joining us today.
+Pinnacle West delivered a solid 2015, with earnings near the high end of our guidance range, with Palo Verde Nuclear Generating Station having a record year, and with a balance sheet that remains one of the strongest in the industry.
+<UNK> will discuss the financial results and outlook.
+My comments will focus mostly on the year ahead.
+Our fleet performed very well in 2015, highlighted by Palo Verde Nuclear Generating Station's highest output ever, equating to a capacity factor of 94.3%.
+One of Palo Verde's key strengths is the ability of the team to perform at an excellent level, but to also drive continuous improvement each year.
+2016 marks the beginning of a new period for our fleet.
+In total, we are planning to invest over $3.6 billion in capital over the next three years.
+We're investing in two large projects in our fossil fleet as well as a few innovative investments and some IT systems to prepare our operations for the long-term.
+The two large fossil projects are the Ocotillo modernization project and the selective catalytic reduction pollution controls, or SCRs as they're called, at the Four Corners Generating Plant.
+Four Corners unit 5 entered a major outage in January to make several upgrades and begin laying the groundwork for the SCR installations.
+The innovative investments I will outline are designed to increase customer and system reliability and meet future resource needs.
+In November, we announced a partnership with the Department of the Navy to develop a 25-megawatt micro-grid project at Marine Corps Air Station Yuma.
+This is APS's first micro-grid project and the first military base to secure 100% backup power.
+We also plan to install a 40-megawatt solar facility this year on behalf of some of our larger customers.
+This amount has been reflected in our 2016 CapEx budget.
+The Solar Partner program, which is planned for 1,500 APS-owned rooftop solar installations, is on track to be fully installed and operational by mid-2016.
+And just this month we officially launched our Solar Innovation Study, a 75-home demand rate laboratory here in the Metro Phoenix area which will determine how customers can use various combinations of distributed energy resources such as solar panels, battery storage, smart thermostats, and high-efficiency HVAC systems to better manage their energy environments.
+These customers will also be placed on our existing residential demand rate, and the study will provide valuable information on a customer's ability to use technology to manage peak demand and lower their bills.
+In addition to generation investments, we are upgrading several IT systems to improve our customer interface, facilitate active operation of our transmission and distribution systems, and enable participation in the California ISO Energy Imbalance Market.
+These investments, along with our advanced meter program, which is fully deployed, are enabling integration of advanced technologies while also allowing us to maintain grid stability.
+2016 also represents an important year on the regulatory calendar, with the APS rate case set to be filed on June 1.
+APS submitted the Notice of Intent to File on January 29, which gives notice to the ACC and stakeholders and outlines the primary topics we will propose in the June rate filing.
+APS will propose the new rates go into effect July 1, 2017, based on the test year ended December 31, 2015, with certain adjustments.
+To help achieve this outcome we have held a series of stakeholder meetings to provide clarity and transparency with the stakeholders.
+We're also planning to submit an extensive list of standard discovery questions and responses with the June 1 filing.
+Let me outline a few of the central topics from the Notice of Intent to Filing.
+Residential rate design is an area where we will propose changes to better align costs with prices and incentivize cost-reducing technologies.
+We will be proposing universal demand rates as well as shifting our time-of-use periods to later in the day.
+We will also propose a revenue per customer decoupling mechanism that will be adjusted annually to replace the existing lost fixed cost recovery mechanism.
+The decoupling mechanism will be proposed on a trial basis until the next rate case, to act as a rate-stabilizing mechanism during the transition period to the new rate structure.
+The last item I'll mention is we will request the deferral of costs related to two large CapEx projects we're investing in: the SCRs at Four Corners, and the fast-ramping natural gas modernization project at Ocotillo.
+These investments total of over $900 million over the next few years with in-service dates of 2018 and 2019, respectively.
+In the case of the SCRs, since the timing of installations will be close to the end of this rate case, we'll also propose a step mechanism to reflect the deferred SCR costs, similar to the treatment of the Four Corners acquisition.
+The docket on value and cost of distributed generation has testimony due on February 25.
+There are also four other electric rate cases in process.
+UNS Electric is the first in line, with hearings set to begin on March 1 in Tucson.
+We are an active intervener in the UNS case, since it is an important forum to discuss rate design.
+The testimony we filed supports the concept of three-part rate design which incorporates a fixed service charge, an energy charge, and a demand charge.
+This concept was also proposed and supported by UNS Electric and the ACC staff.
+Related topics, including methodologies for determining the cost to serve customers with solar and the value of solar, will be a central focus in the value and cost of distributed generation docket.
+In closing, we delivered on our commitments in 2015, and we are well positioned for 2016 and the long term, with a clear plan and a strong leadership team in place to deliver on the plan.
+I'll now turn the call over to <UNK>.
+Thank you, <UNK>, and thank you, everyone, for joining us on the call.
+This morning, we reported our financial results for the fourth-quarter and full-year 2015.
+As you can see on slide 3 of the materials we had a solid year and ended on a strong note.
+Before I review the details of our 2015 results, let me touch on a few highlights from the quarter.
+For the fourth quarter of 2015, we earned $0.37 per share, compared to $0.05 in the fourth quarter of 2014.
+Slide 4 outlines the variances which drove the increase in our quarterly earnings per share.
+Looking at gross margin, higher retail sales, favorable weather, and the adjustment mechanisms were all positive contributors.
+Also, as we anticipated, lower operations and maintenance expenses in the fourth quarter of 2015 compared to 2014 improved earnings, largely due to lower planned fossil outages.
+Now turning to slide 5, let\
+<UNK> is sitting right here, <UNK>.
+I'll let him try on that one.
+Sure.
+<UNK>, there was an extensive discussion in Arizona a few years ago around decoupling mechanisms in general.
+In our last rate case we had proposed that LFCR mechanism essentially from the settlement process.
+But the way a revenue per customer mechanism would work is it takes into account all of the different adjustments: so weather, sales, as well as just other changes to -- essentially changes to the normal revenue requirement process.
+But what it does is it looks at it to accommodate customer growth, right.
+So as customers grow and we're making additional investments into the system, we need to be able to pick up the additional costs that come from that growth.
+Does that make sense.
+Have we arrived at those yet, <UNK>.
+Still working through, obviously, the stakeholder process, but pushing it more towards later in the day, because that's where you see the need to essentially focus on the peak.
+Yes, early evening.
+We've got at current rates the primary time use rate is a 12 to 7 peak period, and so it both shorten that up and then move it out later in the day.
+That's partly responding to the duck curve, what you see in the wholesale market out here from the overgeneration that happens in the middle of the day.
+As our summer peak, this last year was 5:00 to 6:00 in the afternoon, early evening, and that's been typically the time of hitting our peak.
+Well, I think there will be some additional element in this than is typical.
+But the last few cases have been very well organized and executed by all 22, 23 parties.
+That's certainly, I think, the direction we, the staff, [BRUCO], and the vast majority of the parties would intend to proceed.
+UniSource is going to be an important discussion.
+That's the first case in a state that's really focused on the changes to residential rate design.
+That's why we've got four witnesses in that case.
+So obviously that's probably a case to watch.
+No, <UNK>; this is <UNK>.
+The EIM helps balance really inter-hour.
+It's not affecting the underlying wholesale markets.
+So what you see in that shift -- and it's not the shift of demand rates, but that shift of the time-of-use period, the peak period, out to later in the day is reflecting that ramp that comes later in the day from the duck curve.
+No, nothing in the process.
+Well, we will be going out next month, I believe, with a [tolls] resource RFP for -- with a beginning date later this decade.
+It's really designed not only the heat rate options, which are not flexible that have been -- or will expire; and then we have a toll in 2016 and a toll in 2019.
+So this process -- and we'll get, being all-resource, I expect to see various resources in there; and we'll evaluate that, and evaluate where we are and what we need, and we'll move from there.
+Yes, I think we have great optionality here.
+We can extend the tolls short-term, long-term.
+We could newbuild if it was the right thing to do.
+But right now we'll just see what comes into the RFP.
+This is <UNK>.
+What you're trying to do -- we have a fuel adjuster, right, which is going to pick up essentially the cost of the fuel burn.
+But what you're trying to do in shift that out later is to align the customer response with when we see the need for, essentially, conservation on the system.
+So what it's trying -- go ahead.
+It's a customer issue.
+If you have the time-of-use rates fixed, you don't have essentially -- for example, on the solar side you're not providing credit at noon at a peak rate when the wholesale market is negative.
+Yes, <UNK>, there is no money lost for APS.
+It's really a shifting and sending the right price signals to -- what was done they were put in before to what we're seeing in today's marketplace.
+It's an alignment issue.
+It's really a rate design issue, so it's part of the rate design process.
+We're trying to align the retail rates with the wholesale market.
+Yes, I was just going to say the issue is its rate design, so it's revenue neutral.
+We've made a fair number of changes really over the last probably two or three rate cases that have picked that up.
+A lot of it comes in the time to process the case and trying to get that processing time down to the year or so.
+Things we've done with that are, for example, prefiling the discovery.
+So we don't wait, file the case, wait for three or four months, and then begin the discovery process.
+So a lot of that's been worked out.
+Obviously, adjuster mechanisms and how you can work on adjustment mechanisms can help smooth that even further.
+So that's probably going to be some of the discussion you'll see, and that's part of what we've been talking about with stakeholders.
+I think the general issue that's coming up in UNS is how it's going to apply broadly across the customer base.
+The Commission staff have proposed that the three-part rate design be applied to all residential customers, and that's one of the key issues to look at, I think.
+I don't see any equity needs, <UNK>, through the planning horizon.
+I think as we've said in the past, EPS CAGR is somewhere between rate base growth and dividend growth, as we think about those as your two boundaries.
+5% was the last dividend increase.
+Well, you're right, there's a lot going on out there.
+But we don't really comment on M&A.
+I will say we're focused on our excellent operations and continuing that.
+We believe growing earnings will provide shareholder value without combining operations with another entity.
+I think each one of them is unique to the specific transaction.
+No, that's based on the $3.92.
+And that's at the Pinnacle level.
+Yes.
+I think that's pretty close, yes.
+Thanks, <UNK>.
+We like it that way, too.

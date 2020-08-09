@@ -1,0 +1,158 @@
+Thanks, Heidi, and good morning, everybody.
+Today's call, like all of our events, is subject to both Safe Harbor and forward-looking statements.
+You can find the full text of both statements on our first and final pages of the presentation deck today, a copy of which is available on our website as well as with the SEC.
+On this morning's call are <UNK> <UNK>, our CEO and <UNK> <UNK>, our CFO.
+With that, I'll turn the call over to <UNK>.
+Thank you, <UNK>.
+Good morning and thank you for joining the call.
+Quarter three was a busy quarter.
+Overall our sales bookings in the quarter grew 17% over last year and we remain on track to achieve our full-year targets.
+Our Q3 revenue was $239 million and we also remain on track for full year for revenue also.
+We saw particularly strong cash flow with operating free cash flow in the quarter, up $61 million which is up $43 million from the same quarter last year.
+During the quarter we went live with our first BASE24-eps Universal Payments customer.
+This large bank in Latin America is using the UP framework to offer some unique alternative payments and expects to gain share with its new payments flexibility.
+The addition of this referenceable customer in an important step in capitalizing on the growing Universal Payments pipeline we continue to build.
+In addition and subsequent to quarter-end, we completed several steps further solidifying our position in the payment space.
+Last night we announced the signing of a lease for a new data center facility in Europe.
+This is part of our previously discussed efforts to consolidate our data center facilities and expand their capabilities.
+We are seeing accelerated demand for SaaS-based delivery, particularly in EMEA and this move will solidify our strong growing presence in the region.
+It is particularly timely as the regulatory hurdles to serve the EU marketplace are increasing.
+This new data center will be able to merge several smaller facilities while increasing our capabilities in becoming fully compliant to European Commission's latest directives.
+Last night we also announced the acquisition of PAY.
+ON, a leading payment solution provider based in Munich, Germany.
+PAY.
+ON's global reach and pre-eminent card-not-present e-commerce gateway connects to more than 300 payment networks with unique strengths in cross border and internal payment methods.
+Being able to provide this level of global connectivity to our multinational customers further enables ACI's any-to-any vision and provides us with even greater competitive differentiation.
+It's becoming apparent that point-to-point networks with PSP front ends are playing an increasingly important role in both omni-channel and instant payments.
+ON is a strategic investment allowing us to save considerable development time at an attractive cost.
+ON team and some of our technology has already been integrated.
+Once fully integrated with ACI's UP Retailer Payments offerings and our leading fraud and risk management tools, we will provide the industry the leading omni-channel retailer and e-commerce payment solution with 100% ACI owned IP.
+ON and our growing investment in the sector, we are confident we will leverage the potential even more.
+The ability to provide the retailer with an incredible breadth of payment choice will have been realized as well as enabling FIs to develop and execute direct brands/product relationships with their retail community of choice is now available from ACI.
+I will now hand the call over to <UNK> to discuss our financial results and updated 2015 expectations in more detail.
+Thank you.
+Thanks, <UNK>.
+Good morning, everyone.
+I first plan to go through the highlights of the third quarter and then provide our outlook for the full year 2015.
+We'll then open the call for questions.
+I'll be starting my comments on slide 6 with key takeaways from the quarter.
+Our overall sales bookings in Q3, including term extensions, were up 17% over last year and net new sales bookings were up 6% over last year.
+And as <UNK> said, we remain on track to deliver our full-year target of high single-digit growth.
+We ended the quarter with 12-month backlog of $882 million, up $6 million from last quarter, after adjusting for foreign currency fluctuations, and a 60-month backlog of $4.2 billion, up $32 million from last quarter, after adjusting for foreign currency.
+We saw revenue of $239 million in the quarter, down $11 million from Q3 last year, although half of which was the result of foreign currency fluctuations.
+Recurring revenue was $181 million, representing 76% of the total and specifically our SaaS subscription and transactions revenue continued to grow up 3% from Q3 last year.
+And overall revenue was in line with our expectations and the financial guidance we provided in our last quarterly earnings call.
+Moving to our profitability, our adjusted EBITDA of $50 million decreased 25% from last year's Q3, primarily driven by the timing of non-recurring revenues year over year.
+We saw a strong growth in operating free cash flow in Q3 of $61 million, up $43 million from Q3 last year and bringing our year-to-date total to $93 million, up 51% from last year.
+And lastly, we ended the quarter with $81 million in cash and after paying down $108 million year to date we ended the quarter with a debt balance of $784 million.
+Turning to slide 7, as <UNK> mentioned, we announced the acquisition of PAY.
+ON.
+PAY.
+ON is an e-commerce card-not-present payment solution provider, selling into the fast-growing e-commerce, retailing and PSP markets.
+The company has built an impressive level of industry-leading connectivity with particular strength in cross-border and alternative payment methods.
+And this connectivity can be utilized in all of our payment engines.
+ON that we picked up with the Retail Decisions acquisition that we've seen first-hand how this ubiquity will strengthen ACI's competitive positioning and bring us materially closer to our any-to-any vision.
+And when combined with our legacy retail payments capabilities and the risk and fraud management solutions we acquired from ReD, we have a truly omni-channel offering we can deliver to our multinational merchants, banks, and acquiring customers.
+The purchase price of EUR180 million or roughly $198 million comprised of $183 million in cash, and approximately 700,000 shares of ACI stock.
+The cash portion was financed utilizing the available portion of our existing line of credit.
+ON founders with 8% of the purchase price in ACIW shares, something they requested and we believe will align all of our interests.
+ON saves us considerable time and execution risk.
+ON is expected to generate roughly $15 million in revenue and while we will only see a couple of months' contribution of that this year, the company is growing at an annual rate of greater than 35%.
+With a transaction based financial model and SaaS based delivery, the company fits very well into our existing ACI organization.
+Moving next to slide 8 is our full-year outlook.
+We are reaffirming our previously provided full year non-GAAP revenue guidance range of $1.04 billion to $1.07 billion.
+We've reviewed and are comfortable with the First Call estimates for our full-year revenue.
+We now expect 2015 non-GAAP EBITDA to be in a range of $265 million to $270 million, down from our previous range of $280 million to $290 million.
+The reason for the reduction relates to the timing and mix of our current revenue forecast as well as incremental investment spending, including those related to our retailer and e-commerce offering as well as our new European data center.
+And as I said earlier, we continue to expect our sales, net of term extension bookings to be in the high single digits for the full year.
+And lastly here, our guidance excludes approximately $14 million in expected one-time integration related expenses for our continued datacenter and facilities consolidation and bill payment platform rationalization.
+That concludes my prepared remarks.
+Operator, we are ready to open the line to questions at this time.
+I think our pipeline is probably safely around somewhere between a dozen and a half and two dozen deals.
+And if an awful lot of the world didn't have 40% to 60% currency movements, we probably would have closed several of the deals -- several of the deals already.
+In the next quarter or two we expect to close at least one and maybe two or three of these deals.
+<UNK>, it actually brings on a different point, we've kind of had a choice in whether we want to maintain our pricing and our pricing structure going forward, and we've decided that the value of what we're doing requires us to keep our pricing.
+But we've been realistic to say that the amount of ILF that we would typically take in terms of a new deal that we have to rethink and take it over the five years versus just pure discounting because of the currency situations in the rest of the world.
+And that has made the deals very possible to do, but it also probably has three more levels of approval than you'd have in last year's or two years ago as currency equivalents with the US products are suddenly a lot more expensive as a result, and we think ours is worth the expense.
+So we've had to take less upfront, but still maintain the value of what we are doing.
+Yes, I do.
+Yes, I do and we -- I just announced today that we have an installed and up and running one as of this quarter and that's going to really help us in terms of people actually seeing it take place.
+But we are far enough down the line with an awful lot of these that being open minded about structure I think is more important.
+I mean, for a 90 to 360 day view of the world, we probably could just do a price -- we could probably just do a price reduction, but against the longer term and then the basis for a long-term relationship, we are better off doing this than kind of confronting them with price increases at the second subscription level.
+Well, first of all, their customers -- I'll answer the customer question first, some customers are our customers.
+As I said, we've worked with them jointly to get a couple of customers.
+But a lot of their customers are actually good sized global retailers, right.
+So, think about it that way.
+Yes, there are a certain number of processors that are partners and what not too just like we have processors that are partners in terms of what we are doing.
+And I see very quickly if you kind of read all the stuff coming out Money20/20, a lot of banks are going to be getting into wanting point to point and direct relationships with retailers and with end points.
+So I actually see FIs -- I actually see all three of our traditional customer structures, the retailers, the processors, and the FIs, all being customers of this capability and it's going to be one more capability.
+One of the key things that we have is that the number of drivers and interfaces that we connect to around the world in credit and debit networks that are POS or ATM or online, this adds just a whole -- this adds another 300 e-commerce oriented.
+So this builds out in the most modern way of thinking about payments the same kinds of IOs and drivers that we're famous for over the last four decades.
+Well, a lot of the PSPs have actually been snapped up by merchant acquirers.
+And it's kind of interesting because it kind of -- it both gives them connectivity but takes the customer back a step because an awful lot of the PSP connections don't really require that layer.
+I think you heard Chase's announcement a week or so ago.
+There is a lot of these that because of the e-commerce nature of how they're done, you don't really require that additional settlement three days -- basically three days settlement -- additional settlement layer that the FI or the processor in the endpoint can actually do it with either independents or not independents.
+So we haven't seen other capabilities providers buy up PSPs or integrate PSPs into it.
+We've seen it more in terms of branded or revenue -- we're probably the first guys that are transaction cost providers versus revenue sharers, right, that have gotten something into the world.
+Well, one of the great capabilities of this acquisition is actually cross border, right.
+So the answer would be yes and this along with other assets that we have really give us significantly more capability cross border and real and instant pay cross border.
+We were building -- by definition we were building stuff in this category.
+And if you think about it on the more wholesale side we already have a lot of the capabilities and this really strengthens the retail side and actually allows us to make a combined retail and wholesale kind of offering.
+We did and do have -- there are a lot of unique offerings, 300 is great, but there is more than 300, so there are and will continue to be certain level of partnerships that exist alongside this, <UNK>.
+Did I answer your whole question.
+Well, we're continuing to see more and more interest in -- especially when we present solutions for a SaaS delivered solution versus hosting at -- it being hosted internally.
+Everyone knows all the challenges of cyber security and it's now regulation.
+Everyone has read about the Safe Harbor notices and what not, and it just makes sense -- it just made tremendous sense to us.
+We've consolidated, I believe, the number is 14 data centers into our current data center structure through the acquisitions.
+We still have seven data centers out there, and we said well gee it made an awful lot of sense for us to place a European data center in the mix and point the consolidation and then a load balancing between the US and EMEA at this point.
+And over time, the interest in Asia will require us to migrate our way there.
+But for this bite, there is a -- there are significant investments in cyber security and the data center and building out the data center.
+And they are more one-time, I think the number we gave you was $14 million, remaining on the one-time side and now that it's going to be coincidental, until we close those seven centers, we're going to have the coincidental cost of bringing up the Irish centre and shutting down the other centers, which will initially not reflect themselves as one-time, they'll reflect themselves as continuity until we shut down those seven centers.
+Yes.
+But I wouldn't say that the whole magnitude is not necessarily related to data center.
+As I mentioned in my prepared remarks, there's really three components of it.
+One is revenue.
+As you see, we reaffirmed our full year revenue guidance.
+But as <UNK> mentioned, we're seeing certain customers that would have normally paid an ILF.
+Due to currency, they're willing to pay more over five years and hedge the fact that their currency is at a low point.
+So they aren't going to either renew or buy where they would have an initial license fee components or high margin.
+But conversely we did accelerate a couple of large projects that were planned to be in next year's revenue, but with those came a build-up of deferred costs.
+So we're seeing a mix change where we would bring in revenue with deferred costs that we didn't have in our expectations last time.
+The investments not only include the data center that we are opening, but it also includes a lot of the cyber security investments that we're making to all of our data centers.
+And to a lesser extent, PAY.
+ON for just a couple of months is not going to be EBITDA positive.
+So there are several pieces to the bring down of our low end by the $15 million.
+Well, I don't know if I can give you those exact numbers because they range, but they will be larger because what they end up representing is the decision not to convert the classic and to bridge the classic and just migrate it over time and therefore run two of our switches concurrently under the UP structure.
+And then adding a lot of new volumes, be they instant payments or e-commerce or there is lots of different schemes, into the switching environment and actually connecting third party switches as part of the [it].
+So they are considerably larger, they are considerably -- but the range could be from something that looks like one of our larger deals to something that's twice the size of our larger deals and that's probably the way I would characterize it.
+What I would add to that is that as <UNK> mentioned in his speaking points we had a large Latin American bank that went live with our top UP eps capabilities in the second and third quarter.
+Not that we didn't announce that necessarily as a large deal when we sold it, but the encouraging part is now that they are live and they are using alternative payment types.
+Where we will get the benefit going forward is as they increase their volume of alternative payment types we will get incremental capacity when that volume comes.
+So I wouldn't necessarily look at its size as being an indicator of the value.
+That's an example of one that the value is going to come in incremental capacity sales over time.
+In the second quarter, we mentioned a large European bank that purchased a capability, in particular for faster payments, but again once it's live in their environment and they begin to plug in alternative payment types that typically we haven't touched in our payment engines, they're going to have to come back incremental capacity.
+So having those live in the environment, having them beginning to plug in alternatives, we will get the benefit of the high margin incremental capacity sales and revenue going forward.
+That's right.
+I may be iterative.
+That would be the Latin American bank example as well as the European bank.
+But once they're live, the key there is to continue to market the various use cases.
+And I think to the earlier comment that <UNK> had really having live examples in the marketplace to be able to go sell those to other customers as well.
+Well, I think, if you kind of think about it from today's standpoint, it's probably neutral.
+Longer term, I think that could land up being positive.
+And we really can't do a lot of dialoging about that but the Visa switch in Europe is a real asset to Visa.
+And how they utilize that, I think would be worst case neutral, potentially very positive to us.
+Okay.
+Well, to answer the last piece first, no, because like I said we haven't really changed the pricing, it was a structure.
+So the answer is no with that, absolutely no pushback.
+The second one is that, what's different about UP is that its implementation time probably runs about 50% to 70% the time of a traditional eps conversion.
+So the conversion cycle is actually -- there is actually not a conversion, it's the institution of a multiple set of capabilities and then migrating, because the best ROI are customers.
+We spend enough time with our customers.
+Now their best ROI is using it for new volume and then their fill-in ROI, their value is to move transaction-by-transaction off the older environment, especially with the Linux as being the basis for most of the new switch and then connectivity to much more expensive hardware and middleware on the older switch.
+They are actually getting better ROIs by adding volume than converting volume.
+And that's very positive -- that will end up being very positive to us, because we don't make money in the services side of our business.
+And so it actually change -- it continues to change the shape of product versus services in terms of what we do.
+Well, our transportation project is going very well and the interest in the transportation sector is actually very strong.
+And we actually believe with the PSP as an integral part of that offering, we actually believe that that's one of the areas that's going to take great interest in being able to push their payments versus have their payments pulled.
+Thanks, Heidi and thanks everybody.
+We look forward to catching up in the coming weeks.
+Have a good day.

@@ -1,0 +1,96 @@
+As we think about our business, we think about the end markets, where they're going, and where the products will be -- generate the highest return, and as we achieve our strategic objectives in NAND.
+And on a competitive basis, okay, we believe we will be closing the gap between our competitors in the second half of our fiscal year, and throughout 2015 calendar.
+We believe that will happen.
+TLC, today, is less than 10%.
+It's not a large number today.
+And as we ramp our fabs, it won't be materially much larger.
+We will see some growth in the back half of the year, but it won't be materially much larger.
+Because we've got other parts of our business, whether it be mobile, or I talked about the success of our MLC 16 nanometer product, a Tier 1 OEMs.
+And so we will seek TLC growth at Micron, but we're not going to do it just to do it.
+We need to make sure that we're getting the right value for it, and that's important to us to run our business.
+Yes, I think, for us, this question around FX is really more a question around what is worldwide GDP growth going to be.
+We are a global company.
+We've got global customers.
+Some will do better in some FX situations, and some will do slightly worse.
+But unless something dramatic happens to worldwide GDP growth, we think we're pretty well positioned with manufacturing all around the world, and with customers all around the world, some of which will do better under certain circumstances, and some of which won't.
+So we are not overly worried about it.
+Obviously, we have manufacturing in Japan, and there's a certain cost reduction associated with the weakening yen.
+Obviously, we've got some manufacturing in Singapore, and certain costs associated with the strengthening sing.
+But net-net for Micron, these aren't huge effects.
+Absolutely.
+We plan a lot of equipment reuse as we transition planar NAND to 3D NAND.
+I assume that was the question, is 3D NAND transition.
+So there is incremental equipment required, there is incremental floor space.
+There is some amount of tooling, all of which can be reused in other parts of our -- or the vast majority of which can be reused in other parts of our business.
+Generally speaking, we will trade out planar NAND wafers for incremental -- for 3D NAND wafers.
+And we think that is the most capital-efficient way to run the business.
+Yes, sure.
+It's almost always a short-term drag on GM when you make the transition like this.
+You've got new tools coming in, takes a while to qualify them, get them loaded, et cetera.
+And there are inefficiencies associated with yield ramps, et cetera.
+So we are pretty comfortable, by the time we get to late in the year, late in this calendar year, we'll be looking pretty good.
+We would be willing to do that, if we thought the market situation were such that that would make sense to us.
+I can't actually foresee that, sitting here today.
+Clearly, as we think about our plans for 2016, and things a little bit further out, we will take into account where the market goes over the next number of months and quarters.
+But as we sit here today, we just told you, we think things are looking pretty good.
+So we're not anticipating making any major changes, as we sit at the table today.
+I think directionally, where you were going initially was right.
+We think, over time, that it will decline as a percentage of the mix, and a lot of it does depend on the business.
+But I think directionally, that -- we think you are spot on.
+Yes, I think absolutely.
+In full transparency, we are coming off of a somewhat lower base.
+But I think we've stated, in prior calls, I will state today, that we think eMCPs for the mobile business, coming out of our fiscal year, will be somewhere around 25%, a little bit lower than 25%.
+But somewhere up from zero in the last 12 months.
+So we -- as you identified, it's a strategic play for us, leveraging our portfolio.
+And quite honestly, given our makeup in the mobile business, we think we've got an advantage over just about anybody in the space.
+We are not going to talk about intellectual property strategy, <UNK>.
+But I can tell you that we do the -- we fund the development together.
+We do it jointly, and we both own different pieces of the intellectual property.
+But beyond that, there's not a whole lot I want to talk about.
+I think we -- I will go back and give you some of the comments I gave earlier.
+We think that PC DRAM in the quarter will be down from mid 30%s in Q2 to low to 30% range, and we think that that will signal increases in other areas, such as mobile in the mid 20%, server in the low 20% of our business.
+And so we see a blend.
+It's not just one category picking up for the PC business.
+Mobile will get some more capacity.
+We will allocate some server, some PC business to -- bits to server, and we will look at networking [out of those], as well.
+So that's the full suite of things we evaluate.
+<UNK>, I think in the business, we said basically flat on shipments, and we normally don't say a whole lot more, in terms of future guidance.
+But I think you can suggest, that -- from our other comments around, we're going to do what's right for the business, and drive the right return in margins, and there's not going to be a fire sale, by any stretch.
+Go ahead.
+<UNK>e, <UNK>.
+Let me take that.
+So the data I spoke to in my opening comments was that in Q2, components shipments was -- includes cards and components.
+And that is somewhere around the area of 50% of our overall shipments in the quarter, Q2.
+In Q3 alone, that number will be cut by 30%, as we start to the transition of what you just highlighted, away from component and card sales, to mobile and SSDs.
+Part of that dynamic, by the way, and discussing how this plays out, is we now will be shipping, in the quarter, 16 nanometer MLC qualified drives that were in process, and didn't have that volume in Q2.
+So the move from components and cards to mobile and client SSD, based on 16 nanometer, certainly is a positive move for us.
+As you say, we move up the stack.
+And we continue to drive things like enterprise -- drive both in PCIe and SaaS, as we explained earlier.
+That's how you should think about our target.
+And I mentioned also, I think we gave guidance that NAND bit growth will be flat to down in the Q3 timeframe, as we think about the evolution for 3D manufacturing set up, as well as a switch to some of our (inaudible) towards 16 nanometer TLC.
+We think that all resonates to a better optimized mix of products for our NAND portfolio.
+I think that, <UNK>, it's safe to say that we feel pretty good about our position there, both existing 25 nanometer LP DDR4, as well as our 20 nanometer LP DDR4 offering.
+This is less about Micron readiness, and more about customer demand lining up for the back half of the year and beyond.
+And it looks like we have time for about one more caller.
+Yes, <UNK>, this is <UNK>.
+So we talked, this quarter, about how we were doing exactly what you just mentioned, which was in fiscal Q2, we made some adjustments in our manufacturing line to start positioning equipment for the 20 nanometer ramp.
+These things are always about balance, and certainly the market today is not the market of last year, or the year before.
+We have pretty broad diversification of end segments and customers and products, where we feel pretty good about our ability to move some stuff, over time, if the market demand is not there this quarter.
+Now, we don't know exactly what the market demand looks like this quarter.
+Maybe we end up not holding anything at all.
+We've left ourselves some room to maneuver there.
+But we're trying to strike a balance between what you're suggesting, as well as just building product, and then seeing what the market looks like.
+Yes.
+So just on the R&D piece, there are a lot of different dynamics in play here.
+Obviously, we've got a lot of new 20 nanometer products that we are going to want to qualify and ramp.
+And so we're always wanting to make sure that we don't let the R&D dollar spend get in the way of qualifying products on a timely basis, and getting to the market, as you just suggested we should be doing.
+So there's that dynamic.
+There's also -- I think there is an overlying dynamic of -- as we start thinking about some of these storage class memories that we talked about making investments in, and as we start -- continue to add resources to position the Company to lever system-level products, that there are -- there is a different nature to the R&D spend than there has been historically, as well.
+Over time, we may spend less on some of the other things we spent R&D dollars on.
+But what we're talking about right now, in terms of the next number of quarters being up a little bit, I think it's more related to some of the short-term dynamic around technology ramps and new product introductions.
+And with that, we would like to thank everyone for participating on the call today.
+If you will please bear with me, I need to repeat the Safe Harbor protection language.
+During the course of this call, we may have made forward-looking statements regarding the Company and the industry.
+These particular forward-looking statements, and all other statements that may have been made on the call that are not historical facts, are subject to a number of risks and uncertainties, and actual results may differ materially.
+For information on the important factors that may cause actual results to differ materially, please refer to our filings with the SEC, including the Company's most recent 10-Q and 10-Ks.
+Thank you.

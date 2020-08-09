@@ -1,0 +1,180 @@
+Thank you, Katelyn.
+Good afternoon and thank you for joining today's FICO first quarter earnings call.
+I'm Steve <UNK>, Vice President of Investor Relations, and I'm joined today by our CEO, <UNK> <UNK>; and our CFO, <UNK> <UNK>.
+Today, we issued a press release that describes financial results compared to the prior year.
+On this call, management will also discuss results in comparison to the prior quarter, in order to facilitate understanding of the run rate of our business.
+Certain statements made in this presentation may be characterized as forward-looking under the Private Securities Litigation Reform Act of 1995.
+Those statements involve many uncertainties that could cause actual results to differ materially.
+Information concerning these uncertainties is contained in the Company's filings with the SEC, in particular in the Risk Factors and Forward-Looking Statements portions of such filings.
+Copies are available from the SEC, from the FICO website, or from our Investor Relations team.
+This call will also include statements regarding certain non-GAAP financial measures.
+Please refer to the Company's earnings release and the Regulation G schedule issued today for a reconciliation of each of these non-GAAP financial measures to the most comparable GAAP measure.
+The earnings release and Regulation G schedule are available on the Investor Relations page of the Company's website at fico.com or on the SEC's website at sec.
+gov.
+A replay of this webcast will be available through January 28, 2017.
+And now, I'll turn the call over to <UNK> <UNK>.
+Thanks, Steve, and thank you everyone for joining us for our first quarter earnings call.
+I will briefly summarize our financial results for this quarter and then I'll discuss some of our strategic initiatives and their expected impact.
+In our first quarter, we reported revenues of $200 million, an increase of 6% over the same period last year.
+We delivered $19 million of GAAP net income, up 34% from last year and GAAP earnings of $0.59 per share, up 36% from last year.
+We delivered $32 million of non-GAAP net income, up 42% from last year and non-GAAP EPS of $0.99 per share, an increase of 45% from the same period last year.
+Our scores segment was up 27% over the same period last year.
+Much of this was due to growth in consumer scores.
+But our B2B business is also growing nicely, due to higher volumes.
+Our application segment was up 4% over the same period last year and our tools segment was down 21% due to a one-time favorable settlement last year.
+It's a strong start to our fiscal year and I'm pleased with the results.
+Our topline revenue growth of 6% over last year continues our growth trend and I'm pleased to report that recurring revenues were up 12%.
+As scores revenue continues to grow and we spend our cloud-based business, we expect recurring predictable revenues to be a bigger percentage of our total numbers.
+And as our revenue growth trend continues, we are beginning to see how we can leverage that revenue growth to the bottom line.
+Last year, I talked about some large implementations that encountered cost overruns.
+Those overruns had a negative impact on our margins and masked much of the progress we were making.
+This quarter, by contrast, we drove 6% revenue growth, much of which is very high margin revenue.
+Because of this and our focus on cost controls, we were able to increase our non-GAAP operating margin by 600 basis points and we were able to super-size that leverage by our ongoing program of share repurchases.
+At the same time, we remain focused on driving growth.
+As promised, we're shifting resources towards distribution.
+While our overall headcount is down 22 from last quarter, our quota carrying sales force grew by 23 people to help bring our products to market more quickly and broadly.
+Our sales force will continue to grow as the year progresses.
+Bookings this quarter were up 24% over the same period last year and our pipeline looks strong.
+Demand is growing for Advanced Analytics that enable better decision making and we are committed to marketing our technology aggressively to capitalize on that emerging opportunity.
+While these distribution investments are primarily in our tools and applications segments, we are also pursuing growth in Scores.
+We again delivered significant Scores revenue growth.
+Much of this was on the consumer side where the combination of our Experian partnership and growth from our myFICO business continues to drive our high-margin recurring revenue.
+And we're also growing our B2B business.
+We're seeing two important trends in Scores B2B.
+First, we're seeing increased volumes and originations scores as the macro credit market continues to improve.
+And second, we're seeing significant volume growth in account management scores as customers pull more scores to support their risk management initiatives and customer loyalty programs.
+Finally, we remain focused on expanding our market share in all areas of our business and we remain disciplined in our investment strategy.
+I'll share some summary thoughts later, but now I'd like to turn the call over to <UNK>.
+Thanks, <UNK>, and good afternoon, everyone.
+Today, I'll emphasize three points in my prepared comments.
+First, we delivered $200 million of revenue.
+That's an increase of $11 million over last year, primarily driven by a high-margin recurring revenues.
+Second, we delivered $19 million of GAAP net income and $32 million of non-GAAP net income, which is an increase of $10 million year-over-year.
+Finally, we had $36 million of free cash flow this quarter and our trailing 12-month free cash flow number was $146 million.
+We used $28 million to repurchase shares this quarter and improved our net leverage position.
+I'll begin by breaking the revenue down into our three reporting segments.
+Starting with applications, revenues were $120 million, up 4% versus the same period last year.
+Much of the increase was driven by our acquisition last year of TONBELLER, a provider of financial crime and compliance solutions.
+But we also had a strong quarter in fraud solutions, adding two new Falcon customers and also signed a new collections and recovery customer.
+Our applications bookings increased 24% from the prior year with strong growth in transactionally-based products.
+In the tools segment, revenues were $24 million, down 21% versus the prior year.
+The decline this quarter was driven by a one-time favorable settlement last year related to under-reported royalties on our Blaze Advisor Rules product.
+More important though is our tools bookings increased 9% from the prior year, adding to our backlog of revenue that will be claimed going forward.
+And finally, in our Scores segment, revenues were $56 million, up 27% from the same period last year.
+We're continuing to see very positive trends in both parts of our scores business.
+On the B2B side, we're up 8% versus the same period a year ago.
+As <UNK> mentioned, volumes are increasing, particularly in originations and account management, as we've added some new customers and have also seen existing customers increase the frequency of score polls.
+The B2C revenues were up 88% from the same quarter last year, as we've now completed a full year since initiating our partnership with Experian.
+Looking at revenues by region, this quarter, 76% of total revenues were derived from the Americas.
+Our EMEA region generated 17% and the remaining 7% was from Asia-Pacific.
+Recurring revenues derived from transactional and maintenance sources for the quarter represented 74% of total revenue.
+Consulting and implementation revenues were 17% of total and license revenues were 9% of total.
+Bookings this quarter were $86 million, up 24% from the prior-year quarter.
+We generated $23 million of current-period revenue on those bookings for a yield of 26%.
+The weighted average term for our bookings was 24 months.
+Operating expenses totaled $169 million this quarter compared to $192 million in the prior quarter, which included a $16 million restructuring charge.
+Adjusting for that charge, operating expenses were still down about $6 million compared to last quarter when we had a high cost of revenue associated with certain professional services engagements.
+We remain focused on managing cost tightly while still investing responsibly in growth and we expect our OpEx run rate to be approximately $170 million to $175 million over that next few quarters including amortization expense.
+As you can see in our Reg G schedule, our non-GAAP operating margin was 25% for the first quarter.
+We expect that operating margin to be between 26% to 28% for the full year.
+GAAP net income this quarter was $19 million, up 34% from the prior year and non-GAAP net income was $32 million for the quarter, up 42%.
+The effective tax rate was about 19% this quarter and was positively impacted by a catch-up from the reinstatement of the R&D tax credit.
+As a result, we expect the effective tax rate for the full year to be about 28% to 30%.
+The free cash flow for the quarter was $36 million compared to a negative $5 million in the prior quarter.
+For the trailing 12 months, cash flow was $146 million up 13% from the prior period.
+Turning to the balance sheet, we had $91 million in cash at the end of the quarter.
+Our total debt is $619 million with a weighted average interest rate of 4.3%.
+The ratio of our total net debt to adjusted EBITDA declined this quarter to 2.4 times, below the covenant level of 3.
+During the quarter we returned $28 million in excess cash to our investors by repurchasing 319,000 shares at an average price of $89.11.
+We still have nearly $91 million remaining on our latest Board Authorization and continue to view share repurchases as an attractive use of cash.
+We also continue to actively evaluate opportunities to acquire relevant technologies and products that advance our strategy or strengthen our portfolio and competitive position.
+And finally we are reiterating our previously provided guidance for the fiscal year.
+With that, I'll turn it back over to <UNK>.
+As I've been saying for several quarters, I believe FICO is in unique position with tremendous prospects.
+This year we celebrate 60 years in business.
+We've built a legacy of high quality products that are industry leaders particularly in financial services.
+If there is increasing demand for our IP from other markets, our build-out of the decision management suite allows businesses to take the same decision making capabilities that pour financial services customers have used for decades and applied cutting edge analytics to improve their decisions.
+And our FICO Score continues to demonstrate why it's the industry standard.
+And among both our existing financial services customers and consumers, we are increasingly understanding that the FICO Scores is indeed the score that matters.
+I'll turn the call back now to Steve to cover Q&A.
+Thanks, <UNK>.
+This concludes our prepared remarks and we're ready now to take your questions.
+Operator, please open the line.
+Yes, <UNK>, what was driving originations this quarter is a lot of what we've seen leading up to this quarter, which is the auto scores that are being pulled for auto sales along with more credit card pulls that are starting to appear within the underlying numbers.
+As it relates to account management, we haven't seen a trend of an increase in scores pulled in fact this quarter was one of the largest we've seen in in a number of years.
+And what's been driving that in part is enhanced credit risk management going on within the banks, as well as more and more banks, who are rolling out Open Access programs are beginning to pull scores more frequently in order to provide that to their customers in the form of a monthly report.
+Sure.
+The very short answer to your question is the FICO Score franchise has never been stronger.
+We are -- it's very healthy and what we're seeing is more and more customers coming on FICO, not customers departing from FICO.
+As you know in the US, we have a 90% share in credit decisioning in situations where scores are used and what we are seeing is in the 10% we don't have, we're seeing customers come back rather than departures.
+I'm glad you raised that question because it's worth commenting on some of these recent articles and the discussion with the alternative lenders.
+When we put together FICO Score, our goal is to provide precision, credit decisioning with the most predictive power possible across as larger population as we can and actionable population for our clients.
+And so the FICO Score that we're all familiar with is designed to do that, it's designed to provide a high level of prediction across a large population.
+There are only situations where you can take a very narrow population and find some data set that has high predictive power for a correct decision for a very narrow population.
+And that's not a problem for FICO.
+In fact, we do custom scores for our bank clients and we're happy to use all sorts of alternative data in a custom score to provide a more precise decision with respect to a particular population.
+But when you get into some of these alternative lending situations, you see players who are focused on very narrow populations and so they're looking -- they look at data beyond the trade line data that we tend to focus on.
+Of course, we can look beyond that too and we do, and we're always on the lookup for new and different data sources that can score populations that are previously unscored.
+And so for example, we've launched this FICO score XD, which lets the score on the order of [50 million] consumers who are previously unscorable.
+And that's leveraging utility, payment data, telecom payment data, some rental payment data.
+And although it's not as broad as the trade line data that we use in the traditional FICO Score, it is predictive and useful for a smaller population that wasn't being picked up before.
+So, where we can do it, we do do it.
+I think some of the headlines reflect a bit of a desire by some of these alternative lenders to start controversy.
+We're not really seeing it in our numbers, we're not selling fewer scores, in fact we sell our score to many alternative lenders and those volumes are going up, not down.
+We do have things in the pipeline, but we don't have updates for you at this time.
+We continue to have very good prospect there and we have very strong partnership with Experian, but nothing to announce right now.
+Yes, absolutely.
+I mean, some of it is increasing capability and additional features around our core offering.
+Some of it, there is some amount of international expansion that's going on.
+With Collections and Recovery, what started out as being a bit more of a focus on third-party collections has really broadened, so that we believe we have the premier offering for both banks and third-party, and so there is a broadening there and an expansion of our Collections and Recovery franchise.
+And then B2B Scores, we touched on it earlier, you're seeing some activity that just comes from the economy picking up and more attention to risk management from the banks.
+But also, we believe that banks are pulling these scores much more frequently to support their communication discourse to consumers.
+And so as they put FICO Scores on to bank statements, they are reaching out for scores on a more frequent basis and sometimes for more accounts than they were pulling before.
+Our total, <UNK>.
+I've got to check, give me a second to check.
+We are adding new customers and we are seeing existing customers buy more.
+Although we don't position DMS as a platform when we sell it and we've positioned it as a solution to a problem, the fact is the way it's architected.
+We're putting in a lot of platform capability when we sell the very first solution.
+And so the ability to expand on that and to broaden the solution and to move into adjacent areas for our customers is pretty high, flexible and fast.
+And so we are seeing initial DMS sales, followed by follow-up sales.
+It was just under $6 million a year ago.
+Yes.
+So if you pull that out, you get a sense for where we are.
+Lot of it, <UNK>, was the myFICO Scores in the B2B Scores business along with the Experian revenue as well as fraud and TRIAD revenue that comes through our channels from a -- on a transactional license basis.
+So it's kind of the big products.
+We have been in the market and we continue to view our stock as just a terrific opportunity, especially at these levels, and so you can imagine and expect that we will continue to participate in stock repurchase at these levels in a fairly aggressive way.
+We are though, <UNK>, just as a reminder, blacked out during the period, leading up to our call.
+But beyond that, we're in the market.
+And <UNK>, just to close out on your first question on sales, at the end of this last week, we had roughly 345 people in all of sales and roughly 190 of them are our field sales, quota-bearing reps.
+Headway, yes.
+But we have nothing to announce.
+No, we did not build Affinity into our guidance.
+It's closer to $5 million, it's under $6 million, just around $5 million.
+Yes.
+<UNK>, we built into our guidance, which is the number we reconfirmed today for tools high single-digit and we still expect to get there through a combination of license deals and any SaaS offerings that we sell through the DMS.
+Yes.
+So, on the Falcon deals, those were on-premise deals with some European customers.
+So they were not SaaS, they were sold under the classic Falcon model though on a SaaS basis, we had another strong quarter.
+We had almost $8 million of booked deals across a variety of our products including the collections recovery products and the debt-manager products, and of course the Adeptra product line, which is all SaaS basis.
+Yes.
+It laps.
+What we did is we built into our guidance, the run rate, actually in the year, our fourth quarter, that's what we built into the guidance.
+It essentially laps in our quarter ending in June, which is when we had almost the first full rollout of all of the Experian subscriber base.
+And let's see.
+The other part of your question was do we break that out separately.
+We don't, but I will tell you that our myFICO business grew at very high double-digit rates this quarter compared to last year.
+Yes.
+Well, our fourth quarter last year, the one ending in September, was a record quarter where we had, it was roughly $40 million, $45 million of license revenue.
+So if there is a tough comp, that would be it.
+We do actively market it.
+But as you can imagine, we don't have anything like the war chest that our competitors have for marketing their offerings.
+And so you don't see us on television, for example.
+We are footing the tab for the advertising costs.
+But, we do market it, I mean it's not a hobby, it's a business.
+We're not quite satisfied with the pace and we are pushing to hire and will continue to hire.
+What's happened is we're getting traction with the products and the services.
+We've got this terrific offering and we're really in a mode now hiring as higher in confidence sales people to sell this kind is as quickly as we can and we still have openings.
+Thanks, Matt.
+Thank you.
+This concludes today's call.
+We like to thank you all for joining.

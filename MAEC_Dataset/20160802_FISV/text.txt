@@ -1,0 +1,79 @@
+I'm only pausing, <UNK>, because I'm trying to think about -- we typically don't give much segment-by-segment guidance.
+But I would say that its would be measurable, and probably we'll leave it at that.
+Sure, <UNK>.
+I assume that on the competitive question you were talking about the guys who bought SunGard.
+We don't really compete very much against the SunGard, SunGard asset set.
+That is not strategically aligned with where we're focused in the market.
+So frankly, we have not seen very much change in the competitive market because of that, and I don't see a lot of parallel between, for example, what's going on in the P-to-P space with the Early Warning announcement and our over 2,000 institutions using Popmoney, and what is being done in that larger end.
+So strategically, that's not where we've elected or opted to focus.
+So we'll continue to look for ways to increase the robustness and the relevance of our model, but I don't think you'll see us do something like that.
+As it relates to the non-US side of the market, the beauty of the US market is, it's a relatively singular large market.
+And there are not any other large singularly focused markets in the world, with the exception of probably China and perhaps India, and those markets have nuances of their own that we won't talk about at this point.
+So the challenge for us is, being -- we'd like in some ways have a larger non-US footprint, but we want that non-US footprint to have the high quality revenue characteristics that we look for, and those would be sustainable recurring streams of revenue that have attractive levels of free cash.
+So we continue to use those screens and that's always going to be the constraints to how we think about deploying capital, both in and out of the US.
+Thank you.
+I'll give it a shot and <UNK> will fill in where I have missed.
+I'm going to take the second one first.
+So we have ideas on how the roll-out will go.
+I think there has been some discussion publicly about advertising, and some marketing around the P-to-P services for some of the larger institutions.
+We've seen that going on intermittently, but there seems to be a lot of energy around that.
+And our experience, at least with services such as bill pay, is when you talk about them to consumers, they tend to want to start using them.
+So we would expect to see transactions start to grow, as awareness is raised.
+And perhaps it won't be as -- the velocity won't be the same as Venmo, but frankly we believe that most consumers would prefer to transact in an area that is safe and secure, and through their trusted financial institution.
+And so we're optimistic about how that will turn into growth in the future.
+We would expect that growth to primarily be -- to come through as payment transaction volumes, some services, helping institutions think about how they're going to best position their offerings, or embed some of our technologies in their own unique offerings, if they would like to do.
+There are many, <UNK>, institutions who use our bill pay technology, but they embed it into an experience that's unique to them, and I think we'll see some of that as we move through P-to-P.
+I think it will come through in a lot of different ways, ultimately be through transactions, and either transactions that we initiate or transactions that we accept on behalf of our clients.
+So a little bit more of a gateway nuance on top of the normal end-to-end processing that we do overall.
+And <UNK>, let me just move on to the other half of your question.
+We don't disclose what the size of the mobile or digital business is on a standalone basis.
+We have, at our investor days, we have put wheels out there that give the general sizing, as typically part of our, I think, it's part of our e-payments business.
+It's out there.
+It's a growing, a rapidly growing piece of the business.
+The growth contributions are important.
+And we are -- I would actually venture to say we are even earlier in our mobile journey and our online transformation journey than we are in our EMV journey.
+And that is, I mean, we have significant growth runway to go.
+Most of the pundits believe that we'll see, over the next three to five years, 70% to 80% of banking users be mobile, and that number for us is well, well, well, well south of that.
+So we feel quite good about that.
+And again, I would not underestimate the importance of remodeling the digital experience for online, as well.
+So both of those we think are important.
+And then we did do the little -- the ACI, the Community Financial Services acquisition early on.
+We're just starting to move those client institutions, and ultimately their customers into the mix.
+And we think there's a lot of value to be created there as well.
+Sure.
+Yes, the answer is for the client institutions over time when digital is scale, self service is a much more important piece of the equation.
+And so I do believe that for the financial institutions, they'll see cost benefits.
+For us, the most important part of us getting cost benefits is scaling the platform.
+So the more scale we get in the platform, the lower our costs, unit cost will get over time.
+Again, if you think about -- we supply these technologies to the financial institution.
+They're supplying them to their end customers.
+We will -- we take in -- if we have a core account processing client, we're providing them with support for any one of the 28 different applications that they have.
+I think as humans get more dependent on self service, it could have a derivative impact on us.
+But we haven't thought about that as a way of reducing our costs, but I'll certainly have <UNK> take a look at that.
+I think that at least from our standpoint, one of the reasons why we're so bullish, both for our results this year, but also moving into 2017, is our pipeline, even with the very strong performance, the pipeline is quite robust right now.
+And it's not as geometric as we had a peak in December and a peak in July, because frankly, we did have a slower year, last year.
+We had a very, very strong year in 2014.
+We spent a good part of 2015 replenishing the pipeline.
+But not just replenishing it by adding in clients but really looking at our processes and building what we believe is a more sustainable engine for the future, and ensuring that pipeline maintains at a higher level.
+I would actually say that we have more large transactions in our pipeline right now, even with our closes in July, than we had at the same juncture last year.
+So the values, and especially the probability weighted values are substantially better now than they were a year ago.
+And given some of the momentum that we're seeing, we would at least be optimistic that we would be in even better shape a year from now.
+That's right.
+I can't speak to the exactness of the numbers, but I would say that they're directionally correct.
+One of the biggest swing factors, though, is the termination swing.
+So we're getting, <UNK> -- we mentioned in our remarks that we expected termination fee revenue to be down call it $15 million, $20 million in Q3.
+But we expect to return to normal termination fee levels in Q4.
+So you have that oddity that you have to, I think, normalize.
+Beyond that normalization, we always have a little seasonality in Q4.
+But I think directionally that's why we have a good amount of confidence when we start thinking about how that translates to 2017.
+That's essentially the right way to think about it, <UNK>.
+We'll see better growth in the second half of the year that will more closely approximate the growth in earnings per share.
+And as we pointed out in the opening comments, we expect to be more at than $4.70 free cash flow to shares.
+<UNK>, I think you know pretty well that typically we're running a little bit better than operating earnings in our free cash flow, and then we have the benefit of reduced share count.
+And <UNK> will probably reprimand me but basically in Q2 we had a receivable, we had a build in receivables without any corresponding build in days, and we also had an unusually large tax payment, and those kinds of things we would not expect to recur for the remainder of the year.
+So we would expect to be generally back on track.
+Correct.
+Thanks everyone for taking time with us this afternoon.
+It's always a pleasure.
+If you have any follow-up, please be sure to contact our Investor Relations group.
+Have a good evening.

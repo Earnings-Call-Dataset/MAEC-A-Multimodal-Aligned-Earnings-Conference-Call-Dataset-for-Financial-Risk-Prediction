@@ -1,0 +1,139 @@
+Sure.
+Let me see what I can tell you on that.
+First of all, I want to remind you that Q3 is typically a lower operating income quarter as we're preparing for the Q4 holiday peak.
+The other dynamic is that similar to last year, a large percentage of our new fulfillment centers are coming online in the second half of the year, a lot of them in Q3.
+So to give that some perspective, the Amazon-Fulfilled Network or the combination of retail and FBA shipments coming out of our warehouses has been nearly 40%.
+It was that last year and it's continued through this year.
+Last year, we added 30% additional square footage to handle that additional shipping volume, and about 80% of that went in to service in the back end of last year.
+That's what I mentioned about this time last year.
+The -- similar dynamic this year.
+We're going to have about 80% of our increase in square footage for fulfillment and shipping coming online in the back end of the year.
+So that's a major increase.
+The other comment I would make is on the content -- video content.
+Video content, last year I highlighted the fact that it was going to be a significant step up between first half -- second half of 2016 and the second half of 2015.
+We are still -- we lapped that most of the first half of this year, and we'll also be increasing video spend on a sequential and year-over-year basis in Q3 and that's included in this guidance.
+Other than that, I can't give much more specifics except to say that the large investment areas remain increasing fulfillment capacity to service the strong growth of the FBA business.
+I'll also point out that the strong usage growth at AWS has led us to a step up in infrastructure in the form of capital leases.
+We've built capital leases in the trailing 12 months.
+They've increased 71% through the end of Q2 versus last year.
+That is servicing -- accelerating usage in our largest AWS services as well as geographic expansion.
+So that's additional factor sequentially in the quarter year-over-year.
+Sure, <UNK>.
+First, as far as Whole Foods is concerned, as <UNK> mentioned, it's not included in this guidance since it hasn't closed yet, but we are excited about that acquisition and looking forward to working with the team at Whole Foods.
+We think they're very customer-centric just like us.
+They've built a great business focused around quality and customers.
+So we're really glad to join up with them.
+On your larger question about with the place of AmazonFresh, that include Prime Now and some of our other efforts, I would say we believe there will be no one solution.
+So we're experimenting with a number of the formats, from physical pickup points in Amazon Go to online ordering and delivery to your door through Prime Now and AmazonFresh.
+And we'll see how customers respond.
+We like the response that we've seen so far.
+We think they're valuable.
+All those are valuable services.
+Amazon Go is not out of beta, but the other ones are.
+On top of that, we're looking forward to adding the Whole Foods team and their great reputation for quality and customer service to this offering.
+Sure.
+As far as Q2 is concerned, we were very encouraged by the revenue and unit growth acceleration, particularly in North America.
+We see that as tied to the Prime growth and the adoption of Prime and success of that program.
+Also point out that AWS stepped up its run rate from a $14 billion run rate last quarter to $16 billion.
+So we saw the largest quarter-over-quarter and year-over-year increase in revenue in that businesses as well, and gross margin expanded 130 basis points.
+So as you point out, the year-over-year difference is primarily driven by investments.
+The -- we're within the guidance range, and we continue to invest in, as I said, fulfillment capacity and logistic services, digital video, our Echo and Alexa -- Echo devices and Alexa platform, India, the buildup at AWS infrastructure, all the things I mentioned, not to mention Prime Now and AmazonFresh and Prime benefits.
+We did see a big jump in headcount in year-over-year.
+You'll see it's 42%, and in the past I've said most of that is driven by operations hiring.
+And I've even said that headquarters office hiring many times in the past was below the level of revenue growth.
+Right now what we're seeing is an accelerated growth rate in software engineers and also sales teams to support primarily AWS and advertising.
+So yes, those -- the growth rate of those 2 job categories actually exceeded the company growth rates.
+So we are adding -- having success hiring a lot of people and pointing them at some very important programs and customer-facing efforts.
+On the place of physical, again, as I mentioned in the earlier question, we are experimenting with a number of formats.
+You've seen the physical bookstores, and I would say that the benefit there is -- again, we have a curated selection of titles and it's also a great opportunity for people to touch and feel our devices and see them, especially the new Echo devices.
+I went into the store in Seattle last week and I saw about 1/3 of the people were standing around the device table, learning how they work, how they interact with the devices.
+So I saw firsthand the customer experience.
+I think that's where we're seeing the benefit to the physical stores right now.
+Yes, let me start with the second one.
+So yes, we've had numerous price increase -- or decrease, excuse me, and we continue to have that in the AWS business, both absolute decreases in service costs and also rolling out new services that may be cannibalizing more expensive, other services that we provide.
+So nothing really to note on Q2 or Q3 from that standpoint.
+The fulfillment investments, I can't split it out for you between Amazon Logistics support sort centers and fulfillment centers.
+What I can say, the biggest dynamic going on, again, is that Amazon-Fulfilled unit growth of nearly 40%, which was last year and carrying it to this year.
+It's a global number, and we are very glad of the success of the FBA program.
+We're matching that with just over 30% increase in square footage.
+And yes, you're right, that does include some shipping sort centers and things that are incremental and new functions for us, if you will.
+But that's about all I can say on that right now.
+I think we're very happy -- we're very happy with the FBA program, its impact on Prime and we think Prime and FBA are self-reinforcing.
+We know customers really like it, the additional selection that FBA provides.
+So we like those combined, and we are working very hard to match that with capacity in an efficient manner.
+Sure.
+On the price of Prime, I have nothing to add at this time.
+We think that the -- we're increasing the value of the Prime program every day.
+So it becomes more and more valuable and again, as we've said, it's the best deal in retail.
+On AWS, yes, the -- we are seeing great customer adoption.
+The -- again, as I've said earlier, the run rate's gone up from $14 billion to $16 billion in Q2.
+And also, we had the largest sequential and year-over-year dollar rise in revenues.
+Our usage in all of our large services are actually accelerating, so -- and they're growing at a rate higher than our revenue growth.
+So we're seeing great adoption.
+We are seeing AWS customers migrate more than 30,000 databases over the last 1.5 years.
+We've signed some very big customer wins like Ancestry, Hightail, California Polytechnic State University and others that we're very proud to have.
+So yes, the momentum in the businesses is very strong.
+We continue to open new regions.
+We'll be opening 5 regions in the near future in France, China, Sweden, Hong Kong and a second government cloud region in the east.
+So yes, we like the momentum in that business.
+Stepping back, I would say that where pricing is important, again, we're generally being selected because of our functionality and pace of innovation.
+The innovation keeps accelerating.
+It did in the first half of this year, the pace of new services and features.
+We also know that customers value our partner and customer ecosystem, and really the experience we've had.
+We've been at this longer than anybody else.
+Sure.
+Those margins, as we say frequently, are going to fluctuate quarter-to-quarter and always going to be a net of investments, price reductions and cost efficiencies that we drive.
+So I would say the biggest impact in the margin that you're seeing in Q2 is really around the 71% increase in assets acquired under capital leases.
+Most of that is for the AWS business.
+So we've really stepped up the infrastructure to match the large usage growth and also the geographic expansion, and that is showing up in tech and content.
+On the marketing, if you look under the marketing expenses, they are also up and that is driven by the increases we're seeing in the sales team, both in AWS and advertising.
+So I would point to those 2 as probably larger-than-normal impacts on Q2 operating margin.
+Sure.
+Let me start with your second question.
+On the subscription revenue, grew 53% year-over-year versus 52% in Q1.
+So yes, we continue to see strong Prime membership growth.
+That is the main thing.
+There's also, in that line item, are also other monthly fees associated with some of our other subscription services like audiobooks, eBooks, digital video and digital music.
+But again, I would say that we're very happy with the Prime membership growth, and it remained pretty consistent both in Q4 and then through Q1 and Q2 of this year.
+On your second question on Prime Now, so Prime Now is now available in 50 cities across 8 countries.
+We do learn something new in every city and have different -- slightly different shapes and sizes of those buildings and different density profiles.
+And so we are learning as we go.
+We learn as we grow internationally as well.
+That is a service that customers love.
+That's not an inexpensive service though, and we also have -- so we're constantly working on our cost of delivery and our route densities.
+And again, we like what we see, and we'll continue to expand that and we'll be working very hard on making that not only a valuable Prime offering, Prime benefit, but also lower-cost operation as well.
+Sure.
+Yes, it's early on the Echo Show.
+As you know, we just started shipping those in late June, but we're very excited about the potential and the additional -- the addition of the video screen and the messaging capability and video capability.
+So it's -- I've used mine and it's awesome.
+It's a big step up, in my mind, but we'll get more customer feedback as we go along.
+On advertising, technically, what I said is the sales force has grown higher than the rate of growth in the business itself, which was 42% regular headcount, and that sales force is primarily AWS and advertising.
+So we build self-service tools and obviously that we want to make those as efficient as possible for customers and advertisers, but we realize it will need actual sales contact with accounts as well.
+So it's a mix.
+I can't get into the split really, but I would see both growing.
+Sure.
+I'll start with the second one.
+Yes, as you noted in the press release or the 8-K, we had an absolute step up from Q1 of $792 million to Q2 of $1.2 billion.
+So it increased 51% year-over-year in Q2 versus a headcount increase of 42%.
+I'll also say that we generally see a step up from Q1 to Q2 because we do our employee RSU grants in Q2 of each year.
+So that's a normal trend.
+But the 51% year-over-year is also -- is a combination of the hiring we've done, but also an adjustment we've made to our estimated forfeiture rate.
+We're seeing less forfeitures, which is a great sign for our employee retention, but you have to make adjustments to your reserves as you see that.
+So that was another influence in Q2.
+On operating margins internationally, I'd step back and say, we -- a lot of the investments we're making in North America, we're also making in international: Prime benefits, including Prime Video and remember, we launched global video in Q4 of last year to 200 countries; Prime Now; AmazonFresh; the general rise of FBA and added selection, both retail and FBA, to make Prime more attractive and the fulfillment and logistics costs that go with that, any additional constant effort to reduce prices and accelerate shipping.
+So that all impacts both North America segment and international.
+The North America segment is a little further along in the Prime -- or excuse me, yes, the Prime membership growth curve.
+And so in some respects, we are giving benefits earlier in the life cycle to international Prime customers than we did in North America just because it launched later.
+And then there's also India.
+As I mentioned, we continue to invest in India.
+We're very hopeful with the progress we've made with sellers and customers alike in India, and we see great momentum and success there.
+So we'll continue to invest, and we have some of our best people in that business.
+I'm sorry, what was the first part of your question.
+No, nothing.
+In that other line item is advertising and also other things like co-branded credit card agreements.
+I would say that the main -- excuse me, advertising revenue growth has been strong and fairly consistent over the past 3 quarters.
+So that number will move around, but there's other things that more the variance in the volatility as in the other line items.
+Your question on stores.
+We are -- again, I personally think that new devices -- the ability to see new devices is a great asset, but I don't want to shortchange our -- the rest of the bookstore and the ability to have curated selection and the creativity we've had in taking a new look at the bookstore.
+So we are experimenting with different formats, and we look at different sizes and we look at revenue and cost per square foot just like any other physical retailer.
+So we haven't essentially nailed the model yet, and we continue to experiment and see what works and how it differs by city or more suburban locations.

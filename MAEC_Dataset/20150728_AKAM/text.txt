@@ -1,0 +1,196 @@
+You know, Octoshape has some really strong technology.
+First, when it comes to ingress of live video, where it comes from a single point -- and that means you have a single point of failure.
+So you really want to be sure that you get that live video stream at high quality, at high throughput, and there's no interruptions.
+And they have some very good communication protocols for that and some very good technology there.
+They also have some excellent client-side technology, which is used in the video players for both watching events on the Internet and also watching events inside an enterprise.
+And that technology allows you to do it at a lower cost point and also higher quality.
+You know, they've been at this for a long time, and in our judgment had done some very special things that we are now integrating into the Akamai platform.
+Some are already benefiting us and some will be part of our next-generation video solutions.
+Well, certainly I mentioned that we did absorb the acquisitions in Q2, and so we have a full quarter impact in Q2.
+But in general, for EBITDA -- I would say my caution or my statements were more driven by making sure people have a consideration for what obviously is going to affect EBITDA.
+We're making in particular some pretty significant investments in the network buildout, which we believe are the right business decisions for the Company.
+And while I believe we can operate the Company in the 40% to 41% range, I also want to be mindful of the fact that we are not going to not make the appropriate investments in the business that we believe are the right business decisions for the Company in the medium-term and the long-term.
+And there's a bunch of things that can affect that, as you know -- that the media business in particular can have variability.
+And so if traffic volumes downtick a little bit, you are going to be at the lower end of that range.
+And I just want to make sure that I'm signaling that we intend to operate in the 40% to 41% range.
+There are variables that could affect that.
+I mentioned a couple of them.
+It could be network buildout being kind of more substantive.
+It could be an M&A that we think is the right M&A.
+And if it is an M&A that is dilutive to the EBITDA model, but we think it's the right strategic decision for the Company, then we are going to do it.
+But I would say what we see right now, <UNK> -- I think we can operate the Company in the 40% to 41% range.
+Yes.
+You know, it's growing in the low to mid teens.
+We'd like to see it grow faster.
+And we are putting a lot of development effort in terms of innovative capabilities around mobile acceleration.
+That's an area that is particularly challenged in terms of performance.
+And as you start to see the majority of use cases in transactions now moving to mobile, it becomes increasingly important to our customer base.
+You see the rapid adoption of mobile apps.
+And that's an area we are making investments in.
+And we would like to see that area grow faster.
+Yes, I'll take that.
+You know, I don't think the regulatory environment has anything to do with an expectation about traffic growth rates whatsoever.
+So I'm not quite sure what you are referring to there.
+But I would say that we have certainly talked about -- a long-term model for the Company is that we believe that we have an ambition to hit $5 billion by 2020.
+And if you do the math on that, it means you need to grow the Company around 17% on a compound annual growth rate.
+And we have a pretty broad portfolio between media, Web performance, security, and some of the new emerging areas with the carrier and also in cloud networking that -- we might not necessarily get the pieces right, but each of those areas are growing significantly -- that we believe the combination of them is more than enough from a market opportunity perspective to grow the Company at 17% if you look through kind of the first several years of the decade -- and we've been able to do that.
+And our expectation is if we execute well, that we are certainly not market-opportunity constrained.
+This is about execution.
+And I think with the combination of offerings that we have, that with good execution, I think that those aspirations still make sense.
+I don't know.
+I would say that it's all about rate and pace.
+You could see an uptick in that for a period of time.
+I think the media business does have variability, as we've said.
+So I think that could fuel the media business.
+And, yes, I guess if you hit it on all cylinders, and the media business starts to accelerate because of over-the-top, and we get an acceleration and continued growth in security in our performance businesses, and we start to get traction in the newer emerging businesses, you could.
+We are not calling that, because we know that across all of our portfolio that we think there's enough that -- if you look at the -- if you flawlessly executed against every single area, yes, we could.
+But I think what we are calling is that in general, we think 17% on a compound annual growth rate is probably where our aspiration is.
+We'd love to do better.
+Yes, the partnership is strong with Cisco.
+As you know, we launched -- or they launched -- Akamai Connect, which is software, Akamai software, that's on their new branch office router.
+There is customer adoption there in their sales.
+The product works very well.
+I would say it's been a slowish start there.
+We'd like to see stronger adoption.
+And Cisco is actively working towards that.
+With OTT, yes, I would say there is a fair amount of uncertainty.
+And that -- usually the buildout is at least a couple of quarters ahead.
+And then you have to see: are the services launched.
+Do the subscribers buy the service.
+It takes time for that, so it can extend beyond a couple of quarters.
+At this point we are engaged in purchasing CapEx and doing buildout for 2016.
+And it's hard to know exactly if and when the services get launched and the adoption takes place that drives the traffic.
+There is a lot of buzz out there.
+There is excitement.
+I think a lot of folks in the industry think that this is going to start happening more.
+But it's hard to say exactly when, and that's certainly outside of our control.
+But we want to be ready to support our customers as they make those decisions and as they do get adoption.
+I will take that.
+I mean, as I mentioned earlier -- and I even mentioned it in kind of our prepared remarks -- that traffic volumes are really driven by a bunch of things, but most notably they are driven by the timing and size of game releases, software updates, the introduction of new features on social media platforms.
+So it's not just the consumption of social media, but it's also the introduction of new capabilities that get offered -- as well as, obviously, what <UNK> had referred to, which is beyond over-the-top, just ongoing video delivery services.
+And I would say last year what you had -- it was pretty much all year, to be quite frank.
+We had a 4-for-4 on all about of those.
+Every quarter seemed to be some large, chunky gaming releases; large software updates.
+We saw introduction -- not just more people consuming social media but introduction of new features on social media and continuing growth in video delivery.
+So across all those areas is what fueled last year's media business to grow 21%.
+So we kind of said you are probably not going to grow the media business 21% every year.
+We just grew the media business 16% in Q1 and 17% in Q2.
+So pretty darn healthy growth rates off of what were very strong growth rates last year.
+So we are very pleased with the growth rate in the media business.
+Yes, you are going to see a little bit of a moderation in Q3 of this year.
+I think we are not worried about it, because traffic volumes can vary.
+I don't think the trends in kind of what drives that business have changed.
+It's just -- you are going to go through a period here where it's just a little bit lighter than maybe it was last year.
+And as I mentioned earlier -- someone else had asked: it's too early to call Q4, because a lot of things can happen in Q4.
+But I want to make sure we are clear that we are very bullish on the media business.
+And just because it's going to moderate here a little bit in Q3, I don't think it's a sign of the health of the business at all.
+Yes.
+I think as a longer-term growth opportunity, it is very large for us.
+That's why we've been placing significant investments to develop products there.
+They are focused in two particular areas.
+The first is for enterprise networking -- to enable an enterprise to have greatly increased and improved connectivity into the branch offices, both using its WAN and also using the Internet.
+And, also, to be able to do that at a lower price point.
+Many enterprises today need 10X the capacity they've got into their branch office -- maybe even more, as enterprise employees need to access video, to access the Web directly without having to go back through the WAN into the central data center.
+And as they increasingly rely on the Internet, they need it to perform really well to do their jobs effectively.
+And enterprise networking is very expensive.
+And this is an area where I think we can really help.
+And our first offer there is Akamai Connect; actually, it's offered by Cisco.
+And we are working on additional offers that we hope to bring to market next year to further improve the capability of enterprise networks to be faster, more reliable, more scalable, and more cost-effective.
+The other area, which we talked about a little bit before on the call, is with enterprise security.
+And here, sort of two factors -- one is the enterprise is a huge target today.
+People trying to steal confidential information, spread viruses, do very bad things.
+And we've all read the headlines of the consequences of some of those bad things.
+And the other aspect is that the enterprise is becoming more and more vulnerable, because the employees are accessing the Internet more and more to do their jobs.
+So as you access the Internet, you need to be able to secure the enterprise from attacks coming in through the Internet.
+This is an area where we've got great expertise and have enjoyed a lot of success with the Internet side of this with our Kona Site Defender, our Web app firewall, stopping DDoS attacks.
+And what we want to do is now bring that capability into the enterprise to defend the enterprise employee and the enterprise infrastructure against attacks.
+So whereas our existing products, like Kona Site Defender, defend an application from bad things happening, now we would like to defend the enterprise and the enterprise employees from bad things happening.
+And so those are the two areas we are focusing on for our enterprise products in the future.
+And I think the market is going to be incredibly large there.
+And they can be very important for Akamai as we move later in the decade.
+It's been going well.
+We do have an overlay force, and we also train our existing sales force in security.
+Our goal is that every rep -- whether you are a specialist or not -- should be able to sell security.
+We are not there at 100% yet, but we have had good traction with security sales.
+And as you can see, being up 44% year over year off a number that included all of Prolexic is something that we were very happy with.
+And now, going from near nothing a few years ago to over a $200 million trailing run rate -- again, we are very happy with that.
+That's a reflection of the success that the sales force has had in learning how to sell security.
+It takes a lot of effort, and not everybody has done it.
+But as a company we've had real success there, and that's great to see.
+I'll take that.
+It does obviously create a tough comp.
+The channel business is actually growing faster than our direct business.
+And it grew faster than our direct business this quarter as well.
+It's decelerating, but it's decelerating from, I think, a very, very high base.
+We signed up a -- all the partners that you mentioned, in particular the carrier partners -- they are still our fastest-growing channel.
+As I mentioned last year, one of the drivers of our growth rates last year in the channel was that in order to get some of these channel partners -- the carriers in particular -- we ceded some of our direct customers to them.
+And so some of the growth rate that you saw last year was ceding them direct customers -- that they were actually able to grow even faster than we were able to grow on our own by expanding kind of further offerings into them, just based on their relationships with them.
+So yes, you are going to see a deceleration in the channel growth rates.
+But we are very pleased with the performance in the channel -- and, in particular, pleased with the performance of our carrier partners in particular.
+No, no.
+I don't -- I think our EBITDA range reflects the fact that if you are going to have a higher weighting of media revenue, you will obviously potentially be at the lower end of that range.
+But our media margins actually are very, very strong, as I share kind of annually.
+Media EBITDA, media free cash flow are very, very strong for the Company.
+So I don't think it changes.
+Plus, you have to be careful that -- you know, we are in 2015, and the model is 2020.
+So a lot can happen between now and then.
+So yes, over-the-top is likely to gain traction.
+But we are hoping that we are going to gain traction in other areas as well.
+So I'm not prepared to call that our media revenue mix is going to increase exponentially, because I think we have growth opportunities outside of media as well.
+Okay.
+I'll take those.
+First, with DSA -- DSA is a very successful product.
+And it has been growing substantially.
+Now, what we are focusing on with DSA and with Ion Standard, which we launched last year, is making it much easier to use; making it be self-configurable so that it's a more rapid sales process, and customers can buy more of it more easily.
+With the Ion Premium offer, that's focused on really making it be superfast.
+And as I mentioned before, we are investing heavily in the mobile environment, the cellular environment, where it's especially hard to get good performance -- and where that becomes a lot more important as you have more mobile apps and more transactions going online to mobile devices.
+You know, with OTT, looking forward, as I said before, it's really hard to say for sure exactly when the various packages and offers will be coming online and predict how fast they will be adopted by subscribers.
+As we look forward to the future now, we are confident enough that we are making the investments.
+You start to see that in our financials.
+And as we look towards the potential revenue, I think 2016 seems like a promising time.
+But there's risk there.
+It's just impossible to say exactly when these offers become available and how fast the adoption will be.
+Okay.
+So I think there is some -- it's not cannibalization per se, but as you see such great traction with security, and it's the newer thing, yes, it does take more of reps' interest.
+We've got a lot of focus on training there.
+And so I think it is possible that that's -- you know, you see such great growth there.
+And actually pretty respectable growth -- we'd just like to see it better with the performance products and DSA.
+And in terms of the product refresh, we launched Ion Standard and Ion Premier at the end of last year.
+We've had strong adoption there.
+Ion Standard is all about ease-of-use, rapid adoption, self-integration.
+And then situational awareness, so it works in any environment with websites -- whether you are accessing it with a mobile device or off a desktop.
+And with Ion Premium, really focused on really fast performance -- you know, everything you can do to make the website be faster: front-end optimization, adaptive image compression.
+So a focus on the ultimate in speed.
+And as I mentioned before, there's a lot of focus now on development around other things we can do for mobile devices, especially in the cellular environment.
+So the product -- you know, the DSA is an existing product we've had for a long time.
+Great product.
+Ion Standard and Premier launched at the end of last year, and we are making improvements to those products now.
+Yes.
+China is an important market for us.
+Obviously, a very large market.
+And for our customers it's important.
+So we do a lot of delivery into China for our customers that are based outside of China.
+We do a much smaller but reasonable amount of delivery from customers in China to users outside of China.
+An area that we've not really tapped into yet is for domestic delivery for domestic businesses in China.
+That's a large market.
+And it's a market we hope to explore with partners.
+As you know, we have announced relationships with CT and CU.
+And we'd very much like to work with the major carriers and the major partners in the region that do have licenses.
+And that's really the only way we can go to market inside of China, being a non-Chinese company.
+I would say we are very happy with the relationships that we have and are establishing with the world's major carriers.
+And as we talked before about the competitive situation -- and I think that's one area that there has been substantial change; you know, you go back four or five years ago, and many of the world's leading carriers were either directly competing with us, or they had a do-it-yourself effort that they were using as some kind of CDN.
+And many of them have now changed.
+The internal effort maybe didn't work out as well as they hoped.
+The competitive efforts weren't as successful as they hoped.
+And they have decided to partner with Akamai instead.
+And we've been very pleased to see the progress with those relationships as that's happened.
+I can think of one large domestic carrier that used to be very competitive with us and is now one of our largest resellers, and a very happy partner with Akamai.
+And that's really critical, I think, as we go to the future, because a lot of the people connect through the major carriers.
+A lot of the enterprise do their business with the major carriers.
+And it's great for us to have such a strong relationship with the world's major carriers.
+Yes.
+I would say that we are continuing to make investments across the business.
+So it's not just sales.
+As you know, we made very, very significant investments in the sales force over the last several years.
+And so you can expect that probably the rate of sales adds is going to kind of moderate here.
+But you can expect that across the business, we are going to continue to make investments in the business.

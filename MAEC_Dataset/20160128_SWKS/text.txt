@@ -1,0 +1,93 @@
+I think it's clearly, there's been a disruption in the December and March timeframe, as a very large flagship phone model has seen the numbers come down and we're working through that.
+And I think that from my standpoint, any inventory correction in the systems should be gone in the June quarter and we ought to be off to the races in the second half of the year
+Sure.
+The broad markets business has been doing quite well, we're up about 12% year over year in Q1 and will continue to be a team level or higher growth rate into the calendar year.
+So what we're seeing is really a wide variety of applications in the broad portfolio.
+We've got some great IoT programs that go into set top box and streaming media, in many cases, $10 to $12 per box, Wi-Fi switching, ZigBee technology, there's a connected home opportunity now that's really playing out, got some great content there.
+And one of the markets that we're excited about now it's early innings but we are seeing some uptick in automotive.
+We're starting to see high-end LTE telematics applications.
+We've got design wins in vehicle-to-vehicle communication.
+We've got customers like GM, like Volkswagen, Continental, so that's a market that we think will do very well for several years, and the opportunity there for us is outstanding.
+So that's a little color and where we are, but broad has been growing quite well and quite steady
+Thanks for the question, <UNK>.
+Despite the backdrop right now, when you look at -- the model for us is absolutely intact, you look at the drivers we're making -- continue to make progress on the gross margin front.
+Volume will have some impact on that in the short term, but we're continuing to drive that.
+We know disciplined OpEx investments, we know how to measure those to manage that very effectively.
+So when you roll all that together, once we get through this [pause] that we're seeing right now, when we get into the back half of the year and beyond, we see an opportunity to get there in a couple of years.
+And by the way, we are not at -- what we delivered, we are not at the OpEx target, because the model will be in the low 40s.
+We're not quite there yet so we got room to run.
+That's a fair question, but you got to remember that those are averages to assume over a period.
+There are events that happen quarter to quarter that can move those.
+And what happened in those quarters, there were multiple things.
+We were seeing some benefit from the filter asset in driving cost down, we had new product launches, all of those things can create a short-term step function that moves you in a different spot.
+But sustaining 75% that's off the charts; 60% is very, very good.
+So modeling 60%, you'll see you get a very, very good answer.
+Sure, Tony.
+With respect to Samsung, yes, we actually are seeing some improving conditions at Samsung.
+We should be up in the March quarter.
+We've got some new design wins that will be ramping with the GS7 platform.
+And we're actually -- reiterating what David said about content and SkyOne and filters, we're seeing Samsung really now [soft] in earnest, some of these content-rich solutions, not only on the transmit chain but also on the receive side.
+So that's a move up for us that will be sustainable.
+Samsung is our number two customer.
+We've got a great relationship there, so you should expect some solid results through the year.
+CapEx, <UNK>.
+Yes, CapEx we've talked about that a little earlier, $79.5 million for the quarter, and we're just recommending there will be a couple of quarters we'll be real close to the depreciation of around $50, and it might go up a little as we get in the back half with volumes going up.
+And there may be some more investments that we make, so that's the way to think of it.
+Thank you.
+That's calendar, just remember that.
+Yes.
+That's a great question.
+Clearly, for today, we're doing low band and now mid-band.
+We're well up above 2 gigahertz with great performance using temperature-compensated devices.
+I think BAW technology, what it will do for us in that 2017 timeframe will open up the high band, the very highest band in some of these pad configurations.
+I think that'll be very good for us.
+We'll be able to have the enviable trade-off between using SAW, temperature-compensated SAW in both devices and using the right application for the function.
+Because if you look across the world today, most world phones, smartphones don't use BAW technology; they have a different configuration or a different band line up that doesn't require it.
+But for those customers who are looking for a low, mid, high, very high performance, truly a world phone, what BAW will do will open up high band for us in which we don't participate, market we do not participate in today.
+So it will increase our TAM and we'll there by 2017.
+I would say that the increase over the last couple years and for the next couple of years on the RF side in smartphones or mobile is probably equally weighted between filter-enabled devices, receive and transmit, and other functionality that we talked about, which is voltage regulation, power management, receive technology and higher performance Wi-Fi and the like.
+So I'm going to just broad brush it and tell you roughly equal growth within mobile coming about through filter-enabled solutions and coming about through other system-level blocks that we didn't previously address.
+And to add to that, I think one of the real unique characteristics of what we do here, and we talked about in this call, is our ability to integrate.
+So it isn't just taking the filter and taking the amplifier and integrating it; there's a lot of unique Skyworks DNA that develops these engines.
+They're highly customizable.
+Each baseband partner, each OEM we configure to their needs.
+We look at their current budget, we look at what they need to do in terms of bands.
+We look at the filter technology wanted to deploy, and all that comes together, and it's worked out great.
+And the TC capabilities that we have today are unbelievable, they're world-class manufacturer.
+In this last calendar year, we manufactured about 1.5 billion TC SAWs, all of which were consumed by our integrated systems.
+So we're very bullish on that concept and we'll continue to use the best technologies to win.
+I think, <UNK>, similar to what we've done in the past, we're always looking for, if you think about the power management acquisition that we did through AATI or SiGe or the Panasonic filter capability, they all do two things for us: they gave us a much bigger target and more relevance at the system-performance level for our mobile customers and they also opened up new target markets and gave us opportunities within IoT.
+So we would continue to look at that, whether its cloud-based computing, whether it's machine to machine, whether it's being able to do more at the IoT sensor MCU RF module capability.
+We see those as being attractive, surgical, strategic, accretive deals.
+Sure.
+The broad market business, it is actually quite diversified.
+I would say the strongest elements are around the streaming media, the Wi-Fi integration, connected home.
+We have just a large roster of design wins in that part of the space, and we're also seeing, and if you look at some of the tear downs of these boxes, we're seeing three-by-three streams, which will triple our content.
+And so you get $10 to $12 per box.
+We're in markets like DirecTV, Technicolor, some of the Neatgear routers.
+Those are just examples, so that's a real strong area.
+And there's a lot of upgrades to go here in the US and in developing markets, so we like that.
+Connected, home, I mentioned, some of these appliance opportunities, customers like Nest, lots of names like that.
+Automotive, relatively new.
+You have not only the traditional IoT applications like Wi-Fi and Bluetooth, but you have a telematics play there.
+And then the other space that has been a bit quiet but we do think will turn is (inaudible) infrastructure.
+We have a great deal of content with companies like Nokia Siemens, Ericsson, Huawei, and we do see that getting a little stronger, probably back half of 2016, a little bit soft so far but it's another market where we have some solid designs.
+And margins, the broad markets category is by far our highest.
+Margins in those average 55% plus on the application market, but those are our highest products.
+So as that percentage goes up it's always for Skyworks.
+I think that's a little difficult to answer right now.
+I think you should expect that the adjustment that's occurring in the late December through the March quarter and into maybe into June a little bit will then be behind us, and that's an unnatural event.
+And so as I say, as we stated in the prepared comments, we think that the second half of calendar 2016 looks very strong.
+And it's not wishful thinking, it's more designs that we're filling both in the mobile and on the broad market side.
+That as we fulfill those orders, you'll see an uptick in revenue that's pretty substantial.
+No, it's our normal approach.
+I think we do an excellent job of forecasting.
+It starts with our sales marketing team and how they -- the information they get from customers, distributors, and OEMs and we always are able to that and translate that into the right kind of revenue projection.
+So it's our typical process; there wasn't any new magic involved in that.
+Absolutely, our roster in China certainly includes QUALCOMM, MediaTek, quad core, opticore designs, great position there, higher-end 4G LTE, Hisilicon, which is the in-house brand with Huawei.
+And then Spreadtrum as well, you're right.
+TDS, CDMA, another opportunity.
+So they're not the biggest driver for us, but they are important and they're very specific to the China market.
+We're seeing improvement out of MediaTek, and it's a very high-end content rich engines that we enjoy.
+And the Hisilicon-Huawei partnership has been quite strong, so we have got a well-diversified set of products and programs, very different for each one of those partners, but we're engaged with each of them.
+Well thank you everyone for your participation and for listening, and we look forward to seeing you at upcoming conferences.

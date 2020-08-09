@@ -1,0 +1,186 @@
+Thanks, <UNK>.
+On the auction, let's just -- I'll keep this one short on the incentive auction because of a lot of rules around what I can and can't say at this point.
+But we will participate in the auction and I will leave it at that.
+But thinking about spectrum overall, I think we have to think about the 600 megahertz which I've talked about previously and how that fits to our portfolio.
+We think ahead to 5G.
+As we said, we will be at the forefront and we are currently at the forefront globally talking about standards.
+We will be the first company to roll 5G out in the United States and we are currently preparing for those field trials.
+The other thing I would say about 5G is we would hope that the FCC moves quickly to adopt the rules to facilitate 5G deployment.
+Think about 5G, it may not just be about mobility.
+It may be about other use cases; it's not just about mobility.
+Then when we think about the unlicensed opportunity, if you were at the Consumer Electronics Show these past two weeks, there were multiple manufacturers who were running side-by-side comparisons of unlicensed, if you will, LTE or unlicensed spectrum utilized by an LTE carrier right next to Wi-Fi.
+It absolutely shows no interference, which is some of the rhetoric out there, and it actually showed that the comparability is it improves the Wi-Fi performance by having a managed unlicensed within the LTE carrier.
+Again, this just goes to continuing to work with the FCC and having them see through the release and usage of unlicensed for the LTE carriers.
+Then, of course, we will continue to utilize the secondary market as we do quarter in and quarter out, utilizing swaps, which we just completed this past quarter.
+We're working on another swap that we will complete in the first quarter.
+And also minimal buys in the marketplace with smaller holders.
+So that's how we think about the whole spectrum asset perspective.
+On the sale of assets, as Lowell and I have continually stated, we will always look for opportunities.
+The data centers is an exploratory exercise to see if the asset is more valuable inside or outside the portfolio.
+I view that asset similar to the way we view towers.
+Is there a way to monetize this asset that contributes value to our shareholders and gives us the capability to move that capital into higher-returning assets for Verizon.
+There is no decision that has been made.
+This is exploratory and as we explore, if the numbers come out like it did on towers, then we will execute on a transaction.
+If it doesn't, then we won't.
+At this point, again, we will always look at opportunities to monetize the portfolio to the benefit of our shareholders.
+Thank you, <UNK>.
+Sure.
+Thanks, <UNK>.
+On the churn rate, if you recall, when we sat here a year ago and we entered 2015 we said a concentration of 2015 will be to protect our customer base.
+And that's exactly what we executed on throughout 2015 and the execution of that will continue in 2016.
+The focus will be customer satisfaction and satisfying our customer base so they stay with us.
+I think that's proven through our very low churn rate this fourth quarter.
+Even with the rhetoric from some outsiders about how they are stealing customers, the churn rate does not reflect that.
+And port outs are down year over year.
+We are doing what we said we do around the loyalty.
+Customer satisfaction comes in here around our simplicity and being simple with customers so they understand what they are getting.
+And this goes to our loyalty base.
+On the service revenue side, I guess the thing I would say on this is that again this is really to math.
+Math of shifting from the subsidy model with higher service revenue to a device payment model where you get a break in service revenue but you pay full price for the handset model.
+As we said, we are through 40% of our customers -- we are slightly higher than 40% -- who are now on that new pricing, so you have already seen the impact of that.
+As I said last call, we believe the inflection point will happen at 50%, which we believe we will attain midyear.
+Coming out of the fourth quarter, though, we did see a slowdown in the take rate of installment sales, but we do believe that that take rate will accelerate back up above 70% for the fourth quarter.
+And we're going to announce some differences here, a shortcoming that will drive some of that behavior towards that.
+As you know, we continue to allow our current base customers who upgrade to select, whether they take device payment or subsidy, and what we saw in the fourth quarter was we had a higher percentage of our base stay on the subsidy model, which caused pressure on the P&L of Wireless because of the subsidy take.
+So having said that, <UNK>, I think as we go through the year we will be able to give you more clarity here.
+But the other thing I would ask you to take a look at is the I-ARPA metric, which if you look at third quarter it went up by 0.2% and then the fourth quarter went up 0.9%.
+So you are already starting to see some of the underlying metrics starting to absorb some of the repricing.
+I will leave it at that for 2016, but I will come back to you as we break through the 50%.
+Thanks, <UNK>.
+The answer to the question is, yes, absolutely.
+And I think we have to go back to -- and start at the beginning on the whole top-line growth story.
+First and foremost, I think the foundation is our network, our strategy and densification, the use of fiber.
+Fiber is going to be critical with the densification, dark fiber.
+92% of our cell sites are already fiber enabled; the other 8% are microwave which probably won't get fiber, so when you look at it almost 100% of our cell sites are fiber-enabled.
+And every small cell, 100% of every small cell we deployed is fiber-backed.
+This is in preparation of some of the future products and services that we are looking at in conjunction with both what Marni has under IoT, go90, but also for 5G.
+If you look at customer satisfaction, this goes to a big component of the low churn and how we start to increase the value to the customer so that they are willing to pay us more for increased value.
+The quality base also goes to this.
+So when you look at wireless, they grew 1.2% here in the fourth quarter.
+If you look at volume overall year over year, gross adds and upgrades were down by 1.9 million.
+So if you just do the backwards math on that, that's in excess of $1 billion of revenue that wasn't there this year that was there last year.
+When you look at it, the foundation of Verizon Wireless is still very strong and we believe that we can continue to grow the Verizon Wireless revenue streams.
+On Wireline, Fios is still the foundation.
+It's now 80% of the overall Wireline revenue.
+When you look at what we're doing in broadband, the pervasiveness of broadband, no one can match our symmetry on the up and downloads, so that's something that we have against our competition.
+We are preparing for the over-the-top model.
+Custom TV is one of the things that I've said, yes, it has a limited life but you're going to see us refresh Custom TV and continue to do what consumers want, which is what they -- they want choice.
+They don't want to have to pay for bundles that they never use.
+Then, of course, stability of the enterprise business also adds to this.
+Then you jump into our growth engines.
+If you look at AOL, AOL this quarter increased $300 million in revenue sequentially from the third quarter.
+It goes to the strength of the advertising model under AOL, which is why we bought them.
+Now some of that is seasonal, but we believe that they will continue to have strong growth into 2016.
+Go90, which is still in its beginning stages, and I know we've seen some external reports on the number of downloads in excess of 2 million, but the key to us is not the downloads, the key is viewership.
+It's around content and we will continue to add content that is favorable to all generations of population.
+Obviously we have a lot of content there for Millennials, but sports and music attain to a lot more than just Millennials, so we are attacking all viewership with this product.
+And we will have more to say about that probably midyear.
+Internet of Things, if you walked around CES, it's all about the digital mobile world and we are in the best position to capitalize on that with our Smart Cities, Telematics, with the launch of hum.
+We started that in the fourth quarter and we've already seen that there are certain stores in the United States that can't keep the product within Verizon Wireless.
+They're continually selling out of the product.
+And this is a recurring revenue stream.
+If you think about ThingSpace this is really the adjunct to the Consumer Electronics Show where we've opened up our platform.
+We now have over 4,200 developers working on that platform and that's just since October 29 of last year.
+So, yes, it was a transition year in 2015; it will be a transition year in 2016, but I am confident that with the strategies that we are taking that we will absolutely be a GDP growth company post 2016.
+Custom TV, we talked about that.
+We will refresh that here in the short term to be in compliance with the contractual arrangements that we need to be in compliance with.
+Relating to ESPN.
+Look, this will go its course.
+They're a great partner of ours; we will continue to work with them and I'm not going to speak to the actual lawsuit.
+On the I-ARPA, keep in mind only 29% of our customers currently today are on a device payment plan, so they are actually taking the installment plan and paying us full price for the equipment.
+But 40% of our customers who fulfilled their subsidy contract have moved over to that pricing, so they are getting the discount.
+So we're absorbing that.
+As I've said, once you get to that 50% you should see that inflection point start to occur and you are already starting to see some of that in the I-ARPA-type metric.
+It's hard for me to forecast exactly what will happen here but the forecast that I have is at 50% you start to see an inflection point.
+And we will talk more about that as we go through the quarters.
+As far as towers go, look, we continue to build macro towers but at a much lower rate than historically.
+Our focus is really around small cells, densified antenna systems, in-building.
+But keep in mind that each of those small cells, in-building, and antenna systems all get fiber back to a main macrocell.
+So the macrocells still have an important role in how you deliver traffic into those small cells.
+As far as building and creating new towers, that is at a much slower rate, but the importance of the tower is still there.
+Thanks, <UNK>.
+Look, 2014 was a unique year.
+You had a very different form factor come out from Apple, which drove a lot of traffic to that iconic device.
+You continue to have innovation from Samsung and LG, but we didn't have that huge change in the handset this year that we saw a year ago.
+So that I think affected some of the upgrade model.
+But when you look at it, we still did about 1.5 million more upgrades in the fourth quarter than we did in the third quarter.
+So the volume of upgrades still increased; it just wasn't what it was a year ago.
+If you remember, I said coming into this way back in the second quarter I said I did not anticipate that the fourth quarter this year would be a similar volume to the fourth quarter of last year.
+But if you go back to the previous years, I think you'll see similar lower volume years.
+Then you have iconic devices come out and it stimulates some usage case there.
+So for 2016 it's too early to tell you, but I would think that we'll see similar trends that we did in 2015.
+Well, for our base it's too early to tell because the first generation of them are just starting to mature, so until I get some real factual data on that it's hard for me to answer.
+My own personal opinion here is that, if you look at history, a third of your customer base upgrades every year.
+I don't see that changing regardless of what plan the customer is on.
+Thanks, <UNK>.
+On the cost-cutting, look, I think the last three to four years we've talked about this and we are an extremely disciplined corporation as far as costs go.
+With the launch of our Verizon Lean Six Sigma program three years ago, that continues to maintain momentum.
+We took out almost 30 million calls down from a year ago, so there's a lot of progress being made on self-serve.
+There's a lot of progress being made within our logistics system.
+This year alone we generated working capital benefits from how we handle our phone inventory.
+You saw the Wireless restructure this year was the first restructure we had really since the inception of Verizon Wireless.
+As we go into 2016, you saw us take that severance charge and I would tell you most of that severance charge was related to headcount that was already completed in the fourth quarter.
+So entering into 2016, we continue on the path that we were on.
+We will continue to look at customer satisfaction, more self-serve options that reduce the amount of calls that we have to take from customers.
+There's still a lot of work to be done around our cost structure.
+If you look at Wireline, as we came into this year Lowell and I said we would improve the profitability of Wireline.
+That came from all the cost reductions that <UNK> and his team achieved.
+So we will continue on that path and I feel good about that.
+As far as overall economics, I am not really seeing much of anything in the consumer spaces that we drive.
+I look at what everybody else looks at and we will have to wait to see where 2016 comes out, but I'm certainly not going to predict any negativism there.
+Sure.
+Thanks, <UNK>.
+When I think about the whole portfolio, go90, Verizon Digital Media Services, and AOL, obviously we just launched all these products, so there's a startup.
+It was the first fourth quarter that we advertised these types of launches.
+You are going to see that continue through the four quarters of 2016, which was not there in 2015, so there will be pressure from these start-up companies.
+Our learnings on go90 are very simple.
+We're looking at how many times individuals revisit the platform in one day and we're starting to see some positives there.
+People will come in multiple times during the day and that's important because that's what's viable to the advertising community.
+The whole basis here is we have to ramp viewership.
+I will tell you internally we have surpassed what we thought we would have at this point in time.
+We have set higher targets for 2016 because we need to build the viewership in a much quicker fashion.
+I think what you are seeing here from AOL is a very strong fourth quarter.
+Now there is seasonality to that, but as I mentioned, I'm looking for them to grow substantially in 2016.
+So I think when you put this together, I think the top line will start to reflect some of the things that we are looking for, but it will create bottom-line pressure.
+These will not -- especially go90, will not be a profitable product probably within a one- to two-year horizon right now.
+When we launched it we said two to three, but it's probably out two years before that will become a profit contributor to the enterprise; but it will certainly build on the top-line perspective.
+But right now we're focused on viewership, not necessarily the profitability of the product.
+So I will stop there.
+As I said, we will come in with much more detail probably midyear and start to give you some viewership into exactly some of the results of go90 and AOL.
+Look, I think we've been pretty open since we acquired AOL.
+We said that we would continue to add to that portfolio.
+We acquired Millennial, which we talked about.
+So, yes, there are things that we continue to look at for fill-ins, if you will.
+The other that you brought up, it's intriguing, but there's really nothing to respond to at this point on that.
+So, look, we will continue to look at all of our options, as Lowell and I said.
+We will continue to look at opportunities externally and look at opportunities internally and if they make sense for the shareholder, then we will execute on those opportunities.
+Sure.
+Thank you, <UNK>.
+Just to refresh, we monetized or securitized $9.4 billion of receivables.
+We received gross cash of $7.2 billion.
+We obviously paid off some of those securitizations, so about a $5.9 billion net cash.
+So when you think about that, we absorbed about $3.5 billion within our working capital this year from the switch to the device payment model.
+I will tell you that we have been talking to the rating agencies about different types of financing and I will probably leave it at that at this point.
+But we will be looking at potential public markets as well as private markets, but we will stay with the securitization model as well.
+So we're just looking at very different alternatives to support the program going forward, because we do believe it will continue to grow in 2016.
+And more to say on that when we come to a conclusion on that one, <UNK>.
+The answer to the question is yes.
+If you look at some of the small cell technology and also some of the technology that can be utilized at the cell site -- I know there's a fancy name for it, but I'm not the engineer here -- but it gives you the capability to be able to tilt antennas and turn antennas to where the capacity is.
+So if you think about football game Sundays and college games, we have the capability to utilize our current resources to increase capacity without any spectrum capacity.
+There is a number of technologies that are coming.
+Obviously, when we launched 4G we said it would be 5 times more efficient than 3G.
+5G is too early, but my suspicion is that we're going to see some similar benefits there from a capacity standpoint, which is one of the benefits of 5G.
+So, yes, I think that if you look at spectrum, we are in a very, very good spectrum holdings, as we said with all my other comments around spectrum and how we utilize unlicensed along with what we bought in AWS and the repositioning of what we currently have on 3G over to 4G.
+So utilizing all of these items, we feel that we are in very, very good shape from a capacity standpoint.
+Thank you for your questions.
+Before we end the call I will just turn it back to <UNK> for a few more remarks.
+Thanks, <UNK>.
+Look, 2015 was a year of significant change at Verizon.
+And even with all that change we delivered a strong financial year, continued to invest in growing our customer base, invested in our networks, developed and expanded new businesses, and returned value to our shareholders in the form of dividends and share repurchase.
+2016, we will continue what we started in 2015.
+We will focus on execution and growth with our three-tier strategy and heritage.
+We will continue to build on a strong network and customer foundation.
+With our foundation we will compete effectively in this dynamic marketplace.
+We will bring new products and services to market and continue to be the leader in the digital-first mobile world.
+We look forward to maintaining our positive momentum to create value for our customers and our shareholders, and I would like to thank you for joining Verizon today.
+Have a great day.

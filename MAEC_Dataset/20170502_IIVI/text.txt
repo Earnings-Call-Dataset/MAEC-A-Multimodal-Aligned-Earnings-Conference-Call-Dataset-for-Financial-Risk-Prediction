@@ -1,0 +1,127 @@
+Good day, ladies and gentlemen, and welcome to the II-VI Incorporated FY '17 Third Quarter Conference Call.
+(Operator Instructions) As a reminder, this call is being recorded.
+I would now like to introduce your host for today's conference, Ms.
+<UNK> <UNK> <UNK>, Chief Financial Officer.
+Ma'am, you may begin.
+Thank you, Skyla, and good morning.
+I'm <UNK> <UNK> <UNK>, the Chief Financial Officer here at II-VI Incorporated.
+Welcome to our third quarter earnings call for fiscal year 2017.
+With me on the call today is Dr.
+Chuck <UNK>, our President and Chief Executive Officer.
+And as a reminder, this call is recorded on Tuesday, May 2, 2017.
+Any forward-looking statements we may make today during this teleconference are given in the context of today only.
+We do not undertake any obligation to update these statements to reflect events subsequent to today.
+With that, let me turn it over to Dr.
+Chuck <UNK>.
+Thank you, <UNK> <UNK>.
+And thank you, everyone, for joining us.
+Our third quarter was terrific.
+The industrial and communication end markets were very strong for us across all 3 segments.
+Our revenues of $245 million set a new record, while the EPS of $0.35 per share was in the top end of our guidance.
+Our Q3 bookings of $281 million also hit an all-time record for II-VI.
+Regionally, our revenue distribution was 45% in North America, 21% in Europe, 18% in China, 8% in Japan and 8% for the rest of the world, very similar to the FY '16 annual percentages.
+By end market, our revenues for this quarter was 45% in communications, 37% in industrial and semicap, and 10% in military.
+The comparative full year FY '16 split was 37%, 42%, 13%, respectively, on $827 million of revenue.
+In the communications market, we had $110 million in revenue this quarter, 82% of which was in Photonics, 10% in laser solutions and 8% in Performance Products.
+Revenues into the communications market grew overall 50% year-over-year and 5% sequentially.
+All main market drivers we've been discussing are reflected in the strong bookings and revenues, specifically China Broadband, the 100G Metro upgrade, CATV infrastructure investments, the expansion of the data center the medications market and the growth in undersea fiber-optic networks.
+Communication products deployed in Metro and long haul network builds, including data center interconnects, were approximately 67% of our communication sales.
+CATV network builds were another 10% and then 6% from submarine networks, 6% from Datacom, including intra-data center communications and 10% from products used in wireless base stations where our wide band gap electronic materials enable the rapidly growing 4G base station market and are paving the way for next-gen 5G deployments.
+More than 51% of our communications product revenue in the quarter was derived from incorporation into rural systems.
+Sales of these products, including pump lasers, amplifiers, channel monitors, tunable filters, micro-optics and line cards grew 25% to 30% year-over-year and 10% to 15% sequentially.
+We are a strategic supplier of high-performance and high-reliability components for customers who build their own line cards.
+In those applications, our content typically ranges from 20% to 40% of the VAL value, usually the largest component of the manufacturing cost.
+Our products enabling transponder modules in CFP 2 and CFP 4 transceiver embedded in the amplifier solutions for 100G, 200G, and 400G coherent transmission made up about 15% to 20% of our communications revenue and grew 48% year-over-year.
+We believe that this demand is driven by the growth in the data center and the interconnect market as well as network infrastructure upgrade markets and is a reflection of our industry-leading product portfolio.
+At the optical fiber conference, we recently announced our new 3 pin pump laser, which we believe is the smallest on the market, along with a miniature tunable filter, both designed to enable even more compact, lower power consumption transceiver-embedded amplification.
+We believe the product volumes serving this market demand will grow about 20% per year.
+What's more exciting is that these miniaturized products are not just for coherent transceivers, but also for the new category of ECI transceivers based on PAM4 technology.
+We acknowledged that throughout this quarter a number of the market dynamics begin to shift.
+There has been rising concern about slowing in various parts of the market due to the apparent need for some customers to reduce inventory.
+While we believe there was not a great deal of inventory of our products, customers have brought renewed pressure on pricing as their demand in the industry's supply have come closer to equilibrium.
+At the same time, we began to see price increases from our supply chain partners who have expanded capacity or incurred other incremental operating costs as they worked to keep up with strong demand.
+For II-VI, we began working with customers several quarters ago on longer-term agreements for them to buy in exchange for longer-term agreements for us to supply.
+We've also required to expand our share, both with existing and new products.
+These actions, along with what we believe has been a prudent and opportunistic approach to capacity expansion and a constant focus on our supply-chain cost served as well in this just-closed third quarter and should help us withstand potentially slower demand in Q4.
+We are, therefore, guiding a bit conservatively for Q4, since we know that we are not immune to market factors, although we will require to deliver strong end to fiscal year 2017.
+In our industrial markets, including semiconductor capital equipment focused on advanced laser processing, the quarter's revenue was just under $92 million.
+It was split 70% from Laser Solutions, 17% in Performance Products and 13% from Photonics.
+This revenue grew 5% both year-over-year and sequentially and is split 34% for 1-micron laser applications, 31% for high-power industrial CO2 laser applications, 18% for semiconductor photolithography and 17% for precision laser optics used in applications up to 1 kilowatt for marking and engraving.
+Industrial end markets drove 77% of Laser Solutions segment revenues, and you can see the influence of the market momentum in the 25% sequential bookings growth.
+The infrared optics division delivered an excellent quarter on record bookings and record revenues, and they enter Q4 with a record backlog.
+The strong demand for our precision laser optics for up to 1 kilowatt applications is being driven by the broad-based industrial activity underway around the world as factories that make high-volume consumer goods gear up for the next generation of consumer electronics and the seasonal increases.
+These applications need precision cutting, drilling, marking and engraving.
+This is also driving demand for our products into the growing EUV application market used to process the next generation of integrated circuits that are expected to be increasingly at the core of these consumer products.
+We remain excited about the long-term value of the investments we're making at opto-electronic device platform.
+One of the next products for this platform will be VCSELs for 3D sensing.
+I'm pleased to say the opto-electronic devices group has passed certain key qualification milestones for mass production of volumes of VCSEL arrays that are forecasted to be required at the back end of this calendar year, with larger volumes anticipated in the next calendar year.
+Now I will turn it over to <UNK> <UNK> for the financial review.
+<UNK> <UNK>.
+First of all, as we discussed, the markets around the world, including China, but including the U.<UNK> and Europe, are important markets to us.
+I would say that slowness in any market would have an influence on that.
+But I don't -- I wouldn't say that our guidance is set this quarter with emphasis primarily on only one major driver.
+Good morning, Jim.
+This is Chuck.
+Jim, it is broad-based in every region.
+Okay.
+So first of all, one of the things we've talked about with respect to this investment is that the normalization is more a function of the R&D as a percentage of sales than it necessarily is as a strict dollar value.
+The company has a history of keeping up with its R&D investments as the revenue has grown over time.
+But I would say, it's -- we've made the investment in anticipation of volume.
+We would have expected it to moderate down in the '18 fiscal year.
+But volume does matter.
+I think if we were to see some dramatic delay in some market for whatever reasons, we may reconsider that.
+But we would expect it probably to moderate in the 7 to 9 range down from 10.
+Having said that, Jim, we're expecting -- we're a growth company.
+We're expecting the revenues to grow, and our organic investment is a key part of our strategy.
+The company, as we look out in the next 2 to 3 years, has a great opportunity for transformative penetration into new markets.
+So we will continue to invest in this platform for successive generations of products.
+Laser Solutions.
+We do have some 3D sensing bookings, but I would not describe that as the majority of it.
+We have seen, as Chuck described pretty extensively, very, very nice pickup in the industrial markets as well.
+Sure.
+So first of all, as you all know, we don't give guidance by segment, but to just give you some sense, I think first of all, as has been the case for the last several quarters, there are a number of things that are driving the company's results and its guidance in any given quarter.
+Optical communications is certainly one of them.
+And as Chuck said, we're preparing to be possibly more affected by the market factors than maybe we have been so far.
+But we also did a lot of work over the last several quarters to try and position ourselves not to have significant rapid falloff.
+So we still see very nice contribution from Photonics.
+In the Laser Solutions business, the industrial markets are doing very, very nicely and began to show a resurgence even as early as the September 30 ended quarter.
+So we expect to see some nice lift there.
+The other one in Performance Products business is what we've talked about for a while here, which is the increasing demand for silicon carbide product, among other things, including military stepping up a little bit.
+But the Performance Products segment also is anticipating some nice growth, both in silicon carbide but a little bit gated by capacity and in the military market.
+Yes, so first of all, I'm sorry if I was not terribly clear.
+I said that they'd probably be in the range of 7 to 9.
+And as Chuck clarified, investment in R&D is kind of the hallmark of this company.
+But in any event, I think we would see maybe a little bit of a trend down in the '18 year.
+It's a little bit relevant to when volume starts in certain quarters.
+Again, not just in VCSELs but silicon carbide, et cetera, and then probably moderate a little bit over time.
+But I would say very similar to what Chuck has said that the expansion of capability in a few quarters, including in industrial and silicon carbide, et cetera, as demand starts to increase for different types of applications, we would continue to have some investments, possibly not at this level as a percentage of revenue, to exploit markets that really have not been that present before.
+<UNK>, this is Chuck.
+<UNK>, we are still believing that our initial manufacturing ramp will take place by the end of the calendar year 2017, and that it will be following on by a larger ramp in calendar year 2018.
+Still the same.
+<UNK>, I would say that it's not uncommon at this stage of an initial ramp that we have our challenges.
+I'm very pleased with the progress that we've made.
+I believe that we'll be successful in achieving the initial ramp and we will continue to make the improvements that we need to be ready to address the larger volumes that come into the marketplace and we'll compete for in calendar year 2018.
+$389 million.
+<UNK>, let me try to take it.
+We are running our PONs amplifiers and our passive components mines at 90% to 95% capacity.
+So from the point of view of a slowdown, when you say slowdown, we're running pretty much quarter-over-quarter with our plan almost exactly as we expected.
+So we're not seeing or expecting any significant slowdown in any one part of the market that can't be made up mostly from another part.
+That's a generalized view.
+With regard to the access market where we have a very small part of our revenues, we have seen that the fiber-to-the-home market in the third quarter was down 10% to 20%, I would say, a quarter before.
+But it will not have any material impact on our outlook in Q4.
+It does not.
+Yes, I said that I thought it would be about $130 million.
+We have not quantified expectations of market share and don't expect to.
+What I can say is that we have made significant investments in the capacity and the capability to be an important player in this market.
+But ultimately, the customer decides the timing, what product is launched and based on that type of variability that exists entirely in the customers' hands, we're not putting expected share numbers out there.
+Hi.
+It's <UNK> <UNK>.
+I'll give Chuck a little bit of a rest on his voice since his answers to your questions are very important.
+But I will say, as we conclude our call today, Chuck and I would both like to thank the increasing number of top industry analysts who chose to join the call, especially those of you who had to get up early to do it.
+We're happy to have you here, and thank you very much.
+More importantly, on behalf of the whole ELT, we'd like to say that our Q3 FY '17 results were enabled by the absolutely unyielding enthusiasm, sense of urgency and teamwork by our over 10,000 employees, positively determined to contribute every day to the continued success of II-VI and all of our customers.
+Their dedication, commitment, innovations and hard work make it possible for us to deliver consistently, not only our customers' expectations, but our shareholders' expectations.
+The entire II-VI global team continues to pave the way for our future growth with our development and introduction of new products and by initiating new programs to improve our overall quality and drive operating efficiencies.
+As of today, nearly 4 weeks into the quarter, it feels like we're on track to deliver another good quarter ending in June and to cap off a great year, which will be a great testament to all of the people throughout II-VI who have worked so hard for that.
+Thank you to all of you on the phone for your interest in II-VI, as we work to position the company to deliver outstanding value to the customers, our shareholders and our employees.
+If there is nothing more, Skyla, this will conclude our call for today.

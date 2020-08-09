@@ -1,0 +1,63 @@
+Great question.
+Using opportunity to expand a little propaganda here, again, as we've already articulated.
+The franchise products we're in we are the technology.
+We are also the market leader in those areas.
+In those niches, some of them are very large niche, but we are the technology leader and we don't get that by not investing.
+We invested, as my remarks said and I said many times, very heavily in those areas we are in.
+We develop products that generally in those franchise areas before anybody else do it out there.
+And that's why we can sustain it, that's why our margins are the way it is.
+Because we provide products that allow our customers to differentiate and innovate themselves.
+So we invest very heavily, and you look at our total R&D, we invest in total $2.7 billion a year as a company in R&D.
+We're the best engineers out there, and we have the best products in this area.
+So that's really where we continue to sustain leadership in our existing franchise products.
+In some of those flights of fantasy somewhat that you covered earlier, I'm not saying it won't happen.
+I will be direct, let somebody else take another hits (inaudible) and then we'll buy the company if it's successful.
+You are really trying to pass the data aren't you.
+It's all a combination really.
+It is, and you obviously know out there it's also timing of some of the shipments and purchases by our two largest customers.
+So there's a bunch of -- a few factors involved in here.
+One of which was there's timing this quarter differences in timing.
+There's the fact that you are right, Korean customer is coming in with a vengeance to try to recover share.
+And broadly, we're also talking about content increases as each new generation comes in and it's not even the Korean customer it's also the major North American customer.
+And it's a mix of all these factors.
+Have I sat down and broken it out in detail, no.
+We don't try to analyze it to that degree, but those multiple factors mix pull together to basically indicate that the seasonality, the downward seasonality, that we saw a year ago is perhaps less pronounced this year.
+Well there are opportunities for us in China, but are the focus of our success and our product success in Wireless, especially content increases year on year, is -- as you know, we push the cutting edge on technology.
+Be it wireless Wi-Fi connectivity or RF cellular, we push the envelope and that tends to go very much largely to the flagship class phones.
+That top of the pyramid where a big part of it has been our major North American customer and the Korean customer, plus a few other guys spread around.
+That's where our strength is, that's where the demand and we've seen our products come help.
+As China evolve over time, having said that, the opportunity exists.
+They will move from feature phones to low-end smartphones to now some premium phones.
+And we begin to get traction on even those premium phones to the extent that those brands in China use it, and that's why we need the technological engineering edge that we provide in the products.
+Until then, they need less of it.
+Except with exceptions like carrier aggregation when we obviously are the leader in providing solutions for carrier aggregation on a discrete basis.
+But on an integrated basis into smartphones, it's really the flagship phones and now increasingly premium phones making its way into flagship phones that we see the demand.
+And that transition is happening in China, albeit on a very gradual basis.
+But we are very patient people, we will wait for it.
+That's a very insightful question, and we see the SSD controllers for enterprise to be a lot of it will be outsourced.
+Why, because there are certain IP inherent in those enterprise flash controllers that are very tricky to do.
+Not dissimilar from the rechannel of hard disc drives, so that will happen.
+[Klein], because the nature of Klein, it's not so complex technology, IP required is not so extreme.
+We see that as probably less opportunistic for us, though one never knows.
+But certainly on enterprise, which is where we are very focused on, we see a lot of need for intellectual property blocks features that few people can do.
+And we are one of those few people who can do it very well.
+Well if you talk about switching and routing, it's really more than just chips, or maybe little building blocks of chips.
+It's really as much an architectural play, especially in the high end top of the rack, in the [what you call leaf] and the spine side of the data centers.
+And here is where our model just goes beyond selling pieces of silicon, we sell a lot of firmware and software that goes hand in hand to enable those chips to work with multiple OEM customer and multiple OEM customers at the end of the day.
+So that's a very interesting model for us, and what is overriding all of this is obviously the need for more larger and larger more and more throughput.
+Especially in data centers, and especially in top of the rack and all the way to the spine.
+So we have big advantages in this area simply because of the strength of the intellectual property we have in making very complex engineering, very complex SoCs, but also interface very high-speed interfaces or SERDES as we call it.
+So all that plays to our advantage of being able to do it.
+And we continue to do that, and we continue to -- it goes from 10 gigabit to 25 to 50 to 100, and maybe interest and going on in the future to 200 gigabit to 400 gigabit.
+We believe we are investing heavily to ensure that we can develop those kind of products and develop it first and better than anybody else.
+So and with that expansion of features, we benefit from content increases.
+Simply because you are providing a customer more throughput, and it's not a one-on-one scaling.
+It's more and more -- it's a lot of value for our customers to be able to go from 25 gigabit or 10 gigabit to 100 in the next year or two, and we provide a lot of value in that.
+And by the way, in broadband, it's not dissimilar.
+Except that maybe it's not evolving as rapidly simply because it's a much more stable market, ones that you hear about now 4K TVs our video delivery to moving on to high definition HD and eventually moving even to 8K.
+That would be interesting to see how 8K is going to be accepted since the human eye may not even notice the difference, but people want it.
+And they want that, we're able to provide that but it might take a bit longer.
+That's why I said broadband to us is a much -- we look at it as a much more stable gradually evolving market, even as OTT, the hype behind OTT and all that comes play which we participate in.
+But in data centers, it's serious stuff.
+More and more data are being basically pushed through pipes stored, processed as social media keeps expanding.
+That's why we our seeing this past quarter and current quarter extraordinary strength in the demand for switching and routing.
