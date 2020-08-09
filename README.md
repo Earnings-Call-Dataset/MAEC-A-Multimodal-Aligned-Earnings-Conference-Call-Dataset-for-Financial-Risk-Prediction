@@ -42,13 +42,7 @@ python3.5 alignmentCore.py FolderPath(CompanyCode_YearMonthDay) TextPath(WorkDir
 
 # Reference
 
-\copyrightyear{2020}
-\acmYear{2020}
-\setcopyright{acmcopyright}\acmConference[CIKM '20]{Proceedings of the 29th ACM International Conference on Information and Knowledge Management}{October 19--23, 2020}{Virtual Event, Ireland}
-\acmBooktitle{Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM '20), October 19--23, 2020, Virtual Event, Ireland}
-\acmPrice{15.00}
-\acmDOI{10.1145/3340531.3412879}
-\acmISBN{978-1-4503-6859-9/20/10}
+
 
 # Terms Of Use
 
