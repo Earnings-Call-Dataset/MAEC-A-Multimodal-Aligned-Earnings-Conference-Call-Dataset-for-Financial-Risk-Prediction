@@ -4,7 +4,7 @@ In the area of natural language processing, various financial datasets have info
 
 ## MAEC Dataset
 
-### Transcripts along with the low-level audio features
+### Transcripts along with the low-level audio features (Total 147.7 MB)
 
 Each folder named in the format of **YearMonthDay_CompanyCode**. There are two files in each folder:
 1. Transcripts text file, named as **text.txt**.
