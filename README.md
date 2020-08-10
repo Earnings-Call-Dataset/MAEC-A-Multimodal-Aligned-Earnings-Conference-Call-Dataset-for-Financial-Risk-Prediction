@@ -10,9 +10,9 @@ Each folder named in the format of **YearMonthDay_CompanyCode**. There are two f
 1. Transcripts text file, named as **text.txt**.
 2. Low-level audio features: **features.csv**.
 
-### High-level features
+### High-level features (Total 59 GB)
 
-In the **MFCC-features** folder, we produced and released high-level (mfcc feature) audio features files, named as **CompanyCode_YearMonthDay-OrderNumber.npy**.
+We produced and released high-level (mfcc feature) audio features files, named as **CompanyCode_YearMonthDay-OrderNumber.npy**. Click [here](https://drive.google.com/file/d/1yXLv1r5n35s4Nf7kvP96RSPLKyR-ZeUT/view?usp=sharing) to download.
 
 
 ## Iterative Forced Alignment Core Code
@@ -60,4 +60,3 @@ This dataset and iterative forced alignment code is licensed under a
 # Acknowledgments
 
 * This research was supported by Science Foundation Ireland (SFI) under Grant Number SFI/12/RC/2289_2
-
