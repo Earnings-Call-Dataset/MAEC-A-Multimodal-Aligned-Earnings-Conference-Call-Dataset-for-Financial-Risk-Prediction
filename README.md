@@ -40,8 +40,27 @@ Example of how to call it:
 python3.5 alignmentCore.py FolderPath(CompanyCode_YearMonthDay) TextPath(WorkDirectory/CompanyCode_YearMonthDay) AudioPath(WorkDirectory/CompanyCode_YearMonthDay/CompanyCode_YearMonthDay) AudioFormat(Eg."mp3") WorkDirectory LogFileName(Eg."log1.txt")
 ```
 
-# Reference
+# Citation
 
+```bibtex
+@inproceedings{10.1145/3340531.3412879,
+author = {Li, Jiazheng and Yang, Linyi and Smyth, Barry and Dong, Ruihai},
+title = {MAEC: A Multimodal Aligned Earnings Conference Call Dataset for Financial Risk Prediction},
+year = {2020},
+isbn = {9781450368599},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3340531.3412879},
+doi = {10.1145/3340531.3412879},
+abstract = {In the area of natural language processing, various financial datasets have informed recent research and analysis including financial news, financial reports, social media, and audio data from earnings calls. We introduce a new, large-scale multi-modal, text-audio paired, earnings-call dataset named MAEC, based on S&amp;P 1500 companies. We describe the main features of MAEC, how it was collected and assembled, paying particular attention to the text-audio alignment process used. We present the approach used in this work as providing a suitable framework for processing similar forms of data in the future. The resulting dataset is more than six times larger than those currently available to the research community and we discuss its potential in terms of current and future research challenges and opportunities. All resources of this work are available at https://github.com/Earnings-Call-Dataset/},
+booktitle = {Proceedings of the 29th ACM International Conference on Information &amp; Knowledge Management},
+pages = {3063–3070},
+numpages = {8},
+keywords = {multimodal aligned datasets, earnings conference calls, financial risk prediction},
+location = {Virtual Event, Ireland},
+series = {CIKM '20}
+}
+```
 
 
 # Terms Of Use
