@@ -1,0 +1,473 @@
+Person,Sentence
+Person0,"Thank you.
+"
+Person0,"Good morning, everyone.
+"
+Person0,"I am <UNK> <UNK>, Vice President and Chief Financial Officer, and I am joined this morning by Jerry <UNK>, our Chief Executive Officer and President.
+"
+Person0,"Thank you for joining our earnings conference call.
+"
+Person0,"Yesterday after market close, we released our financial results for the first quarter of 2016.
+"
+Person0,"You can access this release at our website, www.mksinstruments.com.
+"
+Person0,"As a reminder, various remarks that we make, both future expectations, plans and prospects for MKS, comprise forward-looking statements.
+"
+Person0,"Actual results may differ materially from those indicated by these statements.
+"
+Person0,"As a result, there are various important factors, including those discussed in yesterday's press release and in the Company's most recent annual report on Form 10-K, which is on file with the SEC.
+"
+Person0,"These statements represent the Company's expectations only as of today and should not be relied upon as representing the Company's estimates or views of any days subsequent to today, and the Company specifically disclaims any obligation to update these statements.
+"
+Person0,"With respect to share repurchases discussed in today's call, the timing and quantity of such repurchases will depend upon a variety of factors, including business conditions, stock market conditions, and business development activities, including, but not limited to, merger and acquisition opportunities, and such repurchases may be commenced, suspended, or discontinued at any time without prior notice.
+"
+Person0,"In addition, today's call also includes non-GAAP adjusted financial measures.
+"
+Person0,"Reconciliations to GAAP measures are contained in yesterday's earnings release.
+"
+Person0,"Now I will turn the call over to <UNK>.
+"
+Person1,"Thanks, <UNK>.
+"
+Person1,"Good morning, everyone, and thank you for joining us on the call today.
+"
+Person1,"This morning I will review our results for the first quarter of 2016, including some key highlights.
+"
+Person1,"Following that, I will give some color and an update on our progress with the Newport acquisition and, finally, I will provide our outlook for the second quarter of 2016.
+"
+Person1,"<UNK> will follow me with further details on our financial results, and then we will open the call for your questions.
+"
+Person1,"Total first-quarter revenue was $184 million, up 7% from last quarter, and our non-GAAP EPS was $0.38.
+"
+Person1,"Our results were at the high end of our guidance range, driven by strong revenue from our semiconductor customers.
+"
+Person1,"Conditions in the semiconductor market have improved, and our first-quarter revenue was up 18% as device manufacturers ramped 16 nanometer and smaller devices utilizing 3D structures and multi-patenting.
+"
+Person1,"Both 3D NAND and multi-patenting rely heavily on etch and deposition processes, which require a high degree of content that MKS provides.
+"
+Person1,"We believe that the industry will rely more and more on multi-patenting and 3D structures as features shrink to 10, 7, even 5 nanometers.
+"
+Person1,"Double patenting will advance a triple patenting and even quad patenting for some layers as features can be even shrink, doubling the number of etch, deposition and clean steps required.
+"
+Person1,"This increase is a capital intensive in these processes, which will drive growth opportunities for MKS for a number of years to come.
+"
+Person1,"As features get smaller and critical etch and deposition steps increase, achieving quality, uniformity, and repeatability become increasingly more difficult.
+"
+Person1,"In critical etch, one of the challenges our customers face is the ability to deliver energy to etch a deep, narrow space while maintaining etch productivity, selectivity, and smooth straight walls.
+"
+Person1,"To achieve this, OEMs increasingly are turning to RF pulsing.
+"
+Person1,"In the second half of 2015, we launched a new RF generator platform called edge.
+"
+Person1,"In the design, MKS developed a capability we call adaptive pulse technology that delivers exceptionally repeatable pulses resulting in defined profile control, which helps balance the trade-off between etch accuracy and speed.
+"
+Person1,"This launch has been highly successful, and we are already receiving production quantity orders from major etch OEMs for this revolutionary generator.
+"
+Person1,"Before features can be etched, thin uniform layers must be deposited.
+"
+Person1,"And with smaller feature sizes, atomic layer deposition -- ALD -- and plasma enhancing atomic layer deposition -- PALD -- are being (inaudible) to deposit extremely thin and conformal layers of material needed on the wafer.
+"
+Person1,"Based on the history of technical and commercial performance, our paragon remote plasma source, as well as numerous other MKS technologies, have been selected for the next generation ALD platform from the leading ALD OEM.
+"
+Person1,"More broadly, in our semiconductor business, we had additional design ins and wins this quarter and a number of applications, including RF power for die simulation and semiconductor packaging, liquid zone dissolved ozone systems for wafer cleaning, remote plasma sources for [FD] exhaust cleaning, and revolution plasma sources for strip at a major logic manufacturer's new fab in China.
+"
+Person1,"I am pleased to see additional success in our core semiconductor market.
+"
+Person1,"Especially in RF, we have made significant progress against the competition.
+"
+Person1,"Moving to our adjacent markets, last year we announced that we had entered into an agreement with a leading vacuum solutions provider to supply properly labeled and customized gauge products.
+"
+Person1,"This opened a new sales channel to the industrial and process marketplace, an important market for our vacuum, flow, and analytical products.
+"
+Person1,"In this quarter, we started to fulfill the orders against this agreement.
+"
+Person1,"In another industrial process application, we had additional sales this quarter for microwave products using candy manufacturing as a customer's production was extended to North American facilities.
+"
+Person1,"In the environmental monitoring market, we were pleased to receive orders from yet another government agency for our AIRGARD chemical warfare detection and monitoring systems with safeguard critical infrastructure from airborne hazards.
+"
+Person1,"In addition to new design wins, follow-on business is extremely important to our success.
+"
+Person1,"I am pleased to report that we have meaningful recurrent business across many markets, including thin film applications such as OLAD and solar cell manufacturing where we continue to ship our liquid zone dissolved ozone, flow, pressure, power, and gas analysis products.
+"
+Person1,"At this point, I would like to move to the Newport acquisition.
+"
+Person1,"On February 23, we announced our intent to purchase Newport Corporation, a global technology leader in photonics, lasers, and precision optics with a broad portfolio ranging from components to integrated subsystems.
+"
+Person1,"Newport has a balanced participation and a diverse array of end markets ranging from semiconductor to life and health sciences, which will both expand MKS's position in our existing markets and extend our reach into new markets.
+"
+Person1,"This supports our strategy to expand into adjacent markets while increasing our served addressable market and our core semiconductor business.
+"
+Person1,"I am truly excited about the combination of MKS with the complementary technology Newport brings.
+"
+Person1,"Both Newport and MKS are technology leaders with a long history of designing solutions that address the difficult challenges our customers face.
+"
+Person1,"Together, we will have an even more formidable portfolio of products and capabilities to address the needs of technology-enabled solutions.
+"
+Person1,"I am further encouraged by the number of positive comments from our customers, particularly our largest ones.
+"
+Person1,"About the opportunity to bring integrated technical solutions to these customers that the combination of Newport and MKS can provide, which no other competitor can.
+"
+Person1,"Our thesis with this acquisition is that we will capitalize on synergies between the two companies, which will allow us to realize additional growth and profitability.
+"
+Person1,"We have a dedicated integration team in place and have developed extensive plans, which include product cross-selling and synergy activities immediately after the acquisition closes.
+"
+Person1,"We anticipate reinvesting some of the savings from these activities into high-growth areas within Newport's product portfolio.
+"
+Person1,"From a market opportunity perspective, we estimate that the addition of Newport will expand our served addressable markets by $4.8 billion.
+"
+Person1,"Geographically, we operate in many of the same locations, and we have the opportunity to optimize and leverage our combined sales channels to improve customer access, enable the cross-selling I referred to earlier.
+"
+Person1,"From a technology perspective, both Newport and MKS are leaders in critical technologies that enable advanced processes.
+"
+Person1,"Control of the interrelationship between process parameters is crucial to productivity and quality in advanced manufacturing.
+"
+Person1,"And the combination of Newport and MKS would give us critical mass to synergistically respond to these complex challenges with integrated solutions that satisfy customers' needs.
+"
+Person1,"MKS continues to differentiate ourselves from the competition, and this acquisition gives us many exciting new places to grow.
+"
+Person1,"MKS has a long history of successfully acquiring and integrating high technology companies, and this acquisition and preliminary integration planning activities are progressing well.
+"
+Person1,"We are excited about the teamwork we have seen so far between the companies and believe there is a strong cultural fit between the organizations.
+"
+Person1,"We have received all the necessary regulatory approvals, secured financing for the transaction, and subject to the approval of the transaction by the stakeholders, stockholders of Newport tomorrow, we anticipate closing this Friday.
+"
+Person1,"And finally, I am pleased to announce that [Dennis Worth] will assume the leadership role as Senior Vice President of Newport, reporting to me.
+"
+Person1,"This ensures continuity and stability in a Newport business unit as we continue integration into MKS.
+"
+Person1,"At this point, I would like to turn to our outlook for the second quarter.
+"
+Person1,"The semiconductor industry is recovering from the softness we saw late last year and, based on the input from our customers as well as industry analysts, we anticipate continued recovery as we progress through 2016.
+"
+Person1,"3D NAND and multi-patenting will continue to propel growth as the industry implements 10 nanometer and small align with designs.
+"
+Person1,"Based on these factors, and looking at current business levels, we anticipate that MKS stand-alone sales in the second quarter may range from $185 million to $205 million.
+"
+Person1,"And at these volumes, our non-GAAP net earnings could range from $0.41 to $0.54 per share.
+"
+Person1,"At this point, I will turn the call over to <UNK> to discuss our financial results and expand on our guidance.
+"
+Person0,"Thank you, Jerry.
+"
+Person0,"I will start with the first quarter (inaudible) provide an update on the Newport acquisition financing and, finally, I will discuss our Q2 2016 guidance.
+"
+Person0,"Revenue for the quarter was $184 million, an increase of 7% compared to Q4 revenue of $172 million, a decrease of 14% from Q1 2015.
+"
+Person0,"Revenue for the quarter was near the higher end of our guidance range, primarily due to strong demand from a semiconductor customers.
+"
+Person0,"GAAP and non-GAAP gross margin was 42.4%, which was within our expectations at the sales volume.
+"
+Person0,"Non-GAAP operating expenses were $51.2 million, also within our expectations for the quarter.
+"
+Person0,"Our non-GAAP operating margin was 14.6% of sales.
+"
+Person0,"GAAP operating expenses were $55.4 million and include $1.7 million in amortization of intangibles and $2.5 million in transaction costs associated with the Newport acquisition.
+"
+Person0,"Non-GAAP net earnings were $20.1 million or $0.38 per share compared to $18.4 million in the fourth quarter and $35.5 million in the first quarter of 2015.
+"
+Person0,"Our non-GAAP tax rate was approximately 28% and our GAAP tax rate was 26%, which includes the US federal tax benefit related to the Newport acquisition-related costs.
+"
+Person0,"GAAP net income was $17.6 million or $0.33 per share.
+"
+Person0,"Now, turning to the balance sheet, cash and investments increased by $8 million in the quarter to $667 million or approximately $12.51 per share, all of which is classified as short-term.
+"
+Person0,"As of March 31, our cash and investments were about evenly split between the US and our international operations.
+"
+Person0,"Total book value net of goodwill and intangibles increased to $928 million or approximately $17.42 per share.
+"
+Person0,"In terms of working capital, days sales outstanding were 56 days at the end of the first quarter compared to 54 days at the end of the fourth quarter.
+"
+Person0,"This slight increase in DSO is primarily due to the timing of revenue in the quarter.
+"
+Person0,"Inventory turns improved to 2.8 compared to 2.6 in the fourth quarter.
+"
+Person0,"Capital additions for the quarter were $2.2 million, depreciation and amortization expenses were $5.3 million, and non-cash stock compensation was $4.2 million.
+"
+Person0,"During the quarter, we paid a cash dividend of $9.1 million or $0.17 per share, and we repurchased 45,000 shares of stock for $1.5 million.
+"
+Person0,"Now, I will go through more detail regarding composition of revenues for the first quarter.
+"
+Person0,"Sales to the semiconductor market were $135 million for an increase of 18% compared to the fourth quarter and represented 73% of first-quarter revenue.
+"
+Person0,"Within the semiconductor market, sales to semiconductor OEMs increased 18% from the fourth quarter and comprised 60% of total sales and sales to semiconductor fabs increased 20% in the quarter and comprised 13% of total sales.
+"
+Person0,"Sales to other advanced markets decreased by $10 million or 16% from the fourth quarter and were $49 million, representing 27% of total revenue.
+"
+Person0,"Approximately one-half of this decrease is due to timing of orders within the quarter and remains within our thin-film markets, which include applications in solar, data storage, and LED, which are project based and can vary from quarter to quarter.
+"
+Person0,"Geographically, sales in the US were 51% of total revenue, sales in Asia were 38%, and sales in Europe were 11%.
+"
+Person0,"Sales to our top 10 customers represented 50% of total revenue.
+"
+Person0,"Sales to Applied Materials and Lam research comprised 19% and 17% of first-quarter sales respectively.
+"
+Person0,"Our headcount at the end of Q1 was 2160, down from 2181.
+"
+Person0,"The slight decrease is primarily due to normal seasonal attrition within our China-based manufacturing operations.
+"
+Person0,"In connection with committed financing to fund the acquisition of Newport, on April 19, we successfully allocated $780 million of Term Loan B that will be used to finance the acquisition.
+"
+Person0,"We are very pleased that the term loan was multiple times oversubscribed and, therefore, due to the strong demand, we were successful in reducing expected pricing by 75 basis points through both a lower spread and lower original issued discount than what were indicative terms we announced the transaction on February 23.
+"
+Person0,"The term loan was allocated at LIBOR plus 400 basis points with a 75 basis point floor and 99 original issued discount, which currently equates to a 5% annual interest rate.
+"
+Person0,"Immediately after the close of transaction, we expect an estimated cash on hand of over $400 million and a $50 million asset-backed revolver and additional liquidity.
+"
+Person0,"We committed to delevering the balance sheet, and we are pleased that this issuance was well received by debt investors.
+"
+Person0,"The term loan was rated BB by S&P and BA2 by Moody's.
+"
+Person0,"Finally, I will turn to Q2 2016 guidance, which includes transaction costs associated with the Newport acquisition, but does not include projected Newport results.
+"
+Person0,"Based upon current business levels, we estimate that our sales in the second quarter could range from $185 million to $205 million.
+"
+Person0,"Based on its expected sales range, our Q2 gross margin could range from 44.5% to 45.5%, reflecting these volumes' projected product mix.
+"
+Person0,"Q2 non-GAAP operating expenses can range from $52.5 million to $53.5 million.
+"
+Person0,"In the second quarter, R&D expenses could range from $17.8 million to $18.2 million.
+"
+Person0,"And SG&A expenses could range from $34.7 million to $35.3 million.
+"
+Person0,"The range of operating expenses in the second quarter reflects the timing of stock compensation expense, as well as the seasonal increase of certain compensation costs, more normalized work schedules in the US, and continuing investment in certain key research and development projects.
+"
+Person0,"As we have mentioned in previous calls, the timing of these projects is dependent upon a variety of factors and could vary from quarter to quarter.
+"
+Person0,"As indicated in our January call, we expect expenses will be slightly above our target property model for the first half of the year.
+"
+Person0,"It will return to more normalized levels in the second half of 2016.
+"
+Person0,"In the second quarter, amortization of intangible assets expect to be approximately $1.7 million, and Newport acquisition-related costs are expected to be $8.5 million and net interest income is estimated to be approximately $500,000.
+"
+Person0,"We expect our second-quarter non-GAAP income tax rate to be approximately 28%, reflecting the anticipated geographical mix of taxable income.
+"
+Person0,"Our GAAP income tax rate could be approximately 27%, reflecting the tax benefit of acquisition costs, which are deductible against US taxable income.
+"
+Person0,"Given these assumptions, second-quarter non-GAAP net earnings could range from $21.8 million to $29 million or $0.41 to $0.54 per share, and GAAP net income could range from $14.7 million to $22 million or $0.27 to $0.41 per share on approximately 53.7 million shares outstanding.
+"
+Person0,"This concludes our prepared remarks, and now I will open the call for questions.
+"
+Person1,"Yes, we will probably do that -- we are working on it right now.
+"
+Person1,"Probably in a third-quarter earnings call, we will definitely do that, perhaps a little bit earlier.
+"
+Person1,"We hadn't closed the transaction yet.
+"
+Person1,"We need to get through that first, and so it may occur later in the quarter, but certainly no later than the Q3 earnings call.
+"
+Person1,"Yes.
+"
+Person1,"Nothing we can share in a public forum.
+"
+Person1,"We obviously have internal models that we have vetted quite extensively, but we are kind of going out a couple of quarters would be more or less giving guidance, and I don't think we are ready to do that quite yet.
+"
+Person1,"We aren't going to delever the balance sheet, and if you look at combined companies on a pro forma basis, looking back in history, we generated about $1 million of free cash flow in the last 10 or 12 years on a combined basis.
+"
+Person1,"So the cash generation is quite strong, but I think I will wait until we get to the Q3 and lay out a little more of a Q3 model I think at that point in time.
+"
+Person0,"Actually, we had seen the order rates start to improve in the quarter.
+"
+Person0,"So my expectation is that we would see improvement in Q2 on the revenue side on non-semiconductor.
+"
+Person0,"You know, it is really kind of a bit of a lumpy business, but we are very excited about flat panel as an example and OLED in solar.
+"
+Person0,"In the OLED market, we are seeing there's like a 16% CAGR through 2020.
+"
+Person0,"And with that, with the Apple transition to the new iPhone late in 2016, the nonplanar curve displays for TV and mobile, we are excited about the continued strength in OLED, and it is across the board.
+"
+Person0,"It is great because our LIQUOZON zone is permanently used for cleaning.
+"
+Person0,"It is a great product that is well embraced around the world.
+"
+Person0,"It is particularly strong in Asia, but then we have our residual gas analyzers, pressure products, flow control.
+"
+Person0,"So we expect to see Q2 look better for the non-semi and hopefully continue on through the rest of the year.
+"
+Person0,"But it comes in waves, and it is kind of lumpy, and we did see the orders pick up, but they were longer booking than just the turns business as we expected.
+"
+Person1,"Well, I would actually like to spend a little more time giving you some more specifics.
+"
+Person1,"I would rather not answer right now, but if you look at the concentration we have in terms of the equipment manufacturers and the position we have with people like Samsung and others, it is a pretty significant opportunity.
+"
+Person1,"But I will give you the exact SAM at a later date.
+"
+Person1,"Well, thank you, <UNK>.
+"
+Person1,"Well, the leadtimes have been constant.
+"
+Person1,"One of the things we do every day is we look at booking and shipments every single day.
+"
+Person1,"That is the first thing I do when I come into work, and it is something I have done for over 30 years.
+"
+Person1,"And what it allows me to do is keep a pulse on the business rather than wait for a month of recorder.
+"
+Person1,"And we run the plants 24 x 7, so we have full utilization of all the equipment, which keeps the lead time and cycle times short.
+"
+Person1,"We have a flexible workforce that we can bring in in terms of temporary operators.
+"
+Person1,"We have the overtime that we use.
+"
+Person1,"And then, if you look at our inventory turn, some people might say, gee, your inventory turned don't turn that great, and part of that is we have what we call stored capacity, which is, because it is a lumpy business and it turns on a dime, we will have prebuilt inventory and whipped and then finished goods locations to adapt to an upturn in the business.
+"
+Person1,"So between keeping a pulse in the business every day, having a flexible workforce that we use in terms of temporary labor and over time, the strategic investment in stored capacity and inventory, I don't worry about turns in the business.
+"
+Person1,"It is actually -- we can go up in a quarter in the past 60%, 70%.
+"
+Person1,"I used to run around with my hair on fire back in the day.
+"
+Person1,"So if we are going up 20% in a quarter or 30%, that is something that is almost a yawn for MKS.
+"
+Person1,"So I mean I think people come to us because of technology, but they stay with us because of the operational capability.
+"
+Person1,"So we have got a pretty good thing around the pulse of that.
+"
+Person1,"Well, first of all, we've bought about 20 companies since we went public in 1999.
+"
+Person1,"So I believe we are really good at doing the due diligence and then outlining the integration strategy.
+"
+Person1,"We have established an integration steering committee, which I sit on with my direct reports.
+"
+Person1,"Then, the integration project teams report up into them, up into the steering committee.
+"
+Person1,"So we have flights for all levels of integration -- operations, supply chain, sales, product management.
+"
+Person1,"And I feel pretty comfortable that the actions that we have outlined in terms of integration and synergy attainment are well-known.
+"
+Person1,"We like the -- on the sales side, we really like the diversity of the markets they are in.
+"
+Person1,"We think it is nice to support us, and we have a little mild -- a reduction in the semi cycles.
+"
+Person1,"I have gotten some really good positive feedback from major customers about integrated subsystems longer-term they would like to see.
+"
+Person1,"And what is even more interesting is, after the deal was announced, one of our largest end-users called us and said, we want to talk about optical sensing.
+"
+Person1,"We think the combination of optics at Newport provides in the sensing capability of MKS is a game-changer in the fab and on the tool.
+"
+Person1,"And so we see cross-selling opportunities from the technology side.
+"
+Person1,"We see cross-selling opportunities because they have a list of customers in analytical instruments areas and other areas that we don't get to.
+"
+Person1,"They have a lot of feet on the street, and we have connections at the end users that they do not.
+"
+Person1,"So I think between the alignment of the teams, the continued focus we have on a weekly basis in terms of the work they are doing on the synergies and integration, and then the opportunities that we have looked at from the technology side, I think there is great opportunity.
+"
+Person1,"And I had a phone call from one of our largest customers, our VP of Supply Chain, and he had said that -- I can't get into who it is -- he said his COO commented on this is the type of company, MKS, that we should be doing business with.
+"
+Person1,"So, as they do their continued work and growing their business, they see us with a Newport-MKS combination as an incredible resource for our integrated subsystem business, and they expect to do more business with us as a result of it.
+"
+Person1,"So the whole thing is really positive.
+"
+Person1,"And it just takes a lot of time, a lot of effort, a lot of follow-up.
+"
+Person1,"But I think that is the type of work that MKS is really good at.
+"
+Person1,"And then, lastly, we have technology integration teams, and they have already started to talk about the roadmaps at Newport, about the roadmaps at MKS, how we can take the optics technology that they are developing in Newport and apply it into our environmental monitoring business because we use optics in a big way in terms of a stack monitoring and emissions control.
+"
+Person1,"And conversely, they are looking at sensing capabilities that we have into some of the other areas of Newport.
+"
+Person1,"So it is pretty exciting.
+"
+Person1,"Everybody is really (inaudible) up and ready to go about this one.
+"
+Person1,"Well, I think the cross-selling is immediate.
+"
+Person1,"I think the fact that we are already working -- our strategic marketing, Marcon groups, are already working on the sales resources that are necessary to go into alternative customers to cross-sell.
+"
+Person1,"So, if you can sell photonics and optics and lasers, you can sell flow controls and valves and pressure measurement instrumentation.
+"
+Person1,"So it is a matter of getting their salespeople trained and up to speed quickly.
+"
+Person1,"I think the integrated solutions piece, that could be a year or two out.
+"
+Person1,"Yes, that is going to talk about cross development and working roadmap with customers.
+"
+Person1,"But the cross-selling itself, I think, is almost immediate.
+"
+Person0,"Yes, <UNK>.
+"
+Person0,"So probably about three quarters of that mix is outside the US.
+"
+Person0,"So bringing that back, we would obviously pay a tax bite.
+"
+Person0,"So that is kind of the bigger equation there.
+"
+Person0,"There is -- working on it right now, there are, we believe, opportunities with this transaction to bring back a quantum of that offshore cash we think with very minimal incremental tax.
+"
+Person0,"And that is not baked into the models right at this point.
+"
+Person0,"We think we can probably optimize the onshore cash for this model.
+"
+Person0,"But right now, the way I look at it is $400 million of cash plus about $100 million in the US, outside the US it is kind of a rough sizing right now.
+"
+Person0,"Yes.
+"
+Person0,"So if we could, again, bring some of that cash back to the US -- we mentioned a minute ago, with kind of a very minimal tax bite.
+"
+Person0,"We will do that, and that gives us more flexibility.
+"
+Person0,"The cash in the US, we share buybacks, delever, all those things, obviously.
+"
+Person0,"The cash offshore right now is to fund the international operations and we have made some acquisitions outside the US the last couple of years, but I think you will see us really focusing on delevering the balance sheet.
+"
+Person0,"So we would like to bring that cash back to the US for that purpose in the short term -- next 12 months, for sure.
+"
+Person1,"I mean, it is possible we could do a small technology investment -- $8 million, $10 million, and it is something that we think it is emerging technology.
+"
+Person1,"What we don't want to do is not -- we want to take advantage of the technical advances in semi.
+"
+Person1,"And if we see organization or a business that has technology we want to get our hands on, we would make a small technology investment still.
+"
+Person1,"But in the range of $8 million, $10 million, something like that.
+"
+Person1,"Yes, probably a little bit of inventory.
+"
+Person1,"But, for the most part, it parallels pretty much what we see the customers doing, and it matches what we are seeing from people in terms of prospecting the growth in the 3D NAND and FinFET side.
+"
+Person1,"We are seeing some, but we expect a little more of it towards the latter part of the year.
+"
+Person1,"But people are already -- we are already involved in -- the nice thing is, we are already involved in 10 nanometer, but we are also involved in 7 at this point, too.
+"
+Person1,"It is beyond roadmapping, but actually, as they implement over time, we are already in practical applications.
+"
+Person1,"So we are already getting ahead of it.
+"
+Person1,"No.
+"
+Person1,"No, I contacted -- I mean, there was one facility from one of our Japanese customers that had some impact, but I don't think it was anything that was significant.
+"
+Person1,"We contacted them, and we have heard that they were in pretty decent shape.
+"
+Person1,"But none that we are aware of.
+"
+Person1,"Yes, in Q1, the order rate was substantially higher than the revenue rate, so definitely it is a trend heading in the right direction.
+"
+Person1,"And the double-digit growth rates we had in the past, it has been over a period of time.
+"
+Person1,"We help will have some quarter to quarter fluctuations on various markets like solar is a good example.
+"
+Person1,"But we still feel very good with the long-term growth rates in those markets, and again, the order rate we are seeing now in Q1 has trended in the right direction.
+"
+Person1,"So we are pretty positive about that.
+"
+Person1,"Well, we did see -- if you notice, we did come in on the high end of the guidance from -- in Q1.
+"
+Person1,"So we have a tendency sometimes to have people pull ahead of what they guide to or get ready for their production.
+"
+Person1,"And we see a steady pace in the business, but we think it is the best rate.
+"
+Person1,"I think people have us at an average of just under [200] for a midpoint we guided around [195].
+"
+Person1,"So plus or minus $4 million or $5 million in this business, to me, is just a matter of an order or two that people pull in or push out.
+"
+Person1,"Thank you.
+"
+Person1,"Thank you for joining us on the call today and for your continued interest in MKS.
+"
+Person1,"We look forward to updating you in our continued progress when we report our second-quarter results in July.
+"
+Person1,"Additionally, we hope to see you at some of our upcoming investor conferences, which include KeyBanc, Pac Crest Industrial Conference in Boston and the D.
+"
+Person1,"A.
+"
+Person1,"Davidson Technology Forum in New York, both on June 1, the Stifel Technology Conference in San Francisco on June 6, as well as the Stifel Industrials Conference in New York on June 13, and Semicon West in San Francisco July 12 and 13.
+"

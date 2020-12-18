@@ -1,0 +1,535 @@
+Person,Sentence
+Person0,"Thank you, <UNK>.
+"
+Person0,"Good afternoon, and thank you for joining us today as we report LogMeIn's first-quarter 2015 results.
+"
+Person0,"We are happy to report a great start to the year with strong Q1 financial performance.
+"
+Person0,"Revenue and earnings per share both exceeded the high end of our guidance.
+"
+Person0,"Total revenue for the quarter was $61.1 million.
+"
+Person0,"And non-GAAP earnings per share were $0.33, which was $0.06 above the high end of our guidance.
+"
+Person0,"We also generated $40 million in cash flow from operations, an extremely strong 66% of revenue.
+"
+Person0,"We are also pleased to share early that significant progress on our key strategic initiatives, join.
+"
+Person0,"me continues to be a great success story, and this year we will take steps designed to expand the ways join.
+"
+Person0,"me supports simple and instant collaboration.
+"
+Person0,"Our LogMeIn remote access products have long helped people to securely connect to the workplace from anywhere.
+"
+Person0,"And this year we have an opportunity to deliver the security and productivity we believe are needed for an app- and cloud-centric world.
+"
+Person0,"We see a highly favorable synergy emerging between our established service cloud business and the Internet of Things.
+"
+Person0,"And this year, we will deliver offerings that can help companies connect, manage and engage with their customers in the Internet of Things era.
+"
+Person0,"We believe these initiatives, combined with the continued strength and performance of our business, have put us in a favorable position to drive growth in Q2 and beyond.
+"
+Person0,"In 2014, join.
+"
+Person0,"me became a significant contributor to our fastest growing business, our collaboration cloud.
+"
+Person0,"And as we noted on our Q4 call, the ongoing success of join.
+"
+Person0,"me has positioned it to be LogMeIn's single biggest growth driver in 2015.
+"
+Person0,"That was indeed the case in Q1.
+"
+Person0,"Both join.
+"
+Person0,"me and the overall collaboration cloud business had a great first quarter.
+"
+Person0,"And we've got some exciting innovation on the horizon.
+"
+Person0,"This week we started an open beta for join.
+"
+Person0,"me video, a key milestone in our product evolution.
+"
+Person0,"The hallmark of join.
+"
+Person0,"me has been its instant and intuitive experience.
+"
+Person0,"And with video, we want the experience to be as easy, instant and great as join.
+"
+Person0,"me itself.
+"
+Person0,"We also wanted to deliver video collaboration at a scale and in a way that delivers great performance at low cost.
+"
+Person0,"That ultimately led to a build versus buy decision, and we decided to build our own proprietary video infrastructure into our Gravity platform.
+"
+Person0,"We believe that this gives us three distinct advantages.
+"
+Person0,"First, we are able to shape our video innovation to best match join.
+"
+Person0,"me's instant and intuitive experience.
+"
+Person0,"In other words, we can make video collaboration as easy and delightful as join.
+"
+Person0,"Second, we believe it gives us a great cost advantage.
+"
+Person0,"This not only creates competitive flexibility, but it also provides an opportunity to deliver favorable gross margins.
+"
+Person0,"And third, it gives us the opportunity to rapidly bring video innovation to other products in our portfolio.
+"
+Person0,"The join.
+"
+Person0,"me video beta is now open, and we expect general availability soon.
+"
+Person0,"Turning to our IT management business, as we noted at the start of the year, our goal for 2015 is to enhance our established offerings while delivering new innovation focused on the productivity and security needs of today's SMBs.
+"
+Person0,"In January, we introduced three new versions of Central designed to better match value with specific customer needs.
+"
+Person0,"We also delivered new innovation throughout the quarter, focused on security and productivity.
+"
+Person0,"New multi-monitor display capabilities introduced in February have been very well received by IT professionals and mobile professionals alike.
+"
+Person0,"And in late March and early April, we rolled out a variety of new security features to help businesses more easily enforce best practices for passwords and authentication.
+"
+Person0,"A new central feature empowers IT managers to mandate the use of two-factor authentication for all remote access users, while a clever new mobile app, called the LogMeIn Authenticator, uses push notifications to make this two-factor process secure, yet simple for remote access users.
+"
+Person0,"It's just the latest of what we believe is an opportunity to make security stronger, yet easier, in a cloud- and app-centric world.
+"
+Person0,"Turning to our service cloud business, which includes Rescue and BoldChat, we entered the year encouraged by two positive developments.
+"
+Person0,"The first was the fact that in Q4 2014, service cloud sales growth had exceeded revenue growth.
+"
+Person0,"And the second was what we believed to be a growing favorable synergy between this business and our IoT opportunity.
+"
+Person0,"We are happy to report another good quarter in Q1 with solid revenue growth, and once again service cloud sales outpaced revenue growth during the quarter.
+"
+Person0,"We also introduced a new innovation in Rescue that we believe could open up a new addressable market opportunity for supporting entirely new classes of products.
+"
+Person0,"In late March, we introduced Rescue Lens.
+"
+Person0,"Part of a new support of things initiative, Rescue Lens lets customer service teams troubleshoot product issues remotely by seeing what the customer sees.
+"
+Person0,"End users, which could be customers or could be other service professionals, use a free app and a live video stream from their smartphone to show customer service agents an issue on virtually any kind of product.
+"
+Person0,"Using Rescue, these customer service agents can guide users through troubleshooting and quickly capture key information.
+"
+Person0,"And this video support experience is fully integrated into Rescue's best-in-class workflow and reporting, as well as popular ticketing solutions like salesforce.com service now, Zen Desk, and more.
+"
+Person0,"Rescue has delivered many benefits to our customers, including faster resolution times, reduced service and support costs and higher customer satisfaction scores.
+"
+Person0,"And we believe Rescue Lens will bring similar benefits to other types of businesses and many new use cases.
+"
+Person0,"Rescue Lens has been well received by customers, press and the market at large.
+"
+Person0,"And we have customers that are now starting to employ it in the field.
+"
+Person0,"One example is Zero Motorcycles.
+"
+Person0,"Zero makes popular electric motorcycles.
+"
+Person0,"They are the Tesla of motorcycles, if you will.
+"
+Person0,"They started using Rescue to assist with diagnostics and repairs by giving experts at Zero the ability to see and guide mechanics through the troubleshooting of potential issues.
+"
+Person0,"It's a type of use case that one would not normally associate with remote support software like Rescue.
+"
+Person0,"It's a use case that we believe illustrates the opportunity to leverage Rescue Lens to provide enormous value outside of computer and device support.
+"
+Person0,"It's also worth pointing out that the video innovation delivered in Rescue Lens leverages the same video infrastructure as join.
+"
+Person0,"me.
+"
+Person0,"And this offers an initial example of how we believe we will continue to benefit from this new important part of investments in video.
+"
+Person0,"We are also excited about the new IoT innovation that we are bringing to market with Xively, and how this could shape our broader IoT opportunity.
+"
+Person0,"Our pioneering efforts in the IoT helped us attract many early IoT customers, companies that are often first movers in their markets.
+"
+Person0,"And we believe that this early experience has given us rare insight to shape both our products and our vision of how to help companies transform into connected product businesses.
+"
+Person0,"Last week we announced a new version of Xively that significantly improves the speed, scalability and security of the platform.
+"
+Person0,"To make the transition to a connected products business, we believe companies must enable instant secure connectivity between products, applications, and the business, implement management systems that collect and organize information to drive insight and drive actions.
+"
+Person0,"And transform the business through deeper customer, product and partner engagement.
+"
+Person0,"The new version of Xively delivers great functionality specifically designed to address these need, while significantly bolstering the security, speed and scalability of the platform.
+"
+Person0,"We added something we call Xively Blueprint.
+"
+Person0,"Blueprint allows a company to map its business to our cloud service.
+"
+Person0,"Blueprint lets a company manage the rules, permissions and relationships of all the people, products, partners and applications in its entire connected business.
+"
+Person0,"Blueprint also helps support the secure provisioning of products and devices onto Xively, plus it allows us to deliver dynamic permission checking within our data services.
+"
+Person0,"This increases security and enhances flexibility for our customers while reducing the total effort needed to roll out a successful IoT product.
+"
+Person0,"We also enhanced our Gravity system to meet the complex needs of IoT in terms of scale and speed.
+"
+Person0,"We believe this gives Xively unique capabilities to deliver high-speed communication between millions of devices while adhering to the highest security standards.
+"
+Person0,"And we are committed to making Xively the best solution for companies wishing to introduce IoT products.
+"
+Person0,"In summary, it was a great quarter and a strong start to the year.
+"
+Person0,"We believe that the significant progress on our key strategic initiatives, combined with the strong Q1 financial performance, have positioned us favorably.
+"
+Person0,"Our collaboration, IT management and service cloud businesses continued to perform well.
+"
+Person0,"I will now turn the call over to our Chief Financial Officer, <UNK> <UNK>, for more details about our Q1 results, as well as our guidance for Q2 2015.
+"
+Person1,"Thank you, <UNK>.
+"
+Person1,"During my comments I will discuss our performance on a GAAP and non-GAAP basis.
+"
+Person1,"Non-GAAP excludes stock-based compensation expense, litigation-related expense and acquisition-related costs and amortization.
+"
+Person1,"Our non-GAAP results are more representative of how we internally measure the business and are reconciled in the tables attached to our press release.
+"
+Person1,"With the exception of revenue metrics, all numbers in my remarks will be non-GAAP unless I specify otherwise.
+"
+Person1,"I am pleased to report financial results for our first quarter, which exceeded the guidance we provided in February.
+"
+Person1,"These results mark a strong start to our new fiscal year, despite challenging currency markets that continue to devalue the euro relative to the dollar.
+"
+Person1,"Total revenue for the first quarter was $61.1 million, surpassing the high end of our guidance by $400,000.
+"
+Person1,"Adjusted EBITDA was $12.6 million, or 21% of revenue, $500,000 greater than the high end of our guidance.
+"
+Person1,"Net income for the first quarter was $8.5 million, $1.6 million greater than the high end of our guidance.
+"
+Person1,"Net income per share for the first quarter was $0.33, $0.06 above the high end of our guidance.
+"
+Person1,"$0.02 of the over-delivery was attributable to stronger revenue and margin performance and $0.04 was due to higher nonoperating income.
+"
+Person1,"Net income excludes $4.9 million of stock-based compensation expense, $4.3 million of litigation-related expense, and $2.5 million of acquisition related costs and amortization.
+"
+Person1,"Included in the litigation-related expense is a $3.6 million one-time expense to resolve a trademark-related dispute with Sensory Technologies.
+"
+Person1,"GAAP operating cash flow was very strong at $40 million, or 65% of revenue.
+"
+Person1,"GAAP net income for the first quarter was $372,000, or $0.01 per share.
+"
+Person1,"Further reviewing our performance in the first quarter, revenue increased 25% over the first quarter of 2014 to $61.1 million.
+"
+Person1,"We experienced continued strong performance across our entire portfolio, despite operating in a challenging FX environment.
+"
+Person1,"On a constant currency basis, first quarter revenue grew 30% over the first quarter of 2014.
+"
+Person1,"On a geographic basis, for the first quarter international revenue was 30% of total revenue versus 32% the previous quarter.
+"
+Person1,"Similar to previous quarters, Latin America continued to be our fastest-growing international region.
+"
+Person1,"On a product line basis, in the first quarter collaboration cloud revenue grew 52% year over year.
+"
+Person1,"Collaboration cloud revenue was 31% of total revenue, up 1 percentage point from the prior quarter.
+"
+Person1,"Growth in the collaboration cloud was driven by continued strong performance of join.
+"
+Person1,"me.
+"
+Person1,"In the first quarter, IT management cloud revenue grew 24% year over year and was 33% of total revenue, which is consistent with the prior quarter.
+"
+Person1,"In the first quarter, service cloud revenue grew 7% year over year, and on a constant currency basis, service cloud revenue grew 12%.
+"
+Person1,"Service cloud revenue was 35% of total revenue in the first quarter, down 1 percentage from the prior quarter.
+"
+Person1,"Across all product lines, gross renewal rates were approximately 80% on an annualized dollar basis, consistent with prior quarters.
+"
+Person1,"Net income in the first quarter was $8.5 million, or $0.33 per share, up $0.06 from the high end of our guidance.
+"
+Person1,"$0.02 of the over-delivery was due to revenue and margin performance that exceeded our expectations.
+"
+Person1,"$0.04 of the over-delivery was due to higher nonoperating income, primarily related to FX gains incurred by our various form subsidiaries related to non-euro denominated cash balances and settlements.
+"
+Person1,"Gross margin in the first quarter was 90%.
+"
+Person1,"Our first quarter operating margin was 17.4%.
+"
+Person1,"Consistent with prior years, our first quarter operating margin is approximately 3 to 4 percentage points less than our Q4 operating margin.
+"
+Person1,"The decrease was attributable to salary and benefit increases associated with our annual employee review process that took effect for 2015, the front-end hiring of new sales employees in the quarter and to expenses associated with our annual sales and marketing conference.
+"
+Person1,"Our adjusted EBITDA margin was 20.5%, above the high end of our guidance provided last quarter.
+"
+Person1,"The effective tax rate for the first quarter was 29.4%, consistent with our guidance.
+"
+Person1,"With regard to operating expenses, sales and marketing expenses were $32 million, or 52% of revenue.
+"
+Person1,"The increase in absolute dollars and as a percentage of revenue from the fourth quarter of 2014 was primarily due to an increase in headcount and personnel-related costs, costs related to our sales and marketing conference and increased marketing program costs.
+"
+Person1,"Research and development expenses in the first quarter were $7.2 million, or 12% of revenue, consistent with last quarter.
+"
+Person1,"G&A expenses were $4.9 million, or 8% of revenue in the first quarter.
+"
+Person1,"Quarter-end headcount was 862, up 58 net new employees in the quarter.
+"
+Person1,"The majority of our headcount increases were in sales and marketing, and research and development.
+"
+Person1,"Turning to the balance sheet.
+"
+Person1,"GAAP free cash flow for the first quarter was $35.1, million or 57% of revenue.
+"
+Person1,"The significant cash flow was primarily due to strong sales and renewals of LogMeIn Pro during the quarter, plus the receipt of customer payments for many of our large orders booked in the fourth quarter.
+"
+Person1,"We ended the quarter with cash, cash equivalents and marketable securities of $232.5 million, an increase of $31.3 million from the prior quarter.
+"
+Person1,"During the quarter we spent $5.1 million to repurchase approximately 93,000 shares.
+"
+Person1,"Total accounts receivable were $12.6 million as compared to $18.3 million in the prior quarter.
+"
+Person1,"Accounts receivable day sales outstanding were 19 days versus 27 days last quarter.
+"
+Person1,"Total deferred revenue in the first quarter was $128.6 million, an increase of $23.3 million over the fourth quarter, and represents 23% year-over-year growth.
+"
+Person1,"Now I will finish with our outlook for the second quarter and full year 2015.
+"
+Person1,"For the second quarter of 2015, we expect total revenue to be in the range of $63.7 million to $64.2 million.
+"
+Person1,"Our guidance takes into account the continued shift in foreign exchange rates.
+"
+Person1,"On a constant currency basis, we would expect 24% second quarter year-over-year revenue growth at the midpoint of our guidance.
+"
+Person1,"We are expecting adjusted EBITDA for the second quarter in the range of $13.6 million to $13.9 million, representing an adjusted EBITDA margin of 21% to 22%.
+"
+Person1,"Our net income per diluted share, which excludes stock-based compensation expense, litigation-related expense and acquisition-related costs and amortization, is expected to be in the range of $0.32 to $0.33.
+"
+Person1,"GAAP net income per share is expected to be in a range of $0.10 to $0.11.
+"
+Person1,"For the full FY15, we expect total revenue to be in the range of $262 million to $265 million, which represents 19% growth at the midpoint.
+"
+Person1,"On a constant currency basis, we would expect 26% revenue growth for 2015 at the midpoint of our guidance.
+"
+Person1,"We are expecting adjusted EBITDA for the full-year to be in the range of $58 million to $61 million, representing an adjusted EBITDA margin of 22% to 23%.
+"
+Person1,"Our net income per diluted share, which excludes stock-based compensation expense, litigation-related expense and acquisition-related costs and amortization is expected to be in the range of $1.36 to $1.44.
+"
+Person1,"GAAP net income per share is expected to be in the range of $0.36 to $0.46.
+"
+Person1,"For both the second quarter and the full fiscal year, net income assumes an effective tax rate of approximately 30%, and GAAP net income assumes an effective tax rate of approximately 15%.
+"
+Person1,"All per-share amounts are based on estimated 25.5 million average shares outstanding.
+"
+Person1,"With that, I'll turn the call back to the operator to take your questions.
+"
+Person2,"Sure.
+"
+Person2,"This is <UNK> <UNK>, and thanks for the question.
+"
+Person2,"So far, it's performed very strongly.
+"
+Person2,"It's exceeded our expectations.
+"
+Person2,"And I think it demonstrates that we continue to see value, and our customers see value in the LogMeIn product.
+"
+Person2,"So very pleased with how it is going so far.
+"
+Person0,"That's a great question, <UNK>.
+"
+Person0,"This is <UNK>.
+"
+Person0,"It was actually a software update.
+"
+Person0,"We continually do refresh the hardware and expand the number of data centers we have.
+"
+Person0,"And that sort of investment has been long baked into our CapEx structure that you've seen year in/year out.
+"
+Person0,"So the comments were referring specifically to expanding capabilities of Gravity specifically for the unique needs of the IoT.
+"
+Person0,"And that was essentially a software change.
+"
+Person0,"Yes <UNK>.
+"
+Person0,"So the video service that is part of Gravity itself will ultimately be available in Xively as well, and maybe other applications.
+"
+Person0,"But it is certainly plan to be part of our Xively offering.
+"
+Person0,"Thank you, <UNK>.
+"
+Person2,"Thanks for the question, <UNK>.
+"
+Person2,"This is <UNK>.
+"
+Person2,"I think not only does it enhance the current value proposition of join.
+"
+Person2,"me, so it brings a new video experience to it.
+"
+Person2,"I also think it takes us down the -- it demonstrates that we're moving towards collaboration.
+"
+Person2,"When you see video, and I encourage you to use the product in beta, you'll experience it.
+"
+Person2,"And when you put that video experience, and we think it's done in a really delightful, simple way so it's consistent with the join.
+"
+Person2,"me experience, we think it really actually starts to move the product beyond just online meetings and towards collaboration.
+"
+Person2,"Both products are actually part of our IT management business that we talk about.
+"
+Person2,"And on the AppGuru side, as we said before previously, what we really feel like is access is being redefined in terms of access used to be about remote access to a device.
+"
+Person2,"And we now it's about not just remote access to a device but access to apps.
+"
+Person2,"And that's really where both of those products come into play.
+"
+Person2,"And in particular, we felt we needed the password management component of that, which was a piece that we acquired when we made the Meldium acquisition late last year.
+"
+Person2,"That's actually now all being integrated into Meldium.
+"
+Person2,"And that will be our password management solution that we continue to roll out.
+"
+Person2,"And you'll see enhancements that will be made to that product here over the summer.
+"
+Person1,"Sure, <UNK>.
+"
+Person1,"Thanks for your question.
+"
+Person1,"As you know, we had a really strong quarter with 23% increase in deferred revenue year over year.
+"
+Person1,"For the balance of the year, we'd expect year-over-year growth in the low 20% range for each quarter of this year.
+"
+Person1,"Year-over-year growth, low 20% for each quarter for the balance of the year.
+"
+Person0,"Thanks, <UNK>.
+"
+Person0,"They actually -- <UNK>, this is <UNK>.
+"
+Person0,"They actually were a customer for Rescue, but they definitely are an early adopter of the Lens technology.
+"
+Person0,"And we are really excited with what they are doing.
+"
+Person0,"And I think Lens is an interesting example of what video can do for us, because it actually does expand the total addressable market for remote support for us.
+"
+Person0,"And you can imagine with Lens, it's very useful for our core customers for doing things like printer support, but it's also useful for customers who are trying to engage with their end users, their customers, for things.
+"
+Person0,"We've actually had discussions with people who are doing things like insurance adjusting and things like that, you can imagine.
+"
+Person0,"I don't want to get too far ahead, but it's actually a very useful technology that fully integrated into companies that need to manage service, that they need to be able to audit this, they need to be able hand off incidents in real time.
+"
+Person0,"So we feel like Lens has gotten a great reception.
+"
+Person0,"And Rescue itself and our service cloud in general had a great Q4, very good Q1 as well.
+"
+Person0,"And sort of an interesting thing with our service cloud, as reported it's 7% growth year over year.
+"
+Person0,"But on a constant currency basis that would be 12% growth.
+"
+Person0,"And we have said explicitly in our call, the last two calls, that our bookings growth has exceeded the revenue growth, meaning that its outperforming.
+"
+Person0,"And we feel like Rescue Lens is an important part of that.
+"
+Person0,"It's allowed us to engage with both new types of customers in terms of using Rescue.
+"
+Person0,"But also to expand Rescue's footprint within the organizations we already serve.
+"
+Person1,"So for Q1, we saw the dollar strengthen 14% over last year, which resulted in 5 points of headwind in the first quarter.
+"
+Person1,"Q2, related to the midpoint of our guidance for Q2, we see 8% impact on foreign currency in the quarter as well.
+"
+Person1,"And then for the full year finally, 7% impact to the full year.
+"
+Person1,"And then regarding margins, the raise is a combination of seeing some benefit from the fact that we have significant expenses offshore and also attributable to our beat in the first quarter as well.
+"
+Person0,"Thanks, <UNK>.
+"
+Person2,"Sure.
+"
+Person2,"This is <UNK>.
+"
+Person2,"I think the majority of our join.
+"
+Person2,"me today, we take a lot of share away from legacy providers because the ease-of-use of join.
+"
+Person2,"me.
+"
+Person2,"So we find as users (technical difficulties) adopted, even of their company has bought something else.
+"
+Person2,"We will then normally go in and replace an existing provider.
+"
+Person2,"As I mentioned earlier, in my earlier comment, the shift towards video and collaboration we think creates a lot more greenfield than just the online meeting market.
+"
+Person2,"And we think that has an ability to expand where we can sell join.
+"
+Person2,"We are very excited by that.
+"
+Person2,"And yes, we do provide -- on a quarterly basis we break out percentage of revenue by each cloud, but we don't do it on the product level on each quarter.
+"
+Person2,"We just did that just to give everyone a sense of where (technical difficulties) was.
+"
+Person2,"Sure, <UNK>.
+"
+Person2,"As a reminder to everyone, in January we introduced packages of Central to really simplify the way businesses could select and benefit from LogMeIn's remote access products.
+"
+Person2,"And we were really pleased with how customers responded to this.
+"
+Person2,"And we saw that play out in both strong dollar and account renewal rates.
+"
+Person2,"And we also saw a positive impact to our new business.
+"
+Person2,"But keep in mind, the Central packaging changes that we made have nowhere near the impact that the elimination of free did last year.
+"
+Person2,"It's relatively small in comparison.
+"
+Person2,"But new sales for both LogMeIn Pro and Central continue to perform well above our expectations.
+"
+Person2,"So it's not just the renewals that we were pleased to see, but it's also the new business.
+"
+Person2,"And finally I would just say, keep in mind that these are pretty low cost products.
+"
+Person2,"And so what we're seeing is that they continue to deliver a durable value for relatively paltry sum.
+"
+Person2,"Thanks for your question, <UNK>.
+"
+Person2,"This is <UNK>.
+"
+Person2,"We haven't announced yet formal pricing and packaging for video.
+"
+Person2,"We just launched beta today, this morning.
+"
+Person2,"We still have a little bit of time to finalize our pricing and packaging.
+"
+Person2,"But we do think it will ultimately help customers be more comfortable, not just adopting our product, the free product, but also upgrading into the Pro and enterprise versions of our product.
+"
+Person0,"Sure, <UNK>.
+"
+Person0,"Essentially, we have the advantage of being very early into the IoT space.
+"
+Person0,"And we have live customers who are running IoT products right now.
+"
+Person0,"And what we have learned with them and from our own experience as an early SaaS company is connectivity is not enough in of itself.
+"
+Person0,"There are sort feature and product enablement that people need to add to turn a regular product into maybe a greatly improved IoT era product.
+"
+Person0,"But once you have connected products, you often and have a connected business, meaning that it's not simply enough to have an app interact with a physical product.
+"
+Person0,"There is data management and analysis needs.
+"
+Person0,"And then there is the ongoing business of interacting with your customers and engaging with those customers.
+"
+Person0,"So for us, a connected business, the type of customers we serve are not just connected product companies, but they are connected businesses.
+"
+Person0,"And what that means is there is an ongoing and enduring relationship between the company, the product and the customers.
+"
+Person0,"And the value of having the company involved greatly improves -- or is greatly improved by the ongoing relationship.
+"
+Person0,"Think of companies that have logistic needs, service delivery, replenishables, those type of companies really are much better the day they roll out a connected product.
+"
+Person0,"And we are helping them solve the entire stack from engage, connect-managing-engage with their products and customers.
+"
+Person0,"And so very quickly people realize that what we do in Rescue from really what were first IoT-type products of PCs, laptops, smartphones, tablets, servers, those are really the forerunners of a smart device that you might see in the IoT world, premium support engagement is a critical part of their business plan, a critical value driver.
+"
+Person0,"And so things like Rescue Lens and Rescue support functionality are very much part of the Xively roadmap.
+"
+Person0,"Thank you, <UNK>.
+"
+Person0,"Thank you for your questions tonight.
+"
+Person0,"LogMeIn had a great first quarter, and we believe we are in a favorable position to deliver continued growth in Q2 and throughout 2015.
+"
+Person0,"Our goal remains to increase shareholder value by delivering growth and increasing our strategic positions in our collaboration, SMB IT and IoT markets while driving superior cash flow from our established businesses.
+"
+Person0,"And we believe that we made significant progress on our key strategic initiatives in Q1, including expanding join.
+"
+Person0,"me's collaboration opportunity, helping IT deliver the security and productivity needed in an app- and cloud-centric world, and delivering offerings that help companies connect, manage and engage with their customers in the Internet of things era.
+"
+Person0,"We look forward to sharing our continued progress when we report our Q2 results in July.
+"
+Person0,"Thank you again for your time this evening.
+"

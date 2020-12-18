@@ -1,0 +1,393 @@
+Person,Sentence
+Person0,"Thanks, <UNK>, and thank you all for joining the call today.
+"
+Person0,"I'll start with some comments on our first quarter performance, then turn it over to <UNK> who will go through our financial results and outlook.
+"
+Person0,"I'll wrap up by discussing our focus areas for the rest of the year and open up the call for Q&A.
+"
+Person0,"I'm pleased to report that we got off to a solid start to the year and made strides toward achieving our full-year goals.
+"
+Person0,"Our revenue was in line with the target we've previously laid out for Q1, led by a strong quarter in supercomputing as well as continued progress on our big data efforts across storage and analytics.
+"
+Person0,"As we discussed on our last call, our goals remain to continue to drive revenue growth and to establish stronger presence in the big data market.
+"
+Person0,"Let me now give you a quick update on the progress we made in each of our product groups during the first quarter.
+"
+Person0,"In supercomputing, we have two primary product offerings, our XC and CS line.
+"
+Person0,"The XC40 is our most scalable and advanced supercomputer and the CS400 is our highly flexible cluster.
+"
+Person0,"As anticipated, during the first quarter, we completed the acceptance of the two super computers originally planned for Q4 last year.
+"
+Person0,"We also completed additional system installations in Canada, India, Switzerland, South Africa, the UK and the US across commercial, government and academic customers.
+"
+Person0,"We also completed our first XC supercomputer installation in Poland at Stalprodukt, a commercial steel manufacturer who will use this system to perform high level structural analysis and modeling for advanced steel manufacture.
+"
+Person0,"Also during the quarter, we were selected by Petroleum Geo-Services, a global leader in marine geophysical exploration to deliver an XC40 and Sonexion storage solution, and we're already in the delivery and installation process.
+"
+Person0,"IDC, one of the leading market intelligence firms pointed out that this is one of the most powerful systems in any commercial market.
+"
+Person0,"The main driver of this system for PGS will be to analyze huge amounts of seismic data as part of their extremely ambitious Triton survey in the deep waters of the Gulf of Mexico.
+"
+Person0,"This system is yet another Cray supercomputer that is helping energy customers use our unique technology to enable advanced capabilities that weren't possible just a few years ago.
+"
+Person0,"As we look into the future, we took a big step last month as we laid out our plans for our next generation supercomputer, which is codenamed Shasta and is targeted for release in 2018.
+"
+Person0,"Shasta will be a groundbreaking platform, merging the best technology from across our product families in a range of future technologies into a truly adaptive framing.
+"
+Person0,"It will be the full embodiment of our Adaptive Supercomputing vision, allowing seamless support of both supercomputing and analytics workloads in a single system.
+"
+Person0,"At the same time, we announced that Argonne National Laboratory selected our Shasta system for the Department of Energy's CORAL project.
+"
+Person0,"As we've discussed in the past, we'll be partnering with Intel on this product program.
+"
+Person0,"<UNK> will describe the financial side of this project in a bit but there are two major deliverables.
+"
+Person0,"The first system, which Argonne plans to call Theta is slated to be a future XC supercomputer and Cray storage and is scheduled for delivery in 2016.
+"
+Person0,"The second and much larger of the two is named Aurora and will be based on a Cray Shasta system, currently scheduled to be delivered in 2018.
+"
+Person0,"Aurora will service as Argonne's flagship system and is expected to have a peak performance of 180 petaflops.
+"
+Person0,"It's an exciting project that will be a major step forward in technology, providing a groundbreaking resource for computational science and engineering and we're honored that we were selected to be part of the program.
+"
+Person0,"Our collaboration with Intel ensures that we'll be among the first to market with new Intel technologies as they're introduced over the next few years.
+"
+Person0,"In storage and data management, we have two complementary offerings, our high performance Sonexion storage system and our Tiered Adaptive Storage archive solution also known as TAS.
+"
+Person0,"Each of these provide customers with unique scalable solutions that solves some of their toughest data management problems.
+"
+Person0,"During the first quarter, we completed a number of Sonexion installations around the world and among these was our first Sonexion 2000 shipment.
+"
+Person0,"The Sonexion 2000 is our latest generation storage solution, which we launched in Q4 last year.
+"
+Person0,"And it offers customers 50% more performance and capacity in the same footprint.
+"
+Person0,"In big data analytics, we have two unique offerings, the Urika-GD and XA platforms.
+"
+Person0,"As we speak, we're in the process of installing a Urika-GD for graph discovery at King Abdullah University of Science and Technology in Saudi Arabia.
+"
+Person0,"KAUST is a really exciting installation for us as it includes Cray systems across computing, storage and analytics, showing the broader value that we can deliver to customers.
+"
+Person0,"Shifting gears, we made a couple of notable additions to our leadership team.
+"
+Person0,"In Europe, Catalin Morosanu joined us as VP of EMEA sales.
+"
+Person0,"He has held sales leadership roles throughout the region, including with Intel where he was responsible for their large enterprise business across Europe.
+"
+Person0,"In our Asia-Pacific region, Nick Gorga also joined us as VP of sales.
+"
+Person0,"Most recently, Nick served as general manager of the AP region at SGI and joins us with more than 20 years of experience in the high performance computing market.
+"
+Person0,"We also added a new board member, Marty Homlish.
+"
+Person0,"Marty is a great addition for us as he has held senior leadership roles with Sony, SAP and Hewlett-Packard and is currently the CEO of AMP, a marketing agency under the Omnicom Group.
+"
+Person0,"I'm very excited to add these talented leaders to the Cray team.
+"
+Person0,"Before I turn it over to <UNK>, I want to mention that sadly Bill Blake passed away on March 31.
+"
+Person0,"As many of you know, Bill served on our Board of Directors from 2006 to 2012 and then as our CTO from 2012 to 2014.
+"
+Person0,"His influence in our company has been profound and his presence in our industry will clearly be missed.
+"
+Person0,"Bill was a close friend to many of us and our condolences go out to Jane and his family and we are proud to have worked with him during his distinguished career.
+"
+Person0,"Now here is <UNK>.
+"
+Person1,"Thank you Pete.
+"
+Person1,"I cannot agree more with Pete's sentiments and want to pass along my condolences to Bill's family and friends.
+"
+Person1,"Before I get to the 2015 outlook, let me first take you through our first quarter financial results.
+"
+Person1,"For the first quarter, revenue was $80 million and as anticipated, we reported a loss.
+"
+Person1,"Product revenue was $53 million and service revenue was $27 million.
+"
+Person1,"Please note the majority of my comments are going to focus on our non-GAAP measurements as we feel that is the best way to look at the Company and our progress.
+"
+Person1,"On a non-GAAP basis, gross profit margin was 31% for the quarter with product margin coming in at 24% and service margin at 45%.
+"
+Person1,"Non-GAAP quarterly operating expenses were $38 million, about $0.5 million higher than the prior year quarter.
+"
+Person1,"Non-GAAP net loss for the quarter was $10.9 million or $0.28 per share.
+"
+Person1,"Our non-GAAP net loss was about $1.5 million higher than our GAAP net loss due to a smaller non-GAAP tax benefit.
+"
+Person1,"Our first quarter GAAP operating results include $3.4 million for depreciation, $3.2 million for stock compensation and $600,000 for amortization.
+"
+Person1,"Shifting to the balance sheet, total cash, investments and restricted cash at the end of the quarter was $148 million, up slightly from the end of 2014.
+"
+Person1,"Net working capital decreased by $9 million in the quarter to $353 million.
+"
+Person1,"Inventory was up significantly in the quarter at $210 million with 37% or $79 million already out of customer sites and in the acceptance process.
+"
+Person1,"You may recall that we do not typically buy inventory until we have a customer identified or a finalized contract.
+"
+Person1,"So, with $210 million in inventory, you can see that we are anticipating some very large installations in the next couple of quarters, several of which are already in process.
+"
+Person1,"As Pete mentioned earlier, we recently had a huge win with the Department of Energy for the CORAL project.
+"
+Person1,"Let me provide some additional context for our role in the project.
+"
+Person1,"As we've discussed before, we'll be a subcontractor to Intel and we'll be working closely with them on the program for Argonne.
+"
+Person1,"There are multiple steps and options related to each of the deliverables, which makes for a wide range of potential solutions and corresponding financial outcomes.
+"
+Person1,"Intel announced that the total value of the contract is more than $200 million and at this point, we expect our portion consisting of products and multi-year services to be roughly half the total.
+"
+Person1,"Our portion of Theta, the initial system, is expected to be in the range of $20 million including services.
+"
+Person1,"As Pete mentioned, Theta is expected to be delivered in 2016 and Aurora, the larger Shasta-based system is expected to be delivered in 2018.
+"
+Person1,"I would now like to take a moment to discuss our outlook.
+"
+Person1,"Actual results for any future period are subject to large fluctuations and a wide range of results remains possible, given the nature of our business.
+"
+Person1,"We are maintaining our outlook for 2015.
+"
+Person1,"We continue to expect revenue to be in the range of $715 million for the year.
+"
+Person1,"Revenue is expected to ramp quarterly, with a $130 million in the second quarter and we continue to expect that roughly 40% to 45% of our annual total will come in the fourth quarter.
+"
+Person1,"For the year, overall non-GAAP gross margin is anticipated to be about 35%.
+"
+Person1,"Total non-GAAP operating expenses for the year are expected to be in the range of $195 million.
+"
+Person1,"Non-GAAP adjusting items are expected to include about $12 million in stock-based compensation and about $2 million in amortization of intangibles.
+"
+Person1,"About 20% of these items are expected to impact gross profit with the remainder going to operating expenses.
+"
+Person1,"Interest and other income and expenses are expected to have a modestly positive impact in 2015, benefiting from interest on a lease receivable related to a 2014 system sale.
+"
+Person1,"Our reported GAAP effective tax for 2015 is expected to be about 40%.
+"
+Person1,"This tax estimate is highly dependent on a number of variables.
+"
+Person1,"However, the large majority of our reported income tax provision for 2015 is expected to be offset by previous net operating losses and thus will not require cash.
+"
+Person1,"Our effective non-GAAP tax rate is anticipated to be in the 6% to 10% range for the year.
+"
+Person1,"Share count, when profitable, should be in the 41 million to 42 million range, but is dependent on a number of factors including our share price.
+"
+Person1,"In summary, we continue to make good progress.
+"
+Person1,"Based on this outlook, we expect to be profitable on a GAAP and non-GAAP basis for 2015 and we continue to expect our operating leverage to improve substantially over 2014.
+"
+Person1,"With that, I'll turn it back over to Pete.
+"
+Person0,"Thanks, <UNK>.
+"
+Person0,"I want to give an update on our two major focus areas for the year.
+"
+Person0,"The first is to drive strong growth in our targeted markets of supercomputing and big data storage and analytics.
+"
+Person0,"Our goal is to grow at twice the market rate in each of these three markets.
+"
+Person0,"With two compelling offerings in each market, we are well positioned to grow and take additional share.
+"
+Person0,"Following a record year for new contracts in 2014, our momentum has continued with some exciting new wins for revenue later this year as well as further out providing confidence for our ability to grow.
+"
+Person0,"We've been steadily improving our market share in the high end of supercomputing for the last few years and we continue to make progress with our other products.
+"
+Person0,"One of these new wins was just announced a couple of weeks ago as we were selected by the Department of Energy's National Energy Research Scientific Computing Center or NERSC to deliver an XC40 later this year, targeted at their data-intensive applications.
+"
+Person0,"This is an additional award to the larger NERSC contract we announced late last year.
+"
+Person0,"It will be their first system in their newly built facility in Berkeley, California and a precursor to the larger Cori system, also a Cray, that we expect to deliver in mid 2016.
+"
+Person0,"A couple of other notable wins we've recently secured where with a leading manufacturing company and a large pharmaceutical company each here in the US.
+"
+Person0,"Both of these companies selected an XC40 to expand their R&D efforts.
+"
+Person0,"These are good examples of how our addressable market is expanding as we continue to see more and more commercial companies looking to leverage supercomputing technology to help them with the increase of both the number and complexity of data-intensive applications being utilized throughout their organization.
+"
+Person0,"We're in an excellent position to benefit from this growing trend happening across a variety of industries.
+"
+Person0,"Our second major focus area for the year is to continue to establish a stronger presence in the big data storage and analytics markets.
+"
+Person0,"As I mentioned earlier, our Sonexion storage system and TAS archive solution provide customers with unique scalable offering to solve some of their toughest data management challenges.
+"
+Person0,"We're in the process of installing both TAS and Sonexion storage at KAUST in Saudi Arabia and we're working on several additional large Sonexion installations at other sites around the world.
+"
+Person0,"All told, between just four of our Sonexion customers, KAUST, PGS, Los Alamos National Laboratory and the UK Met Office, we'll be delivering over 120 terabytes of new storage capacity in the coming quarters.
+"
+Person0,"This is a significant endorsement of the scalability of our Sonexion solution and its ability to support a broad range of applications.
+"
+Person0,"On the analytics front, we have several active opportunities in the pipeline spanning a mixture of proof of concepts and new engagements across both the Urika-GD and XA platforms.
+"
+Person0,"Just last week, the Urika-XA received another nice recognition when it was named the Best of Show for IT Hardware and Infrastructure at the 2015 Bio-IT World Conference & Expo.
+"
+Person0,"The XA provides customers with a flexible open platform for analytics and is uniquely designed for high performance customers across various industries including commercial enterprise, academia and government.
+"
+Person0,"The annual Cray Users Group meeting, which was in Chicago this year, just wrapped up last week.
+"
+Person0,"It's always a great week for me and our company as we get to spend time with our customers from all around the world, learn more about the amazing things they are doing with our systems and hear about their needs for the future.
+"
+Person0,"I came away from it more convinced than ever that our vision of the convergence of supercomputing and big data is directly in line with our customers' needs.
+"
+Person0,"Before I open it up for Q&A, I'd like to give a special thanks to Frank Lederman, who is stepping down from our Board of Directors after more than 10 years of service.
+"
+Person0,"Frank has been a great mentor for me, and has played a key role in working with us to shape our strategy and technology vision while also leading our Compensation Committee.
+"
+Person0,"On behalf of the entire team at Cray and our Board, we wish him well in all of his future endeavors.
+"
+Person0,"Let me wrap up by saying that I'm pleased with our progress and execution during the first quarter.
+"
+Person0,"While we still have work left to do for the year, our strategy and plans are solid and we're in a good position in the market to deliver strong growth and improve profitability in 2015, as well as to continue to grow in future years.
+"
+Person0,"With that, I'd now like to turn the call over to the operator to begin the Q&A.
+"
+Person0,"Yes, <UNK>.
+"
+Person0,"We came into this year with really strong set of orders that we got last year.
+"
+Person0,"We had over a billion of bookings of new contract wins last year.
+"
+Person0,"So, we came into this year feeling really good and we kept that going through the first quarter as you've seem with some of the announcements that we made.
+"
+Person0,"So, we feel we're in very good shape right now for our year.
+"
+Person0,"We still got some work left to do.
+"
+Person0,"There is still a few more deals that we need to do but we're ahead of where we usually are at this point in the year when we look at our full year outlook number.
+"
+Person0,"Yes, we definitely have been doing that over the past I would say, six months or so, talking with a number of customers about what we're doing there, how we see this all converging and what Shasta is going to bring to the market.
+"
+Person1,"While we haven't got guidance for 2016, the way I would say it is our goal over a period of time, not specifying any particular year, is to drive operating margins toward the 10% area on a non-GAAP basis.
+"
+Person1,"We're going to make good progress we expect this year.
+"
+Person1,"Our plan would be to make good progress next year, but we haven't yet given guidance on that.
+"
+Person1,"But over an intermediate term, our goal is to get towards 10%.
+"
+Person1,"That's a good question, <UNK>.
+"
+Person1,"Unfortunately, I have to say yes.
+"
+Person1,"We had one particular contract where the actual costs anticipated the costs that we [bid in].
+"
+Person1,"I would say the bulk of that impact was in the storage area, you can perhaps see it when you look at our segment in the Q-filing.
+"
+Person1,"That same kind of contractual relationship has a second phase in the second quarter.
+"
+Person1,"And so, we're going to be impacted both in the first and second quarter by kind of that cost related mostly to third party products and storage that we didn't expect properly.
+"
+Person1,"We still maintained our guidance for the year.
+"
+Person1,"I would just say, it's a little tougher given this particular contract's impact.
+"
+Person1,"No, I would say they were good-size orders that we came in much lower than our standard gross margin on because of the cost impact.
+"
+Person1,"I think, yes.
+"
+Person1,"The big systems, the supercomputing systems carry a little higher margin than the clusters do and it's just the nature of the marketplace.
+"
+Person1,"Storage has been at least where we are in supercomputing and generally higher and that's a view that we would continue and in big data, it's a little hard to tell in the long run, but our view is that we had a lot of value in the big data space and should be able to get more.
+"
+Person1,"And then, as you know, we continue our service business and the service business has the highest margins of all, between 40% and 50%.
+"
+Person1,"Yes.
+"
+Person1,"Only time will tell in terms of market forces but that's our current viewpoint.
+"
+Person0,"I would just say, outside [China], there is one situation we have in the first half, right, which is taking our storage and a little bit our product margins down, a little bit abnormally but going forward, we should -- once we get through this issue, should return to normal.
+"
+Person0,"Yes, I think, XA is doing for us what we're hoping, which is getting us into a broader part of the big data market and it's something that's very complementary to what we currently have with the Urika-GD product.
+"
+Person0,"So, having the two together actually has been really beneficial for us overall.
+"
+Person0,"I mentioned that we're installing a Urika-GD just right now at KAUST and I also mentioned our latest win at NERSC was around using a supercomputer, an XC40, to do a bunch of big data-like applications.
+"
+Person0,"So, we're seeing a lot of leverage from us being able to use a product like Urika-XA to get in a very different conversation with our customers and be able to think about where are they really trying to take things for the future and how can we work with them to get there.
+"
+Person0,"And I mentioned that at CUG this year, our Cray User Group, we really this notation of the convergence of supercomputing and big data came up every 15 minutes [you felt] like in the conference in many different ways.
+"
+Person0,"And so it was really great to see that we can start to use these product to get into that conversation with our customers and really to see how this is going to play out and trying to get in front of that and XA is definitely a key component of that especially because we can do both Hadoop and Spark on that platform, which gives us a lot of flexibility and by the way in a lot of other big data applications.
+"
+Person0,"So, it gives us a lot of flexibility with that platform.
+"
+Person0,"Commercial as a percentage of our revenue -- our topline has grown pretty quick this year.
+"
+Person0,"So, as a percentage though, we still believe that, that commercial revenue is going to continue to increase and it's really starting to be a pretty significant part of our business overall.
+"
+Person0,"A couple of years ago, <UNK>, when we first started getting into commercial we would get a couple of wins in a year, it would make a little dent, but it wasn't so overly material to us.
+"
+Person0,"Now this business is starting to approach a significant business for us.
+"
+Person0,"And the nice thing that we're seeing is, we're getting it across a variety of industries.
+"
+Person0,"Clearly, energy is our strongest segment or vertical market by far.
+"
+Person0,"But as I mentioned, we had a nice win in manufacturing, we had a nice win in pharmaceutical or Life Sciences area this quarter.
+"
+Person0,"So it's really starting to expand, I really feel commercial is a big part of our growth opportunity over the next few years, because if you look at the IDC data, commercial at the high end, so think of their supercomputing segment, is roughly half the size of that segment.
+"
+Person0,"And so, its half that segment, we really haven't been addressing.
+"
+Person0,"We have had products that could go there, but we really haven't been addressing it from a go-to-market or sales perspective.
+"
+Person0,"And now we've really started to ramp that up.
+"
+Person0,"So, it's a great story for us and I will tell you, I'm very excited this year at the User Group, we had a number of commercial companies come up and talk a little bit about what they were doing with their systems and it's as exciting as the research guys in the National Laboratories are doing.
+"
+Person0,"So it's pretty great.
+"
+Person0,"<UNK>, as we entered the year, we know what's ahead of us a little bit.
+"
+Person0,"We have pretty good headlights into the future.
+"
+Person0,"And, those wins really just built up more and more confident in our number overall.
+"
+Person0,"We're at $715 million.
+"
+Person0,"We think that that's the right number, but I'll tell you our confidence level of that number over the last quarter has gone up a lot.
+"
+Person0,"So, we feel pretty good about getting there and what we need to do, there is always big deals.
+"
+Person0,"And as you know, with us, there is always a chance that they can move around a little bit from our perspective or from things that happen with our customers, but overall, I think we feel really good for the year, but $715 million feels like the right number for us right now.
+"
+Person1,"Generally, <UNK>, the goal is to have the inventory comp just as we're about to build the system.
+"
+Person1,"And the higher cost inventories in particular, are, we bring in at the last moment just before we build the systems.
+"
+Person1,"So, our measurements of what I would call parts that are raw materials, parts work in process and finished goods isn't -- it's reflective of how they're put into our system, but in reality, most of the parts that we have in inventory are some form of work in progress.
+"
+Person1,"And, of course, a lot of those come into systems but they may not go into finished goods until they've finished all our testing and are ready to ship.
+"
+Person1,"And so, most of the time, the finished goods inventory consists largely of things that are shipped to customers or are boxed to ship to customers.
+"
+Person1,"So, we don't buy any significant amount of inventory unless we have very good visibility related to that customer.
+"
+Person1,"So, as I said on the phone, with $210 million inventory at the end of the quarter, it's really signalling that over the next few quarters, we have a lot of shipments to good out.
+"
+Person1,"And March, by the way, was one of our largest shipment months, maybe the largest certainly since I've been at Cray and so that's just going to continue now for the next several months, that large, high volume number of shipments.
+"
+Person1,"A couple of things to think about.
+"
+Person1,"Last year's non-GAAP margin was about 4.5%, a little less.
+"
+Person1,"And if you did the math with the outlook we gave you, you'll get somewhere in the mid-sevens.
+"
+Person1,"So, that's kind of the view of substantial improvement in leverage.
+"
+Person1,"We haven't changed the guidance and so that would be the best estimate at this point.
+"
+Person1,"Clearly, as I said earlier, our goal over an intermediate period of time is to get it into the 10% range.
+"
+Person1,"So, I just think there is a lot of leverage in the business and we're showing progress this year.
+"
+Person0,"Thank you.
+"
+Person0,"I'm pleased with our start to the year.
+"
+Person0,"Our product offerings are strong and gaining momentum in the market and we're positioned to have a great 2015 and continued success going forward.
+"
+Person0,"Thank you all for joining the call today and for your continued support of Cray.
+"
+Person0,"Have a great evening.
+"
+Person1,"Thank you very much.
+"

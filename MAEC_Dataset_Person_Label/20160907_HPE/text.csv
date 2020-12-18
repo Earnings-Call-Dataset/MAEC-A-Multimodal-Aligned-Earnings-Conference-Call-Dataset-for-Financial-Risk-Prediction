@@ -1,0 +1,269 @@
+Person,Sentence
+Person0,"Yes, the answer to that is absolutely yes.
+"
+Person0,"And actually beyond that, you saw what we announced today with SUSE, where they'll be our preferred partner for Linux, as well as the OpenStack distro.
+"
+Person0,"And listen, a lot of the software products are going in the spin-merge will be important to us going forward.
+"
+Person0,"So there will be a relationship there.
+"
+Person0,"So let me give just you a sense of -- I think we're in a great position to compete with both Cisco and Dell.
+"
+Person0,"So for example, actually the HPE go forward strategy will be about a $28 billion Company that's only slightly smaller than Dell's enterprise business, and it is more focused with better innovation.
+"
+Person0,"I think we should just contrast our strategy with Dell, okay.
+"
+Person0,"So we are getting smaller, while they're getting bigger.
+"
+Person0,"And this is important, because I believe speed and agility is critical, in innovation and go-to-market.
+"
+Person0,"The second is, they are levering up and we are delevering.
+"
+Person0,"We have $5.3 billion of net cash on the operating Company, and we're going to have a lot more by the time we're done with these transactions.
+"
+Person0,"And that gives us dry powder.
+"
+Person0,"It also gives us the ability to return cash to shareholders.
+"
+Person0,"And I think that it's difficult to be levered as much as Dell is in this environment.
+"
+Person0,"And secondly, we're leaning into new technology, either through our own innovation, acquisitions, or partnerships, and we've got major focus on our side.
+"
+Person0,"What they are doing is doubling down on old technology and a cost take-out play.
+"
+Person0,"And listen, I think it might be quite successful for the leadership team there, from a financial perspective.
+"
+Person0,"I'm not so sure it's good for customers.
+"
+Person0,"Sure.
+"
+Person0,"And by the way I forgot to address Cisco in your last question.
+"
+Person0,"So listen, Cisco is a good competitor, but they are missing a key element which is storage.
+"
+Person0,"And as the -- as this converges, I think as the environment converges, and we look at Hyper Converged and on Synergy, we're innovating really nicely now for the traditional data center, as well as software defined data center.
+"
+Person0,"And I got to tell you, Aruba at the edge is killing them.
+"
+Person0,"And a 20% growth rate above our internal plan, and we're just winning deals hand-over-fist there.
+"
+Person0,"So we feel really good about our ability to compete with Cisco.
+"
+Person0,"Okay, so back to servers.
+"
+Person0,"So listen, what's happening in servers is there is sort of core server growth, then there is Tier 1 servers which is to the big service providers, and then is obviously, high performance compute.
+"
+Person0,"And the reason we did the SGI acquisition, is to really stake out a great position in an $11 billion business, as I said before that's growing 6% to 8%, that's very profitable for the compute itself.
+"
+Person0,"But also there's very high TS attach to high performance compute.
+"
+Person0,"Core servers around the globe are under some pressure right now, but you saw what we did in terms of increasing the margin.
+"
+Person0,"And we are doubling down on SMB, which actually is still -- there's pockets of growth in that area, and we're also doing workload specialization.
+"
+Person0,"Okay, we have the best compute in the world to run SAP HANA.
+"
+Person0,"It's not even close with anyone else.
+"
+Person0,"So we're specializing around workload.
+"
+Person0,"And then obviously, there was a tough compare because of Cloudline a year ago.
+"
+Person0,"I mean, we have just ramped that business into a multi-billion dollar business.
+"
+Person0,"And so, it's hard to compete with those compares, but we expect to continue to gain share in that market profitably.
+"
+Person0,"We're not in it for share for share's sake.
+"
+Person0,"We don't want to take unprofitable deals.
+"
+Person0,"But if we continue to work on our supply chain and the rationalization, we become ever more competitive there.
+"
+Person0,"And we're very mindful, that ultimately there is Chinese competitors there as well.
+"
+Person0,"And whether that's Huawei or Lenovo, it's not just Dell.
+"
+Person0,"So we're very aware of the cost structure we have to have to continue to compete.
+"
+Person0,"I think low single-digits is probably what we'll grow.
+"
+Person0,"It will depend on how much Tier 1 Service provider business we want to take.
+"
+Person0,"But I would say, what you saw 1%, 2% is probably a good estimate going forward.
+"
+Person1,"I think its really a combination of a couple things.
+"
+Person1,"When you -- when we separate this software business, and you look at the remaining piece of HPE, we're going to be -- if you were to extract ES and software from our 2016 financials, to <UNK>'s earlier comments revenue growth would be an incremental 300 basis points.
+"
+Person1,"Margins would be up an incremental 100 basis points, just north of 10%, and free cash flow as a percent of revenue would be up 50%.
+"
+Person1,"If you look at the absolute free cash flow, it would be relatively neutral, driven by the fact that software does generate some free cash flow.
+"
+Person1,"But that's offset by the pressure in ES.
+"
+Person1,"So when we're talking about the financial profile, it's really related to remainco, if you will.
+"
+Person0,"And I have to say, that with our enterprise group, really being now the anchor for remainco, we've been very conscious about making sure that we have, got an overhead cost structure that is in line with a $28 billion business.
+"
+Person0,"That we're making changes to how enterprise group is organized internally.
+"
+Person0,"There will be savings around our OpenStack distro with our new relationship with SUSE.
+"
+Person0,"And then finally, moving HP Labs, Hewlett Packard Labs to EG is going to tighten the linkage between downstream development and commercialization, which I think is something that needs to be done.
+"
+Person0,"So we are all about making enterprise group, more cost effective, as we drive the remainco strategy.
+"
+Person1,"And I'd also add on remainco, keep in mind, that the recurring Op profit would be about [60]%.
+"
+Person0,"Well, let me tell you what we saw, from a demand perspective, and <UNK> can talk about our broader hedging strategy.
+"
+Person0,"We were not able to hedge in the quarter for the pound degradation, but what we saw was actually a pause in purchasing in the UK, certainly the UK public sector.
+"
+Person0,"But also the UK, and then more broadly Europe which was, this was unexpected, a big change.
+"
+Person0,"Let's take a pause, and decide what we want to do here, and we saw it in a very marked way.
+"
+Person0,"What I will say, in the last couple weeks, we've actually seen orders pick up again.
+"
+Person0,"It was almost like they took a pause, and basically, had to take stock of what was happening, and then basically -- the orders have started to flow again.
+"
+Person0,"I mean, we continue to also monitor the pricing, the competitive pricing environment that we see.
+"
+Person0,"And we adjust as necessary, particularly in the channel.
+"
+Person0,"So the channel is where we serve SMB.
+"
+Person0,"And that's where our ability to sort of move the pricing in response to competition, we look at that actually every single week, sometimes multiple times a week.
+"
+Person1,"So I think a little understood element of HPE is the dramatic transformation that TS has gone through.
+"
+Person1,"TS is, and was a very profitable business, that was largely attached to business-critical systems, very profitable, very high attach.
+"
+Person1,"I mean, you didn't really sell business critical systems without a TS attach.
+"
+Person1,"And when business-critical systems, both from a market perspective, as well as the Oracle Itanium situation, by all rights TS should be down 25%.
+"
+Person1,"Do you remember <UNK> over the last four or five years, BCS was down 25% like clockwork, every single quarter for four years.
+"
+Person1,"It's growing a little bit now.
+"
+Person1,"But by all rights, TS should have shrunk with BCS, and it did not.
+"
+Person1,"And the reason it did not was very impressive, new product offerings, proactive care, other areas where we help customers maintain their data center estate.
+"
+Person1,"And so, the fact that it has actually only been down a few percentage points over the last 12 months is a testament to the leadership team in that business.
+"
+Person1,"And now what you're seeing is those new product offerings are starting to get real traction.
+"
+Person1,"Orders has been positive the last three or four quarters, and those orders are translated into growth this quarter.
+"
+Person1,"Not a significant amount of growth, but 1% we'll take it all day long, because it is a very, very profitable business.
+"
+Person1,"So we have more work to do on technology services.
+"
+Person1,"I will tell you it is the benefit of now being a smaller, more focused Company.
+"
+Person1,"And Antonio Neri and I are going to spend a whole lot of time now, on what is the next iteration of technology services.
+"
+Person1,"And whether that's flexible capacity services that allows consumption-based model, whether it's proactive care, data center care, we're going to spend a lot of time there, because it is a key strategic enabler of remainco HPE.
+"
+Person1,"Yes, sure.
+"
+Person1,"I think from a cost structure perspective, we spent probably the last 18 months, we've done some detailed benchmarking, particularly in the functional areas, as to where the business needs to be, basically cost as a percent of revenue.
+"
+Person1,"So we're getting closer to those benchmarks.
+"
+Person1,"We're not quite there yet, but we are close, and we are there in some of the functions.
+"
+Person1,"So as we have done these divestitures, or as we're doing these divestitures, we obviously incorporate that into what the new cost structure needs to look like.
+"
+Person1,"And obviously, we need to be very aggressive around what we call stranded costs.
+"
+Person1,"So I think the good news is when you look at the HPE/HPI separation, we did have some dissynergies we called them.
+"
+Person1,"We have worked those through the system.
+"
+Person1,"With the H3C divestiture, we've gotten much better with identifying the stranded costs, would be much more proactive in managing them out.
+"
+Person1,"We're starting to see those come out.
+"
+Person1,"So we're confident that we can continue to do that, to get to the benchmarks we need to get to, when these transactions are done.
+"
+Person0,"I'd just add a couple more things.
+"
+Person0,"When you're going to take -- when we've been streamlining the cost structure of this Company for four or five years.
+"
+Person0,"Now we are starting to do things differently, because you can only take out so much costs.
+"
+Person0,"There's only so much low-hanging fruit, you have to do things differently.
+"
+Person0,"And whether that is supply chain and logistics, whether that is how we are organized internally, with all R&D under one R&D leader.
+"
+Person0,"Whether it is putting our software defined infrastructure and our cloud offering under one leader, whether it is putting all of our go-to-market under one leader, where we have consistent go-to-market strategy, discounting across the board.
+"
+Person0,"Frankly, we were much better at minimizing discounting in APJ and EMEA, than we were in the United States.
+"
+Person0,"We now have that discipline across the Company.
+"
+Person0,"And then, finally corporate overhead.
+"
+Person0,"We got to have a corporate overhead that designed for a $28 [billion] company.
+"
+Person0,"And when we started, we had a corporate overhead designed for $110 billion company, and then a $50 billion company, and now a $28 [billion] Company.
+"
+Person0,"I have to say, I'm really pleased with our ability to right-size the corporate overhead, and be lean and mean.
+"
+Person0,"And that includes everything from HR, finance, legal, IT, things like real estate, systems.
+"
+Person0,"So we've made a lot of progress, but you'll see more of that benefit I think in 2017 and 2018.
+"
+Person1,"Sure.
+"
+Person1,"So yes, so $700 million is the right number.
+"
+Person1,"Again, we feel like the value that transaction is driving is phenomenal for HPE, as well as its shareholders.
+"
+Person1,"However, to realize that value, we need to make investments, and allocate resources to do the separation.
+"
+Person1,"So to your point, software although the activities are similar in nature to the transaction in ES, they are discrete.
+"
+Person1,"And they're not necessarily driven by revenue base or headcount levels.
+"
+Person1,"So when you look at software, it's a global complex business.
+"
+Person1,"It has multiple legal entities that have been accumulated over time through a series of transactions.
+"
+Person1,"And because of that when you look at the tax, the finance, the legal, the operating structure, it is still very, very complicated.
+"
+Person1,"So in order to separate that, there are some large expense items in there.
+"
+Person1,"For example, separating 650 IT systems, doing the carve-out financials, translating GAAP to IFRS, splitting 150 legal entities in 60 countries, trying to figure out what we want to do with 200 real estate sites across the globe.
+"
+Person1,"So there's certainly a lot of work that needs to be done there.
+"
+Person1,"The good news is we have done this before, so we know how to do it.
+"
+Person1,"The team has been very proactive, and we're all over it.
+"
+Person1,"We have the work streams identified, so we're confident we'll get there, when we go forward.
+"
+Person0,"The other thing I think that's important, <UNK>, is we have come -- on these separations that we have done to date, whether it was HP Inc from Hewlett Packard Enterprise, whether it's ES from Hewlett Packard Enterprise, we have come in on time, and actually below budget.
+"
+Person0,"And so, we're really proud of that, and we expect that to happen.
+"
+Person0,"I mean, I don't know how much.
+"
+Person0,"I mean, listen, $700 million is what you should have in your models.
+"
+Person0,"If we're on target, we ought to come in a little lighter than that but --.
+"
+Person1,"Yes, I mean, and the other way -- the other way I think about it is, the benefit of the deal far outweighs the cost, right.
+"
+Person1,"So when we get that $2.5 billion cash dividend, and that will be onshore cash, that far outweighs the cost of doing the transaction.
+"
+Person0,"Thank you very much.
+"
+Person1,"Appreciate it.
+"
+Person1,"Thank you everyone for joining today.
+"

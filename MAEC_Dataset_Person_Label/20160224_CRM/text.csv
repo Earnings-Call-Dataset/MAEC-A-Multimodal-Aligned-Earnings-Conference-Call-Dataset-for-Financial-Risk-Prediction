@@ -1,0 +1,435 @@
+Person,Sentence
+Person1,"Okay.
+"
+Person2,"So hi, this is <UNK>.
+"
+Person2,"So obviously we don't get into the term and length of these contracts, but you can imagine that if you're going to make a significant investment of nine-figures, it's probably a long-term relationship that you're talking about.
+"
+Person2,"And so, that again has been a focus area I had mentioned earlier.
+"
+Person2,"These are CEO level conversations.
+"
+Person2,"We're in the Boardroom presenting to their Boards.
+"
+Person2,"And we're talking about transformation, which I think is something top of mind for all of these customers.
+"
+Person2,"As far as IT is concerned, you always have to talk about, and with IT.
+"
+Person2,"But these are transformational sales.
+"
+Person2,"These are conversations around growth, which is the top of mind for all senior executives and CEOs for sure.
+"
+Person2,"But listen, in these large enterprises, the CIO is important.
+"
+Person2,"And by the way, we are a great platform, and CIOs and technologists are always interested in great platforms.
+"
+Person2,"And again, that message certainly resonates.
+"
+Person1,"And I'll tell you that, there's definitely a transformation going on at Salesforce, and <UNK> and I have had a lot of conversations about this.
+"
+Person1,"We've talked about it on previous calls.
+"
+Person1,"I would say this transformation has accelerated -- and <UNK>, how many sales calls -- you were at Oracle for how long.
+"
+Person1,"20.
+"
+Person2,"26 years.
+"
+Person1,"I was at Oracle 13 years.
+"
+Person1,"I never made a sales call on a CEO, while I was at Oracle.
+"
+Person1,"I mean, there was some business development things, but never CEO buying product, and being that chief digital officer himself or herself, I mean, isn't that -- was that your experience as well.
+"
+Person2,"Yes, absolutely.
+"
+Person2,"I mean, the world has turned.
+"
+Person2,"And, as we talked about earlier, the CEOs are all about transformation.
+"
+Person2,"And in many ways, they have become the chief transformation officers for these companies.
+"
+Person2,"And so, they are personally involved, they are personally engaged.
+"
+Person2,"And they want to talk to us.
+"
+Person2,"And they are very interested again in us playing the role of the trusted advisor; they are interested our thought leadership, as you know.
+"
+Person2,"And listen in the last three weeks, I've had more conversations with [you and CEOs] around transformation than in my entire career, over 30-plus years.
+"
+Person1,"Yes.
+"
+Person1,"And I look at the large transactions we did with the largest banks in the world, the largest insurance companies in the world, the largest media companies in the world, the largest technology companies in the world, which was marked throughout this whole quarter, every single transaction was done with the chief executive officer.
+"
+Person1,"And those happened at the World Economic Forum, those happened in their offices, those happened in our offices, those happened at trade shows.
+"
+Person1,"But I'll tell you that <UNK> and I can just probably rattle off dozens of CEOs that we are having to constantly interact with, and collaborate with, in creating these transactions.
+"
+Person1,"And I think that it's really unusual, and I think that's why we are really selling more enterprise software than Oracle or SAP in the applications area.
+"
+Person1,"Wouldn't you say <UNK> at this point.
+"
+Person2,"There's no question that we are outpacing the competition, in terms of enterprise application sales.
+"
+Person2,"There's no question, we continue to take share, and that's both market share and mind share.
+"
+Person2,"And you and I were having a conversation, just the other day about one of the world's largest financial services institutions.
+"
+Person2,"And kind of in the old world, what level we would be able to call on.
+"
+Person2,"And in this new world, because we were with them at the World Economic Forum, we're talking to the CIO -- and excuse me, the CEO and their CIO, and head of operations -- that person would never have met with us before.
+"
+Person2,"And all of a sudden, they are with us all the time.
+"
+Person2,"In fact, we have a quote from our kickoff -- we just finished our kickoff, from the CEO of this particular institution saying, that they view Salesforce as one of their most critical strategic partners.
+"
+Person1,"And <UNK>, wouldn't you say that's really about kind of our Company being able to transform our role to becoming a trusted advisor, especially in regards to these customer relationships with these companies.
+"
+Person1,"Isn't that what's going on.
+"
+Person1,"<UNK>, there seems like there's another level of it, which a lot of them really grill us on our own business, because they are moving to subscription-based services themselves.
+"
+Person1,"They want to be a cloud company.
+"
+Person1,"They want to have Internet-of-Things capabilities.
+"
+Person1,"They want to be more connected to their customers.
+"
+Person1,"They want to understand how we're achieving this growth, because many of these companies want to see these same growth levels.
+"
+Person1,"How does it impact conversations.
+"
+Person2,"Well it's interesting you brought it up.
+"
+Person2,"There are two types of conversations that we typically find ourselves involved with, and again, this is at the C-level and in the Boardroom.
+"
+Person2,"Number one is, you can always ask these companies, why aren't you thinking about yourself as a cloud company.
+"
+Person2,"Why aren't you thinking about changing your business model.
+"
+Person2,"And you should see the expression on their faces, because they are embracing that notion of transformation.
+"
+Person2,"So that is certainly one.
+"
+Person1,"Well nobody wants to the Uber-ized out of the world.
+"
+Person1,"That's on the mind of every person out there who is a CEO.
+"
+Person1,"And that's all about customer experience.
+"
+Person2,"Absolutely.
+"
+Person1,"Which is where we're at.
+"
+Person1,"Okay.
+"
+Person1,"Anyway, next question.
+"
+Person1,"I'm sorry, but for some reason there was a garbled communication.
+"
+Person1,"So I'm going to have to ask you to repeat the second part of that one, okay.
+"
+Person2,"Can you repeat the question, again.
+"
+Person1,"We'll come back to that.
+"
+Person1,"Okay, go ahead, <UNK>.
+"
+Person1,"Sure, I think number one is, customers are looking to build applications faster than ever before, and customers want to build -- and build applications once, and deploy them on every modern platform, which includes a watch, a phone, a tablet, a PC, and many different types of tablets, and many different types of PCs, and many different types of phones.
+"
+Person1,"And we have delivered the most modern, most incredible application development and deployment platform, I believe in the enterprise today, which is Lightning.
+"
+Person1,"And you heard Accenture talk about on our February 2 launch, how it's accelerating their own ability to build applications, not only internally, but for their customers using our Lightning platform, because there's nothing else like it.
+"
+Person1,"Companies in the software industry have kind of doubled-down, and gone back and focused on building apps, and kind of getting their apps to be kind of sexier, and looking better on all these new devices.
+"
+Person1,"And that's a huge mistake, because what these software companies should be focused on is building platforms that can deliver these apps, and that's what Salesforce has done.
+"
+Person1,"We delivered this incredible Lightning platform.
+"
+Person1,"I mean, it is amazing what it can do.
+"
+Person1,"I mean, you even saw on the February 2 launch, we delivered our Lightning platform running on Microsoft Continuum, before Microsoft has been able to deliver their own applications running on Microsoft Continuum, because of the kind of flexibility and capabilities of Lightning.
+"
+Person1,"And also, I would point out that's our strategy, as to my comment with <UNK> on Wave.
+"
+Person1,"That is, we have this incredible platform with Wave to build these analytics apps.
+"
+Person1,"And I think you know you know that we have, the most -- the number one platform on Amazon Web Services for building applications there, called Heroku.
+"
+Person1,"And between Heroku, between Wave, between Lightning, and other capabilities that we have, this really gives developers a fast, easy and very low cost way to build and deploy enterprise apps.
+"
+Person1,"And I will probably give you this great example of this company called, SteelBrick, who came with a lot of momentum out of our Dreamforce conference, with this incredible application that they had built using Lightning.
+"
+Person1,"And they ended up in my office in November, and it was awesome.
+"
+Person1,"And I'm like, how did you build this.
+"
+Person1,"And they are like well, we just built all of this on Lightning.
+"
+Person1,"I mean, I saw this App was running.
+"
+Person1,"It's my dream, it's this incredible App running on the watch and phone and tablet and everything, and making salespeople more productive, and more successful, and customer service professionals more successful and productive.
+"
+Person1,"And I'm saying, how did you build that.
+"
+Person1,"Lightning Lightning, Lightning, and I'm like wow.
+"
+Person1,"And, of course, I liked it so much, I bought the company.
+"
+Person1,"And I think that, and I hope that I get to buy more Lightning companies.
+"
+Person1,"Because within 30 days, I've already fully integrated that into my product, launched a new product, Sales Cloud Lightning, which includes the SteelBrick CPQ capability.
+"
+Person1,"And in addition to that, I've got a fully expanded and extended capabilities across my whole product line.
+"
+Person1,"So I hope there's more Lightning ISVs that are teeing up, to come know our family.
+"
+Person1,"Because I mean, this is like auto integration, once they get on to our Lightning platform, and then our ability to distribute that through this multi-thousand person distribution organization, with all of this momentum is really an awesome thing.
+"
+Person1,"So it is all about the platform.
+"
+Person1,"It's the key differentiator for us.
+"
+Person1,"Of course, we've got a great Company, that's the key differentiator for us.
+"
+Person1,"Of course, we have our ecosystem, that's a key differentiator for us.
+"
+Person1,"And it's also about this robust platform.
+"
+Person1,"That's a key differentiator for us, and that's how we're winning all these deals.
+"
+Person1,"I think you've kind of figured out our secret sauce.
+"
+Person2,"Let me talk to both.
+"
+Person2,"So this time, we can hear you loud and clear, so thanks for the question.
+"
+Person2,"So first of all, just on EMEA, I mean, one of our growth strategies has been international expansion.
+"
+Person2,"And that has certainly proven out, in terms of the numbers, and that takes many forms.
+"
+Person2,"It's customer-facing, it's support resources, it's our data centers.
+"
+Person2,"It's all those sort of things that have really expanded our footprint internationally, and certainly in EMEA that paid out very, very well for us.
+"
+Person2,"Let me just give you an example, two customers with incredible unsolicited CEO-level remarks at the World Economic Forum.
+"
+Person2,"We have entered into a relationship that we talked about on this call before with [ADB].
+"
+Person2,"And at the World Economic Forum, often there are many sessions where the CEOs of these companies will host a transformational meeting, that talk a little bit with other CEOs about what they are doing, and what they see in the industry.
+"
+Person2,"And certainly ADB was doing that.
+"
+Person2,"And at the end of the meeting, the CEO of ADB stood up unsolicited and said, I am completely transforming the way I sell and service to my customers and engage with them, because I've chosen Salesforce as my trusted partner.
+"
+Person2,"And that of course is a very significant company in Europe.
+"
+Person2,"Schneider Electric is another.
+"
+Person2,"The CEO of Schneider Electric was on a panel with <UNK> talking about digital transformation, unsolicited comment about how Schneider Electric is transforming its service model because of the capabilities of Salesforce.
+"
+Person2,"So we have some of the most incredible global companies in the world who happen to be headquartered in EMEA, who are actually evangelizing our message in the marketplace, around transformation and connecting to customers in entirely new ways.
+"
+Person2,"So when you see market leaders coming out there, at the CEO level, and evangelizing our story, that certainly sends a great message to other companies, whether they're in that industry or not.
+"
+Person2,"So again, those are two proof points on EMEA.
+"
+Person2,"On the line of business question, in terms of budget, look, IT organizations always have budgets.
+"
+Person2,"They typically range between 1% and 2% of the company revenues, but what we've been able to tap into beyond those budgets are the line of business executive budgets, and also as we've discussed on this call, the CEO agenda.
+"
+Person2,"It's an amazing phenomenon, when you see the CEO who has a growth priority, realign the budgets in the corporation to take on these growth initiatives.
+"
+Person2,"And that's what we're seeing.
+"
+Person2,"So it goes well beyond IT.
+"
+Person2,"Certainly IT budgets are a particular component, but when the priority of a company is all about growth, you find the money to make that happen.
+"
+Person2,"You find the money to make those investments, and that's what we are seeing in the marketplace.
+"
+Person3,"Sure, <UNK>.
+"
+Person3,"First thanks for the question, and I am happy to address that question.
+"
+Person3,"We're really pleased coming off of a great year, and a great finish, but we beat our operating margin guidance.
+"
+Person3,"We delivered 177 basis points this last year.
+"
+Person3,"And on top of that, [to that end], are consistent with our revenue margin framework, I'll go ahead and do that 125 to150 basis points for FY17.
+"
+Person3,"We feel that's really appropriate in light of our framework.
+"
+Person3,"It's very consistent with it.
+"
+Person3,"We think that it's appropriate and good guide.
+"
+Person3,"And it also allows us to propel this growth, to really help our customers solve the needs that they have, and invest in the future to perpetuate this performance over the long-term.
+"
+Person3,"So that's what I would say, <UNK>.
+"
+Person1,"Yes.
+"
+Person1,"I think that's a great question, and I'll tell you I believe that's a huge growth driver for us going forward.
+"
+Person1,"Because still only -- I think the number is 72% of customers still use us for only one cloud.
+"
+Person1,"So that is 72% of customers still use only use either the Sales Cloud, or the Service Cloud, or the <UNK>eting Cloud, or the platform or analytics, or whatever.
+"
+Person1,"And the opportunity is to do exactly what you said, which is to deliver a customer success platform.
+"
+Person1,"And we do want to go wall-to-wall with these companies.
+"
+Person1,"They do see that opportunity more and more.
+"
+Person1,"With some premium customers, we have had that opportunity, and I believe that is a huge opportunity for this Company as it continues to grow and expand, that we have a rich portfolio of products to offer these customers, even though the vast majority of the customers have only chosen one of those products so far.
+"
+Person3,"Absolutely, <UNK>.
+"
+Person3,"Thank you for the question.
+"
+Person3,"I think you're hitting it right on, which is -- and you described it exactly right.
+"
+Person3,"The compounding effect that we described, Dreamforce is a reality.
+"
+Person3,"More and more of our DR is showing up in Q4.
+"
+Person3,"It impacts all of the sequential growth rates more and more, as we showed in that amplified set of data we referenced.
+"
+Person3,"But to kind of build on your point, there is one other thing that we're trying to make sure that everyone sees and to call out.
+"
+Person3,"So I appreciate your question there, and that's regarding leap year.
+"
+Person3,"And it seems like a simple enough point, that when you take a look at our revenue, and you divide it up by day, and when there's one extra day that has the effect of having $20 million of extra revenue recognition in Q1, even though it all washes out in the year, right.
+"
+Person3,"But when you have one extra day of revenue, it means you have one less day of deferred revenue effectively.
+"
+Person3,"And so, that's the other thing that you take a look at.
+"
+Person3,"So if you take a look at the compounding effect, and you adjust for the leap year which washes all out in the year, but not in the quarter, I think you'll see just kind of an appropriate pattern there for our guide.
+"
+Person3,"Okay.
+"
+Person1,"Well I think there hasn't been a conversation this quarter that has not evolved around the incredible success that we've had with Accenture.
+"
+Person1,"We are not the only Accenture's fastest growing business unit, but also they've now deployed already 25,000 users of Salesforce inside Accenture.
+"
+Person1,"You've heard their CIO, and their CEO come to our launch on February 2, and give personal testimonial to the success that they've had, that their only regret is that they didn't go faster with Salesforce, that they are transforming their customer relationships at unheard of rates.
+"
+Person1,"And this is having a broad ripple effect through the SI community, where I think that honestly they are all asking themselves, why are they not all using Salesforce, building Apps on Salesforce, and selling Salesforce and having the same great success that Accenture has had.
+"
+Person1,"Some of these SIs are kind of prima donnas who have held on to the past too long, and it's affected their growth rates, and their ability to work with customers.
+"
+Person1,"And in some cases, dislodged them from strategic customer situations because they were not able to move fast enough to understand these customers' needs, and got displaced by Accenture.
+"
+Person1,"And we're seeing that en masse, and it's a for sure, it's a shot across the bow of the SI community, that they better go faster, or there's going to be a broad shake-up in regards to the transformations that are happening, under way in regards to these next-generation implementations, specifically those regarding Salesforce and our product line.
+"
+Person1,"<UNK>.
+"
+Person2,"Yes, a great question.
+"
+Person2,"So first and foremost, I think we all recognize that these SIs, many of them certainly the upper tier of the SIs are very strategic influencers, and in the Boardroom, and at the CEO level, and speaking transformation to the line of business executives.
+"
+Person2,"Part of our strategy has been to really strengthen these relationships over time, because we know that they bring expertise and access, and they can also drive most importantly, the customer success.
+"
+Person2,"The observation I would give you, is that the most successful SIs are the ones who are very focused on Salesforce, and the ones who actually run their business on Salesforce.
+"
+Person2,"<UNK> has just given that as an example.
+"
+Person2,"And we are establishing what I'd call a 360-degree relationship with these SIs.
+"
+Person2,"So we go to market with these SIs, they run their business on Salesforce.
+"
+Person2,"And in the case of Accenture, they are actually building product, they have become an ISV.
+"
+Person2,"And those are the strategic relationships that we're trying to build here, and we've been very, very successful, and the ones who get it are growing.
+"
+Person2,"I had a conversation last week with a CEO of a pretty major consulting organization who was lamenting about their lack of growth generally speaking.
+"
+Person2,"And my comment to this person was quite candidly, you are not focused enough on Salesforce, because if you were focused on Salesforce, your business would be growing.
+"
+Person2,"And I got this look of acknowledgment, and it's absolutely true.
+"
+Person2,"The success stories in these consulting practices is about their Salesforce practice.
+"
+Person2,"So they've been a big part of our growth strategy.
+"
+Person2,"They are starting to -- virtually all the large ones are running business on Salesforce.
+"
+Person2,"They have made their commitments, and they're a big part of our future and our ecosystem strategy.
+"
+Person1,"Well, I think that's a great question, and something that we think about every day at Salesforce, and something that we talk about every day at Salesforce, which is what kind of a Company is this.
+"
+Person1,"And what is our culture, who are we, and what is it that we do.
+"
+Person1,"And we've talked a lot about that on the call already, that is we have a radically different technology model, than the technology model that has been in place at Oracle, or SAP or even Microsoft.
+"
+Person1,"We have a -- which is our multi-tenancy system built on our metadata model.
+"
+Person1,"We have a radically different customer model, which is a model built on customer success, and we have a radically different philanthropic model that we've talked about, which is our focus on 1% of our equity, our profit, and our employees time go into our Salesforce.
+"
+Person1,"org.
+"
+Person1,"So we've of course, done about 1.3 million hours of community service.
+"
+Person1,"I believe we'll do even more community service this year than Microsoft, which is a company 10 times our size, because we're just very committed to volunteerism.
+"
+Person1,"We run over 25,000 non-profits and NGOs for free, which has been a gift of over $250 million in services to the non-profit community, and we've given away over $100 million in grants as well.
+"
+Person1,"I think also, you know we're out there fighting for equality where we can.
+"
+Person1,"You saw that with our focus on equal pay for women.
+"
+Person1,"We were just at the White House speaking about that, adjustments that we've made to our own financials so that we can pay women the same that we pay men here at Salesforce.
+"
+Person1,"You saw us fight in Indiana against discrimination of our employees.
+"
+Person1,"And we're looking squarely at what's going on in Georgia with House Bill 757, which means that we may have to reduce our investments in the state of Georgia, based on what we're seeing with the state government there as well.
+"
+Person1,"And I hope that they see the light the way that the state of Indiana did.
+"
+Person1,"And in addition, I think that you see Salesforce trying to create a culture and an environment, where we reflect what we think the future of the world is, a world where there needs to be more equality, a world where there needs to be more focus on sustainability, and where there needs to be a world focused on companies that are becoming platform for change, and that the business is the business of improving the state of the world.
+"
+Person1,"Those are the things that are really important to us.
+"
+Person1,"I think also you probably noticed, that we opened up this call saying thank you.
+"
+Person1,"It's really important to us that we have a sense of gratitude when we address our employees, and our customers, and our partners.
+"
+Person1,"That's a huge part of our culture.
+"
+Person1,"And at the end of the day, it's deeply a part of customer success as well, that is because of our business model, we're only successful, if our customers are successful.
+"
+Person1,"So these are the things that I think are actually somewhat different than when we were at Oracle.
+"
+Person1,"The narrative there, and the actions, the behavior was rewarded differently.
+"
+Person1,"The things that we were encouraged to do and compensated for, and what we told our employees to do, and what we were directed to do is different than what we do at Salesforce.
+"
+Person1,"And I hope that we can be an example of a benevolent company that does well, and does good.
+"
+Person0,"Well, thanks so much, <UNK>.
+"
+Person0,"And I'd like to thank everyone again for joining us on the call today.
+"
+Person0,"You can catch up with us next week.
+"
+Person0,"We'll be at several technology conferences, including --.
+"
+Person1,"And also I'm about to go on Mad Money, with Jim Cramer in a few minutes.
+"
+Person1,"I'm about to go next door to the studio, so you'll see me at Mad Money on CNBC in -- I think Jim's show, which I think actually just started.
+"
+Person0,"Yes, we'll see you there <UNK>.
+"
+Person0,"And then as I said, we'll be at several tech conferences next week, Morgan Stanley, Pacific Crest, JMP Securities.
+"
+Person0,"As <UNK> mentioned earlier, catch us at one of our world tours.
+"
+Person0,"If not, we'll update you on our next quarter call in May.
+"
+Person0,"Thanks so much.
+"
+Person1,"Thanks.
+"

@@ -1,0 +1,215 @@
+Person,Sentence
+Person0,"We're not really seeing anything that significant in the price increase area.
+"
+Person0,"I was concerned on the second part of your question about the demand impact, particularly on smaller customers.
+"
+Person0,"We have seen -- we had strong channel sales in this last quarter and we are forecasting strong channel sales again, including European, which I assume is the biggest source of your question, including on the European side.
+"
+Person0,"It's really not -- at this point, has been a big of a deal as I was fearful of, because while we had maybe a soft quarter a quarter or two ago, things have come back pretty nicely.
+"
+Person1,"The Zynq product offering was a breakthrough offering.
+"
+Person1,"It was the -- generally the last part of the roll-out.
+"
+Person1,"And as such there was a large number of design wins.
+"
+Person1,"Now those design wins which were targeted at somewhat slower-moving markets like industrial and automotive, those design wins are moving to production.
+"
+Person1,"It's a unique product.
+"
+Person1,"The number of design wins is phenomenal.
+"
+Person1,"We're learning because of its nature that in some cases it takes longer.
+"
+Person1,"It's also a more sophisticated product.
+"
+Person1,"Hence, it takes a little longer to do the design.
+"
+Person1,"It requires both software and hardware.
+"
+Person1,"It has a high performance embedded process, a system.
+"
+Person1,"The number of design wins is just huge.
+"
+Person1,"And the overall magnitude of the design win value on [think] is very encouraging.
+"
+Person1,"It's very significant.
+"
+Person1,"And now it is finally starting to grow a very healthy clip.
+"
+Person1,"Until last year it was relatively negligible in terms of the portion of revenue, but now it is growing at a fast rate as these applications in automotive, wireless and mill arrow and industrial control are starting to hit production.
+"
+Person0,"I think also, you asked specific about design kits and our design board environment.
+"
+Person0,"In terms of numbers of kits and boards, it just totally swamps in terms of numbers all previous FPGA boards because of the nature of the cost point and the price point that many of these applications are going after.
+"
+Person0,"More of the $700 versus the $800 or $900 kind of an ASP.
+"
+Person0,"Both our distributor and Xilinx have a number of inexpensive boards and kits.
+"
+Person0,"The numbers of those that have been shipped out over the last couple of years is just really phenomenal.
+"
+Person0,"We really think we are seeding the industry really well with these capabilities.
+"
+Person1,"Thank you.
+"
+Person0,"So, Joe, we really haven't had any, I would say, any appreciable lead time increase on a broad perspective.
+"
+Person0,"There is a class of products that we have had a little bit of -- we've had some lead time increase, but I wouldn't say it's going to be that material of an impact to anything, our logistics.
+"
+Person0,"I don't think that has been a particularly -- there's anything there to concern anybody with from a logistic supply perspective.
+"
+Person0,"What was the second part of your question again.
+"
+Person0,"The fab cycle time.
+"
+Person0,"No, we have seen no push-out or lengthening of any fab cycle time.
+"
+Person0,"We are getting all the wafers we order when we order them.
+"
+Person0,"There is nothing going on there either for us.
+"
+Person0,"No, not really.
+"
+Person0,"It was a rep network where we're -- and we've terminated a variety of reps.
+"
+Person0,"In Japan, we are transitioning.
+"
+Person0,"We have a number of reps in Japan.
+"
+Person0,"The nature of that business is a little different than the rest of the world.
+"
+Person0,"We are transitioning one of the reps into our other rep network.
+"
+Person0,"That's the only really transition that we have -- excuse me, distributor in China, not reps.
+"
+Person0,"Distributor in China.
+"
+Person0,"One distributor moving into our other distributors in terms of the business.
+"
+Person0,"But nothing other than those two things.
+"
+Person0,"Reps in the US and Europe, generally we're transitioning to direct sales.
+"
+Person0,"Then in Japan there is a distributor that we are terminating and moving that business to other distributors that we already have.
+"
+Person1,"There is a lot of questions there.
+"
+Person1,"We think there is an opportunity there.
+"
+Person1,"That's why we have the SDAccel product, which now we're releasing (technical difficulties) to our customers.
+"
+Person1,"And we strongly believe that that, together with a stronger focus on this market should enable us to reap the benefits of it.
+"
+Person1,"We think it's a significant market.
+"
+Person1,"Whether it is tens of millions or several hundreds of millions of dollars, we think it's going to take time to grow to those larger numbers, and it'll take quite a long time.
+"
+Person1,"We are committed to having the best solution with regards to acceleration which addresses those markets.
+"
+Person1,"And whether it's x86 based or Ohm-based or whatever approach, then we are going to pursue solutions for that market.
+"
+Person1,"I think we are well-positioned.
+"
+Person1,"And the key to our leadership is now in this software which enables achieving or getting at that acceleration in the most efficient way.
+"
+Person1,"That's how we view it.
+"
+Person1,"It's a big market, but maybe not quite as huge in the short term as maybe others have positioned it.
+"
+Person1,"Single die helps but comes with a cost and the cost that you get typically is flexibility.
+"
+Person1,"The nature of these applications is they're very, very fragmented.
+"
+Person1,"Every one of them tends to have a different payload.
+"
+Person1,"Actually that payload is dynamic.
+"
+Person1,"If you are using it to accelerate some sort of algorithm, the algorithm that you are accelerating changes all the time.
+"
+Person1,"And so if you do too much integration and you tend to have a very inflexible solution, you might end up losing.
+"
+Person1,"When we talk to the customers, and these tend to be a different class of companies.
+"
+Person1,"Their approach is they want to retain as much control over their acceleration path.
+"
+Person1,"And they would rather not give that to anyone else.
+"
+Person1,"If you look at the way their approach has been, typically they do not buy from the traditional server companies.
+"
+Person1,"They actually build their own and they try to come up with a very specific solution which is the most valuable for them.
+"
+Person1,"There is a case to be made for integration, but what you lose when you do the integration is a lot of the flexibility which is inherently important to this market.
+"
+Person1,"I would say it is gray.
+"
+Person1,"In some cases it might go towards integration.
+"
+Person1,"In others actually having a separate solution and being able to maintain the flexibility there is a huge benefit.
+"
+Person0,"We have not seen a pause as a result of whatever has been in the newspaper and their stated position on this.
+"
+Person0,"<UNK> was only, I think, talking in general about when two companies get together what can happen in terms of how their organizations meld together.
+"
+Person0,"At this point in time, as best as we can tell, this is not going to be consummated in, at the earliest, later this calendar year, maybe in next calendar year.
+"
+Person0,"We're not seeing any sort of pause with our business with either company at this point in time.
+"
+Person1,"Thank you.
+"
+Person1,"Next question.
+"
+Person1,"We have now restructured our sales force to be tiered with two direct elements and the third element which goes through DiSTI.
+"
+Person1,"We are managing that a lot more closely than we have before.
+"
+Person1,"With the largest accounts, primarily in Communications and data center, we believe that we would benefit from a more direct interaction because fundamentally level of engagement needs to be deeper than it was before.
+"
+Person1,"Are we doing this later than ideally we should have.
+"
+Person1,"We probably are.
+"
+Person1,"In retrospect, this would probably have benefited from making this transition a year or two ago.
+"
+Person0,"I think also, I mean, it's not just -- this is not only a focus at one end market.
+"
+Person0,"There's going to be some transitions going on even in our aerospace and defense market coverage to more direct sales.
+"
+Person0,"I know some of these don't -- some of these kind of wins don't turn into immediate revenue.
+"
+Person0,"They are slower, but it does have both Industrial, Aerospace and <UNK>fense, test and measurement, as well as the Communications segments impacted.
+"
+Person0,"I think it is a net positive for us.
+"
+Person0,"As best as we can tell, and this is more about a CapEx China macro, I don't [want to] say macro, but China macro-related CapEx spend and the pace that they're getting funded internally to do things.
+"
+Person0,"I don't know what else.
+"
+Person0,"Some of it, there is always the politics between the FD standard and the TD standard.
+"
+Person0,"It's hard to tell whether that is still causing delays in FD as a result of TD trying to be -- and China Mobile trying to be more dominant.
+"
+Person0,"I don't know that I'm qualified to comment on whether how much of that is true or not.
+"
+Person0,"<UNK>finitely the wireless business, because of the volume and concentration of customers, tends to have a drag on our gross margins.
+"
+Person0,"So we would expect, and we have modeled this, that the second half would be lower than the first half as a result of that.
+"
+Person0,"I'm not going to get into the real specifics, but the second half would be lower than the first half.
+"
+Person0,"We are still confident in delivering our -- in our stated goal from investor day.
+"
+Person1,"This is a topic which is very sensitive.
+"
+Person1,"We have the capacity; you can tell by our track record that we do this very, very cautiously.
+"
+Person1,"The nature of our business is such that it has a unique element to it.
+"
+Person1,"So doing acquisitions for acquisitions' sake is not trivial for us.
+"
+Person1,"The answer is, we can do it.
+"
+Person1,"We know how to do it.
+"
+Person1,"At this point, if you look at where we are and what we have done, it's primarily been technology acquisitions as opposed to acquiring other companies that have a totally different business model and modus operandi.
+"

@@ -1,0 +1,293 @@
+Person,Sentence
+Person1,"Okay, thanks, <UNK>.
+"
+Person1,"Let me start on the record product question, and I'll pass it over to <UNK> to comment on the Asia question.
+"
+Person1,"Yes, we did say, and it is a fact, that three of our product lines -- our flagship products -- the MX, the PTX, the QFX, all had record revenue quarters in the Q2 time frame.
+"
+Person1,"As did services, thanks for the reminder.
+"
+Person1,"And each for different reasons.
+"
+Person1,"The MX has always been a very successful product.
+"
+Person1,"And we continue to invest in that platform to keep ahead of the demand for capacity, but also the demand for services.
+"
+Person1,"The thesis behind the MX was all around convergences, around simplifying your edge architecture by deploying a single platform that can deliver all services.
+"
+Person1,"I think we were pioneers in articulating that thesis and executing to that strategy.
+"
+Person1,"And we've benefited from that.
+"
+Person1,"And we've introduced new line cards and new capabilities to actually make this more of a reality, and we certainly saw the results in Q2.
+"
+Person1,"PTX, this is a product line that we knew when we initially shipped it would require a bit of a different mindset around how to develop and build out a next-generation core architecture.
+"
+Person1,"We called it the Supercore.
+"
+Person1,"And it did require a bit of a different approach to how one might in fact architect a wide area core or a wide area of metro network.
+"
+Person1,"And quite frankly, it took us a bit of time.
+"
+Person1,"It took us some time to make sure our customers were educated on the transformation that's required, but also on the benefit that they could reap from this architecture.
+"
+Person1,"And I'm very happy that we're seeing that transition happen.
+"
+Person1,"And we're starting to see, in fact, the growth from the PTX that proves that the thesis that we had made initially was the right one.
+"
+Person1,"QFX, first, again, we continue to add new capabilities to our QFX copper [brack] switches and our access switches.
+"
+Person1,"But we've also, just from a go-to-market standpoint, been focusing quite heavily on our data center opportunities, our cloud opportunities.
+"
+Person1,"And that's where the growth in the market is.
+"
+Person1,"And that's where the differentiation that we have in the QFX, in terms of things like the layer 3 capabilities, really start to become very effective.
+"
+Person1,"And the results are that we saw a great quarter for the QFX.
+"
+Person2,"So let me talk about A-PAC, and <UNK> can chime in as well.
+"
+Person2,"So A-PAC, we did have a disappointing quarter there.
+"
+Person2,"The revenues were down 10% year over year and 3% quarter over quarter.
+"
+Person2,"We were anticipating softness in China.
+"
+Person2,"And in my outlook, I mentioned that I expect that to continue.
+"
+Person2,"Some of it is, obviously, geopolitical and also competitive factors in China.
+"
+Person2,"If we excluded China, actually the revenues would've been up for the rest of A-PAC as a percent sequentially.
+"
+Person2,"We've talked previously about obviously the different regions within Asia-Pacific.
+"
+Person2,"We're seeing good design wins and growth in the ASEAN countries, Malaysia and Singapore, obviously Indonesia.
+"
+Person2,"We have seen some good wins in India, although that market we're continuing to increase our capabilities in.
+"
+Person2,"In terms of the Australia/New Zealand operations, in Q2 had a good quarter.
+"
+Person2,"Japan was slightly soft, but actually not bad overall.
+"
+Person2,"And Korea was slightly negative as well.
+"
+Person2,"But those tend to go more in line with service providers.
+"
+Person2,"Deployment just given the concentration that we have in those markets around a service provider.
+"
+Person2,"So our view is in terms of the region, we're making progress in a lot of different areas.
+"
+Person2,"China was weak in the quarter, and we expect it to be weak as we move forward.
+"
+Person0,"Next question.
+"
+Person2,"Let me talk about deferred revenue.
+"
+Person2,"Long-term deferred revenue is primarily services.
+"
+Person2,"So we do service contract renewals on a one-year and a three-year basis.
+"
+Person2,"And depending on the customer, depending on whether they renew it on a one-year or three-year basis.
+"
+Person2,"And so the declines that you've seen in the long-term are specifically to do with the proportion of three-year versus one-year, at any point in time.
+"
+Person2,"So obviously, three-year customers it will come down before they renew again for three years.
+"
+Person2,"And so that's what you've been seeing bleed off on the long term.
+"
+Person2,"There isn't anything more than that in the long-term deferred revenue.
+"
+Person2,"And so when those renew, you will see that long term actually increase again.
+"
+Person2,"In terms of hiring, I put the headcount numbers in my actual commentary.
+"
+Person2,"So we ended the quarter at 8,815 heads, modestly up from the prior quarter.
+"
+Person2,"The team's been very focused on how we actually continue to invest in the things that matter around the product portfolio and that type of thing.
+"
+Person2,"I'm not expecting a catch-up in terms of headcount or a significant increase in headcount.
+"
+Person2,"We're managing things very well; and quite honestly, the teams are very productive the way we are.
+"
+Person1,"The only thing I'll add is we have what we need in the plan that we're working towards this year to invest in all the areas of innovation that we know we need to invest in for our long-term competitiveness in the spaces that we're in.
+"
+Person2,"That was something very conscious that we did at the time of taking out the structural costs.
+"
+Person1,"Thanks for the question, <UNK>.
+"
+Person1,"I think this strategy that we're on and the focus across the key vertical segments -- cloud, cable, telcos, financial services, government -- is one that I think has a lot of legs.
+"
+Person1,"The opportunity for us in cable, for example, or in cloud, appears to be very good and sustainable.
+"
+Person1,"I know, for example, let me just pick on one vertical in the cloud space, where we are very, very close to them in terms of the architectural evolution of their network today but also in the future.
+"
+Person1,"And also in terms of the capabilities, the features, the performance, the scalability, that we are implementing into our new products that will be released over the coming year and beyond.
+"
+Person1,"It's just a function of our strategy, and I think that it's something that can actually play out for a long period of time.
+"
+Person1,"Very difficult to put a time period on it.
+"
+Person1,"But it is not something that I see an immediate or short-term end to.
+"
+Person0,"We'll go to the next question.
+"
+Person1,"Sure, <UNK>.
+"
+Person1,"First, let me just say this.
+"
+Person1,"We use both merchant and also our own silicon across the variety of products in switching and routing and in security.
+"
+Person1,"We're absolutely not going to be religious about using our own or somebody else's.
+"
+Person1,"We're going to choose the best silicon to solve the problem in the most effective and differentiated way possible.
+"
+Person1,"And before we embark on a new silicon project ourselves at Juniper, we go through very extensive analysis to make sure that it is in fact something that's going to differentiate us and therefore pay off because these chip projects, as you know, are not inexpensive projects.
+"
+Person1,"And we've done exactly that.
+"
+Person1,"If you look at the cloud space, for example, the accessed layer, where it really comes down to pricing, not that much differentiation in certain market segments.
+"
+Person1,"You can easily go to commodity.
+"
+Person1,"As you get into the core the need for power efficiency, programmability, the need for logical scale, IP routing capabilities, becomes greater.
+"
+Person1,"And so the opportunity to differentiate with your own silicon becomes evident or becomes there, and so that's essentially what we have done.
+"
+Person1,"In the competitive environment, we understand.
+"
+Person1,"This is a competitive space.
+"
+Person1,"And both from the standpoint of systems vendors that are using merchant or their own silicon, and also from the point of merchant silicon technology that's out there.
+"
+Person1,"And as long as we are innovating and focusing on the parts of the market where we know that we can achieve differentiation, then that's what we will do.
+"
+Person1,"We will choose the best tools and technologies for the right areas of the network.
+"
+Person0,"Okay, thanks, <UNK>.
+"
+Person0,"Next question, please.
+"
+Person2,"<UNK>, let me just make sure I correct something that I help people understand about the guidance for Q3.
+"
+Person2,"And then I'll hand it over to <UNK> on the visibility question.
+"
+Person2,"So you mentioned the word flat Q3 to Q2.
+"
+Person2,"Actually, it's up.
+"
+Person2,"So the way I want you to think about it is if you take out Q2 results, the deferred revenue impact, it's on all of the $48 million, but a large portion of that, and then you actually look at that versus guidance.
+"
+Person2,"What you'll see is that we're actually projecting an increase quarter over quarter in the underlying business.
+"
+Person2,"More consistent actually with what we've seen historically when we've had growth years in terms of Q3 over Q2.
+"
+Person2,"With that, I'll hand it to <UNK> to talk about the visibility.
+"
+Person1,"Sure.
+"
+Person1,"First I just want to emphasize the fact that while the telco space remains a very important vertical for us, we're by no means tied completely to that space in terms of what drives our business.
+"
+Person1,"The diversification across the verticals and across products is certainly helping us in dampening, if you will, some of the effects of the lumpiness in that space.
+"
+Person1,"As far as the second half, it really is consistent with what we have been saying over the last several quarters.
+"
+Person1,"We expect to see some improvement, but that's going to be complemented with continued diversity.
+"
+Person1,"That's going to help us achieve the results that we're expecting for the second half.
+"
+Person0,"I think we have time for maybe one or two more questions.
+"
+Person0,"Next question, operator.
+"
+Person2,"Okay.
+"
+Person2,"<UNK>, I'll handle the first couple of questions, and then <UNK> can chime in.
+"
+Person2,"So in terms of 10% customers, there were no 10% customers in the quarter.
+"
+Person2,"What was the second question.
+"
+Person2,"Pricing.
+"
+Person2,"So in terms of the pricing environment, obviously it's a consistently competitive environment globally.
+"
+Person2,"But as you saw from the gross margins, we had pretty healthy product gross margins.
+"
+Person2,"Which reflect not only the ongoing competitiveness of the portfolio but also the cost reductions that we continue to focus on in the supply chain.
+"
+Person2,"So from our perspective, no discernible difference in the competitive dynamics in the quarter.
+"
+Person1,"On the question around market versus projects, and I'm assuming you're really asking about whether something specific to Juniper in the projects we're engaging in versus something that's more broader.
+"
+Person1,"It really depends; and in some cases, it's very difficult for us to tell really.
+"
+Person1,"But in the cloud space, for example in our switching, what you're seeing there is more of the market opportunity shifting towards the data center.
+"
+Person1,"So we ourselves as a Company are diverting more of our intentions, especially on the go-to-market side, on the support side, to that opportunity and benefiting from the growth in that market segment.
+"
+Person1,"I think in other verticals, like maybe in the cloud space, it actually could be more project-driven.
+"
+Person1,"It could be more of a market share phenomenon that's happening because we have traditionally been really strong and very close to that vertical and something that's paying off for us.
+"
+Person1,"So it's a mix and difficult to really break out in any precise detail.
+"
+Person2,"And, <UNK>, I just want to make sure.
+"
+Person2,"The telco customers are important customers to us as well.
+"
+Person2,"We're not saying that we're diversifying away from the telco customers.
+"
+Person2,"They are important.
+"
+Person2,"They will continue to be important.
+"
+Person2,"Having said that, the innovation that we're delivering is as relevant to other parts of the market and through the changes that <UNK> mentioned in terms of not just the portfolio but also the go-to-market motion.
+"
+Person2,"We're actually driving revenue growth through those other verticals as well.
+"
+Person2,"So I think that's a very important point.
+"
+Person2,"And I think earlier in the questions, there was the comment around cyclicality.
+"
+Person2,"There's no question one of the reasons why we decided to work on the go-to-market muscle in terms of some of these other verticals was exactly for that reason, to offset some of that cyclicality as we move forward.
+"
+Person0,"Thanks, <UNK>.
+"
+Person0,"Operator, we have time for month one more question.
+"
+Person1,"Yes, thanks for the question, <UNK>.
+"
+Person1,"I guess the blurring, what it means for us is that when we go and develop our products, we develop them in such a way that we become somewhat agnostic as to where in fact they will be placed to deal with the massive amounts of IP transport traffic.
+"
+Person1,"In some areas, in might be in more of a nationwide or even a global network.
+"
+Person1,"In some areas, it might be more of a Metro network.
+"
+Person1,"What's happening today architecturally is data centers in some cases are being built in more distributed locations, which puts more pressure in the metro areas; and in some caser are in more central areas that will put more pressure in the core areas.
+"
+Person1,"If we build the products that will deal with either architectural case, then we win either way; and that's exactly the goal.
+"
+Person1,"So take, for example, our PTX product line.
+"
+Person1,"It comes in a large, a medium; and now with the PTX 1000, a small form factor.
+"
+Person1,"And that's a perfect example of how we're building these products and the capabilities of these products to address the issue of scale or the challenge of scale, irrespective of architecture that the customer ultimately wants.
+"
+Person1,"It makes it more difficult to break out our numbers into core and edge.
+"
+Person1,"We can sort of estimate it.
+"
+Person1,"But I tend to measure ourselves now as more routing all up in the wide area network, as opposed to specific to core edge.
+"
+Person1,"I would agree with that.
+"
+Person1,"Yes.
+"
+Person0,"Thank you, everyone.
+"
+Person0,"This will conclude our call for today.
+"
+Person0,"Thank you, as always, for your great questions.
+"
+Person0,"Thank you very much.
+"

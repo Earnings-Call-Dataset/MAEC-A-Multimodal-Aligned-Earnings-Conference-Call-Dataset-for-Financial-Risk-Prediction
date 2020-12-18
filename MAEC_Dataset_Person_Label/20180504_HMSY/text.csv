@@ -1,0 +1,453 @@
+Person,Sentence
+Person0,"Thank you, Sonia.
+"
+Person0,"Good morning, and welcome to the HMS earnings conference call for the first quarter of 2018.
+"
+Person0,"Joining me are Bill <UNK>, our Chairman and Chief Executive Officer; and Jeff <UNK>, our Chief Financial Officer.
+"
+Person0,"This call is being webcast and can be accessed by the Investor Relations section of our company website at HM<UNK>com.
+"
+Person0,"Today's earnings release as well as an investor slide presentation containing supplemental information are posted on our website as well.
+"
+Person0,"Bill and Jeff will provide their perspective this morning on our first quarter financial results.
+"
+Person0,"And following their remarks, we will open the line for questions.
+"
+Person0,"(Operator Instructions) Before we get started, I want to remind you that some of the statements we will make today are forward-looking, based on our current expectations and view of our business as we see it today.
+"
+Person0,"Such statements, including those related to future performance and future business plans and objectives, are subject to risks and uncertainties that may cause actual results to differ materially.
+"
+Person0,"As a result, they should be considered in conjunction with the cautionary statements in today's earnings release and risk factors described in the company's most recent SEC filings, including our Form 10-K.
+"
+Person0,"Financial results in today's earnings release reflect preliminary results, which are not final until our first quarter 2018 Form 10-Q is filed.
+"
+Person0,"Finally, we may refer to certain non-GAAP measures this morning.
+"
+Person0,"And a reconciliation of those measures to GAAP is included in both our earnings release and the investor presentation.
+"
+Person0,"We are now ready to begin.
+"
+Person0,"Bill.
+"
+Person1,"Thank you, <UNK>, and good morning, everyone.
+"
+Person1,"Following a record fourth quarter, we are encouraged by the strong start to 2018, reflected in the financial results we reported today.
+"
+Person1,"Total revenue, adjusted EBITDA and operating cash flow in the first quarter each exceeded our expectations, which we believe positions us nicely to achieve our full year objectives.
+"
+Person1,"The significant year-over-year growth in Payment Integrity revenue is an ongoing indication that the initiatives we implemented in 2017 to enhance the analytics and operations supporting PI are continuing to boost savings for our customers and generate added revenue for HM<UNK>
+"
+Person1,"Having recently passed the 1-year anniversary of our purchase of the Eliza consumer engagement platform, we are intensely focused this year on cross sales to our existing customers, particularly the middle market Medicaid plans, where Essette and Eliza have relatively low penetration.
+"
+Person1,"We have spoken previously about international target list of customers, which we began to approach at the end of last year, and the positive reaction we have received about the capabilities of our new care management and consumer engagement solutions.
+"
+Person1,"We have inked several contracts and are in active dialogue with a number of our existing COB and PI customers about purchasing these new solutions.
+"
+Person1,"More broadly, we continue to use technology to leverage our unparalleled database and analytics to innovate on behalf of our customers and their members.
+"
+Person1,"As we announced earlier this week, we hired a Chief Technology Officer to assist in that process.
+"
+Person1,"Jacob Sims has extensive experience leading large-scale healthcare IT organizations and technology-based product development.
+"
+Person1,"So he is well equipped to ensure that we proactively maximize technology, stay at the forefront of changes impacting a rapidly evolving healthcare IT world.
+"
+Person1,"A good example of our internal innovation activity is the new population risk intelligence product we have developed.
+"
+Person1,"This analytics software solution assist with early and accurate identification of health plan members, who will most benefit from effective intervention and personalized engagement designed to change behavior and improve clinical outcomes.
+"
+Person1,"We had spoken previously about this effort, which began with an experiment in 1 state last year, including both the state fee-for-service population and the Medicaid managed care plans in that state.
+"
+Person1,"We will have more to say about this important new approach to total population management in the weeks ahead, as we formally launch the product.
+"
+Person1,"We worked hard during 2017 to overcome execution challenges, particularly with regard to Payment Integrity and related implementations of newly sold PI business.
+"
+Person1,"We have refined the entire implementation process for both PI and COB to eliminate projects on hold due to HMS-caused delays, improved throughput and reduce the total time required from contract signing to revenue generation.
+"
+Person1,"Going forward, we believe we now have the people, technology and processes in place to achieve the revenue growth we expect this year.
+"
+Person1,"There were 3 factors, which contributed to the sequential and year-over-year growth in PI revenue we saw in the first quarter, including revenue from existing COB clients, who bought Payment Integrity products for the first time.
+"
+Person1,"Scope expansions with existing PI customers, which produced incremental revenue was the second contributor.
+"
+Person1,"And the last is product yield improvements we put in place in recent months, which continued to expand our audit portfolio, increase audit volume, improve the savings rate per finding and lower the turnaround time for customers for whom we are already doing PI work.
+"
+Person1,"From a product perspective, data mining and complex clinical reviews were the 2 areas of greatest PI outperformance in the first quarter compared to our expectations.
+"
+Person1,"More generally, we are seeing Payment Integrity growth that is broad-based and spread across multiple health plans and state Medicaid agencies.
+"
+Person1,"That should mitigate the risk that any individual customer actions related to provider operation concerns or other network issues, which meaningfully impact PI revenue this year.
+"
+Person1,"Jeff will now provide added detail on the first quarter performance.
+"
+Person1,"Jeff.
+"
+Person2,"Thank you, Bill, and good morning.
+"
+Person2,"I will begin this morning by reviewing first quarter revenue from both the customer and product perspective.
+"
+Person2,"Total revenue of $141.4 million included $8.4 million in Medicare RAC revenue due to reversal of a portion of the appeals reserve related to the original contract.
+"
+Person2,"Following expiration of our old Region D contract on January 31, the requirement to maintain a reserve for open or pending appeals ended and we reversed the associated reserve.
+"
+Person2,"Excluding the reserve release, normalized revenue for the quarter of $133 million was slightly above our projection.
+"
+Person2,"The RAC reserve release resulted in a net benefit in the quarter of $0.05 per diluted share such that normalized adjusted EPS was $0.17.
+"
+Person2,"Eliza revenue was $9.7 million in the quarter.
+"
+Person2,"Excluding that from the year-over-year comparison, since we did not close on the acquisition until last April, first quarter commercial revenue was up double digits, state government revenue was up low-single digits as those coordination of benefits and total revenue was up over 8% on an organic basis excluding both the Eliza revenue and RAC reserve released in the quarter.
+"
+Person2,"As always, we expect to see a modest step-up in each of these revenue components in the second quarter followed by a more significant uptick in the second half.
+"
+Person2,"Coordination of Benefits revenue was approximately 65% of total revenue in the first quarter compared to nearly 78% a year ago.
+"
+Person2,"That is a positive reflection of the diversification resulting from the addition of our new care management and consumer engagement vertical as well as the relatively faster growth of Payment Integrity revenue in the quarter.
+"
+Person2,"Adjusted EBITDA of $35 million included a benefit of approximately $6 million from the reserve release, but it was still meaningfully higher than the 2017 first quarter total of $20 million.
+"
+Person2,"This strong performance reflect both the leverage we get on incremental revenue and ongoing efficiency and cost-savings initiatives.
+"
+Person2,"Though the effective tax rate in the quarter was approximately 32%, we continue to expect it will be in the range of 28% to 30% on a full year basis.
+"
+Person2,"As we pointed out in our February call, that projection is based on the new lower federal rate, partially offset by the laws of deductions for subsidizing the state and local taxes, domestic manufacturing and certain executive compensation.
+"
+Person2,"The rate this quarter was due to a higher level of stock compensation relative to the rest of the year, which was a result of annual equity grants to employees made in the first quarter.
+"
+Person2,"Equity compensation was $9.5 million in the quarter, just under half of the projected $20 million for the full year, and we expect the balance to flow roughly equally among the remaining 3 quarters of 2018.
+"
+Person2,"Operating cash flow was relatively strong at $14.7 million despite the usual payment of annual cash bonuses to employees at the beginning of each year.
+"
+Person2,"We continue to execute on our share buyback authorization, and we purchased another 384,000 shares in the quarter for approximately $6 million.
+"
+Person2,"Since the current program was put in place last November, we have repurchased approximately 1.25 million shares at a total cost of approximately $20 million, which equates to an average price of just under $16 per diluted share.
+"
+Person2,"Free cash flow was positive in the first quarter of the year for the first time in 4 years, which further indicates the overall strength of our financial performance to kick off 2018.
+"
+Person2,"Capital expenditures in the first quarter were $5.8 million, but we do expect the pace to pick up as the year progresses and still anticipate full year expenditures of approximately $33 million.
+"
+Person2,"The focus of our CapEx continues to be technology-based investments and our growth as well as maintenance of our data security and IT systems.
+"
+Person2,"We also have an active pipeline of acquisition opportunities, which we continue to monitor and pursue.
+"
+Person2,"Our primary focus at the moment, however, is strengthening and growing our existing franchise, particularly new care management and consumer engagement vertical.
+"
+Person2,"In short, we believe our overall performance in the first 3 months of the year creates a solid foundation for achieving our full year 2018 financial objectives.
+"
+Person2,"Bill will now have concluding remarks, and then we'll be ready to take questions.
+"
+Person2,"Bill.
+"
+Person1,"As Jeff just mentioned, the new year is off to a strong start for HM<UNK>
+"
+Person1,"Looking ahead, we recognize the need for consistent and predictable performance throughout 2018.
+"
+Person1,"And we are committed to achieving it.
+"
+Person1,"Reaching our objectives is aided considerably by a favorable environment for sales of our services.
+"
+Person1,"Macro factors, such as the growth of government programs and aging population with a high incidence of chronic disease, unsustainable cost pressures throughout health care services and an ever increasing focus on the consumer experience provide a positive backdrop for our business.
+"
+Person1,"We also have the data, the analytics, the customer base, a committed and engaged workforce and a highly leverageable business model, which we believe will support and sustain profitable growth throughout this year and beyond.
+"
+Person1,"Before closing, I want to recognize the hard work of HMS employees around the country and in every department throughout HMS, who contribute each day to the company's growth and add success and service to our customers.
+"
+Person1,"In recognition of that contribution, we have recently announced internally that we will be sharing a portion of the federal tax cut savings with employees by increasing the company match to our 401(k) plan.
+"
+Person1,"This is not a onetime bonus, but an indefinite change to our plan design, which will provide an added incentive for employees to save for their future.
+"
+Person1,"A long-term reward for plan participants and an ongoing reminder of our appreciation.
+"
+Person1,"Operator, we are now ready for the first question.
+"
+Person1,"So we usually see a modest uptick in Q2, and then further ramp in the second half of the year.
+"
+Person1,"Technically, if you look at us just historically, about 40% of our revenue is in the first half and 60% in the second half.
+"
+Person1,"So you should expect that growth.
+"
+Person1,"I would also say that getting through the backlog of implementations and more timely executing on those is wind in our sails from that perspective.
+"
+Person2,"Yes, so as we talked about in our call in February, we do expect the consumer engagement and care management vertical to grow double digit this year.
+"
+Person2,"So that hasn't changed.
+"
+Person2,"I think with the level of interest we've seen and some of the sales that have already taken place both in the fourth quarter and the first quarter of 2018, we believe we'll be able to achieve that double-digit revenue growth in that product line.
+"
+Person1,"Thank you, <UNK>.
+"
+Person1,"It's a good question.
+"
+Person1,"So we have been using MLT and AI to assist us in reading medical records and to replicate what a medical record coder might do.
+"
+Person1,"For competitive reasons, I'm not going to go to deep dive into how we do it, but what that is meant to do is, as we ramp new revenue in PI, we won't need to add as many resources.
+"
+Person1,"And we're also making sure that we have more appropriate findings.
+"
+Person1,"So one of the things that's really important to us, our clients, and of course, the providers is that we lowered the number of false positives.
+"
+Person1,"We've always been very good about how our system scores, the probability of recovery anyway, but the technology we're using now helps us get through to false positives much quicker so that they are not distributed to the providers for audit.
+"
+Person1,"Jeff, anything you want to add to that.
+"
+Person2,"Yes, I think we've also talked about using robotic process automation to automate more manual task, I think, which also then allows us to redeploy some of those staff and resource.
+"
+Person2,"We are working on that to hiring initiatives, like driving incremental yield for our customers.
+"
+Person2,"So I think it's a win both from a cost perspective as well as the revenue lift perspective.
+"
+Person2,"We started to see some of that in 2017 and expect to see more of that as we progress through 2018.
+"
+Person1,"So we were implementing machine learning and AI in a couple places in the company.
+"
+Person1,"PI is not the only part of the company that we're doing that.
+"
+Person1,"And we have 2 models.
+"
+Person1,"One is purely a machine learning tool that is -- that does this very specific task and can do that on a repetitive basis.
+"
+Person1,"The other model is a mentor-based machine learning, more of an artificial intelligence.
+"
+Person1,"So it learns from how we do the work and then, of course, the better -- the more efficient and effective our reviewers are, the more efficient and effective the tool is.
+"
+Person1,"And so that's more a mentor-based model technology in AI, and we have also deployed that.
+"
+Person1,"So there is really a couple different tools that we are both experimenting with or are in production in a number of areas of our business, not just Payment Integrity.
+"
+Person2,"Yes, we didn't update guidance and don't plan updating guidance each quarter.
+"
+Person2,"We did provide full year guidance in a range.
+"
+Person2,"So as we indicated in the call, with a strong start to this year positions us nicely to reach our full year objectives.
+"
+Person2,"But we're measured when we provided guidance in February, and we want to remain in that mode just with 1 quarter.
+"
+Person2,"We didn't contemplate the reserve release when we gave our guidance, so I would point to the normalized revenue and adjusted EBITDA numbers for the quarter as the basis for comparison.
+"
+Person2,"Yes, the delta is, as we have recorded pluses and minuses over time in the RAC revenue related to reserves, it flows through to our bottom line and then our equity -- our bonus calculation.
+"
+Person2,"So there is a favorable bonus impact calculation from $8.4 million.
+"
+Person2,"So it was a little bit over $2 million.
+"
+Person2,"So the net benefit of the reserve release was just over $6.3 million.
+"
+Person2,"And then you have the tax affected as well to get the EPS impact.
+"
+Person2,"And so that takes it down to about $4.3 million after tax affecting it.
+"
+Person1,"For those 2 plans, not yet, but we anticipate that as we continue to build those relationships and the Eliza brand becomes more the HMS-Eliza brand that we'll have opportunities with those accounts.
+"
+Person3,"So Bill, you touched on this in your prepared remarks.
+"
+Person3,"You have made a few investments in PI since the back half of last year, in the analytics implementation team, revenue conversion.
+"
+Person3,"Just given the longer tail of some of these items, could you walk me through what played out in the PI segment this quarter versus what is still to come or could ramp going forward.
+"
+Person2,"I'll start and -- this is Jeff, and I'll let Bill jump in.
+"
+Person2,"So as you may recall, we did talk about actually exiting the third quarter that we started to see a significant uptick in the number of medical records we were requesting.
+"
+Person2,"Some of the technology investments we made and our improved screening helped drive that volume increase.
+"
+Person2,"And typically, we have a 90 to 120-day lag from when we request a record to actually having a finding and revenue generation.
+"
+Person2,"So I think PI is playing out as we expected.
+"
+Person2,"We saw that trend of higher volume of request continuing into Q4.
+"
+Person2,"I think right now we're just talking to capitalize and see the revenue recognition from that lift.
+"
+Person2,"So I would characterize that there is a lot of hard work that was done throughout 2018, both from an implementation improvement process and just looking at the whole PI revenue process and -- revenue recognition process in total that we're starting to see the results and the fruit of all that effort hitting in the first quarter.
+"
+Person2,"It was our strongest PI quarter in over 4 quarters and was up sequentially from fourth quarter, which is very typical revenue flow pattern for us.
+"
+Person2,"Typically fourth quarter is our highest quarter and then first quarter, we see decline.
+"
+Person2,"But we actually saw PI revenue increase in the first quarter, which we think is a good sign for the year.
+"
+Person3,"As a follow-up to that on PI, could you, given recent market trends, give us an update on any build-out investments that are being made in your prospective PI product.
+"
+Person1,"So we continue to invest in the prospective product to -- as we said in the past, our prospective product really was focused on complex clinical reviews, DRG, place of service, those types of things that we do in the complex world or the complex clinical side of coding.
+"
+Person1,"We are now in the process of moving the other data mining edits, virtually any edit that we run retrospectively and trying to -- or attempting to repurpose them on the prospective side, so it can move into that engine.
+"
+Person1,"It has a slow adoption rate.
+"
+Person1,"As we talked about before, it takes a little longer to implement these.
+"
+Person1,"They are more complex, but we have had increased adoption in the quarter in the marketplace.
+"
+Person1,"So we still see that as a strong grower in the future for our business.
+"
+Person3,"Given it's a machine learning kind of build-out, would then your PI product have a little more of a healthier margin than some of your peers.
+"
+Person2,"I wouldn't say -- I won't compare it to peers, but I think, as we look at it, the more than we are a leverage technology to both improve the screening and our success rate, we should see margin lift from that over time.
+"
+Person2,"So we devoted a lot of time to resources in 2017 to improve implementations overall and, in particular, PI.
+"
+Person2,"As we mentioned on the call, we do think we have the people and processes in place to work through the inventory of sold business for both PI and COB so that we are at a normalized level at the end of the year.
+"
+Person2,"We did budget much more discreetly at both customer and product level our implementations and so we have refined our tracking and analytics implementations significantly in the back half of 2017.
+"
+Person2,"So we do have better visibility, which allows us to respond to changes because changes will happen.
+"
+Person2,"Customers will make changes in their plans.
+"
+Person2,"And I think the other effort we've done that Bill noted on his prepared remarks is, we took a very hard look at projects that were on hold and are in implementation queue based upon issues that HMS could control, and we have resolved all of those.
+"
+Person2,"And so now our queue is very clean, and I think we have a very focused team that is monitoring it every month.
+"
+Person2,"We certainly look at it and review it every month as an executive team and we can respond accordingly to changes.
+"
+Person2,"So I think it's a combination of a lot of work that was done throughout 2017 that we're starting to see the benefits hitting in 2018.
+"
+Person2,"Hi <UNK>, this is Jeff.
+"
+Person2,"I'm not going to give explicit details, but I would say, it's always a faster ramp to expand existing customer base than ramping up a new customer base.
+"
+Person2,"So you should expect that of the 3 expanding sales of existing customers and yield improvement have a more immediate impact on revenue, whereas new customers always take more time to ramp up.
+"
+Person2,"So I'll just point you that more weighted towards existing customers and yield improvement, but with new customers over time ramping up.
+"
+Person1,"Well, I think our product suite is attractive across the markets we serve, both government and the commercial or health plan market.
+"
+Person1,"The Payment Integrity continues to be appealing, particularly across our customer base because remember we were in state RACs -- Medicaid State RACs and then most of our commercial plans are government risk.
+"
+Person1,"So -- but they typically have center margins and are audited.
+"
+Person1,"So they have to get the payments right.
+"
+Person1,"So we continue to see an uptick in interest there.
+"
+Person1,"And then, as we roll out the rest of our total population management solution, we have a unique approach to this, which we'll discuss more as the product is launched in the next month.
+"
+Person1,"But what customers are starting to appreciate as we talk to them about it is the ability to identify high-risk members that they don't -- they are not currently working on from a care management perspective, engage them through an Eliza engagement platform and then manage them through Essette Care Management tool.
+"
+Person1,"So we are presenting a very holistic approach to managing high-risk members or potential high-risk members.
+"
+Person1,"So I think those are the things that are resonating in the market right now.
+"
+Person1,"And of course, COB continues to -- continue to get upsells across our customer base.
+"
+Person2,"Yes, and I would just add, we've mentioned this before, but care management and member engagement, both Eliza and Essette, they are principally focused on commercial marketplace.
+"
+Person2,"The government process -- the government marketplace is much more complex, much more detailed RFP processes.
+"
+Person2,"We have started and having active dialogue in the state market for both of those products as well as well as the risk-intelligent product that Bill mentioned.
+"
+Person2,"And we do see that we're going to -- we believe we're going to get traction there over time.
+"
+Person2,"We don't think there is going to be a big 2018 impact, but we are seeing more interest there and do think we have a good upside opportunity to sell those products into the state market as well.
+"
+Person1,"Well, we haven't seen a lot of procurement.
+"
+Person1,"We just started marketing in the state market, but the states typically buy through procurement, so RFP driven.
+"
+Person1,"We haven't seen many RFPs for this.
+"
+Person1,"There have been a number of RFPs for care management systems that are wrapped into MMIS solutions, and so we are bidding with partners there.
+"
+Person1,"But we haven't seen a lot of population management RFPs out of the state market yet.
+"
+Person1,"What we're trying to do is either sell with a more holistic approach with the 3 tools linked together or just sell our new population risk intelligence product, which helps them do everything from identifying members that they today don't know -- they don't have care management programs and based on their analytics are not finding that they will become high-risk members.
+"
+Person1,"And of course, it comes with a suite focused on opioid analytics, which, of course, is very important for the states right now.
+"
+Person1,"But we really haven't seen many RFPs in this arena and clearly not for consumer engagement.
+"
+Person2,"And we do think we are well positioned to be competitive.
+"
+Person2,"First and foremost, because of all the data that we currently already have, which we think positions us well to be very competitive using the data we already have from position claims, hospital claims and pharmacy claims.
+"
+Person2,"So we think that does give us an advantage as we look to how utilize and work with that data to provide actionable insights to states.
+"
+Person1,"Yes, so that is the risk intelligence tool that we talked about.
+"
+Person1,"The state itself is -- I think we're in final contract stages to have the contract countersigned.
+"
+Person1,"It's -- also we've subcontracts in front of the 5 health plans in that state.
+"
+Person1,"That's the product that I said we will do a formal market launch within the next month.
+"
+Person1,"And it will be -- it will not only be launched independently, but we'll talk about the integration of that with Eliza and Essette.
+"
+Person1,"Yes, so you're right.
+"
+Person1,"We're not giving a lot of detail about the product until it's launched for competitive reasons.
+"
+Person1,"But I would tell you the leg up we have is the fact that the state authorizes the use of the data, right.
+"
+Person1,"So if the -- like in our pilot state, we took all of the claims and encounters at the state -- encounters were the encounters from the managed care plans.
+"
+Person1,"Typically, encounters from managed care plan of the states are pretty accurate in terms of the services provided.
+"
+Person1,"They're just not accurate in terms of pricing, but that's not important in this realm.
+"
+Person1,"What's important is the services that the member is receiving or the gap in the services.
+"
+Person1,"And so we took those claims and encounters to get a full picture of the person and then as the managed care plan signs in every day if the state has delegated a new member to them and they reach a risk score that is high enough to fall on to one of the -- one of the risk scoring areas, so that could be a noncompliant diabetic, or someone with a potential opioid abuse, they will -- that patient will be -- basically be at the top of the queue in that screen and they can drill in and see the physicians, the drugs they are taking, the number of encounters, where they have used the ER for primary care, all those things.
+"
+Person1,"And it will immediately give them a path of who needs engagement now.
+"
+Person1,"The interesting thing is that our clients have told is, it usually takes them 4 to 6 months to figure that out.
+"
+Person1,"So they know this on day 1, that's a real, real help in terms of getting that person managed better, more effective care management and impact on more our end and the outcomes, which is very important.
+"
+Person2,"Yes, so if they have the risk profile day 1, then as you know, Jamie, with a comprehensive platform of both care management and member engagement, we can also provide the best way to reach out to the patient to change their behavior as well as care management platform with Essette to help manage the patient through the continuum of care.
+"
+Person2,"So that -- we do think we have a unique offering from that perspective and coming to the market with something differentiated.
+"
+Person2,"Yes, I mean, it's a clean number, but it did include a stepped-up level of stock comp expense, Jamie, that I noted.
+"
+Person2,"And so -- stock comp expense, we do expect will trend down for the remaining quarters of the year.
+"
+Person4,"Given we're about a year past Eliza, just curious, have you seen any meaningful attrition in the client base.
+"
+Person4,"What's been the retention.
+"
+Person2,"Retention has been very high.
+"
+Person2,"I think we have -- we talked about our Eliza revenue model.
+"
+Person2,"In 2017, about a 1/4 of it was on a PMPM recurring revenue model.
+"
+Person2,"We did see some nice growth in that in Q1.
+"
+Person2,"So we are seeing more technology-driven revenue generation at Eliza in Q1.
+"
+Person2,"Always there is going to have puts and takes, but transactional revenue, which we view as recurring because it occurs every year, that can be a little more lumpier on a quarter-to-quarter basis.
+"
+Person2,"But we haven't seen any meaningful customer departures.
+"
+Person2,"And as Bill noted, we have seen several cross sales and are still getting good receptivity in the marketplace on it.
+"
+Person2,"And it is, I think, as a new sale on the care management -- excuse me, on the member engagement, we wouldn't necessarily expect a SaaS model on new sale.
+"
+Person2,"It's going to -- we believe we're going to start transactional and evolve over time into the recurring revenue model, which we believe will -- is a higher-margin model and positions us to see margin expansion over time.
+"
+Person4,"Great.
+"
+Person4,"And one last one from me, just in terms of the PI business, can you give us a sense in terms of visibility and, I guess, maybe kind of the current trend on the volume side.
+"
+Person4,"Or what type of backlog you have right now to work through if you look out to the remainder of '18.
+"
+Person2,"So we saw the -- as I mentioned, we saw the stepped-up volume of requests starting in September, October time frame.
+"
+Person2,"That level has continued.
+"
+Person2,"I'd say it's been stable, but stable at a much higher level than our average run rate for 2017.
+"
+Person2,"So I think we have good visibility on that.
+"
+Person2,"We're continuing to add some expansions as Bill noted, and of course, expanding within existing customer, that can be quicker to revenue generation and then we are still implementing throughout the year.
+"
+Person2,"So I think, overall, we expect to see PI growth double digits in 2018.
+"
+Person2,"I think we're well positioned to do that based upon first quarter results.
+"
+Person1,"Well, I'd like to thank you all for attending our first quarter call and look forward to our second quarter call.
+"
+Person1,"Have a good day and a wonderful weekend.
+"
+Person1,"Thank you.
+"

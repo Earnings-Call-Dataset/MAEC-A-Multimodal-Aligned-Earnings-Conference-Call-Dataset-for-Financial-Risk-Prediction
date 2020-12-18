@@ -1,0 +1,63 @@
+Person,Sentence
+Person1,"Why don't you go first.
+"
+Person0,"Yes, I'll go first.
+"
+Person0,"The data architecture that underlies what's happening in the enterprise underneath applications is going through a dramatic change.
+"
+Person0,"That said, the relational database itself remains still a very strong component, but not the only component anymore, both on premise and off premise.
+"
+Person0,"What we want to make sure, as a Company, is to cover all of that landscape with a very rich data platform.
+"
+Person0,"So if you look at what we're doing, the length and breadth of our ambition, as well as our delivery today, everything from what SQL itself is doing, we have now all in memory workloads for OLTP, BI, data warehousing, built in.
+"
+Person0,"We have the ability to now tier even the database with the cloud.
+"
+Person0,"This is all the things that are coming in SQL 2016 and we're excited about that.
+"
+Person0,"When it comes to the cloud itself, we have a PaaS service for SQL, which is very unique in terms of SQL Azure.
+"
+Person0,"We have now the Data Lake service for basically petabyte, exabyte scale data management.
+"
+Person0,"We have higher-level data services like Azure ML, which is about advanced analytics, a category we didn't even participate in the past, so we've entered that category.
+"
+Person0,"Revolution R fits into that.
+"
+Person0,"So we have a very rich story, and this is not even talking about some of the other end user BI capabilities, like Power BI.
+"
+Person0,"So we have a very rich vision and execution on what is an expanding data platform opportunity, and it's nice to see us innovate on the new services, while we also, in what is still the big market, which is the relational database market, claim a leadership position.
+"
+Person1,"And <UNK>, on the total bookings number, the reason we moved to commercial bookings is it's a far more comparable number to look at, period-to-period.
+"
+Person1,"Total bookings, because of the volatility, frankly, in consumer businesses in times like the holiday period, it can make it far more volatile than usually what many of you have been asking for, which is the continuity and health of the overall commercial business.
+"
+Person1,"If you want to get to total bookings, you just add back in all the consumer revenue is technically how you would do it, but I do think the more helpful KPI for us in terms of bookings is the commercial one.
+"
+Person1,"The way to think about that, how I look at -- the way I would generally say it is you could look at each of the KPI as we get.
+"
+Person1,"So the Office commercial business grew 5%, it was negative 8%, there's some transition earning back off the balance sheet.
+"
+Person1,"The total cloud is 70%.
+"
+Person1,"When we start to get to this point, and the percentage we already have in the cloud, it is really an offset.
+"
+Person1,"And that's probably, frankly, been true a little bit longer than we've talked about technically in terms of what goes off and what comes on, given we've now got, as <UNK> said, 60 million users and more than that in terms of [SQL].
+"
+Person1,"That can technically, <UNK>, be interesting in certain quarters of the year where we have very heavy expirations.
+"
+Person1,"And so it just depends year-over-year -- that's why the commercial is slightly harder to do it on because there's some volatility in the ins-and-outs based on seasonality.
+"
+Person1,"I want to make this simple, and unfortunately it's just slightly complicated.
+"
+Person1,"Because so much of our installed base was already on an annuity contract, it makes this transition mathematically hard.
+"
+Person1,"What you're asking is specifically for our transactional component, when the old transactional component has gone, but that's a component of the number not the total.
+"
+Person1,"So it's why it's technically difficult to answer the question you're specifically asking, <UNK>.
+"
+Person1,"But the way I would think about it is, we are moving such a substantive piece of our EA business, and with our annuity mix all up in commercial, up to 86%, we're feeling very good about our ability to transition people at LTV and grow the business overall at a very high level.
+"
+Person1,"Thanks, everyone.
+"
+Person0,"Thank you, everyone.
+"

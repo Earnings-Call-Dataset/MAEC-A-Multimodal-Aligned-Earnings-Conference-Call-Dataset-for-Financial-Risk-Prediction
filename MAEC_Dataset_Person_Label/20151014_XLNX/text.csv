@@ -1,0 +1,393 @@
+Person,Sentence
+Person1,"With the Qualcomm, I can't tell you without disclosing when they're going to ship the product.
+"
+Person1,"Hence, I am precluded from answering that.
+"
+Person1,"But other partners are in different stages of deployment.
+"
+Person1,"If you are a little further ahead, if you are further behind.
+"
+Person1,"And so over time, we do expect this to be a significant growth opportunity for us, but this is not measured in months.
+"
+Person1,"This is a couple of years out, at the earliest, before it starts becoming visible.
+"
+Person0,"Yes, <UNK>, on the spending patterns out of China, and just generally Asia, as we have been communicating here, we do see positive signs.
+"
+Person0,"But we don't really see -- we see the positioning that there could be brisker growth out there, in the next two quarters, for us, the rest of our fiscal year.
+"
+Person0,"But our customers are certainly not committing to that level at this point in time.
+"
+Person0,"So it's one of those situations, again, where you don't know whether it's a false signal.
+"
+Person0,"That they are saying, it could be bigger than this, it may not be bigger than this.
+"
+Person0,"So we've put a number in that we think is more in the center of likelihood there.
+"
+Person0,"And then relative to next year, it's very difficult to forecast for the whole year on the wireless segment, but I don't think we're looking at it based on how poor this year is.
+"
+Person0,"I don't think we're looking at it as a down year for us, next year.
+"
+Person0,"That's about all I'll say on that.
+"
+Person1,"It's an emerging market, and it's a little too early to figure out how it will turn out, but it is clearly in the hundreds of million of dollars.
+"
+Person1,"Could it be $1 billion.
+"
+Person1,"Yes, it could be a $1 billion.
+"
+Person1,"But I think it's premature to count on it being that big, because it is an emerging market, and we expect it to be a very bifurcated market.
+"
+Person1,"Again, it's important to look at the end customers, and these are the big data center companies in North America.
+"
+Person1,"And then there's the big data center companies in China.
+"
+Person1,"Each of them has an ecosystem and an in-software environment that they totally control.
+"
+Person1,"And they tend to have an application, which -- their applications are different, and they tend to do it their own way.
+"
+Person1,"So we do expect it to come out with a vast plethora of solutions.
+"
+Person1,"And we believe we will be in a good position to provide that, as opposed to dictate a small number of solutions, which we believe will be the competitive approach.
+"
+Person1,"The biggest challenge to integration is power.
+"
+Person1,"And if you look at this market, it tends to use a pretty high-performance processor and a relatively large FPGA.
+"
+Person1,"You need those in order to get the acceleration.
+"
+Person1,"If you look at those, those tend to be relatively power-hungry devices, so there's a limit to what you can do by integrating them to one package.
+"
+Person1,"And so even if it's just interfacing to an Intel device, we believe that we will be able to provide a companion device, which will enable a differentiated solution for several of the players in that market.
+"
+Person1,"So we do expect to play in that market, too.
+"
+Person1,"And definitely in any non-Intel market, we expect to be -- to have a very strong position, with regards to servicing the requirements, as the primary provider of FPGA solutions, and the largest provider of FPGA solutions in the market.
+"
+Person1,"So what typically happens is, when we roll out the first device, it goes through a lengthy evaluation phase.
+"
+Person1,"And as soon as we get to clear understanding of the level of functionality, we then do a rapid rollout of the full-on devices.
+"
+Person1,"The functionality of this initial device has exceeded all expectations.
+"
+Person1,"We've got it back faster, and it operates much, much better.
+"
+Person1,"And hence, we already shipped it to customers, just to demonstrate the level of functionality.
+"
+Person1,"So I would expect the rollout of the next devices to be as fast as we can.
+"
+Person1,"We do need to complete the evaluation of the first device; that takes significant amount of time.
+"
+Person1,"Typically, this process takes about 1 year to 1.5 years from the first device until you have most of the family rolled out.
+"
+Person1,"And given the success, and the fast turnaround we got from TSMC, and the functionality, both on the manufacturing side and the engineering side, we should do better than we have in any previous generation.
+"
+Person1,"And it is a very broad and deep product offering.
+"
+Person1,"It has a very high performance processor subsystem, with a significant number of embedded dedicated accelerators.
+"
+Person1,"And the combination of those will enable us to take it and compete over time, against ASSPs, in more and more markets.
+"
+Person1,"So it is -- we think this is a watershed moment for us, in terms of the rollout.
+"
+Person0,"Yes.
+"
+Person0,"At this point in time, we don't think it's necessarily a bellwether to any sort of a cycle.
+"
+Person0,"It was just, I'd say, consistent with maybe what we've seen in some other component companies of a little softness in that market for a short time period.
+"
+Person0,"So it was just a matter of the turns profile.
+"
+Person0,"We still -- we are expecting continued strength on our new products in that particular area.
+"
+Person0,"Some of the older designs, just we're taking a pause, probably some inventory adjustments there.
+"
+Person0,"But the new products continue to be strong in that particular end market.
+"
+Person0,"So I think it was more -- it's just more of a situation for how things played out at the end of the quarter than it is any sort of a forecast for the future.
+"
+Person1,"And <UNK>, if I can just add color, it's a market that develops very, very slowly.
+"
+Person1,"And as a result, to the extent there was a downturn, it was the older technologies, right.
+"
+Person1,"But what we have seen -- and this was driven by Zynq -- is in 28 nanometer, we actually saw significant and vibrant growth.
+"
+Person1,"So -- and this is an expansion play for us, because the Zynq product offering is different from anything we've had in the past.
+"
+Person1,"So we are now seeing that enable us to grow into new areas.
+"
+Person1,"And so we fully expect ISM -- even if there are pullbacks from time to time, we expect to see that to be one of our more promising growth markets going forward.
+"
+Person1,"And it's Zynq and it's the MPSoC.
+"
+Person1,"Again, given the nature of the design wins, some of those design wins, even on 28 nanometer, are five or seven years old, and are just now starting to hit the -- and become visible on the Zynq side.
+"
+Person1,"And that will grow to be a bigger part of our business going forward.
+"
+Person1,"So this is a never-ending process.
+"
+Person1,"And it's -- I've often heard the term that we have reached saturation, in terms of our capability to improve, in terms of density, cost, et cetera.
+"
+Person1,"And as soon as I hear that, we set a new bar and surprisingly, we hit the new saturation point.
+"
+Person1,"So I think the opportunity for improvement, while not trivial, is very significant.
+"
+Person1,"And we continue to do that on numerous fronts, and it requires a lot of engineering effort and -- both in house and together with our foundry partners.
+"
+Person1,"But I don't think you should assume that this is as good as it gets.
+"
+Person1,"Now, with regards to moving to future nodes, the good news is that we are reaching the old historic so-called saturation densities, with new nodes, faster than we reached them with old nodes, even though the new nodes are significantly more complex and have more manufacturing layers.
+"
+Person1,"So I think, in particular, if you look at the [SIM C], their ability to continue to improve, and the volumes they run, are very helpful to help us improve on those fronts.
+"
+Person1,"And we continue to push to achieve those, regardless of the node, both on old nodes and new nodes, and it's something that we need to do.
+"
+Person1,"So the strategy is both to continue to improve in that regard, but also to provide market growth.
+"
+Person1,"And the market growth comes through expanded product capability.
+"
+Person1,"And that's -- I will admit that, over the past few years, I have two years of not delivering that.
+"
+Person1,"But we are intent on delivering that going forward, for sure, much better than we have in the past two years.
+"
+Person0,"I'll just add one comment on that, as we -- if there was a question behind your question around, are we sacrificing growth to protect margin.
+"
+Person0,"And no, that's not what we are doing in this.
+"
+Person0,"We end up -- what we have here is a situation where we have customer and end market mix that's pretty favorable for us, so we're at the high end of our 68% to 70% stated model for the current period and situation.
+"
+Person0,"And there are -- we aren't tied by accepting deals at lower than that margin, if we need to.
+"
+Person0,"We just have a portfolio and a balance, and we drive cost reductions where we think volume is going to be, and we put more focus on that.
+"
+Person0,"And I think you're just seeing a disciplined, efficient situation that we put in place here in the Company, and I 110% agree with all of the things that <UNK> just said.
+"
+Person1,"<UNK>, just to clarify, are you asking generally.
+"
+Person1,"Or are you asking with data centers in particular.
+"
+Person1,"Okay.
+"
+Person1,"So with regards to data center and the acceleration, that subset of applications, as we're going through cloud-ification or whatever the appropriate word is, and that's a major growth element, a significant portion of the CPUs that are being deployed are now being deployed in these large data centers.
+"
+Person1,"And the typical usage is very different from what the general purpose server did.
+"
+Person1,"As they build up these big data centers in particular, when you look at the massive players in that market, they tend to have very specific applications.
+"
+Person1,"And those applications tend to be massively parallel.
+"
+Person1,"So if you think of things like search, et cetera, you can see how you could benefit from massively parallel solutions.
+"
+Person1,"And what sort of happens is, for better or for worse, if you go to just making the CPU faster, the return there is not significant.
+"
+Person1,"And if you just go to multi-core CPUs, there's a limit to what you can achieve there, again, without blowing the power envelope out the water, or out of the data center.
+"
+Person1,"And so what has happened is, the biggest limiter is power.
+"
+Person1,"And the performance per power configuration that you get from an FPGA or programmable solution is superior for most of these applications.
+"
+Person1,"And the factor we have seen consistently is anywhere from 10 to 50, and it depends on what application exactly, and it can change even between -- in the same Company, as they shift things around.
+"
+Person1,"So there is, if you believe, if you look at that, then that implies that the traditional ability to address the customer's requirements through selling them faster CPUs, or more parallel CPUs, is limited.
+"
+Person1,"Hence the desire to have a programmable solution.
+"
+Person1,"And the combination is very beneficial for what is becoming a very large part of the -- what used to be a traditional server market.
+"
+Person1,"And that's -- best we can tell, that's what the customers are telling us.
+"
+Person1,"That's what they're excited about.
+"
+Person1,"We do believe that the Intel acquisition of Altera was driven by a desire to control that, and to make sure that the rollout is driven, and not in any way compromised, by the CPU power requirements and hence, the rationale for doing it.
+"
+Person1,"And these same customers tend to have a very independent desire to control their destiny, which probably opens up opportunities for other non-X86 architectures, for other players, if there is a competitive X86 that will [shown] at the right point in time, together with FPGAs.
+"
+Person1,"That may have been more than you asked, but that's the comprehensive answer.
+"
+Person1,"Thank you.
+"
+Person0,"I don't know if I can comment on others as compared to us.
+"
+Person0,"I can certainly comment on our business.
+"
+Person0,"Our strength in Asia Pacific was wireless business for us, a little better in China, and then the India exposure that we had mentioned earlier, I think in one of the answers to one of the questions.
+"
+Person0,"Those are really the bigger drivers there, along with some wired business going on.
+"
+Person0,"<UNK> talked about 5G prototyping; obviously, the Chinese manufactures are involved in that as well, and as well as the other Asian manufactures as well.
+"
+Person0,"So we've been participating in all of that.
+"
+Person0,"So we've seen really good new product and new development product, as well as some of the legacy LTE design wins that we've won, become stronger.
+"
+Person0,"I would say industrial was solid or okay for us in Asia as well, but not knocking it out of the park.
+"
+Person0,"The North America phenomenon for us was really more about the aerospace and defense business declining than it was anything else.
+"
+Person0,"The decline was really driven mostly by the tail end of shipping into the Joint Strike Fighter, and the rest of our businesses there were good.
+"
+Person0,"And in fact, the wired business was even up a little bit in North America, as well.
+"
+Person0,"So I don't know if that helps you at all, <UNK>, but (multiple speakers).
+"
+Person1,"Okay.
+"
+Person1,"So sadly, it is smaller because we believe that the -- if you look at the Chinese approach, they invest very heavily in infrastructure.
+"
+Person1,"And they do it on a broad level, and they do it quickly, and they try to make sure, maybe not at the same level you've seen in the Western world, that there is good coverage.
+"
+Person1,"And India, culturally, it's incredibly cost-focused.
+"
+Person1,"And the challenge that exists today in India is, even though there's over 1 billion people there, and it's definitely a large country, the problem is that there are a lot of carriers, probably far too many.
+"
+Person1,"And I think very few, if any of them, are making any money.
+"
+Person1,"So the approach is to do the minimum, right.
+"
+Person1,"And as a result, the deployments are likely to be, in aggregate, quite a bit smaller than what has been done in China.
+"
+Person1,"And that's -- it is what it is.
+"
+Person1,"Maybe over time, it will improve.
+"
+Person1,"But you go there, it is a -- still a very poor country, with a still-small middle class.
+"
+Person1,"And if you go to China, you can see the infrastructure there is phenomenal, and the middle class there is much larger.
+"
+Person1,"And so I believe that that's the major driver for the difference between those two deployments.
+"
+Person0,"From a content perspective, there is no significant content differences.
+"
+Person0,"Our [participation] is just gated by our penetration into certain manufactures who have won the contracts with various carriers.
+"
+Person0,"So where we have more content at a given manufacturer, than we'll -- and they win the business in India, they won't participate.
+"
+Person0,"But there's nothing about the structural content of an Indian base station that's really different than any of the other rest of the world.
+"
+Person1,"<UNK>e, thank you.
+"
+Person1,"Okay.
+"
+Person1,"So maybe <UNK> can do the automotive one, and then I'll give you the answer to the very loaded questions you asked at the beginning.
+"
+Person0,"Just at the high level on automotive business for this fiscal year, we're expecting a 30% year-on-year increase.
+"
+Person0,"So full-year FY16 versus full-year FY15, we're expecting 30% growth in our automotive business.
+"
+Person0,"And that's based on -- from a product perspective, it's based on our penetration of Zynq into a variety of applications, led by the advanced driver assistance capability.
+"
+Person0,"Where we compete with Mobileye -- and by the way, we do have other design wins that aren't Mobileye-oriented.
+"
+Person0,"They could be in radar, distance sensors, things like that, various different FPGAs than that.
+"
+Person0,"But relative to the direct competition with Mobileye, it's around forward-looking cameras.
+"
+Person0,"And so again, our business is broader than forward-looking cameras, but that's where we do the head on with Mobileye.
+"
+Person0,"Our strength has been in the dual or stereo cameras, where there's two cameras looking forward, versus one mono-camera.
+"
+Person0,"That's where we have got our original foothold, and we're very confident about our ability to compete with Mobileye across a broad set of platforms.
+"
+Person0,"Several of our customers actually believe they are competitors to Mobileye, because they are doing the full solution and trying to win the designs at a variety of platforms at various automobile manufactures.
+"
+Person0,"So as we sit here today, looking about this year's growth over last year, and next year's growth and the year after, we can articulate, to ourselves, pretty much every platform that we've won in this regard.
+"
+Person0,"And can see the kind of growth level that is potentially ahead of us, again, continuing this double-digit growth on a go-forward basis.
+"
+Person0,"Because we know we've won these designs, and the designs are very sticky for multiple car year models.
+"
+Person0,"So with that, I'll hand it over, for the rest of the answer, to <UNK>.
+"
+Person1,"And I'll try and respond to your very big question in a succinct way, because otherwise, we won't get home for dinner tonight.
+"
+Person1,"But the -- my perspective, and this is no longer in dispute, is that the semiconductor world is going through a significant structural change, and it's being driven by economics.
+"
+Person1,"And as a result, there's actually less and less players.
+"
+Person1,"I think that that is no longer a bone of contention.
+"
+Person1,"You just need to count, and see how much smaller it is.
+"
+Person1,"It's significantly smaller.
+"
+Person1,"There's fewer and fewer, to the point of almost none, getting refreshed through the venture world.
+"
+Person1,"And the cost of moving forward, from generation to generation, is actually going up, and there's fewer and fewer players who can do that.
+"
+Person1,"So if you step back and look at that entire trend, that clearly is an opportunity for companies who can move forward, and we are one of those companies.
+"
+Person1,"That's why we were first at 28 with TSMC, first at 20 with TSMC as a semiconductor player, and that's why we got the 16 out way ahead of the competition.
+"
+Person1,"The reason that we do that is not just for bragging rights.
+"
+Person1,"It's actually because once we have that leadership, we can expand the markets that we address.
+"
+Person1,"If you look at what happened to Xilinx over the past 10 years, the role our devices play, and generally the role FPGA devices play in a customer's systems, is changing.
+"
+Person1,"And as a result, I will concede that the historic [glue logic] FPGA market is not growing.
+"
+Person1,"But what is happening -- and you could argue that that is a reason not to invest -- but what is growing is the [SAM], in terms of new markets we're addressing.
+"
+Person1,"If you look at our business, you can see that even though this is not happening quite at the rate we had hoped, we are displacing ASSPs.
+"
+Person1,"So -- and if you look at the Zynq product offering, that required a new investment, a big investment, but it's now starting to pay off.
+"
+Person1,"The past two quarters, both grew by around 40%, and this is just the beginning.
+"
+Person1,"And that enables us to play, and in markets we have not played before.
+"
+Person1,"So that's the strategy we have.
+"
+Person1,"We believe that yes, the results are not there, in terms of the overall numbers.
+"
+Person1,"But if you look at the change in the markets and the competition, then actually, there is an opportunity.
+"
+Person1,"And in order to do that, we are continuing to develop and be at the leading edge.
+"
+Person1,"Having said that, we can still do it and deliver profitability, which is in the higher echelon.
+"
+Person1,"So I -- our strategy is to continue doing that, because we believe that the opportunity is there, the markets are developing and unfolding.
+"
+Person1,"And if, just to take one example, automotive was a market which was very, very low single-digit percent for us, and now is -- we expect for that to grow over the next few years.
+"
+Person1,"Industrial control, again, another slow market, is a market where we can displace a lot of solutions, where in the past, the customer would go to Freescale and TI, et cetera.
+"
+Person1,"And to a large extent, a lot of those historic players are no longer around.
+"
+Person1,"And part of that strategy requires us to continue to provide leadership.
+"
+Person1,"It also requires us to invest heavily in tools, so that our customers can exploit the opportunity that our silicon provides them.
+"
+Person1,"And that's an ongoing element, and that's the strategy at this point in time.
+"
+Person1,"The challenge on the M&A side is that there's very few companies out there, that we can buy, that fit into our business model and actually augment our offering.
+"
+Person1,"And hence, you agree -- you're right in pointing out that we haven't done much there.
+"
+Person1,"But I do believe the investments we're making, while continuing to deliver best-in-class profitability, will over time enable us to continue to grow.
+"
+Person1,"Okay, <UNK>, thanks for the question.
+"
+Person1,"So it has been very successful.
+"
+Person1,"There is tiers of products that we are providing.
+"
+Person1,"There's high level synthesis, which is something we have had for close to five years, and there's the SDX families of products that are going out.
+"
+Person1,"We have -- SDX-L, I believe, has thousands of users at this point in time.
+"
+Person1,"SD-SoC is starting to be used broadly.
+"
+Person1,"It's a big enabler to grow the population of users beyond the hardcore -- hardware FPGA designers.
+"
+Person1,"So it is essential, and the technology is doing well, and the market deployment is doing well.
+"
+Person1,"The reason that the financial implications aren't yet visible in a big way is that the initial targets for those markets were industrial control and automotive, and those two markets move at a slower cadence.
+"
+Person1,"With the new generation, we're actually expanding the number of markets we're addressing, and we expect to see increased adoption of them.
+"
+Person1,"So yes, it is essential, and it is something we need to do in order to displace ASSPs and to address the bigger SAM.
+"
+Person1,"And so far, in terms of the technology and the deployment, it's going according to plan.
+"
+Person1,"Yes, sure, thank you.
+"

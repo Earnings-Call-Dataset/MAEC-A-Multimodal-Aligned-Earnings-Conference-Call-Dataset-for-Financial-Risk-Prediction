@@ -1,0 +1,301 @@
+Person,Sentence
+Person0,"Thank you.
+"
+Person0,"Good afternoon.
+"
+Person0,"Thanks for joining us to discuss Power Integrations' financial results for the second quarter of 2016.
+"
+Person0,"With me on the call are <UNK> <UNK>, President and CEO of Power Integrations, and <UNK> <UNK>, our Chief Financial Officer.
+"
+Person0,"During today's call, we will refer to financial measures not calculated according to generally accepted accounting principles.
+"
+Person0,"Please refer to today's press release available on our website at investors.
+"
+Person0,"power.com for an explanation of our reasons for using such non-GAAP measures as well as tables reconciling these measures to our GAAP results.
+"
+Person0,"Our discussion today, including the Q&A session, will include forward-looking statements reflecting our forecast of certain aspects of the Company's future business and financial results.
+"
+Person0,"Such statements are denoted by words like will, would, believe, should, expect, outlook, estimate, planned, goal, anticipate, forecast, and similar expressions that look towards future events or performance.
+"
+Person0,"Forward-looking statements are based on current information that is dynamic and subject to abrupt changes.
+"
+Person0,"Our forward-looking statements are subject to risks and uncertainties which may cause actual results to differ materially from those projected or implied in our statements.
+"
+Person0,"Such risks and uncertainties are discussed in today's press release and in our most recent Form 10-K filed with the SEC on February 11, 2016.
+"
+Person0,"This conference call is the property of Power Integrations, and any recording or rebroadcast is expressly prohibited without the written consent of Power Integrations.
+"
+Person0,"And now I'll turn the call over to <UNK>.
+"
+Person1,"Thanks, <UNK>, and good afternoon.
+"
+Person1,"This was a record revenue quarter for Power Integrations with sales of $97.2 million, up 14% from a year ago.
+"
+Person1,"Non-GAAP earnings was $0.60 per share, up more than 25% year over year.
+"
+Person1,"And we generated $23.6 million in cash flow from operations in the quarter.
+"
+Person1,"For the first half of the year, revenues increased 9%, comparing favorably to the broader analog semiconductor industry, which most likely experienced a slight contraction in the first half of the year.
+"
+Person1,"The primary driver of our growth in the first half has been our success in the smartphone charger market, which is undergoing dramatic technological changes driven by a pair of inherently conflicting trends in the mobile device market.
+"
+Person1,"On one hand, OEMs are incorporating larger batteries in their phones in order to improve battery life while supporting bigger displays and other power-hungry features.
+"
+Person1,"On the other hand, device makers are also pushing to reduce charge times in order to reduce downtime for end users.
+"
+Person1,"These seemingly incompatible objectives can be met only with a drastic increase in the power level of smartphone chargers, and that is exactly what we are seeing in the marketplace.
+"
+Person1,"Just two years ago, virtually all mobile phone chargers were delivering 5 watts or less.
+"
+Person1,"This year, hundreds of millions of smartphones will ship with higher power chargers ranging from 7.5 watts to as high as 20 watts.
+"
+Person1,"Nearly all top-tier OEMs are now participating in this trend, and all of those are using our products in high volume.
+"
+Person1,"While increasing the power level of a cellphone charger may sound routine, the fact is that rapid charging introduces difficult tradeoffs for power supply designers.
+"
+Person1,"In order to deliver two, three, or even four times as much power out of a charger while maintaining a small form factor, designs must be extremely energy efficient and component count kept as low as possible.
+"
+Person1,"Integration is the key to solving these challenges, and we believe our InnoSwitch products are the most highly integrated power conversion ICs on the market.
+"
+Person1,"While earlier products were confined to the primary or high-voltage side of a power supply, InnoSwitch straddles the barrier between primary and secondary sides of the circuit.
+"
+Person1,"This allows us to integrate components from both sides of the safety barrier, enabling dramatic improvement in performance while reducing component count, complexity, and size.
+"
+Person1,"These characteristics make InnoSwitch extremely well suited for rapid charging applications, and that's clearly reflected in our recent results.
+"
+Person1,"Revenues from our communications category, which includes mobile phone chargers, are up more than 30% in the first half of 2016.
+"
+Person1,"This growth reflects not only our increasing share of the charger market, but also the rising dollar content, which stems from the combination of rising power levels and the higher level of integration offered by InnoSwitch.
+"
+Person1,"While rapid charging has already had a significant impact on our results, we expect it to be a growth driver for years to come.
+"
+Person1,"This is for a number of reasons.
+"
+Person1,"First, penetration of rapid charging is still in the early stages, and even existing designs will continue to migrate to higher power levels over time.
+"
+Person1,"Second, new technologies such as USB-PD, direct charging, and Type-C connectors are just beginning to emerge.
+"
+Person1,"And all of these technologies will drive the need for more innovative power conversion ICs.
+"
+Person1,"Third, rapid charging has huge potential beyond mobile phone market, particularly in tablets and notebooks.
+"
+Person1,"And finally, as successful as InnoSwitch has already been, we believe the next generation devices due out later this year will be even more attractive.
+"
+Person1,"Perhaps more importantly, rapid charging represents just a fraction of the opportunity for InnoSwitch in the AC to DC power supply market.
+"
+Person1,"InnoSwitch has already won designs in more than a dozen non-cellphone applications in all four of our end markets categories, and we have designs in progress at nearly 400 customers.
+"
+Person1,"We expect a further acceleration of design activity once we introduce the next generation InnoSwitch, which not only offers a higher level of performance, but also addresses significantly higher power levels.
+"
+Person1,"While we expect the InnoSwitch product cycle to be a multiyear growth driver, our growth opportunities extend well beyond the AC to DC power supply market.
+"
+Person1,"So far this year, we have introduced four new members of our LYTSwitch product line as we continue to refine our offerings for the increasingly fragmented LED lighting market.
+"
+Person1,"Lighting revenues are on track to grow this year, and we expect even faster growth next year as our latest LYTSwitch products begin to ramp.
+"
+Person1,"In May, we introduced SCALE-iDriver, a new line of IGBT drivers targeting applications between 10 and 100 kilowatts.
+"
+Person1,"SCALE-iDriver is the first product synergy from our 2012 acquisition of Concepts, combining our SCALE IGBT driver technology with the FluxLink technology used in our InnoSwitch devices.
+"
+Person1,"The result is an IC that brings an unprecedented level of integration to a market that has historically relied solely on discrete designs.
+"
+Person1,"Applications include industrial motor drives, commercial and residential solar, medical equipment, electric vehicles and more.
+"
+Person1,"We estimate this market to be half a billion dollars in size, bringing our total market opportunity for IGBT drivers to roughly a billion dollars.
+"
+Person1,"All told, our served available market now exceeds $3 billion, and we expect it to grow further in the years ahead.
+"
+Person1,"This expansion will be driven in part by product introductions that enable us to address power conversation applications where we don't currently have a presence.
+"
+Person1,"But it also comes from growth in a number of verticals in which power silicon content is rising.
+"
+Person1,"For example, electronic content in consumer appliances has been steadily expanding thanks to stricter energy efficiency requirements and the migration from mechanical to electronic control, a trend that should continue as IoT functionality comes to market.
+"
+Person1,"Meanwhile, older lighting technologies are giving way to LEDs, which require AC to DC drivers, and mechanical utility meters are being replaced by electronic meters that need efficient, reliable power supplies.
+"
+Person1,"Other trends include electrification of transportation and the increasing use of rechargeable batteries in products such as power tools, lawn equipment, and bicycles.
+"
+Person1,"In summary, our first-half results were strong, we are gaining market share across a broad range of power conversion applications, and we believe we are poised for continued above-market growth thanks to a robust product cycle and an expanding addressable market.
+"
+Person1,"The high-voltage power conversion space continues to evolve in ways that demand integration and energy efficiency, and we are responding with some of our most innovative products ever.
+"
+Person1,"And with that, I will turn it over to <UNK> for a review of the financials.
+"
+Person2,"Thanks, <UNK>, and good afternoon.
+"
+Person2,"I will quickly touch on a few financial highlights, and then we will open it up for questions.
+"
+Person2,"As usual, my remarks will focus mainly on the non-GAAP numbers, which are reconciled to the corresponding GAAP figures in the tables accompanying our press release.
+"
+Person2,"Q2 revenues were $97.2 million, an increase of 14% sequentially with growth across all four end markets.
+"
+Person2,"Communications revenue increased more than 35% sequentially, driven mainly by the continuing ramp of rapid charging designs for the smartphone market.
+"
+Person2,"Industrial revenues increased more than 10% sequentially on broad-based strength including LED lighting, high power, and metering applications.
+"
+Person2,"Sales into the computing market increased mid single digits sequentially, while consumer revenues also grew mid single digits on strength in appliances, most notably air conditioning applications, which typically reach a seasonal peak in the June quarter.
+"
+Person2,"The relative strength in communication revenues resulted in a meaningful shift in end-market mix with communications increasing 4 percentage points sequentially to 27%, and consumer falling 4 points to 35%.
+"
+Person2,"Industrial and computer held constant at 32% and 6% respectively.
+"
+Person2,"This change in mix was a primary factor in the sequential decrease of a 130 basis points in our non-GAAP gross margins.
+"
+Person2,"Looking ahead, we expect gross margin to remain fairly steady in the second half as end market mix should be a bit more stable than we have seen over the past couple of quarters.
+"
+Person2,"Non-GAAP operating expenses in the second quarter were $30.7 million.
+"
+Person2,"That's up sequentially as expected, reflecting annual merit increases and accelerated R&D spending as we work to bring a larger than usual number of new products to market.
+"
+Person2,"Nevertheless, non-GAAP OpEx came in slightly below our forecast for the quarter, and increased less than 2% from a year ago.
+"
+Person2,"Non-GAAP operating margin was 18.7%, up 120 basis point sequentially, reflecting the strong revenue growth.
+"
+Person2,"Our non-GAAP tax rate for the second quarter was just over 4%, resulting in non-GAAP net income of $17.7 million, or $0.60 per diluted share.
+"
+Person2,"That's up from $0.50 in the prior quarter and $0.47 a year ago.
+"
+Person2,"We generated $23.6 million in cash flow from operations in the quarter, while capital expenditures totaled $2.8 million.
+"
+Person2,"Cash and investments on the balance sheet increase by about $17 million during the quarter to $202 million.
+"
+Person2,"Internal inventories increased slightly in terms of dollars, but fell to 86 days on hand, a decrease of 12 days from the prior quarter, reflecting the stronger than expected revenue growth.
+"
+Person2,"We do expect to build some inventory in the second half to get back into our target range of about 110 days plus or minus 15 days.
+"
+Person2,"Our outlook for the third quarter is for revenues of $96 million to $102 million, which would be up more than 10% year over year at the midpoint.
+"
+Person2,"As mentioned earlier, we expect end market mix to be fairly stable, which should result in a gross margin similar to the Q2 level.
+"
+Person2,"Specifically, we expect non-GAAP gross margin to be in the range of 50% to 50.5% for the September quarter.
+"
+Person2,"Non-GAAP operating expenses should increase slightly to around $31 million, while the non-GAAP tax rate should remain in the range of 4% to 5%.
+"
+Person2,"With that, I'll turn it back over to <UNK>.
+"
+Person0,"Thanks, <UNK>.
+"
+Person0,"We'll move onto the Q&A session now.
+"
+Person0,"Kelly, would you please give the instructions for the Q&A.
+"
+Person1,"It is true, <UNK>, that certain markets are faster.
+"
+Person1,"So if you look at what has increased the addressable market this year, it's primarily the SCALE-iDriver, which adds $500 million to our $2.5 billion addressable market, so that brings a total of $3 billion.
+"
+Person1,"However, we have additional products that are coming out, including our next generation InnoSwitch that'll add to the addressable market this year, and plus some additional products next year that'll expand the market further.
+"
+Person1,"So I would say in terms of time to revenue, some of the lower power markets are faster.
+"
+Person1,"They're typically in the 6 to 12 month range.
+"
+Person1,"Whereas the high power products tend to be more in the year to year and a half kind of a design cycle; for example, for the iDriver.
+"
+Person2,"The yen hasn't had an impact yet.
+"
+Person2,"It'll start having an impact in Q4.
+"
+Person2,"And you're correct; it takes about nearly five to six months.
+"
+Person2,"But as you know, the yen has been moving through this year from the 120s down to somewhere in the 105, 106 level.
+"
+Person2,"So the unfavorable impact will start in Q4, and if it remains at the current level, more so in the next year.
+"
+Person2,"However, a lot can change between now and the end of the year, so it's hard to predict the full impact for the next year.
+"
+Person2,"But the start of the yen impact is more so in the Q4.
+"
+Person1,"It's a little difficult to calculate that because it's such a dynamic market right now.
+"
+Person1,"To the best we can estimate, roughly one third of the smartphones have started using rapid charging.
+"
+Person1,"As far as our share, we think there are really clearly two leading solutions.
+"
+Person1,"One of them is ours.
+"
+Person1,"I would say that in terms of dollar value shipped, we are clearly number one.
+"
+Person1,"Clearly, we have done better than we expected in the cellphone, or the communications market, I should say, particularly in the rapid charging market with InnoSwitch.
+"
+Person1,"We have exposure to all of the Tier I customers except one.
+"
+Person1,"And the ones in China have done extremely well, and particularly there is one Chinese OEM who has done extremely well.
+"
+Person1,"But I would say that all of our Tier I customers have done well in terms of rapid charging products we ship to them.
+"
+Person1,"And we've got to be careful because when we ship rapid charging products, it's not only the unit volume, but it's also the content is so much higher for us.
+"
+Person1,"So our revenue doesn't necessarily reflect the number of units of smartphones or even rapid charging phones.
+"
+Person1,"But as far as we are concerned, it's been a significant growth in that market.
+"
+Person1,"The second area where we have done very well of course is industrial where we have grown double digits sequentially.
+"
+Person1,"And that has been across multiple areas, including high power, LED, metering, electric chargers for electric vehicles like bicycles, and also chargers for power tools and lawn mowers, and so on and so forth.
+"
+Person1,"It's very, very broad-based.
+"
+Person1,"So those are the two main areas.
+"
+Person2,"Absolutely, and that's why I think we are able to talk about the margin remaining even though the yen is going to start impacting us in Q4.
+"
+Person2,"It is the higher volume that we are going -- you know, we don't have our own fab, so we don't have as much fixed cost.
+"
+Person2,"But we do have some fixed cost, and that is what is actually enabling us and helping us offset the yen impact that we are starting to see.
+"
+Person2,"And that's why we were mentioning that we expect the margin to remain in the level compared to Q2 for the rest of the year.
+"
+Person2,"(Multiple speakers) sort of remain the same.
+"
+Person2,"No, the weeks in the channel are down from -- last quarter was 7.3, which is, as you know, because of Chinese New Year, and now it's down to 6.5.
+"
+Person2,"So typically, we run at 5.5, 6 weeks, so you may say it's slightly, but I wouldn't say it's of any significance.
+"
+Person1,"Our backlog is better than in the past.
+"
+Person1,"As you've noticed that our turns have been gradually going down, so we built a reasonable backlog in Q2.
+"
+Person1,"Our bookings in Q2 was sequentially better than Q1, consistent with our forecast for Q3.
+"
+Person1,"So I think we are in a stronger backlog position than we were in Q2 for Q3.
+"
+Person1,"Absolutely.
+"
+Person1,"One of the unique things about our product is it integrates a switch in it.
+"
+Person1,"So as you go to higher power levels, your content is higher, and therefore, our ASP would be higher.
+"
+Person1,"I'm sorry, I wasn't sure which -- what product.
+"
+Person1,"iDriver.
+"
+Person1,"Okay.
+"
+Person1,"So the iDriver was introduced in May this year at PCIM Europe.
+"
+Person1,"The interest level is very high.
+"
+Person1,"The feedback is extremely positive.
+"
+Person1,"We don't expect any revenue this year, but we do expect some revenue next year based on the feedback we have seen so far.
+"
+Person1,"As I said, it typically takes a year to a year and a half for that type of product.
+"
+Person1,"It goes into markets of renewables, UPS power supplies, motor control, and so on.
+"
+Person1,"And my expectation is we should have some revenue in the second half of next year.
+"
+Person2,"So basically, we are keeping -- our lead time is the same except for, obviously, certain products where, because we've had such a demand, that we are a little tighter.
+"
+Person2,"But we are actually ramping up our production as well at different places.
+"
+Person2,"So we believe that over the next two quarters, we should get back into our range.
+"
+Person0,"Okay, well I know it's a busy day out there for earnings, so appreciate everyone listening in.
+"
+Person0,"There will be a replay of this call available on our website, which is investors.
+"
+Person0,"power.com.
+"
+Person0,"Thanks again for listening, and good afternoon.
+"

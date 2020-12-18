@@ -1,0 +1,385 @@
+Person,Sentence
+Person0,"Thanks, <UNK>, and good afternoon.
+"
+Person0,"2017 is off to a great start for Power Integrations.
+"
+Person0,"Our first quarter revenues grew 19% year-over-year, coming in near the high end of our forecasted range at $104.7 million.
+"
+Person0,"Non-GAAP earnings were $0.63 per share, up from $0.55 a year ago.
+"
+Person0,"Our growth in the first quarter was broad based with double-digit increases in each of the -- each of our 3 largest end-market categories.
+"
+Person0,"The Communications category grew 40% year-over-year, driven by fast-charging applications for the smartphone market.
+"
+Person0,"Consumer revenues grew at a high-teens rate driven by continued strength in appliances; while industrial category showed double-digit growth driven by a wide range of applications, including smart utility meters, home and building automation, power tools, LED lighting and high-power applications.
+"
+Person0,"We expect all of these revenue categories to grow at a healthy clip in 2017, and we believe we are on track for another year of double-digit top line growth overall.
+"
+Person0,"In the Communications end market, our InnoSwitch products continue to win a substantial share of the fast-charging opportunity, thanks to their unparalleled level of integration and energy efficiency, which enable designers to maintain small form factors while delivering up to 4x as much power as standard low-power chargers.
+"
+Person0,"In the first quarter, we won 9 high volume fast-charging designs for 5 different OEMs, including several multichip designs pairing InnoSwitch ICs with our digital interface chips implementing the Quick Charge 3.0 protocol.
+"
+Person0,"While faster charging has already been a significant growth driver for our business over the past couple of years, we believe the emergence of USB PD standard and the new Type-C connector will accelerate the adoption of faster chargers and facilitate even higher power levels over the next couple of years.
+"
+Person0,"While the migration of USB PD is just beginning in terms of volume shipments, we now have PD designs in progress at most major smartphone OEMs, and we are a leading participant in the ecosystem forming in support of the new standard.
+"
+Person0,"Earlier this week, we announced a joint reference design with Weltrend Semiconductor, a Taiwanese company, with strong capabilities in the area of USB PD interface controllers.
+"
+Person0,"This reference design, which is already in production at a major smartphone OEM, pairs Weltrend's digital protocol IC with an InnoSwitch chip to implement an 18-watt USB PD adapter.
+"
+Person0,"This partnership follows a similar effort we announced last year with Cypress Semiconductor, and we have other such efforts underway as we look to expand on our leadership position in the next phase of the fast-charging rollout.
+"
+Person0,"In the Consumer end market, we continue to see rapid growth in appliance applications, where OEMs value the reliability and energy efficiency benefits of our products, and where power silicon content has been rising steadily, thanks to the increasing use of electronic functionality in all manner of appliances.
+"
+Person0,"While this trend has been ongoing for many years, we believe another leg of the growth is still ahead of us as the appliance market moves beyond basic electronic controls and displays, and adopts more advanced features including LED lighting, electronically controlled motors and increasingly IoT connectivity and other forms of electronic intelligence.
+"
+Person0,"The demand for greater energy efficiency further magnifies the opportunity as tighter efficiency specs not only make our products more attractive versus the competition, but also add to the available dollar content.
+"
+Person0,"As a case in point, we won a high-volume multichip design in the first quarter, pairing our TinySwitch 4 ICs with our CAPZero chips in a washing machine for a major European OEM.
+"
+Person0,"The sole function of the CAPZero is to reduce standby power consumption, which is tightly regulated in Europe.
+"
+Person0,"As standards tighten over time while OEMs incorporate more and more electronic content into their products, we expect continued growth in demand for silicon-based solutions to reduce energy consumption.
+"
+Person0,"We believe the content story in appliances will be amplified as our InnoSwitch products continue to gain traction in that market.
+"
+Person0,"InnoSwitch not only adds to our competitive advantages on reliability and efficiency, but also increases our dollar content, thanks to its superior level of integration.
+"
+Person0,"We won several appliance designs with InnoSwitch in Q1, and InnoSwitch now accounts for a sizable portion of our design pipeline for the appliance market.
+"
+Person0,"In the industrial category, we are excited about the diversity and the breadth of vertical markets where new opportunities are emerging for our products, thanks to connectivity, automation and the replacement of liquid fuels and traditional AC motors with rechargeable batteries and efficient DC motors.
+"
+Person0,"These themes span a wide and growing range of categories from transportation and lighting to power tools and building automation, and we are seeing growth in all of them.
+"
+Person0,"Applications where we are winning meaningful market share include electric bicycles and scooters, battery-powered lawn equipment, smart utility meters, smart lighting control, networked smoke alarms and occupancy sensors and USB power outlets for wall sockets and power strips.
+"
+Person0,"All of these applications demand reliability, energy efficiency and low standby energy consumption, making them ideal targets for our products.
+"
+Person0,"We also expect growth this year from the high-power component of our Industrial business driven by renewable energy and power grid projects.
+"
+Person0,"China's largest electric utility is using our SCALE-2 IGBT drivers for a major high-voltage DC transmission project ramping later this year.
+"
+Person0,"We also expect growing demand from a major European customer in the wind energy sector and won another new wind power design with a major Taiwanese customer in the first quarter.
+"
+Person0,"Meanwhile, we're encouraged by the strong customer response to our SCALE-iDriver products, which we introduced last year to address applications between 10 and 100 kilowatts.
+"
+Person0,"This new product line, which incorporates the FluxLink isolation technology that is core to our InnoSwitch products, essentially doubles the dollar value of our addressable market for high-power products, representing a major synergy of the CT-Concept acquisition.
+"
+Person0,"We won several designs with SCALE-iDriver in the first quarter, including designs for solar inverters, light trucks, power conditioning.
+"
+Person0,"And we have a strong pipeline with designs in progress at more than 200 customers.
+"
+Person0,"While we are excited about the near-term growth opportunity, we are equally upbeat about the longer term.
+"
+Person0,"We have a strong pipeline of new products on the way, including our next-generation InnoSwitch, which will bring the benefits of this revolutionary technology to an even wider range of applications.
+"
+Person0,"Next-generation InnoSwitch already has a healthy level of design activity based on prelaunch engagements with key customers and, in fact, is already shipping in meaningful volumes to a major Korean OEM for display applications.
+"
+Person0,"We have a number of other product launches planned over the next several quarters, including products that will address segments of the power conversion market that we don't currently serve.
+"
+Person0,"All told, we expect our addressable market opportunity to expand from its current level of about $3 billion to something north of $4 billion over the next 12 months.
+"
+Person0,"Before I turn it over to <UNK>, I'll give a brief update on our ongoing patent litigation with Fairchild, which, of course, is now owned by ON Semiconductor.
+"
+Person0,"In March, the judge overseeing our lawsuit in the Northern District of California entered final judgment in the case affirming the finding of willful infringement against Fairchild as well as the jury's damage of $140 million.
+"
+Person0,"The ruling also added prejudgment interest, bringing the total award to $146.5 million.
+"
+Person0,"The ruling clears way for appeal phase of the case, after which we hope to be compensated for the Fairchild's egregious and long-running infringement of our patent.
+"
+Person0,"And now I'll turn it over to <UNK> for a review of the financials.
+"
+Person1,"Thanks, <UNK>, and good afternoon.
+"
+Person1,"I will quickly touch on a few financial highlights, focusing mainly on the non-GAAP numbers, which are reconciled to the corresponding GAAP figures in the tables accompanying our press release.
+"
+Person1,"As <UNK> noted, our Q1 financials are calculated using sell-in revenue recognition, following our adoption of ASC 606 on January 1 and all prior period comparisons are to the recast numbers we published last quarter.
+"
+Person1,"First quarter revenues were $104.7 million, up 19% from a year ago and 2% from the prior quarter.
+"
+Person1,"On a sell-through basis, sales grew approximately 17% year-over-year and declined 1% sequentially.
+"
+Person1,"From an end market perspective, the 2% sequential growth in revenues in the March quarter was led by the industrial category, which grew more than 10% sequentially on broad-based trend in the end market, including metering, lighting and power tools.
+"
+Person1,"Consumer revenues increased low single digits sequentially, highlighted by growth in the air conditioning and TV markets.
+"
+Person1,"Communication revenues declined by a mid-single-digit percentage, driven mainly by seasonally low revenues from cell phone chargers; while computing revenues fell sharply on a sequential basis, which is fairly typical of the March quarter as that market is heavily impacted by the lunar new year holiday.
+"
+Person1,"Revenue mix for the quarter was 37% Consumer, 31% Industrial, 28% Communication and 4% Computer.
+"
+Person1,"Non-GAAP gross margin was in line with our expectation at 49.2%, down 100 basis points from the prior quarter.
+"
+Person1,"As expected, the decrease was driven primarily by the flow-through of higher cost inventory stemming from the relatively unfavorable dollar-yen exchange rate that was in place last summer.
+"
+Person1,"As a reminder, a stronger yen puts upward pressure on the cost of wafers sourced from our Japanese foundry partners and typically takes about 2 quarters to affect our results.
+"
+Person1,"We do expect a meaningful recovery in gross margin in the June quarter, driven by the postelection strength of the dollar versus the yen as well as a more favorable end-market mix.
+"
+Person1,"Non-GAAP operating expenses for the quarter were $32.2 million, up $1.4 million on a sequential basis with about 80% of the increase coming on the R&D line.
+"
+Person1,"The increase primarily reflects headcount additions and accelerated spending for product development as well as seasonal factors such as the resumption of FICA taxes and a reduction in vacation days taken after the holidays.
+"
+Person1,"Non-GAAP operating margin for the quarter was 18.5%.
+"
+Person1,"Our non-GAAP tax rate was 4.3% for the first quarter, bringing non-GAAP net income to $19.1 million or $0.63 per diluted share.
+"
+Person1,"Cash flow from operations was just under $6 million for the quarter.
+"
+Person1,"That's lower than normal due to transitory factors including higher accounts receivable, which was driven by the timing of shipments with significant volume shipping late in the quarter after the Lunar New Year holiday.
+"
+Person1,"Also affecting cash from operations was an increase in prepaid expenses as we took advantage of our strong balance sheet to obtain additional assembly and test capacity.
+"
+Person1,"Both of these items will reverse in future periods with corresponding positive impact on cash flows.
+"
+Person1,"Other uses of cash during the first quarter included $6.4 million for capital expenditures and $4.1 million for dividends.
+"
+Person1,"Cash and investments on the balance sheet totaled just over $250 million at quarter end, essentially unchanged from the prior quarter.
+"
+Person1,"Internal inventory fell slightly during the quarter to 86 days on hand, which is below our target range of 110, plus or minus 15 days.
+"
+Person1,"We expect inventories to remain at a similar level for the June quarter and then to rise gradually in the second half of the year.
+"
+Person1,"Channel inventory stood at 7.3 weeks at quarter end, which is identical to the level of the March quarter of last year and slightly below that of March 2015.
+"
+Person1,"Looking ahead, we expect second quarter revenues to be in the range of $107 million, plus or minus $3 million, which would be an increase of 10% year-over-year at the midpoint of the range.
+"
+Person1,"As noted earlier, we expect gross margin to recover in the second quarter with a range of 50% to 50.5% on a non-GAAP basis.
+"
+Person1,"We expect non-GAAP operating expenses to be approximately $33.5 million in the second quarter with the sequential uptick driven primarily by annual merit increases as well as our annual sales conference, which takes place in May.
+"
+Person1,"We then expect OpEx to tick down slightly in the third quarter.
+"
+Person1,"Lastly, I expect our effective tax rate for the second quarter to be around 4.5%.
+"
+Person1,"And with that, I'll turn it back over to <UNK>.
+"
+Person0,"Yes.
+"
+Person0,"Interestingly, we are growing on a portion of the computer business, which is monitors.
+"
+Person0,"So we talked about a major design win we had with a Korean display manufacturer, which we will -- we believe will expand to other monitor customers.
+"
+Person0,"And we also have a tremendous level of interest in using Inno 3 -- our next-generation InnoSwitch for tablets and notebooks, which will also allow us to grow the computer market.
+"
+Person0,"But what happened in Q1 is really multiple.
+"
+Person0,"One is, of course, Q1 is the weakest quarter for computing.
+"
+Person0,"But on top of that, the desktop business seems to have gone down more than the rest of the business.
+"
+Person0,"That's where we have had most of our revenue.
+"
+Person0,"And thirdly, the revenue in computing historically has been in standby power supply.
+"
+Person0,"And because of the reduction in power consumption of PCs, the power levels have come down to the point where you no longer need the standby power supply.
+"
+Person0,"They can do -- they can meet the standby requirements without having an additional power supply.
+"
+Person0,"So there's been a more accelerated decline in the standby.
+"
+Person0,"Having said all of that, we believe we can start regrowing the computer business as we get into monitors and notebooks, tablets and printers.
+"
+Person1,"So basically, what really happened is when we had guided earlier, we had said that the second quarter would be similar to the first.
+"
+Person1,"But what really changed it, with the level of inventory coming down, the benefit -- as you -- if you remember, the yen last year -- around the beginning of the year was at 105 and it then went back to close to 115, 116.
+"
+Person1,"So in Q1, we had the unfavorable effect.
+"
+Person1,"And we had thought we would get -- when the yen weakened, we would get that benefit in Q3.
+"
+Person1,"What's really happening is with the lower inventory, a portion of that benefit is coming in Q2.
+"
+Person1,"So I think considering we have got the earlier benefit from Q3, for the rest of the year, I would expect that we would remain slightly above the 50% level.
+"
+Person1,"And as a result, for the year, we will be averaging -- the best estimate we can do, around 50% for the year.
+"
+Person1,"Yes.
+"
+Person1,"So our long-term model, if you look at -- as we talked, our long term -- just to reemphasize the whole model is that our margin will -- the top line growing on an average of low double-digit margin in 50% to 55% and then OpEx at 60%.
+"
+Person1,"But that's on an average.
+"
+Person1,"If you look last year, even though we grew 13%, our expenses last year grew 4%.
+"
+Person1,"So this year, if you remember, I had mentioned, because of the investments that we are making to the new opportunity, the OpEx would be higher than that.
+"
+Person1,"But if you average it out, that's where our model is at 60%.
+"
+Person1,"So you can't take it quarter-on-quarter or year, but I think you have take a multiyear perspective on the model.
+"
+Person0,"Our lead times on a few of our products has gone out, primarily because of extremely high demand on those products.
+"
+Person0,"That's relatively temporary.
+"
+Person0,"By Q3, that will come back to normal.
+"
+Person0,"But most of our products are under normal lead times, which is typically 4 to 6 weeks.
+"
+Person0,"Yes.
+"
+Person0,"We have heard and seen a little bit of slowdown in the cell phone handset numbers.
+"
+Person0,"But in spite of that, I think we're going to do really well this year because of the share growth we are getting in handsets with fast charging.
+"
+Person0,"But definitely, there is some -- I mean, a slight slowdown in that respect.
+"
+Person0,"However, that could change in the second half.
+"
+Person0,"It all depends upon how the new phone introductions happen in the second half.
+"
+Person0,"It's generally a relatively volatile market.
+"
+Person0,"But we have enough customers now that I think overall it will be not so volatile for us.
+"
+Person0,"And in terms of positives, we are seeing an increase investment in infrastructure projects in China, specifically high-voltage DC transmission systems.
+"
+Person0,"China has come up with a master plan to connect the entire nation with a grid using DC transmission, which requires converters on both sides that we can sell IGBT drivers to.
+"
+Person0,"And we have one large portion of that business, and that would start benefiting us in Q4 onwards.
+"
+Person0,"We're also seeing a significant drive to convert all the public transportation and scooters and bicycles to electrify the vehicles, if you will, especially in large cities like Shanghai, Shenzhen and Beijing.
+"
+Person0,"So we are seeing a lot of opportunities there, where we have been designing to electric buses, e-bike chargers and scooters and so on.
+"
+Person0,"So that's another area of significant growth for us in China.
+"
+Person0,"Do you have that number.
+"
+Person0,"It's a large number, but I don't have an exact number.
+"
+Person0,"I would say it's in the order of 50 designs ongoing.
+"
+Person0,"And out of which, we have about 3 or 4 of them actually in volume production as we speak.
+"
+Person0,"This is relating to display devices like monitors and also set-top boxes.
+"
+Person0,"But we expect Inno 3 to start contributing revenue in the second half of this year.
+"
+Person0,"No, it's actually a mix set of protocols.
+"
+Person0,"First of all, all of those are in China.
+"
+Person0,"As you know, we pretty much have everybody -- every OEM who actually uses fast charge uses InnoSwitch at this point.
+"
+Person0,"So these 5 designs are from the Chinese cell phone OEMs, and they use a combination of protocols.
+"
+Person0,"Each one uses a different protocol.
+"
+Person0,"At the moment, none of them have started using USB PD yet, but they are certainly seriously thinking about using USB PD in the future.
+"
+Person0,"But as you know, we won the -- what we think is the first USB PD design for cell phone chargers, and that's the Pixel charger.
+"
+Person0,"Well, we have been working on designs even before we had the reference designs available.
+"
+Person0,"For example, the Pixel charger uses the Weltrend chip, which is using the reference design, and that one is already in production and that uses a combination of InnoSwitch and Weltrend's chip.
+"
+Person0,"Generally what happens is with the high-volume customers, we start working with them even before prelaunch.
+"
+Person0,"We are working with probably 40, 50 customers with the InnoSwitch -- next-generation InnoSwitch.
+"
+Person0,"And so we do that ahead of time.
+"
+Person0,"And then for the general market, we would use the reference design.
+"
+Person0,"The whole idea is to put the protocol portion of it, which is purely digital in a separate microcontroller, which is what Weltrend and Cypress are good at doing.
+"
+Person0,"And we do all of the power conversion and all of the difficult analog functions required for USB PD in our product.
+"
+Person0,"Relative to the high-power revenue, it will be material in the second half, mostly in the Q4 time frame.
+"
+Person0,"But it does span several quarters or maybe couple of years.
+"
+Person0,"Basically, what China has done is come up with a plan of grids that go north-south and east-west.
+"
+Person0,"And all of these are based on the latest technology, which is DC transmission lines.
+"
+Person0,"And typically, these are running at 600,000 to 800,000 volts and about 1 to 2 gigawatts of power in each transmission line in terms of capability.
+"
+Person0,"And it requires something like 10,000 drivers on each side, if you can imagine that.
+"
+Person0,"These are huge towers with IGBT modules with our drivers on top of it.
+"
+Person0,"And so we have won a significant portion of that business, and we expect to start shipping in Q4.
+"
+Person0,"They'll probably start buying some in Q3.
+"
+Person0,"They'll certainly place orders in Q3.
+"
+Person0,"And so that should help us grow high power not just this year, but over the next couple of years.
+"
+Person0,"I believe the deadline for the Fairchild and ON guys to file the appeal is end of May.
+"
+Person0,"And it typically takes 1 to 2 years before you get the response from the circuits court.
+"
+Person0,"So we are hopeful sometime next year, we will get the good news and we'll get the money that we deserve.
+"
+Person1,"Actually, it's going to take longer.
+"
+Person1,"What I was trying to say is that even in the next quarter, we won't be able -- there will be not much change from the levels.
+"
+Person1,"I think in the second half of this year, we will probably get up to the, say -- from the 86 days to about 95, 96.
+"
+Person1,"But I think it will take getting into the next year first half to be the time we get back to our levels.
+"
+Person1,"So the demand is pretty strong for us, and it's going to take a little while to get the inventory buildup.
+"
+Person1,"That is correct.
+"
+Person1,"What happens in the second quarter is that it's where we generally have more strength in the air conditioning area, which falls in our Consumer segment.
+"
+Person1,"So that is typically a very strong quarter.
+"
+Person1,"And I think what I would say the improvement that you're seeing of about 100 basis points from Q1 to Q2, half of it is coming roughly from the yen benefit, with the weakening of the yen that happened in December.
+"
+Person1,"And the other half, 50 basis points is coming more from mix.
+"
+Person0,"Yes.
+"
+Person0,"On a few specific products we are seeing such a significant demand, we are on allocation at the time being.
+"
+Person0,"However, we will be increasing our capacity.
+"
+Person0,"And by Q3, we will be out of that.
+"
+Person0,"And in those products, of course, the lead times have gone up, as I mentioned earlier.
+"
+Person0,"Oh, in the future, you mean.
+"
+Person0,"Well, first of all, our products never really die.
+"
+Person0,"I mean, we are still shipping TOPSwitches and TinySwitches and LinkSwitches.
+"
+Person0,"In fact, our TOPSwitch -- our latest TOPSwitch product, which was introduced in 2010, which is TOP-JX is still ramping very nicely.
+"
+Person0,"In fact, it is one of the fast growers this year.
+"
+Person0,"And the TinySwitch is also ramping in revenue.
+"
+Person0,"So the way to think about it is, is overlapping ramp.
+"
+Person0,"So the InnoSwitch will continue to ramp for probably the next 10 years, the InnoSwitch and its derivatives, before we see a next generation taking over.
+"
+Person0,"So it is kind of an overlapping ramp.
+"
+Person0,"And typically, our products never die.
+"
+Person0,"We still sell the original TOPSwitch we introduced in '96, if you can believe it.
+"
+Person0,"So it is -- in some markets, they just don't want to change the device, especially in industrial and appliance-type markets.
+"
+Person0,"In some cases, there is.
+"
+Person0,"So for example, if you are in cell phones, the product life cycle is shorter.
+"
+Person0,"It's typically more like 3 to 5 years.
+"
+Person0,"There, the substitution happens faster.
+"
+Person0,"However, if you get designed into some of the industrial applications, the product lifetime could be -- or appliances for that matter, lifetime could be 10 to 20 years.
+"
+Person0,"And that's the beauty of it.
+"
+Person0,"And we keep selling the same products for long periods of time.
+"
+Person0,"And the older products tend to have better margins for us because they're in these types of markets, which are more fragmented and much longer product life cycle.
+"

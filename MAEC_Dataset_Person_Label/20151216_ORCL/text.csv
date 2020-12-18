@@ -1,0 +1,297 @@
+Person,Sentence
+Person1,"Yes, <UNK>.
+"
+Person1,"In fact, it will accelerate very strongly.
+"
+Person1,"It can't help itself.
+"
+Person1,"Our bookings are so strong.
+"
+Person1,"We've had so many contracts already.
+"
+Person1,"We will be recognizing those basically regardless of how bookings go.
+"
+Person1,"Of course, as you can see our bookings are also accelerating.
+"
+Person1,"Yes, we are going to have a phenomenal FY17 in the cloud business.
+"
+Person2,"Yes, and you know, <UNK>, right from the star it's going to be strong, because you're going to wind up with a Q4 at the revenue rate that we just gave you some guidance on.
+"
+Person2,"You add the bookings on top of it.
+"
+Person2,"When you start Q1 and into Q2, you can already do the math on what the comparisons are going to look like.
+"
+Person2,"It's going to be a strong year and particularly strong start.
+"
+Person1,"Let's back up.
+"
+Person1,"It is all -- the bulk of the SaaS and PaaS margin improvement is because we are now recognizing revenues for which -- and much larger revenues -- for which we have already paid for many of the costs.
+"
+Person1,"We built up an infrastructure that can handle massive amount of usage, significantly more usage.
+"
+Person1,"We have not been able to recognize the revenue because we are recognizing it ratably.
+"
+Person1,"As we scale, this is absolutely an area where it is inevitable that we -- that this improves.
+"
+Person1,"In addition, we also have efficiency gains at all times; but that is again because of our larger scale, and those are simply economies of scale.
+"
+Person1,"But the bulk of it is we are starting to be able to recognize revenue for which we have already invested.
+"
+Person1,"As to how many points, I actually -- the impact on operating income for us was quite significant from a currency point of view, but -- hold on, I'm doing the math.
+"
+Person1,"I don't know, I've got to actually do it on our margin.
+"
+Person1,"I will have to do it while you are talking -- while other people are talking, and then I'll give you the exact answer at that point, how much of it was --
+"
+Person0,"<UNK>, we'll circle back to you later in the call.
+"
+Person0,"Why don't we go to the next question, please.
+"
+Person2,"Okay.
+"
+Person2,"Let me tell you confident.
+"
+Person2,"That would be my answer to your question.
+"
+Person2,"Our pipeline -- I think I mentioned this at Financial Analyst Day, as I'm going to mention it again.
+"
+Person2,"Our pipeline -- I can't come up with a better analytical statement then just huge.
+"
+Person2,"Our pipeline now is multiple billions of dollars.
+"
+Person2,"Let me give you more color.
+"
+Person2,"If I looked at the next six months, our pipeline of things that are in the next six-month funnel, you have a multi-billion dollar funnel, and our conversion rate is increasing.
+"
+Person2,"That would tell you -- and our business has become scaled enough, <UNK>, just to be clear, that it now is behaving like a large business begins to, in terms of the scale of the funnel, the pipeline, the discipline we have, the conversion rates we have, et cetera.
+"
+Person2,"That would be my view on that.
+"
+Person2,"On PaaS, we have had a change to your point of going away from metered to subscription bookings.
+"
+Person2,"The bookings are now the bulk.
+"
+Person2,"As I mentioned it's at 75% now subscription, as opposed to metered.
+"
+Person2,"I would say the usage of our PaaS has increased not significantly, but sort of geometrically -- meaning that it's gone from when we originally started the usage to jumped up over the last four or six months, I would say, to where the usage is extremely high -- extremely high in terms of the increase of our usage.
+"
+Person2,"It's very exciting both in the bookings, the type of bookings, and of usage that we're seeing of what's booked.
+"
+Person2,"Well, I'd start -- again, I'm going to make -- this is going to be like the fifth time I've said this, but I'm going to try to again.
+"
+Person2,"In SaaS overall, we are just better overall.
+"
+Person2,"We have more people.
+"
+Person2,"We are well trained.
+"
+Person2,"Our products all have matured, and we have a lot of references.
+"
+Person2,"Our position in ERP is just unique.
+"
+Person2,"We don't have a competitor, per se.
+"
+Person2,"I use these metrics against Workday just to describe to you how exponentially far ahead of our only person I can think of that's built a product.
+"
+Person2,"Just to be clear in ERP SaaS, I don't ever -- I'm not trying -- <UNK> might have somebody she knows or <UNK> might know somebody -- I don't see SAP.
+"
+Person2,"I'm out in the market a lot.
+"
+Person2,"I don't see them.
+"
+Person2,"I don't know what they're working on, but it's not ERP/SaaS.
+"
+Person2,"In HCM, I think we are continue to just get better and better and better.
+"
+Person2,"I mentioned, because I had a blizzard of names and I may have been myself a disservice by mentioning so many names.
+"
+Person2,"But in a couple of these we actually replaced Workday.
+"
+Person2,"Imagine, in a period of time Workday -- sorry, in HCM, we replaced Workday.
+"
+Person2,"We continue to get better and better and better at HCM, and now we are beginning to see a lot of deals that are where you sell ERP, and HCM is attached to the ERP sale.
+"
+Person2,"Because of ERP being in many ways a very strategic, very sticky sale, we now see our attach rates moving up and up and up where somebody buys ERP, and they buy HCM at the same time.
+"
+Person2,"The scale of our fusion products -- and the reason I gave you that metric for the first time -- is it is now a very high -- it's now beginning to become a reasonable percent of our total portfolio, versus everything that we've got, including marketing, which is having a great run, as you know.
+"
+Person2,"But I add to it the fact that now fusion products, which are extremely sticky, are almost 50% of our total bookings.
+"
+Person2,"Phil, I could keep going down these metrics for you, but I think we're unique in ERP, and getting further ahead.
+"
+Person2,"We're at the point now we're over 1,500 customers.
+"
+Person2,"We'll give you a prognostication where we end the year, but it's going to be well over 2,000 -- I guess I just did.
+"
+Person2,"It's going to be well over 2,000.
+"
+Person2,"We're getting better and better at HCM.
+"
+Person2,"We're in a leadership position in marketing.
+"
+Person2,"I feel good about where we sit.
+"
+Person2,"Well, we see our customers with a much higher up-take of 12-2, simply because they have two key features that are very important to our customers.
+"
+Person2,"One is the in-memory aspect of the database, where we now have the fastest in-memory database.
+"
+Person2,"The way you take advantage of that, you take any existing Oracle application, and you run it without change on 12-2, and it runs much -- it runs in memory without changing.
+"
+Person2,"Other people say well, use my memory database.
+"
+Person2,"We have to re-write the application.
+"
+Person2,"In this case, you don't have to re-write the odd case, you press a button.
+"
+Person2,"We run much faster.
+"
+Person2,"By the way, we run faster than the competition.
+"
+Person2,"We have a lot of our customers who wanted to take advantage of the in-memory acceleration.
+"
+Person2,"That's one of the reasons they buy the new version of the database.
+"
+Person2,"The other thing is multi-tenancy.
+"
+Person2,"They like to do a lot of consolidation.
+"
+Person2,"They have a lot of small databases.
+"
+Person2,"They'd like to run on one machine.
+"
+Person2,"You can do that much more efficiently by running the Oracle database with multiple tenants.
+"
+Person2,"You consume less hardware resources.
+"
+Person2,"It's easier to manage.
+"
+Person2,"You can back up a whole suite of databases, a group of databases as one.
+"
+Person2,"It's thoroughly automated.
+"
+Person2,"That's the other major reason you would see a very rapid up-take.
+"
+Person2,"Finally, we are seeing our customers, as our past big business begins to increase in adoption, that the customer wants to run the latest version of the database in the cloud, and they want to match that up with the latest version of the database in their data center.
+"
+Person2,"They want to run basically the same technology both in our cloud and their data center.
+"
+Person2,"That's one of the unique value propositions that we offer our cloud customers -- the same exact technology on-premise and in the cloud.
+"
+Person2,"Those things will then coexist for years and years to come.
+"
+Person2,"Then the customers are syncing up their versions.
+"
+Person2,"We have the latest version in the Cloud, they want the latest version on-premise.
+"
+Person2,"That's also accelerating the adoption of the database on-premise.
+"
+Person2,"No.
+"
+Person1,"No, you're also looking at the Americas.
+"
+Person1,"For example, hardware revenues are particularly problematic for us in Latin America, things like that.
+"
+Person1,"You look at the Americas, you're actually seeing Latin America, which has issues of course.
+"
+Person1,"Brazil and, as you know, North America, Canada -- all together.
+"
+Person2,"Yes, US was fine.
+"
+Person2,"I think to your point, Asia was strong.
+"
+Person2,"We've been doing -- our team has -- we talked about this before.
+"
+Person2,"We've been doing a lot of rebuilding in Asia, and that has really show promise for us.
+"
+Person2,"The results reflect that in the quarter.
+"
+Person2,"Europe had a solid quarter overall.
+"
+Person2,"We had excellent results in the cloud.
+"
+Person2,"US was fine.
+"
+Person2,"In the Americas, to <UNK>'s point, you have the inclusion of Latin America, which is great organization.
+"
+Person2,"It's done a great job.
+"
+Person2,"They're gaining share.
+"
+Person2,"In fact, I look at every metric we have in Latin America.
+"
+Person2,"We've gained share in virtually every category we compete in, in Latin America.
+"
+Person2,"But within the context of the quarter, the situation in Brazil is tough, which is reflected in these overall Americas results you are describing.
+"
+Person2,"My inclination, to answer your question, is yes; but let me try to describe what's happening.
+"
+Person2,"We talked about this a little bit at Financial Analyst Day.
+"
+Person2,"The good news about ERP, our ERP suite, is it's still not available.
+"
+Person2,"It's just going into other geographies.
+"
+Person2,"With the last release we had, we've now brought on manufacturing and supply chain.
+"
+Person2,"We're now releasing the product for sale in some -- for example, in Brazil and some European countries.
+"
+Person2,"We actually get some geographic expansion with the last release we had.
+"
+Person2,"This is actually good news -- the strong, in this case, actually get stronger.
+"
+Person2,"We actually now have material number of references.
+"
+Person2,"I think I mentioned, but I'm going to try again, we have over now 450 customers wide.
+"
+Person2,"This is a big metric.
+"
+Person2,"Our market also expands in a couple ways with ERP, which makes it so important.
+"
+Person2,"We get two increases on our total available market.
+"
+Person2,"One is what you mentioned, the fact that we actually get to go down-market now.
+"
+Person2,"Now we do have broad market expansion.
+"
+Person2,"We get to compete for companies that otherwise would never have had an IT staff, couldn't have assembled an ERP system.
+"
+Person2,"We now get to compete.
+"
+Person2,"We also now -- remember, when we win an ERP system, we win the hardware, we win everything.
+"
+Person2,"We win the whole stack.
+"
+Person2,"Our TAM really goes up -- our total available market -- on two dimensions, the total stack, in addition to our ability to compete down market.
+"
+Person2,"Now, that broad-based, that's why I specifically used the names I did.
+"
+Person2,"Our success is not unique to mid-market or up-market.
+"
+Person2,"It's really both.
+"
+Person2,"I mentioned the name of the biggest -- I didn't mention the name, a very big telephone company in France, a very big industrial company.
+"
+Person2,"These are huge companies at the same time as we have $50-million companies that are moving to our cloud ERP.
+"
+Person2,"It is broad-based success across geographies.
+"
+Person2,"But the good news I have for you, I think we are just really getting started.
+"
+Person2,"Thank you.
+"
+Person2,"Same to you.
+"
+Person1,"Okay.
+"
+Person1,"You know what, I just needed to answer -- I think <UNK>'s question, which I think it's about from here, 3.5 to 4 points, something like that.
+"
+Person0,"Thank you, <UNK>.
+"
+Person0,"The telephonic replay of this conference call will be available for 24 hours.
+"
+Person0,"Dial-in information can be found in the press release issued earlier today.
+"
+Person0,"Please call the Investor Relations department with any follow-up questions from this call, and we look forward to speaking to you.
+"
+Person0,"With that, I'll turn the call back to the operator for closing.
+"

@@ -1,0 +1,615 @@
+Person,Sentence
+Person0,"Good morning, and thank you for joining us to discuss our first quarter 2018 results.
+"
+Person0,"This morning, we reported first quarter results, driven by record trading volume of $465 billion, up 18% compared to Q1 2017.
+"
+Person0,"Additionally, volume records were set this quarter across each of our 4 core products.
+"
+Person0,"Our estimated U.S. high-grade market share also reached a record of 18% this quarter, up from 15.9%.
+"
+Person0,"On the back of strong trading volumes, first quarter revenues were a record $115 million, up 11% compared to Q1 2017.
+"
+Person0,"Operating income for the quarter was $60 million, up 9% from a year ago.
+"
+Person0,"And diluted EPS was up 14% to a new high of $1.27.
+"
+Person0,"Expenses of $54.5 million were up 14%, including $1.7 million in duplicate rent expense for Hudson Yards.
+"
+Person0,"After the double rent charge, EPS would have been up 17% year-over-year.
+"
+Person0,"Open Trading adoption continues to accelerate and reach record volume of $81 billion, up 38%.
+"
+Person0,"Additionally, trading volume with international clients reached a record $130 billion this quarter, representing an increase of 30%.
+"
+Person0,"Slide 4 provides an update on market conditions.
+"
+Person0,"Overall, secondary trading conditions improved modestly in the first quarter.
+"
+Person0,"Interest rates moved higher, and volatility improved in both interest rates and credit spreads.
+"
+Person0,"Overall, trades high-grade market volumes in Q1 were relatively flat year-on-year, while high-yield trades volumes were down 4%.
+"
+Person0,"As a result, our trading volume and revenue growth was driven primarily by market share gains.
+"
+Person0,"New Issuance was down 13% versus last year's first quarter.
+"
+Person0,"U.S. credit mutual fund inflows continue to be strong.
+"
+Person0,"We are pleased with our results in the context of the market environment and remain confident in the secular trend towards greater electronic trading in global credit markets.
+"
+Person0,"Slide 5 provides an update on Open Trading.
+"
+Person0,"Open Trading volumes were $81 billion in the first quarter, with average daily volume of $1.3 billion, up 40% from the same period last year.
+"
+Person0,"Open Trading represented 17.5% of our volume in Q1, up from 15% last year.
+"
+Person0,"Approximately 204,000 Open Trading transactions were completed in the first quarter, up from 147,000 in Q1 2017.
+"
+Person0,"Liquidity providers or price makers on the platform drove 820,000 price responses, representing a 71% increase in activity in the first quarter.
+"
+Person0,"Liquidity takers saved an estimated $32 million in transactions and costs through Open Trading on the system, up 28% from the first quarter last year.
+"
+Person0,"Participants benefited from average transaction cost savings of approximately 2.4 basis points in yield when they completed a U.S. high-grade transaction through Open Trading protocols.
+"
+Person0,"In a recent Greenwich Associates survey, investment managers cited price improvement and all-to-all trading as the 2 most important factors for selecting a trading venue.
+"
+Person0,"Slide 6 provides an update on our international progress and MiFID II.
+"
+Person0,"The momentum in our international business continued in the first quarter.
+"
+Person0,"MiFID II implementation contributed to growth in European client trading volumes and post-trade revenue.
+"
+Person0,"European client volume was up 29% year-over-year, led by a 52% increase in emerging market volume and a 22% increase in Eurobond volume.
+"
+Person0,"In addition, Trax post-trade services revenue increased by $2.1 million in Q1, primarily due to MiFID II regulatory reporting services and nonrecurring MiFID II implementation fees.
+"
+Person0,"European data revenues were up 25%.
+"
+Person0,"In Asia, client onboarding is accelerating with our new regulated trading venue in Singapore.
+"
+Person0,"To date, over 35 dealers and 80 investor clients are engaged on the RMO.
+"
+Person0,"Our Emerging Markets business continues its strong growth trajectory with first quarter record trading volume of $105 billion, up 33%.
+"
+Person0,"Approximately 940 firms are now active in global EM trading on the system.
+"
+Person0,"In addition to EM external debt trading, we are encouraged by the progress we are making in local currency bonds.
+"
+Person0,"Trading volume in the 25 local EM markets available on the system grew by 43% during the quarter, with further progress in block trades.
+"
+Person0,"Volume from international clients now represents 28% of global volume, up from 18% 3 years ago.
+"
+Person0,"Now let me turn the call over to Tony for more detail on the financial results.
+"
+Person1,"Thank you, Rick.
+"
+Person1,"Please turn to Slide 7 for a summary of our trading volume across product categories.
+"
+Person1,"U.S. High-Grade volumes were $251 billion for the quarter, up 14% year-over-year.
+"
+Person1,"Higher estimated market share accounted for the vast majority of the volume gain as U.S. high-grade trades market volume was up an estimated 1%.
+"
+Person1,"We completed approximately 6,600 block trades during the first quarter, almost double the number from just 2 years ago.
+"
+Person1,"And our estimated market share of U.S. High-Grade trades over $5 million in trade size was 10.9% during the first quarter and is a big contributor to the 2.1 percentage point increase in overall market share.
+"
+Person1,"Volumes in the other credit category were up 25% year-over-year as our emerging markets, high-yield and Eurobond trading volume all hit records during the quarter.
+"
+Person1,"Similar to U.S. high-grade, market share gains were the main driver behind the emerging markets, high-yield and Eurobond volume growth.
+"
+Person1,"April has seen a reversion to 2017 tight market conditions with a decline in volatility and credit spreads.
+"
+Person1,"Aggregate estimated market volumes for our 4 core products are down around 14% from the first quarter levels.
+"
+Person1,"With 4 important trading days remaining in April, estimated U.S. high-grade and high-yield market share is running below first quarter levels but similar to share posted in January.
+"
+Person1,"On Slide 8, we provide a summary of our quarterly earnings performance.
+"
+Person1,"Overall, revenue was up 11% year-over-year.
+"
+Person1,"The increase in trading volume drove commissions 9% higher.
+"
+Person1,"The uplift in post-trade services revenue is due to a combination of new customers and MiFID II services and the impact of the weaker U.S. dollar versus the pound sterling.
+"
+Person1,"Operating expenses were up 14% year-over-year, leading to a 9% increase in operating income.
+"
+Person1,"Excluding duplicate rent expense recognized during the build-out phase of the company's new corporate offices in New York City, operating income was up 12%.
+"
+Person1,"The effective tax rate was 21.4% in the first quarter and reflects the reduction in the Federal income tax rate and other changes associated with the Tax Cuts and Jobs Act and $1.8 million in excess tax benefits related to share-based compensation awards.
+"
+Person1,"As mentioned on the January earnings call, we expect the effective tax rate for the next 3 quarters will be roughly 25%.
+"
+Person1,"Our diluted EPS was $1.27 on a fairly stable diluted share count of 37.9 million shares.
+"
+Person1,"On Slide 9, we've laid out our commission revenue, trading volumes and fees per million.
+"
+Person1,"Total variable transaction fees were up 3% year-over-year as the 18% increase in trading volume was offset by a mix shift within certain products and the impact of our new high-yield fee plan implemented in the third quarter of 2017.
+"
+Person1,"U.S. high-grade fee capture was down both sequentially from the fourth quarter of 2017 and year-over-year.
+"
+Person1,"There are 3 primary reasons our U.S. high-grade fee capture varies from period-to-period.
+"
+Person1,"First, our fee plan is tier based on ticket size; second, the fees we earn are dependent on bond duration; and third, we give dealers a choice of fee plans.
+"
+Person1,"The sequential decline in high-grade fees per million reflects a higher percentage of volume traded in larger sized buckets and lower duration caused by a decline in years to maturity.
+"
+Person1,"Our other credit category fee capture was down $11 on a sequential basis.
+"
+Person1,"Approximately half of the variance was due to Eurobond fee schedule changes implemented effective January 1.
+"
+Person1,"We also experienced the typical swings resulting from mix shifts namely a higher percentage of emerging market volumes in sovereign bonds.
+"
+Person1,"Slide 10 provides you with the expense detail.
+"
+Person1,"Sequentially, expenses were up 10%, largely due to higher compensation and benefits cost.
+"
+Person1,"The variable bonus accrual was $3.7 million higher, and employment taxes and benefits were up, reflecting the typical first quarter seasonality.
+"
+Person1,"The sequential increase in occupancy cost is due to the duplicate rents expense of $1.7 million.
+"
+Person1,"On a year-over-year basis, expenses were up 14%.
+"
+Person1,"Excluding the duplicate rent expense and the impact of foreign currency movement from the weaker dollar, the year-over-year increase in total expenses was approximately 7%.
+"
+Person1,"A roughly 10% increase in average headcount drove the $1.6 million uplift in compensation and benefits cost.
+"
+Person1,"On Slide 11, we provide balance sheet information.
+"
+Person1,"Cash and investments as of March 31 were $400 million compared to $407 million at year-end 2017.
+"
+Person1,"During the first quarter, we paid out our year-end employee bonuses and related taxes of roughly $32 million and the quarterly cash dividend of $16 million.
+"
+Person1,"We also repurchased 72,000 shares in total during the quarter, including 31,000 under our share buyback program and 41,000 associated with tax obligation netdowns upon vesting of employee stock awards.
+"
+Person1,"As of March 31, approximately $88 million was available for future repurchases under the share buyback program.
+"
+Person1,"Based on the first quarter results, our board has approved a $0.42 regular quarterly dividend.
+"
+Person1,"Now let me turn the call back to Rick for some closing comments.
+"
+Person0,"Thank you, Tony.
+"
+Person0,"We are pleased to see the improvement in the secondary market environment leading to record volumes and market share in the quarter.
+"
+Person0,"MiFID II implementation has created additional momentum in our European and international business.
+"
+Person0,"Adoption of Open Trading is accelerating, leading to important transaction cost savings for our clients.
+"
+Person0,"Now I would be happy to open the line for your questions.
+"
+Person0,"Sure, happy to take that one, Chris.
+"
+Person0,"There has been a significant increase in algo-generated price responses over the last 2 years.
+"
+Person0,"As far as where we are, I'd say probably fourth or fifth inning.
+"
+Person0,"We are seeing new dealers come on with algos virtually every quarter.
+"
+Person0,"Most of the trade sizes are sub-$1 million, and even more specifically, probably sub-$500,000.
+"
+Person0,"But I think what you're seeing is a transformation of odd lot trading, where dealers increasingly are responding through algos.
+"
+Person0,"And client adoption of auto-execution is picking up as well, whereby when certain parameters are met with the price responses they receive, they execute that trade without manual intervention as well.
+"
+Person0,"I think this is a really important development for the market.
+"
+Person0,"You are all aware that nearly 90% of tickets reported to trades are under $1 million.
+"
+Person0,"So this is another way that we can significantly increase the efficiency of trading smaller tickets and lower costs for both dealer and investor clients.
+"
+Person0,"Sure, happy to take that one as well.
+"
+Person0,"It was a great quarter for us for block trading.
+"
+Person0,"The big story starting the year was the increase in economic activity in the world, some uptick in inflation numbers and growing expectation that the Federal will move rates up more quickly than people had anticipated.
+"
+Person0,"On the back of that, it led to quite a bit of shorthand activity.
+"
+Person0,"And we were pleased to see many block lists come into the MarketAxess system and receive great pricing, leading to our record numbers in blocks and our record share.
+"
+Person0,"As Tony mentioned, it was a quarter where more of those block trades and block lists were at the shorter end of the curve, which was one of the factors that reduced the fee capture in high-grade during the quarter.
+"
+Person0,"We have seen improvement out the curve as well, but this quarter, the majority of the activity was in-- within block trades 3 years and under in maturity.
+"
+Person0,"Well, BlackRock has been a very important partner for us.
+"
+Person0,"And with their full support and activity, we have made great progress with Open Trading in the U.S., increasing momentum in Europe, and this is the third leg to really promote Open Trading throughout the Asia region.
+"
+Person0,"So as I've mentioned before, there are lots of components of that partnership with BlackRock.
+"
+Person0,"One is, they fully support the move toward all-to-all trading with their trading activity.
+"
+Person0,"We get excellent advice from them on protocols and things they believe would work well in the market.
+"
+Person0,"And the piece that's also an important part for both of us is the integration with the Aladdin client network.
+"
+Person0,"So all those parts are in motion with the extension of our joint venture with BlackRock into the Asia region.
+"
+Person1,"Rich, we can, and I flagged 3 big items in the prepared remarks around trade size, duration and the dealer choice on a fee plan.
+"
+Person1,"At times, we've given some guidance or rule of thumb on how to look at those, how to look at those variables in.
+"
+Person1,"And you just put it in a perspective, the yield movement is probably the least important of those 3 items.
+"
+Person1,"So if you had a, for example, a 1 percentage point change across the yield curve, that could equate to something like $10 or $15 per million.
+"
+Person1,"And all else equal, that would give you a rule of thumb or sensitivity around the yield change.
+"
+Person1,"When I say the bigger pieces, they're probably around maturity and even the dealer mix has a big influence.
+"
+Person1,"On the maturity side, we did see some of that impact in the first quarter where years to maturity came in almost one year versus the fourth quarter.
+"
+Person1,"Every year to maturity could be $10 to $15 per million as well, so you have some influence there.
+"
+Person1,"I would tell you this, though, on a longer-term basis, if you look at the high watermark per fee per million for high-grade, which was a little over $200 per million, by far and away, the largest impact has to do with the dealer mix or the dealer choice of plan.
+"
+Person1,"Today, we have 33 dealers on the distribution fee plan.
+"
+Person1,"When we hit that high watermark of $205 per million, we had 22 dealers on the plan.
+"
+Person1,"So you'll recall, there's just a geography switch then where we have more and more fees coming through distribution fees and lower fees coming through variable fees.
+"
+Person1,"So longer term, it's the dealer choice influences the outcome significantly.
+"
+Person1,"Shorter term, you see those mixes around duration and around trade size as well.
+"
+Person1,"It's tough to predict what the dealers are going to do.
+"
+Person1,"We do provide choices, in particular, in the U.S. high-grade and high-yield.
+"
+Person1,"It's tough to predict what dealers are doing.
+"
+Person1,"They're responding to their own forecasts and projections.
+"
+Person1,"They're responding to the economics of our fee plan.
+"
+Person1,"So it's tough to predict.
+"
+Person1,"Every time we say we're not tracking any dealers who are going to migrate up, we get 1 or 2.
+"
+Person1,"But right now, we have 33 on that distribution fee plan and another 40 or so on the variable plan.
+"
+Person1,"So there is a potential for some movement, but right now, we're not tracking anything.
+"
+Person1,"Rich, by not saying anything on the expense guidance, you can figure out that we're still expecting 2018 expenses to fall within that range.
+"
+Person1,"And there's still some swing factors that we have going forward.
+"
+Person1,"I'd tell you, headcount is one of those swing factors, which I'll comment on in a second.
+"
+Person1,"But where we come out on headcount could move the expenses up or down.
+"
+Person1,"You know the variable bonus accrual is tied to performance, so that's the swing factor there.
+"
+Person1,"And I'd give you one more, which is just on the foreign exchange movement, where we have around GBP 45 million in expenses, and that FX movement could influence where we come out.
+"
+Person1,"But right now, we're expecting to be within the range.
+"
+Person1,"If you look at Q1 versus the expectation for the rest of the year, we do expect headcount to go up.
+"
+Person1,"We've been pretty good at forecasting headcount the last several years.
+"
+Person1,"We do expect headcount from this point forward to go up by about 10%.
+"
+Person1,"So you figure another 40 or 45 bodies we expect to add by the end of the year.
+"
+Person1,"And with that one, almost half of those positions are already filled.
+"
+Person1,"So between new hires starting in April and May, we have an analyst program that -- where those new hires come in later in the summer.
+"
+Person1,"We've got half of the bodies sitting in -- committed already.
+"
+Person1,"So you would expect compensation to go up.
+"
+Person1,"And the other one that I would tell you, just if you're isolating line items you'd expect to go up on the marketing and advertising line.
+"
+Person1,"It is dependent on advertising campaigns.
+"
+Person1,"It's dependent on trade show participation.
+"
+Person1,"What you saw in the first quarter is not indicative of what you're going to see in Q2, 3 and 4.
+"
+Person1,"You will see an increase in that line item going forward.
+"
+Person1,"Sure, <UNK>.
+"
+Person1,"So you saw we reported was about $2.1 million increase year-over-year in post-trade, and 3/4 of that, that is new customers and new services related to MiFID II.
+"
+Person1,"So the largest chunk is, we do believe, is repeatable.
+"
+Person1,"There were some implementation fees that was around $300,000, so I would take that out.
+"
+Person1,"That's more onetime and nonrecurring.
+"
+Person1,"We also had the same foreign exchange impact, and that would have been maybe around $400,000 or so.
+"
+Person1,"If you're looking, going out the next several quarters, and that's probably as good as we're going to get in terms of projecting out, we would expect revenue to be in that $4 million to $4.5 million per quarter.
+"
+Person1,"So you see the -- for the step function to increase from last year to this year, that is MiFID II driven.
+"
+Person1,"Going forward, it's going to be dependent on our ability to bring new customers online, to add new services.
+"
+Person1,"But looking at what we have as sort of a crystal ball right now for the next several quarters, I'd narrow that to that range of $4 million to $4.5 million per quarter.
+"
+Person1,"So <UNK>, good news on the market share.
+"
+Person1,"We had market share gains across all size buckets.
+"
+Person1,"So it wasn't that it was isolated to block trading.
+"
+Person1,"If you looked at $100,000 to $1 million, $1 million to $5 million in trade size, over $5 million in trade size, there were pretty robust gains across the board.
+"
+Person1,"And yes, so it's probably half of the gain was from the block trading.
+"
+Person1,"On the fee capture, it's a harder one to answer.
+"
+Person1,"On the block trading piece, it does vary from period-to-period.
+"
+Person1,"It is dependent on duration as well.
+"
+Person1,"But if you were looking at over $10 million in trade size, remember, our fee plan doesn't exactly match up with the trade block designation.
+"
+Person1,"But if you looked at over $10 million in trade size, it's somewhere between $50 to $60 per million.
+"
+Person0,"We are seeing good uptake, and it's a result of introducing new protocols for European Open Trading <UNK>, so we're pleased with the progress that we are starting to make there.
+"
+Person0,"There's more work to be done because of the challenges with price-based protocol that you mentioned.
+"
+Person0,"But we have introduced some new protocols over the last 3 or 4 months, and it is clearly making a difference.
+"
+Person2,"Let me just follow up on <UNK>'s question, obviously another good quarter for Open Trading.
+"
+Person2,"Just longer term, as this business continues to grow, how should we think about this impacting your balance sheet flexibility.
+"
+Person2,"And then I just wanted to get your thoughts on how we should be thinking about the prospects for maybe a larger role for clearing in this product, say, 5 years out.
+"
+Person2,"Just be curious how you think this product works in 2023, for example.
+"
+Person1,"You want to take the second.
+"
+Person1,"I'll take the one on balance sheet.
+"
+Person0,"Go ahead, you start.
+"
+Person1,"So on the balance sheet side, <UNK>, the nature of our Open Trading business today is matched principal trading using a clearing agent.
+"
+Person1,"It really does not influence our regulatory capital requirement.
+"
+Person1,"Having said that, we are consciously holding excess capital in our regulated entities.
+"
+Person1,"So if you looked at end of March, we had somewhere around $100 million of excess capital in the regulated entities and that's to support Open Trading.
+"
+Person1,"I guess when counterparties opt to trade through us, if we looked at estimated credit losses based on historical default models and even if we use a stressed environment, the output is significantly lower than the capital that's residing in the businesses right now.
+"
+Person1,"So we're comfortable with the balance sheet position today.
+"
+Person1,"Even if we -- and we will, Open Trading will continue to grow.
+"
+Person1,"Even at multiples of what we're trading today, we still feel that we have a healthy capital position does get, helps get counterparties comfortable with our credit.
+"
+Person1,"So no change in that in the immediate view around the excess capital, where we're retaining in the regulated entities.
+"
+Person0,"On the longer-term outlook for settlements, I would expect that we would see positive progress in the industry as a whole in continuing to reduce settlement periods, so the capital at risk will decline with shorter settlement periods.
+"
+Person0,"And we have a huge benefit in real-time, digital, post-trade messages that are going to our dealer-investor clients.
+"
+Person0,"And as electronic trading continues to grow, we believe there is further opportunity to use those digital messages to reduce the settlement time from the current 2 days in corporate bonds.
+"
+Person0,"And I think as our activity grows, we are working on long-term solutions.
+"
+Person0,"We are, as you know, working with a settlement partner today.
+"
+Person0,"We would expect at some time to examine more carefully the pros and cons of self-clearing.
+"
+Person0,"But we would also expect to be part of industry initiatives around how to improve the efficiency of trade settlement overall.
+"
+Person0,"And this is where I think you'll see the most progress.
+"
+Person0,"And we would be big supporters of that, clearly, because we think that would be yet another benefit of greater electronic trading in the credit markets.
+"
+Person2,"That's really helpful color.
+"
+Person2,"And then I know you have been pretty clear that one of the drags on your market share gains in 2017 was some of the [ETFR] traders had really pulled back from the market.
+"
+Person2,"The stats I'm remembering, I think it was 40% of volume at peak, and it was down to more like 20% last year.
+"
+Person2,"Just curious how much of a pickup in volume you saw from these players given a resumption of some volatility in 1Q.
+"
+Person0,"It is absolutely better year-to-date than where we were, especially through the last 2 or 3 quarters of last year.
+"
+Person0,"And my own view is that we are starting to see the very beginning of global quantitative easing unwinding, and that is going to move more quickly over the next 3 or 4 quarters.
+"
+Person0,"I believe this is a significant change in the market environment versus where we have been over the last 8 or 9 years with consistent bond buying in all 3 regions from quantitative easing.
+"
+Person0,"And you see a very different posture from the Fed.
+"
+Person0,"You see important changes taking place with the ECB.
+"
+Person0,"And the Bank of Japan also wondering whether they need to keep up this level of stimulus.
+"
+Person0,"That to me is a very, very important change for the market that is likely to lead to higher rates and more volatility.
+"
+Person0,"And with volatility comes more [ETFR] activity.
+"
+Person0,"So in my opinion, the odds are greater that we're on a positive path there with participation from that client segment.
+"
+Person2,"And then just maybe one clarification for me, Tony, the 14% decline number you mentioned, was that in reference to the industry or your volumes.
+"
+Person1,"The 14%, what I referenced, was market volume.
+"
+Person1,"So what we're seeing coming through trades, what we're seeing coming through our Trax business across U.S. high-grade, high-yield, emerging markets and Eurobonds, we're seeing about a 14% decline in market volumes versus the first quarter.
+"
+Person0,"I would just add to that, until about a week ago, the direction of interest rates had reversed.
+"
+Person0,"The first couple of months of the year, Treasury 10-year yields went up about 40 basis points.
+"
+Person0,"And then beginning in around mid-March, when the trade war discussions really heated up, Treasury yields went the other way, and credit spreads did as well.
+"
+Person0,"So we had a short-term shift in the market environment, which also created a pause in some of the short and block activity that we have seen in Q1.
+"
+Person0,"Obviously, over the last week, the direction of rates has reversed yet again, and rates are moving higher.
+"
+Person0,"So the situation is pretty fluid, but we did have about a 3-week period there where the market environment was different than it had been through most of the first quarter.
+"
+Person0,"There has been a new issue technology broadly utilized by the dealer community for many years, and much of that is on Ipreo today, Patrick.
+"
+Person0,"So what we've seen in the media is all we know and it sounds like it's similar to what you're seeing, which is that some dealers have a different view of what that technology should look like and what the protocol should be.
+"
+Person0,"But we have been peacefully coexisting with new-issue syndicate technology for the entire existence of MarketAxess beginning in 2000.
+"
+Person0,"And there really isn't any overlap in the technology solution that's at work for underwriting in syndicate and the technology that we have invested heavily in for secondary trading.
+"
+Person0,"So I really don't see that as any significant change in the landscape between new issue technology and what we do.
+"
+Person0,"Yes, a lot of it is around the new obligations that investment managers have for regulatory reporting.
+"
+Person0,"And I'd say in the near term, that has been the biggest change, was the source of the client expansion that we mentioned in our prepared remarks.
+"
+Person0,"It's a pretty big change, right, because previously, with MiFID I, the nonequity reporting requirements resided purely with the dealers.
+"
+Person0,"Now they include investment managers.
+"
+Person0,"But a lot of that work, as you know, was going on throughout 2017, so that everyone would be prepared to comply beginning 2018.
+"
+Person0,"But it is a significant change for investment managers in terms of the reg reporting regime with MiFID II.
+"
+Person0,"The other part of it is around demonstrating analytical measurements for best execution.
+"
+Person0,"This opens up new data sales opportunities for us, which is one of the reasons that we're seeing consistent growth in data sales in Europe.
+"
+Person0,"The third part is the prevailing view in Europe now is that any low market impact trade is better off on a regulated trading venue where the regulatory reporting obligations shift to the venue.
+"
+Person0,"So we think that has had an impact on trading behavior for low market impact trades, resulting in the volume increases that we reported earlier.
+"
+Person1,"Patrick, there's so much at work and so many different levers that impact fee capture, and we're talking specifically about U.S. high-grade here.
+"
+Person1,"We could go back and look at longer-term trends and look at the yield curve compared to our fixed-rate fee capture as opposed to floating rate, no-fee capture.
+"
+Person1,"You're going to see that when the yield curve is flatter, clients are tending to trade shorter day paper, you're going to see the fee capture comes in a little bit.
+"
+Person1,"But I caution because you have lots of other factors at work.
+"
+Person1,"And I gave the sort of rule of thumb before on what movement and yield mean to us.
+"
+Person1,"And to get much more granular and isolate that, we can do it, but it's probably not telling the whole story.
+"
+Person0,"Even in the short term, Patrick, this month is a good example of all the different moving parts being fairly complicated to predict fee capture.
+"
+Person0,"Because while the Treasury curve is flattened, our fee capture is actually up due to fewer block trading programs being in the market versus what we saw earlier in the year.
+"
+Person0,"So there are a lot of moving parts, and the best we can do is be fully transparent with you on how our fee model works and report on a regular basis on how they're impacting average fee capture.
+"
+Person0,"But it is very difficult to predict one month to the next.
+"
+Person1,"So peak and fee capture, I mentioned this a little bit earlier.
+"
+Person1,"But third quarter 2010, our U.S. high-grade fee capture was at $205 per million.
+"
+Person1,"At that time, the years to maturity was about 9 years.
+"
+Person1,"And the 10-year Treasury yield was about 2.9 percentage points, so not much change in the 10-year yield versus where we were in the first quarter.
+"
+Person1,"Years to maturity were about 1.5 years longer, so that did influence fee capture when we reported the $205 per million.
+"
+Person1,"We -- the other difference would have been around our tiered fee plan where the first quarter this year, we had more trading occurring in larger trade sizes.
+"
+Person1,"But as I mentioned before, by far and away, the biggest difference between the peak and where we are today, which would be a postcrisis trough, but by far and away, the largest impact was dealer choice on the fee plan that they were on.
+"
+Person1,"And just to put it in perspective, if we were at $205 million in third quarter of 2010, we just reported $154 per million in the first quarter of 2018, $51 million difference, $35 per million has to do with the choice of plan that the dealers were on.
+"
+Person1,"And we've given a rule of thumb before.
+"
+Person1,"For every dealer that moves from the variable plan to the distribution fee plan at today's volume, it reduces the fee capture by about $3 per million.
+"
+Person1,"So you're looking at today, about $35 per million.
+"
+Person1,"That decline was because of the dealer choice of plan.
+"
+Person1,"And I'll just mention just briefly on sort of the precrisis trough, the biggest difference on the precrisis trough where we were down, if we adjust for the variable fee plan, we were down at something like $120 per million.
+"
+Person1,"The biggest difference there was 30% of our business at the time was floating rate notes, 30%.
+"
+Person1,"If you look at it today, it's 5% of our business floating rate notes, very short duration, the fee capture is appreciably lower.
+"
+Person1,"That is a big difference in fee capture.
+"
+Person1,"And the years to maturity were 5.5 years, and today we're at 7.5 years.
+"
+Person1,"So it's a different environment, and again, lots of moving pieces here.
+"
+Person1,"But today, it is different than 8 years ago when we reported the $205 million, and it's different than 12 years ago when we reported something appreciably lower than where we are today.
+"
+Person0,"We don't really have any changes in mind there, <UNK>.
+"
+Person0,"We like more dealers on the distribution fee plan because in our view, it gives them further motivation to have more of their trading conducted electronically on MarketAxess.
+"
+Person0,"So we are happy with the way that plan works.
+"
+Person0,"I think it creates good alignment between MarketAxess and the dealers.
+"
+Person0,"And we don't currently have any plans to change the distribution fee plan.
+"
+Person1,"Sure, sure, <UNK>.
+"
+Person1,"So we did make some changes effective January 1.
+"
+Person1,"And you know that the Eurobond space and Eurobond specifically, it is a competitive space.
+"
+Person1,"So we did reevaluate our pricing schedules in light of the increased transparency post-MiFID II, so we have a lot more visibility on where fees are in the market.
+"
+Person1,"So we did make some adjustments to put us in line with the market.
+"
+Person1,"And as Rick said, we don't want fees to be an obstacle to growing our business, and we don't want it to be an obstacle to growing our Eurobond business.
+"
+Person1,"There's lots of momentum with European clients.
+"
+Person1,"You saw the numbers we posted, it was $1.9 billion a day in average daily volume.
+"
+Person1,"The volume is up almost 30%.
+"
+Person1,"So you have to remember that, also that more than half of the volume from our European client is from emerging markets and U.S. credit.
+"
+Person1,"So it is a diverse set of bonds that they're trading.
+"
+Person1,"Very specifically on where we're coming out now on fee capture and we're 4 months into the changes we put in place January 1, we're in that $110 to $125 per million range.
+"
+Person1,"And -- but even there, I caution a little bit because it is maturity-based.
+"
+Person1,"It is size-based.
+"
+Person1,"We have different fees for European high-yield than we do for investment-grade.
+"
+Person1,"So I do caution.
+"
+Person1,"But the first 4 months here, the range have been about $110 to $120 per million.
+"
+Person1,"Okay.
+"
+Person1,"Yes.
+"
+Person1,"And so, <UNK>, probably we covered this in prior calls.
+"
+Person1,"I don't remember right now.
+"
+Person1,"But we have emerging market corporates and emerging market sovereigns, and that'll be the 2 big great points on fees.
+"
+Person1,"So typically, for emerging market corporates, it's $400 per million.
+"
+Person1,"And again, regardless of size, regardless of maturity, $400 per million.
+"
+Person1,"And then if you look at emerging market sovereign bonds, including most of what we do in local markets is the sovereign bond, it's $150 per million.
+"
+Person1,"And I tell you, we're completely transparent on this.
+"
+Person1,"We have posted our fee schedules under the new MTF rules.
+"
+Person1,"It is posted on our website.
+"
+Person1,"So you'll see that $400 for corporates, $150 for sovereign, that's how the fee plan works right now.
+"
+Person0,"And most local market trading is sovereign bonds.
+"
+Person0,"Thank you for joining us this morning.
+"
+Person0,"Enjoy the spring and we look forward to talking to you next quarter.
+"

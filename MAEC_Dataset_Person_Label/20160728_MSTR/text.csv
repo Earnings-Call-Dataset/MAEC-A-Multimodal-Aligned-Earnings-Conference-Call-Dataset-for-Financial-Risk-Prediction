@@ -1,0 +1,155 @@
+Person,Sentence
+Person1,"Yes, on that last one <UNK> for the most part they will recognize ratably over the term of the contract which could be somewhere three years, four years, five years it depends on the deal in the contract.
+"
+Person1,"Yeah, I think -- although we are hiring we've got our eyes on the bottom line pretty closely and we've managed to keep the overall operating expenses under control.
+"
+Person1,"So even when we're hiring we're not thinking that we're going to go ahead and drive costs without some visibility and clarity with regard to where the revenues going to come from.
+"
+Person1,"Our view in general is you ought to be a little operator enterprise software company with consistent operating margins.
+"
+Person1,"And so I would say that we wouldn't want them to be moving lower and we're not expecting that we're going to continue to hire and drive cost north unless we actually see revenues coming along for the ride.
+"
+Person0,"The other piece around operating margins and operating expenses in general is, again taking out that effective R&D capitalization.
+"
+Person0,"For the most part our costs were -- our operating expenses were exactly the same year-over-year.
+"
+Person0,"Our cost of revenues were a little bit higher year-over-year and piece of that is when you're able some of these deals that we talked about these OEM deals that get recognized ratably over time.
+"
+Person0,"We're still paying the commissions upfront.
+"
+Person0,"So there tends to be a little bit higher cost and a little bit of disconnect between the costs and the revenues.
+"
+Person0,"But we've been pretty disciplined about our costs and trying to keep them stable.
+"
+Person0,"And I think we'll continue to do so.
+"
+Person0,"Again as I mentioned in the prepared remarks, we saw an increase in headcount overall in the organization while keeping our operating expenses relatively flat.
+"
+Person0,"And again that I think is a sign of good financial discipline.
+"
+Person0,"So we had 17% operating margin in Q1 on a GAAP basis, 17% in Q2, Q3 and Q4 tend to be higher revenue quarters for us while Q4 especially.
+"
+Person0,"So we would like to see margin expansion overtime beyond where we were in the first half.
+"
+Person0,"I think we're on the version 9 platform for something in the order of like seven or eight years.
+"
+Person0,"It was a reasonably long period and so it had a chance to stabilize.
+"
+Person0,"With version 10 I think it's not uncommon when there is a dramatic new release of an enterprise software platform that it takes anywhere from 12 to 24 months before the product stabilize and season.
+"
+Person0,"So I think that we're moving into the zone right now 12 months after we released it where we could expect it to start to stabilize.
+"
+Person0,"We have factored that into our thinking.
+"
+Person0,"I certainly think that in the 2017 time frame we've got a great product to take out to the market and I would expect that we're going to find new applications, new customers and new sources of revenue from the product at that time.
+"
+Person0,"Right now we're thinking really hard about various ways that we can expand our addressable market and grow the business and some of our initiatives include our worldwide symposiums where we've got about 100 of them scheduled over the next 12 months and we're enthusiastic about those.
+"
+Person0,"The second is a jump start program in our education where we're actually going out and offering an intro to MicroStrategy in about 29 different metro markets around the world every month and that's a new program that we think will pay dividends for us.
+"
+Person0,"And we're reevaluating our desktop product and the way the way that we've been distributing it.
+"
+Person0,"We're considering some new innovative marketing programs to use the desktop product to seed both new accounts and existing accounts and other institutional areas like education and alike in order to create lift and a viral effect.
+"
+Person0,"We'll probably have more to say about that in time.
+"
+Person1,"If you look at the enterprise analytics business in general over the past 10 years the barriers to entry continue to go up and the demands of enterprise customers are becoming greater.
+"
+Person1,"If you are going to compete in the market, you need to be able to support relational data structures OLAP data structures, big data structures.
+"
+Person1,"You need to have deployability and security and scalability and of late you need to support more interfaces.
+"
+Person1,"10 years ago, you could have a product that ran on the web.
+"
+Person1,"Today you need a product that runs on a PC, a Mac, three different web browser, IOS and Android and you also need a brand new set of APIs, addressable APIs.
+"
+Person1,"And so what you had five, six, seven, eight years ago is probably obsolete.
+"
+Person1,"Now, if you look at the most successful embedded analytics tool I can remember was Crystal Reports.
+"
+Person1,"The guy who was at Crystal Reports who make that entire program successful is Tim Lang, he is our CTO, and he'll tell you that Crystal Reports lost their verb and their mojo many, many, many, many ago.
+"
+Person1,"So you've got lots and lots of organizations that embedded some kind of reporting a long time ago and they reaching end of life and as they reach the end of life in these various embedded repot solutions they start to look around and ask the question what's going to take me in to the next decade and I think MicroStrategy is really well positioned there because we basically support all the various document types.
+"
+Person1,"We check the box on banded reported and OLAP and analytics and transactions and alike but we've also supported all the interfaces.
+"
+Person1,"Five years ago you could have been an OEM and said we're going to providing reporting but only for the web and now your customers want the reporting on their Android tabs and want in their iPads and if you don't actually have that then you start to look not competitive.
+"
+Person1,"So the migration to mobile the expansion requirements combine with the degradation of the traditional enterprise reporting vendors 16 of them much have gone off to die and the balance of Oracle right and dozens of them -- in 98 there were 100 companies I competed against.
+"
+Person1,"Today 99 of them are gone.
+"
+Person1,"So they are embedded in other companies in the IBMs and the SAPs of the world et cetera and they don't quite have the same attention, they don't have a passionate CEO and a passionate senior management team that's going to bleed and invest and tinker to make them competitive.
+"
+Person1,"Someone who is sitting around saying how do we make sure that our reporting works against 50 petabytes on Spark because that's what you want to do to be competitive today.
+"
+Person1,"So I would say in general in the OEM business we've got big OEM customers coming to us and they've got increasing requirements on the front end and increasing functionality requirements and they've also got increasingly complicated data environments and their existing partner whoever they built their last generation of stuff on is dead or buried or dormant or just not living up to their requirements and they are staring at a very difficult situation or difficult problem which is are they going to rebuild or build their own analytics tools from scratch.
+"
+Person1,"Are they going to stick with maybe a geriatric tool, are they going to look for a new tool and when they look for a new tool we normally perform well because we've got a great embedded analytic solution and we can check all of their boxes and the management team is live and ticking and the CTO is alive and kicking and we've got aggressive enthusiastic plans to solve their cloud problem, their big data problem, their mobile problem, their productivity challenges.
+"
+Person1,"So I think that's really what fuels our strength in the OEM business.
+"
+Person1,"In the last three years we've been progressively more and more engaged at the detail level with every one of our customers and partners, listening very hard to what it is they want from us.
+"
+Person1,"And after the hundreds and hundreds of conversations that we've had I think it's strengthened our profits and resolve to be to be driving a single unified platform.
+"
+Person1,"I think our unique differentiating advantage of MicroStrategy is we're the one company that can deliver to the enterprise a platform that combines both analytics and mobility.
+"
+Person1,"And mobility is where all the hot new interesting exciting things are going on but analytics is the core source of all intelligence and competitiveness for many, many of these companies.
+"
+Person1,"So we're taking this single enterprise platform for analytics and mobility into the marketplace.
+"
+Person1,"I think that we see more demand for than ever.
+"
+Person1,"In our technology strategy, we're really focused upon the desktop and a unified toolset.
+"
+Person1,"And as our desktop product gets better I believe it will expand the footprint and the addressable market for us and allows us to go from the large long scale enterprise analytics deployments to get to them to the middle of the market to the departments to the quicker and more agile deployments.
+"
+Person1,"And I think that will increase the number of installations and probably increase the deal volume.
+"
+Person1,"And it may in fact cause the average size of the deal to decrease but it should expand the overall addressable market.
+"
+Person1,"So I'm enthusiastic about the opportunities that that we've got ahead of us, as we continue down the path of generating successful more powerful desktop tools.
+"
+Person1,"Well, I think we have many types of customers and so if they are a new customer then they really have their option to deploy via the desktop first or to deploy via the web or deploy via mobile or to deploy via custom application using one of our APIs.
+"
+Person1,"And I really think that that the decision of which of those to use is more function of the customer than it is whether they're not new or older the like.
+"
+Person1,"What we're really doing is increasing the options that they have at their disposal.
+"
+Person1,"I rarely see anybody in the marketplace that would say we really only want your platform for one of these things.
+"
+Person1,"It's very difficult to find a big customer, a big enterprise that doesn't have a suite of custom applications that they're going to code using Java and deploy via android iOS or the web.
+"
+Person1,"It's very rare they want also option and enterprise web reporting apps.
+"
+Person1,"They just want to deploy over the web.
+"
+Person1,"And it's -- and those same customers have mobile applications that they want to deploy and of course they have armies of desktop analyst that would like to get their hands on an agile data discovery titles.
+"
+Person1,"So you'll find all of those use cases.
+"
+Person1,"And look our best customer is one that is deploying dozens of applications on our architecture and we pride ourselves on giving them the choice.
+"
+Person1,"They can use any of those things and they can share common data model and the common object model and that's what makes us special.
+"
+Person1,"We made some great strides with Usher in version 10.4.
+"
+Person1,"On the back end we incorporated this Costco real-time eventing tool which means that we can now deliver real-time telemetry from the Usher digital wallet directly into our analytics logs and we can join it with enterprise data and that's an exciting feature.
+"
+Person1,"And on the front end, we upgraded the digital wallet so that we now have a fast batch capability and we can do things like automatically log into website just by having the mobile phone with the badge on it in our possession, you don't actually have to click or type or do anything.
+"
+Person1,"So people like the idea of having fast badge on the front end, they definitely like the idea of analytics that are real-time and can be integrated.
+"
+Person1,"We are still in a development phase with the Usher product but what we see is, is an increase in the number of pilots we're running and an increase in the enthusiasm of our customers.
+"
+Person1,"Especially, with regard to using the security wallet as a way to integrate their networks and mobile applications so that a salesperson can identify or can communicate with a customer quickly and also using that digital badge as a source of telemetry to actually enrich their analytics.
+"
+Person1,"So I think, as we go forward we will see more and more opportunities for us to deploy and I look forward to be able to discuss some big reference accounts sometime in the coming year.
+"
+Person1,"I want to thank all of you for your time today.
+"
+Person1,"We appreciate your support.
+"
+Person1,"We look forward to speaking with you in 12 weeks and for that have a good rest of the summer.
+"

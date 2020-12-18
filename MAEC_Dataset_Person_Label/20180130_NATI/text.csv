@@ -1,0 +1,441 @@
+Person,Sentence
+Person0,"Good afternoon.
+"
+Person0,"During the course of this conference call, we shall make forward-looking statements, including statements regarding future growth and profitability, future restructuring charges, estimated tax rate and our guidance for revenue and earnings per share for the fourth quarter.
+"
+Person0,"We wish to caution you that such statements are just predictions, and that actual events or results may differ materially.
+"
+Person0,"We refer you to the documents the company files regularly with the Securities and Exchange Commission, including the company's annual report on Form 10-K filed February 16, 2017, and our quarterly report on Form 10-Q filed October 31, 2017.
+"
+Person0,"These documents contain and identify important factors that could cause our actual results to differ materially from those contained in our forward-looking statements.
+"
+Person0,"With that, I will now turn it over to the Chief Financial Officer of National Instruments Corporation, <UNK> <UNK>.
+"
+Person1,"Thank you, <UNK>.
+"
+Person1,"Good afternoon, everyone, and thank you for joining our fourth quarter 2017 earnings conference call.
+"
+Person1,"Today I will begin with an update on our financial performance.
+"
+Person1,"Then <UNK> <UNK>, Executive Vice President of Global Sales and Marketing will share insights into our platform success, and Alex <UNK>, our President and CEO, will share his reflections on the business and outlook for 2018.
+"
+Person1,"Our key messages today are record revenue, operating profit and cash flow from operations, highest quarterly non-GAAP operating margin in 20 years and significant progress toward our operating model.
+"
+Person1,"I am really proud of our strong performance this quarter and for the year.
+"
+Person1,"We believe, our record revenue and operating income are a testament to the value we offer our customers and the dedication we have to our business model.
+"
+Person1,"For the full year 2017, GAAP revenue was a record $1.29 billion, up 5% over 2016.
+"
+Person1,"Our 2017 non-GAAP gross margin was 75%.
+"
+Person1,"For the full year, non-GAAP net income was $160 million, up 33% year-over-year with non-GAAP operating expenses nearly flat year-over-year at $193 million.
+"
+Person1,"A reconciliation of our GAAP and non-GAAP results is included in our earnings press release.
+"
+Person1,"For Q4, revenue was $350 million, an all-time record.
+"
+Person1,"In Q4, revenue grew 6.2% year-over-year.
+"
+Person1,"Non-GAAP gross margin in Q4 was 76.2%, up 40 basis points year-over-year.
+"
+Person1,"Our non-GAAP operating margin was 21%, increasing 280 basis points from a year ago.
+"
+Person1,"Due to the new U.S. corporate tax laws, in Q4, we recorded a net income tax charge of $70 million.
+"
+Person1,"As a result, our GAAP net loss was $24 million.
+"
+Person1,"The adjustments related to the new tax laws are not included in our non-GAAP results.
+"
+Person1,"Q4 non-GAAP net income was $56 million or $0.43 per share, which represent a 43% year-over-year increase.
+"
+Person1,"Moving to the balance sheet and capital management.
+"
+Person1,"We ended the quarter with cash and short-term investments of $412 million at December 31, 2017.
+"
+Person1,"Our capital allocation strategy will remain the same.
+"
+Person1,"During the quarter, we paid $27 million in dividends, and the NI Board of Directors have approved a dividend of $0.23 per share for Q1, an increase of 10% year-over-year.
+"
+Person1,"Our effective non-GAAP corporate tax rate for 2017 was 21%.
+"
+Person1,"And looking forward, based on our current understanding of the new tax laws, we estimate a 2018 tax rate of 17%, subject to the risk of adjustments.
+"
+Person1,"The Global PMI continued to be strong through Q4, 2017, indicative of a supportive growth environment.
+"
+Person1,"Industries such as semiconductor and automotive delivered strong growth, which also contributed to our results this past year.
+"
+Person1,"Now looking at Q4 orders.
+"
+Person1,"For Q4, the value of our total orders was up 5% year-over-year in US dollars.
+"
+Person1,"Included in that total is $4.4 million in orders received from our largest customer, as compared to $2.4 million in Q4 of 2016.
+"
+Person1,"Orders with a value below $20,000 grew 3% year-over-year in the fourth quarter.
+"
+Person1,"As an indicator of the strength of our systems business, we saw all orders over $20,000 up 7% year-over-year.
+"
+Person1,"Now I would like to make some forward-looking statements.
+"
+Person1,"We are optimistic about 2018, based on our market position, the improved PMI and the current trend in exchange rates.
+"
+Person1,"In Q1, we want to continue to deliver on our profit goals, and would also like to increase our backlog to improve efficiency and visibility.
+"
+Person1,"As a result, we currently expect total revenue in Q1, 2018 to be in the range of $305 million to $335 million.
+"
+Person1,"We expect GAAP fully diluted earnings per share will be in the range of $0.11 to $0.25 for Q1, with non-GAAP fully diluted earnings per share expected to be in the range of $0.19 to $0.33.
+"
+Person1,"With these forward-looking statements, I must caution you that our actual revenues, expenses and earnings could be negatively affected by numerous factors, such as any weakness in global economies, fluctuations in revenue from our largest customer, foreign exchange fluctuations, expense overruns, manufacturing inefficiencies, adverse effect of price changes and effective tax rates.
+"
+Person1,"In summary, I am proud of the progress we have made in improving our operating performance this year.
+"
+Person1,"We delivered to our financial goals, and remain committed to further progress in 2018.
+"
+Person1,"I want to thank our employees for executing on our key business strategies.
+"
+Person1,"This focus has delivered significant benefit to our financial results.
+"
+Person1,"Our employees drive the culture and the value of our brand, which has been and continues to be a major differentiator in our space.
+"
+Person1,"Together, we will continue to focus on our growth and profitability goals into 2018.
+"
+Person1,"We look forward to seeing you at the Morgan Stanley Technology Conference on February 26th in San Francisco.
+"
+Person1,"And I would now turn it over to <UNK> <UNK>.
+"
+Person2,"Thank you, <UNK>, and good afternoon.
+"
+Person2,"In Q4, we were very pleased to end the year strong with record revenue and operating income.
+"
+Person2,"Now, I'd like to provide some more commentary on our performance for the full year of 2017, starting with our products.
+"
+Person2,"In 2017, we saw revenue growth across our platform.
+"
+Person2,"PXI and modular instrumentation products had double-digit revenue growth and record revenue for a full year.
+"
+Person2,"We believe our modular approach continues to position us well to capitalize on the tech needs from our customers' emerging challenges, particularly in semiconductor, automotive, aerospace and research industries.
+"
+Person2,"As technology and financial pressures force reduced time-to-market, our open platform and the ecosystem that supports it, helps test teams in these industries meet their objectives with lower incremental cost.
+"
+Person2,"Turning to software.
+"
+Person2,"In 2017, we saw strong growth in new software seats and enterprise agreements, increases in software renewals and double-digit growth in online software sales.
+"
+Person2,"In 2017, we released significant enhancements to our software platform, including the launch of LabVIEW NXG, and introductions of numerous complementary products, that provide a higher-level starting point to streamline our customers' jobs.
+"
+Person2,"Through new software capability and the focus of our sales teams, we have been able to engage at more levels within our customers' organizations, from engineers improving product design and tests to executives driving cost and time-to-market goals.
+"
+Person2,"For example, SystemLink, which we announced at NIWeek 2017, delivers value at an enterprise level, lowering system maintenance cost through remote software deployment, data management and the diagnostics of distributed systems.
+"
+Person2,"In 2018, we will continue to expand the capabilities of LabVIEW and our entire software platform.
+"
+Person2,"Just last week, we released a newest version of LabVIEW NXG, covering more of our automated test customers' needs, including additional support for NI hardware, new ways to visualize test systems and data and improved software distribution.
+"
+Person2,"At NIWeek 2018, we will release new hardware and software to expand our platform, and we will demonstrate these new products through customer examples.
+"
+Person2,"Now looking at regional results.
+"
+Person2,"We saw 2017 revenue growth in all 3 regions and continued strong growth particularly in our Asia-Pacific region.
+"
+Person2,"I want to recognize the efforts of our sales and support teams globally for the strong finish in 2017.
+"
+Person2,"Through focused effort and delivering systems, you played a major role in contributing to our growth and profitability for the year.
+"
+Person2,"Now shifting to industry performance.
+"
+Person2,"I'll start with semiconductor.
+"
+Person2,"Our business in semiconductor performed very well with very strong growth from our semiconductor test systems.
+"
+Person2,"Disruptive technologies like 5G, the Internet of Things and autonomous vehicles are increasing the complexity and time-to-market pressures of semiconductor devices.
+"
+Person2,"With trial 5G service rolling out this February at the Winter Olympics in Korea and initial commercial deployments in the U.S. in late 2018, we expect this pressure will accelerate.
+"
+Person2,"As we continue to work with many of the leading companies making 5G a reality, our software-based modular approach enables us to add new capability to our platform, so our semiconductor customers can keep up with these trends.
+"
+Person2,"For example, our latest PXI source measure unit increases channel density by 6x, increasing the number of parallel measurements using the same space and power.
+"
+Person2,"For semiconductor manufacturers, this creates free capacity by an increasing throughput and helping them to lower their cost of test.
+"
+Person2,"Turning to automotive.
+"
+Person2,"We saw double-digit revenue growth in 2017.
+"
+Person2,"Increased expectations of safety, efficiency and connectivity are driving new technology into vehicles.
+"
+Person2,"NI customers like Audi, Valeo and ALTRANS are demonstrating how the NI platform can be used to validate and test new technologies that will enable advanced driver assistance systems and autonomous driving.
+"
+Person2,"Sensor fusion, for example, will be used to help vehicles make decisions by bringing together inputs from multiple sensors like cameras, RADAR and LIDAR to better describe the operating environment.
+"
+Person2,"By using the NI platform to simulate the real world input into these sensors, engineers can simulate and test multiple drive scenarios in the lab to get reliable and repeatable results.
+"
+Person2,"This test data informs design decisions and helps catch errors before moving into more expensive and time-consuming physical testing.
+"
+Person2,"With software controlling the powertrain, braking, acceleration, charging and hundreds of body and interior subsystems, being able to validate software control before production, is critical to meeting the deadlines and budgets of bringing new vehicles to market.
+"
+Person2,"In 2017, our aerospace business was essentially flat in a market that was challenged from budget delays and uncertainty in U.S. government spending.
+"
+Person2,"In areas like this where budgets are tight, the NI platform is increasingly differentiated.
+"
+Person2,"Our high productivity software, combined with modular and flexible hardware, helps our aerospace customers meet critical budget and timeline goals.
+"
+Person2,"Our success in each of these industries continues to be driven by the NI platform and the strong ecosystem of partners, suppliers and developers.
+"
+Person2,"We are strengthening that ecosystem to enable adoption of our platform in these target areas.
+"
+Person2,"By immersing ourselves in our customers' needs and focusing our efforts, we are providing unique value, leading to shared success with our customers.
+"
+Person2,"I'll now turn it over to Alec <UNK>.
+"
+Person3,"Thank you, <UNK> and <UNK>.
+"
+Person3,"As I reflect on 2017, I am proud of what we accomplished.
+"
+Person3,"Stated simply, we set goals to drive revenue growth and to make significant progress towards our operating model.
+"
+Person3,"And through discipline and focus, we met those goals.
+"
+Person3,"Practically, this meant dedication and hard work at all levels of the company.
+"
+Person3,"And I want to thank our employees and our partners for embracing of this growth mindset.
+"
+Person3,"Some of these changes have challenged us to think and behave differently, and we are seeing the payoff.
+"
+Person3,"Based on the solid foundation within our organization, I believe we have a great opportunity to continue to drive both growth and improve profitability in 2018.
+"
+Person3,"After 24 years at NI, it\
+"
+Person4,"As we head into this new year and also into 2019, top line growth kind of comes as one of the most important asks of questions from our clients.
+"
+Person4,"So I want to get your view on where do you see the most conviction in terms of new orders and new demand.
+"
+Person4,"Perhaps, new spending budgets, so that, that helps us kind of model and calibrate all of the growth opportunities you have for this year.
+"
+Person3,"Sure, <UNK>.
+"
+Person3,"Thanks for your question.
+"
+Person3,"Obviously, we are very pleased to deliver record revenue and see an acceleration of revenue growth in 2017.
+"
+Person3,"And as you know, as a company, our objectives have always been to balance that value and need for organic revenue growth, with delivering industry-leading profitability.
+"
+Person3,"So we're pleased with the progress we've made in 2017 on both those fronts.
+"
+Person3,"Now looking forward, we obviously see some tailwinds that are benefits for our business as we look at the full year of 2018.
+"
+Person3,"Certainly, we've seen a stronger overall industrial economy.
+"
+Person3,"We've seen moves in currency markets that are in our favor.
+"
+Person3,"We see strong operational results in the areas we focus our investments areas like semi, like 5G and like automotive.
+"
+Person3,"So we're very optimistic about the outlook for 2018.
+"
+Person3,"But as we look at Q1, our goal here will be to ensure we're hitting our profitability goals.
+"
+Person3,"And that we're taking advantage of opportunity, perhaps, to raise some backlog and build some visibility for later in the quarter -- later in the year, excuse me.
+"
+Person4,"Perfect.
+"
+Person4,"Quick follow on for <UNK> would be on the margin targets.
+"
+Person4,"Any updates and thought process on heading towards the margin goals for this year.
+"
+Person1,"<UNK>, yes, we're not changing the operating model that we talked about in NIWeek in May of '17.
+"
+Person1,"So continuing to focus on the leverage model that we laid out and driving those goals as we stated at that time.
+"
+Person1,"So no change at this point.
+"
+Person3,"We'll be happy to (inaudible) 2019 at NIWeek in May.
+"
+Person5,"Alec, <UNK> and <UNK>.
+"
+Person5,"I guess, first on housekeeping side, number of employees, actually in the quarter, and average order size.
+"
+Person1,"<UNK>, we ended the year with about 7,400 people, 7,412 to be exact.
+"
+Person1,"It's down almost 2% year-over-year.
+"
+Person1,"And average order size in Q4 was $6,100, up 5% year-over-year.
+"
+Person5,"Great.
+"
+Person5,"And I guess, <UNK>, if I look at the midpoint of the revenue and EPS guidance from March quarter, it would seem that your forecasting OpEx increased sequentially, although lower than revenue.
+"
+Person5,"And then I would guess a step down in gross margin sequentially, perhaps, on basis points or more.
+"
+Person5,"So I guess, am I kind of reading the tea leaves correctly.
+"
+Person5,"And then, while you address the OpEx trends in Q1, could you also, perhaps, speak to what you're budgeting to for headcount trends in 2018.
+"
+Person1,"Sure, <UNK>.
+"
+Person1,"As we're looking at the Q1 model, we've got a 7% growth built in at the midpoint of our guidance for Q1, which continues that growth trajectory that we saw coming out of Q4, 2017.
+"
+Person1,"We're building in a headcount model that stays relatively flat for the year and aligning areas with the areas of growth for the company in 2018.
+"
+Person5,"Okay.
+"
+Person5,"And then, <UNK>, you spent quite a bit of time in the prepared remarks on software and progress that you've made in your platform, especially, with NXG launch last year.
+"
+Person5,"Can you remind us the percentage of revenue contribution coming from software currently.
+"
+Person2,"Yes, again, let me comment on our software business overall.
+"
+Person2,"I mentioned it, as you said, in the prepared remarks.
+"
+Person2,"Really pleased with a strong quarter and strong year for software.
+"
+Person2,"If I look at key indicators like we've shared before like seat growth, it was the best growth we've had in software seats in over 5 years.
+"
+Person2,"So really pleased with that.
+"
+Person2,"NXG was both a successful for and also a reason for us to engage our customer base, both new customers that can come onto our software platform as well as existing customers and we can add value.
+"
+Person2,"So we saw strength in areas like renewals and areas like enterprise agreements that indicate good adoption from our existing customer base as well.
+"
+Person2,"So overall, a really good quarter and a good year for software for 2017.
+"
+Person5,"And the percentage of revenue coming from software.
+"
+Person2,"Overall, software, including the services that go along with it, is somewhere in that 20% range, <UNK>.
+"
+Person2,"And that continues as we enter 2018.
+"
+Person5,"Okay.
+"
+Person5,"And then just last one, on 5G, we've had some competitors speak to near triple-digit order growth in the 2017 time frame off of a healthy but low base.
+"
+Person5,"You spoke to increased pressure on semi customers and commercial rollouts that are on the horizon next in 2018.
+"
+Person5,"So I'm curious if you could speak to whether you're seeing similar growth in orders for your 5G business.
+"
+Person5,"And are these orders longer term in duration, and perhaps, contributing to your goal to raise backlog and visibility for later in the year.
+"
+Person3,"Yes, let me, let me, let me comment on 5G, a little bit of color and come to your question.
+"
+Person3,"So first of all, as you know, <UNK>, we've had a lot of success, and we continue to monetize the research and prototyping part of 5<UNK>
+"
+Person3,"I believe that you'll be at Mobile World Congress in March.
+"
+Person3,"You'll see a lot of examples of that prototyping and research area.
+"
+Person3,"And that positioned us very well, for what will ultimately be the larger opportunity which is in test systems.
+"
+Person3,"At this point in time, we're deeply engaged with lead users on these test systems.
+"
+Person3,"There's a lot of unsolved technical challenges in how to test these 5G devices.
+"
+Person3,"And so that Lead User work that we're doing with you is very, very important.
+"
+Person3,"From a -- and by the way, I should say that we think our platform has lent itself very, very well for that.
+"
+Person3,"The software content of our platform and the modularity of it, at this point in evolving standard, those are really important attributes and something that's changing pretty rapidly still at this point in time.
+"
+Person3,"As we look forward in kind of characterizing the opportunity going forward, we think that 2018 would be a year where we start to see initial design wins in the testing of semiconductor devices.
+"
+Person3,"And that the scale of that is going to be, when it comes to sort of volume, will be a few years off still, when that becomes a more significant part of our revenue opportunity.
+"
+Person3,"And that's not a big -- you asked the question specifically about backlog, that's not a big factor in that particular area.
+"
+Person5,"Okay, that's helpful.
+"
+Person5,"Just last question would be on that -- with the first drop of the 3GPP standards [extend] a year, and we have the Release 15 coming up mid-year, have you changed -- or have you seen any change in order flow or an increase in order flow post some of these standards releases or I guess add to the bigger one later this year.
+"
+Person3,"No, not at this time.
+"
+Person3,"I think our outlook remains consistent with what we stated in the past.
+"
+Person1,"Rick.
+"
+Person1,"This is <UNK>.
+"
+Person1,"There was significant growth in the orders over $100,000.
+"
+Person1,"So kind of double-digit look there at 13%.
+"
+Person1,"And so as we continue to shift towards a system solution and the customer focus that we have in the growth areas, we're seeing that payoff in that space.
+"
+Person2,"Sure.
+"
+Person2,"Rick, this is <UNK>.
+"
+Person2,"Let me take a shot at that.
+"
+Person2,"So certainly the over $100,000 is across a lot of different industries.
+"
+Person2,"Certainly, our STS business does fall into that category, but so do a lot of complex automotive test systems and other areas of, our PXI modular instruments business, for example.
+"
+Person2,"I will just comment a little bit on semiconductor, just to put a little more color on that, because we highlighted that as a big area of success.
+"
+Person2,"And it's -- as we've stated before, [we're used] across the flows, so it goes from characterization and validation applications all the way through people using our platform to build their own production systems through STS.
+"
+Person2,"And we saw growth across all of that.
+"
+Person2,"Now to your question about $100,000, quite a few of those systems fall in that $100,000-bucket, even in the characterization laps of an RF component, that's certainly going to be a system that would fall into that category.
+"
+Person2,"So it is becoming a more broad part of our, may be, call our systems business across different industries.
+"
+Person2,"Sure, Rick.
+"
+Person2,"If I look at Q4 '17, it was about $5 million.
+"
+Person2,"And it was up from roughly $3.5 million a year ago.
+"
+Person2,"As you know, we have a very good relationship with our customer in a broad set of applications.
+"
+Person2,"It is always tricky at this time of the year to know exactly how the revenue stream from that customer will come forward.
+"
+Person2,"It's much generally clearer in April than it is in January.
+"
+Person2,"But broad scale expectations, I don't anticipate having a significant impact on our overall rate of growth in 2018.
+"
+Person3,"Yes, <UNK>, certainly, you know, my standard answer to that question at this point is that everything we know is contained in guidance.
+"
+Person3,"But when we look at factors that influence our outcome.
+"
+Person3,"Those that are under our control we feel really good about our position, and those that are external are certainly tending towards the positive.
+"
+Person3,"And so when we look at the midpoint of our guidance, it is for an improvement in revenue growth, obviously it went from Q3 to Q4 to Q1.
+"
+Person3,"The midpoint of earnings is a 25% EPS increase or so year-over-year, which would continue to (inaudible) saw in last year.
+"
+Person3,"So we're feeling pretty good about the business.
+"
+Person3,"And I think, it's prudent at this point in time to potentially be planning to increase our visibility as we move later into 2018.
+"
+Person3,"So we will be talking more about that in April.
+"
+Person1,"Rick, I'll take that.
+"
+Person1,"This is <UNK>.
+"
+Person1,"The goal of the business is to continue focusing on the areas that drive our growth and profitability.
+"
+Person1,"So we will always be looking at how to rebalance our resources throughout the year.
+"
+Person1,"We look at factors like attrition, performance management, and if necessary some restructuring.
+"
+Person1,"That's all baked into our Q1 guidance, and the savings that we are receiving from the actions that took place in 2017, are all built in to the operating model and will continue to execute that operating model as we laid that out in May of '17.
+"
+Person1,"Correct.
+"
+Person1,"Where we're rebalancing it all the time.
+"
+Person2,"Certainly that operating model obviously for 2017 delivered significant operating leverage.
+"
+Person2,"And it implies significant operating leverage at mid- to high-single digit revenue growth for 2018.
+"
+Person2,"And we are [flat leveraged] to help our gap in our operating profitability.
+"
+Person2,"And as we said our goal is to bridge the remainder of that gap in 2018.
+"
+Person3,"Thank you, very much, for joining us today.
+"
+Person3,"Just reiterate, an invitation to our Investor Conference at NIWeek in May.
+"
+Person3,"We look forward to seeing you there.
+"
+Person3,"Thank you.
+"

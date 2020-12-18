@@ -1,0 +1,131 @@
+Person,Sentence
+Person0,"So <UNK>, let me -- I think there are some qualifications to your understanding of the story of Provigent and I can only speculate based on what we've learned in the market.
+"
+Person0,"We don't know the internal goings-on inside Broadcom at that time.
+"
+Person0,"The first thing is that our understanding was that that one major customer was a source of the biggest revenue for them at that time, that was ramping, who later went to an internal silicon solution.
+"
+Person0,"So that resulted in a decline in the revenues of that particular big customer, while they were ramping revenues at other customer.
+"
+Person0,"So as a result, they dipped down before they again started picking up in revenues.
+"
+Person0,"I think that is the big disconnect in the perception of people.
+"
+Person0,"So they actually have been successful in securing design wins with Tier 1 OEMs now that are ramping.
+"
+Person0,"Secondly, one of the reasons they were not successful is that for the longest and the strategy was to bundle their baseband with the RF radio solution that was really subpar in its performance.
+"
+Person0,"When that was coupled in that manner, the OEM's interest in buying both the radio and their baseband was limited until they changed strategy and decided to promote only the baseband.
+"
+Person0,"So what you have an opportunity here is, on the other hand, MaxLinear has been promoting only the radio solutions because we wanted to get to the baseband in a sequential manner on the modem side and the real customer pull was why don't you guys develop the radio first and then we'll come to the baseband.
+"
+Person0,"So what the customers have done in the background is that, they have been qualifying the Broadcom baseband, while they have been working engaged very actively with MaxLinear's radio.
+"
+Person0,"So in that sense, it really works out very nicely when both these assets come together.
+"
+Person0,"So that may explain the contradictions or gaps in your understanding of how it played out and what it's going to play out in the future.
+"
+Person0,"So together, these are going to be revenue synergies and the Tier 1 OEMs that both of us, each are working with will become part of our end customer base for us.
+"
+Person1,"Yes.
+"
+Person1,"I would add a little bit to that <UNK> too.
+"
+Person1,"I think that, also in the process of doing our diligence on these assets, it became pretty clear to us, there is a tremendous amount of IP that's been developed by this very talented team in Israel.
+"
+Person1,"And it actually was a very good thing for us to be able to do this diligence and do this deal because it would have been a very, very, very significant development undertaking internally to MaxLinear to do this organically.
+"
+Person1,"I think we've been very successful because we've been focused on the RF development for this backhaul market, but there is a -- I think people could easily underestimate how much work it really took on the development side to get the platform to where it is within Provigent.
+"
+Person1,"So we're very, very excited to be able to take kind of the running start and it's been the tremendous amount of technology that's been developed and move that forward by combining with RF.
+"
+Person1,"So it's a very, very nicely fitting asset from that perspective.
+"
+Person1,"I'm just very glad that we actually didn't have to develop all that technology from scratch.
+"
+Person0,"So other thing, I think we've talked a lot about the microwave backhaul, I think we should not underestimate the value and importance of the millimeter wave baseband modem solutions that Broadcom has developed, as you want to go to multiple gigabits to a maximum even 10 gigabits per second data waves or wireless backhaul and then later the evolution of 5G and small cells and the densification of the networks, the millimeter-wave backhaul is going to be equally if not even more important than microwave backhaul and the market size for that is significantly higher.
+"
+Person0,"So, I think that we're acquiring the millimeter-wave backhaul solutions that we don't even have into the MaxLinear portfolio in terms of both the radio and the baseband modems, and what we get with the Broadcom acquisition position in addition is the future road map items of millimeter-wave backhaul modem and the millimeter-wave radio solutions narrow band, which we will eventually be able to move to CMOS and come up with a single-chip solution for the entire market.
+"
+Person0,"The combination of both assets, right.
+"
+Person0,"If you look at the press release, it clearly states that if the RF transceiver access assets and the RF microwave backhaul radio and the baseband modem assets combined, it's $700 million, of which about $400 million to $500 million is the access side on the 4G market, and then the remaining is the microwave backhaul at that point in time.
+"
+Person0,"And the way it goes to $700 million to $1 billion is the number of transceivers in the wireless access that keep increasing as you go towards massive MIMO and in each radio head, you'll have multiple radio transceivers.
+"
+Person0,"On the backhaul side, you again have a dual carrier multiple MIMO systems also being developed for greater capacity in the microwave links, leading up to millimeter-wave links, that results in a $1 billion SAM we talked about.
+"
+Person0,"And beyond that, in the 5G market, it's a whole different ball game, because, I can get into the details, but suffice it to say that you're going to have beam-forming arrays and massive MIMO with 16 antennas -- elements for each sectorized antenna inside a microwave base station.
+"
+Person0,"So if you just do the math, it just exponentially grows, but that's beyond 2020.
+"
+Person0,"So that is how we built up the SAM internally using third-party data and our own data, so that's how you get to these multi-billion dollar market opportunity in the long-term.
+"
+Person0,"Thanks, <UNK>.
+"
+Person1,"Yes, <UNK>, no.
+"
+Person1,"As I mentioned, so we've got a -- we closed the quarter with $166 million plus in cash and cash equivalents, so we're going to fund it off of the balance sheet.
+"
+Person1,"And given the guidance that we just provided, we'll be generating again pretty strong cash flow in Q2.
+"
+Person1,"So even once these two -- now, when the Broadcom deal closes on June 30 or July 1 on the quarter boundary, if you take in consideration that that cash comes out of that $80 million, so we will be going out of pocket about $101 million.
+"
+Person1,"We should still end Q2 or kind of around that time frame once these deals are funded that again approaching $100 million of cash.
+"
+Person1,"So we don't have any liquidity constraints or concerns.
+"
+Person1,"As you know, we have no debt.
+"
+Person1,"So we feel very good about our position to continue looking at strategic ways to accelerated entry in some of these new markets as well.
+"
+Person0,"So, okay, Tory.
+"
+Person0,"The [better] thing of DOCSIS 3.1 is the primary player who will be deploying the DOCSIS 3.1 data very, very aggressively will be first Comcast, right.
+"
+Person0,"And if you think of Comcast volume of about 6 million to 8 million units of data gateways as of -- for this year, let's say, we expect sometime in the Q3-Q4 time frame, around 10% or more we expect in volume quantities to be DOCSIS 3.1.
+"
+Person0,"Now, on a run rate basis, maybe it's higher ending the year, but we don't expect to see more than 10% deployments at this stage of conservative forecasting on DOCSIS 3.1.
+"
+Person0,"Can it be higher.
+"
+Person0,"Yes.
+"
+Person0,"But I think that next year, it really takes off pretty rapidly, because you will be ending the year on a fast clip.
+"
+Person0,"So now how steep will be the hockey stick, I don't know at this stage, but we will have more clarity as we enter the next earnings call.
+"
+Person0,"Yes.
+"
+Person0,"It's looking like a pretty good, strong growth.
+"
+Person0,"I think if you go to Europe and you look at the ads from Sky, the Q platform, that's all MaxLinear front-end.
+"
+Person0,"In fact, 100% of the front end of the satellite gateway platforms in the Sky in Europe -- in the UK and we will have growth well beyond that.
+"
+Person0,"Then, even North America, a major satellite operator is deploying 4K satellite gateways on their main box and I think this keeps continuing growing actually.
+"
+Person0,"Actually, we are quite excited that finally satellite gateway is growing very steadily and we hope to continue it to grow into next year and beyond.
+"
+Person0,"It's a three-year cycle is the typical way we forecast the ramps.
+"
+Person0,"So we should see strong growth as even more new operators come online.
+"
+Person0,"Thank you.
+"
+Person0,"Alright.
+"
+Person0,"Thank you, everyone.
+"
+Person0,"I think with that, we would like to end the call here.
+"
+Person0,"I would say, thank you, operator, and also I want to remind everyone that we will be participate in the Deutsche Bank 9th Annual Semiconductor Conference on May 19 in San Francisco, The B.
+"
+Person0,"Riley 17th Annual Investment Conference on May 25 in Los Angeles, the Benchmark Company One-on-One Conference on June 2 in Milwaukee, the Stifel 2016 Technology, Internet and Media Conference June 7 in San Francisco and the William Blair's 36th Annual Growth Stock Conference on June 16 in Chicago.
+"
+Person0,"So we hope to see many of you there.
+"
+Person0,"With that, I want to thank all of you for joining us today and we hope to and look forward to reporting on our progress to you in the next quarter.
+"
+Person0,"Thank you.
+"

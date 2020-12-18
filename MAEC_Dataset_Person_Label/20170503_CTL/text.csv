@@ -1,0 +1,621 @@
+Person,Sentence
+Person0,"Thank you, Brian, and good afternoon, everyone, and welcome to our call today to discuss CenturyLink's First Quarter 2017 results released earlier this afternoon.
+"
+Person0,"The slide presentation we'll be reviewing during the prepared remarks portion of today's call is available in the Investor Relations section of our corporate website at ir.
+"
+Person0,"centurylink.com.
+"
+Person0,"At the conclusion of prepared remarks today, we will open the call for Q&A.
+"
+Person0,"As you move to Slide 2, in the deck, you'll find our safe harbor language.
+"
+Person0,"We will be making certain forward-looking statements today, particularly as they pertain to guidance for second quarter and full year 2017; the pending Level 3 transaction; and other outlooks in our business.
+"
+Person0,"So we ask that you review our disclosure found on this slide as well as in our press release and in our SEC filings, which describe factors that could cause our actual results to differ materially from those projected by us in our forward-looking statements.
+"
+Person0,"As we move to Slide 3, we ask that you also note that our earnings release issued earlier this afternoon and the slide presentation and remarks made during this call contain certain non-GAAP financial measures.
+"
+Person0,"Reconciliations between these non-GAAP financial measures and the most comparable GAAP financial measures are available in our earnings release and on our website at ir.
+"
+Person0,"Now turning to Slide 4.
+"
+Person0,"Your host for today's call is <UNK> <UNK>, Chief Executive Officer and President of CenturyLink.
+"
+Person0,"Joining <UNK> will be <UNK> <UNK>, CenturyLink's Chief Financial Officer; and also available during the question-and-answer portion of today's call will be <UNK> <UNK>, CenturyLink's President of Enterprise Markets; and <UNK> <UNK>, CenturyLink's President of Consumer Markets.
+"
+Person0,"Our call today will be available for telephone replay through May 10, 2017, and a webcast replay of our call will be available through May 24, 2017.
+"
+Person0,"Anyone listening to a taped or webcast replay or reading a written transcript of this call should note that all information presented is current only as of today, May 3, 2017, and should be considered valid only as of this date regardless of the date heard or viewed.
+"
+Person0,"Now as we move to Slide 5, I will turn the call over to <UNK> <UNK>.
+"
+Person0,"<UNK>.
+"
+Person1,"Thank you, <UNK>, and thank you for joining us today on our call.
+"
+Person1,"As we begin our discussion, I want to remind us all about the significant changes occurring within our business as we move through the remainder of 2017.
+"
+Person1,"As announced this week, we close the sale of our data centers and colocation business Monday, May 1, and we continue to expect the close of the Level 3 acquisition by the end of September.
+"
+Person1,"Both of these transactions aligned with our strategy announced in late 2015 focusing on first -- focusing first on network and taking a less capital-intensive approach to complementary offerings, such as hosting, cloud, IT and Managed Services.
+"
+Person1,"And we remain committed to our network-focused strategy as we look to the future.
+"
+Person1,"So the company we expect to be by late 2017 will clearly be much different than we were coming into this year.
+"
+Person1,"I'll discuss these 2 transactions in more detail a little later.
+"
+Person1,"So as we move to Slide 6, I want to cover a few highlights for the quarter, as well as some important trends in our business.
+"
+Person1,"Our first quarter total revenues were below our expectations as we had lowered data integration, and IT and Managed Services, however, results for core revenue, operating cash flow and adjusted diluted earnings per share were all within our guidance and expectations.
+"
+Person1,"When you look a little deeper, we believe the trends we are seeing in our business offer strong validation of the rationale for our investment in high-quality, high-bandwidth, broadband network infrastructure, as well as for the sale of our data centers and colocation business and for our pending acquisition of Level 3.
+"
+Person1,"We believe these steps will position CenturyLink well to become one of the leading network providers to enterprise customers in the world.
+"
+Person1,"Enterprise high-bandwidth data services revenues for the quarter -- first quarter 2017 are up more than 4% year-over-year and up 2%, sequentially.
+"
+Person1,"If you adjust for a first quarter 2016 contract termination fee and the transition of a large enterprise customer from Ethernet to dark fiber in recent months, enterprise high-bandwidth data services revenue increased 6.5% year-over-year.
+"
+Person1,"So our team is performing well in this part of the enterprise sector, and we remain confident that the future growth opportunity for these services will remain significant for a number of reasons.
+"
+Person1,"First, the average size of new opportunities and deals closed are increasing as we see more enterprise customers increasingly take advantage of the efficiencies and security our products and services offered.
+"
+Person1,"Also our increased focus on customer retention is improving churn, and we are seeing lower credits and adjustments.
+"
+Person1,"In addition, CenturyLink continues to be one of the leaders in network virtualization for the deployment of software-defined networking and Network Function Virtualization capabilities, SDN and NFV, which provides efficiencies for customers and a better customer experience.
+"
+Person1,"Also our strong network and cybersecurity capabilities position us as a leader -- leading provider of security services that is so important to enterprises.
+"
+Person1,"And lastly, third-party research reports forecast mid-single-digit compounded annual growth rate in U.S. enterprise high-bandwidth data services through 2021 and mid- to upper single-digit compounded annual growth rates in U.S. Enterprise Managed Network Services through 2021.
+"
+Person1,"These forecast gives us even more confidence and the opportunity to continue to grow our Enterprise business in the months ahead.
+"
+Person1,"They are high-bandwidth data services revenue stream represents approximately 70% of our total strategic enterprise revenues and over 80% excluding colocation revenues.
+"
+Person1,"But it is important to note that following the close of the pending acquisition of Level 3, we anticipate this revenue stream will represent a much higher percentage of our total strategic enterprise revenues.
+"
+Person1,"And our combined company will have greater scale along with broader and enhanced solutions that should position us to drive future growth in high-bandwidth data services revenue.
+"
+Person1,"Second, our IT services revenue, which is primarily driven by IT consulting, cybersecurity, IT services management and integrated SAP solutions is growing.
+"
+Person1,"While we do not necessarily expect to be the industry leader in IT services, they are a significant value add to our enterprise network offers and they open the door to opportunities to build stronger relationships with enterprise customers.
+"
+Person1,"In addition, they provide a low capital growth vehicle for our company.
+"
+Person1,"On the other hand, I am not pleased with the performance of our managed hosting business, with sale of our data centers and colocation business created some market confusion and sales momentum disruption in this area of business.
+"
+Person1,"However, we do expect to turn this around in the months ahead.
+"
+Person1,"We recently completed upgrades to improve the capabilities and performance of our dedicated hosting/cloud environment and introduced our new cloud application Manager Suite.
+"
+Person1,"This service enables us to help customers better manage their public, private and multi-cloud environments and it enhances our capabilities to assist businesses in their digital transformation.
+"
+Person1,"Next, consumer broadband subscriber trends have been improving the last several quarters and improved again this quarter.
+"
+Person1,"The key thing to note here is that in areas where we are investing in higher speeds, we are growing customers and average revenue per user.
+"
+Person1,"Speed enhancements remains a priority as we enter the first quarter with nearly 9.2 million 40 megabit and higher addressable locations and more than 3.5 million 100 megabit and higher addressable locations, representing an increase of approximately 200,000 addressable locations in each tier during the quarter.
+"
+Person1,"Consumer video revenues were down slightly year-over-year primarily due to the restructuring of one of our satellite TV agreements that lowered satellite video revenues in the first quarter by about $15 million.
+"
+Person1,"So we expect second quarter broadband and video subscribers and revenues to be negatively impacted by a typical second quarter seasonality.
+"
+Person1,"And we do expect to see improvement in consumer broadband and video subscribers and revenues in the second half the year.
+"
+Person1,"This improvement is expected to be driven by simplifying offers, customer experience improvements, continued progress on our broadband speed enhancement roadmap and a broader range of video offerings.
+"
+Person1,"Another important thing to note from the chart on the slide is that more than 75% of our strategic revenues today are driven by enterprise high-bandwidth data services and consumer broadband services and we expect this percentage to increase over time.
+"
+Person1,"Next, as you know, revenues from legacy services, primarily Switchboard services and low bandwidth data services, have been declining for a number of years due to regulatory change, wireless displacement and technology transition to an IP-enabled services.
+"
+Person1,"Our focus has been on managing these legacy service revenues and related cost within for the cash flows they provide, enabling us to invest in our strategic services -- service offerings and effectively compete in today's marketplace.
+"
+Person1,"We believe the decline in our legacy revenues has been better than most of our peers and we will continue to manage these revenue streams to drive cash flows to invest in strategic services that meet the needs of the Enterprise and Consumer customers.
+"
+Person1,"However, taken altogether, the performance trends in our strategic services that are the growth drivers of our business give us confidence that we have the foundation to deliver good growth and revenues and cash flows.
+"
+Person1,"In addition, these results are key strategic -- in our key strategic service revenues give us even greater optimism regarding the significant value creation opportunity associated with the Level 3 transaction.
+"
+Person1,"Now let's move to Slide 7, I want to provide a few additional thoughts on the completion of the sale of our data centers and colocation business, as well as our continued progress regarding the Level 3 acquisition.
+"
+Person1,"First, we are pleased to have completed the sale of our data centers and colocation business on May 1.
+"
+Person1,"We retained our managed hosting and cloud assets and have entered into a strategic relationship with the buyer to continue to offer colocation services, enabling us to offer our customers a full suite of managed services, including network, colocation, hosting, cloud, and IT services.
+"
+Person1,"CenturyLink received approximately $1.86 billion of net pretax cash proceeds subject to certain post-closing adjustments, and an approximately 10% equity stake in Cyxtera Technologies, the new company formed by BC Partners led consortium.
+"
+Person1,"The net after-tax cash proceeds, which are anticipated to be approximately $1.75 billion are expected to be used to partly fund the acquisition of Level 3.
+"
+Person1,"Now moving to the pending Level 3 acquisition, we're making good progress in obtaining the necessary approvals to complete the transaction.
+"
+Person1,"As I am sure, you are aware, shareholders of both companies approved the merger in March at each company's respective special meeting of shareholders and several states have already approved or cleared CenturyLink's pending acquisition of Level 3.
+"
+Person1,"Additionally, our integration planning process is going very well.
+"
+Person1,"Part of this process is continuing to evaluate the potential annual run rate cash synergies we believe can be achieved from this strategic acquisition.
+"
+Person1,"And we are highly confident that we will be able to achieve the $975 million annual run rate operating and capital cash synergies target we provided when we announced the transaction on October 1 -- October 31 of last year.
+"
+Person1,"Additionally, late last week, we announced the new senior leadership team for the combined company that will report to me effective at the time of closing.
+"
+Person1,"I believe we have assembled an incredibly talented and experienced executive team that is well positioned to lead the combined company post-closing and drive our increased enterprise focus.
+"
+Person1,"The sale of our data centers and colocation business and acquisition Level 3 reflect our pivot back to focusing on network and taking a capital-light approach to complementary IT and Managed Services.
+"
+Person1,"We believe this combination of CenturyLink and Level 3 will create significant benefits and growth opportunities for all stakeholders, including customers, employees and shareholders.
+"
+Person1,"This combination will enable us to build scale and deliver agile network-based projects, products and services to customers.
+"
+Person1,"We really will be creating a new chapter with the combined company.
+"
+Person1,"We also believe this strategic combination will significantly improve CenturyLink's growth profile, it will better position the combined company to improve its revenue trends and growth.
+"
+Person1,"We expect it to be accretive to operating cash flow and generate more than 10% growth and free cash flow per share in the first full year post-closing, including synergies as realized and including integration cost.
+"
+Person1,"And we expect to drive significant improvement in free cash flow per share in subsequent years.
+"
+Person1,"Finally, I want to say a word about full year 2017 guidance.
+"
+Person1,"As you know, during our fourth quarter earnings call in early February, we provided full year 2017 guidance that included the expected results of the data centers and colocation business for the entire year since the actual closing date of the sale had not been finalized.
+"
+Person1,"At that time, we provided monthly revenue expense and free cash flow estimates for the data centers and colocation business.
+"
+Person1,"So if you adjust the previously provided full year 2017 guidance for the May 1 close, by reducing operating core revenues by $400 million, cash expenses by $200 million to $240 million, free cash flow by $40 million $80 million and the depreciation expense about $150 million, we currently expect full year 2017 results to come in near the lower end of the adjusted guidance range.
+"
+Person1,"Now I'll turn this call over to <UNK> to discuss the results for the first quarter in more detail and review our second quarter guidance.
+"
+Person1,"<UNK>.
+"
+Person2,"Thank you, <UNK>.
+"
+Person2,"Over the next few minutes, I'll review the first quarter results and provide an overview of second quarter 2017 guidance we included in our earnings release issued today.
+"
+Person2,"Please note that I'll be reviewing some of the results, excluding special items, as outlined in our earnings release and associated financial schedules.
+"
+Person2,"Slide 9, today, CenturyLink reported first quarter results with core revenues, operating cash flow and adjusted diluted EPS all within our previously provided guidance ranges.
+"
+Person2,"The operating revenue came in below the guidance range primarily due to lower-than-expected data integration and IT and Managed Services revenues.
+"
+Person2,"First quarter operating revenue on a consolidated basis was $4.2 billion, a 4.4% decrease from first quarter 2016 operating revenues.
+"
+Person2,"Core revenue, which is defined as strategic revenue plus legacy revenue, was $3.8 billion for the first quarter, a decline of 4.4% from the year-ago period.
+"
+Person2,"Operating income was $631 million for first quarter 2017.
+"
+Person2,"We generated operating cash flow of approximately $1.53 billion for the first quarter and achieved an operating cash flow margin of 36.4%.
+"
+Person2,"Cash expenses for the first quarter declined $40 million year-over-year, primarily due to lower salaries and wages expense related to the headcount reduction in fourth quarter 2016.
+"
+Person2,"Free cash flow defined as operating cash flow less cash taxes paid for taxes, interest and capital expenditures along with the cash impact of pension, OPEB cost, stock-based compensation and other income was $492 million for the quarter.
+"
+Person2,"Diluted earnings per share for the first quarter was $0.30, a decrease from $0.44 in the year-ago period.
+"
+Person2,"Moving to Slide 10 and our enterprise segment.
+"
+Person2,"Under the realignment announced last quarter, the Enterprise segment has been redefined to exclude IT and Managed Services revenue.
+"
+Person2,"All historical periods have been restated to reflect this change.
+"
+Person2,"In first quarter, the enterprise segment generated $2.36 billion in operating revenues, which decreased 3.5% from the same period a year ago.
+"
+Person2,"First quarter enterprise strategic revenues were $1.08 billion, an increase of 2.9% compared to first quarter a year ago, driven primarily by the continued growth in high-bandwidth data services revenues.
+"
+Person2,"Legacy revenues for the segment declined 9.3% from first quarter 2016 due primarily to a continuing decline in the voice and low-bandwidth data services revenues.
+"
+Person2,"Data integration revenues increased slightly year-over-year, and total Enterprise segment expenses were basically flat from first quarter 2016.
+"
+Person2,"Now turning to Slide 11 in the Consumer segment.
+"
+Person2,"This segment generated $1.41 billion in total operating revenues, a decrease of 5.2% from first quarter 2016.
+"
+Person2,"Consumer strategic revenues declined 1.3% year-over-year to $764 million due primarily to the restructuring of the satellite video contract.
+"
+Person2,"Legacy revenues for the Consumer segment declined 9.2% from first quarter 2016, primarily due to access line declines.
+"
+Person2,"Operating expenses were basically flat compared to the same period a year ago.
+"
+Person2,"Now turning to Slide 12.
+"
+Person2,"For second quarter 2017, we expect operating revenues of $4.07 billion to $4.13 billion; core revenues of $3.66 billion to $3.72 billion; and operating cash flow between $1.4 billion and $1.46 billion.
+"
+Person2,"Adjusted diluted EPS is expected to range from $0.46 to $0.52.
+"
+Person2,"As a result of the colocation sale, which took place on May 1, 2017, second quarter results will have approximately $100 million lower total and core revenue and approximately $50 million to $60 million less cash expenses when compared to first quarter 2017.
+"
+Person2,"Excluding this impact, CenturyLink expects growth in strategic revenues in second quarter 2017 to be offset by anticipated declines in legacy revenues, resulting in lower operating revenues and core revenues compared to first quarter 2017.
+"
+Person2,"The company expects second quarter 2017 operating cash flow to be lower than first quarter 2017 due to the impact of the sale of the colocation business, the decline in core revenue and higher seasonal cash expenses.
+"
+Person2,"And as <UNK> discussed previously, we expect our full year 2017 results to be near the lower end of the adjusted guidance range.
+"
+Person2,"We expect our dividend payout ratio to be in the mid- to high 70% range for 2017.
+"
+Person2,"While we continue to face pressure related to strategic revenue growth and our legacy revenue declines, we're confident in our business and our ability to improve the revenue and operating cash flow trajectory over time.
+"
+Person2,"Now I'll ask the operator to begin the question-and-answer portion of the call.
+"
+Person1,"Yes, so <UNK>, so we're currently estimating that we'll be about $100 million to $140 million below the previous forecast for the first half of '17.
+"
+Person1,"About $40 million of the variance is related to the Consumer segment.
+"
+Person1,"Some of which is related to the restructuring of the video contract that we described, as well as a little bit lower broadband revenues.
+"
+Person1,"We expect that to turn around in the back half of the year and I'll talk about that in a minute.
+"
+Person1,"Of that amount, $40 million -- $20 million relates to broadband, again, $10 million in IPTV and $10 million to Consumer Board.
+"
+Person1,"Approximately $30 million of the $100 million to $140 million relates to IT and Managed Services and about $45 million to lower-margin data integration revenues.
+"
+Person1,"So what gives us the confidence to believe that we'll see -- this implies improved revenue performance in the second half of the year.
+"
+Person1,"And let me talk through for just a minute why we believe that, that will happen.
+"
+Person1,"Basically, the improvement that we think we'll see in the second half from the first half is about $70 million related to high-bandwidth data services revenue.
+"
+Person1,"This should result from improved sales closed as we saw increased sales in the first quarter and expect the second quarter of sales closed be our highest level since 2015.
+"
+Person1,"Additionally, we continued to see improvement in our churn rate and reduce customer credits.
+"
+Person1,"So we anticipate a significant portion of the second half improvement to be driven by the improvement in the churn rate.
+"
+Person1,"We also expect about $70 million of improvement in IT and Managed Services due to the interest in a new product that we have rolled out, the Cloud Application Manager.
+"
+Person1,"And in closing the sale of our data centers in colocation business we believe will help because it will eliminate some of the market confusion that we've had about our staying in the managed services and IT services business.
+"
+Person1,"Also traction by our separate overlay sales force that we put in place in late fourth quarter 2016, and then recent work that we've done to reinvigorate the sales by the top salespeople in our network sales group, who previously had sold managed services and IT services.
+"
+Person1,"We also expect about $90 million of improvement in our data integration revenue performance in the second half of the year.
+"
+Person1,"But as you know, this is low margin revenue.
+"
+Person1,"So if we don't achieve this, it will only have a minimal impact on our operating cash flow.
+"
+Person1,"Yes, <UNK>, they're moving forward.
+"
+Person1,"I think we have 14 state approvals or confirmations so far.
+"
+Person1,"They're going well.
+"
+Person1,"Nothing that's of really major significance there.
+"
+Person1,"There is always going to be an outlier or 2, and you just can't control the regulatory process.
+"
+Person1,"But we're -- right now, we don't see anything that could -- anything that we believe will stop us from closing by the end of September.
+"
+Person1,"The DOJ process we've had our second request for information there.
+"
+Person1,"We filed those answers to their requests.
+"
+Person1,"We that's going well.
+"
+Person1,"We've don't expect any major issues there.
+"
+Person1,"There is certainly a possibility we can close earlier than September but as you know, the regulatory process and all we can do is just aggressively seek those approvals and provide information they want and the good thing is that this is not impacting the consumer business.
+"
+Person1,"So we should have less concern from the state regulators than you would in a normal or we would be buying a consumer assets for our business.
+"
+Person2,"Yes, so, Mike, with respect to the dividend payout ratio, I mean we're comfortable where it is.
+"
+Person2,"Again, with the closing of the Level 3 transaction and the additional free cash flow per share, we will see associated with that, even including the integration cost, we'll see -- we should see the dividend payout ratio decline at least after 2018.
+"
+Person2,"And again, I think when we announced the transaction, we said we expected about a 10-point improvement in the dividend payout ratio, I believe, in the first year after we closed.
+"
+Person1,"And Mike, one of the things we're doing on the legacy losses we're attaching voice to our bundles.
+"
+Person1,"It's on the high-speed Internet bundles, as well as our video bundles, and we have to think that's is going to have some.
+"
+Person1,"I think it is partially the reason we are ahead and a little above the industry in terms of -- better than industry in terms of those legacy losses.
+"
+Person1,"And so we'll keep aggressive marketing in those areas, and we have a strong retention plan as well going on, which we think has been effective and we have improved that in the recent months oh that's why we're optimistic we can improve that some.
+"
+Person1,"I'll start with the question on the BDS.
+"
+Person1,"We have not really quantified it, but it's -- the vast majority of our markets will be considered competitive.
+"
+Person1,"So with that in mind, there should be very little impact on us going forward.
+"
+Person1,"So we feel very -- we're very positive about it.
+"
+Person1,"It could have been pretty negative for us, a provisional proposal by the previous Chairman, but we are very pleased where we're headed there.
+"
+Person1,"And it's really -- we're pleased with this, the recognition by Chairman Pai and the FCC of the reality of the marketplace, competitiveness in the marketplace and also the recognition of what significant harm can be done to investment in infrastructure and future services for customers by overregulation, overzealous regulation.
+"
+Person1,"So we feel good about where we're headed with BDS.
+"
+Person1,"And I -- actually, in other FCC regulatories who's facing the FCC.
+"
+Person1,"The -- on SD-WAN, we believe that is a product that we can grow, and that it can -- we're not -- we don't -- aren't concerned that it's more of a competitive -- competitor's advantage.
+"
+Person1,"We see it as an advantage for us.
+"
+Person1,"Our customers are wanting that product.
+"
+Person1,"It's -- it won't be -- we sell the product, it's not going 100% from MPLS to SD-WAN.
+"
+Person1,"It's usually hybrid network solution.
+"
+Person1,"So we are confident that we can compete in that arena, and we have as a good a technology there as anybody in the world, we believe, right now, and have more coverage than most as for as 60% of our major IP Pops are virtualized now, are capable of SDN and virtualized services.
+"
+Person1,"And we believe that it's going to be a real win for us.
+"
+Person1,"We believe when we complete the full buildout of that by 2019, we could see significant impact, positive impacts on capital expenditures.
+"
+Person1,"We already said at least $200 million reduction in our annual CapEx from the buildout of these virtualized networks.
+"
+Person1,"So we are very excited about the opportunities here.
+"
+Person2,"And <UNK>, I guess, on the last question, the only thing I could add to the response to <UNK>'s was basically, I mean, we've seen the improved sales closed during each successive month, during 2017.
+"
+Person2,"January started off a little bit slow, a little bit slower than we had thought it would be.
+"
+Person2,"But it picked up somewhat in February, March.
+"
+Person2,"We closed more sales than we did in February.
+"
+Person2,"And again, in April, it looks like that's going to be a good month as well.
+"
+Person2,"So we think we're building momentum with respect to the network sales.
+"
+Person2,"And we're also seeing some of that momentum in the IT and managed services as well, especially with the cloud application manager product that we have.
+"
+Person2,"And that's really, I think, reinvigorated a lot of our salespeople in terms of being able to help them have a product that we can serve our customers with that allows them to move their workloads from one cloud provider to another, from home premises to all premises.
+"
+Person2,"So I think that we're more confident now that we have products that we can use to develop the revenue stream, and we -- that sales force, the separate sales force that we have, they're doing a good job getting traction.
+"
+Person2,"We have just put them in place and it took a little while to get them up to speed, but they are making progress now, as are some of the top salespeople in the network side that all sell IT services and Managed Services products.
+"
+Person2,"That's really why we're more confident now.
+"
+Person2,"Why we have came down somewhat from a quarter ago when talked is basically more or less just due to kind of the slow January that we had and a little bit slower February than expected.
+"
+Person2,"But again, we think we're making progress there.
+"
+Person2,"So <UNK>, we had about a $15 million onetime positive adjustment to expenses in the first quarter related to taxes, property taxes and sales and use taxes.
+"
+Person2,"From the standpoint of going from first quarter expenses to second quarter expenses, first, you need to take about $55 million out related to the colo sale.
+"
+Person2,"We had some merit increases that will add about $10 million to expense.
+"
+Person2,"We -- operating taxes, again, that onetime benefit will not be there, so that will be up probably $15 million or so.
+"
+Person2,"We're also, as a result of the colo sale, we're leasing space from the provider -- from the data center owner to basically provide the Managed Services and the cloud products that we have, that's about $15 million of an increase in the second quarter.
+"
+Person2,"And then there were just numerous other small increases that make up the balance.
+"
+Person3,"Yes, this is <UNK> <UNK>.
+"
+Person3,"So we are still in the process of technically trialing the product in 4 markets.
+"
+Person3,"It's going well.
+"
+Person3,"We do plan to launch the service in early -- early next quarter.
+"
+Person3,"And we will look at the results.
+"
+Person3,"We'll evaluate the pricing strategy, the packaging strategy and then we will phase-in the launch over the rest of the year.
+"
+Person3,"What we've done in Prism TV is we did a rate increase in February of this year to capture the higher-value customers.
+"
+Person3,"And so we're targeting those customers differently than we have in the past to maximize the overall customer lifetime value.
+"
+Person3,"So our video strategy will be one of offering multiple options to the customers based on their purchasing needs.
+"
+Person1,"Yes, so, first of all, I guess, in the consumer business, you're right, there is continued pressure there.
+"
+Person1,"But we think we can turn the strategic revenue portion of the consumer business around, which essentially is broadband, by the network expansion that we're doing.
+"
+Person1,"And so for instance, we have -- we now have about 3.5 million living units that can get a 100 meg or better versus 2.6 million a year ago.
+"
+Person1,"We've had an increase in the customers who can get 40 megabits or higher.
+"
+Person1,"That's increased to about 9 million from about 8.3 million a year ago.
+"
+Person1,"So we continue to do more and more from a network standpoint to provide our customers with the ability to get higher speeds.
+"
+Person1,"More of our customers are taking 40 megabits or how higher now.
+"
+Person1,"Those customers have a less propensity to churn and they pay a little bit more than our traditional customers that are starting to roll off that basically had pretty good discounts when they signed up.
+"
+Person1,"So we think we'll see the ARPU change over time and start increasing on the broadband side, and we think we can take some market share away by some of the offers that we're making.
+"
+Person1,"And on BDS, it -- well, we were concerned about the headwind.
+"
+Person1,"It's a major concern we had.
+"
+Person1,"We don't know if we'll ever see BDS as a huge upside opportunity for us right now.
+"
+Person1,"But it certainly took away the headwind that we were concerned with, what was irrational regulation in this competitive market.
+"
+Person1,"So that's the biggest benefit to us right now.
+"
+Person3,"So on the new satellite TV agreement, so we did receive an increase in our onetime payments that we receive the when we sell that service.
+"
+Person3,"So there will be some offset in the coming months because we are selling more of that product year-over-year.
+"
+Person3,"So it won't be $15 million a quarter.
+"
+Person3,"It will step down a bit.
+"
+Person1,"Regarding the potential conflict in sales force, Level 3 and CenturyLink, that is the #1 focus of our integration work, really is try to avoid any impact on revenues, on sales, on the sales process.
+"
+Person1,"Obviously, we have -- share some of our customers.
+"
+Person1,"In many cases, we're working with our customers -- we plan the work when we can, work with our customers in that issue.
+"
+Person1,"We can't do that until close.
+"
+Person1,"But we can begin working on sales with our sales force, rationalizing the number of salespeople we have in certain areas.
+"
+Person1,"It is a major, major focus of ours and the one we'll be spending probably more than any place else.
+"
+Person1,"We have a lot of great sales folks out there and we're going to try to put them in the best places where they can be successful and work with them going forward.
+"
+Person1,"So we need all the good salespeople we can have out there.
+"
+Person1,"We are just going to work with them to divide up the accounts and share the accounts in some cases to make them -- to optimize those folks who are so capable at working with our customers.
+"
+Person4,"So this is <UNK> <UNK>.
+"
+Person4,"With regard to the larger peers wrestling with some softness in the large enterprise marketplace.
+"
+Person4,"We're actually seeing some strength in the large enterprise marketplace.
+"
+Person4,"For example, our MPLS is up 6.1%, and that's better than the marketplace in general.
+"
+Person4,"And so, we really do see strength in that high-end data services for our enterprise customers.
+"
+Person4,"And we don't see that abating anytime soon.
+"
+Person4,"And the reason I say that is that we're -- we had an extraordinarily strong March, as <UNK> indicated, and we're seeing that same strength in the sales activity going forward in April, as well as looking out to towards the second quarter.
+"
+Person2,"Let me add to that, <UNK>.
+"
+Person2,"I'll just tell you that we have not seen the softness in the market maybe some have seen.
+"
+Person2,"But we have not -- we have now also not seen the great improvement in the market than we would expect with the improved economy.
+"
+Person2,"So we're still waiting to see.
+"
+Person2,"We're still seeing elongated decision-making processes.
+"
+Person2,"We haven't seen a jump in demand like we would hope to see.
+"
+Person2,"So we're hoping we'll see that and maybe it's lagging the overall improvement of the economy, but that's still an upside for us possibly if -- as businesses begin to have more confidence in the better economy.
+"
+Person3,"Yes, regarding consumer.
+"
+Person3,"So in the first quarter, the majority of our benefit we saw was in churn reduction versus inward activity.
+"
+Person3,"As you recall, last year, we made some changes to our credit policies, which lowered our overall inward.
+"
+Person3,"For the second half of the year, our anticipation is that we'll continue to see those improvements in churn but we'll also drive more inward activity as a combination of the result of the increased broadband enablement that we spoke of, as well as we're trialing some new pricing activities that in early stages, we're seeing improvement in our inward activity as a result of the simplified pricing offers.
+"
+Person3,"Yes, so if you recall last August when we reported second quarter earnings, <UNK> walked you through our 3-year -- actually 3.5-year broadband build plan.
+"
+Person3,"We're just now 3 quarters into that plan and we are on track.
+"
+Person3,"Really, the determination on future capital allocation will rely on our success in penetrating those network investments.
+"
+Person1,"<UNK>, I think -- our target is having the total sales design -- redesign complete by January 1.
+"
+Person1,"That's not going to be an easy process.
+"
+Person1,"That's an aggressive process.
+"
+Person1,"But we think we can do that and it's -- there are always concerns about when you make those kind of changes, bring 2 companies together, where you're the only 2 companies in a building or in a business.
+"
+Person1,"So those -- we'll try to work to deal with those issues.
+"
+Person1,"But we're really confident that the quality of people we have in this process, with the collaboration that's going on already, of course, we cannot talk about individual customers or customers -- what we're serving customers, we are making progress probably ahead of the pace normally than I've seen in our previous transactions in terms of identifying opportunities and getting the leadership in place to address the issues that could cause problems, as I'm sure everyone is concerned when you bring 2 companies.
+"
+Person1,"You don't want to lose momentum, and that's going to be our objective.
+"
+Person2,"So <UNK>, the credits that I mentioned earlier is part of the conversation associated with why we're comfortable being able to increase revenue on the Enterprise side in the second half, really are credits related to business customers, and some of those credits have been related to some network outages that we had in the past.
+"
+Person2,"We haven't had those outages here recently and things have improved quite a bit.
+"
+Person2,"Credits related to other things as well, related to managed services, and those have declined quite a bit, and we're paying a lot more attention and have increased the level of the person that has approve a credit and so they are really vetted quite a bit more now than they were in the past, I think.
+"
+Person2,"So we're just seeing our credits that we're giving to business customers for different reasons decline and expect to see that to continue to decline over the second half.
+"
+Person2,"And again, a big part of the improvement, we think, we'll see too is coming from reduced churn that we're seeing in the Enterprise segment.
+"
+Person2,"In terms of the reorg structure and how long we think it will take us to show traction.
+"
+Person2,"I don't think it will take that long.
+"
+Person2,"I mean, typically, we are -- do a great job and with the leaders that we have responsible for the integration, they are making a lot of headway in terms of basically how the integration is going to take place.
+"
+Person2,"We typically get good synergies, quite a bit of synergies in the first year or so, first 6 months to 1 year.
+"
+Person2,"I think we expect to get 80% of the operating expense synergies over the course of the first 3 years, but a fair amount of that will be pushed into the first year as we integrate the 2 companies, as we integrate the IT systems, things like that.
+"
+Person2,"The ERP system, for instance, we're pretty well on track to hopefully get that changed to where we'll be on one ERP system, except for certain of the overseas areas, international areas by January 1.
+"
+Person1,"<UNK>, the -- what we are seeing, we mentioned earlier, we're building capacity.
+"
+Person1,"We're seeing growth.
+"
+Person1,"We're seeing high take rates on the higher speeds.
+"
+Person1,"So we're winning the marketplace when we have those speeds out there.
+"
+Person1,"The question, as you say, is capital allocation.
+"
+Person1,"That good thing is that a lot of these builds we're doing, not only benefit consumer, they benefit the businesses as well, SMB, and they put fiber closure to large businesses, where we can locate Pops that are just hundreds of feet away.
+"
+Person1,"So to the extent we can build for both Consumer and Business, it's helpful.
+"
+Person1,"Maybe we share that cost to those fiber builds.
+"
+Person1,"That's a positive.
+"
+Person1,"We always have the opportunity to consider monetization but right now, it's -- that business is driving good cash flow.
+"
+Person1,"We have a shared-network complexities we'll have the deal with, but it is, as always, an option to look.
+"
+Person1,"But right now, we -- the cash flows (inaudible) of that business are strong.
+"
+Person1,"The other thing that we've done on the SMB is, basically, as part of the reorganization that we did earlier, where we separated out the consumer group and enterprise group.
+"
+Person1,"SMB had really been served in the past by our folks that ran our call centers.
+"
+Person1,"And what we're doing now is we've moved that business and responsibility for those customers over to the enterprise segment.
+"
+Person1,"So there are more dedicated resources now that are trying to win the hearts and minds and wallet share of the SMB customers.
+"
+Person1,"The -- regarding the structure, we really like the GM structure that Level 3 has in place, and we are going to plan to really build more around that.
+"
+Person1,"We've got -- we still have our focus on SMB and other areas, but we like the general -- that local presence, really, is what it provides and we think that makes a lot of sense.
+"
+Person1,"We have done a lot of work around that and so to the extent that we look at the structure, the org structure around enterprise, we expect to go more with the Level 3 plan there, which works for us because it's really been successful, I think, in getting in the local market in the past.
+"
+Person1,"And one thing I'd just point out here again, the impact of this business.
+"
+Person1,"Today, our biggest issue at CenturyLink has been the legacy revenue.
+"
+Person1,"We're losing close to $600 million a year in legacy revenue.
+"
+Person1,"We know that we can do very little off that.
+"
+Person1,"With this -- and when we get -- and the same -- what that requires us to reduce work -- to reduce cost in the legacy areas in the business while trying to drive growth in strategic revenue.
+"
+Person1,"With this acquisition, we're going to -- our legacy revenue will move from 50% of total revenue to 35% of core revenue.
+"
+Person1,"So from 50% to 35%, a huge impact.
+"
+Person1,"And what it does, in essence, it gives us a much stronger opportunity to grow revenue and eventually cash flows, as well, as a result of the acquisition.
+"
+Person1,"So a lot of benefits here, including just bringing 2 great sales forces together and the scale we get, along with the cash -- the operating cash flow accretion we expect to see and free cash flow accretion we see.
+"
+Person3,"The over-the-top experience is honestly, a skinnier bundle from what they have today with linear Prism TV service.
+"
+Person3,"It will be at a lower rate and it will not require a truck roll.
+"
+Person3,"So it will be something that the customers can sign up online, get their service immediately.
+"
+Person3,"They can add-on other genre packages.
+"
+Person3,"So they can buy as little or as much as they would like based on the different package offers we have.
+"
+Person3,"And it will be targeted to those more cost-conscious, tech-savvy type of users.
+"
+Person3,"Yes, so if you recall, last year, what we communicated was by the end of '19, that we would have over 10 million addressable units at 40 meg, which is about 85% of our market, about 42% or 11 million would have 100 meg and then we'd have about 3 million that would have 1 gig or above.
+"
+Person4,"About 20%.
+"
+Person3,"And we're on track for that build.
+"
+Person1,"Thank you, Ray.
+"
+Person1,"And I am pleased with the progress we continue to make in transforming CenturyLink into a leading global enterprise network provider.
+"
+Person1,"We're encouraged by the continued demand from businesses and consumers for advanced network services and the related trends we are seeing in our business, along with the associated opportunities to provide IT and managed services to help enterprise customers enable their digital transformation.
+"
+Person1,"And we believe our continued progress in the virtualization of our network, enhancement of our broadband speeds and improving our customer experience through simplification and automation help position us to drive future growth in our business.
+"
+Person1,"Additionally, the completion of the sale of our data centers and colocation business and the pending acquisition of Level 3 move us forward toward our goal of being one of the world's leading network providers and provide us, I believe, a lot of opportunity to create a really growth-oriented company here that's one of the leading companies in the world in terms of providing networking services to the enterprise customers.
+"
+Person1,"So thank you for your participation today, and look forward to talking with you in the weeks ahead.
+"

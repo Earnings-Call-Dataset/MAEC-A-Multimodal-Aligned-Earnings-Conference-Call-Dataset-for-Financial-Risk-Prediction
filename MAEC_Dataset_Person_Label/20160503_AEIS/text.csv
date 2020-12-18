@@ -1,0 +1,373 @@
+Person,Sentence
+Person0,"Thank you, operator, and good morning everyone.
+"
+Person0,"Welcome to Advanced Energy's first-quarter 2016 earnings conference call.
+"
+Person0,"With me on today's call are <UNK> <UNK>, President and CEO, and <UNK> <UNK>, Executive Vice President and CFO.
+"
+Person0,"By now, you should received a copy of the earnings release that was issued yesterday afternoon.
+"
+Person0,"For a copy of this release, please visit our website at advancedenergy.com.
+"
+Person0,"Before we begin, I would like to mention that AE will be presenting at the J.
+"
+Person0,"P.
+"
+Person0,"Morgan Global Technology Media and Telecom Conference on May 24 in Boston, Massachusetts, and the D.
+"
+Person0,"A.
+"
+Person0,"Davidson Eighth Annual Technology Forum on June 1 in New York.
+"
+Person0,"As other events occur, we will make additional announcements.
+"
+Person0,"Now I'd like to remind everyone that, except for historical financial information contained herein, the matters discussed on this call contain certain forward-looking statements subject to known and unknown risks and uncertainties that could cause actual results to differ materially from those expressed or implied by such statements.
+"
+Person0,"Statements that include the terms believe, expect, plan, objective, estimate, anticipate, intent, target, goals or the like should be viewed as forward-looking and uncertain.
+"
+Person0,"Such risks and uncertainties include, but are not limited to, the volatility and cyclicality of the markets we serve, the timing of orders received from our customers, and unanticipated changes in our estimates, reserves or allowances, as well as other factors listed in our press release.
+"
+Person0,"These and other risks are described in Forms 10-Q, 10-K and other forms filed with the SEC.
+"
+Person0,"In addition, we assume no obligation to update the information that we have provided you during this call, including our guidance provided today in our press release.
+"
+Person0,"Guidance will not be updated after today's call until our next scheduled quarterly financial release.
+"
+Person0,"And just as a reminder, in today's call, we will refer both to GAAP and non-GAAP results.
+"
+Person0,"Non-GAAP measures exclude the impact of stock-based compensation, amortization, restructuring, acquisition related costs, and other significant nonrecurring items.
+"
+Person0,"A reconciliation of non-GAAP income from operations and per share earnings is provided in the press release table.
+"
+Person0,"We will be referring to earning slides posted on our website as well as this morning in the Investor Relations section of the website.
+"
+Person0,"And with that, I'd like to turn the call over to <UNK> <UNK>.
+"
+Person0,"<UNK>.
+"
+Person1,"Thank you <UNK>.
+"
+Person1,"Good morning, everyone, and thank you for joining us for our first-quarter conference call.
+"
+Person1,"All references to financials reflect the continuing operations of our core precision power business.
+"
+Person1,"With our business now focused solely on precision power, we began 2016 with a strong start and a clean slate.
+"
+Person1,"Revenue grew 19% sequentially to $103 million, as semiconductors rebounded in the first quarter.
+"
+Person1,"This led to 75% growth in non-GAAP EPS over the fourth quarter.
+"
+Person1,"We ended the quarter with $184 million in cash, having generated $13.5 million as we prepare for another quarter of growth.
+"
+Person1,"All of this sets the stage for a year of building momentum as we execute on our growth strategy, and progress towards our three years aspirational goals to grow revenues to between $600 million and $700 million, drive non-GAAP EPS of $3.00 to $3.50 per share, and generate cash of $250 million to $300 million.
+"
+Person1,"As we lay the foundation for future success in pursuit of these goals, our growth strategy is focused on three main tenets -- growing our presence in the semiconductor market, expanding into adjacent applications in thin films industrial power, and increasing our TAM through the penetration of specialty industrial power solutions.
+"
+Person1,"This quarter, we again won a substantial portion of the designs we targeted.
+"
+Person1,"Across our certain markets, we saw success in advanced applications over various precision power technologies, particularly RF.
+"
+Person1,"We grew our served available markets by expanding the applications of our technology into new areas.
+"
+Person1,"All this was made possible by our ongoing investment in R&D and dedication to staying at the forefront of power conversion technology by providing the most advanced high-value solutions that are critical to our customers' success.
+"
+Person1,"In semiconductors, advanced memory took center stage as the market invests in the transition to 3D NAND along with the move to ever smaller nodes and 60 nanometers logic.
+"
+Person1,"These investments are contributing to the substantial growth, especially in edge applications across the wafer fab equipment market.
+"
+Person1,"Having established AE as a leading supplier over the last few years, our strength in plasma-based applications and our RF products that enable our leading ongoing wins and share gains.
+"
+Person1,"In our industrial applications, we are focused on expanding in select regions with our organic and inorganic products to gain adoption in new applications and geographies.
+"
+Person1,"This quarter, we saw a diverse collection of wins expand our two industrial categories, thin-film industrial power and specialty industrial power.
+"
+Person1,"Let me begin with thin-film industrial power, which includes hard coatings, PV solar sales, low E and architectural glass coatings, flat-panel display and optical coating.
+"
+Person1,"First, we won a new position on an advanced audit expansion program.
+"
+Person1,"Next, in our hard coatings business, we had some sizable wins for our Solvix products outside of the EMEA region, which has been an ongoing strategic priority for us.
+"
+Person1,"In our specialty industrial power applications, which include high-voltage modular systems, power control modules, and thermal and instrumentation solutions, we won a majority of the project-based programs that we targeted this quarter.
+"
+Person1,"In our PCM business, we are starting to see some recovery in regions outside of Europe such as China and North America.
+"
+Person1,"In high-voltage, we achieved a number of design wins, further enabling our expansion and diversification, including a design for scanning electron microscope applications in Japan.
+"
+Person1,"We also won a design in pyrometry for the solar cell manufacturing market.
+"
+Person1,"With a newly designed industrial pyrometer, we are expanding our SAM beyond our leading position in semiconductors to include temperature measurement applications for industrial markets.
+"
+Person1,"Each quarter, we'll highlight a variety of design wins to demonstrate our progress in penetrating existing and new market opportunities, both large and small.
+"
+Person1,"Where many of today's semiconductor design wins can take 18 to 24 months or longer to translate into high-volume revenue, industrial design wins are more project-driven and can convert to volume sales in as little as a few months.
+"
+Person1,"The recently released VLSI Research 2016 report serves as a testament to our success in winning designs that are leading to increased market share and revenue growth.
+"
+Person1,"Now let me turn to our quarterly results as we execute on our growth strategy and focus on our core semiconductor thin-film industrial power, and specialty industrial power markets.
+"
+Person1,"As expected, we began 2016 with a double-digit recovery of nearly 39% in our semiconductor revenues coming off of the mini-trough seen in the fourth quarter.
+"
+Person1,"Strong 3D NAND investments as well as some logic and foundry buying resumed during the quarter, leading to increased order activity.
+"
+Person1,"Once again, we demonstrated our disproportionate strength in advanced plasma processing enabling products, allowing us to outperform the sector and approach the record run rate seen last year.
+"
+Person1,"The biggest contributor to recovering semiconductors are the technology upgrades happening virtually across the board in DRAM and 3D NAND as well as fab capacity ramps at the beginning of the ramp of 10 nanometers logic.
+"
+Person1,"These technologies are expanding the market for etch and deposition and remain the primary investment driver for 2016.
+"
+Person1,"We expect to benefit the most from these areas given our position in applications enabling advanced patterning, 3D devices and 3D packaging for 3D NAND logic devices.
+"
+Person1,"In addition, the sizable investment the Chinese government is making into its local semiconductor market may lead to significant growth in China throughout the semiconductor ecosystem, from IC design to fabs to manufacturing equipment and materials.
+"
+Person1,"With a growing number of collaborations and alliances between large global semiconductor companies and Chinese companies, in many cases sponsored by local and central government incentives, our increasing presence in China is a clear advantage that could contribute to our growth.
+"
+Person1,"We expect these trends to continue to drive demand in the second quarter with the ramp of newer 3D NAND the focus of the first half and logic and foundry the focus of the second half.
+"
+Person1,"In total, revenue from our industrial markets declined 22% from the fourth quarter, in keeping with the general lack of growth seen in the global industrial markets.
+"
+Person1,"In spite of this temporary slump, we've continued to develop products, increase our design wins, and invest in channel development and regional expansion while driving operating efficiencies as we move the manufacturing of our acquired products to low-cost regions.
+"
+Person1,"In the thin-film industrial power business, hard coatings saw good traction in EMEA during the quarter, while overall investment in Asia and North America paused after some of the large purchases made at year-end.
+"
+Person1,"Similarly, large area coating applications showed a decline with glass in particular slowing due to lower investment in construction and infrastructure building in China.
+"
+Person1,"In solar cell production, while still relatively small, we are seeing higher demand for crystalline silicon-based sales driven by the Chinese government's new policy that is driving increased investment in 2016.
+"
+Person1,"In our specialty industrial power business, we are beginning to generate traction in PCMs in North America and APAC through our industrial automation channel partners.
+"
+Person1,"Our entry into the industrial pyrometry market led to strong shipments during the quarter, and our high-voltage product strategy for e-beam applications is also making inroads.
+"
+Person1,"Looking at the second quarter, we anticipate an increase in our industrial applications driven primarily by glass coating upgrades and the trend in China for solar PV crystalline silicon applications.
+"
+Person1,"We are seeing some recovery in regions that declined last year, leading to a more favorable view of industrial markets.
+"
+Person1,"Our primary goal is to grow our SAM significantly by expanding geographically, entering new markets, and winning designs in new applications organically and through acquisitions.
+"
+Person1,"Once again, our service business grew this quarter, up 9% from the fourth quarter, in what is normally one of the two seasonally slower times of the year.
+"
+Person1,"This growth was due to continued share gain from third-party competitors in the precision power market as customers recognized the significant role that quality place in the total cost of ownership.
+"
+Person1,"In addition, we are seeing growing demand from our precision power customers for high-value service offering across our portfolio, particularly in our trailing edge 200 millimeter legacy products.
+"
+Person1,"We are also seeing increases in inverter service revenue from our out of warranty installed base.
+"
+Person1,"We expect further positive growth in the second quarter as we differentiate our service value proposition.
+"
+Person1,"Finally, our capital deployment strategy aimed at returning value to shareholders is proceeding well.
+"
+Person1,"Recently, we completed a $50 million accelerated share repurchase as part of our three years $150 million share repurchase program.
+"
+Person1,"Next, as part of our allocation of 70% of our free cash flow towards organic and inorganic investment, we have built a solid M&A pipeline.
+"
+Person1,"We have begun to narrow the field of potential opportunities that we believe could accelerate our future growth opportunities while maintaining our financial criteria.
+"
+Person1,"In summary, we begin 2016 singularly focused on our strategy to grow faster than the core precision power markets that we serve -- semiconductors, thin-film industrial power, and specialty industrial power.
+"
+Person1,"Looking at the second quarter, we expect semiconductors to remain at near record levels while industrials rebound from their first-quarter lows and our service business continues its upward trend.
+"
+Person1,"Longer-term, we plan to invest in developing products in channels to maintain our industry-leading position by staying at the forefront of leading-edge technology advances, expand our SAM by entering new markets, applications, and geographies, be nimble and agile enough to respond to the cyclical nature of our markets, and leverage our financial model and put our cash to work by executing on our share repurchase plan and simultaneously targeting organic and inorganic investments that we believe will take our business to the next level, achieving our aspirational goal and return value to our shareholders.
+"
+Person1,"I'd like to thank our customers, partners, shareholders and our valued employees for their support.
+"
+Person1,"Thank you for joining us, and we look forward to seeing many of you in the upcoming quarter.
+"
+Person1,"I'd like now to turn the call over to <UNK>.
+"
+Person1,"<UNK>.
+"
+Person2,"Thank you <UNK>.
+"
+Person2,"With the strong rebound in semiconductor sales this quarter, we saw significant improvement in profitability as we achieved revenues of $103 million, improved non-GAAP operating margins to 25.3%, and increased non-GAAP EPS to $0.56.
+"
+Person2,"Sales by market are shown on Slide 16.
+"
+Person2,"Semiconductor sales were $69.7 million, an increase of 39% quarter-over-quarter as we saw substantial recovery from the industry-wide pause in the fourth quarter.
+"
+Person2,"Industrial sales were lower at $16.5 million due to the general lack of growth across the global industrial markets.
+"
+Person2,"Service revenues of $16.8 million were an increase over both last quarter and prior year primarily due to share gains in semiconductors.
+"
+Person2,"Overall, we realized a strong start to 2016.
+"
+Person2,"Turning to Slide 17, with the recovery of revenues, profitability grew significantly.
+"
+Person2,"First-quarter non-GAAP operating margin increased to 25.3% from 20.7% in the fourth quarter.
+"
+Person2,"Non-GAAP EPS improved meaningfully to $0.56 in the first quarter from $0.32 in the fourth quarter.
+"
+Person2,"While operating margins and profitability bounced back from the fourth quarter, they were lower than last year's first quarter, which were driven by record semiconductor sales.
+"
+Person2,"During the first quarter, total operating expenses increased over the fourth quarter and year-over-year.
+"
+Person2,"This was due in part to our ongoing investment in R&D, reflecting our commitment to keep pace with our customers' next gen technologies and our commitment to global sales expansion.
+"
+Person2,"Higher stock compensation expense and audit costs, which typically occur in the first quarter, contributed to the increase in SG&A.
+"
+Person2,"On Slide 18, our first-quarter tax rate was 15.7%, a decrease from 20.8% in the fourth quarter.
+"
+Person2,"The fourth quarter included a tax valuation allowance that increased the tax rate.
+"
+Person2,"We anticipate a normalized annual tax rate of approximately 15% for 2016 assuming existing regulations.
+"
+Person2,"Turning to the balance sheet on Slide 19, we ended the quarter with $184 million in cash and marketable securities, an increase of $13.5 million compared to December 31, 2015.
+"
+Person2,"Our net working capital increased by $8.5 million during the quarter due to higher receivables and inventory to support our growing revenues.
+"
+Person2,"Our second-quarter guidance is on Slide 20.
+"
+Person2,"We expect to see continuing growth in semiconductor revenue driven by the current capital spending outlook for the industry.
+"
+Person2,"We anticipate improvements across most of our industrial end markets and ongoing momentum in our service business.
+"
+Person2,"Finally, a few comments on capital deployment.
+"
+Person2,"We remain focused on our capital deployment strategy to achieve our aspirational goals and accelerate shareholder returns.
+"
+Person2,"We intend to deploy 70% of our cash flows to organic and inorganic growth opportunities, and 30% to shareholder distributions.
+"
+Person2,"As part of this plan, we completed a $50 million accelerated share repurchase program, retiring 1.7 million shares since November, or 4.3% of our total shares outstanding.
+"
+Person2,"Keep in mind this is just one-third of the total $150 million share repurchase program currently in place.
+"
+Person2,"As you all noted, we are aggressively looking at acquisition opportunities that are complementary to our target markets and provide long-term value to shareholders.
+"
+Person2,"We have a healthy pipeline of actionable opportunities.
+"
+Person2,"In summary, coming off a sharp cyclical downturn in the fourth quarter, we saw substantial recovery in the first quarter.
+"
+Person2,"We generated significant profits and cash during the quarter.
+"
+Person2,"We continue to focus on winning new designs, investing in R&D, expanding globally, and deploying capital as we marched towards our three-year aspirational goals of $600 million to $700 million in revenues, $3.00 to $3.50 of non-GAAP earnings per share, and $250 million to $300 million in cash generation.
+"
+Person2,"This concludes our prepared remarks for today.
+"
+Person2,"Operator, I'd like to open the call for questions.
+"
+Person1,"Yes, we expect Q2 will be higher than Q1, not the same rate of growth we saw in Q1 compared to Q4.
+"
+Person1,"As we look at the rest of the year, we haven't changed our opinion that we expressed the beginning of the year.
+"
+Person1,"We believe 2016 will be higher for us than 2015.
+"
+Person1,"A lot depends on the timing of some of the large investments that will happen in some of the fabs, but overall we are optimistic for the rest of the year.
+"
+Person1,"Yes, let me give you -- most of what we saw in Q1 was driven by 3D NAND and memory in general.
+"
+Person1,"We saw some small investment in logic.
+"
+Person1,"So, in terms of -- if you look the 80/20 rule, most of the growth came from the 3D NAND.
+"
+Person1,"We assume, based on market information and what we studied talking to the analysts, end-users and our customers, that the second half of the year will be driven by logic and foundry in the transition to 10 nanometers technology.
+"
+Person1,"So, if you want to look at how much of the growth in Q1 was driven by memory, it's -- I would say the majority, the lion's share of the growth came from memory.
+"
+Person1,"Yes.
+"
+Person1,"So, obviously, the industrial markets for us, the industrial business, is very fragmented and diversified.
+"
+Person1,"We are serving multiple markets and applications, and they obviously do not behave in -- they are not sequenced, right.
+"
+Person1,"Some of them are very lumpy.
+"
+Person1,"The glass business is lumpy.
+"
+Person1,"Flat-panel display business is lumpy due to the cycles of capital investment.
+"
+Person1,"What we saw in Q1, the decline is a result of, you know, Q4 was a strong quarter.
+"
+Person1,"And as the industry digested some of the acquisitions in Q4, we showed a decline in Q1.
+"
+Person1,"What we see right now in general is a decline in glass coating business driven by the reduction in the investment in glass coating factories to a really small level, driven by the China infrastructure decline and the reduction in real estate investment in China.
+"
+Person1,"We expect to see this trend recover by the adoption of our new technology for upgrades of existing lines around the world.
+"
+Person1,"So, again, we serve multiple markets, and they can be lumpy, and that's exactly what happened in Q1, mainly glass and infrastructure.
+"
+Person1,"As we indicated in our prepared remarks, we expect to see recovery in Q2.
+"
+Person1,"We are constructive towards the rest of the year.
+"
+Person1,"As we said earlier, it's a collection of niche markets, many applications, many geographies, and they tend to behave asynchronously.
+"
+Person1,"We continue to grow our presence in world regions we did not have any presence before, for example in China and North America.
+"
+Person1,"And we leveraged a really good relationship that we have developed with our channel partners, both in Europe and North America, and we see some incremental growth from these new regions that we believe will support continuous growth going forward.
+"
+Person1,"The way we look at the market right now is semi obviously strongly driven by the behavior of the end-users.
+"
+Person1,"When we look at the investment that TSMC is investing over the year, obviously they did not spend the capital budget they planned for the year.
+"
+Person1,"So therefore, the sum assumption is that the second half may be stronger for them for foundry investment.
+"
+Person1,"Intel reaffirmed their CapEx spending, which is again up year-over-year, again more second-half loaded as they ramped to 10 nanometers logic capacity and NAND memory in the Dehli and China fab.
+"
+Person1,"So at the end of the day, a lot depends on the timing of the specific investments.
+"
+Person1,"We don't have very good visibility quarter by quarter.
+"
+Person1,"We are still constructive towards 2016 in the second half, and we know, with our nimbleness and agility, we believe that we can respond very quickly and effectively to increasing demand.
+"
+Person2,"Good question.
+"
+Person2,"Going forward through the quarters, you should see total OpEx spending about the same level with R&D continuing to increase, because we want to spend more in R&D and invest in technology, and there will be a corresponding decrease in the G&A side.
+"
+Person1,"So, two comments.
+"
+Person1,"The first one, 2015, we spent a significant amount of effort to make sure that the winding down of the inverter business was with the best outcome, that the asset disposition would be done in a way that will be most beneficial for our shareholders, and that was the main focus of 2015.
+"
+Person1,"We are now entertaining a very interesting pipeline of target acquisitions.
+"
+Person1,"We are extremely disciplined.
+"
+Person1,"We have a very rigorous process.
+"
+Person1,"We are -- we have target models and a target profile of an acquisition that we would like to add to the portfolio.
+"
+Person1,"And what you see right now is a careful review and analysis of actionable targets.
+"
+Person1,"We are aggressively pursuing the strategy.
+"
+Person1,"We are optimistic that we will be successful adding incremental revenue and profit that are accompanied through acquisitions, but we are very disciplined about it.
+"
+Person2,"Sure.
+"
+Person2,"Let us give you the general criteria.
+"
+Person2,"First of all, it needs to be close to our precision power business.
+"
+Person2,"It needs to expand our products and our geographies.
+"
+Person2,"There is a focus on industrial.
+"
+Person2,"It needs to create value, have synergies.
+"
+Person2,"As <UNK> said, it's very disciplined.
+"
+Person2,"Financially, we are not tied to a multiple.
+"
+Person2,"We are tied to in the long-term it needs to have a return greater than our weighted average cost of capital and, in the near term, you want it to be comparable or better than the share repurchase.
+"
+Person2,"And those are the criteria that we have been following and we continue to follow.
+"
+Person2,"Yes.
+"
+Person2,"It's a little under 10%.
+"
+Person1,"We expect to see a continuation of growth driven by 3D NAND.
+"
+Person1,"Obviously, there's some small content of logic in foundry mainly driven by technology, but as we mentioned before, if we look at the whole year, we see the first half driven by memory and the second half driven by logic and foundry.
+"
+Person1,"Thank you, everyone, for joining us this morning.
+"
+Person1,"We are very excited about the performance of the business.
+"
+Person1,"Q1 was a strong quarter.
+"
+Person1,"We expect Q2 to be as strong or better.
+"
+Person1,"And we expect the rest of 2016 to be very important and strategic for the future of the Company as we continue to build on the momentum to meet our three-year strategic goal of revenue between $600 million and $700 million, EPS of $3.00 to $3.50 per share, and generating cash between $250 million and $300 million.
+"
+Person1,"I'm looking forward to seeing you all next quarter.
+"
+Person1,"Thank you very much.
+"

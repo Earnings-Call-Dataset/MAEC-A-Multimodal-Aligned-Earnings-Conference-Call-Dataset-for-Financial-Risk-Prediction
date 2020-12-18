@@ -1,0 +1,177 @@
+Person,Sentence
+Person0,"Good afternoon.
+"
+Person0,"During the course of this conference call, we shall make forward-looking statements, including statements regarding our opportunity pipeline, success in 5G commercialization and our guidance for second quarter 2015 revenue and earnings per share.
+"
+Person0,"We wish to caution you that such statements are just predictions and that actual events or results may differ materially.
+"
+Person0,"We refer you to the documents the Company files regularly with the Securities and Exchange Commission, including the Company's most recent annual report on Form 10-K filed on February 19, 2015.
+"
+Person0,"These documents contain and identify important factors that could cause our actual results to differ materially from those contained in our forward-looking statements.
+"
+Person0,"With that, I will now turn it over to the Chief Executive Officer of National Instruments Corporation, <UNK>
+"
+Person0,"<UNK> <UNK>.
+"
+Person1,"Thank you, <UNK>.
+"
+Person1,"Good afternoon and thank you for joining us.
+"
+Person1,"Our key points today are record revenue for first quarter, continued broad adoption of PXI and very strong growth in revenues from RF products and continued success in 5G research and prototyping.
+"
+Person1,"In Q1 we delivered record revenue for first quarter.
+"
+Person1,"Put together with our disciplined expense management has allowed us to maintain double-digit non-GAAP operating margins despite the recent surge in the U.S. dollar.
+"
+Person1,"The strength of our business model has allowed us to generate strong cash flow and deliver a dividend of $0.19 for the quarter.
+"
+Person1,"While we continue to adapt to the impact of the U.S. dollar on our revenue and gross margins, I am optimistic about our long-term position in the industry and our ability to gain market share.
+"
+Person1,"The differentiation we delivered to our customers through platform base design helps engineers and scientist simplify problems and reduce cost while scaling and adapting to rapidly changing demands.
+"
+Person1,"In our call today, <UNK> <UNK>, our Chief Operating Officer will review our financial results.
+"
+Person1,"<UNK> <UNK>, our Executive Vice President of Global Sales and Marketing will discuss our business; and I will close with a few comments before we open up for your questions.
+"
+Person1,"<UNK>.
+"
+Person2,"Thank you, <UNK>, and good afternoon.
+"
+Person2,"I was pleased with our ability to deliver 8% revenue growth year-over-year and positive growth in each of our regions on a constant currency basis.
+"
+Person2,"We had record first quarter revenue for our PXI products and saw very strong revenue growth in RF.
+"
+Person2,"In Q1 we began the roll out of new tools for opportunity management and collaboration across our sales organization.
+"
+Person2,"The roll out has gone smoothly and we continue to maintain a strong opportunity pipeline both in quality and quantity indicating continued strong customer interest in our products and platform base approach.
+"
+Person2,"We did see some weakness in two industry sectors, aerospace and defense and energy.
+"
+Person2,"Energy in particular has been weak as it is adversely effected by the recent decline in oil prices.
+"
+Person2,"We expect to continue to see headwinds in the energy industry as long as oil prices remain low.
+"
+Person2,"We saw strength in our sales for the semiconductor industry attributable to the successful release of our semiconductor test system which is built around standard NI PXI chassis, controllers and modules combined with LabVIEW (Inaudible) software to serve high volume production test of semiconductor chips.
+"
+Person2,"Because it is based on the same standard products that we sell to the broad test and measurement market we get significant leverage and cost advantages from these economies of scale.
+"
+Person2,"Early customer response has been strong and we are encouraged by the pipeline of opportunity.
+"
+Person2,"For example on semiconductor Belgium using an IPXI and our semiconductor test system to test high end imagine sensors with unprecedented test performance while providing flexibility for their future needs.
+"
+Person2,"Looking at our products.
+"
+Person2,"PXI and RF had very strong sales in Q1.
+"
+Person2,"As <UNK> mentioned, we saw a decline on a dollar basis in our broad based software and data acquisition products as the result of the strengthening of the U.S. dollar and the lengthening of the PC upgrade cycling.
+"
+Person2,"Our instrument control products which connect third party box instrument to the PC saw a significant year-over-year decline indicating relative weakness in the test and measurement industry.
+"
+Person2,"The combination of strength in our PXI sales and weakness in instrument control suggests that the market is continuing to shift from traditional rack-and-stack instruments to PXI and National Instruments continues to lead that shift.
+"
+Person2,"CompactRIO products saw modest growth in Q1 in local currency impacted by the weak oil and gas market.
+"
+Person2,"We continue to see strong adoption and deployment in areas outside of oil and gas.
+"
+Person2,"One example is at National Grid in the U.K. where they are using LabVIEW and CompactRIO to provide additional data insight in to the power grid and adapt to the new alternative generation sources coming on to their grid.
+"
+Person2,"National Grid is the transmission operator to over 20 million customers in the U.K. and the NI based system allows National Grid to add more intelligence to the power grid.
+"
+Person2,"Peter Haigh of National Grid U.K. commented, ""The high processing power of CompactRIO allows us to gather and analyze large amounts of data from anywhere on the grid as well as compile and analyze all the data to see grid-wide trends to optimize our investments to meet the energy needs of the next generation.
+"
+Person2,""" As mentioned previously sales of our PXI and RF products were particularly strong in Q1.
+"
+Person2,"Our position in PXI remains strong as we have by far the largest PXI product portfolio in the industry, an unique and differentiated software position for creating PXI systems, a focused sales and support channel that provides significant value to our customers and a very strong network of integration partners trained on NI software and hardware.
+"
+Person2,"During Q1 we furthered strengthened this partner network to an agreement with Cobham Wireless formally the Wireless Test Business of Aeroflex, in which NI acquired the PXI RF product line from Cobham.
+"
+Person2,"Cobham will migrate to use standard NI PXI products including our vector signal transceiver and Cobham is now NI\
+"
+Person1,"Thank you, <UNK>.
+"
+Person1,"I am pleased with our execution during Q1 in a difficult market.
+"
+Person1,"We maintained strong gross margins reinforcing the value our customers see in our product and resulting in strong cash flow despite the challenge from the strengthening of the U.S. dollar.
+"
+Person1,"We have built and continue to run our Company for long-term sustainable growth.
+"
+Person1,"Over the course of several decades we have successfully managed the business through various economic and currency cycles and have always exited those cycles in a position of strength.
+"
+Person1,"I am confident we will continue that track record.
+"
+Person1,"Our focus has always been to provide a software and hardware platform that leverage commercial technology to increase performance and lower costs.
+"
+Person1,"This disruption strengthens the markets we target while also providing an opportunity to grow our business through differentiated products with high gross margin.
+"
+Person1,"I was especially pleased with our success in RF.
+"
+Person1,"As <UNK> mentioned in Q1 we saw continued strong growth in RF.
+"
+Person1,"We are hitting stride with our new generation of FPGA-Based RF instruments which are fueling much of this growth.
+"
+Person1,"These products were a focus of our increased investment in R&D over the past several years, and I am pleased with our continued growth, adoption and penetration in the large RF market.
+"
+Person1,"Our products success has lead to better efficiency in R&D and we have increased focus on the areas which we have the most leverage of our differentiated platform.
+"
+Person1,"We have found particular strength and growth in the area of software defined radio an unique ability to serve these application through our position with LabVIEW FPGA has lead to our leadership in 5G research and prototype.
+"
+Person1,"Earlier this month I delivered the keynote at the Brooklyn 5G summit on the topic of next generation tools for 5G research.
+"
+Person1,"The Brooklyn 5G summit is an invitation only summit that is jointly organized by Nokia Network and NYU Wireless Research Center.
+"
+Person1,"It brings together wireless and mobile industry research development leaders in academia, business and government to explore the future of 5G wireless technology.
+"
+Person1,"During the event with the help of Nokia we demonstrated the first 5G prototype to achieve 10 gigabits per second peak data rate system over the air, a key milestone to achieve the goals of future 5G network.
+"
+Person1,"I believe our successes such as these in the early stages of 5G technology cycle will lead to tremendous opportunity for us to test 5G products as the technology comes to market in the future.
+"
+Person1,"This has been our approach throughout our history to disrupt and grow end markets where our software centric platform offers tremendous value, cost and productivity benefits to our customers.
+"
+Person1,"Our success in the most challenging 5G prototyping applications is a prime example of how our software position and FPGA-Based approach enable NI to address the long tail of unique applications which are poorly served by the traditional approach to (Inaudible) defined hardware.
+"
+Person1,"In closing, I want to thank our employees for their concerted effort to deliver innovative new products to drive our growth while managing expenses as we continue toward our long-term profitability goals.
+"
+Person1,"I am confident that we are building a new product pipeline, channel and operational excellence to drive long-term growth and profitability of the Company.
+"
+Person1,"Thank you.
+"
+Person1,"We will now take your questions.
+"
+Person2,"Sure.
+"
+Person2,"<UNK> I will take it.
+"
+Person2,"This is <UNK>.
+"
+Person2,"As I've mention before it is really helpful to understand our wireless and our RF business is a pretty broad play for us.
+"
+Person2,"We do serve wireless production test, that's an important space, but it is quite a bit broader than that.
+"
+Person2,"It includes areas of testing (Inaudible) applications, areas like radar, we've introduce products last year that are pretty well vent in that space.
+"
+Person2,"And it includes a really growing part of this area we called software defined radio.
+"
+Person2,"That's been very successful for us.
+"
+Person2,"We highlighted 5G prototyping as a particular area of success and that's a growth area that's part of that RF pie.
+"
+Person2,"So the diversity -- and I want to just say what's unique about National Instruments in this space is the nature of our platform based approach is the same core technology components that are serving those various different application spaces of our customers.
+"
+Person2,"So we're able to serve these very different spaces with a whole lot of leverage on the investments we make in to the platform and our channel.
+"
+Person1,"Thanks, <UNK>.
+"
+Person2,"Just to add on, it has been a pretty deliberate strategy, Rick, as you know for us to deliver higher value in these system platform that are hardware and software areas like PXI and CompactRIO and CompactDAC and as we deploy systems in RF or high channel count systems or large deployments of CompactRIO for condition monitoring those are the types of systems that fall into the higher order buckets and where we're seeing a lot of growth.
+"
+Person1,"Sure.
+"
+Person1,"Basically their technology dovetails to our technology very well.
+"
+Person1,"They have a deployment platform that (Inaudible) based, they've got infrastructure and software and we have the software or actually the algorithm development for 5G and we have been prototyping these systems on PXI systems.
+"
+Person1,"And this gives us a platform that is more able to be deployed in the field for field trials and the like and we view it as very complementary to the position that we have now.
+"
+Person1,"I would say a few key customers that is pretty complementary to the ones we've been working with the 5G research.
+"
+Person1,"So it looks it is a very good step for us.
+"

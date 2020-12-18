@@ -1,0 +1,381 @@
+Person,Sentence
+Person0,"As I said before, we're in the process of rationalizing the business, and we took a very, very hard look at every single line of business we were in and every single market we were in and every single technology initiative we had.
+"
+Person0,"In some cases we've chosen to exit those particular lines of business or markets we feel are not strategic.
+"
+Person0,"In the cloud business, in our recurring revenue business lines, we are in the midst of a product transition from hosting our own cloud operation on a variety of different hardware platforms that we owned or operated to hosting our cloud offering on Amazon AWS environment, which is a much liquid, homogeneous environment.
+"
+Person0,"As we go through that, we think there are some adjustments to take place in our recurring revenue stream.
+"
+Person0,"On the whole if I look at changes or reductions in either the license business or the recurring revenue business, my general view is it's in the best interest of the Company for us to make sure that we focus upon strategic revenue streams.
+"
+Person0,"There are certain parts of the business that are certainly going to be easier for us to grow and more profitable for us to grow.
+"
+Person0,"And they leverage our core assets better.
+"
+Person0,"Other parts of the business tend to have a higher -- or lower gross margin, a higher variable cost, and they're not quite as leverageable for us.
+"
+Person0,"So all revenue is not created equal.
+"
+Person0,"While it is true, I do think going forward we want to establish a consistent silhouette where we have a growing and consistently growing profitable revenue stream.
+"
+Person0,"I think in this transition it was necessary for us to make some hard choices about where we're going to focus.
+"
+Person0,"So decreases of revenue generally represent those choices that we've made.
+"
+Person2,"Also speaking specifically to the quarter over quarter drop, I would say first of all it's hard to evaluate the business on a quarter-to-quarter basis.
+"
+Person2,"I wouldn't emphasize too much drop there.
+"
+Person2,"But you did see on product licenses and subscription services quarter over quarter went down about 7%, and there were some incremental changes in terms of both net deferrals and commitments to the business that impacted that on a quarter over quarter basis.
+"
+Person0,"I think we'll have more clarity to the revenue stream in 2016.
+"
+Person1,"I think there were two drivers to that.
+"
+Person1,"One, is just the distribution between US and international income on any particular quarter would drive the effective tax rate.
+"
+Person1,"So we did see a little bit more income distributed to the US in Q3.
+"
+Person1,"The second piece is really a return to provision true up that took place also in the third quarter that affected the tax rate.
+"
+Person1,"As far as thinking about the tax rate going forward, I think what we've seen this year obviously is more representative of the taxes that we would end up incurring on a go forward basis.
+"
+Person0,"I think the changes in the subscription and recurring business are largely related to our transition from an on-premises hosted cloud solution to the AWS hosted secure cloud solution.
+"
+Person0,"I think that with regard to the software business, the software business is inherently lumpy for lots of reasons that we've all seen over the course of many years now.
+"
+Person0,"So I wouldn't counsel anybody to infer too much from a quarter over quarter change without putting it in the context of an entire year.
+"
+Person0,"Can you say the question one more time.
+"
+Person0,"I think we are pleased in our international performance in the third quarter.
+"
+Person0,"In general I think there's good strength across all the various parts of the world right now.
+"
+Person0,"I don't think I would highlight anything as particularly weak nor would I say that the opportunity has shifted dramatically in any particular direction.
+"
+Person1,"I think a lot of it has to come down with the timing of certain large deals that happens in any particular quarter.
+"
+Person1,"You may have seen a shift towards more large deals in international business in the third quarter versus more large deals in our domestic business in the second quarter.
+"
+Person1,"But again to <UNK>'s point, looking at it quarter over quarter I would say is not very meaningful.
+"
+Person1,"If you were to break down the numbers, you'd see a little bit more shift towards international in the third quarter.
+"
+Person1,"I don't think it points to any particular trend.
+"
+Person0,"The fourth quarter always turns out being an interesting quarter and a decisive one for companies, especially in the context of how we do for the entire year.
+"
+Person0,"It's been that way for as long as I can remember, and I suspect it will continue to be that way.
+"
+Person0,"We're enthusiastic about the product line, and I'm confident that in 2016 we'll be seeing some revenue growth from the core business.
+"
+Person0,"I think that if I chop up results in a fine enough fashion down to the smallest increment, it gets difficult to forecast with the same degree of confidence.
+"
+Person0,"So I won't normally choose to give those forecasts, but not because I don't have confidence, just because just the Stochastics of it make it likely that if you make enough forecast eventually you'll be wrong on one of them.
+"
+Person0,"Whereas over the course of a longer period of time, I generally can get the trend just right.
+"
+Person0,"Yes.
+"
+Person0,"That's a good question.
+"
+Person0,"First, I want to take the opportunity to note that MicroStrategy has rationalized its entire business down to a single platform, which is version 10.1 right now.
+"
+Person0,"When you buy at MicroStrategy's platform, you get all of the tools, servers, and client software necessary to deploy a suite of unique applications.
+"
+Person0,"Those applications may have enterprise analytics capabilities.
+"
+Person0,"They may have enterprise mobility and they may have enterprise productivity and they may have Enterprise Security capabilities built into them.
+"
+Person0,"So we're selling a platform.
+"
+Person0,"It turns out that we market that platform on microstrategy.com under the MicroStrategy brand.
+"
+Person0,"If you go to microstrategy.com, you're going to see it's going to say an enterprise analytics platform.
+"
+Person0,"That, of course, is our bread and butter.
+"
+Person0,"If you go to Usher.com, we have a secondary brand and if you go to Usher.com you will see an Enterprise Security platform.
+"
+Person0,"It turns out that we're selling the exact same software.
+"
+Person0,"We characterize Usher as Enterprise Security because people looking for multi-factor logical authentication or mobile building access normally want to see a much quicker, tighter message.
+"
+Person0,"In fact, our view is we're selling one thing.
+"
+Person0,"Now, why do we actually see success in the business that's dominated by enterprise analytics customers.
+"
+Person0,"Oftentimes it's the CIO or the CISO that's being drawn into this discussion of security.
+"
+Person0,"So if you look at our MicroStrategy brand, we are actually selling to the IT departments of thousands of companies, and we have enterprise sales reps that are selling to those CIOs and directors of IT.
+"
+Person0,"Enterprise Security is actually not so strange a proposition for them.
+"
+Person0,"In many cases, they've got that somewhere in the IT portfolio.
+"
+Person0,"It's just you sometimes have to approach them in a different buy cycle, but it's not a different person.
+"
+Person0,"I think what's special about our offering and the reason we characterize it is Enterprise Security and not just security or mobile security or the like is, there are players out there -- I'll call them niche solutions -- they're point solutions like a [Duomo] or the like.
+"
+Person0,"They would give you a piece of mobile software that would let you use it as a multifactor to login to a logical application in lieu of a password or to add additional factor to a password.
+"
+Person0,"We're actually offering people the accommodation of logical authentication and physical access.
+"
+Person0,"You could use our software to open a door or unlock a parking garage or an elevator.
+"
+Person0,"You could also use it to unlock a website or an enterprise application.
+"
+Person0,"The third thing you do with our software is you can use it for enterprise productivity apps running on mobile devices.
+"
+Person0,"The last thing that we're doing with our software is giving you enterprise analytics where you can join all of this logical and physical access data into your enterprise databases.
+"
+Person0,"In order to actually meet the needs of an enterprise, you need to support the enterprise directories like active directory; the enterprise databases, like Oracle and Teradata; you need to run an enterprise-grade cloud which is what AWS is.
+"
+Person0,"You need to be able to support enterprise devices and mobile device managers like AirWatch, which we do.
+"
+Person0,"You need to be able to support enterprise access controllers from Tyco or Honeywell <UNK>nel, which we do.
+"
+Person0,"You need to have support for enterprise productivity like transaction services or communication services, which we do.
+"
+Person0,"So taken as its whole, MicroStrategy's offering is we'll give you a full suite of analytics, mobility, security, productivity apps on a single platform.
+"
+Person0,"And you can bet it's that it's an IT executive that is going to buy that.
+"
+Person0,"Before a company deploys a suite of applications like that, then the IT department going to have to sign off on it.
+"
+Person0,"Maybe the CISO is going to sign off on it.
+"
+Person0,"The CIO is going to sign off on it.
+"
+Person0,"We have, for the past 15 years, been selling to those organizations about half of that suite.
+"
+Person0,"We've been selling the analytics, the web, the productivity, and the mobility part.
+"
+Person0,"We just haven't been selling logical and physical access.
+"
+Person0,"So we add those two things, and we take it into the marketplace and we feel really good about that.
+"
+Person0,"We've gotten generally a pretty good reaction.
+"
+Person0,"Sometimes we'll find that a customer started looking at logical access and then they switched to physical once they realize that we can do that.
+"
+Person0,"And how that -- what that does for us, is this allows us to differentiate against point solutions.
+"
+Person0,"If you're a point data discovery solution, like Tableau, well you don't have mobile and you don't have security, that we can offer.
+"
+Person0,"And you don't have productivity and enterprise reporting that we can offer.
+"
+Person0,"If on the other hand, your enterprise reporting solution you often times don't have that flexible data discovery or that mobility.
+"
+Person0,"If you're an enterprise mobile customer, you don't have analytics.
+"
+Person0,"And if you look at the logical access players, they don't have physical access or analytics or mobile productivity suites, and that leaves you with the physical access controllers and the physical access people.
+"
+Person0,"They would never think about deploying an analytic solution that runs on an iPad that will ring the people on the phone that just walked into your facility a few minutes ago.
+"
+Person0,"So we are carving our own way in this marketplace.
+"
+Person0,"We really passionately believe that an enterprise platform makes the most sense for deploying this suite of unique applications.
+"
+Person0,"And we will continue to compete against point solutions which range from Excel and Tableau to Duo or RSA or Click or the like.
+"
+Person0,"And we like to think that we are the smart customer's choice.
+"
+Person0,"If you are a sophisticated, smart customer around for the long term, you're going to want a single, unified platform that does all of this stuff so that you're scalable and maintainable and extensible.
+"
+Person0,"And there's a place for the point solutions as well.
+"
+Person0,"If your departmental and you're in a hurry and you just want to get one thing done fast.
+"
+Person0,"But we've always carved our own way in the marketplace, and hopefully that answers your question.
+"
+Person0,"We sell Usher as an Enterprise Security platform using our same exact sales force to the same exact customers that we are selling our analytics offering.
+"
+Person0,"So Usher represents an upsell opportunity to all of our existing customers.
+"
+Person0,"We also have cultivated another set of alliance partners, large system integrators and defense contractors like Northrop Grumman, for example, that are enthusiastic about physical access or logical access or security.
+"
+Person0,"And have an interest in integrating that with an enterprise analytics and mobility platform.
+"
+Person0,"So I would say there are a good dozen or more Enterprise Security partners that we would call global alliance partners that have reach everyone in the world that we're enthusiastic about.
+"
+Person0,"There's another set of focused specialists in the marketplace for security.
+"
+Person0,"And then we have enterprise analytics specialists and enterprise analytics global alliance partners as well that we have been working with over time.
+"
+Person0,"I would say is right for you to point out.
+"
+Person0,"There are new channel distribution opportunities for us that are opened up with Usher, but they are completely accretive, I believe.
+"
+Person0,"All the things we do with Usher accrete to our relationships with our existing channel partners or existing customers.
+"
+Person0,"If anything, it just gets us more attention.
+"
+Person0,"For example, we get more attention from Apple Computer because of the things we're doing with Usher and the Apple Watch or Touch ID than we would otherwise get.
+"
+Person0,"And I think we get more attention from the business physical access control companies or from the big defense contractors because of things we're doing with Usher.
+"
+Person0,"I think that they would be much less interested in working with us if that didn't exist.
+"
+Person0,"Well with MicroStrategy 10, one of our key things is to continuously benchmark it against the other point data discovery solutions in the marketplace and to hear from our customers how they compare it.
+"
+Person0,"What we like to see a customer say they evaluated 10 versus the other solutions and it's better or it's comparable to some point solution.
+"
+Person0,"I think our install base has large volumes of mission-critical enterprise analytics applications deployed on generally the MicroStrategy version 9 platform.
+"
+Person0,"Oftentimes with those companies we'll run those for many, many, many years.
+"
+Person0,"If they are not broken oftentimes they won't change them.
+"
+Person0,"That's a great thing for us to have that kind of stability, but we also spend time and are now spending more and more time introducing version 10 to our existing customers and then going through and doing analysis in order to figure out which of those customers have applications or new applications that make more sense to deploy on version 10 than version 9.
+"
+Person0,"And as we start to see the results of that, it gives us more confidence as to what we have.
+"
+Person0,"I think generally whenever we see a new application area that's commercialized or a new competitor that we compare with more favorably because of version 10 functionality, that makes us confident.
+"
+Person0,"So right now I think generally we are working through those exercises and, of course, we are working through a fairly comprehensive customer communications campaign to introduce version 10 and to demonstrate the value of version 10 everywhere within our installed base and then, of course, to the install base of our competitors.
+"
+Person0,"I guess that's the third area I didn't really mentioned but it's an important one.
+"
+Person0,"Version 10 is special because you can actually build applications and you can use competing BI tools as the data source.
+"
+Person0,"We can actually run applications against business objects, schemas, and data structures.
+"
+Person0,"So as we work in the market and go out to some of the legacy BI vendors, customers, they are now starting to look for alternatives.
+"
+Person0,"We use version 10 as our primary weapon in those competitive evals and you can bet that we're really watching very carefully how all those competitive replacement sales cycles go and how version 10 performs in ahead of the competition.
+"
+Person0,"We've had pretty extensive discussions with industry analysts, and generally they identify two parts to the market of interest.
+"
+Person0,"One, all of the existing enterprise customers that made commitments to some of the legacy BI vendors over the past 10 to 20 years that are now going long of the tooth, there's probably 90 legacy BI vendors that were installed across the global 2000 from 1995 to the year 2010.
+"
+Person0,"And of the 90, there's only a handful that are still viable choices moving forward.
+"
+Person0,"So that's one interesting market and there's a clear need which is we want a modern platform that's going to grow with us, and we need to migrate our dashboards or enterprise reports or productivity apps or our analytic apps forward on a new horse.
+"
+Person0,"I think the other market that analysts point out is the point solutions, the Tableaus of the world and the QuickTechs that have gotten some quick attention in the marketplace.
+"
+Person0,"They are now struggling to enter the enterprise market.
+"
+Person0,"We're pretty confident that we've got the whole enchilada here.
+"
+Person0,"We got a unified platform that covers every single base, and in 2016 our plan for version 10 is to start to use a version 10 that's seasoned harnessed with a set of sales and marketing programs that target the legacy base and target the point solutions install base.
+"
+Person0,"I think that will be a focus of our sales and marketing energy, and I think those are two areas where we can actually find revenue as we go forward in the coming year.
+"
+Person2,"I appreciate the questions.
+"
+Person2,"I think we have a couple more analysts that need to ask questions too.
+"
+Person2,"Thanks.
+"
+Person0,"Our focus is still on large enterprise opportunities.
+"
+Person0,"We've just continued to refine and polish the product.
+"
+Person0,"We've been polishing the client interfaces.
+"
+Person0,"We've been polishing the productivity offering.
+"
+Person0,"We've been polishing analytics.
+"
+Person0,"And we've been integrating the product.
+"
+Person0,"It's become pretty clear to us that it's very important that we integrate our Enterprise Security into our overall enterprise platform.
+"
+Person0,"It's very important to us that we go to market with a single direct sales organization and not have multiple sales organizations.
+"
+Person0,"We do have some Usher specific product marketing.
+"
+Person0,"In general our focus is an enterprise platform that you can use to deploy a unique suite of applications that provide security, that provide mobility, that provide productivity, that provide analytics.
+"
+Person0,"The products become more streamlined and more integrated into MicroStrategy sales, marketing, services, and technology.
+"
+Person0,"But otherwise it's an enterprise sell.
+"
+Person0,"Yes.
+"
+Person0,"I think we're targeting both new customers and existing customers.
+"
+Person0,"I think as we go into 2016, as I was saying, our focus in sales and marketing is going to be -- I would say on the following areas.
+"
+Person0,"We'll focus upon targeting the existing enterprise customers of the legacy BI vendors because they tend to be big, rich companies with mission-critical enterprise needs.
+"
+Person0,"Our message resonates with them nicely, and we are able to check the box on all of their various requirements.
+"
+Person0,"So I think that will be a focus for us.
+"
+Person0,"I think that a second focus for us will be Enterprise Security customers and that's pretty much anybody on Earth has an Enterprise Security problem.
+"
+Person0,"I think that 2016 will, if anything, be a year where people have more insecurity about their physical and logical access than ever before.
+"
+Person0,"That can be easily predicted, and security will continue to grow and people are going to want more security if they can buy it from a software vendor.
+"
+Person0,"I think the third area is going to be companies that have dabbled with the point solutions like Tableau and Click that have found that they ran out of gas.
+"
+Person0,"Many, many people are saying we rolled it out but we can't actually deploy it to the enterprise and we are stuck.
+"
+Person0,"Now they are looking for the next thing that will meet all of those needs but provide them with some more scalable enterprise.
+"
+Person0,"I think we're well positioned for that.
+"
+Person2,"I don't think that's necessarily safe to assume.
+"
+Person2,"Obviously we'll look at our capitalization on a quarter to quarter basis but subsequent to our big MicroStrategy 10 release we're now doing minor point releases that include bug fixes, et cetera, which would necessarily be capitalized.
+"
+Person0,"We have since the beginning of the year, ahead of worldwide sales.
+"
+Person0,"We've replaced the heads of international and Americas and we brought in a new head of worldwide services just recently.
+"
+Person0,"So those are four of the most senior positions and they all are new talent.
+"
+Person0,"In terms of quantifying the rest, I think the turnover in the middle levels, of course, is not nearly so much and we've got a lot of industry veterans that have been with us for a while and they are strong players and we are pleased with them.
+"
+Person0,"So I think our primary interest is at the senior management level.
+"
+Person0,"What was the second part of your question.
+"
+Person0,"I think productivity has marched forward pretty consistently for the past four quarters.
+"
+Person0,"And I think productivity will continue to improve over the next four quarters.
+"
+Person0,"And I expect that probably, if you look out more than four quarters, we'll start to approach something which is more stable and balanced and from that point forward we'll be relying upon our product to drive productivity north more so than our leadership team.
+"
+Person0,"Regarding the first question, I think the version 10 has contributed or resulted in more interest in the Company than anything we've released in the past five years or so.
+"
+Person0,"So there's been a huge amount of interest.
+"
+Person0,"I think a lot of people are giving us another look now because of version 10.
+"
+Person0,"So it's been a great door opener.
+"
+Person0,"I see a lot of activity and a lot of traffic.
+"
+Person0,"Of late I've taken the reading the lead logs that are coming in.
+"
+Person0,"The lead logs are looking longer to me, so I'm very interested in that.
+"
+Person0,"Regarding desktop, I think desktop is a part of some of our deals, and it's more and more often that people are asking us to include it.
+"
+Person0,"It's been helpful.
+"
+Person0,"I think the general headcount levels have stabilized.
+"
+Person0,"We look from time to time at anything we might do to be more efficient.
+"
+Person0,"As a practical matter, I think we are at a stable point and our focus right now shifts to growth.
+"
+Person0,"I want to thank everybody for your time today.
+"
+Person0,"Thanks for being a shareholder.
+"
+Person0,"If you're a shareholder, we think appreciate your support.
+"
+Person0,"I will look forward to speaking with you again in 12 more weeks.
+"
+Person0,"Have an excellent holiday season.
+"
+Person0,"All the best.
+"
