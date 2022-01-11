@@ -32,9 +32,9 @@ FFMPEG
 
 ### How to execute the code
 
-Write a caller program to pass parameters into the execution of code. This code takes 8 parameters in total.
+Please run a caller program to pass parameters into the execution of code. There are 8 parameters to be set up in total.
 
-Example of how to call it:
+Example use case:
 
 ```
 python3.5 alignmentCore.py FolderPath(CompanyCode_YearMonthDay) TextPath(WorkDirectory/CompanyCode_YearMonthDay) AudioPath(WorkDirectory/CompanyCode_YearMonthDay/CompanyCode_YearMonthDay) AudioFormat(Eg."mp3") WorkDirectory LogFileName(Eg."log1.txt")
@@ -43,7 +43,7 @@ python3.5 alignmentCore.py FolderPath(CompanyCode_YearMonthDay) TextPath(WorkDir
 # Citation
 
 ```bibtex
-@inproceedings{10.1145/3340531.3412879,
+@inproceedings{CIKM2020MAEC,
 author = {Li, Jiazheng and Yang, Linyi and Smyth, Barry and Dong, Ruihai},
 title = {MAEC: A Multimodal Aligned Earnings Conference Call Dataset for Financial Risk Prediction},
 year = {2020},
@@ -78,4 +78,4 @@ This dataset and iterative forced alignment code is licensed under a
 
 # Acknowledgments
 
-* This research was supported by Science Foundation Ireland (SFI) under Grant Number SFI/12/RC/2289_2
+* The research project was supported by Science Foundation Ireland (SFI) under Grant Number SFI/12/RC/2289_2.
